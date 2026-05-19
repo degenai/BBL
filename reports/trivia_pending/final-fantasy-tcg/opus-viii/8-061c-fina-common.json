@@ -1,0 +1,42 @@
+{
+  "card_name": "Fina (Common)",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-061C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure is Fina from Final Fantasy Brave Exvius. Card name on the card is 'Fina'; the white-purple layered dress, light hair with bow accessory, and bow weapon match canonical FFBE Fina character design as depicted across Square Enix promotional art and the Final Fantasy Wiki. The FFTCG Opus VIII release was confirmed to feature Fina as a FFBE character at both Legend and Common rarity. IP verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fina received dual prints in Opus VIII: the Legend rarity 8-060L (the high-value chase card, 6cp 9000 Power Forward with a Wind-cost upgrade path and two selectable on-entry effects) and this Common rarity 8-061C (a 3cp 7000 Power Forward with a simpler activation ability). The dual-print structure is a deliberate FFTCG design tool for main characters of featured IPs, ensuring the character is accessible at both the chase-rare and budget tier within the same set. [FFTCG Crystarium: Opus VIII Review; Square Enix Opus VIII announcement]",
+      "sources": ["FFTCG Crystarium: How to Win Limited Opus VIII Review", "na.finalfantasy.com/news/1043"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Fina (8-061C) is a 3-cost Wind element Forward (7,000 Power, White Mage — FFBE). Her ability: when Fina enters the field, choose 1 Wind Character you control and activate it; when she leaves the field into the Break Zone, choose 1 Character you control and activate it. The dual-trigger design makes her both an on-entry value piece and a break-zone resource — unusually efficient for a Common rarity, rewarding Wind-element deck construction. Rated 2.5/5 in the Opus VIII limited format review due to the format's thin Wind Character pool at that time. [FFTCG Crystarium: How to Win Limited Opus VIII Review]",
+      "sources": ["FFTCG Crystarium: How to Win Limited Opus VIII Review", "WebSearch: Fina 8-061C card abilities"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Fina's lore in FFBE: she is a mysterious girl who emerged from the Crystal of Earth with no memories beyond her own name, having been sealed within a crystal for hundreds of years. She grants Rain and Lasswell the power of Visions so they can save the world of Lapis from the Sworn Six of Paladia. She wields a bow called Reincarnation in battle. Despite appearing guileless, her white magic and archery suggest she carries hidden power — a central FFBE narrative mystery that pays off across three seasons of story. [Final Fantasy Wiki: Fina (Brave Exvius)]",
+      "sources": ["Final Fantasy Wiki: Fina (Brave Exvius)", "WebSearch: FFBE Fina character lore"]
+    },
+    {
+      "category": "design",
+      "text": "Opus VIII features the full FFBE lead trio — Rain (8-021R), Lasswell (8-043H), and Fina in two versions (8-060L, 8-061C) — as a deliberate Square Enix product decision to introduce FFBE with its complete opening-arc party. The dual-print for Fina specifically (Legend + Common) reflects her status as the mechanical and narrative axis of the FFBE trio: she grants the party the Visions power that drives the game's core mechanic, mirrored in the FFTCG by her on-entry and on-exit activation abilities that regenerate party resources. [na.finalfantasy.com/news/1043; Final Fantasy Wiki: Final Fantasy Brave Exvius]",
+      "sources": ["na.finalfantasy.com/news/1043", "Final Fantasy Wiki: Fina (Brave Exvius)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fina (Legend)", "set": "Opus VIII", "note": "8-060L — high-rarity dual print of the same character in the same set"},
+    {"name": "Rain (Rare)", "set": "Opus VIII", "note": "8-021R — Rain is the leader of the FFBE trio; IP-verified in corpus"},
+    {"name": "Lasswell (Foil)", "set": "Opus VIII", "note": "8-043H — Lasswell is Fina's fellow party member; Hero rarity, in-corpus"},
+    {"name": "Fina (War of the Visions)", "set": "other", "note": "Fina appears in the War of the Visions: FFBE spin-off as a separate card entity"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

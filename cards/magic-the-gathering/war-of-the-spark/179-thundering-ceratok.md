@@ -38,7 +38,7 @@ average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-19
 date_added: 2026-05-06
-last_seen: 2026-05-18
+last_seen: 2026-05-19
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

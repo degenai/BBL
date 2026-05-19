@@ -1,0 +1,42 @@
+{
+  "card_name": "Mighty Attack Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-038",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure is Son Goku in base form. Card name explicitly names 'Son Goku'; the black spiky hair, orange-and-dark Turtle School gi, and forward-lunging fist-strike pose are canonical visual identifiers of base-form Goku as depicted across Toriyama/Toei Dragon Ball franchise output. Bandai character tag confirmed as 'Son Goku'. IP verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (DBS-B02), released February-March 2018, is the home set for this card. At the Uncommon rarity slot, BT2-038 occupies the mass-availability tier of the set — the cards that every pack buyer pulls multiples of and that define the practical card-pool for new players. Bandai's BT2 design philosophy placed aggressive base-form Goku prints at lower rarities to enable entry-level Saiyan-blue deck construction even without Super Rares or Secret Rares. [WebSearch: DBS B02 Union Force Checklist; dbs-cardgame.com card list]",
+      "sources": ["WebSearch: Dragon Ball Super Union Force checklist", "dbs-cardgame.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT2-038 is an Uncommon Blue Battle card (15,000 Power, cost 3). The lunging-punch composition directly maps to the DBS card game's [Dual Attack] or forward-damage keyword set frequently assigned to base-form Goku Uncommons in early sets — low-cost aggressive pressure pieces designed to chain into higher-cost Goku Evolve targets. The card serves the BT2 blue-Saiyan tempo strategy as an early-game threat that the opponent must answer or absorb damage against. [WebSearch snippet: BT2-038 card details via Mox in the Hole listing]",
+      "sources": ["WebSearch: BT2-038 Mighty Attack Son Goku card details"]
+    },
+    {
+      "category": "design",
+      "text": "Base-form Goku prints at Uncommon rarity serve a specific design function in the DBS card game: they act as Evolve bases for higher-rarity Goku cards in the same or subsequent sets. BT2-038's base-form blue-energy depiction is consistent with Bandai's design-team decision to place base-Goku in blue (representing Universe 7 and the Saiyan-blue archetype) while Super Saiyan Goku prints appear in red and green depending on the arc. The blue-base/gold-SS split is a color-coding convention established across BT1 and BT2. [dbs-cardgame.com; DBSCG strategy page: Union Force]",
+      "sources": ["dbs-cardgame.com", "dbs-cardgame.com/us-en/strategy/union-force"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Union Force 'Mighty Heroes' Expansion Deck (released alongside the BT2 booster on March 23, 2018) featured Goku as the deck's primary wincon identity, with the 14 limited cards in that product designed to synergize with the BT2 booster's Saiyan-ensemble blue shell. BT2-038 exists within the broader Union Force design space where Bandai experimented with the format's first supplementary product line. [WebSearch: Union Force Expansion Decks 2018; dbs-cardgame.com product page]",
+      "sources": ["WebSearch: Union Force Expansion Decks 2018", "dbs-cardgame.com product page DBS-B02"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Determined Striker SSB Son Goku", "set": "Union Force", "note": "BT2-037 — in-corpus same-set companion: SSB form, Rare rarity"},
+    {"name": "Super Saiyan Son Goku", "set": "Union Force", "note": "BT2-005 — same set, Super Saiyan form"},
+    {"name": "Bundle of Curiosity Son Goku", "set": "Union Force", "note": "BT2-072 — same set, alternate Goku print in the opposite color"},
+    {"name": "Awakening Rage Son Goku", "set": "Galactic Battle", "note": "BT1-059 — in-corpus predecessor: same character, previous set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

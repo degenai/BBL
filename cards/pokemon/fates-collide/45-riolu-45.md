@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.22
 market_price_as_of: 2026-05-19
 date_added: 2026-05-16
-last_seen: 2026-05-18
+last_seen: 2026-05-19
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via pokemontcg for set 'Fates Collide'

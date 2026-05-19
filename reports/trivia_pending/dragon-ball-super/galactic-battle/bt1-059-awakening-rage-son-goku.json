@@ -1,0 +1,42 @@
+{
+  "card_name": "Awakening Rage Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-059",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure is Son Goku in Super Saiyan transformation. Card name explicitly names 'Son Goku'; the golden spiky hair, orange-and-dark gi, and screaming mid-transformation energy-burst composition are canonical visual identifiers of the Son Goku character across all Toriyama/Toei Dragon Ball franchise output. The DBS-B01 Galactic Battle card database confirms the Bandai character tag 'Son Goku' for BT1-059. IP verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (DBS-B01) was the inaugural booster set for the Dragon Ball Super Card Game, released July 28, 2017 — the card game's first commercial release. The set's 114-card pool spans the Battle of Gods, Resurrection F, and Universe 6 Tournament arcs of Dragon Ball Super, as well as the original Broly film continuity, establishing the multi-arc cross-set design pattern that every subsequent DBS-B series would follow. [WebSearch: TCDB 2017 Dragon Ball Super Card Game BT1 Galactic Battle]",
+      "sources": ["TCDB: 2017 Dragon Ball Super Card Game BT1 Galactic Battle", "WebSearch snippet: Galactic Battle Checklist, Bleeding Cool"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-059 is a Super Rare Green Battle card with 25,000 Power and an Evolve ability (GGG2: Son Goku) that grants [Double Strike]. A [Permanent] effect upgrades this to [Triple Strike] if Krillin is in the player's Drop Area, rewarding deck-building investment in the Turtle School ensemble. Its [Auto] on-play wipes any number of the opponent's Battle Cards whose combined cost does not exceed 6 — a sweeper effect significant in the format's early-game field development. [TrollAndToad card listing; WebSearch snippet: DBS BT1-059 abilities]",
+      "sources": ["TrollAndToad: Awakening Rage Son Goku BT1-059", "WebSearch snippet: DBS BT1-059 card abilities"]
+    },
+    {
+      "category": "design",
+      "text": "The card depicts Son Goku in a Super Saiyan awakening moment — the mid-scream full-body energy eruption that is one of the most iconic recurring visual motifs in Toei Animation's Dragon Ball Z and Dragon Ball Super production. Bandai's character tag for BT1-059 is 'Son Goku' (the standard Z-and-DBS canonical adult continuity), era: Frieza Saga, consistent with the set's Resurrection F story arc coverage. The 'Awakening Rage' title directly references the emotional trigger for Super Saiyan transformation in Dragon Ball Z canon — extreme emotional distress as the catalyst for Saiyan power escalation. [dbs-cardgame.com card database; Dragon Ball Wiki: Super Saiyan]",
+      "sources": ["dbs-cardgame.com", "Dragon Ball Wiki: Super Saiyan"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Son Goku's Super Saiyan Blue (SSGSS) form was the promotional centerpiece of Galactic Battle's marketing; BT1-030 and BT1-032 are the set's two dedicated SSB Goku prints at Rare and Super Rare respectively. BT1-059 occupies the earlier Super Saiyan transformation tier in the same set — the design team layered Goku's canonical transformation stages across multiple rarity slots, reflecting Bandai's intent to make the first set a showcase of the franchise's full transformation arc. [Bleeding Cool: Dragon Ball Super Card Game Galactic Battle Checklist]",
+      "sources": ["Bleeding Cool: Dragon Ball Super Card Game Galactic Battle Checklist"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Overflowing Spirit SSGSS Son Goku", "set": "Galactic Battle", "note": "BT1-032 — same set, higher-tier SSB form, part of the transformation-arc stack"},
+    {"name": "Son Goku // Super Saiyan Blue Son Goku", "set": "Galactic Battle", "note": "BT1-030 — the Rare SSB Goku print in the same set"},
+    {"name": "Determined Striker SSB Son Goku", "set": "Union Force", "note": "BT2-037 — direct in-corpus companion: same character, next set, SSB form"},
+    {"name": "Mighty Attack Son Goku", "set": "Union Force", "note": "BT2-038 — in-corpus companion: base-form Goku in the same second set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

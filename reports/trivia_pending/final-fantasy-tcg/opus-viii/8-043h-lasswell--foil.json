@@ -1,0 +1,42 @@
+{
+  "card_name": "Lasswell",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-043H",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure is Lasswell from Final Fantasy Brave Exvius. Card name on the card is 'Lasswell'; the layered purple-dark armor, long dark hair, and sword at hip match the canonical FFBE character design for Lasswell as depicted in Square Enix's FFBE promotional art and the Final Fantasy Wiki. The FFTCG Opus VIII release was confirmed to feature FFBE characters including Lasswell (Square Enix Opus VIII press release). IP verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (released March 22, 2019) was the first FFTCG set to feature Final Fantasy Brave Exvius characters in significant numbers — Square Enix's press release specifically named Lasswell as one of the set's featured characters. FFBE had been teased in Opus VII; Opus VIII delivered the full FFBE card expansion with multiple characters from the mobile RPG. [Square Enix Press: 'LATEST FINAL FANTASY TRADING CARD GAME OPUS VIII SET NOW AVAILABLE'; na.finalfantasy.com/news/1043]",
+      "sources": ["press.na.square-enix.com: Opus VIII announcement", "na.finalfantasy.com/news/1043"]
+    },
+    {
+      "category": "design",
+      "text": "Lasswell is a 4-cost Ice/Fire element Forward (8,000 Power, Knight — FFBE) with a control-oriented ability set: on entering the field or attacking, he chooses 1 Forward and, if it received damage this turn, dulls and freezes it — a targeted lock that grows more reliable as the game state develops. His active ability 'Azure Sky' deals 8,000 damage to one Forward and dulls and freezes another, making him a Must Kill threat in the Opus VIII limited format per the FFTCG Crystarium Opus VIII limited review (rated 4.5/5). [FFTCG Crystarium: How to Win Limited Opus VIII Review; WebSearch: Lasswell 8-043H card abilities]",
+      "sources": ["FFTCG Crystarium: How to Win Limited Opus VIII Review", "WebSearch: Lasswell 8-043H card text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Lasswell's lore in FFBE: he is Rain's childhood friend and adopted brother, raised by Sir Raegen (Rain's father) after his own parents were killed. He wields the sword Purple Lightning, which is one of the three objects featured in the FFBE game's logo alongside Rain's sword and Fina. His adopted-family backstory gives him an inferiority complex toward Rain's natural talent while simultaneously making their bond one of the game's central emotional pillars. [Final Fantasy Wiki: Lasswell; WebSearch: FFBE Lasswell lore]",
+      "sources": ["Final Fantasy Wiki: Lasswell (Brave Exvius)", "WebSearch: FFBE Lasswell character background"]
+    },
+    {
+      "category": "design",
+      "text": "Opus VIII included both Rain (8-021R, Rare) and Lasswell (8-043H, Hero) as the canonical FFBE protagonist pair, establishing their debut together in the FFTCG. Fina (8-060L Legend, 8-061C Common) also received dual prints in the same set — the three party members of FFBE's opening arc all landing in Opus VIII simultaneously was a deliberate Square Enix product decision to introduce the title with its full lead-trio. [8-021R Rain Rare: corpus Trivia section; corpus: 8-060l-fina-legend.md exists in inventory]",
+      "sources": ["corpus: 8-021r-rain-rare.md Trivia section", "na.finalfantasy.com/news/1043"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rain (Rare)", "set": "Opus VIII", "note": "8-021R — Rain is Lasswell's adopted brother and canonical FFBE companion; verified IP in corpus"},
+    {"name": "Fina (Legend)", "set": "Opus VIII", "note": "8-060L — Fina is the third member of the FFBE lead trio; Legend rarity"},
+    {"name": "Fina (Common)", "set": "Opus VIII", "note": "8-061C — Common rarity Fina print in the same set; in-corpus"},
+    {"name": "Lasswell", "set": "Opus VII", "note": "Lasswell's first FFTCG appearance was teased in Opus VII before the full Opus VIII expansion"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

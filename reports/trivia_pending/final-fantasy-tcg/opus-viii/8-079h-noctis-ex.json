@@ -1,0 +1,42 @@
+{
+  "card_name": "Noctis EX",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-079H",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure is Noctis Lucis Caelum from Final Fantasy XV. Card name on the card is 'Noctis EX'; the all-black tactical outfit, dark swept hair, and contemporary-casual aesthetic are canonical visual identifiers of Noctis from FFXV across Square Enix promotional art. The FFTCG Opus VIII press release confirmed Noctis from Final Fantasy XV as a featured character. The card's job line 'Category XV' further confirms the IP. IP verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (March 22, 2019) introduced Final Fantasy XV characters to the FFTCG for the first time, with Noctis Lucis Caelum as the title's primary representative. Square Enix's press release specifically named Noctis as one of the set's featured characters. The companion cards Ignis (8-072R) and party members appear in the same set, making Opus VIII the definitive FFXV FFTCG debut set. [press.na.square-enix.com: Opus VIII announcement; na.finalfantasy.com/news/1043]",
+      "sources": ["press.na.square-enix.com: Opus VIII announcement", "na.finalfantasy.com/news/1043"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Noctis (8-079H) is a 2-cost Earth element Forward (5,000 Power, Warrior of Light — Category XV) with an EX Burst ability: when he enters the field, reveal the top 2 cards of your deck, add 1 Category XV card among them to hand, and return the rest to the bottom of the deck. He also has Warp-Strike (S Ea): choose 1 Monster, break it. The EX Burst makes him a functional Category XV tutor whenever he hits the Damage Zone. In the Opus VIII limited format, however, the thin XV card pool made the EX Burst low-value — rated 0.5/5 by FFTCG Crystarium, largely unplayable in limited without XV density. [FFTCG Crystarium: How to Win Limited Opus VIII Review; WebSearch: 8-079H Noctis abilities]",
+      "sources": ["FFTCG Crystarium: How to Win Limited Opus VIII Review", "WebSearch: FFTCG 8-079H Noctis card text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Noctis Lucis Caelum is the crown prince and sole playable protagonist of Final Fantasy XV (Square Enix, 2016). The Caelum dynasty guards the Crystal of Lucis, and Noctis was chosen by the Crystal at age 5 as the 'True King' — a prophesied figure destined to purge the world of the Starscourge at the cost of his own life. His signature abilities include Warp-Strike (teleporting to a thrown weapon) and Royal Arms (weapons inherited from ancestral Lucian kings). The Ring of the Lucii is the family heirloom that channels the Crystal's power and is inherited upon each king's death. [Final Fantasy Wiki: Noctis Lucis Caelum; Wikipedia: Characters of Final Fantasy XV]",
+      "sources": ["Final Fantasy Wiki: Noctis Lucis Caelum", "Wikipedia: Characters of Final Fantasy XV"]
+    },
+    {
+      "category": "design",
+      "text": "The 'EX' in 'Noctis EX' is the official printed card name, not a rarity indicator — a FFTCG naming convention used across Opus VII and Opus VIII for Noctis cards (TCGplayer lists both an Opus VII 'Noctis EX' and an Opus VIII 'Noctis EX' as distinct cards). The convention may reference the cross-media promotional treatment Noctis received across Square Enix properties (FFXIV crossover, Tekken 7 DLC, etc.) but the FFTCG has not officially explained the naming distinction. Noctis later received a card of the week spotlight for Opus XII, suggesting ongoing investment in the character across the FFTCG card line. [TCGplayer: Noctis EX Opus VII; TCGplayer: Noctis EX Opus VIII; fftcg.square-enix-games.com/en/news/opus-xii-card-of-the-week-noctis]",
+      "sources": ["TCGplayer: Noctis EX Opus VII product page", "TCGplayer: Noctis EX Opus VIII product page", "Square Enix: Opus XII Card of the Week — Noctis"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ignis EX", "set": "Opus VIII", "note": "8-072R — Ignis is Noctis's retainer and canonical FFXV party member; Rare rarity, same set, in-corpus"},
+    {"name": "Noctis EX", "set": "Opus VII", "note": "Noctis's first FFTCG appearance was in Opus VII before the full Opus VIII expansion"},
+    {"name": "Noctis", "set": "Opus XII", "note": "Noctis received a Card of the Week spotlight in Opus XII — ongoing Square Enix investment in the character"},
+    {"name": "Noctis Lucis Caelum Card", "set": "Final Fantasy XIV", "note": "Noctis appears as a Triple Triad card in FFXIV from the FFXV crossover event"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

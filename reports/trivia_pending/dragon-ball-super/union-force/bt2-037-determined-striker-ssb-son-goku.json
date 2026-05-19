@@ -1,0 +1,42 @@
+{
+  "card_name": "Determined Striker SSB Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-037",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure is Son Goku in Super Saiyan Blue (SSGSS) form. Card name explicitly names 'SSB Son Goku'; the blue-tinted spiky hair and orange-and-dark Turtle School gi with blue-energy aura are canonical visual identifiers of Goku's SSGSS form per Toei animation conventions. Bandai character tag confirmed as 'Son Goku', era: Future Trunks Saga. IP verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (DBS-B02) was the second main booster set, released February-March 2018. It expanded to 123 cards and introduced the Secret Rare rarity tier — the first time the DBS card game offered a rarity tier above Super Rare. The set thematically centers on the Buu Saga and Future Trunks Saga, introducing Vegito (the Potara-Fusion combined form) and Zamasu as signature antagonist at Rare and Super Rare respectively. [WebSearch snippet: Bleeding Cool Union Force Checklist; WebSearch: DBS BT2 release date]",
+      "sources": ["Bleeding Cool: Dragon Ball Super Card Game Union Force Checklist", "WebSearch: DBS BT2 Union Force release"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT2-037 is a Rare Blue Battle card (20,000 Power) whose Counter ability triggers when the player has 3 or fewer life cards remaining: placing 2 Saiyan cards from hand in the Drop Area reduces the energy cost by 3, enabling a near-free defensive play. The design rewards running a Saiyan-heavy blue deck and punishes aggressive life-denial strategies by giving the defending player a late-game tempo reversal. [WebSearch snippet: BT2-037 card abilities via CoolStuffInc listing]",
+      "sources": ["CoolStuffInc: Determined Striker SSB Son Goku", "WebSearch: BT2-037 abilities"]
+    },
+    {
+      "category": "design",
+      "text": "Bandai's character tag for BT2-037 is 'Son Goku', era: Future Trunks Saga — the arc where Super Saiyan Blue debuts in Dragon Ball Super as the combined mastery of Super Saiyan God ki and the Super Saiyan transformation. The 'Determined Striker' title and the card's calm-focus composition (composed stance rather than screaming transformation) reflect the DBS design team's thematic positioning of SSB as a controlled, mastered state rather than the emotional-override burst of the original SS transformation. [dbs-cardgame.com card database; Dragon Ball Wiki: Super Saiyan Blue]",
+      "sources": ["dbs-cardgame.com", "Dragon Ball Wiki: Super Saiyan Blue"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Union Force is also the first DBS set to introduce Expansion Decks — the 'Dark Demon's Villains' and 'Mighty Heroes' themed deck-boxes with 14 limited cards each — establishing a supplementary product format that would recur across the card game's lifespan. BT2's Mighty Heroes Expansion Deck centered on the canonical Saiyan-hero ensemble (Goku, Vegeta, Gohan, Trunks) as the design counterweight to the Dark Demon's Villains deck. [WebSearch snippet: Union Force Expansion Decks]",
+      "sources": ["WebSearch: Dragon Ball Super Union Force Expansion Decks 2018"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Awakening Rage Son Goku", "set": "Galactic Battle", "note": "BT1-059 — in-corpus predecessor: same character, previous set, SS form"},
+    {"name": "Mighty Attack Son Goku", "set": "Union Force", "note": "BT2-038 — in-corpus same-set companion: base-form Goku"},
+    {"name": "Repeated Force Vegito", "set": "Union Force", "note": "BT2-012 — same set, Potara-Fusion combined form; Goku is one component"},
+    {"name": "Super Saiyan Son Goku", "set": "Union Force", "note": "BT2-005 — same set, alternative Goku print at different rarity"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

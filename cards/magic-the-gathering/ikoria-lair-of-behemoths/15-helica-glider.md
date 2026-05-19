@@ -17,7 +17,7 @@ average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-19
 date_added: 2026-05-17
-last_seen: 2026-05-18
+last_seen: 2026-05-19
 ---
 
 # Helica Glider (Ikoria: Lair of Behemoths)

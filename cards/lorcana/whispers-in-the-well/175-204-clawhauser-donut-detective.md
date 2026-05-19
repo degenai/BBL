@@ -37,7 +37,7 @@ average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-18
+last_seen: 2026-05-19
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/175_cb6a61eec7d560470604c0ce6606a834f6609c7e.jpg
 art_match_confidence: high
 needs_manual_review: false
