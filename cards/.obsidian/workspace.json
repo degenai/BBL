@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5d13a2ff560c893a",
+        "id": "c583387e55b11461",
         "type": "tabs",
         "children": [
           {
-            "id": "23e546f16fd65670",
+            "id": "d8f5c0117373da05",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "lorcana/reign-of-jafar/192-204-zipper-flying-ranger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "192-204-zipper-flying-ranger"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "454ec48b3e112939",
@@ -180,8 +183,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "23e546f16fd65670",
+  "active": "d8f5c0117373da05",
   "lastOpenFiles": [
+    "lorcana/reign-of-jafar/114-204-he-who-steals-and-runs-away.md",
+    "pokemon/battle-styles/065-163-orbeetle--reverse-holofoil.md",
+    "pokemon/battle-styles/105-163-honedge.md",
+    "pokemon/battle-styles/095-163-houndour.md",
+    "pokemon/battle-styles/038-163-corphish.md",
+    "Untitled.md",
+    "pokemon/darkness-ablaze/007-189-simisage.md.tmp.17384.6e9cd0d567ae",
+    "_characters/elemental-monkey-trio.md.tmp.17384.7273f7468641",
+    "_characters/elemental-monkey-trio.md.tmp.17384.f1aa11e1333d",
+    "pokemon/black-bolt/018-086-simipour.md.tmp.17384.a017f1138cce",
+    "_artists/kirisaki.md",
+    "lorcana/whispers-in-the-well/61-204-begone.md.tmp.17384.808d21418eaf",
+    "lorcana/whispers-in-the-well/61-204-begone.md.tmp.17384.c9a17128cb8d",
+    "lorcana/whispers-in-the-well/61-204-begone.md.tmp.17384.a92ff6d2dc45",
+    "lorcana/azurite-sea/163-204-sail-the-azurite-sea.md.tmp.17384.064b88e28254",
+    "final-fantasy-tcg/opus-viii/8-072r-ignis-ex--foil.md.tmp.17384.39d810f8d9c4",
+    "final-fantasy-tcg/opus-viii/8-072r-ignis-ex--foil.md.tmp.17384.145513a2fc53",
     "_images/weiss-schwarz/the-seven-deadly-sins/sds-sx03-100-cc-new-partnership.png",
     "_images/weiss-schwarz/the-seven-deadly-sins/sds-sx03-098-c-demon-blood.png",
     "_images/weiss-schwarz/the-seven-deadly-sins/sds-sx03-097-c-jericho-embarassing-state.png",
@@ -192,12 +212,8 @@
     "_images/weiss-schwarz/the-seven-deadly-sins/sds-sx03-084-u-guila-spending-time-at-home.png",
     "_images/weiss-schwarz/the-seven-deadly-sins/sds-sx03-073-c-elaine-left-behind.png",
     "_images/weiss-schwarz/the-seven-deadly-sins/sds-sx03-072-c-ban-striking-a-deal.png",
-    "_images/weiss-schwarz/the-seven-deadly-sins/sds-sx03-068-u-ban-facing-a-demon.png",
     "pokemon/twilight-masquerade/062-167-iron-bundle.md",
     "pokemon/trick-or-trade-booster-bundle-2024/077-162-scream-tail.md",
-    "pokemon/trick-or-trade-booster-bundle-2024",
-    "_images/pokemon/trick-or-trade-booster-bundle-2024",
-    "_images/pokemon/prismatic-evolutions",
     "pokemon/destined-rivals/141-182-skarmory.md",
     "pokemon/destined-rivals/108-182-mudsdale.md",
     "pokemon/destined-rivals/107-182-mudbray.md",
@@ -214,19 +230,6 @@
     "pokemon/destined-rivals/021-182-smoliv.md",
     "pokemon/destined-rivals/002-182-yanma.md",
     "pokemon/white-flare/016-086-litwick.md",
-    "pokemon/vivid-voltage/011-185-nuzleaf.md",
-    "pokemon/temporal-forces/035-162-turtonator.md",
-    "pokemon/temporal-forces/134-162-tranquill.md",
-    "pokemon/temporal-forces/033-162-torracat.md",
-    "pokemon/temporal-forces/070-162-solosis.md",
-    "pokemon/temporal-forces/036-162-sizzlipede.md",
-    "pokemon/temporal-forces/005-162-shiftry.md",
-    "magic-the-gathering/tempest",
-    "magic-the-gathering/mirage",
-    "lorcana/wilds-unknown/180-204-young-macintosh-proud-son.md.tmp.17384.38cca3252663",
-    "lorcana/wilds-unknown/180-204-young-macintosh-proud-son.md.tmp.17384.97282e396595",
-    "lorcana/wilds-unknown/180-204-young-macintosh-proud-son.md.tmp.17384.a44a0720f812",
-    "lorcana/wilds-unknown/180-204-young-macintosh-proud-son.md.tmp.17384.72690723984f",
-    "lorcana/winterspell/168-204-darkwing-s-chair-set.md.tmp.17384.fc6bf2a72106"
+    "pokemon/vivid-voltage/011-185-nuzleaf.md"
   ]
 }

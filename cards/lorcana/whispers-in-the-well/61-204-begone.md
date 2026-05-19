@@ -51,8 +51,8 @@ mood: action
 time_of_day: day
 setting: forest
 suspected_ip: Merlin (The Sword in the Stone)
-ip_confidence: med
-ip_verified: false
+ip_confidence: high
+ip_verified: true
 tags:
   - card
   - lorcana
@@ -65,8 +65,8 @@ tags:
 
 ![61-204-begone](../../_images/lorcana/whispers-in-the-well/61-204-begone.jpg)
 
-> [!warning] Suspected IP: **Merlin (The Sword in the Stone)** (confidence: med, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Merlin (The Sword in the Stone, 1963)**
+> Confirmed via flavor text attribution on Mushu Report Lorcana wiki: "Alakazam, alakazook, send this page back to its book!" is credited to Merlin. Elderly robed wizard with wand and white beard matches Merlin's canonical visual. Disney-owned IP (internal to Lorcana's license); no external IP risk.
 
 An elderly robed figure stands at the right edge of the composition, wand raised in a commanding gesture, white beard visible. A massive spiral of pink and white magical energy expands leftward from the wand's direction, engulfing what appears to be a book or object visible at the far left of the frame. The setting is an outdoor scene framed by a dark arching tree or cavern entry, with a teal-blue landscape visible in the mid-distance. Thorny branches frame the upper arch. The scene captures a moment of magical banishment — something is being sent away by force of will and spell.
 
@@ -82,3 +82,16 @@ An elderly robed figure stands at the right edge of the composition, wand raised
 **Iconography:** magic spiral, wand
 **Genre cues:** fantasy, animation
 
+## Trivia
+
+- **Set context** — Whispers in the Well is the tenth Disney Lorcana set (pre-release November 7, 2025; worldwide November 14, 2025). The set's theme is film noir, mystery, and supernatural horror, taking players into the Ink Well — the in-universe source of all Glimmers — where ghostly "Whisper" glimmers have emerged. A new mechanic, Boost, lets Whisper-type characters place the top card of their deck facedown beneath them to unlock abilities. `[Mushu Report wiki: Whispers in the Well; MiceChat: Set 10 reveal]`
+- **Flavor text** — "Alakazam, alakazook, send this page back to its book!" — Merlin. The incantation is a rhyming banishment spell in the style of Merlin's whimsical verbal magic from Disney's The Sword in the Stone (1963). The card's oracle text — return a character, item, or location with cost 3 or less to their player's hand — directly mechanizes the concept of magical banishment. `[Card frontmatter; Mushu Report wiki: Merlin (character)]`
+- **IP context** — The depicted figure is Merlin from The Sword in the Stone (1963). Merlin has the largest named card presence of any Sword in the Stone character in Lorcana: 11 named Merlin cards across sets 1–10 (Mushu Report character page), spanning Amethyst and Sapphire ink. Begone! (set 10) continues a line of Merlin-attributed action cards beginning in set 1 with Befuddle and Develop Your Brain. `[Mushu Report wiki: Merlin (character)]`
+- **Mechanical profile** — 3-cost Amethyst Action. Bounce effect returning a target with cost 3 or less to hand. Amethyst is Lorcana's ink color most associated with magic and sorcery; bounce effects in Amethyst are a recurring mechanical identity across the card pool. Useful in tempo-control builds for disrupting low-cost threats and resetting key opponent pieces. `[Card frontmatter; TCGPlayer: Begone! product listing]`
+- **Design** — Illustrated by Agathe Molin. `[Card frontmatter]`
+
+### Related cards
+- Merlin - Self-Appointed Mentor (The First Chapter) — Sapphire Common; Merlin's first Lorcana card appearance
+- Merlin - Shapeshifter (Rise of the Floodborn) — Amethyst Rare; Merlin's animal-transformation sub-cycle across set 2
+- Merlin - Completing His Research (Shimmering Skies) — Amethyst Uncommon; close color/character companion
+- Befuddle (The First Chapter) — Merlin-attributed action card from set 1; antecedent to Begone! in the Merlin spell-card tradition

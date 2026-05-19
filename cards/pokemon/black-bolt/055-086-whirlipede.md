@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - insect
+  - armor
+  - spinning
+  - autumn
+  - forest
+  - leaves
+  - shell
+  - nature
+  - motion
+  - bug
+  - spiral
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - no-face
+  - creature
+  - bug-type
 reference_image: cards/_images/pokemon/black-bolt/055-086-whirlipede.png
 average_cost_paid: 0
 market_price: 0.08
@@ -27,6 +44,33 @@ oracle_text: "Venoshock (Colorless) 30+: If your opponent's Active Pokémon is P
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: day
+setting: forest
+suspected_ip: Whirlipede
+ip_confidence: high
+ip_verified: false
 ---
 
 # Whirlipede (Black Bolt)
+
+## Vision
+
+![055-086-whirlipede](../../_images/pokemon/black-bolt/055-086-whirlipede.png)
+
+> [!warning] Suspected IP: **Whirlipede** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A heavily armored, disc-shaped creature with a hard shell bearing spiral or circular markings dominates the center of the frame. It appears mid-spin, with dry autumn leaves swirling around it against a backdrop of warm brown and orange forest ground. The creature's shell is dark grey-brown and the scene is filled with the visual energy of motion. Fallen leaves and forest debris surround the action.
+
+**Subject:** Whirlipede, an armored centipede-like Pokemon with a hard spiral shell, spinning through an autumn forest
+
+**Composition:** mid-shot, action, figures: solo, facing: n/a
+**Setting:** forest, day, calm
+**Foreground:** Whirlipede spinning, surrounded by swirling autumn leaves and forest debris  *(palette: dark-grey, brown, orange, tan)*
+**Background:** Autumn forest floor with fallen leaves and warm earth tones  *(palette: orange, brown, tan, dark-brown)*
+**Mood / lighting:** action, soft
+**Emotion read:** aggressive, defensive, kinetic
+**Creatures:** centipede, insect, armored-creature
+**Genre cues:** anime, fantasy
+

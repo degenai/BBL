@@ -1,0 +1,41 @@
+{
+  "card_name": "Sail the Azurite Sea",
+  "game": "Lorcana",
+  "set": "Azurite Sea",
+  "collector_number": "163/204",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag. Card is a narrative Action card depicting ships and seas with no named character.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Azurite Sea is the sixth Disney Lorcana set, released November 15, 2024. The set's central conceit is players following an ancient map into an uncharted location called the Azurite Sea — a newly coined Lorcana-original location, not drawn from any specific Disney film, though populated with characters from across the Disney catalog including first appearances from Big Hero 6 and Rescue Rangers. The Enchanted-rarity cards are designed to look like aged nautical maps and guidebooks. [lorcana.gg: Azurite Sea set page; LorcanaPlayer.com: Azurite Sea set reveal]",
+      "sources": ["lorcana.gg Azurite Sea set page", "LorcanaPlayer.com Azurite Sea reveal article"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"You need a good plan and even better luck to make it across these treacherous waters.\" The speaker is unnamed — a maxim-style warning rather than attributed dialogue. `[Lorcana card frontmatter / LorcanaPlayer.com card page]`",
+      "sources": ["Card frontmatter", "LorcanaPlayer.com card page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Sail the Azurite Sea is a 2-cost Sapphire Action that lets you ink an additional card this turn AND draw a card — a double-function ramp spell. Competitive Sapphire lists run four copies as a core engine piece, often alongside Tipo – Growing Son, to achieve four ink by turn 3 and skip the usual three-cost slot. When paired with Oswald the Lucky Rabbit (who can play items for free), the draw-plus-ink value compounds further. The card is considered a staple of Sapphire ramp archetypes. [LorcanaPlayer.com: Azurite Sea Starter Deck review; ScreenRant: 10 Best Azurite Sea Cards]",
+      "sources": ["LorcanaPlayer.com Azurite Sea starter deck review", "ScreenRant: 10 Best Azurite Sea Cards"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Valerio Buonfantino. The card is a Common with a foil variant that has appeared on eBay and Walmart listings. No named Disney characters appear in the art — the composition is pure nautical scene-setting, consistent with Azurite Sea's emphasis on voyage and discovery over character portraiture. `[Card frontmatter; Lorcana.gg card database; eBay listing]`",
+      "sources": ["Card frontmatter (artist field)", "Lorcana.gg card database", "eBay listing (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tipo - Growing Son", "set": "Azurite Sea or earlier", "note": "Standard competitive pairing with Sail the Azurite Sea for turn-3 four-ink acceleration in Sapphire ramp"},
+    {"name": "Oswald the Lucky Rabbit", "set": "Azurite Sea or earlier", "note": "His free-item ability compounds Sail the Azurite Sea's value when both are in play"},
+    {"name": "Sword in the Stone", "set": "Azurite Sea", "note": "163 neighbor in the same set; Azurite Sea card 163 is Sail the Azurite Sea, card 136 is Sword in the Stone — both in Sapphire color family"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

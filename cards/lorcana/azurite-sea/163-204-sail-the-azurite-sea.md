@@ -75,3 +75,14 @@ Two ships sail through a scene of massive, surging magical waves that swirl with
 **Iconography:** prismatic-light, magical-waves
 **Genre cues:** fantasy, adventure, disney, nautical
 
+## Trivia
+
+- **Set context** — Azurite Sea is the sixth Disney Lorcana set, released November 15, 2024. The Azurite Sea itself is a Lorcana-original location (not drawn from any specific Disney film), framed as an uncharted body of water discovered via ancient map. The set's pirate-and-voyage theme extended to its Enchanted-rarity cards, which are visually designed to resemble aged nautical maps. First appearances in the set include Big Hero 6 and Rescue Rangers characters. `[lorcana.gg: Azurite Sea set page; LorcanaPlayer.com: Azurite Sea reveal]`
+- **Flavor text** — "You need a good plan and even better luck to make it across these treacherous waters." Speaker is unnamed — a maxim-style caution rather than attributed dialogue. `[Card frontmatter; LorcanaPlayer.com card page]`
+- **Mechanical reputation** — Sail the Azurite Sea is a 2-cost Sapphire Action: ink an additional card this turn and draw a card. Competitive Sapphire ramp lists run four copies as a core engine piece, typically alongside Tipo – Growing Son, to reliably reach four ink by turn 3 and skip the usual three-cost tempo slot. The effect stacks with Oswald the Lucky Rabbit's free-item ability. Considered a staple of Sapphire acceleration archetypes. `[LorcanaPlayer.com: Azurite Sea Starter Deck review; ScreenRant: 10 Best Azurite Sea Cards]`
+- **Design** — Illustrated by Valerio Buonfantino. No named Disney characters appear in the art; the composition is pure nautical scene-setting — two ships navigating magical storm waves — consistent with the set's emphasis on voyage and discovery over character portraiture. `[Card frontmatter; lorcana.gg card database]`
+
+### Related cards
+- Tipo - Growing Son (Azurite Sea or earlier) — standard competitive pairing for Sapphire turn-3 four-ink acceleration
+- Oswald the Lucky Rabbit (Azurite Sea or earlier) — free-item ability compounds Sail the Azurite Sea's ink+draw value
+

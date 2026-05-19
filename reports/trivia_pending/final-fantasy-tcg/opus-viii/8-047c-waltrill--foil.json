@@ -1,0 +1,40 @@
+{
+  "card_name": "Waltrill",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-047C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Waltrill' and the set is Opus VIII, which Square Enix's official Opus VIII page confirms features exclusive Crystal Chronicles illustrations by Yasuhisa Izumisawa. The Final Fantasy Wiki identifies Waltrill as a character from Final Fantasy Crystal Chronicles: Echoes of Time — an ancient spirit who raised Norschtalen and serves as her magic instructor. The FFTCG card's synergy with Norschtalen (card 8-049C in same set) is a direct lore mirror of that teacher-student relationship. IP identity is explicit via card name and corroborated by the paired Norschtalen mechanic.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (released March 22, 2019) features exclusive Crystal Chronicles artwork by illustrator Yasuhisa Izumisawa, one of four exclusive-illustration tracks in the set alongside Final Fantasy Tactics Advance, Final Fantasy Legends, and Final Fantasy IX summons. The Crystal Chronicles track is notable as a rare mainstream TCG appearance for the GameCube/DS-era Crystal Chronicles subseries. [fftcg.square-enix-games.com/na/release/opus-viii]",
+      "sources": ["fftcg.square-enix-games.com Opus VIII release page"]
+    },
+    {
+      "category": "design",
+      "text": "The illustrations for Waltrill and Norschtalen in Opus VIII were drawn from a single source image — the two characters are depicted back-to-back, symbolizing Waltrill's teaching philosophy of letting Norschtalen figure things out on her own rather than direct instruction. The FFTCG Crystarium limited-format review identified this as the art source for both cards. [fftcgcrystarium.com: How to Win Limited: Opus VIII Review]",
+      "sources": ["fftcgcrystarium.com: How to Win Limited: Opus VIII Review"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Final Fantasy Crystal Chronicles: Echoes of Time (Nintendo DS / Wii, 2009), Waltrill is a spirit who discovered Norschtalen — a young Yuke — lost in a forest and raised her in his village. He serves as her magic instructor but withholds advanced magical training until she is older, a decision that frustrates her. When Waltrill is revealed to be a ghost, Norschtalen realizes her beloved village is actually the remnant of an ancient civilization. [Final Fantasy Wiki: Norschtalen; TV Tropes: Crystal Chronicles Echoes of Time characters]",
+      "sources": ["Final Fantasy Wiki: Norschtalen (WebSearch snippet)", "TV Tropes: Crystal Chronicles Echoes of Time characters"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Backup card, Waltrill enters the field and lets you place up to 2 cards from your hand at the bottom of your deck, then draw the same number — a cycle/filter effect. It also has an activated ability (dull + move to Break Zone) to draw 1 and place 1 at deck bottom, but only while you control Norschtalen (8-049C). The FFTCG Crystarium noted Waltrill's value in limited for digging toward bombs, element-fixing, clearing situational cards, and helping with backup flood/drought — and flagged the Norschtalen+Waltrill+Sherlotta trio as a coherent splash package. [fftcgcrystarium.com: How to Win Limited: Opus VIII Review; WebSearch snippet from TCG Republic]",
+      "sources": ["fftcgcrystarium.com: How to Win Limited: Opus VIII Review", "TCG Republic product listing (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Norschtalen", "set": "Opus VIII", "note": "8-049C — Waltrill's student in Crystal Chronicles lore; their card abilities are mechanically dependent on each other; illustrations drawn from one shared source image"},
+    {"name": "Sherlotta", "set": "Opus VIII", "note": "Part of the Crystal Chronicles splash trio (Norschtalen+Waltrill+Sherlotta) identified by FFTCG Crystarium for limited play"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -46,7 +46,7 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Ignis Scientia (Final Fantasy XV)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Ignis EX (Opus VIII)
@@ -55,8 +55,8 @@ ip_verified: false
 
 ![8-072r-ignis-ex--foil](../../_images/final-fantasy-tcg/opus-viii/8-072r-ignis-ex--foil.jpg)
 
-> [!warning] Suspected IP: **Ignis Scientia (Final Fantasy XV)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Ignis Scientia (Final Fantasy XV)**
+> Confirmed via card name, job line (Retainer), and EX Burst ability (tutors Noctis) — all match Ignis's canonical lore role as Noctis's royal retainer. CGI-photoreal rendering is consistent with FFXV character assets.
 
 A young male figure stands in a straight, slightly angled posture wearing a dark fitted jacket over what appears to be a dark undershirt. He has a distinctive styled undercut hairstyle with the top swept back and upward, and wears framed rectangular glasses. His expression is composed and calm. Behind him, a much larger translucent ghost-image of his face and upper body is layered into the background, rendered in pale gold-grey tones. The background is a warm pale gold gradient. The overall rendering is in the CGI-photoreal style consistent with FFXV's character assets.
 
@@ -71,4 +71,16 @@ A young male figure stands in a straight, slightly angled posture wearing a dark
 **Objects:** glasses
 **Iconography:** ghost-overlay
 **Genre cues:** fantasy, cgi-render, realistic
+
+## Trivia
+
+- **Character / lore** — Ignis Scientia is Noctis's childhood companion, royal adviser, and Crownsguard member in Final Fantasy XV. Taken to the royal castle at age 5, he was entrusted with the Crown Prince in an elder-brother capacity. As the party's tactician, driver, and chef, he represents the full-service model of aristocratic retaining — a role the card formalizes in its job line: "Retainer." His arc is distinguished by losing his eyesight mid-game and continuing to fight alongside Noctis regardless. `[Final Fantasy Wiki: Ignis Scientia (WebSearch snippet); Wikipedia: Characters of Final Fantasy XV]`
+- **Mechanical design** — Ignis EX is a 5-cost Earth-element Rare Forward (job: Retainer). The EX Burst ability triggers when the card enters the Damage Zone — you may search for a card named Noctis and add it to hand. The Overwhelm ability deals 4,000 damage to a Forward for each Category XV Forward you control, scaling with the full FFXV party (Noctis, Gladiolus, Prompto). In FFTCG, EX Burst means a card generates value even when it takes damage rather than being played directly. `[TCG Republic listing; FFTCG game rules (WebSearch snippet)]`
+- **Set context** — Opus VIII (March 22, 2019) booster draws heavily on FFXV for its Category XV Forward suite, with Ignis, Noctis, Gladiolus, and Prompto all appearing to enable the Overwhelm scaling mechanic. This design period aligns with FFXV's active DLC era (2018–2019: Episode Ignis, Episode Ardyn), when Square Enix was expanding the FFXV property across media. `[fftcg.square-enix-games.com/na/release/opus-viii; TCG Republic listing]`
+
+### Related cards
+- Noctis (Opus VIII) — the EX Burst tutors Noctis directly; Ignis's entire mechanical identity is built around finding and supporting the Crown Prince
+- Gladiolus (Opus VIII) — Category XV Forward; each one in play adds 4,000 to Ignis's Overwhelm output
+- Prompto (Opus VIII) — Category XV Forward; same Overwhelm scaling role
+- Waltrill (Opus VIII, 8-047C) — same set, same inventory batch; both are Opus VIII foil rares from the character-spotlight tracks
 

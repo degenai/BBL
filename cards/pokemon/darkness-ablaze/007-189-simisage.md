@@ -97,8 +97,5 @@ A bright, kinetic illustration of Simisage mid-leap through a dense leafy canopy
 - **Artist** — Illustrated by Hasegawa Saki, an artist active in the Sword & Shield era whose TCG credits include Ursaring (Evolving Skies), Crawdaunt (Battle Styles), and Diglett (Sword & Shield base). Simisage (DAA 007) is one of her earlier SWSH-era cards [PkmnCards: Hasegawa Saki artist page].
 
 ### Related cards
-- Pansage (multiple sets) — pre-evolution; same trio, "speak no evil" motif
-- Simisear (multiple sets) — Fire-type trio counterpart; Pansear evolution
-- Simipour (multiple sets) — Water-type trio counterpart; Panpour evolution
-- Pansear (multiple sets) — Fire-type trio base; "hear no evil" motif
-- Panpour (multiple sets) — Water-type trio base; "see no evil" motif
+
+<!-- Trio-sibling mirror bullets (Pansage / Simisear / Simipour / Pansear / Panpour) dissolved wave 127 per Edgelord snip-frenzy: all five edges fully subsumed by the [[elemental-monkey-trio]] cohort node, which this card wires to via `characters: [elemental-monkey-trio]` and which the Trivia "Elemental monkey trio design" bullet directly above already articulates. No cross-print Simisage mirror to preserve (Simisage has no other corpus print). Section retained as a hook for future legitimate cross-print bullets. -->

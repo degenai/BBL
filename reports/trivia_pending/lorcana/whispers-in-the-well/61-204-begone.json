@@ -1,0 +1,42 @@
+{
+  "card_name": "Begone!",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "61/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The flavor text 'Alakazam, alakazook, send this page back to its book!' is attributed to Merlin on the Mushu Report Lorcana wiki (wiki.mushureport.com/wiki/Merlin_(character)). The vision description — elderly robed figure, white beard, wand raised in commanding gesture, banishing a book — matches Merlin from The Sword in the Stone (1963) precisely. Merlin is a Disney-owned IP (not an external crossover); ip_confidence raised to high. No external IP risk flag needed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Whispers in the Well is the tenth Disney Lorcana set, with a pre-release November 7, 2025, and worldwide release November 14, 2025. The set's theme is film noir, mystery, and supernatural, taking players into the Ink Well — the in-universe source of all Glimmers — where ghostly 'Whisper' glimmers have emerged. A new mechanic, Boost, allows Whisper-type characters to place the top card of their deck facedown beneath them to unlock abilities. `[Mushu Report Lorcana Wiki: Whispers in the Well; MiceChat: Set 10 revealed]`",
+      "sources": ["Mushu Report Lorcana Wiki: Whispers in the Well", "MiceChat.com: Whispers in the Well Set 10 reveal"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Alakazam, alakazook, send this page back to its book!\" — Merlin. The incantation is a rhyming banishment spell in the style of Merlin's whimsical verbal magic from The Sword in the Stone (1963 Disney film). The card's oracle text — return a character, item, or location with cost 3 or less to their player's hand — directly mechanizes the concept of magical banishment. `[Card frontmatter; Mushu Report wiki: Merlin (character)]`",
+      "sources": ["Card frontmatter", "Mushu Report wiki: Merlin (character)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Begone! is a 3-cost Amethyst Action that returns a chosen character, item, or location with cost 3 or less to their player's hand — a tempo-removal spell effective in the early and mid-game. Amethyst is the ink color most associated with Lorcana's magical/sorcery archetype; bounce effects in Amethyst are a recurring mechanical identity. `[Card frontmatter; TCGPlayer: Begone! product listing]`",
+      "sources": ["Card frontmatter", "TCGPlayer: Begone! product listing"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Agathe Molin. Merlin from The Sword in the Stone (1963) has the largest card presence of any Sword in the Stone character in Lorcana — 11 named Merlin cards across sets 1–10 (confirmed in Mushu Report's character page), spanning Amethyst and Sapphire ink. 'Begone!' (set 10) joins a tradition of Merlin-attributed action cards that began in set 1 with cards like 'Develop Your Brain' and 'Befuddle.' `[Mushu Report wiki: Merlin (character); Mushu Report wiki: Begone!]`",
+      "sources": ["Mushu Report wiki: Merlin (character)", "Mushu Report wiki: Begone!"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Merlin - Self-Appointed Mentor", "set": "The First Chapter", "note": "Sapphire Common — Merlin's earliest Lorcana card appearance (set 1)"},
+    {"name": "Merlin - Completing His Research", "set": "Shimmering Skies (set 5)", "note": "Amethyst Uncommon from set 5; another Merlin Amethyst card closely related in color and character"},
+    {"name": "Merlin - Shapeshifter", "set": "Rise of the Floodborn", "note": "Amethyst Rare — Merlin's shapeshifting animal forms form a distinct sub-cycle across set 2"},
+    {"name": "Befuddle", "set": "The First Chapter", "note": "Merlin-attributed action card from set 1; antecedent to Begone! in the Merlin spell-action card tradition"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

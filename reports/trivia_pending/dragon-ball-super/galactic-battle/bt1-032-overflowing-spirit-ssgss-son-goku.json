@@ -1,0 +1,47 @@
+{
+  "card_name": "Overflowing Spirit SSGSS Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Galactic Battle",
+  "collector_number": "BT1-032",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'SSGSS Son Goku' — SSGSS (Super Saiyan God Super Saiyan) is Son Goku's Super Saiyan Blue transformation, first appearing in Dragon Ball Z: Resurrection F and DBS Episode 24. The card's blue-color designation and Champa Saga era tag on the official card database corroborate the identity. No ambiguity: the card name itself is the oracle-text evidence.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Galactic Battle (BT1) was the first main English-language booster set for the Dragon Ball Super Card Game, released July 28, 2017. Its 114 cards — 60 Commons, 30 Uncommons, 12 Rares, 8 Super Rares, and 4 Special Rares — established the Blue/Red/Green/Yellow color system still in use today. [Bleedingcool.com: Galactic Battle Checklist; PSA Set Registry article]",
+      "sources": ["Bleedingcool.com Galactic Battle Checklist", "PSA Set Registry: Galactic Battle article"]
+    },
+    {
+      "category": "set-lore",
+      "text": "BT1-032 is tagged to the Champa Saga era on the official DBS card database, placing it in the Universal Tournament storyline from Dragon Ball Super. The card sits in the Blue color family alongside Beerus Leader cards, reflecting the SSGSS form's divine-ki blue aesthetic. [dbs-cardgame.com official card list]",
+      "sources": ["dbs-cardgame.com official card list"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, BT1-032 is a 4-cost Blue Battle card with 15,000 power and the Critical keyword (damage goes to Drop Area instead of hand), plus a Permanent ability granting +10,000 power during your turn when you have 5 or more energy — effectively a 25,000-power attacker in the mid-late game. [DBZExchange product listing; CoreTCG card entry]",
+      "sources": ["DBZExchange product listing", "CoreTCG card entry"]
+    },
+    {
+      "category": "set-lore",
+      "text": "SSGSS (Super Saiyan God Super Saiyan / Super Saiyan Blue) first debuted in Dragon Ball Z: Resurrection F (2015) when Goku and Vegeta trained under Beerus and Whis; it was later retold in Dragon Ball Super Episodes 24 onward. The form is visually defined by blue hair, blue eyes, and a blue-white aura. [Game Rant: Super Saiyan Blue Explained; Dragon Ball Wiki Fandom via WebSearch]",
+      "sources": ["Game Rant", "Dragon Ball Wiki Fandom (WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Galactic Battle sealed product became collector-scarce rapidly: sealed booster boxes that sat at retail in 2019 were selling for $600–$700 by early 2021 as the first-ever DBS set. SPR (Special Rare) grades are particularly sought at PSA GEM-MT 10. BT1-032 as an Uncommon is far more accessible, but the set's historical status as the game's origin point gives even commons context as Day One artifacts. [PSA Set Registry article]",
+      "sources": ["PSA Set Registry article"]
+    }
+  ],
+  "related_cards": [
+    {"name": "God Break Son Goku", "set": "Galactic Battle", "note": "BT1-031 Special Rare — the SPR version of SSGSS Goku in the same set; premium foil treatment of the same transformation"},
+    {"name": "Super Saiyan Blue Vegeta", "set": "Galactic Battle", "note": "BT1-028 double-faced card — Vegeta's SSGSS form in BT1; natural pair in Blue SSGSS decks"},
+    {"name": "God Charge Vegeta", "set": "Galactic Battle", "note": "BT1-036 — inventory parallel; both are BT1 Blue Vegeta/Goku uncommons from the same era"},
+    {"name": "Beerus, God of Destruction", "set": "Galactic Battle", "note": "BT1 Blue Leader; defines the Blue control archetype BT1-032 slots into"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

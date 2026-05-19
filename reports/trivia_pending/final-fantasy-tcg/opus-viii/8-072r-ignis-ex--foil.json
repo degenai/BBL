@@ -1,0 +1,41 @@
+{
+  "card_name": "Ignis EX",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-072R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Ignis EX' and the vision pass already identified the subject as Ignis Scientia from Final Fantasy XV via CGI-photoreal rendering with glasses and dark jacket — the canonical Ignis visual. The card is listed on retailer sites as 'Ignis EX' or 'Ignis' from Final Fantasy XV, element Earth, job Retainer, with EX Burst tutor ability for Noctis. The Final Fantasy Wiki confirms Ignis Scientia as Noctis's royal retainer and adviser, matching the card's job line. Identity is explicit via card name, job, and ability text.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ignis EX (8-072R) is an Earth-element Rare Forward from Opus VIII, released March 22, 2019. The 'Retainer' job matches Ignis Scientia's canonical role in Final Fantasy XV as royal adviser and member of Noctis's Crownsguard retinue — the card's mechanical identity is built directly on his in-game function. [TCG Republic listing; Mountbatten Collectables listing]",
+      "sources": ["TCG Republic listing (WebSearch snippet)", "Mountbatten Collectables listing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card has two abilities: (1) EX Burst — when placed into the Damage Zone, you may search for 1 card named Noctis and add it to hand, and (2) Overwhelm [S][Y] — choose 1 Forward; deal it 4,000 damage for each Category XV Forward you control. In FFTCG, the EX icon means the first ability triggers when the card enters the Damage Zone (not just when played), making Ignis EX a resilient tutor that also generates value even when hit. [WebSearch snippet citing Game Guide; TCG Republic listing]",
+      "sources": ["Game Guide / FFTCG rules reference (WebSearch snippet)", "TCG Republic listing (WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Final Fantasy XV, Ignis Scientia is Noctis's closest companion and the group's tactical adviser, driver, and chef — taken to the royal castle at age 5 and entrusted with the Crown Prince as both retainer and elder-brother figure. He is voiced by Mamoru Miyano in Japanese and Adam Croasdell in English. His arc includes losing his eyesight mid-game and remaining party-functional despite blindness. [Final Fantasy Wiki: Ignis Scientia; Wikipedia: Characters of Final Fantasy XV]",
+      "sources": ["Final Fantasy Wiki: Ignis Scientia (WebSearch snippet)", "Wikipedia: Characters of Final Fantasy XV"]
+    },
+    {
+      "category": "design",
+      "text": "Opus VIII's starter sets feature Final Fantasy VII and XIV characters, but the booster set draws heavily on FFXV for its Category XV Forward suite — Ignis EX, Noctis, Gladiolus, and Prompto all appear, enabling the Overwhelm combo that scales with 'Category XV Forward' count. This design choice reflects the 2018–2019 period when FFXV DLC and spin-offs (Episode Ignis, Episode Ardyn) were still actively releasing. [fftcg.square-enix-games.com/na/release/opus-viii; TCG Republic listing]",
+      "sources": ["fftcg.square-enix-games.com Opus VIII release page", "TCG Republic listing (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Noctis", "set": "Opus VIII", "note": "The EX Burst tutors Noctis directly; Ignis's entire mechanical purpose is finding Noctis and enabling Category XV synergy"},
+    {"name": "Gladiolus", "set": "Opus VIII", "note": "Category XV Forward — each one in play increases Ignis's Overwhelm damage by 4,000"},
+    {"name": "Prompto", "set": "Opus VIII", "note": "Category XV Forward — same Overwhelm scaling synergy"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

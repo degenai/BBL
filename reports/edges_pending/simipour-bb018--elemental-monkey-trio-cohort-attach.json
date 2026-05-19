@@ -1,0 +1,66 @@
+{
+  "edge_id": "simipour-bb018--elemental-monkey-trio-cohort-attach",
+  "wave": 127,
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/black-bolt/018-086-simipour.md",
+      "name": "Simipour (Black Bolt 018/086)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/elemental-monkey-trio.md",
+      "name": "Elemental monkey trio (Pansage / Pansear / Panpour line)"
+    }
+  ],
+  "description": "Simipour BB-018 is the second corpus Simipour print and the Black Bolt Unova-retrospective Water arm's evolved-form entry. Standard cohort attach: Pokemon species identity is the membership predicate, not set or printing, and the existing trio node explicitly says further duplicate prints expand the cohort without dilution. The flavor text on BB-018 is a verbatim restatement of the canonical Pokedex siphon-and-replenish window already printed on DAA-042 (different illustrator, different compositional register — DAA-042 seated tide-pool serenity vs. BB-018 standing flower-garden liveliness), which makes this a textbook designer-coordinated re-print of the see-no-evil Water-arm evolved form. Pairs with Panpour BB-017 to give Black Bolt a Water-arm bloom-coded design coupling distinct from the Darkness Ablaze prints' rocks-and-pool framing.",
+  "citations": [
+    "[PokemonTCG.io API: zsv10pt5-18]",
+    "[Bulbapedia: Elemental monkeys]",
+    "[Bulbapedia: Simipour]",
+    "[cards/_characters/elemental-monkey-trio.md: cohort membership predicates]"
+  ],
+  "files_modified": [
+    "cards/pokemon/black-bolt/018-086-simipour.md",
+    "cards/_characters/elemental-monkey-trio.md"
+  ],
+  "edges_added": [
+    {
+      "from": "pokemon/black-bolt/018-086-simipour",
+      "to": "characters/elemental-monkey-trio",
+      "kind": "card_to_character_cohort_attach"
+    }
+  ],
+  "other_candidates_considered": [
+    {
+      "candidate": "Pansage BB-004 cohort attach",
+      "strength": "strong (IP-verified, trivia-passed, Black Bolt's enriched Grass-arm base)",
+      "deferred_because": "one decision per invocation; Simipour BB-018 was the slate's explicit suggested move and the Water-arm closure print"
+    },
+    {
+      "candidate": "Panpour BB-017 cohort attach",
+      "strength": "moderate (vision-passed, unverified IP, would pair with BB-018 as a Water-arm bloom-coded duo)",
+      "deferred_because": "one decision per invocation; queue for a follow-up Edgelord pass alongside Pansage BB-004 and (post-enrichment) Simisage BB-005"
+    },
+    {
+      "candidate": "Simisage BB-005 cohort attach",
+      "strength": "blocked (tags_hub empty — card has not been vision-enriched yet)",
+      "deferred_because": "pre-enrichment cards do not attach; surface to vision queue first"
+    },
+    {
+      "candidate": "Black Bolt Unova-retrospective set-level character node",
+      "strength": "weak as a character node, plausible as a future Discrete Lair anchor",
+      "deferred_because": "set-as-character is a stretch — Unova region is the IP citation, the set is the print vehicle; if any node is warranted here it would be a Pokemon-region hub (unova) or a designer-coordinated-set symbol-layer node, not a character. Stage for janitor triage."
+    }
+  ],
+  "next_pass_suggestions": [
+    "Edgelord pass: attach Pansage BB-004 + Panpour BB-017 to elemental-monkey-trio (queue both into one invocation as Black-Bolt-trio-cohort-thickening)",
+    "Vision queue: Simisage BB-005 — empty tags_hub blocks the trio's full Black Bolt enrichment",
+    "Janitor triage: consider Unova-region hub (cards/_hubs/unova.md) once 8+ Unova Pokemon across multiple sets are enriched"
+  ],
+  "edgelord_mood": "satisfied",
+  "edgelord_notes": "Clean N:1 cohort attach. Slate's suggested move survived corpus walk: the trio node explicitly licenses cross-set duplicate prints, the BB-018 flavor is verbatim DAA-042 (canonical re-print signature), and the only competing move (Pansage BB-004) is stronger only because it's IP-verified, not because the edge is more load-bearing. Mood not blueballed because cohort-stack attachment to an existing well-built character node is the satisfying shape, not the sigh shape — one operation, one anchor, body extended with the divergent-register receipt."
+}

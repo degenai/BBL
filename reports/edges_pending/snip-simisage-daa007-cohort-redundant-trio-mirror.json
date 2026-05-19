@@ -1,0 +1,43 @@
+{
+  "edge_id": "snip-simisage-daa007-cohort-redundant-trio-mirror",
+  "shape": "edge-dissolution",
+  "category": "redundant-per-card-mirror-cohort-node-subsumes",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/darkness-ablaze/007-189-simisage.md",
+      "name": "Simisage (Darkness Ablaze 007/189)"
+    },
+    {
+      "type": "character-cohort-node",
+      "path": "cards/_characters/elemental-monkey-trio.md",
+      "name": "Elemental monkey trio (cohort node — subsumes the snipped edge)"
+    }
+  ],
+  "description": "ONE snip. Dissolved the five-bullet `### Related cards` trio-sibling-mirror block on Simisage DAA-007 (bullets pointing at Pansage / Simisear / Simipour / Pansear / Panpour). The five bullets express ONE logical edge — 'Simisage mirrors its five trio cohort companions' — which is the exact edge the [[elemental-monkey-trio]] cohort node already articulates at the cohort scope. Triple-justification: (a) COHORT-NODE SUBSUMPTION — card already wires to the cohort via `characters: [elemental-monkey-trio]` frontmatter; cohort `appears_on:` includes this card; the cohort node body explicitly carries the trio-mirror tissue for all six canonical species, (b) IN-CARD REDUNDANCY — the card's own `## Trivia` section directly above includes an 'Elemental monkey trio design' bullet that articulates the trio thesis in full (three-wise-monkeys mapping, Stone-evolution mechanic, six-species roster) with proper Bulbapedia citation; the five snipped bullets restate the same thesis without citations, (c) PRIOR-PASS STAGING EXPLICITLY NAMED THIS CARD — the snip-solrock-daa092 sidecar's `next_pass_suggestions` field named Simisage DAA-007 as the strongest standalone snip target ('5 redundant bullets'), and the wave-122 janny script flagged this card as deferred-only-for-want-of-a-Connections-section. On review, the cohort wiring via `characters:` frontmatter + the Trivia thesis bullet together constitute the equivalent of a Connections section; no orphan risk. No cross-print Simisage mirror to preserve (Simisage has no other corpus print). Section retained (with an HTML comment marking the dissolution) as a hook for future legitimate cross-print bullets if a second Simisage print ever enters corpus.",
+  "citations": [
+    "[cards/_characters/elemental-monkey-trio.md — cohort node, includes pokemon/darkness-ablaze/007-189-simisage in appears_on:, articulates trio-mirror tissue at cohort scope]",
+    "[cards/pokemon/darkness-ablaze/007-189-simisage.md — characters: [elemental-monkey-trio] frontmatter wires the traversal; ## Trivia 'Elemental monkey trio design' bullet states the cohort thesis with Bulbapedia citation]",
+    "[reports/edges_pending/snip-solrock-daa092-future-already-met.json — prior snip-frenzy sidecar whose next_pass_suggestions field explicitly named Simisage DAA-007 as the strongest standalone snip target ('5 redundant bullets')]",
+    "[reports/_scratch/janny_redundant_sibling_mirror_sweep.py — wave-122 janitor sweep that intentionally SKIPPED this card; line 75-77 comment cites Connections-section absence; this snip-frenzy pass resolves that deferral by treating cohort-frontmatter-pointer + Trivia-thesis-bullet as the equivalent wiring]"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/007-189-simisage.md"
+  ],
+  "topology": "stack",
+  "edgelord_mood": "enlightened-corrective",
+  "other_candidates_considered": [
+    "Pansage BB-004 (Black Bolt 004/086) — has identical `### Related cards` trio-sibling-mirror block (Simisage/Pansear/Panpour bullets + a fourth Pansage-Art-Rare bullet). REFUSED THIS PASS — the card lacks `characters: [elemental-monkey-trio]` frontmatter AND is missing from the cohort node's `appears_on:` list (cohort lists only the BB Simipour print at 018, not BB-004 Pansage or BB-017 Panpour). Snipping the bullets there would orphan the card from the cohort entirely. The correct next-pass move is an enlightened-replacement: ADD the cohort wiring (frontmatter `characters:` + cohort `appears_on:` entry) FIRST, then snip the redundant bullets. Same applies to Panpour BB-017. The Pansage-Art-Rare bullet on BB-004 is a legitimate cross-print same-set variant edge worth preserving even after the trio bullets dissolve.",
+    "Panpour BB-017 (Black Bolt 017/086) — same situation as Pansage BB-004; no `characters:` frontmatter, missing from cohort `appears_on:`. Deferred to the same enlightened-replacement pass.",
+    "Simisage BB-005 (Black Bolt 005/086) — minimal MD; no vision pass yet, no `### Related cards` section at all. Not a snip candidate; ordinary enrichment queue.",
+    "Re-checked Lunatone BUS-68 — wave-122 janny script already snipped the redundant Solrock + Lunatone-other-prints bullets there (or attempted to per the SNIPS dict). No remaining redundancy to dissolve.",
+    "Re-checked the BUS elemental monkey prints (Pansage BUS-12, Pansear BUS-22, Panpour BUS-36) — wave-122 janny script already swept their redundant trio bullets. Pansage BUS-12 currently shows an empty `### Related cards` section (line 98-99 in the file) confirming the snip applied; no remaining redundancy.",
+    "Re-checked the DAA prints (Pansage DAA-006, Simisear DAA-027, Simipour DAA-042, Lunatone DAA-072) — janny script swept these too; not re-verified line-by-line this pass but the SNIPS dict in the script covers each.",
+    "Solrock-Lunatone pair cohort cards re-scanned — no remaining future-condition-already-met cases this pass."
+  ],
+  "next_pass_suggestions": [
+    "Enlightened-replacement pass on Pansage BB-004: ADD `characters: [elemental-monkey-trio]` to frontmatter, ADD `pokemon/black-bolt/004-086-pansage` to elemental-monkey-trio.md `appears_on:`, ADD a cohort bullet to the cohort node body, THEN snip the three redundant trio-sibling bullets in `### Related cards` (preserving the fourth Pansage-Art-Rare bullet as a legitimate cross-print same-set variant edge).",
+    "Same enlightened-replacement pass on Panpour BB-017: add cohort wiring, then snip if/when its `### Related cards` carries trio-sibling redundancy (file currently has no `### Related cards` section — confirm at dispatch).",
+    "Janitorbot mechanical sweep candidate: grep for cards that have BOTH `characters: [<cohort-slug>]` frontmatter AND a `### Related cards` section whose bullets restate the cohort roster. This is now a stable enough pattern to mechanize past the case-by-case Edgelord pass — pattern-recurrence noted in prose, not graduated to typology per Potion Rule sub-rule 4."
+  ]
+}
