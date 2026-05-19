@@ -46,6 +46,8 @@ subject_known_ip: true
 suspected_ip: Vegeta
 ip_confidence: high
 ip_verified: true
+characters:
+  - vegeta
 tags:
   - card
   - dbs
@@ -56,8 +58,8 @@ tags:
 
 ![bt2-077-vegeta](../../_images/dragon-ball-super/union-force/bt2-077-vegeta.png)
 
-> [!warning] Suspected IP: **Vegeta** (confidence: high, verified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Vegeta**
+> Confirmed via Bandai official card text (BT2-077 printed character name) and Dragon Ball Wiki. [dbs-cardgame.com; Dragon Ball Wiki: Vegeta]
 
 A male figure in the signature Saiyan battle armor — a white chest plate over a blue bodysuit, with white gloves — is shown in a dynamic mid-motion pose. The figure's dark hair stands upright in the distinctive Saiyan style. The background shows a rocky, earthy terrain with a large energy burst or atmospheric effect behind the figure. The palette is bright and high-contrast anime style. The card's printed text identifies the character as Vegeta from the Android Cell Saga. Image resolution is low (260px wide) but the character's iconic design is unambiguous.
 
@@ -72,4 +74,15 @@ A male figure in the signature Saiyan battle armor — a white chest plate over 
 **Objects:** armor
 **Iconography:** saiyan-armor, battle-stance
 **Genre cues:** anime, fantasy, shonen
+
+## Trivia
+
+- **Set context** — Union Force (DBS-B02) is the Dragon Ball Super Card Game's second booster set, released November 3, 2017. The green-color archetype in this set centers on the Android Cell Saga; BT2-077 Vegeta is tagged `Saiyan / Android Cell Saga` in Bandai's official database. `[dbs-cardgame.com: Union Force card list]`
+- **Mechanical** — BT2-077 is a green Battle card: 2 energy (1 Green), 15000 Power, 5000 Combo Power. Its On Play skill lets the controller KO any number of opponent Battle Cards with combined energy cost 3 or less — a tempo board-clear designed for the green aggro-control archetype. `[TrollAndToad: Vegeta BT2-077 product listing]`
+- **Design** — BT2-077 sits adjacent to Full Power Vegeta (BT2-076) in the set list — a back-to-back Vegeta pairing in the Cell Saga green sequence, likely an intentional Bandai design grouping within the set's color-coded narrative. `[dbs-cardgame.com: Union Force card list (BT2-076 / BT2-077 adjacency)]`
+
+### Related cards
+- Full Power Vegeta (Union Force, BT2-076) — immediately preceding card in set; Cell Saga green-archetype companion
+- Tenacious Vegeta (Galactic Battle, BT1-066) — same Vegeta character node, Battle of Gods Saga Super Saiyan form
+- At All Costs Vegeta (Colossal Warfare, BT4-030) — same Vegeta character node, Universe Survival Saga Super Saiyan Blue form
 

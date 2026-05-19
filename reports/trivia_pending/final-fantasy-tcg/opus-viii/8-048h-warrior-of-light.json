@@ -1,0 +1,35 @@
+{
+  "card_name": "Warrior of Light",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-048H",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "ip_verified already true in frontmatter; vision callout is stale — reconciled in body edit.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "The Warrior of Light's main design is based on Yoshitaka Amano's concept art of the Knight class from the original Final Fantasy (1987), adapted into a new character design by Tetsuya Nomura for Dissidia Final Fantasy (PSP, 2008). Unlike Onion Knight and Bartz, whose designs fuse their sprite with Amano's concept art, the Warrior of Light is fully based on Amano's knight vision — making him the most direct Amano-to-Nomura translation in the Dissidia roster. [Final Fantasy Wiki: Warrior of Light (Dissidia)]",
+      "sources": ["Final Fantasy Wiki: Warrior of Light (Dissidia) (via WebSearch)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Warrior of Light is an original character created for Dissidia, not a direct carry-over from FF1's nameless Light Warriors. Per the Dissidia lore, he was created by Cid of the Lufaine during the war between Cosmos and Chaos, infused with sentience from Cid's own memories. After the events of Dissidia, he travels to the world of Final Fantasy I and becomes one of that game's Warriors of Light — a retroactive canonical link that bridges Dissidia back to FF1's origin. [Final Fantasy Wiki: Warrior of Light (Dissidia) (via WebSearch)]",
+      "sources": ["Final Fantasy Wiki: Warrior of Light (Dissidia) (via WebSearch)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The 8-048H FFTCG Hero card has Wind element, Power 8000, Job: Warrior of Light, with two abilities: (1) When a Job Standard Unit Forward enters your field, choose up to 2 Backups and activate them; (2) When Warrior of Light attacks, all Job Standard Unit Forwards you control gain +2000 power until end of turn. The 'Standard Unit' job synergy means the card is specifically designed to support job-generic forward chains rather than named-character synergies — a design choice that mirrors his in-lore status as the archetypal, nameless warrior who represents the original FF1 Light Warrior template. [Retail listings: Mountbatten Collectables, Big Orbit Cards (via WebSearch)]",
+      "sources": ["Mountbatten Collectables: 8-048H product listing (via WebSearch)", "Big Orbit Cards: 8-048H listing (via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Warrior of Light", "set": "Opus I", "note": "First FFTCG Warrior of Light print; Opus VIII is a subsequent Hero-rarity version"},
+    {"name": "Onion Knight", "set": "Opus VIII or adjacent", "note": "Dissidia co-representative of early FF games; shares Standard Unit job-class design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

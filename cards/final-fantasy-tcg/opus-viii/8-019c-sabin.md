@@ -47,6 +47,8 @@ subject_known_ip: true
 suspected_ip: Sabin Rene Figaro (Final Fantasy VI)
 ip_confidence: high
 ip_verified: true
+characters:
+  - ff6-returners-party
 ---
 
 # Sabin (Opus VIII)
@@ -55,8 +57,8 @@ ip_verified: true
 
 ![8-019c-sabin](../../_images/final-fantasy-tcg/opus-viii/8-019c-sabin.jpg)
 
-> [!warning] Suspected IP: **Sabin Rene Figaro (Final Fantasy VI)** (confidence: high, verified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Sabin Rene Figaro (Final Fantasy VI)**
+> Confirmed via FFTCG card frame text and Final Fantasy Wiki. [Square Enix FFTCG; Final Fantasy Wiki: Sabin Rene Figaro]
 
 A chibi-proportioned sprite-art figure stands in a martial arts fighting stance — weight shifted, fists raised, ready to strike. The figure has spiky blonde hair pulled into a tail, a sleeveless purple top exposing muscular arms, a green cloth sash at the waist, and bandaged or wrapped wrists. The stance and physique read as a brawler or monk class. The background is a soft muted cream-pinkish wash with a faint red boot/shoe motif at the lower center. The card's frame text confirms the character as Sabin from Final Fantasy VI and the job type as Monk. Classic pixel-era-inspired sprite aesthetic rendered in the FFTCG chibi style.
 
@@ -70,4 +72,15 @@ A chibi-proportioned sprite-art figure stands in a martial arts fighting stance 
 **Emotion read:** determined, ready for combat — tense fighting posture
 **Iconography:** fighting-stance, martial-arts
 **Genre cues:** fantasy, anime, rpg, pixel-art
+
+## Trivia
+
+- **Set context** — Opus VIII (March 2019) expanded the FF6 roster in FFTCG while also introducing Final Fantasy XV and Final Fantasy Brave Exvius as major set focuses. The set's original artwork was produced by artists including Akira Oguro (Final Fantasy Legends), Ryoma Ito (Final Fantasy Tactics Advance), and Toshitaka Matsuda (Final Fantasy IX). `[Square Enix: Opus VIII set announcement, na.finalfantasy.com/news/1043]`
+- **Lore** — Sabin Rene Figaro is Prince Edgar's younger twin brother who abdicated his claim to Figaro's throne via a rigged coin flip: Edgar used a two-headed coin to guarantee Sabin's freedom, choosing to keep the crown himself. Sabin trained under martial arts master Duncan and mastered the Blitz system, a set of move inputs that execute powerful physical techniques. His canonical job is Monk. `[Final Fantasy Wiki: Sabin Rene Figaro]`
+- **Community resonance** — Sabin is one of FF6's most beloved characters in community discourse largely because of a single moment: he applies the Meteor Strike (Suplex) Blitz to the Phantom Train, bodyslamming an entire locomotive into the ground. The moment is a canonical piece of FF community mythology — cited across wiki discussions and fan forums as the definitive example of JRPG absurdist power-scaling done right. `[Community consensus: finalfantasy.fandom.com, cavesofnarshe.com, fandomspot.com (via WebSearch)]`
+
+### Related cards
+- Edgar (Opus VIII, 8-005C) — Sabin's twin brother; within-set FF6 sibling pair
+- Sabin (Opus XI, 11-018H) — later Hero-rarity Sabin with Damage 5 mechanic and Fire element
+- Umaro (Opus VIII, 8-024C) — FF6 party member in the same set
 

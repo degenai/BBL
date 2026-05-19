@@ -45,6 +45,8 @@ setting: other
 suspected_ip: Umaro (Final Fantasy VI)
 ip_confidence: high
 ip_verified: true
+characters:
+  - ff6-returners-party
 ---
 
 # Umaro (Opus VIII)

@@ -1,0 +1,42 @@
+{
+  "card_name": "Unified Front",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "53",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No IP flag. No suspected_ip in frontmatter.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (October 2, 2015) covers the second Eldrazi invasion of the plane, with the Zendikari resistance — vampires under Drana, roilmages under Noyan Dar, ground troops under Tazri, goblins, kor, and elven skyriders — converging against Ulamog under Gideon Jura's leadership. Unified Front's Converge mechanic and its production of Kor Ally tokens is a direct mechanical encoding of this multiracial coalition: mana from multiple colors represents the many factions literally unifying. The flavor text 'The kor's pride in their independence has given way to a strong sense of community that embraces all of Zendikar' is the kor's narrative arc across the Zendikar blocks in capsule form. [Scryfall: BFZ-53 flavor_text; magic.wizards.com: Battle for Zendikar Story Summary]",
+      "sources": ["Scryfall: BFZ-53 flavor_text field", "magic.wizards.com: Battle for Zendikar Story Summary (2015-12-23)"]
+    },
+    {
+      "category": "design",
+      "text": "Converge is an ability word introduced in Battle for Zendikar that rewards spending mana of multiple colors. Mark Rosewater later assessed Converge as 'a mechanic in the wrong environment' — it would have performed better in a block where color (as opposed to colorlessness) was the central tension, rather than BFZ where the Eldrazi's Devoid / colorless theme dominated. The mechanic had its best-supported design space in multicolor-heavy decks, not the inward-color-versus-colorlessness set. [magic.wizards.com: Storm Scale: Zendikar and Battle for Zendikar, 2016-11-21; magic.wizards.com: Battle for Zendikar Mechanics]",
+      "sources": ["magic.wizards.com: Storm Scale: Zendikar and Battle for Zendikar (2016-11-21)", "magic.wizards.com: Battle for Zendikar Mechanics feature"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 19881 confirms Unified Front sees narrow but defined Commander play — primarily in Ally kindred decks. In Tazri, Beacon of Unity lists the card has 35% inclusion with +34% synergy; in Rukarumel, Biologist ally lists it hits 32% with +34% synergy. Generating four Kor Ally tokens at Converge-5 triggers multiple on-enter payoffs simultaneously (Kazandu Blademaster, Sea Gate Loremaster, Kabira Evangel), making it a niche but effective mass-trigger spell in 5-color Ally builds. [Scryfall: BFZ-53 edhrec_rank field; EDHREC: Top 10 Most Played Converge Cards in Commander]",
+      "sources": ["Scryfall: BFZ-53 edhrec_rank: 19881", "EDHREC: Top 10 Most Played Converge Cards in Commander (via WebSearch)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Dan Murayama Scott. The card is legal in Pioneer, Modern, Legacy, Vintage, and Commander; not reprinted as of the Scryfall data snapshot. [Scryfall: BFZ-53 legalities + artist field]",
+      "sources": ["Scryfall: BFZ-53 API response"]
+    }
+  ],
+  "related_cards": [
+    {"name": "General Tazri", "set": "Oath of the Gatewatch", "note": "The canonical Ally-coalition commander; leads the Zendikari resistance force that Unified Front narratively references"},
+    {"name": "Tazri, Beacon of Unity", "set": "Commander Legends", "note": "5-color Ally commander that is Unified Front's primary EDHREC inclusion vehicle"},
+    {"name": "Kazandu Blademaster", "set": "Zendikar", "note": "Ally tribal payoff that benefits from Kor Ally tokens entering simultaneously"},
+    {"name": "Kabira Evangel", "set": "Zendikar", "note": "Ally on-enter protection effect; Unified Front tokens trigger it for each token"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

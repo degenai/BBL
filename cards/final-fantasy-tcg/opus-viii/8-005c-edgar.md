@@ -47,6 +47,8 @@ setting: void
 suspected_ip: Edgar (Final Fantasy VI)
 ip_confidence: high
 ip_verified: true
+characters:
+  - ff6-returners-party
 ---
 
 # Edgar (Opus VIII)

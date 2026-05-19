@@ -1,0 +1,35 @@
+{
+  "card_name": "Rain (Rare)",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-021R",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "ip_verified already true in frontmatter; vision callout is stale — reconciled in body edit.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (released March 2019) brought Final Fantasy Brave Exvius (FFBE) 'to the forefront with multiple new characters,' Rain among them. Rain is a main protagonist of FFBE, a mobile RPG published by Square Enix and developed by gumi Inc. (2015 Japan, 2016 global). Opus VIII was the set where FFBE received its first major FFTCG card expansion, following its initial teasing in Opus VII. [Square Enix: Opus VIII announcement, na.finalfantasy.com/news/1043]",
+      "sources": ["Square Enix: Opus VIII set announcement, na.finalfantasy.com/news/1043"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Rain is a knight of the Kingdom of Grandshelt whose prodigious talents earned him command of an airship brigade despite his youth. His father, Sir Raegen, was the kingdom's finest knight before mysteriously disappearing. Rain's adopted brother Lasswell is his constant companion; together they are granted the power of Visions by the mysterious Fina to save the world of Lapis. Rain's character is defined by conflicted feelings about his absent father — a Knight-of-Grandshelt legacy that shaped him before he could choose it. [Final Fantasy Wiki: Rain (Brave Exvius)]",
+      "sources": ["Final Fantasy Wiki: Rain (Brave Exvius) (via WebSearch)"]
+    },
+    {
+      "category": "design",
+      "text": "Rain's companion Lasswell also received a Hero-rarity card in Opus VIII (8-043H Lasswell), making Opus VIII the canonical set where the FFBE protagonist pair was introduced to the FFTCG system as a paired entry. The ghosted-face compositional motif visible in Rain's card art (a close-up of his own face occupying the background) is a standard FFTCG compositional device for non-Starter-deck narrative cards — it is the same motif used across the Opus VIII Rare tier. [Corpus card check: 8-043h-lasswell.md; FFTCG visual convention observable across the set]",
+      "sources": ["Corpus: 8-043h-lasswell.md confirmed Lasswell is in Opus VIII", "Square Enix: Opus VIII announcement (via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lasswell", "set": "Opus VIII", "note": "8-043H — Rain's adopted brother and canonical FFBE companion; Hero rarity, same set"},
+    {"name": "Rain (Rare)", "set": "Opus VII", "note": "Rain's first FFTCG appearance (Opus VII teaser); Opus VIII is the full FFBE expansion"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

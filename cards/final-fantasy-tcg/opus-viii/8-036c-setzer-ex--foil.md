@@ -47,6 +47,8 @@ setting: void
 suspected_ip: Setzer Gabbiani
 ip_confidence: high
 ip_verified: true
+characters:
+  - ff6-returners-party
 ---
 
 # Setzer EX (Opus VIII)

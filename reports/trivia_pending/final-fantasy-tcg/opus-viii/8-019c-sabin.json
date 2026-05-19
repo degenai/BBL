@@ -1,0 +1,36 @@
+{
+  "card_name": "Sabin",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-019C",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "ip_verified already true in frontmatter; vision callout is stale — reconciled in body edit.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (released March 2019) brought Final Fantasy XV and Final Fantasy Brave Exvius to the foreground while also expanding the FF6 roster. The set includes original artwork by artists who worked on Final Fantasy Crystal Chronicles, Final Fantasy Tactics Advance, Final Fantasy Legends, and Final Fantasy IX — Sabin's chibi art fits the FFTCG's sprite-style aesthetic for FF6 characters. [Square Enix: 'Latest FINAL FANTASY TRADING CARD GAME Opus VIII Set Now Available', na.finalfantasy.com/news/1043]",
+      "sources": ["Square Enix: Opus VIII set announcement, na.finalfantasy.com/news/1043"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Sabin Rene Figaro is Prince Edgar's younger twin brother who abdicated his claim to the Figaro throne via a rigged coin flip — Edgar used a two-headed coin to guarantee Sabin's freedom. Sabin trained under martial arts master Duncan and mastered the Blitz technique system, a set of move inputs that let him execute powerful physical attacks. His job class is canonically Monk. [Final Fantasy Wiki: Sabin Rene Figaro]",
+      "sources": ["Final Fantasy Wiki: Sabin Rene Figaro (via WebSearch)"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Sabin is one of Final Fantasy VI's most celebrated characters in community discourse, primarily because of a single moment: he uses the Meteor Strike (Suplex) Blitz on the Phantom Train, suplexing an entire locomotive into the ground. The moment has become a canonical piece of FF fandom mythology cited across reddit and wiki discussions as an example of JRPG absurdist power scaling done correctly. [Final Fantasy Wiki: Sabin Rene Figaro; community consensus via WebSearch including cavesofnarshe.com, fandomspot.com]",
+      "sources": ["Final Fantasy Wiki: Sabin Rene Figaro (via WebSearch)", "Caves of Narshe: FF6 character page (via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Edgar", "set": "Opus VIII", "note": "8-005C — Sabin's twin brother, also in Opus VIII; designed as a within-set FF6 sibling pair"},
+    {"name": "Sabin", "set": "Opus XI", "note": "11-018H — a later Hero-rarity Sabin print with Damage 5 mechanic, Fire element; same character, more mechanically complex"},
+    {"name": "Umaro", "set": "Opus VIII", "note": "8-024C — another FF6 character in the same set (Sabin's party member)"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

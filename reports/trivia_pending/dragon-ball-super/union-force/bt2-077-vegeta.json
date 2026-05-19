@@ -1,0 +1,36 @@
+{
+  "card_name": "Vegeta",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-077",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "ip_verified already true in frontmatter; vision callout is stale — reconciled in body edit.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (DBS-B02) is the second booster set for the Dragon Ball Super Card Game, released November 3, 2017. The set's green-color archetype centers on the Android Cell Saga, with BT2-077 Vegeta tagged 'Saiyan / Android Cell Saga' in Bandai's official database. [dbs-cardgame.com: Union Force card list]",
+      "sources": ["dbs-cardgame.com: Union Force (DBS-B02) card list"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT2-077 is a green Battle card costing 2 energy (1 Green), with 15000 Power and 5000 Combo Power. Its On Play skill lets the controlling player KO any number of opponent Battle Cards with combined energy cost 3 or less — a board-clearing tempo play designed for the green aggro-control archetype of the Android Cell Saga. [TrollAndToad / Shuffle n Cut product listings citing Bandai card data]",
+      "sources": ["TrollAndToad: Vegeta BT2-077 Union Force listing", "Shuffle n Cut: BT2-077 product page"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Android Cell Saga framing places this Vegeta print within the period when Vegeta allowed himself to become a laboratory subject of Dr. Gero's androids and later Cell, training to reach Super Saiyan 2 in the hyperbolic time chamber. This is the same saga that produced his 'Full Power' print (BT2-076), the card immediately preceding BT2-077 in the set list — a back-to-back Vegeta pairing that Bandai likely designed intentionally for the Cell Saga green-color narrative. [Dragon Ball Wiki: Android Cell Saga, via WebSearch]",
+      "sources": ["Dragon Ball Wiki: Cell Saga (via WebSearch)", "dbs-cardgame.com Union Force card list (BT2-076 adjacency)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Full Power Vegeta", "set": "Union Force", "note": "BT2-076 — immediately adjacent in the set list; Cell Saga green-archetype companion print"},
+    {"name": "Tenacious Vegeta", "set": "Galactic Battle", "note": "BT1-066 — same Vegeta character node, Battle of Gods Saga SS form"},
+    {"name": "At All Costs Vegeta", "set": "Colossal Warfare", "note": "BT4-030 — same Vegeta character node, Universe Survival Saga SS Blue form"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

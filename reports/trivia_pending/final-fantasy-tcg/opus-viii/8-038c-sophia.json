@@ -1,0 +1,35 @@
+{
+  "card_name": "Sophia",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-038C",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "ip_verified already true in frontmatter; vision callout is stale — reconciled in body edit. NOTE: the FFTCG card frame labels this character as 'Final Fantasy Legends' with job Devout. Research suggests the character may be Sophia from Final Fantasy Dimensions (where she is the Elder of Mysidia, a Seer-class healer). 'Final Fantasy Legends' is also a Japan-only mobile title (Hikari to Yami no Senshi) separate from Dimensions — the exact source game is not definitively confirmed via accessible English sources. The card frame text 'Final Fantasy Legends' is treated as canonical.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII's set notes confirm exclusive original artwork from Akira Oguro, who worked on Final Fantasy Legends — this is the canonical credit linking the chibi-style Sophia art to the Opus VIII original-art program. [Square Enix: Opus VIII announcement, na.finalfantasy.com/news/1043]",
+      "sources": ["Square Enix: Opus VIII announcement, na.finalfantasy.com/news/1043"]
+    },
+    {
+      "category": "design",
+      "text": "The Devout is a recurring job class across the Final Fantasy series — canonically an advanced upgrade to the White Mage, specializing in powerful healing and support white magic with reduced offensive capability. The class appears in Final Fantasy III, V, and several spin-offs. The card's ice-element cost pip (visible in the vision pass) is consistent with a healing/water-element affiliation in the FFTCG color system, where ice is the support-and-healing color. [Final Fantasy Wiki: Devout (job) (via WebSearch)]",
+      "sources": ["Final Fantasy Wiki: Devout (job) (via WebSearch)"]
+    },
+    {
+      "category": "design",
+      "text": "A character named Sophia appears in Final Fantasy Dimensions as the Great Elder of Mysidia — a diminutive, young-looking woman with white flowers and a healer role who grants the Seer job to the Warriors of Light. The visual description (small stature, floral headpiece, white costume, healer/support role) aligns closely with the FFTCG chibi art. However, the card frame states 'Final Fantasy Legends' not 'Final Fantasy Dimensions.' These are two distinct mobile titles in the FF spin-off catalog; the exact source game for this specific FFTCG print cannot be confirmed from available English-language sources. [Final Fantasy Wiki: Sophia (Dimensions) (via WebSearch); FFTCG card frame per vision pass]",
+      "sources": ["Final Fantasy Wiki: Sophia (Dimensions) (via WebSearch)", "FFTCG card frame (per vision pass)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cid (FFL)", "set": "Opus VIII", "note": "8-011C — another Final Fantasy Legends character in the same set; within-set FFL cohort"},
+    {"name": "Warrior", "set": "Opus VIII", "note": "8-013C — another job-class card in the same set providing job-archetype context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
