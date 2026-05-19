@@ -1,0 +1,41 @@
+{
+  "card_name": "Olaf - Helping Hand",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "57/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card is named 'Olaf - Helping Hand' on the card face. Olaf is the snowman character from Disney's Frozen (2013), created by Elsa's magic and voiced by Josh Gad. IP confirmed via card name, Frozen franchise character record, and oracle text (SECOND CHANCE ability references a snowman's comedic detachability). Confidence: high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Whispers in the Well is Lorcana's tenth set (Set 10), released November 14, 2025, with film noir/mystery as its theme. Olaf (Storyborn) appears in the Amethyst ink here — his naive cheerfulness juxtaposed against the set's dark supernatural tone is a deliberate comedic-contrast placement. The card's night forest / dark swirling energy backdrop amplifies that contrast. [Mushu Report — Whispers in the Well; LorcanaPlayer.com]",
+      "sources": ["Mushu Report (Lorcana Wiki) — Whispers in the Well", "LorcanaPlayer.com — Whispers in the Well set page"]
+    },
+    {
+      "category": "design",
+      "text": "Olaf is a snowman brought to life by Elsa's magic in Frozen (2013), voiced by Josh Gad. Critically, Olaf was originally written as a henchman — 'the first of a legion of snowman guards' at Elsa's ice castle — before being redesigned after Gad's casting. The creative team spent two weeks rethinking the character, eventually centering him on the innocence of Elsa and Anna's childhood and the song 'In Summer.' The redesigned Olaf became a thematic anchor for the film's emotional core. [Wikipedia: Olaf (Frozen)]",
+      "sources": ["Wikipedia: Olaf (Frozen)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Here, hold this while I get help. Try not to go anywhere.\" — referencing Olaf's habit of detaching body parts (his signature comedic trait in Frozen), treating his arm or head as an object to hand off while the rest of him goes for aid. [Card frontmatter — flavor_text field]",
+      "sources": ["Card frontmatter flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Olaf (57/204) is an Amethyst-ink Storyborn Ally Uncommon costing only 1 ink (2 strength, 1 willpower, 1 lore). SECOND CHANCE: when this character leaves play, you may return a chosen friendly character to your hand — a bounce trigger on his exit rather than a static ability. At 1 cost, he is one of the cheapest exit-trigger engines in Lorcana, enabling protective bounce of valuable characters for almost no ink investment. [Mushu Report — Olaf - Helping Hand; TCGPlayer listing 57/204]",
+      "sources": ["Mushu Report (Lorcana Wiki) — Olaf - Helping Hand", "TCGPlayer product listing — Olaf Helping Hand 57/204"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Elsa", "set": "Various Lorcana sets", "note": "Elsa created Olaf with her magic; canonical Frozen IP cluster"},
+    {"name": "Anna", "set": "Various Lorcana sets", "note": "Olaf embodies the innocent love between Anna and Elsa; same IP"},
+    {"name": "Kristoff - Mining the Ruins", "set": "Whispers in the Well", "note": "Fellow Frozen character in same set; Amber vs Amethyst ink pairing possibility"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Olaf (Frozen)",
+    "ip_confidence": "high"
+  }
+}

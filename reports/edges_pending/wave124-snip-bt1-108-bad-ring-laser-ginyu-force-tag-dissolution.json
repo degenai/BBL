@@ -1,0 +1,43 @@
+{
+  "edge_id": "wave124-snip-bt1-108-bad-ring-laser-ginyu-force-tag-dissolution",
+  "shape": "replacement",
+  "topology": "stack",
+  "category": "wrong-tag-dissolution-with-receipts",
+  "endpoints": [
+    {"type": "card", "path": "cards/dragon-ball-super/galactic-battle/bt1-108-bad-ring-laser.md", "name": "Bad Ring Laser (BT1-108, Galactic Battle)"},
+    {"type": "tag-cohort", "path": "tags_hub: ginyu-force", "name": "ginyu-force cohort"}
+  ],
+  "description": "Worst Ginyu Force imposter ever. Bad Ring Laser carried `ginyu-force` in `tags_hub` because the vision pass flagged the depicted compact-green-skinned figure as Guldo. But the trivia pass + an explicit IP-refutation block in the card body PROVE this is Sorbet's signature technique from Dragon Ball Z: Resurrection F (2015), not Guldo's — Guldo's canonical moves are Time Freeze and Eye Laser; Sorbet is a post-Frieza-era Frieza Force commander who joined the franchise nearly two decades after the Namek-saga Ginyu Force was destroyed. The `ginyu-force` cohort tag was actively misrouting any future Ginyu Force bundle assembly toward a non-Ginyu card and contaminating the cohort's thematic coherence. Single-tag snip removes the wrong cohort edge; all other tags retained because they're either vision-grounded visual register (green-skin, small-but-dangerous, psychic, concentration) — Potion-rule-permitted per the visual-register-tags carve-out — or generic action/warrior descriptors. The `elite-squad` tag is arguable (Sorbet IS a Frieza Force commander, not strictly elite-squad, but the term is loose); staged for separate consideration rather than chained into this snip per one-change-per-invocation discipline. The card's `### Related cards` block already pairs it with Sorbet's character card (BT1-092) and notes the Guldo distinction, so the narrative scaffolding for re-cohorting around Sorbet/Frieza-Force is already there for a future janitorial pass.",
+  "citations": [
+    "[bt1-108-bad-ring-laser.md lines 62-64 IP refutation block]: 'Bad Ring Laser is canonically Sorbet's technique, not Guldo's — Guldo's moves are Time Freeze and Eye Laser. Guldo appears as a distinct character card in this same set (BT1-099).'",
+    "[bt1-108-bad-ring-laser.md line 81 Lore trivia]: 'Bad Ring Laser is Sorbet's technique from Dragon Ball Z: Resurrection F (2015). Sorbet fires a thin piercing energy beam from a ring on his right hand.' [Dragon Ball Wiki: Bad Ring Laser]",
+    "[bt1-108-bad-ring-laser.md lines 86-88 Related cards]: explicit pairing to Sorbet (BT1-092) as the technique's user and explicit distinction from Guldo (BT1-099).",
+    "[Dragon Ball Wiki: Sorbet]: post-Frieza-era Frieza Force commander introduced in Resurrection F (2015), nearly two decades after the Namek-saga Ginyu Force was destroyed — not a Ginyu Force member by any canonical accounting."
+  ],
+  "files_modified": [
+    "cards/dragon-ball-super/galactic-battle/bt1-108-bad-ring-laser.md"
+  ],
+  "edges_removed": [
+    {
+      "from": "bt1-108-bad-ring-laser",
+      "to": "ginyu-force (tag cohort)",
+      "shape": "wrong-cohort-tag dissolution",
+      "reason": "depicted figure / technique attribution canonically Sorbet (post-Ginyu-Force-era Frieza Force commander), not Guldo or any Ginyu Force member; the cohort tag survived from a refuted vision-pass IP flag and was never cleaned up when the trivia pass canonicalized Sorbet as the actual attribution"
+    }
+  ],
+  "edges_added": [],
+  "other_candidates_considered": [
+    "Pantheon frontmatter-sync drift (mogis ↔ nylea ↔ iroas asymmetry) — the dispatch's named carry-forward. Real, snip-shaped EITHER direction. Considered snipping `iroas` from `nylea.md` frontmatter (the prior wave's interpretive protective-oversight-pole mirror addition) since the Nylea↔Iroas relation is interpretive rather than designer-confirmed canon, and the See-also body-prose carries it cleanly. REJECTED for two reasons: (1) the prior wave-N+1 sidecar shipped that edge as a deliberate mirror-completion, and reversing it without a new analytical insight reads as second-guessing rather than enlightenment; (2) the `related_characters` field is pervasively used (100+ character nodes) as the canonical cross-character traversal schema, so the structural utility of the field outweighs the marginal redundancy with See-also. The Nylea ↔ Mogis frontmatter gap is explicitly future-watch-staged in Nylea Caveat 6 ('defer the explicit edge until a bundle-assembly pass needs the contrast') — guardrail 1 forbids snipping unmet-threshold future-watches. The Mogis-side missing-nylea symmetry stays parked for a bundle-commission-triggered fill, not a snip.",
+    "Bad Ring Laser `elite-squad` tag — arguable wrongness (Sorbet is a Frieza Force commander, not strictly elite-squad in the canonical Ginyu sense), but the term is loose and the case is interpretive rather than canon-refuted. Staged for a separate snip pass if a future janitor wants to tighten Frieza-Force-vs-Ginyu-Force-vs-elite-squad cohort boundaries.",
+    "Bad Ring Laser vision-derived tags (green-skin, small-but-dangerous, psychic, concentration) — these came in via the vision pass when the figure was flagged as Guldo. After Guldo identification was refuted, these are technically Guldo-descriptors riding on a non-Guldo card. But the Potion rule's visual-register-tags carve-out PERMITS them because they describe what the art shows regardless of the figure's canonical identity (the art DOES depict a compact green-skinned figure in a concentration pose, whoever it is). Retain as vision-register, not snip targets.",
+    "Plain-text 5-entry trio-member lists in elemental-monkey member ### Related cards blocks — non-snip candidate from the carry-forward; lower graph-weight than the wrong-cohort-tag snip; defer to a regular Edgelord pass.",
+    "13 broken-wikilink Nodeley candidates from off-wave audit — explicitly flagged as 'not snip-shaped' in the dispatch; defer."
+  ],
+  "next_pass_suggestions": [
+    "Frieza-Force-cohort population sweep: now that Bad Ring Laser is no longer mis-cohorted under Ginyu Force, a follow-on pass could either (a) check if `frieza-force` is an established hub slug and add it to BT1-108, OR (b) propose a Frieza-Force character node at cards/_characters/ (Sorbet, Frieza, Cooler, Salza, Appule, King Cold — the corpus has 5+ Frieza-Force-aligned cards based on the grep earlier, suggesting threshold-met-or-close). Mr. Nodeley territory.",
+    "Pantheon frontmatter-sync fill (Nylea ↔ Mogis bidirectional addition, plus Iroas ← Nylea addition) — three-frontmatter-additions in one fill pass; deferred until either bundle-commission triggers the explicit pantheon-thesis-contrast edge or until Edgelord's enlightenment criteria align (per Nylea Caveat 6 the bundle-commission threshold is the gate).",
+    "Sorbet character node candidacy — currently 1 corpus card per the IP refutation (BT1-092 Sorbet The Loyal Commander is referenced in Related cards as a corpus card). If a future BT1-092 enrichment confirms it as in-corpus, plus this Bad Ring Laser as the second anchor, the 3-anchor threshold for a Sorbet sub-node would need one more. Future-watch.",
+    "Janitor triage entry: scan for other cards where vision-pass IP flags were refuted by trivia but the vision-derived cohort tags survived. The Bad Ring Laser pattern (vision flagged Guldo → tag added → trivia refuted → tag not retracted) is a known cohort-contamination vector worth a programmatic sweep."
+  ],
+  "edgelord_mood": "enlightened-corrective"
+}

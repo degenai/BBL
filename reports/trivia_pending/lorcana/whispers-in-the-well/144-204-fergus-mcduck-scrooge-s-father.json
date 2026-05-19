@@ -1,0 +1,46 @@
+{
+  "card_name": "Fergus McDuck - Scrooge's Father",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "144/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card is named 'Fergus McDuck - Scrooge's Father' on the card itself, leaving no ambiguity. Character is Fergus McDuck from DuckTales (2017 reboot), Scrooge's Scottish father voiced by Graham McTavish. The dungeon setting in the card art directly references Castle McDuck's underground tunnels from the DuckTales 2017 Season 1 episode 'The Secret(s) of Castle McDuck!' — where Fergus and Scrooge explored the castle's hidden passages together. IP confirmed via card name, artist credit in frontmatter, and direct narrative match to the DuckTales source material. Confidence: high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Whispers in the Well is the tenth set for Disney Lorcana (Set 10), released November 14, 2025 (prerelease November 7). Its theme is film noir, mystery, and the supernatural — set beneath the Great Illuminary where half-formed glimmers called Whispers begin to stir. The set introduced 204 new cards and a new card type (Whispers). [Mushu Report Lorcana Wiki; LorcanaPlayer.com; Disney Lorcana official press release]",
+      "sources": ["Mushu Report (Lorcana Wiki) — Whispers in the Well", "LorcanaPlayer.com — Whispers in the Well set page", "disneylorcana.com press release October 2025"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Fergus McDuck appears in the DuckTales 2017 reboot (voiced by Graham McTavish) as Scrooge's father and patriarch of Clan McDuck, a proud Scottish clan from Dismal Downs. His key episode is 'The Secret(s) of Castle McDuck!' (Season 1, Episode 21, aired August 4, 2018), in which Scrooge and family explore the underground tunnels beneath Castle McDuck — directly paralleling this card's dungeon setting with dramatic shadow art. [DuckTales Wiki — Fergus McDuck; TV Tropes recap of S1E21]",
+      "sources": ["DuckTales Wiki (Fandom) — Fergus McDuck", "TV Tropes — DuckTales 2017 S1E21 recap"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Ach, close the secret entrance! You're letting all the mysterious air out!\" — Fergus McDuck. [Card frontmatter — flavor_text field (canonical capture from Lorcana JSON)]",
+      "sources": ["Card frontmatter flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, Fergus is a Sapphire-ink Storyborn character with the TOUGHEN UP ability: when played, give a chosen friendly character Ward until the start of your next turn (opponents cannot choose them except to challenge). At 3 cost and inkable, he slots into Ward-protection and DuckTales tribal strategies. [TCGPlayer product listing — Fergus McDuck Scrooge's Father 144/204; Star City Games Whispers in the Well card listing]",
+      "sources": ["TCGPlayer product listing — Fergus McDuck 144/204", "Star City Games listing"]
+    },
+    {
+      "category": "design",
+      "text": "The card art is credited to Kenneth Anderson, a freelance character designer and illustrator who has worked on multiple Disney Lorcana sets. Anderson's work on Lorcana includes 'Captain Hook, The Pirate King' and 'Light the Fuse' from Reign of Jafar; Scrooge McDuck is listed as one of his favorite characters to illustrate. [Zatu Games — An Interview With Disney Lorcana Artist: Kenneth Anderson; Mushu Report — Kenneth Anderson artist page]",
+      "sources": ["Zatu Games — An Interview With Disney Lorcana Artist: Kenneth Anderson", "Mushu Report — Kenneth Anderson Lorcana artist page"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Scrooge McDuck - Cavern Prospector", "set": "Whispers in the Well", "note": "Scrooge shares the underground/dungeon setting of this set; family connection"},
+    {"name": "Scrooge McDuck", "set": "Various Lorcana sets", "note": "Scrooge is Fergus's son; TOUGHEN UP could synergize with Scrooge-centric strategies"},
+    {"name": "Huey - Reliable Leader", "set": "Lorcana", "note": "Community suggested DuckTales tribal pairing with Fergus [LorcanaPlayer snippet]"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Fergus McDuck (DuckTales)",
+    "ip_confidence": "high"
+  }
+}

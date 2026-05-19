@@ -1,0 +1,40 @@
+{
+  "edge_id": "nylea--iroas-twin-edge-mirror-completion",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/nylea.md", "name": "Nylea, God of the Hunt"},
+    {"type": "character", "path": "cards/_characters/iroas.md", "name": "Iroas, God of Victory"}
+  ],
+  "description": "Worst sync drift ever! Iroas had a See-also bullet for [[nylea]] and a related_characters frontmatter entry for the protective-oversight twin-pair. Nylea had neither — Iroas was commissioned AFTER Nylea and the back-link was never threaded. The carry-forward dispatch flagged this as the second-strongest pantheon edge per the prior iroas-mogis sidecar. Pure mirror completion: added `iroas` to Nylea's `related_characters:` (block-form YAML, wave 92 discipline), added a See-also bullet immediately after the [[mogis]] sibling entry mirroring Iroas's line-101 complement-relation phrasing (Nylea-watch-over-forest / Iroas-watch-over-warrior as the pantheon's two protective-oversight care-pole faces against the Mogis extraction-pole), and graduated Iroas out of the Future-sub-nodes bullet since it's now live. Non-snip move per dispatch preference. Mogis-side frontmatter drift (Mogis has `iroas` but not `nylea` despite extensive cross-prose) staged for a future frontmatter-sync pass.",
+  "citations": [
+    "[cards/_characters/iroas.md line 101]: Iroas's See-also entry for [[nylea]] — `sibling sub-node under [[theros-pantheon]]; structural complement at the stewardship-of-the-commons face. Nylea anchors the watch-over-the-forest register (care-without-ownership); Iroas anchors the watch-over-the-warrior register (care-without-extraction).`",
+    "[cards/_characters/iroas.md frontmatter related_characters]: lists `theros-pantheon` + `mogis` — confirms the pantheon-twin pattern carries through frontmatter, which Nylea was missing for Iroas.",
+    "[cards/_characters/nylea.md line 105]: Nylea's See-also entry for [[mogis]] — establishes the within-pantheon thesis-contrast pattern that the new [[iroas]] bullet extends into the care-pole-internal complement axis.",
+    "[reports/edges_pending/iroas--mogis--ares-double-aspect-twin-edge-enlightened.json]: prior sidecar that explicitly named the Iroas-Nylea pairing as the second-strongest pantheon edge available after the Iroas-Mogis Ares-double-aspect mirror.",
+    "[MTG Wiki Pantheon of Theros]: canonical roster establishing Iroas + Nylea as principal pantheon gods alongside Mogis."
+  ],
+  "files_modified": [
+    "cards/_characters/nylea.md"
+  ],
+  "edges_added": [
+    {
+      "from": "nylea",
+      "to": "iroas",
+      "shape": "1:1 mirror completion (Iroas-side already extant)",
+      "evidence_tier": "designer-coordinated within-pantheon protective-oversight complement; canonical at MTG Wiki Pantheon-of-Theros roster level"
+    }
+  ],
+  "other_candidates_considered": [
+    "Simisage DAA-007 missing [[elemental-monkey-trio]] anchor link in its ### Related cards block (the named carry-forward) — real, non-snip, but lower graph-weight than a character-layer node-to-node sync-drift fix. Staged for next pass; 5 trio members total need the same atomic attach (Simisage-DAA, Simipour-DAA, Pansage-DAA, Pansear-DAA, Pansear-FUS).",
+    "Add `mogis` to Nylea's `related_characters:` frontmatter — Nylea-Mogis is the most-cited within-pantheon thesis-contrast in Nylea's prose body (line 105) but the frontmatter only lists `theros-pantheon`. Same drift pattern as the Iroas one fixed here. Staged for a follow-on pantheon-frontmatter-sync pass alongside the parallel Mogis-side `nylea` addition.",
+    "Mogis frontmatter currently lists `iroas` but not `nylea` despite Mogis-side prose extensively cross-referencing Nylea — third leg of the same pantheon-sub-node frontmatter drift; same future sync pass."
+  ],
+  "next_pass_suggestions": [
+    "Pantheon frontmatter-sync sweep: add cross-references across Nylea ↔ Mogis and ensure all three sub-nodes (Iroas, Mogis, Nylea) list each other in `related_characters:`. Single janitorial pass, no prose changes needed since the See-also cross-links are already drafted on all three sides.",
+    "Simisage-DAA atomic anchor-link attach as carry-forward originally framed; can be done in one Edit per card across the 5 trio members still missing the [[elemental-monkey-trio]] back-link in their ### Related cards block (Pansear-BUS pattern, line 92, is the canonical template).",
+    "Snip-frenzy Edgelord can now also evaluate whether the plain-text 5-entry related-cards list inside each trio member's ### Related cards section should be pruned in favor of the single [[elemental-monkey-trio]] cohort wikilink — the cohort node already lists all 9 prints, so per-card duplication of the trio-member list is now arguably redundant."
+  ],
+  "edgelord_mood": "satisfied"
+}

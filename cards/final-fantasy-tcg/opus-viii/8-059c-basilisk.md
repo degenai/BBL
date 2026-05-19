@@ -65,3 +65,14 @@ A stocky, quadrupedal creature crouches in a low, aggressive stance. Its body is
 **Iconography:** spiral-eyes
 **Genre cues:** fantasy, anime, creature-design
 
+## Trivia
+
+- **Set context** — Opus VIII is a 148-card set released March 2019 featuring Final Fantasy VII, IX, XIV: Stormblood, XV, and Brave Exvius — one of the first FFTCG sets to incorporate FFXV cards into the lineup. `[TradingCardSets.com — FFTCG Opus VIII Complete Guide; Square Enix FFTCG official release page]`
+- **Lore context** — In Final Fantasy IX, the Basilisk is encountered in Burmecia (the rain-soaked rat city devastated by Queen Brahne's forces in Disc 1). It is weak to Ice and inflicts Tongue (Sleep) and Gradual Petrify — a countdown status that turns characters to stone when the timer reaches zero, directly encoding the creature's mythological identity as a beast whose gaze petrifies. `[Game8.co — Basilisk Stats and Locations FF9; GameFAQs FF9 Journey to Burmecia walkthrough]`
+- **Mechanical profile** — As an FFTCG card, Basilisk (8-059C) is a Wind-element Monster costing 5 CP with 9000 power. On entry it deals 4000 damage to a Forward; it can then be sacrificed into the Break Zone to finish any damaged Forward outright. This two-stage chip-plus-execute package on a common Wind Monster made it a notable limited-format pickup in Opus VIII draft. `[Game-O-Storus product listing; FFTCG Crystarium — How to Win Limited: Opus VIII Review]`
+- **Design lineage** — The spiraling yellow eyes are a consistent visual identifier for the Basilisk across FFIX and FFXII, distinguishing it from other lizard-type monsters in the Final Fantasy bestiary and directly reflected in this card's art. `[Final Fantasy Wiki — Basilisk (creature), via WebSearch snippet]`
+
+### Related cards
+- Basilisk (Opus I) — earlier FFTCG printing of the same monster type; cross-set appearance history
+- Vivi (Opus VIII) — FFIX hero whose Blizzara is the in-game counter to Basilisk's Ice weakness; shares set
+- Gnoll (Opus VIII) — fellow FFIX Burmecia-area enemy in the same Wind-element ecosystem

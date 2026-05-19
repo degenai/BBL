@@ -1,0 +1,41 @@
+{
+  "card_name": "Clawhauser - Donut Detective",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "175/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card is named 'Clawhauser - Donut Detective' on the card face. Benjamin Clawhauser is an officer (receptionist/radio dispatcher) at the Zootopia Police Department in Disney's Zootopia (2016), voiced by Nate Torrence. The 'Donut Detective' subtitle is a Lorcana narrative reframe — in Zootopia, Clawhauser is famously associated with donuts, and Whispers in the Well recasts him as an investigative Detective type. IP confirmed via card name, Zootopia franchise character record, and flavor text content. Confidence: high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Whispers in the Well (Set 10, November 14, 2025) introduced a new Detective character type for the film noir/mystery theme — Nick Wilde and Judy Hopps from Zootopia lead the investigation, and Clawhauser joins them as a supporting Detective. The card's 'Donut Detective' subtitle is a comedic reframe of Clawhauser's Zootopia identity: his love of donuts (and Gazelle) is a recurring character trait in the film. [LorcanaPlayer.com — starter deck review; GameTyrant — Whispers in the Well introduction; Mushu Report — Clawhauser character page]",
+      "sources": ["LorcanaPlayer.com — Whispers in the Well starter decks reviewed", "GameTyrant — Introducing Disney Lorcana: Whispers in the Well", "Mushu Report — Clawhauser (character)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Benjamin Clawhauser is an overweight cheetah who serves as the receptionist and radio dispatcher at the Zootopia Police Department in Disney's Zootopia (2016), voiced by Nate Torrence. He is described as cheerful, enthusiastic, and the first Zootopia Police officer to welcome Judy Hopps to the force with genuine warmth. His character is coded as an overeager optimist in a bureaucratic setting. [Disney Wiki — Clawhauser; Zootopia Wiki — Officer Clawhauser]",
+      "sources": ["Disney Wiki (Fandom) — Clawhauser", "Zootopia Wiki (Fandom) — Officer Clawhauser"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It was only a crumb, but Clawhauser knew it was a small piece of a larger mystery.\" The humor is structural — Clawhauser's 'clue' is literally a donut crumb, playing the hard-boiled detective voice against the character's defining enthusiasm for snacks. [Card frontmatter — flavor_text field]",
+      "sources": ["Card frontmatter flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, Clawhauser (175/204) is a Steel-ink Dreamborn Ally and Detective Common costing 6 ink (5 strength, 6 willpower). Challenger +2 gives him 7 effective strength when he initiates a challenge — significant for a common. The 'Dreamborn' classification (rather than Storyborn) indicates this is an imagined version of Clawhauser that never existed in the source film — placing him in the detective role is the Lorcana lore's invention. [Card frontmatter oracle_text; lorcana.gg card listing 010-175]",
+      "sources": ["Card frontmatter oracle_text", "lorcana.gg — 010-175 Clawhauser - Donut Detective"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Judy Hopps - Detective", "set": "Whispers in the Well", "note": "Lead detective in the set's noir storyline; same Zootopia IP; same starter deck"},
+    {"name": "Nick Wilde - Detective", "set": "Whispers in the Well", "note": "Co-lead detective; same Zootopia IP; same starter deck 'On the Case'"},
+    {"name": "Clawhauser", "set": "Previous Lorcana sets", "note": "Earlier Storyborn printing of the same character for comparison"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Clawhauser (Zootopia)",
+    "ip_confidence": "high"
+  }
+}

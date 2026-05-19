@@ -1,0 +1,41 @@
+{
+  "card_name": "Basilisk",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-059C",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII is a 148-card set released in March 2019 featuring characters from Final Fantasy VII, IX, XIV: Stormblood, XV, and Brave Exvius — one of the first sets to incorporate FFXV cards into the FFTCG lineup. [TradingCardSets.com — Final Fantasy TCG Opus VIII Complete Guide; Square Enix FFTCG official release page]",
+      "sources": ["TradingCardSets.com", "fftcg.square-enix-games.com/na/release/opus-viii"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Basilisk in Final Fantasy IX appears in Burmecia, the rain-soaked rat-people city ravaged by Brahne's forces in Disc 1. It is weak to Ice and uses Tongue (inflicts Sleep) and Gradual Petrify — a countdown status that turns a character to stone when the timer expires, reinforcing the creature's mythological origin as a beast whose gaze petrifies. [Game8.co — Basilisk Stats and Locations FF9; GameFAQs FF9 Burmecia walkthrough]",
+      "sources": ["Game8.co", "GameFAQs"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As an FFTCG card, Basilisk (8-059C) is a Wind-element Monster costing 5 CP with 9000 power. On entry it deals 4000 damage to a Forward; then it can be sacrificed — put into the Break Zone — to break any damaged Forward outright. This two-stage removal package (chip + execute) on a common Wind Monster made it a notable limited-format pickup in Opus VIII draft. [WebSearch snippet via Game-O-Storus product page; FFTCG Crystarium Opus VIII limited review]",
+      "sources": ["Game-O-Storus product listing", "fftcgcrystarium.com/limited-format/how-to-win-limited-opus-viii-review/"]
+    },
+    {
+      "category": "design",
+      "text": "The card art is visually consistent with the FFIX enemy model: broad, quadrupedal green-scaled body, enormous spiraling yellow eyes, antennae, and red tongue — the spiraling eyes are a consistent visual marker of the Basilisk across its appearances in FFIX and FFXII, distinguishing it from other lizard-type monsters in the series. [Final Fantasy Wiki via WebSearch snippet — Basilisk (creature)]",
+      "sources": ["Final Fantasy Wiki (Fandom) — Basilisk (creature), via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Basilisk", "set": "Opus I", "note": "Earlier FFTCG printing of the same monster type — cross-set appearance history"},
+    {"name": "Gnoll", "set": "Opus VIII", "note": "Fellow FFIX Burmecia-area enemy in same set, same Wind element ecosystem"},
+    {"name": "Vivi", "set": "Opus VIII", "note": "FFIX hero whose Blizzara is the in-game counter to Basilisk's Ice weakness"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

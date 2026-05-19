@@ -18,7 +18,6 @@ tags_hub:
   - small-but-dangerous
   - underestimated
   - green-skin
-  - ginyu-force
   - concentration
   - warrior
 tags_filter:

@@ -1,0 +1,42 @@
+{
+  "card_name": "Ignis EX",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-072R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card is labeled 'Forward / Retainer' with category 'Final Fantasy XV' on the card itself. Depicted figure matches Ignis Scientia: glasses, swept-back light hair, fitted dark suit, composed posture. Character is a royal retainer (House Scientia) and childhood advisor to Prince Noctis in FFXV. EX Burst ability searches for Noctis card — mechanically encoding the retainer-to-prince relationship. IP confirmed via card oracle text (category: XV, job: Retainer), FFXV character design record (Wikipedia: Ignis Scientia), and character name on the card itself. Confidence: high.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Ignis Scientia was designed by Tetsuya Nomura and has been characterized as a composed, analytical counterpart to Noctis's impulsive nature — the English localization team modeled his characterization on 'a younger James Bond or Sherlock Holmes.' He entered Noctis's service at age six as heir to the royal-retainer House Scientia. [Wikipedia: Ignis Scientia; WebSearch snippet citing Fandom FF Wiki]",
+      "sources": ["Wikipedia: Ignis Scientia", "Final Fantasy Wiki (Fandom) — Ignis Scientia, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The 'EX' suffix in the card name 'Ignis EX' is not part of the character's name — it denotes the EX Burst mechanic: when this card is placed into the Damage Zone (when the opponent's attack resolves), its enters-the-field Auto ability triggers, letting the controlling player search their deck for a card named Noctis. This mechanically encodes the retainer-to-prince relationship directly in the damage-step trigger. [Final Fantasy TCG Wiki — EX Burst mechanics, via WebSearch snippet]",
+      "sources": ["Final Fantasy Trading Card Game Wiki — EX Burst, via WebSearch snippet", "TCGPlayer product listing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Beyond the EX Burst, Ignis (8-072R) also has an Overwhelm ability: pay one Earth + one generic, choose 1 Forward, and deal it 4000 damage for each Category XV Forward you control — scaling damage based on the party size, reflecting Ignis's role as the tactical brain whose effectiveness grows with the full Brotherhood assembled. [Game-O-Storus; WebSearch snippet via TCGPlayer product listing]",
+      "sources": ["TCGPlayer product listing — Ignis EX 8-072R", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (March 2019) introduced Final Fantasy XV characters into the FFTCG for the first time as a standalone title set, alongside FFVII, FFIX, and FFXIV: Stormblood. Ignis appears as one of the Brotherhood members in the set; Noctis also appears separately. [TradingCardSets.com — FFTCG Opus VIII Complete Guide; Square Enix FFTCG release page]",
+      "sources": ["TradingCardSets.com", "fftcg.square-enix-games.com/na/release/opus-viii"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Noctis", "set": "Opus VIII", "note": "EX Burst tutors for Noctis by name — mechanically linked; both FFXV Brotherhood"},
+    {"name": "Gladiolus", "set": "Opus VIII", "note": "Fellow FFXV Brotherhood member in same set; Overwhelm scales on Category XV Forwards"},
+    {"name": "Prompto", "set": "Opus VIII", "note": "Fourth Brotherhood member; full party likely distributed across Opus VIII"},
+    {"name": "Ignis", "set": "Resurgence of Power", "note": "Later FFTCG reprint of same character — cross-set appearance"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Ignis Scientia (Final Fantasy XV)",
+    "ip_confidence": "high"
+  }
+}

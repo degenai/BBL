@@ -1,0 +1,41 @@
+{
+  "card_name": "Kristoff - Mining the Ruins",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "159/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card is named 'Kristoff - Mining the Ruins' on the card face, directly naming the character. Kristoff is the deuteragonist of Disney's Frozen (2013) — a rugged Sami-descended ice harvester who is Sven's partner and Anna's love interest. IP confirmed via card name, Frozen franchise character record, and oracle text. Confidence: high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Whispers in the Well is Lorcana's tenth set (Set 10), released November 14, 2025. Its theme is film noir, mystery, and the supernatural. The subterranean ruins setting for this Kristoff card fits the set's underground/dungeon motif, reimagining him as an excavator of magical ancient sites rather than a mountain ice harvester. [Mushu Report — Whispers in the Well; LorcanaPlayer.com]",
+      "sources": ["Mushu Report (Lorcana Wiki) — Whispers in the Well", "LorcanaPlayer.com — Whispers in the Well set page"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Kristoff Bjorgman is the deuteragonist of Disney's Frozen (2013) — a rugged, Sami-descended orphan who grew up to become an ice harvester in the mountains of Arendelle alongside his reindeer Sven. In Frozen, he is characterized as a no-nonsense loner whose relationship with Anna develops out of practical partnership into romance. [Wikipedia: Kristoff (Frozen); Frozen Wiki (Fandom)]",
+      "sources": ["Wikipedia: Kristoff (Frozen)", "Frozen Wiki (Fandom) — Kristoff Bjorgman"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, Kristoff (159/204) is an Amber-ink Storyborn Ally Rare costing 3 ink (2 strength, 2 lore, 3 willpower). His BOOST 1 ability lets you pay 1 ink once per turn to tuck the top card of your deck facedown under him; his WORTH MINING ability converts that banked card into inkwell mana whenever he quests. The result is a repeatable 1-ink-for-inkwell-ramp loop, making him a strong ink acceleration engine in the early-to-mid game. [TCGBulk card database; Mushu Report — Kristoff Mining the Ruins; community review via LorcanaPlayer.com starter deck breakdown]",
+      "sources": ["TCGBulk card database — Kristoff Mining the Ruins 159/204", "Mushu Report — Kristoff - Mining the Ruins", "LorcanaPlayer.com — Whispers in the Well starter deck review"]
+    },
+    {
+      "category": "design",
+      "text": "The card art is credited to Alejandro Hernandez. The 'Mining the Ruins' subtitle reimagines Kristoff's ice-harvesting identity into an archaeological excavation context — swapping frozen tundra for underground ruins — consistent with the set's film noir/mystery aesthetic where familiar Disney characters are recast in new investigative roles. [Card frontmatter — artist field; Lorcana set theme per Disney Lorcana official press release]",
+      "sources": ["Card frontmatter artist field (Alejandro Hernandez)", "Disney Lorcana press release — Whispers in the Well October 2025"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sven - Reindeer Friend", "set": "Various Lorcana sets", "note": "Kristoff's reindeer companion; frequent card pairing"},
+    {"name": "Anna", "set": "Various Lorcana sets", "note": "Frozen deuteragonist partner; canonical Frozen connection"},
+    {"name": "Elsa", "set": "Various Lorcana sets", "note": "Frozen central character; same IP cluster in Lorcana"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Kristoff (Frozen)",
+    "ip_confidence": "high"
+  }
+}
