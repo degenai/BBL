@@ -31,10 +31,10 @@ tags_filter:
   - creature-human
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/121-valgavoth-s-faithful.png
 average_cost_paid: 0
-market_price: 0.23
-market_price_as_of: 2026-05-17
+market_price: 0.25
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/9/9/995194a0-ceb7-48c2-be5d-a208b3971e77.png?1726286299
 art_match_confidence: high
 needs_manual_review: false

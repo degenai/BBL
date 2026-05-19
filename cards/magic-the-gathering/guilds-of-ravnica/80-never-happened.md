@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/80-never-happened.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/2/8/289d3746-9e54-4983-9daa-f1a7afbdedad.png?1572893018
 art_match_confidence: high
 needs_manual_review: false

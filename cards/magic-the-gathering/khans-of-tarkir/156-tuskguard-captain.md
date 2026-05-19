@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/156-tuskguard-captain.png
 average_cost_paid: 0
 market_price: 0.33
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/b/3/b341cc65-d316-41bb-95b8-294afa019a71.png?1562792160
 art_match_confidence: high
 needs_manual_review: false

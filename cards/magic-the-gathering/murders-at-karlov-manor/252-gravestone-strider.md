@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/252-gravestone-strider.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-16
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/1/f/1f952d8d-c089-432c-822a-8ef1e605ae38.png?1706242312
 art_match_confidence: high
 needs_manual_review: false

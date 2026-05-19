@@ -34,10 +34,10 @@ tags_filter:
   - secondary-figures-unresolved
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/164-kenrith-s-transformation.png
 average_cost_paid: 0
-market_price: 1.2
-market_price_as_of: 2026-05-17
+market_price: 1.26
+market_price_as_of: 2026-05-19
 date_added: 2026-05-16
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/6/d/6da7cd39-1f8a-4f68-adb7-df2beac02263.png?1572490600
 art_match_confidence: high
 needs_manual_review: false

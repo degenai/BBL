@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/177-fear-of-exposure.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/9/3/93bb4abc-5af1-4cf5-919b-244b6a36f8ec.png?1726286520
 art_match_confidence: high
 needs_manual_review: false

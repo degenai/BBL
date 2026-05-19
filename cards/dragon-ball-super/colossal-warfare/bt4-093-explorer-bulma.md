@@ -33,10 +33,10 @@ tags_filter:
   - anime
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-093-explorer-bulma.png
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-17
+market_price: 0.25
+market_price_as_of: 2026-05-19
 date_added: 2026-05-12
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401038329/18666450EA2102C2472814E31226742E388EF58F/
 image_width: 624
 image_height: 869

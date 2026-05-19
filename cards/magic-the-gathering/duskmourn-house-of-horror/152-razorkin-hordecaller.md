@@ -40,10 +40,10 @@ tags_filter:
   - token-maker
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/152-razorkin-hordecaller.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-17
+market_price: 0.11
+market_price_as_of: 2026-05-19
 date_added: 2026-05-11
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/f/7/f7fb0f11-d1d0-4941-a1a7-a2db88f30394.png?1726286414
 art_match_confidence: high
 needs_manual_review: false

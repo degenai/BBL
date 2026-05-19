@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/42-burden-of-proof.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-11
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/4/e/4ea29c34-4b55-4170-9120-0a8dda61f2eb.png?1706241564
 art_match_confidence: high
 needs_manual_review: false

@@ -1,0 +1,41 @@
+{
+  "card_name": "Vladimir - Ceramic Unicorn Fan",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "75/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Vladimir' and the collector subtitle 'Ceramic Unicorn Fan' directly references Vladimir's established character trait from Tangled (2010): collecting ceramic unicorns, as sung in 'I've Got a Dream.' The card is listed under the Tangled franchise on Lorcana databases. IP is Wizards-external (Disney animated feature) but internal to the Lorcana license.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vladimir is a card in Whispers in the Well (set 10), the final Lorcana release of 2025, which debuted November 14, 2025 (prerelease November 7). The set introduced new Disney IP to Lorcana including The Black Cauldron and Gargoyles characters alongside returning favorites like Vladimir from Tangled. [LorcanaPlayer.com: Whispers in the Well set page]",
+      "sources": ["LorcanaPlayer.com: Whispers in the Well set page", "Beckett News: Whispers in the Well Checklist"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text reads: \"His commitment to excellent craftsmanship is unparalleled.\" The card name 'Ceramic Unicorn Fan' references Vladimir's defining character trait in Disney's Tangled (2010): his secret hobby of collecting ceramic unicorns, revealed during the song 'I've Got a Dream' where the other Pub Thugs sing 'And Vladimir collects ceramic unicorns!' — the joke being the total incongruity between his massive, menacing frame and his delicate hobby. [Scryfall-equivalent: LorcanaJSON; Disney Wiki: Vladimir]",
+      "sources": ["LorcanaJSON card data", "Disney Wiki: Vladimir", "Tangled Wiki: Vladimir"]
+    },
+    {
+      "category": "design",
+      "text": "Card art is by Jochem van Gool. The HIGH STANDARDS ability — 'Whenever this character quests, you may banish chosen item' — is a mechanical nod to Vladimir's exacting taste: he doesn't just collect ceramic unicorns, he has standards about which ones he keeps. [LorcanaPlayer.com card page]",
+      "sources": ["LorcanaPlayer.com: Vladimir - Ceramic Unicorn Fan card page", "LorcanaJSON card data"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Vladimir is classified as an Emerald character card (6-cost) with 5 Strength / 6 Willpower / 2 Lore in Lorcana. He is a Storyborn Ally, meaning he represents a direct glimmer of the original animated character rather than a transformed version. [LorcanaPlayer.com card page]",
+      "sources": ["LorcanaPlayer.com: Vladimir - Ceramic Unicorn Fan card page"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Darkwing Duck - Crime Fighter", "set": "Winterspell", "note": "Fellow Lorcana Emerald/Steel character; shares the 'Storyborn Ally' type"},
+    {"name": "Milo Thatch - Getting His Hands Dirty", "set": "Wilds Unknown", "note": "Another Disney animated feature character from a cult 2001 film introduced in the same Lorcana era"},
+    {"name": "Preston Whitmore - Expedition Financier", "set": "Wilds Unknown", "note": "Same wave of Disney animated film characters entering Lorcana in 2025-2026"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -42,10 +42,10 @@ tags_filter:
   - card-draw
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/200-savvy-hunter.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-17
+market_price: 0.23
+market_price_as_of: 2026-05-19
 date_added: 2026-05-06
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/1/5/15c98441-2b31-4e48-a399-f36dffcfa41d.png?1572490818
 art_match_confidence: high
 needs_manual_review: false

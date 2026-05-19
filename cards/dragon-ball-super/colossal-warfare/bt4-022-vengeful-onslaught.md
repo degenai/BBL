@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-022-vengeful-onslaught.png
 average_cost_paid: 0
 market_price: 0.01
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-05
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401026357/70928DA381E47C123346FEC393FC0EF81FA794A2/
 image_width: 624
 image_height: 869

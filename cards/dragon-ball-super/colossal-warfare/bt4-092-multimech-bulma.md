@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-092-multimech-bulma.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-12
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401038202/DA02833BEA8D41F1C97E7C1FAC85CE63EC2B43DE/
 image_width: 624
 image_height: 869

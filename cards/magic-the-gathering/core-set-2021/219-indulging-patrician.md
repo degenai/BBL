@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: 
 average_cost_paid: 0
-market_price: 0.35
-market_price_as_of: 2026-05-17
+market_price: 0.53
+market_price_as_of: 2026-05-19
 date_added: 2026-05-17
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 ---
 
 # Indulging Patrician (Core Set 2021)

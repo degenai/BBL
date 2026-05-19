@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/union-force/bt2-061-universe-10-supreme-kai-gowasu.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-08
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400936965/C26C3C593A29113C7468E9FE01ED7A9451A5BC47/
 image_width: 624
 image_height: 874

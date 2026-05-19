@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/cross-worlds/bt3-070-dawn-of-terror-android-13-2018.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401014598/BFE04E10404A9E025D5A6845F11B06B68293FE33/
 image_width: 624
 image_height: 871

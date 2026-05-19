@@ -31,10 +31,10 @@ tags_filter:
   - uncommon
 reference_image: cards/_images/pokemon/darkness-ablaze/074-189-gothorita.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-17
+market_price: 0.08
+market_price_as_of: 2026-05-19
 date_added: 2026-05-08
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://images.pokemontcg.io/swsh3/74_hires.png
 art_match_confidence: high
 needs_manual_review: false

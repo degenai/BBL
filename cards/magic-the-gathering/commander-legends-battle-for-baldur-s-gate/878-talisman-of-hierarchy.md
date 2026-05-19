@@ -35,10 +35,10 @@ tags_filter:
   - black-magic
 reference_image: cards/_images/magic-the-gathering/commander-legends-battle-for-baldur-s-gate/878-talisman-of-hierarchy.png
 average_cost_paid: 0
-market_price: 0.85
-market_price_as_of: 2026-05-17
+market_price: 0.84
+market_price_as_of: 2026-05-19
 date_added: 2026-05-07
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

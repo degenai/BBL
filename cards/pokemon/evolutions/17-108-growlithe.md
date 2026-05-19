@@ -30,10 +30,10 @@ tags_filter:
   - creature
 reference_image: cards/_images/pokemon/evolutions/17-108-growlithe.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-17
+market_price: 0.22
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://images.pokemontcg.io/xy12/17_hires.png
 art_match_confidence: high
 needs_manual_review: false
@@ -46,7 +46,7 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: mountain
-suspected_ip: Growlithe (#058)
+suspected_ip: "Growlithe (#058)"
 ip_confidence: high
 ip_verified: true
 tags:

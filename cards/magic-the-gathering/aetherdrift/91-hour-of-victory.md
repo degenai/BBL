@@ -33,10 +33,10 @@ tags_filter:
   - zombie-token
 reference_image: cards/_images/magic-the-gathering/aetherdrift/91-hour-of-victory.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-17
+market_price: 0.17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/9/1/9192abc8-05a3-4e72-a634-fc5acbe97b26.png?1738356323
 art_match_confidence: high
 needs_manual_review: false

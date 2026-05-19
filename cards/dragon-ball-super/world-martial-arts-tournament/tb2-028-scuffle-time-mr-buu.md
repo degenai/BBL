@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-028-scuffle-time-mr-buu.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-06
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408076711/830FBB0837B80BED781C6486B2B05C68DB47E60A/
 image_width: 624
 image_height: 871

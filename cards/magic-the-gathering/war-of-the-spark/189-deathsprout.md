@@ -33,10 +33,10 @@ tags_filter:
   - instant
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/189-deathsprout.png
 average_cost_paid: 0
-market_price: 0.36
-market_price_as_of: 2026-05-17
+market_price: 0.39
+market_price_as_of: 2026-05-19
 date_added: 2026-05-16
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/6/d/6d615557-aea8-4057-9fbd-d62dd98edc13.png?1557577090
 art_match_confidence: high
 needs_manual_review: false

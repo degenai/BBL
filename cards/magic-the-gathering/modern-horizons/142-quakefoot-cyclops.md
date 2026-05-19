@@ -30,9 +30,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/modern-horizons/142-quakefoot-cyclops.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/2/7/27573ee0-156a-4bf3-95eb-5e7b63c638e7.png?1562201940
 art_match_confidence: high
 needs_manual_review: false

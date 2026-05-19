@@ -1,0 +1,41 @@
+{
+  "card_name": "Darkwing's Chair Set",
+  "game": "Lorcana",
+  "set": "Winterspell",
+  "collector_number": "168/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The card is an item card named 'Darkwing's Chair Set.' The oracle text explicitly references 'a character named Darkwing Duck' as the named synergy target. This is a prop from the Darkwing Duck animated series (1991-1992): Drake Mallard's twin spinning chairs at 537 Avian Way that serve as a secret transport to Darkwing Tower in the Audubon Bay Bridge. The IP is clearly the chair set from the Darkwing Duck franchise, not an individual character. Verified as Darkwing Duck franchise IP (internal Disney IP within Lorcana license). No external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Darkwing's Chair Set is the item-card companion to the Darkwing Duck character cards in Winterspell (set 11, released February 20, 2026). In the original 1991-1992 animated series, Darkwing's chair set consists of two blue chairs at Drake Mallard's civilian home at 537 Avian Way. Pushing the head of a bronze statuette between the chairs activates a spin mechanism that transports occupants to Darkwing Tower — his secret lair inside one of the towers of the Audubon Bay Bridge in St. Canard. [Darkwing Duck Wiki: Darkwing's chair set; Darkwing Duck Wiki: Audubon Bay Bridge]",
+      "sources": ["Darkwing Duck Wiki: Darkwing's chair set", "Darkwing Duck Wiki: Audubon Bay Bridge"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text reads: SECRET ENTRANCE — when played, optionally put the top card of your deck into your inkwell facedown and exerted. SUDDEN SPIN — exert and banish this item to remove up to 2 damage from chosen character; if that character is named Darkwing Duck, remove up to 4 damage instead. The 'Darkwing Duck' name-check in SUDDEN SPIN makes this item mechanically inert without the specific character on field, building in hard synergy that mirrors the prop's in-universe function as exclusive Darkwing Duck infrastructure. [LorcanaJSON card data; Star City Games: Darkwing's Chair Set listing]",
+      "sources": ["LorcanaJSON card data", "Star City Games: Darkwing's Chair Set listing"]
+    },
+    {
+      "category": "design",
+      "text": "Darkwing's Chair Set is a Rare Amber item card, illustrated by Danielle Powers. The art depicts a cozy purple armchair and ottoman setup with a steaming mug and warm lamp, presenting the domestic face of Drake Mallard's double life. The purple color scheme — dominant in both the armchair and Darkwing's superhero costume — is a deliberate visual link between the mild-mannered furniture and the vigilante identity it conceals. [LorcanaJSON card data]",
+      "sources": ["LorcanaJSON card data"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "This card has no flavor text. The card's narrative work is entirely carried by its ability names — SECRET ENTRANCE and SUDDEN SPIN — which are both direct references to the chair set's in-universe function: a hidden transport mechanism disguised as ordinary living room furniture. [LorcanaJSON card data]",
+      "sources": ["LorcanaJSON card data"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Darkwing Duck - Crime Fighter", "set": "Winterspell", "note": "The specific character named in SUDDEN SPIN's bonus effect; the primary synergy target for this item"},
+    {"name": "Darkwing Duck - Cool Under Pressure", "set": "Winterspell", "note": "Second Darkwing Duck character card in Winterspell; also benefits from SUDDEN SPIN bonus"},
+    {"name": "Darkwing Tower", "set": "(if printed)", "note": "The lair this chair set connects to via secret transport; a potential future Lorcana card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Darkwing's Chair Set (Darkwing Duck)",
+    "ip_confidence": "high"
+  }
+}

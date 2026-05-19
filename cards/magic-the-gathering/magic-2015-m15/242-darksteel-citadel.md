@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/242-darksteel-citadel.png
 average_cost_paid: 0
 market_price: 1.69
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-13
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/b/0/b0ad4395-5766-44c3-b5af-3d65d49a3333.png?1562792856
 art_match_confidence: high
 needs_manual_review: false

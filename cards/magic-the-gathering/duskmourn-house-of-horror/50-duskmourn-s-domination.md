@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/50-duskmourn-s-domination.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-11
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/1/d/1d96dbc9-c2fd-42c1-9d55-5c14fa1c1c6f.png?1726286043
 art_match_confidence: high
 needs_manual_review: false

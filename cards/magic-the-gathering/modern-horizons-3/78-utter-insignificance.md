@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/78-utter-insignificance.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-17
+market_price: 0.25
+market_price_as_of: 2026-05-19
 date_added: 2026-05-16
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/3/0/3050ac06-4c16-4155-a97f-f6bc92709ee4.png?1717011839
 art_match_confidence: high
 needs_manual_review: false

@@ -1,0 +1,41 @@
+{
+  "card_name": "Darkwing Duck - Crime Fighter",
+  "game": "Lorcana",
+  "set": "Winterspell",
+  "collector_number": "174/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Darkwing Duck' and the flavor text is the character's verbatim signature catchphrase from the 1991-1992 Disney television series. The depicted anthropomorphic duck in blue-purple cape and wide-brimmed hat matches Darkwing's canonical visual design with no ambiguity. Listed under the Darkwing Duck franchise in Lorcana databases. Winterspell is confirmed as the set where Darkwing Duck makes his Lorcana debut. Internal Disney IP within the Lorcana license.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Darkwing Duck makes his Disney Lorcana debut in Winterspell (set 11), released February 20, 2026 (prerelease February 13). Winterspell is the first Lorcana set to feature Darkwing Duck, Pocahontas, and Lilo & Stitch: The Series characters. [LorcanaPlayer.com: Winterspell set page; Beckett News: Winterspell Checklist]",
+      "sources": ["LorcanaPlayer.com: Winterspell set page", "Beckett News: Winterspell Checklist"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text reads: \"I am the terror that flaps in the night! I am the chill that runs up your spine! I am Darkwing Duck.\" This is Darkwing's signature entrance catchphrase from the 1991-1992 Disney Afternoon series, which always begins 'I am the terror that flaps in the night!' followed by a variable metaphor and closes with 'I am Darkwing Duck!' The second line varies each episode; this Lorcana printing uses 'I am the chill that runs up your spine,' themed to the Winterspell set's ice-and-winter aesthetic. [Darkwing Duck Wiki: Catchphrases; Darkwing Duck Wikipedia]",
+      "sources": ["Darkwing Duck Wiki: Catchphrases", "Wikipedia: Darkwing Duck"]
+    },
+    {
+      "category": "design",
+      "text": "Darkwing Duck was created by Tad Stones for The Disney Afternoon, premiering September 6, 1991 with the TV special 'Darkly Dawns the Duck.' The show began as a spin-off concept from two DuckTales episodes: 'Double-O-Duck' (Launchpad as a spy) and 'The Masked Mallard' (Scrooge as a purple-caped vigilante). The 'Double-O Duck' title was dropped because the Broccoli family (James Bond rights holders) owned the 'double-o' designation. A new lead character, Drake Mallard / Darkwing Duck, was designed while Launchpad McQuack was retained as sidekick. [Wikipedia: Darkwing Duck; Wikipedia: Tad Stones]",
+      "sources": ["Wikipedia: Darkwing Duck", "Wikipedia: Tad Stones"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Darkwing Duck - Crime Fighter is a 1-cost Common Steel character with the Super keyword in Lorcana. His low ink cost makes him an aggressive early-game play in Steel decks, consistent with Darkwing's self-mythologizing persona as a front-line vigilante. A second Winterspell Darkwing Duck card exists — Darkwing Duck - Cool Under Pressure (no. 192/204) in base and Enchanted alternate art (no. 239/204), with the Enchanted selling for approximately $80 in NM condition — making Darkwing one of the more prominent characters in the set. [TCGPlayer: Darkwing Duck - Cool Under Pressure; PriceCharting: Darkwing Duck Winterspell]",
+      "sources": ["TCGPlayer: Darkwing Duck - Cool Under Pressure Enchanted", "PriceCharting: Darkwing Duck - Cool Under Pressure Winterspell"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Darkwing Duck - Cool Under Pressure", "set": "Winterspell", "note": "Second Darkwing Duck character card in same set (192/204); Enchanted alt-art version (239/204) is a notable chase card"},
+    {"name": "Darkwing's Chair Set", "set": "Winterspell", "note": "Item card in same set (168/204) specifically synergizes with Darkwing Duck by name in its oracle text"},
+    {"name": "Launchpad McQuack", "set": "(various)", "note": "Darkwing's sidekick from both DuckTales and Darkwing Duck; may appear in Lorcana in adjacent sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

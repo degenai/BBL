@@ -31,9 +31,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/34-shoulder-to-shoulder.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-12
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/4/9/49d11865-a1ea-4f2e-b7da-31630c6d0272.png?1562909940
 art_match_confidence: high
 needs_manual_review: false

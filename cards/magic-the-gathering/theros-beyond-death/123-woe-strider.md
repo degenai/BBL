@@ -32,10 +32,10 @@ tags_filter:
   - forward-facing
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/123-woe-strider.png
 average_cost_paid: 0
-market_price: 0.42
-market_price_as_of: 2026-05-17
+market_price: 0.37
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/3/4/3457b558-b35b-49fd-b499-b1ec755f86ce.png?1581480044
 art_match_confidence: high
 needs_manual_review: false

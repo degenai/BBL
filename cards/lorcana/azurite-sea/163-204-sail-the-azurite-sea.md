@@ -32,10 +32,10 @@ tags_filter:
   - scene-mode
 reference_image: cards/_images/lorcana/azurite-sea/163-204-sail-the-azurite-sea.jpg
 average_cost_paid: 0
-market_price: 1
-market_price_as_of: 2026-05-17
+market_price: 1.08
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set6/163_d278d57fd15e17ac6d725aa3f868625ce4f970d8.jpg
 art_match_confidence: high
 needs_manual_review: false

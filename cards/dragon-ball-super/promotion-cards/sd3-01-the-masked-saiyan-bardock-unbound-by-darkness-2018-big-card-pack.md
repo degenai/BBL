@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/promotion-cards/sd3-01-the-masked-saiyan-bardock-unbound-by-darkness-2018-big-card-pack.png
 average_cost_paid: 0
 market_price: 1.95
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-05
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401487736/BCF2A8988D65AB8E2879AB11435EFE919CB80E89/
 image_width: 624
 image_height: 871

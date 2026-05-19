@@ -40,10 +40,10 @@ tags_filter:
   - mythic-rarity
 reference_image: cards/_images/magic-the-gathering/core-set-2021/6-baneslayer-angel.png
 average_cost_paid: 0
-market_price: 2.92
-market_price_as_of: 2026-05-17
+market_price: 2.81
+market_price_as_of: 2026-05-19
 date_added: 2026-05-06
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'

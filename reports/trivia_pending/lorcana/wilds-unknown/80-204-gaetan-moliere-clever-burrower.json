@@ -1,0 +1,42 @@
+{
+  "card_name": "Gaetan Moliere - Clever Burrower",
+  "game": "Lorcana",
+  "set": "Wilds Unknown",
+  "collector_number": "80/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Gaetan Moliere' and the subtitle 'Clever Burrower' directly references his canonical role as the expedition's geologist/excavation expert in Atlantis: The Lost Empire (2001), nicknamed 'Mole' for his obsessive relationship with soil and underground spaces. The art depicts the round goggles, headlamp, and dirt-holding pose that are signature visual identifiers for this character. Listed under the Atlantis: The Lost Empire franchise in Lorcana databases. Internal Disney IP within the Lorcana license.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Gaetan Moliere's character design originated as 'professorial' but story artist Chris Ure reworked the concept into 'a horrible little burrowing creature with a wacky coat and strange headgear with extending eyeballs.' [Disney Wiki: Gaetan Moliere] The Lorcana card's UNEARTH ability — 'draw 2 cards, then discard 2' — mechanically echoes Mole's function in the film: he surfaces information (geological data) while remaining selective about what he processes, and Evasive reflects his tendency to slip out of view underground.",
+      "sources": ["Disney Wiki: Gaetan Moliere", "LorcanaJSON card data"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Gaetan Moliere is one of multiple named Atlantis expedition crew members represented in Wilds Unknown (set 12, released May 15, 2026), alongside Preston Whitmore, Milo Thatch, Kida, and The Leviathan. The set is the first in Lorcana history to feature Pixar characters, making the Atlantis cluster part of a landmark expansion. [Ravensburger/disneylorcana.com: Wilds Unknown press release; MushurePort.com: Atlantis gang article]",
+      "sources": ["Ravensburger/disneylorcana.com: Wilds Unknown press release", "MushurePort.com: Milo, Kida and the Atlantis gang article"]
+    },
+    {
+      "category": "design",
+      "text": "Gaetan 'Mole' Moliere is voiced by Corey Burton in Atlantis: The Lost Empire (2001) and its direct-to-video sequel Atlantis: Milo's Return (2003). Mark Hamill auditioned for the role and was seriously considered before Burton was selected. Mole has no flavor text on his Lorcana card; the card relies solely on the oracle abilities to carry his character voice. [BehindTheVoiceActors.com: Gaetan Moliere; Tammy Tuckey interview with Corey Burton]",
+      "sources": ["BehindTheVoiceActors.com: Gaetan Moliere", "Tammy Tuckey Show: Corey Burton 15th anniversary interview"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At 4 cost Uncommon, Gaetan Moliere - Clever Burrower carries both Evasive and UNEARTH (draw 2, discard 2 on quest), making him a consistent card-selection engine. Evasive on a non-legendary uncommon at this cost tier is relatively rare in Lorcana, suggesting Mole's underground mobility was a deliberate design decision to reflect his burrowing lore. [LorcanaJSON card data]",
+      "sources": ["LorcanaJSON card data", "LorcanaPlayer.com: Wilds Unknown card list"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Preston Whitmore - Expedition Financier", "set": "Wilds Unknown", "note": "Fellow Atlantis expedition crew member; same set"},
+    {"name": "Milo Thatch - Getting His Hands Dirty", "set": "Wilds Unknown", "note": "Expedition protagonist; Mole is one of his crew members"},
+    {"name": "Kida - Protector of Atlantis", "set": "Wilds Unknown", "note": "Atlantean princess; the Legendary anchor of the Atlantis cluster in Wilds Unknown"},
+    {"name": "The Leviathan - Guardian of Atlantis", "set": "Wilds Unknown", "note": "The Atlantis mechanical guardian; Mole would have interfaced with it during the expedition"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

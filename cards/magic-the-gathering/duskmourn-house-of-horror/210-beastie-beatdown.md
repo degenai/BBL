@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/210-beastie-beatdown.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/5/f/5f889c95-46af-4fd9-aff2-573d5384fd58.png?1726286652
 art_match_confidence: high
 needs_manual_review: false

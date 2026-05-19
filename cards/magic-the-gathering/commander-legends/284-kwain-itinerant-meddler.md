@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/commander-legends/284-kwain-itinerant-meddler.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/f/5/f571fef1-1fd2-4355-b803-5edccb6f4b94.png?1608911183
 art_match_confidence: high
 needs_manual_review: false

@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/lorcana/whispers-in-the-well/104-204-ares-god-of-war--cold-foil.jpg
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/104_be50ac9fb22a64cb564ba071e0009c715a2b162b.jpg
 art_match_confidence: high
 needs_manual_review: false

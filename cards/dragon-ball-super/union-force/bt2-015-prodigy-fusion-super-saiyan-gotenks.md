@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/union-force/bt2-015-prodigy-fusion-super-saiyan-gotenks.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-08
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400928878/9D4769B4A4062F81CC4B1FC220549275ECFE2178/
 image_width: 624
 image_height: 874

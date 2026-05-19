@@ -29,9 +29,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/aetherdrift/119-crash-and-burn.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/3/3/339a41a1-b36f-4b81-b74c-220d279c0e26.png?1738356395
 art_match_confidence: high
 needs_manual_review: false

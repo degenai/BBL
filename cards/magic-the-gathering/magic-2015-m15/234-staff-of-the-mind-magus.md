@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/234-staff-of-the-mind-magus.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-07
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/c/f/cf76bee3-2b69-4c7b-9b7c-1a9f4bbcfde0.png?1562794585
 art_match_confidence: high
 needs_manual_review: false

@@ -29,9 +29,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/ultimate-masters/8-ulamog-s-crusher.png
 average_cost_paid: 0
 market_price: 0.32
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-12
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/e/d/eda0fd38-38e6-4e9b-9c17-4d855e01b1e1.png?1547515341
 art_match_confidence: high
 needs_manual_review: false

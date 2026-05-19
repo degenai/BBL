@@ -37,9 +37,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/204-snapping-voidcraw.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-11
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/9/1/9185371c-2dde-48ad-ab27-08be04b3c522.png?1717047347
 art_match_confidence: high
 needs_manual_review: false

@@ -35,10 +35,10 @@ tags_filter:
   - investigate
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/51-curious-inquiry.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-17
+market_price: 0.21
+market_price_as_of: 2026-05-19
 date_added: 2026-05-11
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/5/a/5a3603c6-92df-45c7-b402-1f0a552ea398.png?1706241588
 art_match_confidence: high
 needs_manual_review: false

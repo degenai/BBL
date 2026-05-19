@@ -32,10 +32,10 @@ tags_filter:
   - chiaroscuro
 reference_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/78-binding-negotiation.png
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-17
+market_price: 0.13
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/1/c/1c4c26b9-981f-47cf-b0f4-769e788d9537.png?1712355546
 art_match_confidence: high
 needs_manual_review: false

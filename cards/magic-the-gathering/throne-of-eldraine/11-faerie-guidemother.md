@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/11-faerie-guidemother.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-16
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/e/8/e8bbece8-9620-44d9-b991-350fe952538a.png?1572489666
 art_match_confidence: high
 needs_manual_review: false

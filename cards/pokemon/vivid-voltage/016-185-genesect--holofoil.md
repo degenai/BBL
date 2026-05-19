@@ -34,10 +34,10 @@ tags_filter:
   - pokemon
 reference_image: cards/_images/pokemon/vivid-voltage/016-185-genesect--holofoil.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-17
+market_price: 0.3
+market_price_as_of: 2026-05-19
 date_added: 2026-05-05
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://images.pokemontcg.io/swsh4/16_hires.png
 art_match_confidence: high
 needs_manual_review: false

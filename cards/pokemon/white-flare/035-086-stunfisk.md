@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/pokemon/white-flare/035-086-stunfisk.png
 average_cost_paid: 0
-market_price: 0.04
-market_price_as_of: 2026-05-17
+market_price: 0.05
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://images.pokemontcg.io/rsv10pt5/35_hires.png
 art_match_confidence: high
 needs_manual_review: false

@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/lorcana/winterspell/174-204-darkwing-duck-crime-fighter.jpg
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set11/174_28e79a2685457dc0b0ea7ee499941adacf71ad56.jpg
 art_match_confidence: high
 needs_manual_review: false
@@ -54,7 +54,7 @@ setting: urban
 subject_known_ip: true
 suspected_ip: Darkwing Duck (Darkwing Duck)
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 tags:
   - card
   - lorcana
@@ -67,12 +67,12 @@ tags:
 
 ![174-204-darkwing-duck-crime-fighter](../../_images/lorcana/winterspell/174-204-darkwing-duck-crime-fighter.jpg)
 
-> [!warning] Suspected IP: **Darkwing Duck (Darkwing Duck)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Darkwing Duck (Darkwing Duck)**
+> Confirmed via card name, flavor text (verbatim catchphrase from the 1991-1992 series), and canonical visual identifiers: blue-purple cape, wide-brimmed hat, white mask, orange beak [Wikipedia: Darkwing Duck; Darkwing Duck Wiki: Catchphrases].
 
 An anthropomorphic duck dressed in a blue-purple superhero cape and wide-brimmed hat launches through the air with arms outstretched in a dynamic flying pose. The figure's white mask and orange beak are visible. The background is a wintry urban environment with ice, snow, and icy blue skyscraper-like shapes — consistent with the Winterspell setting. The wind from flight catches the cape dramatically. The composition emphasizes speed and heroic energy.
 
-**Subject:** Darkwing Duck from Disney's Darkwing Duck — an anthropomorphic duck in blue-purple cape and wide-brimmed hat flying through a wintry environment
+**Verified IP:** Darkwing Duck (Darkwing Duck) (confidence: high)
 
 **Composition:** mid-shot, action, figures: solo, facing: three-quarter
 **Setting:** urban, modern, night, snow
@@ -85,3 +85,13 @@ An anthropomorphic duck dressed in a blue-purple superhero cape and wide-brimmed
 **Iconography:** superhero cape, wide-brimmed hat, mask
 **Genre cues:** animation, superhero, comedy
 
+## Trivia
+
+- **Set context** — Darkwing Duck makes his Disney Lorcana debut in Winterspell (set 11), released February 20, 2026 (prerelease February 13). Winterspell is the first Lorcana set to feature Darkwing Duck, Pocahontas, and Lilo & Stitch: The Series characters. `[LorcanaPlayer.com: Winterspell set page; Beckett News: Winterspell Checklist]`
+- **Flavor text** — "I am the terror that flaps in the night! I am the chill that runs up your spine! I am Darkwing Duck." This is Darkwing's signature catchphrase from the 1991-1992 Disney Afternoon series. The intro 'I am the terror that flaps in the night!' is fixed; the second line varies each episode (Darkwing always compares himself to a different unpleasant thing). This Lorcana printing uses 'I am the chill that runs up your spine' — a winter-specific variant selected to match Winterspell's ice-and-cold aesthetic. `[Darkwing Duck Wiki: Catchphrases; Wikipedia: Darkwing Duck]`
+- **Design history** — Darkwing Duck was created by Tad Stones and premiered September 6, 1991 with the TV special 'Darkly Dawns the Duck.' The show originated as a spin-off concept from two DuckTales episodes. The working title 'Double-O Duck' was dropped because the Broccoli family (James Bond rights holders) owned the 'double-o' designation; a new character, Drake Mallard, was created, with Launchpad McQuack retained as sidekick. Tad Stones has stated the two shows exist in different universes despite shared characters. `[Wikipedia: Darkwing Duck; Wikipedia: Tad Stones]`
+- **Mechanical** — Darkwing Duck - Crime Fighter is a 1-cost Common Steel character with the Super keyword. His low ink cost supports aggressive early deployment, consistent with Darkwing's self-mythologizing persona as the first to arrive at any scene. A second Darkwing Duck character card in Winterspell — Darkwing Duck - Cool Under Pressure (no. 192/204) — also has an Enchanted alternate art version (no. 239/204) that reached approximately $80 in NM condition, making Darkwing one of the highest-profile characters in the set. `[TCGPlayer: Darkwing Duck - Cool Under Pressure Enchanted; PriceCharting: Winterspell]`
+
+### Related cards
+- Darkwing Duck - Cool Under Pressure (Winterspell, 192/204) — second Darkwing character card in the same set; Enchanted version (239/204) is a notable chase card
+- Darkwing's Chair Set (Winterspell, 168/204) — item card in the same set; specifically names Darkwing Duck in its SUDDEN SPIN bonus effect

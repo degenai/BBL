@@ -32,10 +32,10 @@ tags_filter:
   - creature-horror
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/45-clammy-prowler.png
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-17
+market_price: 0.13
+market_price_as_of: 2026-05-19
 date_added: 2026-05-16
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/2/3/237f0b93-f12e-4c5f-a3d7-83e8f20f8493.png?1726286023
 art_match_confidence: high
 needs_manual_review: false

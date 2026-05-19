@@ -32,10 +32,10 @@ tags_filter:
   - white-magic
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/41-proud-pack-rhino.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-17
+market_price: 0.2
+market_price_as_of: 2026-05-19
 date_added: 2026-05-11
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/0/8/0821e622-88b8-4b82-a696-954da1dde915.png?1717011530
 art_match_confidence: high
 needs_manual_review: false

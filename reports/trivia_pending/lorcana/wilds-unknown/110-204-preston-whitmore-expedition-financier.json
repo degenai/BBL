@@ -1,0 +1,42 @@
+{
+  "card_name": "Preston Whitmore - Expedition Financier",
+  "game": "Lorcana",
+  "set": "Wilds Unknown",
+  "collector_number": "110/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Preston Whitmore' and the subtitle 'Expedition Financier' matches his canonical role in Atlantis: The Lost Empire (2001) as the private millionaire who personally funds the expedition to find Atlantis. The Lorcana card page lists him under the Atlantis: The Lost Empire franchise. Internal Disney IP within the Lorcana license.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Preston Whitmore - Expedition Financier is a card in Wilds Unknown (set 12), which released May 15, 2026 (prerelease May 8). Wilds Unknown marks the first entry of Pixar characters into Disney Lorcana. Atlantis: The Lost Empire characters, including Preston Whitmore, Milo Thatch, Gaetan Moliere, and Kida, appear alongside Toy Story, Brave, and The Incredibles characters in this milestone set. [Ravensburger official press release: Wilds Unknown; FantasyLandNews.com]",
+      "sources": ["Ravensburger/disneylorcana.com: Wilds Unknown press release", "FantasyLandNews.com: Wilds Unknown set announcement"]
+    },
+    {
+      "category": "design",
+      "text": "Preston Whitmore was originally voiced by Lloyd Bridges, who recorded lines before dying on March 10, 1998, before the film's 2001 release. John Mahoney (Frasier) was recast, and his energetic performance prompted the character to be redesigned as more eccentric — deepening the friendship dynamic with Milo's grandfather Thaddeus Thatch. This recasting story is one of the more unusual production histories in Disney animation. [Wikipedia: Atlantis: The Lost Empire; Disney Wiki: Preston B. Whitmore]",
+      "sources": ["Wikipedia: Atlantis: The Lost Empire", "Disney Wiki: Preston B. Whitmore"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text reads: \"I promised all of you I'd keep your secrets. And Preston Whitmore always keeps a promise.\" This is a paraphrase of Whitmore's dialogue from the film, reinforcing his arc as the eccentric-but-loyal patron who destroys evidence of the expedition to protect both Atlantis and the team. The PRICE OF PROGRESS ability — discarding the top 2 cards of your deck on entry — maps to the cost of his kept promises: valuable resources sacrificed for loyalty. [LorcanaJSON card data; Disney Wiki: Preston B. Whitmore]",
+      "sources": ["LorcanaJSON card data", "Disney Wiki: Preston B. Whitmore"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Atlantis: The Lost Empire (2001) earned approximately $185 million worldwide against a production budget of $90-120 million, making it a commercial disappointment that led to cancellation of planned sequels and theme park attractions. The film has since developed a cult following and is regularly cited as one of Disney's most underrated animated features. Its 2025-2026 Lorcana representation — with multiple named crew members receiving cards in Wilds Unknown — reflects the film's rehabilitation in fan esteem. [Wikipedia: Atlantis: The Lost Empire; GameRant; CBR]",
+      "sources": ["Wikipedia: Atlantis: The Lost Empire", "GameRant: Disney great animated sci-fi movie flopped", "CBR: Atlantis underrated Disney classic"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Gaetan Moliere - Clever Burrower", "set": "Wilds Unknown", "note": "Fellow Atlantis: The Lost Empire expedition crew member in same set"},
+    {"name": "Milo Thatch - Getting His Hands Dirty", "set": "Wilds Unknown", "note": "Protagonist of Atlantis: The Lost Empire, whose grandfather Thaddeus was Whitmore's lifelong friend"},
+    {"name": "Kida - Protector of Atlantis", "set": "Wilds Unknown", "note": "Kida is a Legendary card in the same set; the Atlantis royalty whose empire Whitmore helps protect"},
+    {"name": "The Leviathan - Guardian of Atlantis", "set": "Wilds Unknown", "note": "The Atlantis submarine/guardian also represented in Wilds Unknown"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

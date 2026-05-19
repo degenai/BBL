@@ -31,9 +31,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/unstable/21-sacrifice-play.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/d/0/d0bc709f-c046-48c4-99a0-e9a3a7e79d66.png?1562939169
 art_match_confidence: high
 needs_manual_review: false

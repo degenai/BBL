@@ -32,10 +32,10 @@ tags_filter:
   - colorless-land
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/261-escape-tunnel.png
 average_cost_paid: 0
-market_price: 0.26
-market_price_as_of: 2026-05-17
+market_price: 0.29
+market_price_as_of: 2026-05-19
 date_added: 2026-05-11
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/9/3/93ddde4f-d35e-4128-8f43-d0eadbd715de.png?1706242339
 art_match_confidence: high
 needs_manual_review: false

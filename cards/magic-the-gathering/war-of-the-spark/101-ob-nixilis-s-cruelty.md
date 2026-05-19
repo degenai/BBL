@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/101-ob-nixilis-s-cruelty.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-16
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/9/4/94db72a8-57f7-4f17-9f09-cae90ef50304.png?1557576532
 art_match_confidence: high
 needs_manual_review: false

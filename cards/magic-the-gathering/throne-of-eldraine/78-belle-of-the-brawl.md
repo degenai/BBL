@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/78-belle-of-the-brawl.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-16
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/2/c/2c3c992a-70b5-4d3c-9a96-93c3365691ac.png?1572490079
 art_match_confidence: high
 needs_manual_review: false

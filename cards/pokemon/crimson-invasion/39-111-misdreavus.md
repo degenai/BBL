@@ -32,10 +32,10 @@ tags_filter:
   - no-body
 reference_image: cards/_images/pokemon/crimson-invasion/39-111-misdreavus.png
 average_cost_paid: 0
-market_price: 0.23
-market_price_as_of: 2026-05-17
+market_price: 0.22
+market_price_as_of: 2026-05-19
 date_added: 2026-05-08
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://images.pokemontcg.io/sm4/39_hires.png
 art_match_confidence: high
 needs_manual_review: false

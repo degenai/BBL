@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/213-millstone.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-07
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/2/3/23f28acb-8ccb-4b89-ba7f-ff7ce59852aa.png?1710406441
 art_match_confidence: high
 needs_manual_review: false

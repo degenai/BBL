@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/276-mindwrack-harpy.png
 average_cost_paid: 0
 market_price: 0.34
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/6/c/6c5ce79a-fcbd-46ab-8911-480f967ca57f.png?1581481468
 art_match_confidence: high
 needs_manual_review: false

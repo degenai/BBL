@@ -1,7 +1,7 @@
 ---
 name: Betrayer's Bargain
-game: Magic: The Gathering
-set: Duskmourn: House of Horror
+game: "Magic: The Gathering"
+set: "Duskmourn: House of Horror"
 collector_number: 126
 rarity: U
 variance: Normal
@@ -10,14 +10,40 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: ["betrayal", "music", "headphones", "cassette-player", "walkman", "horror", "haunted-house", "fistfight", "violence", "escape", "abandonment", "smoke", "youth", "moths", "crown", "survivor"]
-tags_filter: ["group", "mid-shot", "narrative-mode", "three-quarter-facing", "red-magic", "instant", "indoor-scene", "story-spotlight", "duskmourn-survivors", "sacrifice-cost"]
+tags_hub:
+  - betrayal
+  - music
+  - headphones
+  - cassette-player
+  - walkman
+  - horror
+  - haunted-house
+  - fistfight
+  - violence
+  - escape
+  - abandonment
+  - smoke
+  - youth
+  - moths
+  - crown
+  - survivor
+tags_filter:
+  - group
+  - mid-shot
+  - narrative-mode
+  - three-quarter-facing
+  - red-magic
+  - instant
+  - indoor-scene
+  - story-spotlight
+  - duskmourn-survivors
+  - sacrifice-cost
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/126-betrayer-s-bargain.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-14
+market_price: 0.06
+market_price_as_of: 2026-05-19
 date_added: 2026-05-11
-last_seen: 2026-05-14
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/7/9/7956ae00-8f0c-48f0-8110-19ff53863876.png?1726286318
 art_match_confidence: high
 needs_manual_review: false
@@ -32,7 +58,8 @@ setting: indoor
 suspected_ip: Winter (MTG Duskmourn story character)
 ip_confidence: high
 ip_verified: true
-characters: ["valgavoth"]
+characters:
+  - valgavoth
 ---
 
 # Betrayer's Bargain (Duskmourn: House of Horror)

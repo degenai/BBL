@@ -32,10 +32,10 @@ tags_filter:
   - pokemon-tcg
 reference_image: cards/_images/pokemon/chilling-reign/148-198-path-to-the-peak.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-17
+market_price: 0.18
+market_price_as_of: 2026-05-19
 date_added: 2026-05-06
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://images.pokemontcg.io/swsh6/148_hires.png
 art_match_confidence: high
 needs_manual_review: false

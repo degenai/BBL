@@ -1,5 +1,5 @@
 ---
-name: '"Disheartened" Mikasa'
+name: "Disheartened" Mikasa
 game: Weiss Schwarz
 set: Attack on Titan
 collector_number: AOT/S35-E075 C
@@ -31,9 +31,9 @@ tags_filter:
 reference_image: cards/_images/weiss-schwarz/attack-on-titan/aot-s35-e075-c-disheartened-mikasa.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-05
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/a/aot_s35/AOT_S35_E075.png
 art_match_confidence: high
 needs_manual_review: false

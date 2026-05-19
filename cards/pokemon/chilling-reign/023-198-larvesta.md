@@ -31,9 +31,9 @@ tags_filter:
 reference_image: cards/_images/pokemon/chilling-reign/023-198-larvesta.jpg
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-07
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://archives.bulbagarden.net/media/upload/f/fa/LarvestaChillingReign23.jpg
 art_match_confidence: high
 needs_manual_review: false

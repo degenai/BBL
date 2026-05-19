@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/95-eldrazi-aggressor.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/6/2/62f3ec85-552d-4e28-939e-ab2c39e3e9c5.png?1562915027
 art_match_confidence: high
 needs_manual_review: false

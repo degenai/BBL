@@ -38,10 +38,10 @@ tags_filter:
   - multi-figure
 reference_image: cards/_images/magic-the-gathering/aetherdrift/126-fuel-the-flames.png
 average_cost_paid: 0
-market_price: 0.11
-market_price_as_of: 2026-05-17
+market_price: 0.13
+market_price_as_of: 2026-05-19
 date_added: 2026-05-11
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/6/2/624335fb-8a0b-4fa9-aefb-60ac641a7934.png?1738356412
 art_match_confidence: high
 needs_manual_review: false

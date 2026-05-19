@@ -31,9 +31,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/modern-horizons/185-treefolk-umbra.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/6/7/677166cf-4e1e-43ac-a67b-afaf33c0d14e.png?1562202227
 art_match_confidence: high
 needs_manual_review: false

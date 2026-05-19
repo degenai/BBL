@@ -38,9 +38,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/aetherdrift/122-dracosaur-auxiliary.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-11
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/c/f/cf800b8c-d08e-4644-8ed2-11b839153861.png?1738356402
 art_match_confidence: high
 needs_manual_review: false

@@ -33,10 +33,10 @@ tags_filter:
   - amass
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/96-lazotep-reaver.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-17
+market_price: 0.19
+market_price_as_of: 2026-05-19
 date_added: 2026-05-16
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/5/9/594bbe43-a8aa-42aa-bc49-cb4f3bc05cad.png?1557576504
 art_match_confidence: high
 needs_manual_review: false

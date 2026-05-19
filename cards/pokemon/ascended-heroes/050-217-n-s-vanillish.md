@@ -30,10 +30,10 @@ tags_filter:
   - creature
 reference_image: cards/_images/pokemon/ascended-heroes/050-217-n-s-vanillish.jpg
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-17
+market_price: 0.09
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://images.scrydex.com/pokemon/me2pt5-50/large
 art_match_confidence: high
 needs_manual_review: false

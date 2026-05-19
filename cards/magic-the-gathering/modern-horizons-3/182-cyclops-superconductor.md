@@ -28,10 +28,10 @@ tags_filter:
   - creature
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/182-cyclops-superconductor.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-17
+market_price: 0.13
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/6/9/69ce6839-92d1-497b-9760-6fdc7388614e.png?1717047224
 art_match_confidence: high
 needs_manual_review: false

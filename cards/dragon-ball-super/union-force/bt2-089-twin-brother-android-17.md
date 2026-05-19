@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/union-force/bt2-089-twin-brother-android-17.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400942258/2494F6DE11E023B7B1A2E22EFBD0A0F91A5066DE/
 image_width: 624
 image_height: 874

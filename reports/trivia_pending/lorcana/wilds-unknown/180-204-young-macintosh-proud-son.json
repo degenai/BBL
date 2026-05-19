@@ -1,0 +1,42 @@
+{
+  "card_name": "Young Macintosh - Proud Son",
+  "game": "Lorcana",
+  "set": "Wilds Unknown",
+  "collector_number": "180/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Young Macintosh' and the subtitle 'Proud Son' matches the character's canonical role in Brave (2012): the arrogant, physically confident son of Lord Macintosh, one of three Highland lord suitors competing for Princess Merida's hand. The flavor text references his sword and brash confidence. Listed under the Brave franchise in Lorcana databases. Wilds Unknown is confirmed as the set where Brave characters make their Lorcana debut. Internal Disney/Pixar IP within the Lorcana license.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Young Macintosh - Proud Son appears in Wilds Unknown (set 12, released May 15, 2026), which marks the first appearance of Pixar characters in Disney Lorcana. Brave characters — including Princess Merida and the three suitors — join the game in this milestone set alongside Toy Story and The Incredibles. [Ravensburger/disneylorcana.com: Wilds Unknown press release; FantasyLandNews.com]",
+      "sources": ["Ravensburger/disneylorcana.com: Wilds Unknown press release", "FantasyLandNews.com: Wilds Unknown Pixar debut article"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text reads: \"We've got the strength and we've got the swords. What vine could stand against all of that, right Da?\" The line is original to the Lorcana card (not a direct quote from the 2012 Brave film) but captures Young Macintosh's defining personality trait: bluster backed by genuine physical confidence, directed reverently toward his father Lord Macintosh. The 'right Da?' tag positions him as a son performing for parental approval — the 'proud son' subtitle's emotional core. [LorcanaJSON card data]",
+      "sources": ["LorcanaJSON card data", "Disney Wiki: Young Macintosh"]
+    },
+    {
+      "category": "design",
+      "text": "Young Macintosh and his father Lord Macintosh were named after Apple Macintosh computers. This is a Pixar in-joke: the Apple Macintosh was introduced by Steve Jobs, who was CEO of Pixar Animation Studios and later joined Disney's board of directors when Disney acquired Pixar in 2006. The suitor trio's names — Macintosh, MacGuffin, and Dingwall — are a layer of comedy: MacGuffin is a screenwriting term for a motivating object of no inherent value, a nod to the suitors' plot-device function. [Disney Wiki: Young Macintosh; Pixar Wiki: Young Macintosh]",
+      "sources": ["Disney Wiki: Young Macintosh", "Pixar Wiki: Young Macintosh", "Brave Wiki: Young Macintosh"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Young Macintosh - Proud Son is a 2-cost Common Steel character in Lorcana with no named abilities listed beyond his base stats. His low cost positions him as an aggressive early-game presence, consistent with his role in Brave as a physically dominant suitor who leads with strength before sense. The duo composition tag in the art (a second Highland figure visible in the background) may refer to his companions Young MacGuffin or Wee Dingwall. [LorcanaJSON card data; LorcanaPlayer.com: Wilds Unknown card list]",
+      "sources": ["LorcanaJSON card data", "LorcanaPlayer.com: Wilds Unknown card list"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Merida", "set": "Wilds Unknown", "note": "The Brave protagonist whose arranged marriage to one of the three suitors (including Macintosh) drives the film's central conflict"},
+    {"name": "Young MacGuffin", "set": "Wilds Unknown (if printed)", "note": "Fellow suitor from Brave; the MacGuffin name is a screenwriting term pun; appears alongside Macintosh in the film"},
+    {"name": "Wee Dingwall", "set": "Wilds Unknown (if printed)", "note": "Third suitor from Brave; the Highland trio of suitors are typically depicted together"},
+    {"name": "Lord Macintosh", "set": "Wilds Unknown (if printed)", "note": "Young Macintosh's father; the 'right Da?' flavor text addresses him directly"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

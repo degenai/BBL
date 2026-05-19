@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/152-reckless-cohort.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://cards.scryfall.io/png/front/7/7/77a4cdec-e5fc-4ea8-a7bc-f1109fadae3c.png?1562923276
 art_match_confidence: high
 needs_manual_review: false

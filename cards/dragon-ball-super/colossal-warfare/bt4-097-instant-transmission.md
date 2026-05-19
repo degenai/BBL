@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-097-instant-transmission.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-12
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401039092/397603AB7852B7A70A31B1F7F02568043BDDE012/
 image_width: 624
 image_height: 869

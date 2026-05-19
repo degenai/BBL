@@ -34,10 +34,10 @@ tags_filter:
   - ally
 reference_image: cards/_images/lorcana/wilds-unknown/80-204-gaetan-moliere-clever-burrower.jpg
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-17
+market_price: 0.13
+market_price_as_of: 2026-05-19
 date_added: 2026-05-14
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12/80_1b003c0f61a59f2212f3a1eecc5eddc04dbdbcfa.jpg
 art_match_confidence: high
 needs_manual_review: false
@@ -58,7 +58,7 @@ setting: dungeon
 subject_known_ip: true
 suspected_ip: "Gaetan Moliere / Mole (Atlantis: The Lost Empire)"
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 tags:
   - card
   - lorcana
@@ -71,12 +71,12 @@ tags:
 
 ![80-204-gaetan-moliere-clever-burrower](../../_images/lorcana/wilds-unknown/80-204-gaetan-moliere-clever-burrower.jpg)
 
-> [!warning] Suspected IP: **Gaetan Moliere / Mole (Atlantis: The Lost Empire)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Gaetan Moliere / Mole (Atlantis: The Lost Empire)**
+> Confirmed via card name + subtitle ('Clever Burrower' matches his canonical geologist/excavation role) and signature visual identifiers: round goggle headgear, headlamp, and dirt-holding pose. Lorcana franchise classification confirms [LorcanaPlayer.com].
 
 A short, round figure in a brown lab coat grins ecstatically while holding up a fistful of earth or small rocks in one hand. Round magnifying goggles rest on his forehead above wide, joyful eyes. A glowing headlamp on his head illuminates his face from above. The background is a vivid green glowing underground environment filled with vegetation, bioluminescent plants, or thick root systems — an underground biome suggesting the depths of an excavation. The figure's body language radiates pure unhinged delight at whatever he's found in the dirt.
 
-**Subject:** Gaetan Moliere (Mole) from Disney's Atlantis: The Lost Empire — a round goggle-wearing geologist delightedly holding up a handful of dirt or earth
+**Verified IP:** Gaetan Moliere / Mole (Atlantis: The Lost Empire) (confidence: high)
 
 **Composition:** mid-shot, narrative, figures: solo, facing: forward
 **Setting:** dungeon, organic, indeterminate
@@ -88,3 +88,15 @@ A short, round figure in a brown lab coat grins ecstatically while holding up a 
 **Iconography:** headlamp, magnifying goggles
 **Genre cues:** adventure, animation, comedy
 
+## Trivia
+
+- **Design history** — Gaetan Moliere's character design in Atlantis: The Lost Empire (2001) was originally conceived as 'professorial,' but story artist Chris Ure reworked the concept into 'a horrible little burrowing creature with a wacky coat and strange headgear with extending eyeballs.' The result is one of Disney animation's more unusual supporting character designs, entirely built around the visual comedy of obsessive behavior externalized into equipment. `[Disney Wiki: Gaetan Moliere]`
+- **Design history** — Gaetan 'Mole' Moliere is voiced by Corey Burton in both Atlantis: The Lost Empire (2001) and the direct-to-video sequel Atlantis: Milo's Return (2003). Mark Hamill auditioned for the role and was seriously considered before Burton was cast. This card has no flavor text; the character's voice is carried entirely by ability name: UNEARTH. `[BehindTheVoiceActors.com: Gaetan Moliere; Tammy Tuckey Show: Corey Burton 15th anniversary interview]`
+- **Mechanical** — At 4-cost Uncommon, Gaetan carries both Evasive and UNEARTH ('draw 2 cards, then choose and discard 2' on quest). Evasive on a non-legendary uncommon at this cost is relatively rare in Lorcana; the ability reflects Mole's knack for slipping underground and being genuinely hard to pin down. UNEARTH maps directly to his in-universe function: he surfaces information (geological data, soil analysis) while culling the unusable. `[LorcanaJSON card data]`
+- **Set context** — Mole is one of multiple named Atlantis expedition crew members in Wilds Unknown (set 12, released May 15, 2026), the first Lorcana set to feature Pixar characters. The Atlantis cluster in this set includes Preston Whitmore, Milo Thatch, Kida, and The Leviathan. `[Ravensburger/disneylorcana.com: Wilds Unknown press release; MushurePort.com: Milo, Kida and the Atlantis gang]`
+
+### Related cards
+- Preston Whitmore - Expedition Financier (Wilds Unknown, 110/204) — fellow Atlantis expedition crew member in the same set
+- Milo Thatch - Getting His Hands Dirty (Wilds Unknown) — expedition protagonist; Mole serves directly under Milo
+- Kida - Protector of Atlantis (Wilds Unknown) — the Legendary Atlantis anchor card in the set
+- The Leviathan - Guardian of Atlantis (Wilds Unknown) — the Atlantean mechanical guardian also represented in Wilds Unknown

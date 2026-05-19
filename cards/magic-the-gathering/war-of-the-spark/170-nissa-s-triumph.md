@@ -1,6 +1,6 @@
 ---
 name: Nissa's Triumph
-game: Magic: The Gathering
+game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 170
 rarity: U
@@ -10,14 +10,34 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: ["elf", "forest", "hood", "cloak", "planeswalker", "portrait", "ranger", "druid", "red-hair", "glowing-eye", "nature", "magic-user"]
-tags_filter: ["solo", "close-up", "portrait-mode", "faces-left", "female-figure", "green-magic", "sorcery", "no-creature"]
+tags_hub:
+  - elf
+  - forest
+  - hood
+  - cloak
+  - planeswalker
+  - portrait
+  - ranger
+  - druid
+  - red-hair
+  - glowing-eye
+  - nature
+  - magic-user
+tags_filter:
+  - solo
+  - close-up
+  - portrait-mode
+  - faces-left
+  - female-figure
+  - green-magic
+  - sorcery
+  - no-creature
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/170-nissa-s-triumph.png
 average_cost_paid: 0
-market_price: 0.27
-market_price_as_of: 2026-05-14
+market_price: 0.28
+market_price_as_of: 2026-05-19
 date_added: 2026-05-05
-last_seen: 2026-05-14
+last_seen: 2026-05-18
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

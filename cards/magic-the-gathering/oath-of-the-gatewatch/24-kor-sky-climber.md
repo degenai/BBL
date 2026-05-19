@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/24-kor-sky-climber.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-17
+market_price_as_of: 2026-05-19
 date_added: 2026-05-12
-last_seen: 2026-05-17
+last_seen: 2026-05-18
 characters:
   - kor
 reference_image_source_url: https://cards.scryfall.io/png/front/5/4/54938334-ebad-4dde-82e6-8c854aef4a91.png?1562912220
