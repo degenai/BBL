@@ -1,0 +1,42 @@
+{
+  "card_name": "Encircling Fissure",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "23",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Encircling Fissure is an uncommon instant from Battle for Zendikar (BFZ, October 2015). The Awaken mechanic — a BFZ-block keyword that temporarily animates Zendikar's land masses as Elemental creatures — was designed specifically to express the plane's leyline-driven geological sentience reacting to the Eldrazi invasion.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The base mode (prevent all combat damage by opponent's creatures for {2}{W}) is a fog-variant that is pioneer- and modern-legal but not pauper-legal, making this uncommon above the common-tier power floor. EDHREC rank 20,117 indicates minimal commander presence.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Igor Kieryluk, a Polish fantasy illustrator who has illustrated dozens of Magic cards. His Belbe, Corrupted Observer from Commander Legends was featured in Hipsters of the Coast's Commander Legends Grand Art Tour. The art depicts a nameless Eldrazi spawn on a Zendikar rock spire — generic brood-imagery, not a named titan.",
+      "sources": ["Scryfall artist field", "Hipsters of the Coast, 'Commander Legends Grand Art Tour,' 2020"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "No flavor text on this card. Scryfall confirms no flavor_text field value for BFZ-23.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fog", "set": "Alpha / multiple reprints", "note": "Ancestral prevent-all-combat-damage design; Encircling Fissure is a costed-up Fog with land-animation upside"},
+    {"name": "Natural Connection", "set": "BFZ", "note": "Fellow BFZ Awaken instant; illustrates the mechanic's block-wide distribution"},
+    {"name": "Scatter to the Winds", "set": "BFZ", "note": "BFZ Awaken counterspell; same keyword, different axis of the resistance toolkit"},
+    {"name": "Part the Waterveil", "set": "BFZ", "note": "BFZ Awaken sorcery; another Awaken-keyword sibling in the block"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

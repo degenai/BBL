@@ -1,0 +1,43 @@
+{
+  "card_name": "Gideon's Reproach",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "30",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Verified as Gideon Jura: (1) card name is possessive attribution 'Gideon's Reproach'; (2) flavor text from The War Diaries names Gideon directly as the actor; (3) art depicts the canonical golden energy sural on a Zendikar floating-columns landscape — the sural is Gideon's signature planeswalker weapon consistent across every BFZ-era depiction; (4) the gideon-jura.md character node already lists this card in appears_on with full confidence. ip_confidence raised from med to high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "IP verified: Gideon Jura. The depicted figure is confirmed by: the possessive card name, flavor text from The War Diaries naming Gideon as actor, the canonical golden energy sural weapon on a Zendikar floating-columns landscape. Gideon organized the Zendikari resistance coalition after Sea Gate fell to Ulamog's brood, rallying kor, merfolk, elves, vampires, and goblins into a coordinated military force.",
+      "sources": ["Scryfall", "gideon-jura.md character node, BBL corpus", "Wizards of the Coast BFZ story summary, 2015-12-23, via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Suddenly, Gideon was there with us, clearing the way so that we could escape.\" — The War Diaries. The War Diaries is the in-fiction Zendikari resistance chronicle of the Eldrazi siege; the anonymous civilian speaker frames Gideon as a rescue figure appearing without warning.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "One of ~10 cards in the canonical Gideon's [Spell] attribution cycle (Avenger, Defeat, Lawkeeper, Phalanx, Reproach, Resolve, Sacrifice, Triumph, Intervention). This cycle includes both living-era attributions and posthumous elegies after Gideon's canonical death in War of the Spark (2019). The DOM reprint of Gideon's Reproach carries updated flavor text about Amonkhet, acknowledging the BFZ art's sural iconography from the other side of his arc.",
+      "sources": ["Scryfall prints_search_uri"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pioneer-, modern-, historic-, pauper-, and commander-legal; one of the broadest format-legality profiles in the batch. EDHREC rank 21,283 reflects limited commander traction — conditional removal (combat only) in a format that rarely needs cheap attackers stopped. Sees occasional pauper sideboard play as cheap white conditional removal.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Gideon, Ally of Zendikar", "set": "BFZ-29", "note": "BFZ planeswalker printing of the same character; card no. 29 directly preceding this one"},
+    {"name": "Gideon's Triumph", "set": "WAR-15", "note": "Elegy-cycle member; anchored in gideon-jura.md and war-gatewatch-triumph-cycle"},
+    {"name": "Gideon's Sacrifice", "set": "WAR-14", "note": "Death-moment Story Spotlight; anchored in gideon-jura.md"},
+    {"name": "Gideon's Phalanx", "set": "BFZ-32", "note": "Fellow BFZ Gideon-attribution instant; same set same attribution cycle"},
+    {"name": "Gideon's Defeat", "set": "HOU", "note": "Mid-arc attribution spell from Amonkhet block"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -99,7 +99,7 @@ This is what BBL's bundle copy can lean on without inventing canon: the Crane Sc
 
 ## Caveats
 
-- **Modeled as a character-layer node, not a hub.** Like [[dark-vassal-trio]], [[wrath-of-the-dragon-saga]], [[universe-6-tournament-cohort]], [[destroyer-god-attendant-dyad]], [[eld-cinderella-cycle]], [[fear-of-cycle]], this is a designer-coordinated cohort entity hosted on the character layer per the Endriders precedent. A future `_cycles/` layer could re-home this entry alongside other designer-confirmed within-set cohorts when that split is commissioned; for now, single layer, same precedent.
+- **Modeled as a character-layer node, not a hub.** Like [[dark-vassal-trio]], [[wrath-of-the-dragon-saga]], and [[universe-6-tournament-cohort]], this is a designer-coordinated cohort entity hosted on the character layer per the Endriders precedent. A future `_cycles/` layer could re-home this entry alongside other designer-confirmed within-set cohorts when that split is commissioned; for now, single layer, same precedent.
 
 - **Cohort scope is the canonical Tsuru Sen-ryū lineage, not the broader 22nd Budokai roster.** The cohort anchors specifically the Crane School lineage (Shen + Tao + Tien + Chiaotzu). Other 22nd Budokai participants (Goku, Krillin, Jackie Chun / Roshi, Yamcha) are NOT cohort members — they anchor at their own character nodes or at the Turtle School / Z-Fighter cohort. Conflating the Crane School cohort with the broader Budokai-era roster is a graph error.
 

@@ -72,3 +72,16 @@ A humanoid figure hangs from a wooden-and-fabric hang-glider/kite apparatus, fly
 **Iconography:** kitesail, canyon arch
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context and type line** — Kitesail Scout is a common `Creature — Kor Scout` for {W} from *Battle for Zendikar* (BFZ, October 2015). The kor are Zendikar's nomadic cliff-dwelling people who use rope and sail technology (kitesails, hooklines, line-slinging) to traverse the plane's dramatic terrain of floating hedrons and sheer canyon walls. Scouts using kitesails are the kor's primary reconnaissance unit during the Eldrazi siege [Scryfall; MTG Wiki: Kor, via WebSearch].
+- **Flavor text** — "The wind in one's hair, the sun on one's back, the joy of open skies . . . the next generation of kor must know this kind of peace." The flavor text frames this wartime scout as carrying a peace-memory — the preservation of what flight *means* to the kor, passed to future generations, is itself a stewardship act performed in the middle of catastrophic Eldrazi invasion [Scryfall].
+- **Mechanical profile** — A 1/1 flier for {W}; pauper- and commander-legal [Scryfall]. EDHREC rank 23,294 reflects expected negligible constructed presence. The one-mana 1/1 flier is a consistent Limited role-player and an Ally-tribal enabler (though Kitesail Scout itself lacks the Ally subtype — unlike Kor Castigator and Cliffside Lookout, this Scout is not typed Ally) [Scryfall].
+- **Akiri connection** — Akiri, the legendary kor line-slinger who narrates Kor Castigator's flavor text in this same set, is canonically one of Zendikar's greatest kitesail and rope practitioners. Kitesail Scout's art depicts exactly the discipline Akiri represents: aerial reconnaissance through canyon gaps using the kor's traditional kite-frame sail technology. No direct flavor linkage; noted as thematic adjacency [MTG Wiki: Akiri, via WebSearch; Scryfall].
+
+### Related cards
+- Cliffside Lookout (BFZ-20) — fellow Kor Scout Ally from BFZ; anchored in zendikari-resistance node
+- Kor Castigator (BFZ-35) — fellow BFZ kor in this batch; Ally-typed; Akiri as flavor narrator
+- Kitesail Corsair (XLN) — later Kor Scout using the same kitesail technology in the Ixalan block
+- Kitesail Freebooter (XLN) — thematically adjacent kitesail creature; illustrates how the technology persists across planes/sets in kor lore
+- Akiri, Line-Slinger (C16) — the legendary kor who embodies the kitesail/rope discipline depicted in the art

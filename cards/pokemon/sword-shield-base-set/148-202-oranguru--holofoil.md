@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - primate
+  - wisdom
+  - jungle
+  - forest
+  - sage
+  - meditation
+  - healer
+  - nature
+  - calm
+  - scholar
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - forward-facing
+  - forest-setting
+  - creature-basic
+  - holo-rare
 reference_image: cards/_images/pokemon/sword-shield-base-set/148-202-oranguru--holofoil.png
 average_cost_paid: 0
 market_price: 0.31
@@ -31,6 +48,13 @@ oracle_text: "[Ability: Primate Wisdom] Once during your turn, you may switch a 
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: day
+setting: forest
+subject_known_ip: true
+suspected_ip: Oranguru
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -40,12 +64,22 @@ tags:
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![148-202-oranguru--holofoil](../../_images/pokemon/sword-shield-base-set/148-202-oranguru--holofoil.png)
 
+> [!warning] Suspected IP: **Oranguru** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-**Subject:** 
+Oranguru is perched on a large tree branch in a lush jungle or forest environment. The creature has a distinctive white-furred face with calm, sagely eyes, contrasted against a dark purple-gray body. It holds what appears to be a large leaf fan in one hand, and is posed in a relaxed, seated posture suggesting contemplation. The background features dense green foliage and a teal-blue sky visible through the canopy. The overall composition conveys wisdom and serenity.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Subject:** Oranguru, a primate Pokémon with a white face and dark body, perched in a forest setting
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** forest, day, calm
+**Foreground:** Oranguru seated on a branch, holding a leaf fan, calm and upright posture  *(palette: white, dark-purple, gray)*
+**Background:** Dense jungle canopy, green foliage, teal sky glimpsed through leaves  *(palette: green, teal, dark-green)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** calm, wise, contemplative — serene seated posture with steady gaze
+**Objects:** leaf fan
+**Creatures:** primate, ape-like creature
+**Genre cues:** anime, fantasy
 

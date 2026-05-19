@@ -1,0 +1,43 @@
+{
+  "card_name": "Kor Castigator",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "35",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Kor Castigator is a common Creature — Kor Wizard Ally for {1}{W} from Battle for Zendikar (BFZ, October 2015). The Ally subtype is the BFZ-block's mechanical encoding of the Zendikari multi-race resistance coalition: Allies trigger effects off each other entering the battlefield, representing coordinated military action among kor, humans, merfolk, elves, and goblins organized against the Eldrazi brood.",
+      "sources": ["Scryfall", "MTG Wiki: Allies mechanic, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 3/1 that cannot be blocked by Eldrazi Scions; pauper- and commander-legal. The Scion-evasion is bespoke anti-Eldrazi design: Eldrazi Scions are the 1/1 token sacrifice-for-mana fodder the BFZ Eldrazi decks generate as ramp. A 3/1 that slides past the Scion defensive wall mechanically represents what the flavor text describes — a kor warrior who walks into a swarm of Eldrazi and passes through unimpeded.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"He told us not to worry, and he walked into the cavern. The swirling mass of Eldrazi parted to admit him, then closed in his wake.\" — Akiri, kor line-slinger. The speaker is Akiri, canonically the greatest line-slinger on Zendikar and a survivor of Sea Gate's fall. Akiri later became a Commander-legal legendary card (Akiri, Line-Slinger C16; Akiri, Fearless Voyager ZNR). The flavor text positions Akiri as witness, not the subject — the unnamed kor Castigator is the actor.",
+      "sources": ["Scryfall", "MTG Wiki: Akiri, via WebSearch"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment: Kor Castigator's Eldrazi-Scion-evasion is considered a very narrow BFZ-draft-specific ability that aged poorly outside that format's Eldrazi-heavy context. The 3/1 body for {1}{W} is aggressive but fragile. No broader constructed impact noted across pauper or commander community coverage.",
+      "sources": ["general community consensus, no specific thread cited"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Akiri, Line-Slinger", "set": "C16-26", "note": "The named flavor-text speaker; legendary kor warrior who became a Commander card"},
+    {"name": "Akiri, Fearless Voyager", "set": "ZNR", "note": "Later legendary kor card for the same Akiri character"},
+    {"name": "Cliffside Lookout", "set": "BFZ-20", "note": "Fellow Kor Scout Ally anchored in zendikari-resistance node"},
+    {"name": "Kor Entanglers", "set": "BFZ-36", "note": "Fellow Kor Soldier Ally from BFZ; same block same Ally-tribal tier"},
+    {"name": "Kitesail Scout", "set": "BFZ-33", "note": "Fellow BFZ kor in this batch"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

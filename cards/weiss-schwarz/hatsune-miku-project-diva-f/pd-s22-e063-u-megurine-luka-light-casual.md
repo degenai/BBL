@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - vocaloid
+  - idol
+  - project-diva
+  - pink-hair
+  - casual
+  - performer
+  - j-pop
+  - anime-figure
+  - soft
+  - feminine
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - three-quarter
+  - female-figure
+  - no-background
+  - uncommon
 reference_image: cards/_images/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e063-u-megurine-luka-light-casual.png
 average_cost_paid: 0
 market_price: 0.57
@@ -24,8 +41,37 @@ needs_manual_review: false
 image_width: 400
 image_height: 558
 image_quality: med
+mood: peaceful
+time_of_day: indeterminate
+setting: void
+subject_known_ip: true
+suspected_ip: Megurine Luka
+ip_confidence: high
+ip_verified: false
+characters:
+  - project-diva-f-vocaloid-roster
 tags:
   - card
   - weiss
 ---
 # Megurine Luka"Light & Casual" (Hatsune Miku -Project DIVA- f)
+
+## Vision
+
+![pd-s22-e063-u-megurine-luka-light-casual](../../_images/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e063-u-megurine-luka-light-casual.png)
+
+> [!warning] Suspected IP: **Megurine Luka** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A figure with long flowing pink hair stands in a relaxed three-quarter pose against a pale, nearly white background. The outfit reads as casual and light — appearing to involve a soft-toned top. The hair is the most visually dominant feature, falling loosely and framing the figure. The card title confirms this as Megurine Luka. Resolution is limited at 400px; fine clothing and facial details are present but not fully legible.
+
+**Subject:** Megurine Luka in a light casual outfit, standing against a pale background
+
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** void, indeterminate
+**Foreground:** Figure with long pink hair in a casual light-colored outfit, relaxed pose  *(palette: pink, white, light-peach)*
+**Background:** Pale neutral background, minimal detail  *(palette: white, light-gray)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** relaxed, calm, approachable — casual non-performative stance
+**Genre cues:** anime, idol, j-pop
+

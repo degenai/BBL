@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - bulldog
+  - grumpy
+  - pink
+  - cute
+  - sulky
+  - small-creature
+  - comedic
+  - fairy
+  - passive
+  - solo-creature
+tags_filter:
+  - solo
+  - close-up
+  - portrait-mode
+  - forward-facing
+  - no-background
+  - creature-basic
+  - common
 reference_image: cards/_images/pokemon/sun-moon-base-set/90-snubbull.png
 average_cost_paid: 0
 market_price: 0.25
@@ -31,6 +48,13 @@ artist: Tomokazu Komiya
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: comedic
+time_of_day: indeterminate
+setting: void
+subject_known_ip: true
+suspected_ip: Snubbull
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -42,12 +66,19 @@ tags:
 
 ![90-snubbull](../../_images/pokemon/sun-moon-base-set/90-snubbull.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Snubbull** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+Snubbull stands center-frame against a plain warm-pink gradient background. The creature is small and stout, resembling a bulldog with oversized pink jowls, small ears, and a sulky downward gaze — head bowed slightly, giving the impression of a perpetual sulk or shyness. The body is rounded and squat. No other figures or environmental elements are present. The palette is entirely warm pinks and mauves.
 
-**Subject:** 
+**Subject:** Snubbull, a small pudgy bulldog-like Pokémon with pink skin and a downturned expression
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, portrait, figures: solo, facing: forward
+**Setting:** void, indeterminate
+**Foreground:** Snubbull centered, pink bulldog Pokémon with bowed head and downturned expression  *(palette: pink, mauve, lavender)*
+**Background:** Plain warm pink gradient, no environmental detail  *(palette: pink, warm-white)*
+**Mood / lighting:** comedic, soft
+**Emotion read:** sulky, downcast, perpetually grumpy expression — classic comedic sad-face
+**Creatures:** bulldog-like creature, pink creature
+**Genre cues:** anime, fantasy
 

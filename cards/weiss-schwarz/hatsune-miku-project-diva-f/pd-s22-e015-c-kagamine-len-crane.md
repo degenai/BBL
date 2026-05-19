@@ -49,6 +49,8 @@ subject_known_ip: true
 suspected_ip: Kagamine Len
 ip_confidence: high
 ip_verified: false
+characters:
+  - project-diva-f-vocaloid-roster
 tags:
   - card
   - weiss

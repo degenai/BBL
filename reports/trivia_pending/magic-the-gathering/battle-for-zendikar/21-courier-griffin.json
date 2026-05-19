@@ -1,0 +1,42 @@
+{
+  "card_name": "Courier Griffin",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "21",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Courier Griffin is a common from Battle for Zendikar (BFZ, released October 2, 2015), the first set of the Eldrazi-invasion two-set block. BFZ depicts the return of Ulamog the Ceaseless Hunger to Zendikar; griffins serve as the Zendikari resistance's primary long-distance messenger animals between isolated settlements.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Sea Gate has fallen. Survivors are on the move. Will send another griffin when we find refuge. Stay hidden. Stay safe.\" — Message from Tars Olan, kor world-gift. Sea Gate is the canonical most-organized settlement on Zendikar; its fall to Ulamog's brood is the central disaster of the BFZ narrative arc. The speaker is identified as a kor world-gift, a kor spiritual designation.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 2/3 flier for {3}{W} that triggers 2 life on entry; pauper-legal and commander-legal. EDHREC rank 22,777 reflects near-zero constructed presence — a Limited filler. The lifegain trigger was a standard rate for common white creatures in 2015 Limited design.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Kieran Yanner, a frequent Magic illustrator whose work spans Zendikar through War of the Spark and a 2025 Artist Series Secret Lair (Lord of the Pit).",
+      "sources": ["Scryfall artist field", "Hipsters of the Coast, 'Experimental Storytelling in Secret Lair Artist Series,' November 2025"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Gideon's Triumph", "set": "WAR-15", "note": "Same artist (Kieran Yanner); artist-continuity across BFZ through WAR"},
+    {"name": "Cliffside Lookout", "set": "BFZ-20", "note": "Fellow Kor Scout Ally from BFZ; anchored in zendikari-resistance node"},
+    {"name": "Courier Hawk", "set": "ISD", "note": "Functional predecessor griffin messenger common; design lineage"},
+    {"name": "Affa Protector", "set": "OGW-14", "note": "OGW counterpart in Zendikari resistance arc; same survivor-hiding flavor register"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

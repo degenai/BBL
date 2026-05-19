@@ -73,3 +73,16 @@ A humanoid figure with a short beard and light-colored hair lunges or advances i
 **Iconography:** cave crystals, blue light
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context and Ally subtype** — Kor Castigator is a common `Creature — Kor Wizard Ally` for {1}{W} from *Battle for Zendikar* (BFZ, October 2015). The Ally subtype is the BFZ-block's mechanical encoding of the Zendikari multi-race resistance coalition: Allies trigger effects off each other entering the battlefield, representing coordinated military action among the kor, humans, merfolk, elves, and goblins organized against the Eldrazi brood [Scryfall; MTG Wiki: Allies mechanic, via WebSearch].
+- **Mechanical profile** — A 3/1 that cannot be blocked by Eldrazi Scions; pauper- and commander-legal [Scryfall]. The Scion-evasion is bespoke anti-Eldrazi design: Eldrazi Scions are the 1/1 token sacrifice fodder the Eldrazi spawn decks generate as mana ramp. A 3/1 that slides past the Scion defensive wall is mechanically representing exactly what the flavor text describes — a kor warrior who walks into a swarm of Eldrazi and passes through unimpeded [Scryfall].
+- **Flavor text and Akiri** — "He told us not to worry, and he walked into the cavern. The swirling mass of Eldrazi parted to admit him, then closed in his wake." — Akiri, kor line-slinger. The speaker is Akiri, canonically the greatest line-slinger on Zendikar, a legendary kor warrior who survived the Sea Gate destruction and later became a Commander-legal legendary card (Akiri, Line-Slinger, C16; Akiri, Fearless Voyager, ZNR). The flavor text positions Akiri as a witness, not the subject — the unnamed kor Castigator is the actor [Scryfall; MTG Wiki: Akiri, via WebSearch].
+- **Community resonance** — Community sentiment on r/magicTCG: the card's Scion-evasion is considered a very narrow BFZ-draft-specific ability that aged poorly outside that format's Eldrazi-heavy context. The 3/1 body for {1}{W} is aggressive for the mana cost but fragile. No broader constructed impact noted [community sentiment, general MTG forum consensus; not a specific citable thread].
+
+### Related cards
+- Akiri, Line-Slinger (C16-26) — the named flavor-text speaker; legendary kor warrior who later became a Commander card
+- Akiri, Fearless Voyager (ZNR) — later legendary kor card for the same character
+- Cliffside Lookout (BFZ-20) — fellow Kor Scout Ally anchored in zendikari-resistance node
+- Kor Entanglers (BFZ-36) — fellow Kor Soldier Ally from BFZ; same block same Ally-tribal tier
+- Kitesail Scout (BFZ-33) — fellow BFZ kor in this batch

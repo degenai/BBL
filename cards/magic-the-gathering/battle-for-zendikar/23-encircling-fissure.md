@@ -73,3 +73,15 @@ A tall, alien creature stands atop a narrow rock spire. The figure is pale pinki
 **Iconography:** tentacles, alien form
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Encircling Fissure is an uncommon instant from *Battle for Zendikar* (BFZ, October 2015). The card carries the Awaken mechanic — a BFZ-block keyword that temporarily animates Zendikar's own land masses as Elemental creatures, thematically encoding the plane's leyline-driven geological sentience reacting to the Eldrazi invasion [Scryfall].
+- **Mechanic design** — Awaken was designed specifically for the BFZ block to express Zendikar's identity as a living plane; the base mode (prevent all combat damage by opponent's creatures for {2}{W}) is a fog-variant that is pioneer- and modern-legal but not pauper-legal, making this uncommon strictly above the common-tier power floor [Scryfall]. EDHREC rank 20,117 indicates minimal commander presence [Scryfall].
+- **Art context** — Igor Kieryluk illustrated this card. Kieryluk is a Polish fantasy illustrator who has illustrated dozens of Magic cards; his *Belbe, Corrupted Observer* from Commander Legends was featured in Hipsters of the Coast's Commander Legends Grand Art Tour [Hipsters of the Coast, "Commander Legends Grand Art Tour," 2020]. The art depicts a nameless Eldrazi spawn atop a Zendikar rock spire — this is generic Eldrazi brood-imagery, not a named titan.
+- **No flavor text** — Scryfall confirms no flavor text on this printing [Scryfall]. The effect and Awaken mechanic carry all the thematic weight.
+
+### Related cards
+- Encircling Fissure (Duel Decks: Zendikar vs. Eldrazi, 2016) — no reprint exists per Scryfall `prints_search_uri`; BFZ-23 is the sole printing
+- Fog (Alpha / multiple reprints) — ancestral prevent-all-combat-damage design; Encircling Fissure is a costed-up Fog with a land-animation upside
+- Natural Connection (BFZ) — fellow BFZ Awaken spell; illustrates the mechanic's block-wide distribution
+- Scatter to the Winds (BFZ) — BFZ Awaken counterspell; same keyword, different axis of the resistance toolkit

@@ -1,0 +1,43 @@
+{
+  "card_name": "Kitesail Scout",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "33",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Kitesail Scout is a common Creature — Kor Scout for {W} from Battle for Zendikar (BFZ, October 2015). The kor are Zendikar's nomadic cliff-dwelling people who use rope and sail technology (kitesails, hooklines, line-slinging) to traverse the plane's dramatic terrain of floating hedrons and sheer canyon walls. Note: Kitesail Scout lacks the Ally subtype, unlike Kor Castigator and Cliffside Lookout from the same set.",
+      "sources": ["Scryfall", "MTG Wiki: Kor, via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The wind in one's hair, the sun on one's back, the joy of open skies . . . the next generation of kor must know this kind of peace.\" The flavor text frames a wartime scout as carrying a peace-memory — the preservation of what flight means to the kor, passed to future generations, is a stewardship act performed in the middle of catastrophic Eldrazi invasion.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 1/1 flier for {W}; pauper- and commander-legal. EDHREC rank 23,294 reflects negligible constructed presence. The one-mana 1/1 flier is a consistent Limited role-player and an Ally-tribal enabler (non-Ally creatures entering as Ally-adjacent value).",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Thematic connection to Akiri, the legendary kor line-slinger whose flavor-text narrates Kor Castigator in the same set: Akiri is canonically one of Zendikar's greatest kitesail and rope practitioners. Kitesail Scout's art depicts exactly the discipline Akiri represents — aerial canyon reconnaissance via kite-frame sail technology. No direct flavor linkage; thematic adjacency only.",
+      "sources": ["MTG Wiki: Akiri, via WebSearch", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cliffside Lookout", "set": "BFZ-20", "note": "Fellow Kor Scout Ally from BFZ; anchored in zendikari-resistance node"},
+    {"name": "Kor Castigator", "set": "BFZ-35", "note": "Fellow BFZ kor; Ally-typed; Akiri as flavor narrator — thematic pair"},
+    {"name": "Kitesail Corsair", "set": "XLN", "note": "Later Kor Scout using same kitesail technology in Ixalan block"},
+    {"name": "Akiri, Line-Slinger", "set": "C16-26", "note": "The legendary kor who embodies the kitesail/rope discipline depicted in the art"},
+    {"name": "Akiri, Fearless Voyager", "set": "ZNR", "note": "Later legendary card for the same Akiri character"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

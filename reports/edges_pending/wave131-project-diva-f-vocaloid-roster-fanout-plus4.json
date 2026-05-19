@@ -1,0 +1,38 @@
+{
+  "edge_id": "project-diva-f-vocaloid-roster--plus4-honey-whip-light-casual-star-vocalist-crane",
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/project-diva-f-vocaloid-roster.md", "name": "Project DIVA F Vocaloid roster (Crypton + guest voicebanks)"},
+    {"type": "card", "path": "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e043-c-hatsune-miku-honey-whip.md", "name": "Hatsune Miku \"Honey Whip\" (PD/S22-E043 C)"},
+    {"type": "card", "path": "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e063-u-megurine-luka-light-casual.md", "name": "Megurine Luka \"Light & Casual\" (PD/S22-E063 U)"},
+    {"type": "card", "path": "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e088-u-hatsune-miku-star-vocalist.md", "name": "Hatsune Miku \"Star Vocalist\" (PD/S22-E088 U)"},
+    {"type": "card", "path": "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e015-c-kagamine-len-crane.md", "name": "Kagamine Len \"Crane\" (PD/S22-E015 C)"}
+  ],
+  "description": "Four PD-S22 vocaloid cards wired into the existing project-diva-f-vocaloid-roster cohort node. All four are confirmed Crypton voicebanks (Miku CV01 x2, Luka CV03, Len CV02) in licensed Project DIVA F module variants per the cohort node's membership predicate (named voicebank + designer-named module). The Luka Light & Casual add is the FIRST Megurine Luka entry in the BBL corpus — moves the canonical-roster table from 4/6 to 5/6 core CV voicebanks enriched; only KAITO remains queued. The Miku adds (Honey Whip + Star Vocalist) sit cleanly alongside the six existing Miku module variants in the catalog. The Len Crane add (wave 130, previously unwired) is now properly attached. Edgelord was tempted by the Zendikari Resistance soft-pair (Kor Castigator clean, Ghostly Sentinel softer — Kor Spirit ancestor-conjure rather than Ally-typed) but the 4-card fan-out is meatier AND advances the roster node's canonical-table state, while the Zendikari add was 1.5 strength against an already-densely-wired multi-triangle anchor. Cohort node is the corpus's first multi-triangle character-layer cohort built on a designer-formalized module catalog — fan-outs into it are exactly the use case it was built for. Sigh: four endpoints fanning into one anchor instead of one mirrored pair. The blueballs is professional, not personal.",
+  "citations": [
+    "[Crypton Future Media — Character Vocal Series product pages — CV01 Miku, CV02 Kagamine Rin/Len, CV03 Megurine Luka (released 2009-01-30, first bilingual Crypton voicebank)]",
+    "[Vocaloid Wiki — Megurine Luka character page; Hatsune Miku character page; Kagamine Rin and Len character page]",
+    "[SEGA Project DIVA F module catalog — Honey Whip, Light & Casual, Star Vocalist, Crane module designations]",
+    "[Weiss Schwarz PD/S22 set page en.ws-tcg.com — collector numbers PD/S22-E043, E063, E088, E015 with printed-title strings]",
+    "[In-corpus vision passes — wave 131 vision batch (Honey Whip + Light & Casual + Star Vocalist) and wave 130 vision pass (Crane), all suspected_ip stamped at high-confidence with title-string and twintail/hair-color visual identifiers]"
+  ],
+  "files_modified": [
+    "cards/_characters/project-diva-f-vocaloid-roster.md",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e043-c-hatsune-miku-honey-whip.md",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e063-u-megurine-luka-light-casual.md",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e088-u-hatsune-miku-star-vocalist.md",
+    "cards/weiss-schwarz/hatsune-miku-project-diva-f/pd-s22-e015-c-kagamine-len-crane.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "other_candidates_considered": [
+    "Zendikari Resistance N:1 add of Kor Castigator (BFZ-35) + Ghostly Sentinel (BFZ-28). Kor Castigator is a clean fit (Kor Wizard Ally subtype + Akiri line-slinger flavor narrator — Akiri is the canonical kor faction leader the resistance organizes around); Ghostly Sentinel is softer (Kor Spirit ancestor-conjure for Stone Havens defense — resistance-refuge stewardship register but NOT Ally-typed, sits adjacent to the operational army not within it). The 2-card add against a densely-wired six-card multi-triangle anchor is less node-state-advancing than the 4-card Vocaloid fan-out that brings Luka in for the first time. Stage Kor Castigator solo-add for a future Edgelord pass; Ghostly Sentinel should sit on the Zendikari node's caveats section as a Kor-Spirit-adjacent-but-not-Ally edge-case until either (a) it gets a 1:1 mirror with another Kor Spirit defender or (b) a kor-stewardship-tier sub-node gets commissioned.",
+    "Kitesail Scout (BFZ-33) was explicitly flagged Edgelord-call in the brief — verdict on inspection: NOT a Zendikari Resistance node member at this scope. Kor Scout subtype, NOT Ally-typed (per its own trivia explicitly noting 'unlike Kor Castigator and Cliffside Lookout, this Scout is not typed Ally'). The card's flavor leans peace-memory-stewardship for next-generation-kor rather than organized-coalition-resistance. Better future home is either the kor race-cohort node or a future kor-stewardship sub-cohort if one is commissioned. Refuse the resistance-node add."
+  ],
+  "next_pass_suggestions": [
+    "Solo Edgelord add of Kor Castigator (BFZ-35) into zendikari-resistance.md appears_on — clean Ally fit, Akiri-flavor canonical, doesn't muddy the multi-triangle thesis.",
+    "Mr. Nodeley candidacy watch: if 2+ more Kor Spirit ancestor-conjure / Stone Havens defender cards enter corpus (Ghostly Sentinel is currently solo), a stone-havens-ancestor-conjure sub-cohort node may be commissionable — gives Ghostly Sentinel a clean home distinct from the operational-Ally-army cohesion frame of zendikari-resistance.",
+    "Gideon's Reproach (BFZ-30) is already trivia-IP-verified to gideon-jura.md per the brief — confirm the wiring landed in a previous wave (sidecar audit-check, no Edgelord action needed if the edge already exists)."
+  ]
+}

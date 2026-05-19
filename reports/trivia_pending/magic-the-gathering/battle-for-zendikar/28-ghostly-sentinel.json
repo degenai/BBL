@@ -1,0 +1,42 @@
+{
+  "card_name": "Ghostly Sentinel",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "28",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ghostly Sentinel's type line is 'Creature — Kor Spirit', making it a spiritual ancestor of the kor race rather than a generic ghost. The Stone Havens referenced in the flavor text are the canonical kor sacred refuge-settlements on Zendikar — cliff-carved fastnesses where the kor preserve their history and call on ancestral dead for protection during the Eldrazi siege. First and only printing.",
+      "sources": ["Scryfall", "MTG Wiki: Kor, via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Mystics of the Stone Havens call upon the spirits of fallen heroes to defend the refuges.\" Frames the card as a conjured kor ancestor — the Stone Havens' mystics perform ancestral-spirit summoning to defend resistance refuges from the Eldrazi.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 3/3 with flying and vigilance for {4}{W}; pauper-legal and commander-legal. EDHREC rank 29,001 is near floor — a Limited-format card only. Vigilance mechanically encodes the flavor: an ever-watchful sentinel that never drops its guard, even when attacking.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Daarken (Mike Lim), who has illustrated 200+ Magic cards since 2007. His Hipsters of the Coast 'Behind the Brush' profile (2019) notes his consistently dark-toned aesthetic and his transition from D&D work to Magic illustration. No Zendikar-specific artist commentary surfaced in the Hipsters interview.",
+      "sources": ["Scryfall artist field", "Hipsters of the Coast, 'Behind the Brush—Daarken,' 2019"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cliffside Lookout", "set": "BFZ-20", "note": "Fellow Kor creature in BFZ; anchored in zendikari-resistance node"},
+    {"name": "Affa Protector", "set": "OGW-14", "note": "OGW kor defender; same ancestral-stewardship register at the block's second act"},
+    {"name": "Kor Castigator", "set": "BFZ-35", "note": "Fellow BFZ kor in this batch; Ally-typed combat creature vs. Ghostly Sentinel's spirit-conjure defensive role"},
+    {"name": "Shatterskull Recruit", "set": "BFZ-155", "note": "Fellow resistance-coalition card in the zendikari-resistance corpus"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

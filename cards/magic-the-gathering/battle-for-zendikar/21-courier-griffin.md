@@ -71,3 +71,15 @@ A griffin — a large creature with an eagle's head and wings on a lion-like bod
 **Iconography:** wings
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Courier Griffin is a common from *Battle for Zendikar* (BFZ, released October 2, 2015), the first set of the Eldrazi-invasion two-set block. BFZ depicts the return of Ulamog the Ceaseless Hunger to Zendikar after the Eldrazi were previously imprisoned in the world's leylines; griffins serve as the Zendikari resistance's primary long-distance messenger animals between isolated settlements [Scryfall].
+- **Flavor text** — "Sea Gate has fallen. Survivors are on the move. Will send another griffin when we find refuge. Stay hidden. Stay safe." — Message from Tars Olan, kor world-gift. The speaker is identified as a *kor world-gift* — a kor spiritual designation. Sea Gate is the canonical most-organized human/kor settlement on Zendikar; its fall to Ulamog's brood is the central disaster of the BFZ narrative arc [Scryfall].
+- **Mechanical profile** — A 2/3 flier for {3}{W} that triggers 2 life on entry; pauper-legal and commander-legal [Scryfall]. EDHREC rank 22,777 reflects near-zero constructed presence — it is a Limited filler, not a staple [Scryfall]. The lifegain trigger was a standard rate for common white creatures in 2015 Limited design.
+- **Artist** — Kieran Yanner, a frequent Magic illustrator whose work spans Zendikar, War of the Spark, and a 2025 Artist Series Secret Lair (Lord of the Pit) [Hipsters of the Coast, "Experimental Storytelling in Secret Lair Artist Series," November 2025; Scryfall artist field].
+
+### Related cards
+- Gideon's Triumph (WAR-15, Kieran Yanner) — same artist; the trivia connection is artist-continuity across BFZ through WAR
+- Cliffside Lookout (BFZ-20) — fellow Kor Scout Ally from BFZ; anchored in zendikari-resistance node
+- Courier Hawk (ISD) — functional predecessor griffin messenger at lower cost; illustrates the design lineage of griffin courier commons
+- Affa Protector (OGW-14) — OGW counterpart in the Zendikari resistance arc; flavor registers the same "survivor, staying hidden" beat

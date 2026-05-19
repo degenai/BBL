@@ -1,0 +1,35 @@
+{
+  "edge_id": "crane-school-cohort--schema-precedent-peer-listing-snip",
+  "shape": "edge-dissolution",
+  "topology": "stack",
+  "category": "schema-precedent-pollution-snip",
+  "wave": 131,
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/crane-school-cohort.md", "name": "Crane School (Tsuru Sen-ryu cohort)"}
+  ],
+  "edges_removed": [
+    {"from": "crane-school-cohort", "to": "destroyer-god-attendant-dyad", "where": "L102 Caveats bullet (Modeled-as-character-layer schema-precedent peer-listing)", "reason": "Only appearance in file; no real-thematic recurrence; pure schema-precedent pollution"},
+    {"from": "crane-school-cohort", "to": "eld-cinderella-cycle", "where": "L102 Caveats bullet (same peer-listing)", "reason": "Only appearance in file; no real-thematic recurrence; pure schema-precedent pollution. Also cross-IP (MTG Eldraine cycle) and cross-graph-axis (visual-symbol-cycle, not character-cohort) — the comparison was always thin"},
+    {"from": "crane-school-cohort", "to": "fear-of-cycle", "where": "L102 Caveats bullet (same peer-listing)", "reason": "Only appearance in file; no real-thematic recurrence; pure schema-precedent pollution. Cross-IP (Pokemon mechanical-keyword cycle) — same thin-comparison failure mode"}
+  ],
+  "edges_preserved": [
+    {"node": "dark-vassal-trio", "guard": "PRESERVE_IF_RECURS_IN_SAME_FILE_AS_REAL_THEMATIC", "recurrence_lines": [43, 73, 75, 119], "rationale": "Body prose at L43/73/75 makes the structural-parallel comparison work; See-also at L119 carries the same comparison with explicit Master-Shen-cohort-vs-King-Piccolo-cohort parallel-construction"},
+    {"node": "wrath-of-the-dragon-saga", "guard": "PRESERVE_IF_RECURS_IN_SAME_FILE_AS_REAL_THEMATIC", "recurrence_lines": [43, 73, 120], "rationale": "Body prose at L43/73 names it as a sibling within-set cohort precedent; See-also at L120 carries the designer-coordinated-film-canon-roster axis comparison"},
+    {"node": "universe-6-tournament-cohort", "guard": "PRESERVE_IF_RECURS_IN_SAME_FILE_AS_REAL_THEMATIC", "recurrence_lines": [121], "rationale": "See-also at L121 carries the named-arc-multi-character-cohort axis comparison; only one recurrence but it's substantive prose, not a bare wikilink"}
+  ],
+  "description": "Worst proposed peer-listing? No — seventh confirmed instance of the same failure mode. Schema-precedent peer-listings ballooning into six wikilinks because each new sibling-cohort node tacks itself onto the prior precedent line. Three of these six (destroyer-god-attendant-dyad, eld-cinderella-cycle, fear-of-cycle) appear ONCE in the file — at L102. That is the definition of a schema-precedent edge: the link exists to prove the precedent exists, not because the cohorts share thematic substance. The three preserved (dark-vassal-trio, wrath-of-the-dragon-saga, universe-6-tournament-cohort) earn their L102 mention because they ALSO appear in body prose or substantive See-also entries elsewhere in the same file — real-thematic presence justifies the schema-precedent restatement. Wave 130 alola-kahunas guard applies cleanly. Three wikilinks snipped, three preserved, bullet survives intact.",
+  "citations": [
+    "Wave 130 alola-kahunas.md L89 snip (PRESERVE_IF_RECURS_IN_SAME_FILE_AS_REAL_THEMATIC guard)",
+    "Wave 129 zendikari-resistance.md L139 snip (10-wikilink peer-listing dissolution precedent)",
+    "janny_redundant_sibling_mirror_sweep.py (template precedent)",
+    "Pattern instance: 7th confirmed (nicol-bolas, cell-saga-apparatus, dark-vassal-trio, son-goku, zendikari-resistance, alola-kahunas, crane-school-cohort)"
+  ],
+  "files_modified": ["cards/_characters/crane-school-cohort.md"],
+  "edgelord_mood": "enlightened-cleanup",
+  "next_pass_suggestions": [
+    "Pattern is now 7 confirmed instances — strong enough to commission a janny_schema_precedent_peer_listing_sweep.py that grep-finds 'Like \\[\\[.*\\]\\],( \\[\\[.*\\]\\],)+' style multi-link bullets in _characters/_hubs/_symbols/_cycles MDs and queues each for Edgelord-snip-frenzy triage. The shape is now mechanical enough to scan-for; the judgment about WHICH wikilinks to preserve still needs Edgelord per-file (the guard rule is the per-file mechanic).",
+    "zendikari-resistance.md body-prose MULTI-TRIANGLE-META-CYCLE jargon Potion-Rule-sub-rule-4 violation still parked (Dark Nodesley EX body-softening mode, not edge-snip mode).",
+    "Pansage BB-004 + Panpour BB-017 enlightened-replacement still parked (cohort-wire first, snip trio-mirror bullets second).",
+    "The _cycles/ layer commissioning referenced in the L102 bullet is itself a future Mr. Nodeley node-proposal candidate — when 3+ designer-coordinated within-set cohorts have stabilized (crane-school + dark-vassal-trio + wrath-of-the-dragon-saga are 3), the _cycles/ layer split becomes proposable. Park as Mr. Nodeley future-watch."
+  ]
+}
