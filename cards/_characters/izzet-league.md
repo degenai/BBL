@@ -56,7 +56,7 @@ Card art and flavor text that depicts the Izzet as an *institution*: its named m
 
 ## The functional ideology
 
-The Izzet League's most BBL-relevant property — like the [[orzhov-syndicate]]'s, like [[phyrexia]]'s — is that **its institutional logic IS the thesis**. Where the Orzhov organize around the extraction of obligation and Phyrexia organize around the extraction of biological form, the Izzet organize around the **extraction of insight from experiment** — and frame that extraction as joyful, righteous, and uncritically productive. The guild's defining features per MTG Wiki and Wizards' design columns:
+The Izzet League's most BBL-relevant property — like the [[orzhov-syndicate]]'s, like `phyrexia`'s — is that **its institutional logic IS the thesis**. Where the Orzhov organize around the extraction of obligation and Phyrexia organize around the extraction of biological form, the Izzet organize around the **extraction of insight from experiment** — and frame that extraction as joyful, righteous, and uncritically productive. The guild's defining features per MTG Wiki and Wizards' design columns:
 
 - **The next experiment justifies the last one's failure.** Izzet institutional culture is forward-momentum-as-virtue. Magewrights who blow up their workshop are not chastised; they're asked what they learned. The guild's failure-tolerance is exceptional within Ravnica's institutional landscape but is itself a function of institutional power: the league's social capital subsidizes risk-taking that working-class Ravnicans cannot afford. The "controlled detonation in a guild lab" and "uncontrolled detonation in a tenement adjacent to the guild lab" are the same event with different consequence-distribution profiles.
 
