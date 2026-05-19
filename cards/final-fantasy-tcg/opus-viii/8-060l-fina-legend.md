@@ -45,6 +45,8 @@ setting: void
 suspected_ip: Fina (Final Fantasy Brave Exvius)
 ip_confidence: high
 ip_verified: true
+characters:
+  - ffbe-opening-arc-party
 ---
 
 # Fina (Legend) (Opus VIII)

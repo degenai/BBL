@@ -46,6 +46,8 @@ setting: other
 suspected_ip: Lasswell (Final Fantasy Brave Exvius)
 ip_confidence: high
 ip_verified: true
+characters:
+  - ffbe-opening-arc-party
 ---
 
 # Lasswell (Opus VIII)

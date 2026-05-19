@@ -1,0 +1,41 @@
+{
+  "card_name": "Graham",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-075C",
+  "task_profile": "ip-priority",
+  "ip_decision": "qualify",
+  "ip_outcome_note": "Vision pass labeled suspected_ip as 'Graham (Final Fantasy Legends)' which is technically correct — 'Final Fantasy Legends' (FFL) is the Japanese-market alternate title for Final Fantasy Dimensions (2012 mobile RPG). The character Graham is from Final Fantasy Dimensions, not Final Fantasy Brave Exvius. Frontmatter updated: suspected_ip corrected from 'Graham (Final Fantasy Legends)' to 'Graham (Final Fantasy Dimensions)' for graph-precision; ip_verified set to true. This is a verify-with-clarification outcome: the character name is right, the game-brand label needed disambiguation.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "IP clarification — 'Final Fantasy Legends' (FFL) is the Japanese-market alternate title for Final Fantasy Dimensions, a 2012 mobile RPG published by Square Enix. Graham is not from Final Fantasy Brave Exvius. The FFTCG card category abbreviation 'FFL' on Opus VIII cards refers to Final Fantasy Dimensions / Final Fantasy Legends. [finalfantasy.fandom.com/wiki/Final_Fantasy_Dimensions; WebSearch: Graham Final Fantasy Dimensions; WebSearch: Opus VIII FFL abbreviation]",
+      "sources": ["finalfantasy.fandom.com/wiki/Final_Fantasy_Dimensions", "WebSearch: Graham Final Fantasy Dimensions", "WebSearch: Opus VIII FFL abbreviation"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Lore — Graham is a mysterious Dark Knight encountered by the Warriors of Darkness in Chapter 2 of Final Fantasy Dimensions. He inhabits the heavy plate armor of his fallen comrade Sigurd — slain by the fiend Baugauven — concealing that Sigurd is dead and that Graham himself was mortally wounded in the same battle, surviving as a spirit inhabiting the armor. After granting the Warriors of Darkness the Dark Knight job class, Graham abandons the armor and transforms into a cursed sword (Graham's Sword). His arc is defined by loyalty to a dead friend and quiet sacrifice. [finalfantasy.fandom.com/wiki/Graham; WebSearch: Graham Final Fantasy Dimensions Dark Knight chapter 2]",
+      "sources": ["finalfantasy.fandom.com/wiki/Graham", "WebSearch: Graham Final Fantasy Dimensions Dark Knight chapter 2"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Set context — Opus VIII (March 22, 2019) listed 'FINAL FANTASY LEGENDS' as one of its featured game sources. The set's Dimensions / Legends representation is small relative to FFBE and FFXV, making Graham one of the rarer FFL-origin cards in the set. [fftcg.square-enix-games.com/na/release/opus-viii]",
+      "sources": ["fftcg.square-enix-games.com/na/release/opus-viii"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanical design — Graham is a 5-cost Earth element Forward (9,000 Power, Dark Knight — FFL). His sole ability: when he is put from the field into the Break Zone, choose 1 Forward the opponent controls; if you have received 4 or more points of damage, break it. The death-trigger removal encodes his lore arc — Graham's value is realized at the moment of his removal, mirroring the narrative beat where his sacrifice grants the Warriors of Darkness the Dark Knight power. [WebSearch: FFTCG Graham 8-075C card text; WebSearch: Graham 8-075C cost power element]",
+      "sources": ["WebSearch: FFTCG Graham 8-075C card text", "WebSearch: Graham 8-075C cost power element"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rain (Rare)", "set": "Opus VIII", "note": "Same set, FFBE origin — distinct from Graham's FFL/Dimensions origin; useful for set-context contrast"},
+    {"name": "Lasswell (Foil)", "set": "Opus VIII", "note": "Same set, FFBE origin — shares Opus VIII set context only, not same IP"},
+    {"name": "Warrior of Darkness (various)", "set": "various FFTCG sets", "note": "Graham's party in Final Fantasy Dimensions; the Dark Knight job class he grants"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Graham (Final Fantasy Dimensions)",
+    "ip_confidence": "unchanged"
+  }
+}

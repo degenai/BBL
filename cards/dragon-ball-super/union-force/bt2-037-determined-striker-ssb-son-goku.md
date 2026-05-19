@@ -47,9 +47,14 @@ subject_known_ip: true
 suspected_ip: Son Goku (Dragon Ball Super) — Super Saiyan Blue form
 ip_confidence: high
 ip_verified: true
+characters:
+  - son-goku
 tags:
   - card
   - dbs
+  - vision-passed
+  - trivia-passed
+  - ip-verified
 ---
 # Determined Striker SSB Son Goku (Union Force)
 

@@ -47,6 +47,8 @@ subject_known_ip: true
 suspected_ip: Rain (Final Fantasy Brave Exvius)
 ip_confidence: high
 ip_verified: true
+characters:
+  - ffbe-opening-arc-party
 ---
 
 # Rain (Rare) (Opus VIII)

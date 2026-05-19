@@ -35,7 +35,7 @@ tags:
 ---
 # Labor
 
-A foundational `Bulk Graph Bundler` hub. Not "workers" as cute aesthetic. Labor as the thing that gets *extracted* — by nobles, by tax-collectors, by the manor, by the church, by the racing-sponsor, by the gym franchise that takes 50%. The thing you owe and can't repay. The thing depicted in card art where one figure scrubs a floor while another stands on it.
+A foundational `Bulk Graph Bundler` hub. Not "workers" as cute aesthetic. Labor as the thing that gets *extracted* — by nobles, by tax-collectors, by the manor, by the church, by the racing-sponsor, (ALEX EDIT, I WAS HERE AND DELETED SOME STUFF REWRITE LATER) The thing you owe and can't repay. The thing depicted in card art where one figure scrubs a floor while another stands on it.
 
 > Labor is rarely the loud subject in TCG art. It's almost always backdrop, ornament, ambient unfreedom. The bundle's job is to put the backdrop in the foreground.
 

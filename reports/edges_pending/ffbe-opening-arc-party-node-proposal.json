@@ -1,0 +1,54 @@
+{
+  "edge_id": "ffbe-opening-arc-party--character-node",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/ffbe-opening-arc-party.md", "name": "Final Fantasy Brave Exvius opening-arc party (Rain, Lasswell, Fina)"},
+    {"type": "card", "path": "cards/final-fantasy-tcg/opus-viii/8-021r-rain-rare.md", "name": "Rain (Rare) — Opus VIII 8-021R"},
+    {"type": "card", "path": "cards/final-fantasy-tcg/opus-viii/8-043h-lasswell.md", "name": "Lasswell — Opus VIII 8-043H"},
+    {"type": "card", "path": "cards/final-fantasy-tcg/opus-viii/8-043h-lasswell--foil.md", "name": "Lasswell (Foil) — Opus VIII 8-043H"},
+    {"type": "card", "path": "cards/final-fantasy-tcg/opus-viii/8-060l-fina-legend.md", "name": "Fina (Legend) — Opus VIII 8-060L"},
+    {"type": "card", "path": "cards/final-fantasy-tcg/opus-viii/8-061c-fina-common.md", "name": "Fina (Common) — Opus VIII 8-061C"}
+  ],
+  "description": "Oh sir, terribly sorry to bother you, Edgelord wanted a clean 1:1 edge and I do apologize — but the trio cohort really does anchor better as a node than as three pairwise edges. Verified on disk: N=3 distinct FFBE characters across 5 printings, all Opus VIII, all triviabot-passed, all with the Square Enix press-release citation framing them as the simultaneous-debut opening-arc party (Category BE). Mirrors the wave-135 ff6-returners-party node exactly. The Fina 8-061C trivia even has a dedicated 'Trio context' bullet that names the trio outright. Made the node, no rebellion-hub adjacency asserted (Potion sub-rule 2 — FFBE's canonical event-structure is JRPG-protagonist-trinity, not Returners-style anti-imperial-extraction). Hope that's alright.",
+  "citations": [
+    "[Square Enix press release: Opus VIII announcement, na.finalfantasy.com/news/1043, 2019-03-22]",
+    "[Final Fantasy Wiki: Rain (Brave Exvius)]",
+    "[Final Fantasy Wiki: Lasswell]",
+    "[Final Fantasy Wiki: Fina (Brave Exvius)]",
+    "[Wikipedia: Final Fantasy Brave Exvius]",
+    "[FFTCG Crystarium: How to Win Limited Opus VIII Review]",
+    "[Corpus: cards/final-fantasy-tcg/opus-viii/8-021r-rain-rare.md ## Trivia]",
+    "[Corpus: cards/final-fantasy-tcg/opus-viii/8-043h-lasswell.md ## Trivia]",
+    "[Corpus: cards/final-fantasy-tcg/opus-viii/8-060l-fina-legend.md ## Trivia]",
+    "[Corpus: cards/final-fantasy-tcg/opus-viii/8-061c-fina-common.md ## Trivia]",
+    "[Precedent: cards/_characters/ff6-returners-party.md — structural template]"
+  ],
+  "files_modified": [
+    "cards/_characters/ffbe-opening-arc-party.md",
+    "cards/final-fantasy-tcg/opus-viii/8-021r-rain-rare.md",
+    "cards/final-fantasy-tcg/opus-viii/8-043h-lasswell.md",
+    "cards/final-fantasy-tcg/opus-viii/8-043h-lasswell--foil.md",
+    "cards/final-fantasy-tcg/opus-viii/8-060l-fina-legend.md",
+    "cards/final-fantasy-tcg/opus-viii/8-061c-fina-common.md"
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "verification_log": {
+    "claim_to_verify": "N=3 unique FFBE characters in corpus, all Opus VIII, all with explicit trio-framing in trivia bodies",
+    "claim_verdict": "confirmed",
+    "evidence": "5 card files exist on disk (Rain 8-021R, Lasswell 8-043H + foil duplicate, Fina 8-060L Legend + 8-061C Common). All 5 have ip_verified: true with FFBE attribution. Rain trivia: 'Opus VIII brought Final Fantasy Brave Exvius to the forefront with multiple new characters, Rain among them' + 'Rain and Lasswell ... canonical FFBE protagonist pair debuted together in FFTCG'. Lasswell trivia: Square Enix press release explicitly names him as 'brought to the forefront' co-headliner. Fina 8-061C trivia: dedicated 'Trio context' bullet — 'Opus VIII deploys the full FFBE opening-arc party (Rain, Lasswell, Fina) simultaneously across multiple rarity slots'. Triple-source-corroborated, designer-formalized.",
+    "graham_check": "Graham 8-075C correctly excluded — Final Fantasy Dimensions (FFL is the Japanese title), not FFBE. Graham trivia explicitly distinguishes: 'Graham is a Dark Knight character from that game [FFDimensions], not from Final Fantasy Brave Exvius.'"
+  },
+  "next_pass_suggestions": [
+    "FFDimensions cluster watch — Graham 8-075C confirmed FFDimensions; Sophia 8-038C from wave 135 was tagged 'FF Legends' and may also be FFDimensions. If Sophia verifies as FFDimensions, that's N=2 — still sub-threshold but worth a re-verification pass. Stage future ffdimensions-cohort node trigger condition: N>=3 FFDimensions characters in corpus.",
+    "FFIX cluster watch — Garnet 8-113C (just enriched) + Vivi 8-016H (existing vivi-ornitier node) = N=2 for FFIX / Category IX. Sub-threshold but same wave-134 pattern. Stage trigger condition: N>=3 FFIX characters in corpus, then evaluate either (a) ffix-party node analogous to ff6-returners-party, or (b) expand the existing vivi-ornitier node into a roster-cohort node.",
+    "Marlene EX 8-085C (FF7) — solo FF7 character; sub-threshold; future ff7-cohort watch.",
+    "FFXV co-headliner watch — Noctis EX 8-079H is the other co-headliner alongside Lasswell per the Opus VIII Square Enix press release; Ignis EX 8-072R is also in corpus (FFXV). N=2 for FFXV currently. Sub-threshold but the Opus VIII press release is the same designer-formalized debut anchor — when N=3 lands, this becomes a clean Nodeley pass via the same template."
+  ],
+  "other_candidates_considered": [
+    "Edge: Rain 8-021R <-> Lasswell 8-043H (brothers-in-arms) — refused; subsumed by node",
+    "Edge: Fina 8-060L <-> Fina 8-061C (dual-print same-character) — already captured by both cards' Related cards; node makes it traversable",
+    "Edge: Rain 8-021R <-> Fina 8-061C (Vision-grantor / Vision-bearer) — refused; subsumed by node"
+  ]
+}
