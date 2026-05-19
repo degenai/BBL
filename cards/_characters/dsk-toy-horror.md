@@ -83,4 +83,4 @@ Note: the corpus also includes a sibling **DSK improvised-survival-grammar cohor
 - [[valgavoth]] — character node for the demon whose plane animates both cohorts; the proximate-cause antagonist.
 - [[dsk-unlucky-lands-cycle]] — sibling DSK designer-coordinated cohort; haunted-vernacular-place axis. The third DSK character-layer cohort in current corpus.
 - [[manifest-dread]] — sibling DSK signature mechanic at the symbol layer; the mechanical-thematic bridge through the set's graveyard / Delirium subtheme. Patchwork Beastie's Delirium engagement edges this node mechanically toward the manifest-dread mechanical primitive.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

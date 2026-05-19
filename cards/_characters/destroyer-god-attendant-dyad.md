@@ -144,6 +144,6 @@ This is what BBL's bundle copy can lean on without inventing canon: the destroye
 
 - [[dark-vassal-trio]] — sibling designer-coordinated within-set DBSCG sub-cohort node anchoring a 3-card cycle within the Colossal Warfare BT4 booster. Structural precedent for the within-set sub-cohort node-shape at smaller scope.
 
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.
 
 - Future *Galactic Battle BT1 Divine Command-Tier* Discrete Lair candidate — 5 corpus anchors form a tight cohesion stack at the divine-class command-tier. Bundle copy can lean on the *cosmic-class divine entities operate via inverted-hierarchy where labor attends management* canonical thesis. Reserve for when the Galactic Battle BT1 Discrete Lair commission lands. The multi-copy-bundle pricing strategy per `[[bbl-multi-copy-bundles]]` is NOT available — all 5 cards are qty 1 — so the bundle would be single-copy by design at the $5.00 floor per `[[bbl-bundle-pricing-codified]]`.

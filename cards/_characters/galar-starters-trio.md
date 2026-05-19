@@ -78,4 +78,4 @@ The Galar starters trio is the Generation VIII iteration of the canonical Pokemo
 - `castform-forms-cycle` — second sibling Pokemon-side cohort character node, weather-form four-cycle pattern at the single-species scope.
 - `galarian-regional-forms` — Galar regional-form variant cohort character node, ORTHOGONAL to this cohort. Galarian regional forms are alternate-form variants of pre-Galar species, NOT Sword & Shield first-partners.
 - `galar-gym-challenge` — Galar gym leader cohort character node, ORTHOGONAL to this cohort. Gym leaders' signature Pokemon are not first-partner starters.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

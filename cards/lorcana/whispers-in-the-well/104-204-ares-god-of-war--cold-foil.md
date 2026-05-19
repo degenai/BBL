@@ -41,17 +41,18 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: Kiersten Hale
-oracle_text: Reckless (This character can't quest and must
-challenge each turn if able.)
-CALL TO BATTLE Once during your turn, whenever
-you put a card under one of your characters or
-locations, you may ready chosen character. If you do,
-that character can't quest for the rest of this turn.
-challenge each turn if able.)
-CALL TO BATTLE Once during your turn, whenever
-you put a card under one of your characters or
-locations, you may ready chosen character. If you do,
-that character can't quest for the rest of this turn.
+oracle_text: |-
+  Reckless (This character can't quest and must
+  challenge each turn if able.)
+  CALL TO BATTLE Once during your turn, whenever
+  you put a card under one of your characters or
+  locations, you may ready chosen character. If you do,
+  that character can't quest for the rest of this turn.
+  challenge each turn if able.)
+  CALL TO BATTLE Once during your turn, whenever
+  you put a card under one of your characters or
+  locations, you may ready chosen character. If you do,
+  that character can't quest for the rest of this turn.
 image_width: 1468
 image_height: 2048
 image_quality: high

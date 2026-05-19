@@ -41,13 +41,14 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/
 art_match_confidence: high
 needs_manual_review: false
 artist: Filipe Laurentino
-oracle_text: WILD RIDE While 2 or more characters of yours
-are exerted, this character gets +2 ¤ and
-gains Evasive. (Only characters with Evasive can
-challenge them.)
-are exerted, this character gets +2 ¤ and
-gains Evasive. (Only characters with Evasive can
-challenge them.)
+oracle_text: |-
+  WILD RIDE While 2 or more characters of yours
+  are exerted, this character gets +2 ¤ and
+  gains Evasive. (Only characters with Evasive can
+  challenge them.)
+  are exerted, this character gets +2 ¤ and
+  gains Evasive. (Only characters with Evasive can
+  challenge them.)
 image_width: 1468
 image_height: 2048
 image_quality: high

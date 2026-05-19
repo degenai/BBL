@@ -1,5 +1,5 @@
 ---
-name: "Member of Levi Squad" Eld
+name: '"Member of Levi Squad" Eld'
 game: Weiss Schwarz
 set: Attack on Titan
 collector_number: AOT/S35-E043 C

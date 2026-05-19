@@ -41,8 +41,9 @@ art_match_confidence: high
 needs_manual_review: false
 artist: kawayoo
 flavor_text: It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.
-oracle_text: Claw Slash (ColorlessColorless) 30
-Heat Blast (FireFireColorless) 70
+oracle_text: |-
+  Claw Slash (ColorlessColorless) 30
+  Heat Blast (FireFireColorless) 70
 mood: action
 time_of_day: indeterminate
 setting: other

@@ -39,13 +39,14 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: Irish Chua
-oracle_text: DOCTRINA ADDUCERE During your turn, whenever an
-opposing character becomes exerted, gain 1 lore.
-CELERITAS Your characters named Demona gain Rush.
-(They can challenge the turn they're played.)
-opposing character becomes exerted, gain 1 lore.
-CELERITAS Your characters named Demona gain Rush.
-(They can challenge the turn they're played.)
+oracle_text: |-
+  DOCTRINA ADDUCERE During your turn, whenever an
+  opposing character becomes exerted, gain 1 lore.
+  CELERITAS Your characters named Demona gain Rush.
+  (They can challenge the turn they're played.)
+  opposing character becomes exerted, gain 1 lore.
+  CELERITAS Your characters named Demona gain Rush.
+  (They can challenge the turn they're played.)
 image_width: 1468
 image_height: 2048
 image_quality: high

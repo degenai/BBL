@@ -110,4 +110,4 @@ Himeno's portfolio in current corpus does not anchor a labor-hub thesis the way 
 
 - [[sanosuke-sakuma]] — sibling Pokemon-side artist node; structural precedent for this node. Sakuma's portfolio extends across TCG illustration AND in-game NPC character design (cross-medium); Himeno's does not. Both clear the corpus-volume threshold for an artist node (Sakuma at 5 credits, Himeno at 6+). The cross-medium thesis-bridge is absent here; the franchise-tenure case is the load-bearing distinction Himeno's node adds.
 - [[kirisaki]] — sibling Pokemon-side artist node; closest corpus-volume neighbor (7 credits to Himeno's 6+). Both nodes are Pokemon-side single-medium illustrators with corpus-volume thresholds cleared; both provide artist-layer-internal disambiguation through canonical stylistic signatures. kirisAki's career started 2013 (Sun & Moon era onward); Himeno's started 1996 (franchise origin). The two nodes bracket the Pokemon TCG illustrator-tenure spectrum currently represented in corpus.
-- [[Bulk Graph Bundler]] — the project this artist entry serves.
+- `Bulk Graph Bundler` — the project this artist entry serves.

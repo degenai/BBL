@@ -120,4 +120,4 @@ The cohort also **structurally opposes** the [[dsk-toy-horror]] cohort: where th
 - [[manifest-dread]] — sibling DSK signature mechanic at the symbol layer; mechanically tethered to two members of this cohort (Defiant Survivor, Conductive Machete).
 - [[rebellion]] — hub the cohort engages on the apparatus-of-extraction axis; the survivor-with-improvised-weapon as the cornered-worker register.
 - [[labor]] — hub the cohort engages on the same axis; the bat-with-nails is the picket-sign-with-nails.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

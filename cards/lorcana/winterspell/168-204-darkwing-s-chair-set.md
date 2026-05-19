@@ -39,15 +39,16 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set11
 art_match_confidence: high
 needs_manual_review: false
 artist: Danielle Powers
-oracle_text: SECRET ENTRANCE When you play this item, you may put the
-top card of your deck into your inkwell facedown and exerted.
-SUDDEN SPIN ⟳, Banish this item — Remove up to 2 damage
-from chosen character. If a character named Darkwing Duck
-is chosen, remove up to 4 damage instead.
-top card of your deck into your inkwell facedown and exerted.
-SUDDEN SPIN ⟳, Banish this item — Remove up to 2 damage
-from chosen character. If a character named Darkwing Duck
-is chosen, remove up to 4 damage instead.
+oracle_text: |-
+  SECRET ENTRANCE When you play this item, you may put the
+  top card of your deck into your inkwell facedown and exerted.
+  SUDDEN SPIN ⟳, Banish this item — Remove up to 2 damage
+  from chosen character. If a character named Darkwing Duck
+  is chosen, remove up to 4 damage instead.
+  top card of your deck into your inkwell facedown and exerted.
+  SUDDEN SPIN ⟳, Banish this item — Remove up to 2 damage
+  from chosen character. If a character named Darkwing Duck
+  is chosen, remove up to 4 damage instead.
 image_width: 1468
 image_height: 2048
 image_quality: high

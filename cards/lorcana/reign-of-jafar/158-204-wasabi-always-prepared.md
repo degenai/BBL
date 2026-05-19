@@ -41,14 +41,16 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/
 art_match_confidence: high
 needs_manual_review: false
 artist: Jules Dubost
-flavor_text: “Okay, so the plan is ‘leave Wasabi to watch our
-backs while we steal the crown.’ Good to know.”
-backs while we steal the crown.’ Good to know.”
-oracle_text: Support (Whenever this character quests, you
-may add their ¤ to another chosen character's
-¤ this turn.)
-may add their ¤ to another chosen character's
-¤ this turn.)
+flavor_text: |-
+  “Okay, so the plan is ‘leave Wasabi to watch our
+  backs while we steal the crown.’ Good to know.”
+  backs while we steal the crown.’ Good to know.”
+oracle_text: |-
+  Support (Whenever this character quests, you
+  may add their ¤ to another chosen character's
+  ¤ this turn.)
+  may add their ¤ to another chosen character's
+  ¤ this turn.)
 image_width: 1468
 image_height: 2048
 image_quality: high

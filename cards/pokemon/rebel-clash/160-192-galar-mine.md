@@ -41,8 +41,9 @@ reference_image_source_url: https://images.pokemontcg.io/swsh2/160_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: 5ban Graphics
-oracle_text: The Retreat Cost of both Active Pokémon is ColorlessColorless more.
-This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card.
+oracle_text: |-
+  The Retreat Cost of both Active Pokémon is ColorlessColorless more.
+  This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card.
 mood: grim
 time_of_day: indeterminate
 setting: dungeon

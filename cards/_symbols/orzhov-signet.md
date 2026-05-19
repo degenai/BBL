@@ -90,5 +90,5 @@ The artifact card itself (Orzhov Signet, multiple printings) IS the symbol depic
 
 - [[orzhov-syndicate]] — the institution this symbol marks. The signet is the iconography; the syndicate is the actor. Cards that depict the signet *as object* edge to this symbol node; cards that depict the guild *as actor* (operatives at work, institutional violence) edge to the character node; many cards do both.
 - [[labor]] — the BBL hub this symbol most strongly supports
-- [[Bulk Graph Bundler]] (wiki) — the project this symbol enriches
+- `Bulk Graph Bundler` (wiki) — the project this symbol enriches
 - Tithe (Discrete Lair 001) — the first BBL bundle to anchor on this symbol

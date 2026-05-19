@@ -121,4 +121,4 @@ This is what BBL's bundle copy can lean on without inventing canon: the Crane Sc
 - [[universe-6-tournament-cohort]] — sibling Dragon Ball-side cohort precedent on the larger *named-arc multi-character cohort* axis. Both cohorts model designer-coordinated canonical multi-character rosters from named Dragon Ball arcs at the BBL graph layer.
 - [[hercule]] — cross-cohort apparatus-of-extraction cousin; the *celebrity-credit-thief mortal-tier* anchor sits adjacent to this cohort's *paid-killer-school instructor-and-disciple-tier* anchor at the broader labor-and-credit canonical axis.
 - [[labor]] — the BBL hub this cohort most directly anchors. The Crane School's *students-shaped-as-weapons + contract-killing-as-revenue-model* register is one of the corpus's clearest Dragon-Ball-side instances of the apparatus-of-extraction axis. The disciple-defection beat (Tien refusing the contract) is the canonical *worker-leaves-the-apparatus* counter-move.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

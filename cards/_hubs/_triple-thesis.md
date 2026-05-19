@@ -15,7 +15,7 @@ brand_weight: foundational-meta
 
 This is not a fourth hub. This is the meta-document that names what the three foundational hubs ARE, why they triangulate, and what it means when a card or node anchors more than one of them.
 
-The three thesis-hubs of the [[Bulk Graph Bundler]]:
+The three thesis-hubs of the `Bulk Graph Bundler`:
 
 - **[[labor]]** — work that gets extracted. Hidden Marxist verb: **PRODUCE**.
 - **[[rebellion]]** — refusal of the apparatus. Hidden Marxist verb: **REFUSE**.
@@ -116,7 +116,7 @@ The Potion rule is the structural sibling of the refusal-of-extraction-as-hub (w
 - [[rebellion]] — refuse, the political verb against
 - [[stewardship]] — tend, the care across the commons-line
 - [[chinese-zodiac]] — fourth foundational hub but taxonomic-grid, orthogonal to this triangle
-- [[Bulk Graph Bundler]] — the project this triangle serves
+- `Bulk Graph Bundler` — the project this triangle serves
 - [[bbl-chronicle]] (global wiki) — milestone-logged history of the substrate's growth
 - memory `bbl-narrative-first-lairs.md` — narrative-first hub design principle
 - memory `bbl-hubs-hand-curated.md` — hubs are authored, not auto-generated

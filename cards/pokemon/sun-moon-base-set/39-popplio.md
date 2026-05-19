@@ -39,8 +39,9 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 flavor_text: This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.
-oracle_text: Pound (Water) 10
-Water Gun (WaterColorless) 20
+oracle_text: |-
+  Pound (Water) 10
+  Water Gun (WaterColorless) 20
 review_good: false
 review_bad: false
 review_notes: ""

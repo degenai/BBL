@@ -41,15 +41,16 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: Leonardo Giammichele
-oracle_text: FINDING ANSWERS When you play this character,
-you may draw a card, then choose and discard
-a card.
-STONE BY DAY If you have 3 or more cards in your
-hand, this character can't ready.
-you may draw a card, then choose and discard
-a card.
-STONE BY DAY If you have 3 or more cards in your
-hand, this character can't ready.
+oracle_text: |-
+  FINDING ANSWERS When you play this character,
+  you may draw a card, then choose and discard
+  a card.
+  STONE BY DAY If you have 3 or more cards in your
+  hand, this character can't ready.
+  you may draw a card, then choose and discard
+  a card.
+  STONE BY DAY If you have 3 or more cards in your
+  hand, this character can't ready.
 image_width: 1468
 image_height: 2048
 image_quality: high

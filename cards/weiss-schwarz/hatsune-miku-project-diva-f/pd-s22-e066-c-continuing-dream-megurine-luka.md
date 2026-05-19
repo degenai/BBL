@@ -1,5 +1,5 @@
 ---
-name: "Continuing Dream"Megurine Luka
+name: '"Continuing Dream" Megurine Luka'
 game: Weiss Schwarz
 set: Hatsune Miku -Project DIVA- f
 collector_number: PD/S22-E066 C

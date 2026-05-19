@@ -1,5 +1,5 @@
 ---
-name: "Calm and Collected" Mikasa
+name: '"Calm and Collected" Mikasa'
 game: Weiss Schwarz
 set: Attack on Titan
 collector_number: AOT/S35-E064 U

@@ -40,9 +40,10 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set6/
 art_match_confidence: high
 needs_manual_review: false
 artist: Valerio Buonfantino
-flavor_text: You need a good plan and even better luck to make it
-across these treacherous waters.
-across these treacherous waters.
+flavor_text: |-
+  You need a good plan and even better luck to make it
+  across these treacherous waters.
+  across these treacherous waters.
 oracle_text: This turn, you may ink an additional card. Draw a card.
 image_width: 1468
 image_height: 2048

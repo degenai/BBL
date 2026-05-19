@@ -99,4 +99,4 @@ For any BBL bundle that anchors on labor + rebellion + Avishkar + the Indigo-Rev
 - [[nicol-bolas]] — antagonist character node; the WAR-era invasion is the storyline event the Pyrohelix flavor line indexes. Defer character-to-character edge pending formalization.
 - [[rebellion]] — the BBL hub most thematically compatible with Chandra's character register. Her spark ignited from the Consulate's apparatus-of-extraction killing her father; her arc bridges the Aether Revolt's mass-action moment and the post-revolutionary continuity through her mother's coordinator role. Pyromancy as the political verb made into a magic-system.
 - [[labor]] — the BBL hub indirectly compatible. Pia's lineage threads through the labor hub via the Aether Rangers; Chandra's connection is family-and-spark rather than direct labor-coding.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

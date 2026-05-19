@@ -1,5 +1,5 @@
 ---
-name: "Together with You"Hatsune Miku
+name: '"Together with You" Hatsune Miku'
 game: Weiss Schwarz
 set: Hatsune Miku -Project DIVA- f
 collector_number: PD/S22-E031 R

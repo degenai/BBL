@@ -43,8 +43,9 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Miki Tanaka
 flavor_text: It hunts without twitching a muscle by pulling in its prey with powerful magnetism. But sometimes it pulls natural enemies in close.
-oracle_text: Tackle (Colorless) 10
-Rolling Tackle (ColorlessColorlessColorless) 50
+oracle_text: |-
+  Tackle (Colorless) 10
+  Rolling Tackle (ColorlessColorlessColorless) 50
 mood: peaceful
 time_of_day: day
 setting: other

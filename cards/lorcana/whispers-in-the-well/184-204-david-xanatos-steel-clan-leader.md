@@ -40,20 +40,22 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: Renato Roldan / Amanda Duarte
-flavor_text: “A plan only fails when you don't learn from it. And my
-plans never fail.”
-—David Xanatos
-plans never fail.”
-—David Xanatos
-plans never fail.”
-—David Xanatos
-oracle_text: MINOR INCONVENIENCE When you play this character,
-you may choose and discard a card to deal 2 damage to
-chosen character.
-you may choose and discard a card to deal 2 damage to
-chosen character.
-you may choose and discard a card to deal 2 damage to
-chosen character.
+flavor_text: |-
+  “A plan only fails when you don't learn from it. And my
+  plans never fail.”
+  —David Xanatos
+  plans never fail.”
+  —David Xanatos
+  plans never fail.”
+  —David Xanatos
+oracle_text: |-
+  MINOR INCONVENIENCE When you play this character,
+  you may choose and discard a card to deal 2 damage to
+  chosen character.
+  you may choose and discard a card to deal 2 damage to
+  chosen character.
+  you may choose and discard a card to deal 2 damage to
+  chosen character.
 image_width: 1468
 image_height: 2048
 image_quality: high

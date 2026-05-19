@@ -67,4 +67,4 @@ Card art and flavor text that depicts the Endriders as a faction: their members 
 
 - [[labor]] — the BBL hub most thematically compatible with the Endrider narrative register (racing-as-worship is a labor act dressed as religious devotion; the apocalypse didn't dissolve work, only changed what counted as the work). Endrider Spikespitter and Fuel the Flames depict labor-as-aggression — survivor-pit-crew solidarity weaponized.
 - [[rebellion]] — sibling hub; the Endriders are a faction that survived the end of their world by refusing to die, which is rebellion at the cosmological scale. Their racing-as-worship reads as a deliberate aesthetic refusal of dignified mourning.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

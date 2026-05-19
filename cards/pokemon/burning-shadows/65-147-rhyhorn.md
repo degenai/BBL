@@ -40,8 +40,9 @@ art_match_confidence: high
 needs_manual_review: false
 artist: miki kudo
 flavor_text: Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging Tackles.
-oracle_text: Lunge Out (ColorlessColorless) 20
-Horn Drill (FightingFightingColorless) 60
+oracle_text: |-
+  Lunge Out (ColorlessColorless) 20
+  Horn Drill (FightingFightingColorless) 60
 mood: peaceful
 time_of_day: day
 setting: mountain

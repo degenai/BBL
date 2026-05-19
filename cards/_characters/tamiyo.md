@@ -82,6 +82,6 @@ The two corpus cards span the pre-compleation and Modern-Horizons-supplemental p
 ## See also
 
 - [[labor]] — the BBL hub most directly thematically compatible with the Tamiyo anchor. Tamiyo is the in-universe figure of *curation-as-labor*: her magic depends on the archive-work that precedes it (collecting tales, transcribing scrolls, ordering stories in study circles, re-reading them aloud). The hub's framing of preserved-work-against-collapse indexes here through both corpus cards — Collector of Tales depicts the scholar mid-collection, Tamiyo Meets the Story Circle depicts the practice itself. A Discrete Lair anchored on scholarship, archival labor, or the labor of narrative custodianship can pull Tamiyo as a cohesion anchor.
-- [[Bulk Graph Bundler]] — the project this character node serves. Tamiyo is also the closest in-universe analogue to what BBL itself does: collect, tag, curate, recompose. The meta-rhyme is worth noting in any storefront prose that anchors on this character.
+- `Bulk Graph Bundler` — the project this character node serves. Tamiyo is also the closest in-universe analogue to what BBL itself does: collect, tag, curate, recompose. The meta-rhyme is worth noting in any storefront prose that anchors on this character.
 </content>
 </invoke>

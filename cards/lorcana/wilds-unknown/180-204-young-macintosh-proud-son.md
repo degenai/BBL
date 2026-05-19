@@ -41,9 +41,10 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12
 art_match_confidence: high
 needs_manual_review: false
 artist: Adam Ford
-flavor_text: “We've got the strength and we've got the swords.
-What vine could stand against all of that, right Da?”
-What vine could stand against all of that, right Da?”
+flavor_text: |-
+  “We've got the strength and we've got the swords.
+  What vine could stand against all of that, right Da?”
+  What vine could stand against all of that, right Da?”
 image_width: 1468
 image_height: 2048
 image_quality: high

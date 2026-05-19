@@ -42,11 +42,12 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: Mario Oscar Gabriele
-oracle_text: YOU BETTER RUN When you play this character,
-you may pay 2 ⬡ to return chosen opposing
-character with 2 ¤ or less to their player's hand.
-you may pay 2 ⬡ to return chosen opposing
-character with 2 ¤ or less to their player's hand.
+oracle_text: |-
+  YOU BETTER RUN When you play this character,
+  you may pay 2 ⬡ to return chosen opposing
+  character with 2 ¤ or less to their player's hand.
+  you may pay 2 ⬡ to return chosen opposing
+  character with 2 ¤ or less to their player's hand.
 image_width: 1468
 image_height: 2048
 image_quality: high

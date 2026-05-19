@@ -40,14 +40,16 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/
 art_match_confidence: high
 needs_manual_review: false
 artist: Edu Francisco
-flavor_text: “Flint's secret trove was never found, but stories have
-persisted that it remains hidden...”
-—Narrator
-persisted that it remains hidden...”
-—Narrator
-oracle_text: PREDATORY INSTINCT You can't play this character
-unless an opposing character was damaged this turn.
-unless an opposing character was damaged this turn.
+flavor_text: |-
+  “Flint's secret trove was never found, but stories have
+  persisted that it remains hidden...”
+  —Narrator
+  persisted that it remains hidden...”
+  —Narrator
+oracle_text: |-
+  PREDATORY INSTINCT You can't play this character
+  unless an opposing character was damaged this turn.
+  unless an opposing character was damaged this turn.
 image_width: 1468
 image_height: 2048
 image_quality: high

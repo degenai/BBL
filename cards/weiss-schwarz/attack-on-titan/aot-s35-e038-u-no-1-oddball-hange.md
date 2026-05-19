@@ -1,5 +1,5 @@
 ---
-name: "No.1 Oddball" Hange
+name: '"No.1 Oddball" Hange'
 game: Weiss Schwarz
 set: Attack on Titan
 collector_number: AOT/S35-E038 U

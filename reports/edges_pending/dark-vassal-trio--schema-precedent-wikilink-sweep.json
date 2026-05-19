@@ -1,0 +1,47 @@
+{
+  "edge_id": "dark-vassal-trio--schema-precedent-wikilink-sweep",
+  "shape": "edge-dissolution",
+  "category": "schema-hygiene",
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/dark-vassal-trio.md",
+      "name": "Dark Vassal trio"
+    }
+  ],
+  "description": "Converted 9 schema-precedent wikilinks to backticks across dark-vassal-trio.md per bbl-wikilink-vs-backtick-discipline. Line 92 (Caveats): 6 wikilinks in the explicit 'Modeled as... Like [[' peer-listing bullet — eld-cinderella-cycle, wrath-of-the-dragon-saga, dsk-unlucky-lands-cycle, fear-of-cycle, castform-forms-cycle, elemental-monkey-trio — all architectural-template citations, not real-thematic edges. Line 36: 2 wikilinks (eld-cinderella-cycle, wrath-of-the-dragon-saga) in 'the same shape as' structural-comparator context. Line 58: 1 wikilink (wrath-of-the-dragon-saga) in 'structurally adjacent precedent' context. Line 106: 1 wikilink (wrath-of-the-dragon-saga) in Cross-cycle structural parallel caveat. See Also section: wrath-of-the-dragon-saga (line 112), eld-cinderella-cycle (line 114), dsk-unlucky-lands-cycle (line 116) — all 'sibling...precedent' schema-template citations. Total converted: 9. Preserved: all [[namekian]] (lines 36, 94, 96, 98, 100, 110 x2, 124) as canonical race-cohort parent-child edges; [[labor]] (lines 54, 118) as real hub thematic edges; [[Bulk Graph Bundler]] (line 122) as project attribution; auto-generated appears_on card wikilinks (lines 74-76).",
+  "phrase_list_source": "reports/_scratch/janny_bolas_schema_precedent_sweep.py (wave-124 canonical phrase list) — triggers: 'Modeled as', 'precedent', 'structural precedent', 'Like [['  — same sweep logic applied to cycle-node peer-listing pattern",
+  "converted": [
+    {"line": 36, "node": "eld-cinderella-cycle", "trigger": "same shape as (structural-template)"},
+    {"line": 36, "node": "wrath-of-the-dragon-saga", "trigger": "same shape as (structural-template)"},
+    {"line": 58, "node": "wrath-of-the-dragon-saga", "trigger": "precedent"},
+    {"line": 92, "node": "eld-cinderella-cycle", "trigger": "Modeled as + Like [["},
+    {"line": 92, "node": "wrath-of-the-dragon-saga", "trigger": "Modeled as + Like [["},
+    {"line": 92, "node": "dsk-unlucky-lands-cycle", "trigger": "Modeled as + Like [["},
+    {"line": 92, "node": "fear-of-cycle", "trigger": "Modeled as + Like [["},
+    {"line": 92, "node": "castform-forms-cycle", "trigger": "Modeled as + Like [["},
+    {"line": 92, "node": "elemental-monkey-trio", "trigger": "Modeled as + Like [["},
+    {"line": 106, "node": "wrath-of-the-dragon-saga", "trigger": "structurally adjacent (structural-template)"},
+    {"line": 112, "node": "wrath-of-the-dragon-saga", "trigger": "precedent (See Also)"},
+    {"line": 114, "node": "eld-cinderella-cycle", "trigger": "precedent (See Also)"},
+    {"line": 116, "node": "dsk-unlucky-lands-cycle", "trigger": "precedent (See Also)"}
+  ],
+  "preserved": [
+    {"node": "namekian", "lines": [36, 94, 96, 98, 100, 110, 110, 124], "reason": "canonical race-cohort parent-child edge — instructed preserve + real thematic"},
+    {"node": "labor", "lines": [54, 118], "reason": "real hub thematic edge"},
+    {"node": "Bulk Graph Bundler", "lines": [122], "reason": "project attribution, not a schema-precedent citation"},
+    {"node": "bt4-064-dark-vassal-tambourine", "lines": [74], "reason": "auto-generated appears_on card link"},
+    {"node": "bt4-065-dark-vassal-cymbal", "lines": [75], "reason": "auto-generated appears_on card link"},
+    {"node": "bt4-066-dark-vassal-drum", "lines": [76], "reason": "auto-generated appears_on card link"}
+  ],
+  "citations": [
+    "[bbl-wikilink-vs-backtick-discipline]",
+    "[reports/_scratch/janny_bolas_schema_precedent_sweep.py — wave-124 phrase list]",
+    "[wave-124 nicol-bolas sweep precedent]",
+    "[wave-127 cell-saga-apparatus sweep precedent]"
+  ],
+  "files_modified": [
+    "cards/_characters/dark-vassal-trio.md"
+  ],
+  "edgelord_mood": "enlightened-cleanup"
+}

@@ -101,5 +101,5 @@ Cards that reference Valgavoth by name in flavor text, depict the consequences o
 
 - [[fear-of-cycle]] — sibling DSK character node; the 14-card phobia-Nightmare cycle Wizards designed as the mechanical expression of Valgavoth's plane (suspense-over-shock, phobias-as-monsters, Enchantment Creature — Nightmare type). The Fear-of cycle is the set's *creature-side* embodiment of the same horror thesis Valgavoth anchors at the character side.
 - [[phyrexia]] — sibling faction-tier antagonist node; structural precedent for pervasive-antagonist anchors whose narrative presence exceeds their direct-depiction count. The Phyrexian compleation arc and the Duskmourn fear-farming arc are the two clearest examples of Wizards designing a multi-set or set-pervasive antagonist that the BBL graph hosts at the character layer.
-- [[Bulk Graph Bundler]] — the project this character entry serves.
+- `Bulk Graph Bundler` — the project this character entry serves.
 - Future Duskmourn Discrete Lair candidate — 9+ corpus anchor-references here plus the [[fear-of-cycle]] cohort plus the Glimmer-opposition iconography form a substantial bundle-cohesion stack for a Duskmourn-horror lair anchored on the demon and his works.

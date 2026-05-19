@@ -42,15 +42,16 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: Max Grecke
-oracle_text: BE CAREFUL, ALL OF YOU Whenever one of
-your Gargoyle characters challenges another
-character, gain 1 lore.
-STONE BY DAY If you have 3 or more cards in your
-hand, this character can't ready.
-your Gargoyle characters challenges another
-character, gain 1 lore.
-STONE BY DAY If you have 3 or more cards in your
-hand, this character can't ready.
+oracle_text: |-
+  BE CAREFUL, ALL OF YOU Whenever one of
+  your Gargoyle characters challenges another
+  character, gain 1 lore.
+  STONE BY DAY If you have 3 or more cards in your
+  hand, this character can't ready.
+  your Gargoyle characters challenges another
+  character, gain 1 lore.
+  STONE BY DAY If you have 3 or more cards in your
+  hand, this character can't ready.
 image_width: 1468
 image_height: 2048
 image_quality: high

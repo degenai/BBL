@@ -38,8 +38,9 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Misa Tsutsui
 flavor_text: It's very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.
-oracle_text: Beat (Fighting) 20
-Hammer In (FightingColorless) 40
+oracle_text: |-
+  Beat (Fighting) 20
+  Hammer In (FightingColorless) 40
 image_width: 734
 image_height: 1024
 image_quality: high

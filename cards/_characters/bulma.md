@@ -96,4 +96,4 @@ For any BBL bundle that anchors on labor + technology + the apparatus-of-extract
 - [[son-goku]] — sibling character node; canonical original adventure-companion from Dragon Ball chapter 1 (1984), the meeting that initiates the entire franchise.
 - [[labor]] — the BBL hub most thematically compatible with Bulma's engineering-anchor register. The apparatus-of-engineering reading — civilian-engineering as load-bearing labor that warrior-arc protagonism depends on — indexes here directly.
 - [[macro-cosmos]] / [[orzhov-syndicate]] — sibling corporate-power-as-apparatus character / faction nodes. Capsule Corporation is the protagonist-side equivalent: a heritable corporate-engineering institution that the franchise's heroes depend on without examining. Future bundle copy can structure the comparison.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

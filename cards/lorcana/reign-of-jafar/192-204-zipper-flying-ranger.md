@@ -41,17 +41,18 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/
 art_match_confidence: high
 needs_manual_review: false
 artist: Ian MacDonald
-oracle_text: BEST MATES If you have a character named
-Monterey Jack in play, you pay 1 ⬡ less to play
-this character.
-BURST OF SPEED During your turn, this character
-gains Evasive. (They can challenge characters
-with Evasive.)
-Monterey Jack in play, you pay 1 ⬡ less to play
-this character.
-BURST OF SPEED During your turn, this character
-gains Evasive. (They can challenge characters
-with Evasive.)
+oracle_text: |-
+  BEST MATES If you have a character named
+  Monterey Jack in play, you pay 1 ⬡ less to play
+  this character.
+  BURST OF SPEED During your turn, this character
+  gains Evasive. (They can challenge characters
+  with Evasive.)
+  Monterey Jack in play, you pay 1 ⬡ less to play
+  this character.
+  BURST OF SPEED During your turn, this character
+  gains Evasive. (They can challenge characters
+  with Evasive.)
 image_width: 1468
 image_height: 2048
 image_quality: high

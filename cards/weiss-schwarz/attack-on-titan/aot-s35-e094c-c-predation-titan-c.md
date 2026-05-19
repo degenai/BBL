@@ -1,5 +1,5 @@
 ---
-name: "Predation" Titan (C)
+name: '"Predation" Titan (C)'
 game: Weiss Schwarz
 set: Attack on Titan
 collector_number: AOT/S35-E094c C

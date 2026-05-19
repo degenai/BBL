@@ -104,6 +104,6 @@ The trivium's most BBL-relevant property is that it visualizes the canonical **a
 
 - [[phyrexia]] — cross-franchise structural cousin at the apparatus-of-extraction axis; the Phyrexian biomechanical-warrior-mass-production substrate is the Magic-side parallel to the Red Ribbon Army's Android program. Both anchor canonical mass-warrior-production villain-apparatuses; both at the character layer; both `related_hubs: [labor]`. Bundle work that contrasts the franchise's mass-warrior-production apparatuses indexes [[phyrexia]] + [[macro-cosmos]] + this trivium together.
 
-- [[Bulk Graph Bundler]] — the project this trivium-node serves.
+- `Bulk Graph Bundler` — the project this trivium-node serves.
 
 - Future Cell-Saga-apparatus Discrete Lair candidate — three corpus anchors at total inventory of 3 copies, with the canonical engineer-to-product-to-mass-product apparatus-of-extraction escalation thesis, form a tight cohesion stack for a standalone micro-bundle at the $5.00 floor per `bbl-bundle-pricing-codified`. Bundle copy can lean on the *apparatus-of-extraction's progressive autonomy from human administration* canonical thesis (Tier 1 requires the engineer alive; Tier 2 requires only the engineer's posthumous infrastructure; Tier 3 requires neither) without inventing canon. Reserve for when the Cell-Saga Discrete Lair commission lands. Alternative pairing: with [[son-gohan]]'s Cell-Saga teen aspect as the canonical adversary-coupling, the bundle scope expands from three-card apparatus trivium to four-card apparatus-plus-protagonist composition.

@@ -95,4 +95,4 @@ Murayama Scott's three credits open one direct bundle-anchor frame:
 - [[kor]] — character node; Kitesail Scout and Unified Front both anchor at the kor faction. The Murayama Scott artist-node and the Kor character-node share two corpus cards as the load-bearing edge between the artist-layer and character-layer dimensions of those prints.
 - [[eldrazi]] — adversary character node; Gideon's Reproach anchors a Zendikari defender against the Eldrazi invasion. The Murayama Scott node sits structurally across both Zendikar sides of the BFZ block.
 - [[sanosuke-sakuma]] / [[ken-sugimori]] / [[jenn-ravenna-tran]] / [[kirisaki]] / [[kagemaru-himeno]] — sibling artist nodes. Murayama Scott's node is structurally smaller-scoped than Sakuma's or Sugimori's (no cross-medium portfolio claim, no franchise-design-authorship scope) — clears the volume threshold on three BFZ credits without overreaching on the additional axes.
-- [[Bulk Graph Bundler]] — the project this artist entry serves.
+- `Bulk Graph Bundler` — the project this artist entry serves.

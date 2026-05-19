@@ -73,4 +73,4 @@ Castform is a four-form-of-one-species cohort built on a clean designer-coordina
 - [[elemental-monkey-trio]] — sibling Pokemon-side designer-coordinated cohort character node, same layer, same shape. Both nodes anchor a multi-form Pokemon cohort whose membership predicates on a thematic-and-mechanical conjunction (the Pan-/Simi- trio by name pattern + Stone-evolution mechanic + three-wise-monkeys mapping; this cycle by species identity + four-form weather-trigger structure + teru teru bozu mapping). The elemental monkey trio operates at the multi-species scope (three paired species, six total forms); this cycle operates at the single-species scope (one species, four forms).
 - `fear-of-cycle` — sibling designer-coordinated cohort character node on the MTG side; cycle-style framing precedent.
 - `dsk-unlucky-lands-cycle` — second sibling cycle-style cohort on the MTG side.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

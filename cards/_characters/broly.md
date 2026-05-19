@@ -136,7 +136,7 @@ This is what BBL's bundle copy can lean on without inventing canon: Broly is the
 
 - [[babidi]] — cross-character canonical structural-parallel anchor at the canonical *apparatus-eats-its-architect* canonical-design-move axis. The canonical Babidi / Majin Buu canonical-apparatus-eats-its-foreman canonical-design-move (Buu kills Babidi the moment the coordinating function becomes obsolete) canonically parallels the canonical Paragus / Broly canonical-apparatus-of-paternal-revenge-eats-its-architect canonical-design-move (Broly shatters the mind-control-crown and turns on Paragus at the canonical Movie 8 climax). The canonical [[babidi]] / [[broly]] cross-character canonical-structural-parallel canonically operates at the canonical *apparatus-eats-its-architect* axis. Available for bundle copy that wants the canonical apparatus-of-extraction cross-character cross-franchise canonical-thesis stack.
 
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.
 
 - Future Movie 8 Broly-themed Discrete Lair candidate — see Caveats section above; 4 canonical Movie-8 Broly corpus anchors plus the canonical [[saiyan]] race-frame cohort plus the canonical [[bardock]] structural-parallel cross-character canonical-anchor form a viable cohesion stack for a canonical *Movie 8 Broly archetype + imperial-purge-survivor + apparatus-of-paternal-revenge* Discrete Lair anchored here. Reserve for when the canonical Movie-8 Broly Discrete Lair commission lands.
 

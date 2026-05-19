@@ -16,6 +16,20 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "63ba95a77daba17e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_artists/jenn-ravenna-tran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jenn-ravenna-tran"
+            }
           }
         ]
       }
@@ -74,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "454ec48b3e112939",
@@ -181,6 +196,16 @@
   },
   "active": "d8f5c0117373da05",
   "lastOpenFiles": [
+    "pokemon/darkness-ablaze/163-189-kabu.md.tmp.17384.cb0572f70c06",
+    "_artists/jenn-ravenna-tran.md",
+    "magic-the-gathering/zendikar-rising/14-farsight-adept--foil.md",
+    "pokemon/chilling-reign/054-198-galarian-slowpoke.md",
+    "pokemon/rebel-clash/154-192-boss-s-orders--holofoil.md",
+    "braviary.md",
+    "magic-the-gathering/throne-of-eldraine/64-so-tiny.md",
+    "Bulk Graph Bundler.md",
+    "_characters/dark-vassal-trio.md.tmp.17384.44f42295ac49",
+    "_characters/dark-vassal-trio.md.tmp.17384.387468dcff90",
     "weiss-schwarz/the-seven-deadly-sins/sds-sx03-080-r-guila-switching-sides.md",
     "_characters/cell-saga-apparatus.md.tmp.17384.f103f98d4f91",
     "_characters/cell-saga-apparatus.md.tmp.17384.c7c4fa62cd0a",
@@ -197,9 +222,7 @@
     "pokemon/darkness-ablaze/007-189-simisage.md.tmp.17384.6e9cd0d567ae",
     "_characters/elemental-monkey-trio.md.tmp.17384.7273f7468641",
     "_characters/elemental-monkey-trio.md.tmp.17384.f1aa11e1333d",
-    "pokemon/black-bolt/018-086-simipour.md.tmp.17384.a017f1138cce",
     "_artists/kirisaki.md",
-    "lorcana/whispers-in-the-well/61-204-begone.md.tmp.17384.808d21418eaf",
     "_images/weiss-schwarz/the-seven-deadly-sins/sds-sx03-100-cc-new-partnership.png",
     "_images/weiss-schwarz/the-seven-deadly-sins/sds-sx03-098-c-demon-blood.png",
     "_images/weiss-schwarz/the-seven-deadly-sins/sds-sx03-097-c-jericho-embarassing-state.png",
@@ -218,14 +241,6 @@
     "pokemon/destined-rivals/106-182-hippowdon.md",
     "pokemon/destined-rivals/091-182-primeape.md",
     "pokemon/destined-rivals/077-182-rotom.md",
-    "pokemon/destined-rivals/072-182-team-rocket-s-mareep.md",
-    "pokemon/destined-rivals/058-182-floatzel.md",
-    "pokemon/destined-rivals/005-182-shroomish.md",
-    "pokemon/ascended-heroes/090-217-shuppet.md",
-    "pokemon/ascended-heroes/081-217-togetic.md",
-    "pokemon/ascended-heroes/059-217-tynamo.md",
-    "pokemon/destined-rivals/097-182-nosepass.md",
-    "pokemon/destined-rivals/021-182-smoliv.md",
-    "pokemon/destined-rivals/002-182-yanma.md"
+    "pokemon/destined-rivals/072-182-team-rocket-s-mareep.md"
   ]
 }

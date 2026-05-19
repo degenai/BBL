@@ -164,6 +164,6 @@ This is what BBL's bundle copy can lean on without inventing canon: the Universe
 
 - [[nicol-bolas]] — cross-franchise *cosmic-class antagonist deploys mortal-class labor in a personal-feud* structural cousin. Nicol Bolas's Amonkhet-zombie-army / Eternal-zombie-army deployment of mortal-class undead-labor against the Gatewatch is the Magic-side instance of the apparatus-of-extraction destroyer-deploys-mortals canonical pattern; Champa's tournament-warrior-deployment is the Dragon Ball-side instance.
 
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.
 
 - Future Universe 6 Discrete Lair candidate — 9 corpus anchors at adjacent and near-adjacent collector numbers within a single founding-set booster form a tight cohesion stack. Bundle copy can lean on the *cosmic-class divine entities deploy cross-species mortal-warrior-labor in a god-wager-feud* canonical thesis. Reserve for when the Galactic Battle BT1 Discrete Lair commission lands. The multi-copy-bundle pricing strategy per `[[bbl-multi-copy-bundles]]` is NOT available — all 9 cards are qty 1 — so the bundle would be single-copy by design at the $5.00 floor per `[[bbl-bundle-pricing-codified]]`. The Cabba mentorship-axis with Vegeta could thread the bundle copy as the within-cohort canonical-Saiyan-knowledge-transmission narrative arc.

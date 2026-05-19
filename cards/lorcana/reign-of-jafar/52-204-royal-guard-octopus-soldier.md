@@ -41,11 +41,12 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/
 art_match_confidence: high
 needs_manual_review: false
 artist: Rachel Elese
-oracle_text: HEAVILY ARMED Whenever you draw a card, this
-character gains Challenger +1 this turn. (They get
-+1 ¤ while challenging.)
-character gains Challenger +1 this turn. (They get
-+1 ¤ while challenging.)
+oracle_text: |-
+  HEAVILY ARMED Whenever you draw a card, this
+  character gains Challenger +1 this turn. (They get
+  +1 ¤ while challenging.)
+  character gains Challenger +1 this turn. (They get
+  +1 ¤ while challenging.)
 image_width: 1468
 image_height: 2048
 image_quality: high

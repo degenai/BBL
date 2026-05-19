@@ -42,9 +42,10 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set11
 art_match_confidence: high
 needs_manual_review: false
 artist: Sergio Mancinelli
-flavor_text: “I am the terror that flaps in the night! I am the
-chill that runs up your spine! I am Darkwing Duck.”
-chill that runs up your spine! I am Darkwing Duck.”
+flavor_text: |-
+  “I am the terror that flaps in the night! I am the
+  chill that runs up your spine! I am Darkwing Duck.”
+  chill that runs up your spine! I am Darkwing Duck.”
 image_width: 1468
 image_height: 2048
 image_quality: high

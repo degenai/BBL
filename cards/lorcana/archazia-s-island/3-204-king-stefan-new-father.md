@@ -43,9 +43,10 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set7/
 art_match_confidence: high
 needs_manual_review: false
 artist: Mike Parker
-flavor_text: Every parent struggles with getting their baby to
-sleep. Kings are no different.
-sleep. Kings are no different.
+flavor_text: |-
+  Every parent struggles with getting their baby to
+  sleep. Kings are no different.
+  sleep. Kings are no different.
 image_width: 1468
 image_height: 2048
 image_quality: high

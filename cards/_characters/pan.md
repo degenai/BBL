@@ -127,6 +127,6 @@ This is what BBL's bundle copy can lean on without inventing canon: Pan is the c
 
 - [[labor]] — the BBL hub most thematically compatible with Pan's lineage-vehicle thesis. The canonical *fourth-generation-Saiyan-lineage-survivor-of-the-imperial-mercenary-workforce-genocide* reading attaches the [[labor]] hub here at the workforce-survivor-lineage-continuation axis. Bundle copy that wants the labor-hub axis can foreground the canonical Saiyan-survivor-diaspora's genetic continuity through the Earthling-female reproductive line without naming the thesis.
 
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.
 
 - Future Pan-anchored Discrete Lair candidate — four enriched-or-canonically-attributed corpus anchors (qty: 2 single-copy + 2 double-copy = 6 total inventory) plus the canonical *fourth-generation-Saiyan-lineage-survivor* + *cannot-achieve-Super-Saiyan-despite-lineage* + *canonical-GT-traveling-trio-coordinator* + *Mr.-Satan-maternal-grandfather-cross-lineage* thesis stack form a moderate bundle-cohesion stack for a Pan-anchored lair anchored here. Bundle copy can lean on the *workforce-lineage-survives-the-imperial-genocide* canonical thesis per `[[bbl-museum-curation-framing]]` without inventing canon. The TB2-024 vision pass and any future Pan-DBS-era or Pan-Super-Hero-film prints would substantially strengthen the bundle-cohesion-stack threshold. Reserve for when the Pan-anchored Discrete Lair commission lands.

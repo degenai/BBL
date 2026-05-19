@@ -39,13 +39,14 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Carlos Luzzi
 flavor_text: “Mere trinkets won't get you any closer to Jafar.”
-oracle_text: MY ORDERS COME FROM JAFAR When you play this
-character, if you have a character named Jafar in
-play, you may banish chosen item.
-character, if you have a character named Jafar in
-play, you may banish chosen item.
-character, if you have a character named Jafar in
-play, you may banish chosen item.
+oracle_text: |-
+  MY ORDERS COME FROM JAFAR When you play this
+  character, if you have a character named Jafar in
+  play, you may banish chosen item.
+  character, if you have a character named Jafar in
+  play, you may banish chosen item.
+  character, if you have a character named Jafar in
+  play, you may banish chosen item.
 image_width: 1468
 image_height: 2048
 image_quality: high

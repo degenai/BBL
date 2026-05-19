@@ -41,9 +41,10 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Agathe Molin
 flavor_text: “Alakazam, alakazook, send this page back to its book!”
-oracle_text: Return chosen character, item, or location with cost 3
-or less to their player's hand.
-or less to their player's hand.
+oracle_text: |-
+  Return chosen character, item, or location with cost 3
+  or less to their player's hand.
+  or less to their player's hand.
 image_width: 1468
 image_height: 2048
 image_quality: high

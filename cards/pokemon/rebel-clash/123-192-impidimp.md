@@ -39,8 +39,9 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Kouki Saitou
 flavor_text: Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy.
-oracle_text: Beat (Darkness) 10
-Stampede (DarknessColorless) 20
+oracle_text: |-
+  Beat (Darkness) 10
+  Stampede (DarknessColorless) 20
 mood: comedic
 time_of_day: day
 setting: forest

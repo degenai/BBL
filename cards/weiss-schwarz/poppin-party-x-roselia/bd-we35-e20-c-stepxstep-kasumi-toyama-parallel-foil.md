@@ -1,5 +1,5 @@
 ---
-name: "StepxStep!" Kasumi Toyama (Parallel Foil)
+name: '"StepxStep!" Kasumi Toyama (Parallel Foil)'
 game: Weiss Schwarz
 set: Poppin’Party x Roselia
 collector_number: BD/WE35-E20 C

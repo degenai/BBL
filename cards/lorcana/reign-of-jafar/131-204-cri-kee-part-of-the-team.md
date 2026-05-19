@@ -40,14 +40,16 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/
 art_match_confidence: high
 needs_manual_review: false
 artist: Yu Nguyen
-flavor_text: “You were so focused on me and Mulan that you forgot
-about my man Cri-Kee here. And that was a mistake!”
-—Mushu
-about my man Cri-Kee here. And that was a mistake!”
-—Mushu
-oracle_text: AT HER SIDE While you have 2 or more other exerted
-characters in play, this character gets +2 ◊.
-characters in play, this character gets +2 ◊.
+flavor_text: |-
+  “You were so focused on me and Mulan that you forgot
+  about my man Cri-Kee here. And that was a mistake!”
+  —Mushu
+  about my man Cri-Kee here. And that was a mistake!”
+  —Mushu
+oracle_text: |-
+  AT HER SIDE While you have 2 or more other exerted
+  characters in play, this character gets +2 ◊.
+  characters in play, this character gets +2 ◊.
 image_width: 1468
 image_height: 2048
 image_quality: high

@@ -1,5 +1,5 @@
 ---
-name: "Sharp Tongue" Ymir
+name: '"Sharp Tongue" Ymir'
 game: Weiss Schwarz
 set: Attack on Titan
 collector_number: AOT/S35-E080 C

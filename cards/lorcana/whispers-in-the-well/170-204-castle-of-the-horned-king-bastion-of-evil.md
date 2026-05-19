@@ -40,9 +40,10 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: Alyssa Lee
-oracle_text: INTO THE GLOOM Once during your turn, whenever a character quests
-while here, you may ready chosen item.
-while here, you may ready chosen item.
+oracle_text: |-
+  INTO THE GLOOM Once during your turn, whenever a character quests
+  while here, you may ready chosen item.
+  while here, you may ready chosen item.
 image_width: 1468
 image_height: 2048
 image_quality: high

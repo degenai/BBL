@@ -158,4 +158,4 @@ These thesis frames are independent of [[labor]] (the Sakuma bridge); Sugimori's
 - [[charizard-line]] — Sugimori's Base Set Charmander print is the line's earliest in-corpus member and the canonical-author-illustrated version of the species. The line node's tail-flame-as-life-force canonical-flavor citation is anchored on Sugimori's species design.
 - [[alola-trial-captains]] / [[alola-elite-four]] / [[team-skull]] / [[galar-gym-challenge]] — character nodes whose Supporter-card members are Sugimori-illustrated portraits. The Sugimori node is the canonical-author layer underneath those character-cast cohort nodes.
 - [[acerola]] — character node for Acerola, whose Burning Shadows Supporter is a Sugimori portrait.
-- [[Bulk Graph Bundler]] — the project this artist entry serves.
+- `Bulk Graph Bundler` — the project this artist entry serves.

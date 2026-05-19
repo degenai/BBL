@@ -41,13 +41,14 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: Kendall Hale
-flavor_text: “My beloved warriors have come to life! All the
-dead of centuries past! Never has anyone created
-an army like this!”
-—The Horned King
-dead of centuries past! Never has anyone created
-an army like this!”
-—The Horned King
+flavor_text: |-
+  “My beloved warriors have come to life! All the
+  dead of centuries past! Never has anyone created
+  an army like this!”
+  —The Horned King
+  dead of centuries past! Never has anyone created
+  an army like this!”
+  —The Horned King
 image_width: 1468
 image_height: 2048
 image_quality: high

@@ -95,5 +95,5 @@ The corpus may accumulate further Eerie-coded cards as DSK enrichment continues;
 - [[single-strike-emblem]] — sibling symbol node from Pokemon/Galar; structural precedent. Distinction: Single Strike Emblem is a pure visual primitive on Pokemon TCG cards; Eerie is a pure mechanical-keyword primitive on MTG DSK cards.
 - [[fear-of-cycle]] — sibling DSK character node; Fear of Infinity (DSK-214) co-anchors on both this node and the Fear-of cycle. Mechanical-thematic bridge.
 - [[valgavoth]] — sibling DSK character node; the set-defining antagonist whose plane this mechanic embodies at the rules-text level.
-- [[Bulk Graph Bundler]] — the project this symbol enriches.
+- `Bulk Graph Bundler` — the project this symbol enriches.
 - Future DSK Discrete Lair candidate — 5 Eerie corpus anchors + 5 Rooms anchors + 7 Manifest Dread anchors + 6 Survival candidates + the [[fear-of-cycle]] cohort + the [[valgavoth]] anchor form an extraordinarily substantial bundle-cohesion stack for a Duskmourn-haunted-house lair anchored on the *house-noticing-you* register specifically. The Rooms + Eerie pairing's structural interdependence makes the bundle thesis a deck-construction thesis at the same time.

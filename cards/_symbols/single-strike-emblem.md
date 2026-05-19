@@ -76,5 +76,5 @@ Strong candidates pending corpus acquisition (textual sources confirm the emblem
 ## See also
 
 - [[orzhov-signet]] — sibling symbol node from MTG/Ravnica; structural precedent. Both nodes anchor a designer-coordinated iconographic primitive whose graphic device marks faction-or-cohort membership across multiple cards. The Orzhov Signet marks Orzhov Syndicate institutional membership on Ravnica; the Single Strike emblem marks Single Strike battle-style cohort membership in Pokemon Sword & Shield-era TCG.
-- [[Bulk Graph Bundler]] — the project this symbol enriches.
+- `Bulk Graph Bundler` — the project this symbol enriches.
 - Future Single Strike Discrete Lair candidate — three corpus cards now anchor here (Scroll of Scorn + Urn of Vitality + Scroll of Piercing), forming the minimum-viable cohesion stack for a Single Strike-themed bundle. A future Single Strike Urshifu V/VMAX or Tower of Darkness acquisition would push the stack to four members and surface the cohort's flagship attacker.

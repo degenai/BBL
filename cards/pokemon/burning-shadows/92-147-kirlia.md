@@ -26,8 +26,6 @@ tags_filter:
   - mid-shot
   - action
   - three-quarter
-  - colorless-magic
-  - fairy-magic
   - basic-pokemon
   - stage-1-pokemon
 reference_image: cards/_images/pokemon/burning-shadows/92-147-kirlia.png
@@ -41,8 +39,9 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Anesaki Dynamic
 flavor_text: The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.
-oracle_text: Smack (Colorless) 20
-Magical Shot (FairyColorless) 30
+oracle_text: |-
+  Smack (Colorless) 20
+  Magical Shot (FairyColorless) 30
 mood: peaceful
 time_of_day: day
 setting: other

@@ -42,16 +42,18 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: Kenneth Anderson
-flavor_text: “Ach, close the secret entrance! You're letting all
-the mysterious air out!”
-the mysterious air out!”
-oracle_text: TOUGHEN UP When you play this character,
-chosen character of yours gains Ward until the
-start of your next turn. (Opponents can't choose
-them except to challenge.)
-chosen character of yours gains Ward until the
-start of your next turn. (Opponents can't choose
-them except to challenge.)
+flavor_text: |-
+  “Ach, close the secret entrance! You're letting all
+  the mysterious air out!”
+  the mysterious air out!”
+oracle_text: |-
+  TOUGHEN UP When you play this character,
+  chosen character of yours gains Ward until the
+  start of your next turn. (Opponents can't choose
+  them except to challenge.)
+  chosen character of yours gains Ward until the
+  start of your next turn. (Opponents can't choose
+  them except to challenge.)
 image_width: 1468
 image_height: 2048
 image_quality: high

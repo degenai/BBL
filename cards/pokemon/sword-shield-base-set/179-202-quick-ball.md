@@ -38,9 +38,10 @@ reference_image_source_url: https://images.pokemontcg.io/swsh1/179_hires.png
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
-oracle_text: You can play this card only if you discard another card from your hand.
-Search your deck for a Basic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
-You may play any number of Item cards during your turn.
+oracle_text: |-
+  You can play this card only if you discard another card from your hand.
+  Search your deck for a Basic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
+  You may play any number of Item cards during your turn.
 review_good: false
 review_bad: false
 review_notes: ""

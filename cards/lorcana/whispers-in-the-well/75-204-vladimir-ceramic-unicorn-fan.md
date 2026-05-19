@@ -42,12 +42,14 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: Jochem van Gool
-flavor_text: His commitment to excellent craftsmanship is
-unparalleled.
-unparalleled.
-oracle_text: HIGH STANDARDS Whenever this character
-quests, you may banish chosen item.
-quests, you may banish chosen item.
+flavor_text: |-
+  His commitment to excellent craftsmanship is
+  unparalleled.
+  unparalleled.
+oracle_text: |-
+  HIGH STANDARDS Whenever this character
+  quests, you may banish chosen item.
+  quests, you may banish chosen item.
 image_width: 1468
 image_height: 2048
 image_quality: high

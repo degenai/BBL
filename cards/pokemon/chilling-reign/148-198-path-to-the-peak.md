@@ -43,8 +43,9 @@ artist: Oswaldo KATO
 mood: sublime
 time_of_day: day
 setting: mountain
-oracle_text: Pokémon with a Rule Box in play (both yours and your opponent's) have no Abilities. (Pokémon V, Pokémon-GX, etc. have Rule Boxes.)
-This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card.
+oracle_text: |-
+  Pokémon with a Rule Box in play (both yours and your opponent's) have no Abilities. (Pokémon V, Pokémon-GX, etc. have Rule Boxes.)
+  This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card.
 image_width: 734
 image_height: 1024
 image_quality: high

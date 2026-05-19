@@ -42,14 +42,16 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12
 art_match_confidence: high
 needs_manual_review: false
 artist: Jared Mathews
-flavor_text: “Ach, look at the size o' that flower! Let's clear that
-beastie out before it causes any trouble.”
-beastie out before it causes any trouble.”
-oracle_text: FIGHTIN' TALK This character may enter play
-exerted to give chosen character Challenger +3
-this turn. (They get +3 ¤ while challenging.)
-exerted to give chosen character Challenger +3
-this turn. (They get +3 ¤ while challenging.)
+flavor_text: |-
+  “Ach, look at the size o' that flower! Let's clear that
+  beastie out before it causes any trouble.”
+  beastie out before it causes any trouble.”
+oracle_text: |-
+  FIGHTIN' TALK This character may enter play
+  exerted to give chosen character Challenger +3
+  this turn. (They get +3 ¤ while challenging.)
+  exerted to give chosen character Challenger +3
+  this turn. (They get +3 ¤ while challenging.)
 image_width: 1468
 image_height: 2048
 image_quality: high

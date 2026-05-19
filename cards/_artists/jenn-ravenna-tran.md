@@ -9,7 +9,7 @@ aliases:
 universe: any
 portfolio_url: https://www.jenravenna.com
 social:
-  - @jenravennaart
+  - "@jenravennaart"
 confidence: confirmed
 notes: |
   Magic: The Gathering illustrator. Earlier Magic work (Dominaria-era and prior)
@@ -54,4 +54,4 @@ The wolf in the composition is angled facing right into the frame, drawing the v
 - [[313-thornwood-falls]]
 ## See also
 
-- [[Bulk Graph Bundler]] — the project this artist entry serves
+- `Bulk Graph Bundler` — the project this artist entry serves

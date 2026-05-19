@@ -40,8 +40,9 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Shin Nagasawa
 flavor_text: It lived in snowy areas for so long that its fire sac cooled off and atrophied. It now has an organ that generates cold instead.
-oracle_text: Tackle (Colorless) 10
-Headbutt (WaterColorless) 20
+oracle_text: |-
+  Tackle (Colorless) 10
+  Headbutt (WaterColorless) 20
 mood: peaceful
 time_of_day: day
 setting: mountain

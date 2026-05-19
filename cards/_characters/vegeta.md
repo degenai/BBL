@@ -120,7 +120,7 @@ This is what BBL's bundle copy can lean on without inventing canon: Vegeta is, c
 - [[son-goku]] — sibling Dragon Ball-side multi-incarnation character node (from this same wave's E2 pass); the canonical foil-rival-and-eventual-ally relation. The two characters' narrative-pairing is the franchise's most-developed Saiyan-rivalry arc. A future Goku-and-Vegeta Saiyan-rivalry-themed Discrete Lair becomes an index candidate.
 - [[trunks]] — sibling Dragon Ball-side multi-incarnation character node; the canonical father-son family relation. Vegeta's father-son bond with both present-timeline Kid Trunks and alternate-timeline Future Trunks is canonically central to the [[trunks]] node and to the corpus's BT2-063 Father-Son Galick Gun print, which is dual-anchored at both nodes.
 - [[tamiyo]] / `nicol-bolas` — structural precedents on the Magic-side for the *one canonical character, multi-aspect, single parent anchor* pattern.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.
 - Vegeta Discrete Lair candidate — see Caveats section above; 3 corpus cards spanning three canonical narrative phases form a viable cohesion stack. Reserve for when the Dragon Ball Super Card Game Vegeta subarchetype gets its commission.
 - Goku-and-Vegeta Saiyan-rivalry Discrete Lair candidate — dual-protagonist bundle anchored on the rival-and-eventual-ally foil-pair across the [[son-goku]] and this node's combined 13 corpus anchors. Reserve for the rival-pair-themed commission.
 - Future solo-phase sub-nodes (deferred) — `vegeta-z`, `vegeta-majin`, `vegeta-dbs` solo sub-nodes deferred until per-phase corpus density meets split threshold.

@@ -103,5 +103,5 @@ The corpus may accumulate further Survival-coded cards as DSK enrichment continu
 - [[single-strike-emblem]] — sibling symbol node from Pokemon/Galar; structural precedent. Distinction: Single Strike Emblem is a pure visual primitive on Pokemon TCG cards; Survival is a pure mechanical-keyword primitive on MTG DSK cards.
 - [[dsk-survival-archetype]] — sibling DSK character node; anchors the full three-axis cohort (Survivor subtype + Survival keyword + improvised-weapon Equipment / Aura), of which this symbol node anchors the keyword-axis specifically.
 - [[valgavoth]] — sibling DSK character node; the set-defining antagonist whose plane the survivors are surviving.
-- [[Bulk Graph Bundler]] — the project this symbol enriches.
+- `Bulk Graph Bundler` — the project this symbol enriches.
 - Future DSK Discrete Lair candidate — 6 Survival corpus anchors + 5 Rooms anchors + 5 Eerie anchors + 7 Manifest Dread anchors + the [[dsk-survival-archetype]] cohort + the [[valgavoth]] anchor form an extraordinarily substantial bundle-cohesion stack for a Duskmourn-survivor lair anchored on the *prey-side mechanics specifically*. The Survival + improvised-weapon-artifact pairing makes the bundle thesis the Cabin-in-the-Woods register at the rules-text scale.

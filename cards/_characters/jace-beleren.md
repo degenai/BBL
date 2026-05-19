@@ -71,4 +71,4 @@ The two corpus cards span the post-Bolas-defeat transition in the canon: WAR-55 
 
 - [[rebellion]] — the BBL hub most thematically compatible with the Ravnica-trapped phase of Jace's arc; the slave-mage on the verge of refusal, the planeswalker stripped of powers by an architect-of-multiversal-harvest, the meditative inward moment that retroactively becomes the act of resistance. The hub's "Cut the strings" narrative seed indexes here through WAR-55's flavor framing.
 - [[nicol-bolas]] — the antagonist anchor for the WAR arc; Jace's Triumph flavor text names Bolas as the foil. Sibling character node, no edge drawn yet pending character-to-character edge category formalization.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

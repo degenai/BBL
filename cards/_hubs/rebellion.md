@@ -38,7 +38,7 @@ tags:
 ---
 # Rebellion
 
-A foundational [[Bulk Graph Bundler]] hub. Not "edgy cards." Rebellion as the political verb — refusal, organized noncompliance, sabotage, the moment of *no*. The card art moment where someone steps out of formation, opens the cage, breaks the contract, sets the manor on fire.
+A foundational `Bulk Graph Bundler` hub. Not "edgy cards." Rebellion as the political verb — refusal, organized noncompliance, sabotage, the moment of *no*. The card art moment where someone steps out of formation, opens the cage, breaks the contract, sets the manor on fire.
 
 > Rebellion is also the curation thesis of BBL itself. Buying a thoughtfully-themed bundle of bulk commons instead of chasing the most recently printed mythic IS the small rebellion. The hub is meta as well as literal.
 

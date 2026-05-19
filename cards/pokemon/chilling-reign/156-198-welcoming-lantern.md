@@ -42,8 +42,9 @@ reference_image_source_url: https://archives.bulbagarden.net/media/upload/e/e1/W
 art_match_confidence: high
 needs_manual_review: false
 artist: Studio Bora Inc.
-oracle_text: Put a Single Strike Supporter card from your discard pile into your hand.
-You may play any number of Item cards during your turn.
+oracle_text: |-
+  Put a Single Strike Supporter card from your discard pile into your hand.
+  You may play any number of Item cards during your turn.
 mood: cozy
 time_of_day: indeterminate
 setting: indoor

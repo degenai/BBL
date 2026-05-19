@@ -114,4 +114,4 @@ This is what BBL bundle copy can lean on without inventing canon: the Izzet are,
 
 - [[team-rocket]] / [[team-skull]] / [[macro-cosmos]] / [[aether-foundation]] — Pokemon-side faction-character parallel nodes. The Izzet are structurally closer to Aether Foundation than to Team Rocket: an institutional-research apparatus whose stated purpose (pure inquiry / Pokemon welfare) is rhetorically distant from its operational reality (labor extraction / weaponized research). The Magic-side / Pokemon-side faction-character symmetry now stands at five Pokemon-side villain factions + three Magic-side faction-characters (Orzhov, Phyrexia, Izzet) with comparable institutional-thesis weight.
 
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

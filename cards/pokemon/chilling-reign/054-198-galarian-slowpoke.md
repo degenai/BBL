@@ -51,8 +51,9 @@ suspected_ip: Galarian Slowpoke (Pokemon)
 ip_confidence: high
 ip_verified: true
 flavor_text: Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor.
-oracle_text: Sharpness (Colorless) 10
-Headbutt (ColorlessColorless) 20
+oracle_text: |-
+  Sharpness (Colorless) 10
+  Headbutt (ColorlessColorless) 20
 image_width: 868
 image_height: 1212
 image_quality: high

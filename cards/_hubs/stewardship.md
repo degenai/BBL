@@ -50,7 +50,7 @@ tags:
 ---
 # Stewardship
 
-A foundational [[Bulk Graph Bundler]] hub. Not "kindness" as cute aesthetic. Stewardship as the political verb — tending what isn't yours-to-own, maintaining the commons, caring across the kin-line, mutual aid as a daily practice. The card art moment where someone holds something living that they didn't extract from, the gardener at the Senzu tower, the angel-attendant whose actual job is keeping the destroyer-god from destroying too much.
+A foundational `Bulk Graph Bundler` hub. Not "kindness" as cute aesthetic. Stewardship as the political verb — tending what isn't yours-to-own, maintaining the commons, caring across the kin-line, mutual aid as a daily practice. The card art moment where someone holds something living that they didn't extract from, the gardener at the Senzu tower, the angel-attendant whose actual job is keeping the destroyer-god from destroying too much.
 
 > Stewardship is what comes between labor and rebellion. Labor produces. Rebellion refuses. **Stewardship tends.** Three modes of worldly work — produce, refuse, tend — and the bundle's job is to make all three visible against a card-game design tradition that mostly draws the first one.
 

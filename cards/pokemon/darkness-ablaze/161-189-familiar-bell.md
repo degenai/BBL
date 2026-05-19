@@ -40,8 +40,9 @@ reference_image_source_url: https://images.pokemontcg.io/swsh3/161_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: sadaji
-oracle_text: Search your deck for a Pokémon with the same name as a Pokémon in your discard pile, reveal it, and put it into your hand. Then, shuffle your deck.
-You may play any number of Item cards during your turn.
+oracle_text: |-
+  Search your deck for a Pokémon with the same name as a Pokémon in your discard pile, reveal it, and put it into your hand. Then, shuffle your deck.
+  You may play any number of Item cards during your turn.
 mood: peaceful
 time_of_day: indeterminate
 setting: other

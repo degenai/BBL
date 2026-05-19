@@ -1,5 +1,5 @@
 ---
-name: "Confusion" Armin
+name: '"Confusion" Armin'
 game: Weiss Schwarz
 set: Attack on Titan
 collector_number: AOT/S35-E024 C

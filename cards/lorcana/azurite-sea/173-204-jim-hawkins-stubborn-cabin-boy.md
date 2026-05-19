@@ -39,13 +39,14 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set6/
 art_match_confidence: high
 needs_manual_review: false
 artist: Ursula Dorada
-oracle_text: COME ON, COME ON, COME ON! During your turn,
-whenever a card is put into your inkwell, this
-character gains Challenger +2 this turn. (They get
-+2 ¤ while challenging.)
-whenever a card is put into your inkwell, this
-character gains Challenger +2 this turn. (They get
-+2 ¤ while challenging.)
+oracle_text: |-
+  COME ON, COME ON, COME ON! During your turn,
+  whenever a card is put into your inkwell, this
+  character gains Challenger +2 this turn. (They get
+  +2 ¤ while challenging.)
+  whenever a card is put into your inkwell, this
+  character gains Challenger +2 this turn. (They get
+  +2 ¤ while challenging.)
 image_width: 1468
 image_height: 2048
 image_quality: high

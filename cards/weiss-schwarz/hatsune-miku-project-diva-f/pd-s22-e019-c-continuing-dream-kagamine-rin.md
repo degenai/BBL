@@ -1,5 +1,5 @@
 ---
-name: "Continuing Dream"Kagamine Rin
+name: '"Continuing Dream" Kagamine Rin'
 game: Weiss Schwarz
 set: Hatsune Miku -Project DIVA- f
 collector_number: PD/S22-E019 C

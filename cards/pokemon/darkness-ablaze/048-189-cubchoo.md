@@ -42,8 +42,9 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Saya Tsuruta
 flavor_text: When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn't like.
-oracle_text: Chop (Colorless) 10
-Icicle (WaterColorless) 30
+oracle_text: |-
+  Chop (Colorless) 10
+  Icicle (WaterColorless) 30
 mood: peaceful
 time_of_day: indeterminate
 setting: other

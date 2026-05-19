@@ -73,4 +73,4 @@ The Solrock/Lunatone dyad is a two-species celestial-duality cohort built on a f
 - `elemental-monkey-trio` — sibling Pokemon-side designer-coordinated cohort character node, same layer. Both anchor a multi-member paired-design Pokemon cohort whose membership predicates on a thematic-and-mechanical conjunction (the trio: type-triangle + Pan-/Simi- naming + Stone-evolution + three-wise-monkeys mapping; this dyad: sun/moon duality + version-exclusive distribution + shared species classification + mechanical-interlock).
 - `castform-forms-cycle` — sibling cohort character node, multi-form one-species shape (contrast: this dyad is two-species).
 - `galarian-regional-forms` and `alolan-regional-forms` — sibling cohort character nodes, regional-variant shape; the layer hosts cohorts of varied membership structure.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

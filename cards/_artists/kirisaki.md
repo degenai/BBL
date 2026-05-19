@@ -100,4 +100,4 @@ kirisAki's portfolio in corpus does not (yet) anchor a thesis-tier hub the way S
 
 - [[sanosuke-sakuma]] — sibling Pokemon-side artist node; structural precedent for this node. Sakuma's portfolio extends across TCG illustration AND in-game NPC character design (cross-medium); kirisAki's does not. The structural pattern (Pokemon-side single-medium illustrator with corpus-volume threshold cleared) is the same; the cross-medium thesis-bridge is absent here.
 - [[galar-gym-challenge]] — Peonia (Chilling Reign 149) is a Crown Tundra civilian NPC and is explicitly NOT a Gym Leader; the Galar Gym Challenge node already documents this disambiguation. kirisAki's Peonia credit anchors a Galar-region Supporter NPC at the Macro-Cosmos-family-axis level, distinct from the Galar Gym Challenge institutional axis.
-- [[Bulk Graph Bundler]] — the project this artist entry serves.
+- `Bulk Graph Bundler` — the project this artist entry serves.

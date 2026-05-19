@@ -124,4 +124,4 @@ Six core Crypton-published voicebanks plus two guest-module figures (Teto and Ha
 - `[[fear-of-cycle]]` — sibling DSK cycle node; third precedent.
 - `[[endriders]]` — foundational precedent for hosting collective-entity character nodes under `_characters/`.
 - `[[labor]]` — the BBL hub most thematically near to this cohort. The virtual-idol-as-cooperative-labor-product thesis (a voicebank is software, a performance is a producer's collaborative-labor output with the voicebank, the audience adopts the song as their own) is a Discrete Lair-tier thematic edge that any future Vocaloid-anchored bundle should consider. Per `[[bbl-narrative-first-lairs]]`, the labor-coded reading of the Vocaloid cohort is a strong narrative anchor for a bundle built around *the software-product-as-performer*.
-- `[[Bulk Graph Bundler]]` — the project this character node serves.
+- ``Bulk Graph Bundler`` — the project this character node serves.

@@ -41,14 +41,16 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12
 art_match_confidence: high
 needs_manual_review: false
 artist: Javi Salas
-flavor_text: “Believing that he alone should be the sole heir,
-a seed of selfishness grew in him like a poison.”
-—The Witch
-a seed of selfishness grew in him like a poison.”
-—The Witch
-oracle_text: Rush (This character can challenge the turn
-they're played.)
-they're played.)
+flavor_text: |-
+  “Believing that he alone should be the sole heir,
+  a seed of selfishness grew in him like a poison.”
+  —The Witch
+  a seed of selfishness grew in him like a poison.”
+  —The Witch
+oracle_text: |-
+  Rush (This character can challenge the turn
+  they're played.)
+  they're played.)
 image_width: 1468
 image_height: 2048
 image_quality: high

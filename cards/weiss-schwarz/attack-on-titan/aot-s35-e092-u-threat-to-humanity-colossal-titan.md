@@ -1,5 +1,5 @@
 ---
-name: "Threat to Humanity" Colossal Titan
+name: '"Threat to Humanity" Colossal Titan'
 game: Weiss Schwarz
 set: Attack on Titan
 collector_number: AOT/S35-E092 U

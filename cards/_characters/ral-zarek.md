@@ -83,4 +83,4 @@ The BBL graph treats the attribution cycle the same way the Tamiyo node treats `
 - [[jace-beleren]] — sibling planeswalker node; co-led the WAR-era resistance against Bolas and partnered on the Niv-Mizzet resurrection ritual. Character-to-character edge deferred pending formalization.
 - [[nicol-bolas]] — the planeswalker character who is Ral's WAR-arc antagonist. Bolas's invasion of Ravnica is the storyline event that forced Ral's defection from Bolas's payroll; the lazotep-melting-point flavor line on WAR-212 is the in-fiction announcement of that defection.
 - [[labor]] — the BBL hub most thematically compatible with Ral's institutional position. Ral is the magewright-caste lieutenant who runs the guild's industrial labor force on a day-to-day basis; the parent Izzet node's labor-extraction-dressed-as-collective-inquiry thesis indexes through Ral as the named officer who carries that contradiction.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

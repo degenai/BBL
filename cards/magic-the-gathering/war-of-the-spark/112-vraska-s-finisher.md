@@ -1,5 +1,5 @@
 ---
-	name: Vraska's Finisher
+name: Vraska's Finisher
 game: "Magic: The Gathering"
 set: War of the Spark
 collector_number: 112

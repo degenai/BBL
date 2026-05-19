@@ -94,5 +94,5 @@ The corpus may accumulate further Room-type cards as DSK enrichment continues; t
 - [[orzhov-signet]] — sibling symbol node from MTG/Ravnica; structural precedent for visual primitives. Distinction: Orzhov Signet is a pure visual primitive; Rooms are hybrid (visual + mechanical).
 - [[single-strike-emblem]] — sibling symbol node from Pokemon/Galar; structural precedent. Distinction: Single Strike Emblem is a pure visual primitive on Pokemon TCG cards; Rooms are a hybrid primitive on MTG DSK cards.
 - [[valgavoth]] — sibling DSK character node; the set-defining antagonist whose plane this mechanic embodies at the architectural level. Every Room card is literally a chamber within Valgavoth's House.
-- [[Bulk Graph Bundler]] — the project this symbol enriches.
+- `Bulk Graph Bundler` — the project this symbol enriches.
 - Future DSK Discrete Lair candidate — 5 Rooms corpus anchors + 7 Manifest Dread anchors + 5 Eerie anchors + 6 Survival candidates + the [[valgavoth]] anchor form an extraordinarily substantial bundle-cohesion stack for a Duskmourn-architecture-of-horror lair anchored on the House's interior rendering. The five-mechanic suite makes the bundle thesis the set design itself.

@@ -41,14 +41,16 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: Brian Kesinger
-flavor_text: “My power is still not enough. I need something
-more. Something... shadowy.”
-more. Something... shadowy.”
-oracle_text: DARK INCANTATION When you play this
-character, you may shuffle a card from chosen
-player's discard into their deck.
-character, you may shuffle a card from chosen
-player's discard into their deck.
+flavor_text: |-
+  “My power is still not enough. I need something
+  more. Something... shadowy.”
+  more. Something... shadowy.”
+oracle_text: |-
+  DARK INCANTATION When you play this
+  character, you may shuffle a card from chosen
+  player's discard into their deck.
+  character, you may shuffle a card from chosen
+  player's discard into their deck.
 image_width: 1468
 image_height: 2048
 image_quality: high

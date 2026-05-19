@@ -38,13 +38,14 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set7/
 art_match_confidence: high
 needs_manual_review: false
 artist: Leonardo Giammichele
-flavor_text: “All these traps, all these locks, all these machines...
-If they think that's going to stop me, they've sorely
-underestimated Edgar Balthazar!”
-If they think that's going to stop me, they've sorely
-underestimated Edgar Balthazar!”
-If they think that's going to stop me, they've sorely
-underestimated Edgar Balthazar!”
+flavor_text: |-
+  “All these traps, all these locks, all these machines...
+  If they think that's going to stop me, they've sorely
+  underestimated Edgar Balthazar!”
+  If they think that's going to stop me, they've sorely
+  underestimated Edgar Balthazar!”
+  If they think that's going to stop me, they've sorely
+  underestimated Edgar Balthazar!”
 image_width: 1468
 image_height: 2048
 image_quality: high

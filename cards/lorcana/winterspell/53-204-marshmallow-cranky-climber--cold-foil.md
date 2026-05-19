@@ -43,11 +43,12 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Ian MacDonald
 flavor_text: “GO AWAY!!”
-oracle_text: ICY BLAST Whenever this character quests,
-each opponent can't ready more than 1 of their
-characters at the start of their next turn.
-each opponent can't ready more than 1 of their
-characters at the start of their next turn.
+oracle_text: |-
+  ICY BLAST Whenever this character quests,
+  each opponent can't ready more than 1 of their
+  characters at the start of their next turn.
+  each opponent can't ready more than 1 of their
+  characters at the start of their next turn.
 image_width: 1468
 image_height: 2048
 image_quality: high

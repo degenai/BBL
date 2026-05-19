@@ -105,5 +105,5 @@ The corpus may accumulate further manifest-dread-coded cards as DSK enrichment c
 - [[single-strike-emblem]] — sibling symbol node from Pokemon/Galar; structural precedent. Distinction: Single Strike Emblem is a visual primitive on Pokemon TCG cards; Manifest Dread is a mechanical-keyword primitive on MTG DSK cards.
 - [[fear-of-cycle]] — sibling DSK character node; mechanical-thematic bridge via the set's graveyard/Delirium subtheme. The Fear-of cycle and Manifest Dread are the two creature-side and keyword-side embodiments of the set's "phobias as antagonists" thesis.
 - [[valgavoth]] — sibling DSK character node; the set-defining antagonist whose plane this mechanic embodies at the rules-text level.
-- [[Bulk Graph Bundler]] — the project this symbol enriches.
+- `Bulk Graph Bundler` — the project this symbol enriches.
 - Future DSK Discrete Lair candidate — five corpus anchors here + the [[fear-of-cycle]] cohort + the [[valgavoth]] anchor form a substantial bundle-cohesion stack for a Duskmourn-horror lair anchored on the suspense-mechanic, the phobia-cycle, and the demon's House.

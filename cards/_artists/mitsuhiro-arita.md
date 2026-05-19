@@ -135,4 +135,4 @@ These thesis frames are independent of [[labor]] (the [[sanosuke-sakuma]] NPC-de
 - [[sanosuke-sakuma]] — sibling Pokemon-side artist node. Sakuma anchors the [[labor]] hub bridge via NPC-class character design; Arita does not (his portfolio is single-medium TCG illustration without a documented cross-medium game-character-design credit).
 - [[rowlet-line]] / [[galar-starters-trio]] / [[galarian-regional-forms]] — character nodes whose member cards include Arita-illustrated species prints. The Arita node is the canonical-illustrator layer underneath those species-line cohort nodes.
 - [[charizard-line]] — Arita's original Base Set Charizard is the canonical foundational TCG illustration of the species and the most commercially-canonical Pokemon card ever sold. The line node's [[ken-sugimori]] anchor sits on the species-design layer; Arita's anchor sits on the TCG-illustration layer. The corpus does not currently hold an Arita-illustrated Charizard print, but the species' canonical-TCG-illustration register is Arita's.
-- [[Bulk Graph Bundler]] — the project this artist entry serves.
+- `Bulk Graph Bundler` — the project this artist entry serves.

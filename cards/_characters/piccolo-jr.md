@@ -143,6 +143,6 @@ The discipline holds at single-hub-attribution for this commission. Future audit
 
 - `nicol-bolas` — sibling solo-character-node precedent for the *signature-technique-as-character-anchor* membership criterion. The Eldest Reborn DOM-90 anchors at Bolas via load-bearing-name-and-canonical-association rather than via depicting-the-character-directly; the Special Beam Cannon BT4-068 anchor here works the same way (canonical Piccolo-Jr. signature technique, not depicting Piccolo Jr. directly).
 
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.
 
 - Future Piccolo Jr. Discrete Lair candidate — 5 enriched corpus anchors (qty: 3 single-copy + 2 double-copy = 7 total inventory) plus the canonical *villain-to-stewardship-pipeline* thesis stack form a viable bundle-cohesion stack for a Piccolo-Jr. Discrete Lair. Bundle copy can lean on the *demon-king-reincarnate-becomes-the-franchise's-most-canonical-mentor* trajectory per `[[bbl-museum-curation-framing]]` without inventing canon. Reserve for when the Piccolo-Jr. Discrete Lair commission lands.

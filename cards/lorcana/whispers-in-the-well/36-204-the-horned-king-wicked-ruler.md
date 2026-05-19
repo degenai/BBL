@@ -22,15 +22,16 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: Julian del Rey
-oracle_text: Shift 2 ⬡ (You may pay 2 ⬡ to play this on top of
-one of your characters named The Horned King.)
-ARISE! Whenever one of your other characters is
-banished in a challenge, you may return that card
-to your hand, then choose and discard a card.
-a card, then choose and discard a card.
-ON THE MOVE When this character is challenged,
-return this card to your hand. (No damage is dealt
-in that challenge.)
+oracle_text: |-
+  Shift 2 ⬡ (You may pay 2 ⬡ to play this on top of
+  one of your characters named The Horned King.)
+  ARISE! Whenever one of your other characters is
+  banished in a challenge, you may return that card
+  to your hand, then choose and discard a card.
+  a card, then choose and discard a card.
+  ON THE MOVE When this character is challenged,
+  return this card to your hand. (No damage is dealt
+  in that challenge.)
 image_width: 1468
 image_height: 2048
 image_quality: high

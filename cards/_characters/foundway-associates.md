@@ -102,5 +102,5 @@ This is what BBL bundle copy can lean on without inventing canon: the Foundway A
 - [[kaya]] — sibling character node; precedent for *one canonical character whose flavor-voice presence across multiple sets anchors a solo node*. The Foundway Associates extend the same flavor-voice-anchoring mechanism to a six-member ensemble cast across one set.
 - [[disguise]] — sibling symbol node; MKM mechanical-keyword primitive. The Imel-narrated *Offender at Large* (MKM-138) is the cross-node anchor — Imel canonizes the in-fiction conditions that make Disguise mechanically legible.
 - [[suspect]] — sibling symbol node; MKM mechanical-keyword primitive. The Runubi-narrated *Suspicious Detonation* (MKM-145) shares the set's red-side investigation register with the Suspect-mechanic cluster.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.
 - Future MKM Discrete Lair candidate — see Caveats section above; the Foundway flavor-voice layer + the Agency institutional layer + the Disguise / Suspect mechanical layers + the Kaya individual-character layer form a viable multi-node cohesion stack.

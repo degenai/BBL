@@ -118,4 +118,4 @@ The cohort also extends the Pokemon franchise's "region as character" thesis. Th
 - `elemental-monkey-trio` — sibling Pokemon designer-coordinated cohort character node, different generation, same shape. Both nodes anchor a Game Freak-coordinated species cohort whose membership predicates on a thematic-and-mechanical conjunction (elemental monkey trio by Pan-/Simi- name pattern + Stone-evolution mechanic + three-wise-monkeys mapping; this cohort by Galarian-prefix name pattern + regional-type-shift mechanic + Galar-adaptation lore). The closest existing in-corpus structural precedent for the Galarian cohort.
 - `fear-of-cycle` / `dsk-unlucky-lands-cycle` — Magic-side sibling designer-coordinated cohort character nodes; closest cross-universe precedent for cycle-style framing on the character layer.
 - `endriders` — foundational precedent for hosting collective designer-coordinated entities under `_characters/`.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

@@ -38,19 +38,20 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set7/
 art_match_confidence: high
 needs_manual_review: false
 artist: Samoldstoree
-oracle_text: Challenger +3 (While challenging, this character
-gets +3 ¤.)
-QUICK REFLEXES During your turn, this character
-gains Evasive. (They can challenge characters
-with Evasive.)
-gets +3 ¤.)
-QUICK REFLEXES During your turn, this character
-gains Evasive. (They can challenge characters
-with Evasive.)
-gets +3 ¤.)
-QUICK REFLEXES During your turn, this character
-gains Evasive. (They can challenge characters
-with Evasive.)
+oracle_text: |-
+  Challenger +3 (While challenging, this character
+  gets +3 ¤.)
+  QUICK REFLEXES During your turn, this character
+  gains Evasive. (They can challenge characters
+  with Evasive.)
+  gets +3 ¤.)
+  QUICK REFLEXES During your turn, this character
+  gains Evasive. (They can challenge characters
+  with Evasive.)
+  gets +3 ¤.)
+  QUICK REFLEXES During your turn, this character
+  gains Evasive. (They can challenge characters
+  with Evasive.)
 image_width: 1468
 image_height: 2048
 image_quality: high

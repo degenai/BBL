@@ -42,14 +42,16 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12
 art_match_confidence: high
 needs_manual_review: false
 artist: French Carlomagno
-flavor_text: “I promised all of you I'd keep your secrets. And
-Preston Whitmore always keeps a promise.”
-Preston Whitmore always keeps a promise.”
-oracle_text: PRICE OF PROGRESS When you play this
-character, you may put the top 2 cards of your
-deck into your discard.
-character, you may put the top 2 cards of your
-deck into your discard.
+flavor_text: |-
+  “I promised all of you I'd keep your secrets. And
+  Preston Whitmore always keeps a promise.”
+  Preston Whitmore always keeps a promise.”
+oracle_text: |-
+  PRICE OF PROGRESS When you play this
+  character, you may put the top 2 cards of your
+  deck into your discard.
+  character, you may put the top 2 cards of your
+  deck into your discard.
 image_width: 1468
 image_height: 2048
 image_quality: high

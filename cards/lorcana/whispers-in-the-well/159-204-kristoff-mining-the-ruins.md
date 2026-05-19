@@ -42,17 +42,18 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: Alejandro Hernandez
-oracle_text: Boost 1 ⬡ (Once during your turn, you may pay 1 ⬡
-to put the top card of your deck facedown under this
-character.)
-WORTH MINING Whenever this character quests,
-if there's a card under him, put the top card of your
-deck into your inkwell facedown and exerted.
-to put the top card of your deck facedown under this
-character.)
-WORTH MINING Whenever this character quests,
-if there's a card under him, put the top card of your
-deck into your inkwell facedown and exerted.
+oracle_text: |-
+  Boost 1 ⬡ (Once during your turn, you may pay 1 ⬡
+  to put the top card of your deck facedown under this
+  character.)
+  WORTH MINING Whenever this character quests,
+  if there's a card under him, put the top card of your
+  deck into your inkwell facedown and exerted.
+  to put the top card of your deck facedown under this
+  character.)
+  WORTH MINING Whenever this character quests,
+  if there's a card under him, put the top card of your
+  deck into your inkwell facedown and exerted.
 image_width: 1468
 image_height: 2048
 image_quality: high

@@ -140,4 +140,4 @@ This is what BBL bundle copy can lean on without inventing canon: the Agency is,
 
 - [[labor]] — the BBL hub indirectly compatible with the Agency. The Agency *replaces* a layer of Ravnica's institutional-authority labor (the Boros Legion's keep-the-peace function) with a different layer (the cross-guild detective bureau). The labor-of-investigation is canonically depicted as careful, deliberate, procedural — a slower register than the Boros Legion's force-on-force model. A future Discrete Lair on detective-as-labor or investigation-as-craft anchors here.
 
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

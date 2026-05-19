@@ -100,4 +100,4 @@ For BBL bundle work, the line offers two strong narrative threads: a **starter-a
 - `fear-of-cycle` / `dsk-unlucky-lands-cycle` — Magic-side sibling designer-coordinated cohort character nodes; closest cross-universe precedent for cycle-style framing on the character layer.
 - `endriders` — foundational precedent for hosting collective designer-coordinated entities under `_characters/`.
 - `labor` — the Charmander line's tail-flame-as-life-force canon is the closest Pokemon-side parallel to the corpus's life-force-as-extraction reads (Pikachu BUS-40's "gather many Pikachu and make an electric power plant" flavor; the Galar Mine industrial-labor frame). Charizard-line bundle work that goes in the apparatus-of-extraction direction has a foothold at this hub, though the line's primary register is starter-companion rather than labor-extraction.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

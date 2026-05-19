@@ -75,4 +75,4 @@ All three carry Scryfall's `story_spotlight: true` flag, depict the same charact
 ## See also
 
 - [[rebellion]] — the BBL hub most thematically compatible with the Bolas-Falls cluster; the toppling of a tyrant-god rendered in stone, the slave-mage turning on her master, the imprisonment of the architect of multiversal harvest. The hub's "Let it burn" and "Cut the strings" narrative seeds both index here.
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

@@ -42,12 +42,14 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: SGeer
-flavor_text: It was only a crumb, but Clawhauser knew it was a
-small piece of a larger mystery.
-small piece of a larger mystery.
-oracle_text: Challenger +2 (While challenging, this character
-gets +2 ¤.)
-gets +2 ¤.)
+flavor_text: |-
+  It was only a crumb, but Clawhauser knew it was a
+  small piece of a larger mystery.
+  small piece of a larger mystery.
+oracle_text: |-
+  Challenger +2 (While challenging, this character
+  gets +2 ¤.)
+  gets +2 ¤.)
 image_width: 1468
 image_height: 2048
 image_quality: high

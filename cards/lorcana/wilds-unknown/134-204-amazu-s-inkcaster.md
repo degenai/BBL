@@ -39,16 +39,18 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12
 art_match_confidence: high
 needs_manual_review: false
 artist: Kuya Jaypi
-flavor_text: “It always points the way to new adventures.”
-—Amazu, an Illumineer
-—Amazu, an Illumineer
-oracle_text: ON THE HORIZON ⟳, 1 ⬡ — Look at the top 4 cards of
-your deck. You may reveal a location card and put it into
-your hand. Put the rest on the bottom of your deck in
-any order.
-your deck. You may reveal a location card and put it into
-your hand. Put the rest on the bottom of your deck in
-any order.
+flavor_text: |-
+  “It always points the way to new adventures.”
+  —Amazu, an Illumineer
+  —Amazu, an Illumineer
+oracle_text: |-
+  ON THE HORIZON ⟳, 1 ⬡ — Look at the top 4 cards of
+  your deck. You may reveal a location card and put it into
+  your hand. Put the rest on the bottom of your deck in
+  any order.
+  your deck. You may reveal a location card and put it into
+  your hand. Put the rest on the bottom of your deck in
+  any order.
 image_width: 1468
 image_height: 2048
 image_quality: high

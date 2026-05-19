@@ -42,14 +42,16 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10
 art_match_confidence: high
 needs_manual_review: false
 artist: Matteo Marzocco
-flavor_text: “Here, hold this while I get help. Try not to go
-anywhere.”
-anywhere.”
-oracle_text: SECOND CHANCE When this character leaves
-play, you may return chosen character of yours to
-your hand.
-play, you may return chosen character of yours to
-your hand.
+flavor_text: |-
+  “Here, hold this while I get help. Try not to go
+  anywhere.”
+  anywhere.”
+oracle_text: |-
+  SECOND CHANCE When this character leaves
+  play, you may return chosen character of yours to
+  your hand.
+  play, you may return chosen character of yours to
+  your hand.
 image_width: 1468
 image_height: 2048
 image_quality: high

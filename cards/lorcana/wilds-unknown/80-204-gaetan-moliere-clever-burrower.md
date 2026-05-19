@@ -42,13 +42,14 @@ reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12
 art_match_confidence: high
 needs_manual_review: false
 artist: Lorena Piloreta
-oracle_text: Evasive (Only characters with Evasive can
-challenge this character.)
-UNEARTH Whenever this character quests, you
-may draw 2 cards, then choose and discard 2 cards.
-challenge this character.)
-UNEARTH Whenever this character quests, you
-may draw 2 cards, then choose and discard 2 cards.
+oracle_text: |-
+  Evasive (Only characters with Evasive can
+  challenge this character.)
+  UNEARTH Whenever this character quests, you
+  may draw 2 cards, then choose and discard 2 cards.
+  challenge this character.)
+  UNEARTH Whenever this character quests, you
+  may draw 2 cards, then choose and discard 2 cards.
 image_width: 1468
 image_height: 2048
 image_quality: high

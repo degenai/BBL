@@ -41,8 +41,9 @@ reference_image_source_url: https://images.pokemontcg.io/swsh2/154_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: nagimiso
-oracle_text: Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.
-You may play only 1 Supporter card during your turn.
+oracle_text: |-
+  Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.
+  You may play only 1 Supporter card during your turn.
 mood: grim
 time_of_day: indeterminate
 setting: indoor

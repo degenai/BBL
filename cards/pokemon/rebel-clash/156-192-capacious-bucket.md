@@ -41,8 +41,9 @@ reference_image_source_url: https://images.pokemontcg.io/swsh2/156_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: sadaji
-oracle_text: Search your deck for up to 2 Water Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
-You may play any number of Item cards during your turn.
+oracle_text: |-
+  Search your deck for up to 2 Water Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
+  You may play any number of Item cards during your turn.
 mood: peaceful
 time_of_day: indeterminate
 setting: other

@@ -113,4 +113,4 @@ This is what BBL bundle copy can lean on without inventing canon: Iona is the ca
 
 - `linvala-keeper-of-silence` (future sibling solo) — pending node; the canonical sibling-archangel-of-Iona per MTG Wiki's Iona page. Threshold: ≥1 Linvala-specific corpus card. Currently 0.
 
-- [[Bulk Graph Bundler]] — the project this character node serves.
+- `Bulk Graph Bundler` — the project this character node serves.

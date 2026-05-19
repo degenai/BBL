@@ -55,8 +55,9 @@ subject_known_ip: true
 suspected_ip: Allister (Pokemon Sword/Shield)
 ip_confidence: high
 ip_verified: true
-oracle_text: Draw 3 cards. If you drew any cards in this way, discard up to 3 cards from your hand. (You must discard at least 1 card.)
-You may play only 1 Supporter card during your turn.
+oracle_text: |-
+  Draw 3 cards. If you drew any cards in this way, discard up to 3 cards from your hand. (You must discard at least 1 card.)
+  You may play only 1 Supporter card during your turn.
 image_width: 734
 image_height: 1024
 image_quality: high

@@ -41,7 +41,7 @@ tags:
 ---
 # Chinese Zodiac
 
-A foundational [[Bulk Graph Bundler]] hub. The Wuxing × shengxiao (Chinese zodiac) grid as a curatorial framework. Foundationally tied to the [[diamondlegendz]] [[pokemon-zodiac]] project, which already encodes the **functional-agrarian China-max ruleset** — twelve zodiac slots × five Wuxing elements, sixty cells, ~25 honestly open. The grid is the rubric. BBL supplies cards.
+A foundational `Bulk Graph Bundler` hub. The Wuxing × shengxiao (Chinese zodiac) grid as a curatorial framework. Foundationally tied to the [[diamondlegendz]] [[pokemon-zodiac]] project, which already encodes the **functional-agrarian China-max ruleset** — twelve zodiac slots × five Wuxing elements, sixty cells, ~25 honestly open. The grid is the rubric. BBL supplies cards.
 
 > The zodiac framework reads bulk through a lens that's defensibly cultural-design-history rather than "themed boosters." It's curation-as-scholarship: each cell either fills cleanly or stays honestly open, and the gaps themselves are content.
 

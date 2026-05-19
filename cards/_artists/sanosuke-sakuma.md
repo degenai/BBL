@@ -73,4 +73,4 @@ For any future Discrete Lair on Galarian working-class labor, this artist node i
 ## See also
 
 - [[labor]] — the BBL hub this artist node bridges into. Sakuma's NPC trainer-class portfolio is what makes the bridge load-bearing rather than aesthetic.
-- [[Bulk Graph Bundler]] — the project this artist entry serves
+- `Bulk Graph Bundler` — the project this artist entry serves
