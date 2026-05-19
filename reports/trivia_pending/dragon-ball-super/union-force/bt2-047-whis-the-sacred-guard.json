@@ -1,0 +1,41 @@
+{
+  "card_name": "Whis, The Sacred Guard",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-047",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name reads 'Whis, The Sacred Guard.' Blue-purple robes, rounded headdress, long staff, and serene expression are canonical Whis visual identifiers. The 'Sacred Guard' title maps directly to Whis's canonical role as Beerus's angel attendant and guide. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT2-047 is a Common Blue Battle card from Series 2 Booster UNION FORCE (DBS-B02), released 2017. Whis appears in the blue color identity in the DBS card game, consistent with his serene and intelligence-focused characterization versus the red/combat-energy palette of Saiyans. [dbs-cardgame.com: Union Force card list] [dbzexchange.com: BT2-047]",
+      "sources": ["dbs-cardgame.com: Union Force card list", "dbzexchange.com: BT2-047"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card carries a Blocker ability: when one of the player's other cards is attacked, Whis switches to Rest Mode and intercepts the attack — and crucially cannot be KO'd by opponent card skills or removed from the Battle Area by skills. This mechanical invulnerability directly mirrors Whis's canonical status as an existence beyond mortal life and death; Angels in Dragon Ball Super are unkillable by conventional means. [dbzexchange.com: BT2-047] [Dragon Ball Wiki: Whis]",
+      "sources": ["dbzexchange.com: BT2-047", "Dragon Ball Wiki (Fandom): Whis"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Whis is the Guide Angel Attendant of Beerus, God of Destruction of Universe 7. He is the younger brother of Vados and both are children of the Grand Minister. Whis is superior to Beerus in power and exists in a permanent state of Ultra Instinct. He was trained by his older sister Vados roughly a millennium before the events of Dragon Ball Super. [Dragon Ball Wiki: Whis] [Kanzenshuu: Is the Grand Priest the father of all 12 angels?]",
+      "sources": ["Dragon Ball Wiki (Fandom): Whis", "Kanzenshuu forum: Grand Priest and Angels"]
+    },
+    {
+      "category": "design",
+      "text": "Whis and Vados together represent the canonical angel-attendant pair for Universes 6 and 7 — sister and brother guarding mirror-universe Destroyer Gods (Champa and Beerus). The DBS card game places them in the same set (UNION FORCE) as Common and Rare support cards, framing them as accessible stabilizing pieces rather than headline threats. [dbs-cardgame.com: Union Force card list]",
+      "sources": ["dbs-cardgame.com: Union Force card list"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vados's Assistance", "set": "Judge Promotion Cards / Galactic Battle", "note": "Canonical sibling angel — Universe 6 counterpart to Whis"},
+    {"name": "Beerus, God of Destruction", "set": "Various", "note": "Whis's assigned Hakaishin — the god he guards and trains"},
+    {"name": "Champa, God of Destruction", "set": "Various", "note": "Vados's Hakaishin — the mirror-universe counterpart pair"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

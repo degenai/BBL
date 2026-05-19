@@ -81,3 +81,15 @@ A towering alien creature dominates the center of the frame — its body is mass
 - [[eldrazi]] — depicted titan with exposed musculature and tentacled neck-cluster is the *target* of the {3}{W} oracle ("Destroy target creature with power 4 or greater"); the card is one of the rare BFZ commons where the brood appears in-frame at recognizable Titan-scale. `[Scryfall: BFZ-49 oracle_text]`
 - [[kor]] — depicted attackers using rope-and-cable rigs (canonical kor climbing-rig iconography) are the foreground protagonists; flavor *"After watching the kor in battle, Gideon understood the difference between working together and working as one"* makes the kor coordinated-defense thesis explicit at the designer-confirmed canon level. `[Scryfall: BFZ-49 flavor_text]` `[MTG Wiki: Kor]`
 
+## Trivia
+
+- **Set / lore context** — Smite the Monstrous originated in Khans of Tarkir (no. 24, September 2014) and has been reprinted seven times through Zendikar Rising (2020), including Innistrad (2011), Duel Decks: Heroes vs. Monsters (2013), Ugin's Fate (2015), MTGO Promos (2015), BFZ (2015), and Zendikar Rising (2020). The BFZ printing is the card's second Zendikar-plane appearance. `[Scryfall: Smite the Monstrous full print history]`
+- **Flavor text** — "After watching the kor in battle, Gideon understood the difference between working together and working as one." — `[Scryfall: BFZ-49 flavor_text]`. Gideon Jura is the named observer; his POV elevates the kor from supporting cast to tactical exemplars. The phrase distinguishes coordinated-but-separate action from unified collective movement — the set's Zendikar-resistance ethos written at the flavor level.
+- **Mechanical** — Oracle text: "Destroy target creature with power 4 or greater." The power-4 floor targets almost every meaningful Eldrazi creature in BFZ at the time of original printing. Legal in Historic, Pioneer, Modern, Legacy, Vintage, Pauper, and Commander. EDHREC rank 19065 — higher utility than Sheer Drop (24903), consistent with the broader utility of instant-speed unconditional removal. `[Scryfall: BFZ-49 oracle_text, legalities, edhrec_rank]`
+- **Design** — Art by Jakub Kasper, who debuted in Fate Reforged (2015) and has illustrated 84+ unique Magic artworks. Kasper frequently illustrates combat-resolution instants and removal spells. `[Gatherer: Jakub Kasper, 84 credited cards]` `[Scryfall: a:Jakub Kasper]`
+
+### Related cards
+- Tandem Tactics (Battle for Zendikar, 52) — also kor-focused white instant from BFZ; thematic pair on the kor coordinated-defense cluster
+- Sheer Drop (Battle for Zendikar, 48) — adjacent white BFZ common with Clint Cearley art; three-card white-resistance cluster
+- Gideon, Ally of Zendikar (Battle for Zendikar) — named observer in this card's flavor text; planeswalker whose BFZ arc is defined by learning kor tactics
+

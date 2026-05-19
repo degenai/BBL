@@ -1,0 +1,42 @@
+{
+  "card_name": "Lightning Speed Vegito",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-013",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name explicitly reads 'Lightning Speed Vegito.' Card oracle text names Son Goku and Vegeta as the required prerequisite cards for the Union-Potara mechanic, directly confirming the Potara fusion identity at the oracle level.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT2-013 is a Rare Red Battle card from Series 2 Booster UNION FORCE (DBS-B02), released 2017. The set's name directly references the Union-Potara mechanic introduced in this series, which mechanically represents the Potara earring fusion between Son Goku and Vegeta. [dbs-cardgame.com: Union Force card list] [dbs-cardgame.com: Designer's Note, Union Force]",
+      "sources": ["dbs-cardgame.com: Union Force card list", "dbs-cardgame.com: Designer's Note Union Force"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Union-Potara mechanic on BT2-013 requires placing it in Active Mode on top of specific Son Goku and Vegeta Battle Cards already in play, functioning as a stack-evolution. The card's skill then mills 10 cards to the Drop Area, enabling the player to evolve into a 25000-power Vegito from the Drop Area — a deliberate design representing Vegito's power increasing the more Goku and Vegeta traits accumulate. The card can exceed 100,000 power in a stacked Drop Area scenario. [dbs-cardgame.com: Strategy — SSB Vegito deck intro]",
+      "sources": ["dbs-cardgame.com: Strategy SSB Vegito deck"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Vegito is the Potara earring fusion of Goku (Kakarot) and Vegeta. The name combines 'Vegeta' and 'Kakarot.' Vegito first appeared fighting Super Buu and later reappeared in Dragon Ball Super against Fused Zamasu, defusing due to overuse of power inside Buu's magic-saturated body — one of the few ways to break Potara fusion on a mortal. [Dragon Ball Wiki: Vegito] [Kanzenshuu: Potara Fusion mechanics thread]",
+      "sources": ["Dragon Ball Wiki (Fandom): Vegito", "Kanzenshuu: Potara Fusion thread"]
+    },
+    {
+      "category": "design",
+      "text": "Unlike Gotenks (Fusion Dance), Vegito represents the Potara method: a permanent god-tier fusion that distinguishes itself by theoretically being irreversible — until the Buu saga retcon. BT2-013 is one of two Vegito Rares in UNION FORCE (alongside BT2-012 Repeated Force Vegito), building a named Vegito deck archetype as the flagship of the set. [dbs-cardgame.com: Strategy SSB Vegito deck]",
+      "sources": ["dbs-cardgame.com: Strategy SSB Vegito deck"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Repeated Force Vegito", "set": "Union Force", "note": "BT2-012 — the companion Vegito Rare in the same set forming the named Vegito deck core"},
+    {"name": "Son Goku (various)", "set": "Union Force", "note": "Required prerequisite card for Union-Potara mechanic on BT2-013"},
+    {"name": "Vegeta (various)", "set": "Union Force", "note": "Required prerequisite card for Union-Potara mechanic on BT2-013"},
+    {"name": "Gogeta (various)", "set": "Various", "note": "Fusion Dance alternate fusion of same two characters — mechanical and lore counterpart to Vegito"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

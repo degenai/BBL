@@ -70,3 +70,15 @@ A dramatic outdoor desert scene shows massive sandstone columns or mesa formatio
 **Objects:** stone-debris, rope-or-arc
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set / lore context** — Battle for Zendikar (released October 2, 2015) depicted Zendikar's native population and Gatewatch heroes fighting the Eldrazi titan invasion. Sheer Drop is a White sorcery in that resistance framework — a removal spell where the literal geology of Zendikar (cliffs, mesas) is both weapon and victim of Eldrazi-scale destruction. `[Scryfall: BFZ set data]` `[magic.wizards.com: Battle for Zendikards Part 1, 2015-09-21]`
+- **Design** — Sheer Drop carries the Awaken 3 keyword ({5}{W} mode). Mark Rosewater's design commentary explains Awaken was intentionally made predominantly sorcery-speed to prevent surprise land-animation ambushes; the additive cost structure (normal mode first, Awaken mode second) was settled after consultation with the editing team. Sheer Drop's sorcery type reflects this deliberate choice. `[magic.wizards.com: Battle for Zendikards Part 2, 2015-09-28]` `[magic.wizards.com: Storm Scale Zendikar and Battle for Zendikar, 2016-11-21]`
+- **Design** — Art by Clint Cearley, who has illustrated over 105 unique Magic artworks from Innistrad (2011) through Commander Legends (2020), including Bruna the Fading Light, Brisela Voice of Nightmares, and Nissa Vital Force. Cearley also illustrated Horribly Awry and Fathom Feeder in the same BFZ set. `[Scryfall: a:Clint Cearley unique art search]` `[Gatherer: Clint Cearley, 92 credited cards]`
+- **Mechanical** — Three printings: Duel Decks: Zendikar vs. Eldrazi (no. 9, August 28, 2015 — predating BFZ's release), Battle for Zendikar (no. 48, October 2015), and The List (no. BFZ-48, November 2019). Legal in Pioneer, Modern, Pauper, and Pauper Commander. EDHREC rank 24903. `[Scryfall: Sheer Drop print history]`
+
+### Related cards
+- Roil Spout (Battle for Zendikar) — another BFZ Awaken sorcery illustrating the mechanic cluster
+- Retreat to Emeria (Battle for Zendikar) — BFZ white landfall/awaken set context sibling also in this corpus
+- Horribly Awry (Battle for Zendikar) — also illustrated by Clint Cearley in the same set
+

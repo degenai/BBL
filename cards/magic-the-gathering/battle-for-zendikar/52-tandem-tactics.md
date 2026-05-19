@@ -77,3 +77,15 @@ Two humanoid warriors are shown mid-leap in a side-by-side charge, both airborne
 
 - [[kor]] — left-figure pale hair plus visible hook-and-cord climbing gear is canonical kor visual identifier; flavor *"Zendikar favors the blades that strike in unison"* anchors the kor coordinated-defense ethos that defines the BFZ-block kor mechanical signature. `[Scryfall: BFZ-52 flavor_text]` `[MTG Wiki: Kor]`
 
+## Trivia
+
+- **Set / lore context** — Tandem Tactics is an original BFZ printing (no. 52, October 2, 2015) with no reprints in the Scryfall database. Part of the kor-resistance white-spell cluster in BFZ alongside Smite the Monstrous and Sheer Drop, contributing to the set's coordinated-defense theme against the Eldrazi. `[Scryfall: BFZ-52 data]`
+- **Flavor text** — "In times of infestation and war, Zendikar favors the blades that strike in unison." — `[Scryfall: BFZ-52 flavor_text]`. The word "infestation" frames the Eldrazi not as an invading army but as a pest-scale existential horror — a deliberate tonal choice that places the conflict beyond conventional warfare. "Blades that strike in unison" is a direct martial articulation of the kor collective-coordination identity.
+- **Mechanical** — Oracle text: "Up to two target creatures each get +1/+2 until end of turn. You gain 2 life." At {1}{W}, the toughness-weighted buff is designed for blocking scenarios; the life gain enables aggressive racing. Legal in Historic, Pioneer, Modern, Legacy, Vintage, Pauper, and Commander. EDHREC rank 25043 (casual fringe utility). `[Scryfall: BFZ-52 oracle_text, legalities, edhrec_rank]`
+- **Design** — Art by David Gaillet, a French illustrator who debuted in Magic with Khans of Tarkir (2014) and has approximately 60 credited MTG artworks, including Touch of the Void (BFZ-134) in the same set. `[Gatherer: David Gaillet, 60 credited cards]` `[Scryfall: BFZ-52 artist field]`
+
+### Related cards
+- Smite the Monstrous (Battle for Zendikar, 49) — kor-coordinated-defense thematic pair; Gideon's named observation in that card's flavor text makes the two cards a flavor dialogue
+- Sheer Drop (Battle for Zendikar, 48) — third white BFZ common in this corpus; Awaken-mechanic counterpart completing the white-resistance cluster
+- Kor Bladewhirl (Battle for Zendikar) — kor creature card from BFZ; part of the kor-identity mechanical cluster the flavor of this card speaks to
+

@@ -1,0 +1,41 @@
+{
+  "card_name": "Smite the Monstrous",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "49",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Smite the Monstrous originated in Khans of Tarkir (no. 24, September 2014) and has been reprinted seven times through Zendikar Rising (2020), including Innistrad (2011), Duel Decks: Heroes vs. Monsters (2013), Ugin's Fate (2015), the BFZ printing, an MTGO Promo (2015), and Zendikar Rising (2020). The BFZ printing is the second Zendikar-plane appearance. [Scryfall: Smite the Monstrous print history]",
+      "sources": ["Scryfall: Smite the Monstrous print history"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"After watching the kor in battle, Gideon understood the difference between working together and working as one.\" — Scryfall BFZ-49 flavor text. The speaker-source is Gideon Jura, whose POV elevates the kor from supporting cast to tactical exemplars. The distinction between 'together' and 'as one' is the set's coordinated-defense thesis written at the flavor level. [Scryfall: BFZ-49 flavor_text]",
+      "sources": ["Scryfall: BFZ-49 flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The oracle text 'Destroy target creature with power 4 or greater' is a removal floor keyed to the set's Eldrazi threat profile — almost every significant Eldrazi creature in BFZ breaches power 4. Legal in Historic, Pioneer, Modern, Legacy, Vintage, Pauper, and Commander. EDHREC rank 19065 (higher utility rank than Sheer Drop at 24903, likely due to the unconditional instant-speed removal mode). [Scryfall: BFZ-49 oracle_text and legalities]",
+      "sources": ["Scryfall: BFZ-49 oracle_text, legalities, edhrec_rank"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Jakub Kasper, who debuted in Fate Reforged (2015) and has illustrated 84+ unique Magic artworks. Kasper's work frequently appears on combat-resolution instants and creature removal. [Gatherer: Jakub Kasper, 84 cards] [Scryfall: a:Jakub Kasper]",
+      "sources": ["Gatherer: Jakub Kasper artist page", "Scryfall: a:Jakub Kasper"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tandem Tactics", "set": "Battle for Zendikar", "note": "BFZ-52 — also kor-focused white instant from the same set; thematic pair"},
+    {"name": "Sheer Drop", "set": "Battle for Zendikar", "note": "BFZ-48 — adjacent white common in the same set with Clint Cearley art"},
+    {"name": "Gideon, Ally of Zendikar", "set": "Battle for Zendikar", "note": "Gideon is the named observer in the flavor text — planeswalker whose arc with the kor is the narrative anchor of BFZ white"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

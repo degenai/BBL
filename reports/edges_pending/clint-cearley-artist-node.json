@@ -1,0 +1,53 @@
+{
+  "edge_id": "clint-cearley-artist-node",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "shared-artist-thematic",
+  "mode": "mr-nodeley",
+  "endpoints": [
+    {"type": "artist", "path": "cards/_artists/clint-cearley.md", "name": "Clint Cearley"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/48-sheer-drop.md", "name": "Sheer Drop (BFZ 48)"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/131-nettle-drone.md", "name": "Nettle Drone (BFZ 131)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/70-sweet-oblivion.md", "name": "Sweet Oblivion (THB 70)"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/171-volcanic-geyser.md", "name": "Volcanic Geyser (M21 171)"}
+  ],
+  "description": "Triviabot surfaced Clint Cearley at 105 unique Scryfall artworks across roughly a decade (Innistrad 2011 -> Commander Legends 2020) -- the deepest single-illustrator MTG portfolio that has appeared in BBL corpus so far. Edgelord wanted a clean 1:1 card-to-card edge in the BFZ slice (Sheer Drop + Nettle Drone share the byline and the Eldrazi-invasion arc), but four corpus credits across three sets spanning four distinct visual registers (cosmic horror, geological destruction, surreal grotesque, kinetic elemental) is exactly the missing-graph-dimension case the Mr. Nodeley pass exists for. Drawing two or three 1:1 Cearley-byline edges between BFZ/THB/M21 cards would be redundant in the presence of a future artist node; proposing the node first lets the four cards attach cleanly and lets a future fifth-or-sixth Cearley credit (when corpus ingests the broader BFZ slice including Horribly Awry / Fathom Feeder, or the Eldritch Moon Bruna/Brisela pieces) attach without retroactive edge cleanup. Mr. Nodeley apologizes for stepping in on Edgelord's slate, but the node is the right move.",
+  "citations": [
+    "[Scryfall: a:\"Clint Cearley\" unique:art -- 105 unique artworks]",
+    "[Gatherer: Clint Cearley artist page -- 92 credited cards]",
+    "[clintcearley.com]",
+    "[cards/magic-the-gathering/battle-for-zendikar/48-sheer-drop.md trivia entry, wave 133 -- 105 unique artworks / 92 Gatherer credits / register-span citation]",
+    "[cards/magic-the-gathering/battle-for-zendikar/131-nettle-drone.md trivia entry, wave 86 -- Eldrazi-drone visual continuity across BFZ block]"
+  ],
+  "files_modified": [
+    "cards/_artists/clint-cearley.md"
+  ],
+  "files_created": [
+    "cards/_artists/clint-cearley.md"
+  ],
+  "frontmatter_pointer_changes": [],
+  "rationale_for_no_frontmatter_changes": "Per bbl-artists-layer-built memory: card frontmatter preserves as-captured artist credit (printing fidelity); artist_resolve.py maps to canonical at render time via the aliases: list on the artist node. Adding the new node's aliases entry IS the wiring -- no card-side frontmatter change needed. Verified resolver returns 'Clint Cearley' for the input 'Clint Cearley' post-node-creation.",
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Vados + Whis angel-attendant cohort (N=2) -- waiting on a 3rd angel card per triviabot's wait-state; Nodeley agrees -- two-card cohort is sub-threshold for the characters layer (precedent is Nicol Bolas at 3-card cluster). Stage for a future wave once a 3rd Guide Angel Attendant lands in corpus.",
+    "Wave-133 DBS cards (Goku BT3-057 / Gohan BT2-075 / Vegeta BT2-076) -> existing character-node frontmatter wiring -- cohort hygiene, lower leverage than artist node; stage for a sweep pass on the wave-133 DBS slice.",
+    "Jakub Kasper artist node (84 credits, no Hipsters anchor) and David Gaillet (60 credits, no Hipsters anchor) -- both clear the artist-layer volume threshold; defer per parent prompt's preference for Cearley as the strongest single move this wave. Both stage as future Nodeley candidates.",
+    "BFZ white commons cluster (Sheer Drop / Smite the Monstrous / Tandem Tactics) -- 3-card micro-cluster but no formal designer-confirmed cohort; the Cearley-byline edge on Sheer Drop is now subsumed by this node, so any future BFZ-white-commons edge work attaches through the cohesion-signal layer rather than a 1:1 edge.",
+    "Add ## Connections section to Sweet Oblivion (THB 70) -- the only Cearley-credit corpus card currently missing the section. Stage for next Edgelord pass as a 1:1 card-to-card edge (Sweet Oblivion <-> Nettle Drone on the cross-block horror-register Cearley cohort)."
+  ],
+  "next_pass_suggestions": [
+    "Backfill Sweet Oblivion's ## Connections section with the Cearley horror-register cohort edge to Nettle Drone (cross-block 2015 BFZ -> 2020 THB single-illustrator continuity).",
+    "Wave-86+wave-133 BFZ slice: check whether Horribly Awry or Fathom Feeder are in corpus -- if so, expand the Cearley appears_on: list and the BFZ Eldrazi-invasion cohort frame in the node body.",
+    "Triage entry: artist_resolve.py emits per-character CONFLICTS spam when invoked via CLI -- the canonical resolution itself is correct but the conflict-check function appears to iterate per-character rather than per-alias. Pre-existing bug, not caused by this node; should land in reports/janitor_triage.md."
+  ],
+  "potion_rule_check": "PASS. Cearley artist-node is anchored on Scryfall + Gatherer counts (designer-confirmed evidence per Potion sub-rule 2: portfolio-volume is verifiable artist-credit data, not a curatorial overlay). Body prose names visual-register reads as Cearley's stylistic-signature observations grounded in the per-card vision passes, NOT as a triple-thesis-aligned labor/rebellion/stewardship attribution. related_hubs: [] is intentional -- no hub-attribution is claimed.",
+  "rigor_check": {
+    "anchor_count": 4,
+    "anchor_count_threshold_met": true,
+    "anchor_count_basis": "sanosuke-sakuma at 5, kirisaki at 7, magali-villeneuve at 8 -- 4 is at the soft threshold but corpus-volume PLUS 105-unique-Scryfall-artwork total carries the node",
+    "canonical_sourcing": "PASS -- Scryfall + Gatherer + clintcearley.com + two in-corpus trivia citations",
+    "yaml_safety": "PASS -- aliases / appears_on / social all block-form lists; related_hubs: [] inline-empty acceptable per spec",
+    "wikilink_validity": "PASS -- all sibling artist wikilinks resolve to existing nodes (verified via cards/_artists/ glob)",
+    "voice_contamination_check": "PASS -- node body is in project's normal precise register; Mr. Nodeley voice is confined to this JSON's description field"
+  }
+}

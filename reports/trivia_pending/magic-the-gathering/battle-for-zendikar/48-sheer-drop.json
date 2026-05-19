@@ -1,0 +1,41 @@
+{
+  "card_name": "Sheer Drop",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "48",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (released October 2, 2015) depicted Zendikar's native population and Gatewatch heroes fighting against the Eldrazi titan invasion. Sheer Drop is a White sorcery in that resistance framework — a land-destruction allegory where the literal geology of Zendikar (cliffs, mesas) becomes both weapon and victim. [Scryfall: BFZ set data] [magic.wizards.com: Battle for Zendikards Part 1]",
+      "sources": ["Scryfall: BFZ card data", "magic.wizards.com: Battle for Zendikards Part 1"]
+    },
+    {
+      "category": "design",
+      "text": "Sheer Drop carries the Awaken 3 keyword ({5}{W} mode) introduced in Battle for Zendikar. Mark Rosewater's designer commentary explains Awaken was intentionally designed to make most Awaken cards sorceries to prevent surprise land-animation ambushes, and that the additive cost structure (normal mode first, Awaken mode second) was settled after discussion with the editing team. Sheer Drop's sorcery type reflects this deliberate design choice. [magic.wizards.com: Battle for Zendikards Part 2, 2015-09-28] [magic.wizards.com: Storm Scale Zendikar]",
+      "sources": ["magic.wizards.com: Battle for Zendikards Part 2", "magic.wizards.com: Storm Scale Zendikar and Battle for Zendikar"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Sheer Drop has three printings: Duel Decks: Zendikar vs. Eldrazi (no. 9, August 2015 — actually predates the BFZ expansion release), Battle for Zendikar (no. 48, October 2015), and The List (no. BFZ-48, November 2019). Legal in Pioneer, Modern, Pauper, and Pauper Commander. EDHREC rank 24903. [Scryfall: Sheer Drop print history]",
+      "sources": ["Scryfall: Sheer Drop print history"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Clint Cearley, who has illustrated over 105 unique Magic artworks spanning Innistrad (2011) through Commander Legends (2020), including Bruna the Fading Light, Brisela Voice of Nightmares, and Nissa Vital Force. Cearley is known for landscape-scale and horror-inflected compositions. [Scryfall artist search: Clint Cearley] [Gatherer: Clint Cearley, 92 cards]",
+      "sources": ["Scryfall: a:Clint Cearley unique art search", "Gatherer: Clint Cearley artist page"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Eldrazi Skyspawner", "set": "Battle for Zendikar", "note": "BFZ common — shares the Zendikar resistance conflict setting"},
+    {"name": "Roil Spout", "set": "Battle for Zendikar", "note": "Another Awaken sorcery from BFZ illustrating the mechanic cluster"},
+    {"name": "Retreat to Emeria", "set": "Battle for Zendikar", "note": "Also in BFZ corpus — landfall/awaken set context sibling"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

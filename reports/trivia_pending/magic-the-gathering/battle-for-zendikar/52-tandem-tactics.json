@@ -1,0 +1,41 @@
+{
+  "card_name": "Tandem Tactics",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "52",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tandem Tactics is an original printing in Battle for Zendikar (no. 52, October 2, 2015) with no reprints. It is part of the kor-resistance white-spell cluster in BFZ, alongside Smite the Monstrous and Sheer Drop, all contributing to the set's coordinated-defense theme against the Eldrazi. [Scryfall: BFZ-52 data]",
+      "sources": ["Scryfall: BFZ-52 data"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"In times of infestation and war, Zendikar favors the blades that strike in unison.\" — Scryfall BFZ-52 flavor text. The phrase 'blades that strike in unison' is a direct martial articulation of the kor collective-coordination identity, and the word 'infestation' frames the Eldrazi not as an invading army but as a pest-scale existential horror — a deliberate choice that scales the enemy beyond conventional warfare. [Scryfall: BFZ-52 flavor_text]",
+      "sources": ["Scryfall: BFZ-52 flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: 'Up to two target creatures each get +1/+2 until end of turn. You gain 2 life.' At {1}{W} this is efficient combat assistance — the +1/+2 toughness-weighted buff is designed for blocking scenarios, and the life gain incidentally enables aggressive racing. Legal in Historic, Pioneer, Modern, Legacy, Vintage, Pauper, and Commander. EDHREC rank 25043 (casual fringe utility). [Scryfall: BFZ-52 oracle_text and legalities]",
+      "sources": ["Scryfall: BFZ-52 oracle_text, legalities, edhrec_rank"]
+    },
+    {
+      "category": "design",
+      "text": "Art by David Gaillet, a French illustrator who debuted in Magic with Khans of Tarkir (2014) and has approximately 60 credited MTG artworks. Gaillet contributed multiple cards to BFZ including Touch of the Void (BFZ-134). [Gatherer: David Gaillet, 60 cards] [artofmtg.com: David Gaillet] [Scryfall: BFZ-52 artist field]",
+      "sources": ["Gatherer: David Gaillet artist page", "artofmtg.com: David Gaillet", "Scryfall: BFZ-52 artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Smite the Monstrous", "set": "Battle for Zendikar", "note": "BFZ-49 — kor-coordinated-defense thematic pair; same kor characters in art and flavor"},
+    {"name": "Gideon, Ally of Zendikar", "set": "Battle for Zendikar", "note": "The Gatewatch leader whose BFZ arc is defined by learning from kor tactics — named observer in Smite the Monstrous flavor"},
+    {"name": "Kor Bladewhirl", "set": "Battle for Zendikar", "note": "BFZ kor creature card — part of the kor-identity mechanical cluster in the set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

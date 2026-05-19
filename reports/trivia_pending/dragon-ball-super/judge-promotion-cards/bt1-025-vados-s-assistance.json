@@ -1,0 +1,41 @@
+{
+  "card_name": "Vados's Assistance",
+  "game": "Dragon Ball Super",
+  "set": "Judge Promotion Cards",
+  "collector_number": "BT1-025",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, blue-skin, distinctive rounded headdress, staff, and red-white layered robes are all canonical Vados visual identifiers. Card title 'Vados's Assistance' makes identity explicit at the oracle level. Verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "BT1-025 originates in Series 1 Booster GALACTIC BATTLE (DBS-B01), the inaugural set of the Dragon Ball Super Card Game released in 2017. The Judge Promotion Cards version is an alternate-art promo variant with a 'JUDGE' holofoil stamp, distributed exclusively to certified tournament judges — not sold to the public. [dbs-cardgame.com: Galactic Battle card list] [progamingcrew.com: DBS Judge Cards Explained]",
+      "sources": ["dbs-cardgame.com: Galactic Battle card list", "progamingcrew.com: DBS Judge Cards & Promo Packs Explained"]
+    },
+    {
+      "category": "design",
+      "text": "The standard BT1-025 is a Red Extra card with Energy cost 1; its skill negates an attack and allows switching up to one Battle Card to Active Mode — a pure defensive interrupt. The Judge Promo art emphasizes Vados's composure in extending her staff, which maps onto this reactive effect design. [dbs-cardgame.com: BT1-025 card entry]",
+      "sources": ["dbs-cardgame.com: BT1-025 card entry"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Vados is the Guide Angel Attendant of Champa, God of Destruction of Universe 6, and is the older sister of Whis. Both are children of the Grand Minister and among thirteen Angel siblings. Vados was canonically stronger than Whis when they trained together roughly a millennium before the events of Dragon Ball Super. [Dragon Ball Wiki: Vados] [Kanzenshuu forum: The Great Priest and The Angels]",
+      "sources": ["Dragon Ball Wiki (Fandom): Vados", "Kanzenshuu forum: The Great Priest and The Angels"]
+    },
+    {
+      "category": "design",
+      "text": "Judge Promotion Cards from DBS-B01-era packs were extremely limited in print — community estimates suggest only 800–2,500 Judge Pack Vol. 1 copies were ever distributed given the small number of registered tournament stores at launch in 2017. The cards carry 'Not For Sale' Bandai designation. [progamingcrew.com: DBS Judge Cards Explained]",
+      "sources": ["progamingcrew.com: DBS Judge Cards & Promo Packs Explained"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Whis, The Sacred Guard", "set": "Union Force", "note": "Canonical sibling angel pair — Vados (Universe 6) and Whis (Universe 7) are children of the Grand Priest"},
+    {"name": "Divine Aide Vados", "set": "Galactic Battle", "note": "BT1-010, a separate Vados card from the same series launch set"},
+    {"name": "Champa, God of Destruction", "set": "Various", "note": "Vados's assigned Hakaishin — the god she guards and trains"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}
