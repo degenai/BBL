@@ -1,0 +1,42 @@
+{
+  "card_name": "Fiery Cannonade",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "178",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fiery Cannonade was first printed in Ixalan (September 2017, XLN no. 143) as an uncommon. Ixalan features four warring factions — the Sun Empire (dinosaur-riders), the Legion of Dusk (vampire conquistadors), the Brazen Coalition (pirates), and the River Heralds (merfolk) — all searching for the Immortal Sun. This copy is from Commander Legends (November 2020), reprinted at common.",
+      "sources": ["Scryfall", "WebSearch: Ixalan set"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Wary of the ferocious dinosaurs, the Legion of Dusk built up the walls of their fort—just in time for the pirates to burn them down.\" The Legion of Dusk is the military arm of Alta Torrezon, an ecclesiastic vampire monarchy; its nobles undergo the Rite of Redemption (ritual vampirism) to serve as conquistadors. The single sentence encodes three of Ixalan's four factions: dinosaurs, Legion fortifications, and Brazen Coalition pirates.",
+      "sources": ["Scryfall", "Wizards: Planeswalker's Guide to Ixalan Part 2, 2017, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Fiery Cannonade deals 2 damage to each non-Pirate creature, functioning as a tribal board-sweeper that spares Pirate creatures. The design cross-references the flavor text's narrative: the cannon fire is the pirates', and everyone else absorbs it.",
+      "sources": ["Scryfall oracle text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 10,223; a staple in Commander Pirate-tribal builds. Legal in Pauper — making it one of the few tribal-board-wipes available in that format.",
+      "sources": ["Scryfall legalities", "EDHREC rank from Scryfall data"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fiery Cannonade", "set": "Ixalan", "note": "Original printing (uncommon); Ben Wootten art"},
+    {"name": "Dire Fleet Ravager", "set": "Ixalan", "note": "Legion of Dusk vampire; same Ixalan faction block"},
+    {"name": "Elenda, the Dusk Rose", "set": "Rivals of Ixalan", "note": "Founding figure of the Legion of Dusk; brought the Rite of Redemption to Torrezon"},
+    {"name": "Huatli, Warrior Poet", "set": "Ixalan", "note": "Sun Empire champion; the dinosaur-riders whose presence drove the Legion to build the fort in the flavor text"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -49,6 +49,8 @@ setting: other
 suspected_ip: Pawniard
 ip_confidence: high
 ip_verified: false
+characters:
+  - pawniard-line
 ---
 
 # Pawniard (Black Bolt)

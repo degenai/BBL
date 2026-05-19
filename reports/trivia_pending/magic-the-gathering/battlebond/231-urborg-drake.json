@@ -1,0 +1,41 @@
+{
+  "card_name": "Urborg Drake",
+  "game": "Magic: The Gathering",
+  "set": "Battlebond",
+  "collector_number": "231",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Urborg is a large marshy island in Dominaria's Burning Isles, notable for its extreme concentration of black mana. Before the Brothers' War it was a tropical jungle; Urza's activation of the Golgothian Sylex partially submerged it, converting it to the swampland it is in later eras. During the Phyrexian Invasion storyline (the setting of Urborg Drake's original printing in the Invasion set), Urborg was among the first regions to fall to Phyrexia — the Phyrexian Stronghold was transplanted into a volcano at its center. [MTG Wiki: Urborg, via WebSearch snippet]",
+      "sources": ["MTG Wiki: Urborg (mtg.fandom.com/wiki/Urborg, via WebSearch)"]
+    },
+    {
+      "category": "design",
+      "text": "Urborg Drake was originally printed in Invasion (2000) as an uncommon, then reprinted in Battlebond (2018) as a common — a rarity downgrade between printings. Both printings use the same Sam Wood illustration. Scryfall confirms exactly two printings total. The Battlebond printing is the only paper-only release; the Invasion printing is also on MTGO. [Scryfall API: prints_search_uri results]",
+      "sources": ["Scryfall API card data (api.scryfall.com/cards/2c87088f-6613-413b-aef9-0ef08c6b637f)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Relentless as the sea, remorseless as death.\" This line appears on both the Invasion and Battlebond printings, attributed to no speaker — it functions as pure descriptive voice. [Scryfall]",
+      "sources": ["Scryfall API flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Battlebond was MTG's first set designed explicitly for Two-Headed Giant, a team format where two players share a life total and take turns simultaneously. The set was the Innovation Product for 2018 and was designed to be drafted in pairs. Urborg Drake appears here as a reprint filler common in a set whose notable content was its new 'Partner with' legendary pairs. Battlebond released June 8, 2018. [Scryfall set data; Battlebond mechanics article via WebSearch]",
+      "sources": ["Scryfall API set_type: draft_innovation", "magic.wizards.com/en/news/feature/battlebond-mechanics-2018-05-21 (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Urborg, Tomb of Yawgmoth", "set": "Planar Chaos / various", "note": "The defining card of the Urborg region; makes all lands Swamps"},
+    {"name": "Drake Haven", "set": "Amonkhet", "note": "Drake tribal synergy card"},
+    {"name": "Thunder Drake", "set": "War of the Spark", "note": "Similar aggressive Drake with attack-each-turn flavor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -75,3 +75,17 @@ A lean, dark-scaled drake glides low through a fetid swamp, its broad wings spre
 **Creatures:** drake, dragon-kin, winged-reptile
 **Genre cues:** fantasy, dark-fantasy, gothic
 
+## Trivia
+
+- **Set context** — Battlebond (released June 8, 2018) was MTG's first set designed explicitly for Two-Headed Giant, a team format where two players share a life total and take simultaneous turns. It was the Innovation Product for 2018 and built to be drafted in pairs; its notable new cards were 11 legendary "Partner with" pairs. Urborg Drake appears as a reprint common in that supporting filler role. `[Scryfall API set_type: draft_innovation; Battlebond mechanics article, magic.wizards.com/en/news/feature/battlebond-mechanics-2018-05-21]`
+
+- **Reprint history** — Urborg Drake has exactly two printings: Invasion (INV, released October 2, 2000) as an uncommon, and Battlebond (BBD, 2018) as a common — a rarity downgrade across reprints. Both printings use the identical Sam Wood illustration. The Invasion printing is available on MTGO; the Battlebond printing is paper-only. `[Scryfall API prints data]`
+
+- **Set lore** — The card's home set is Invasion (2000), set during the Phyrexian Invasion of Dominaria. Urborg — the swampy island region that names this creature — was among the first Dominarian regions to fall to Phyrexia; the Phyrexian Stronghold was transplanted into a volcano at its center. Urborg is one of Dominaria's most black-mana-saturated locations, originally a tropical jungle before Urza's detonation of the Golgothian Sylex partially submerged it. `[MTG Wiki: Urborg, via WebSearch snippet]`
+
+- **Flavor text** — "Relentless as the sea, remorseless as death." — no speaker attributed. The line appears unchanged on both Invasion and Battlebond printings. `[Scryfall API flavor_text field]`
+
+### Related cards
+- Urborg, Tomb of Yawgmoth (Planar Chaos / various) — Defining card of the Urborg region; makes all lands Swamps
+- Drake Haven (Amonkhet) — Drake tribal payoff card
+- Cloudreader Sphinx / Thunder Drake (War of the Spark) — Fellow aggressive Drakes with attack-mandate flavor

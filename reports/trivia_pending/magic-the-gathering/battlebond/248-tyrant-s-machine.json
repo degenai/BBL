@@ -1,0 +1,36 @@
+{
+  "card_name": "Tyrant's Machine",
+  "game": "Magic: The Gathering",
+  "set": "Battlebond",
+  "collector_number": "248",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Tyrant's Machine was originally printed in Magic 2015 (M15, released July 18, 2014) and reprinted in Battlebond (June 8, 2018). Both printings use the same Yeong-Hao Han illustration and carry identical oracle text ({4}, {T}: Tap target creature) and flavor text. Scryfall confirms exactly two printings. The card is a colorless artifact with a generic 2-mana casting cost, making it format-agnostic — legal in Pioneer, Modern, Legacy, Vintage, Commander, and Pauper. [Scryfall API]",
+      "sources": ["Scryfall API card data (api.scryfall.com/cards/2c697b0b-edba-491a-b40e-f88572a6e955)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Though tempered differently, all wills can be broken.\" — Inquisitor Kyrik. Inquisitor Kyrik is a named MTG character who appears only in this card's flavor text across both printings; no other canonical reference to Kyrik has been identified in official Wizards lore articles or story spotlights (research did not surface a named plane origin or broader appearance). The quote frames the device as an interrogation/will-breaking tool. [Scryfall API flavor_text field]",
+      "sources": ["Scryfall API flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The activated ability ({4}, {T}: Tap target creature) is a slow, expensive tap effect — useful for neutralizing blockers or attacking creatures but widely considered underpowered compared to more efficient tap-down effects available in most formats. EDHREC rank of 27,372 reflects minimal Commander adoption. In Pauper, the card is legal but has never established a competitive presence. [Scryfall EDHREC rank field]",
+      "sources": ["Scryfall API edhrec_rank field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Icy Manipulator", "set": "Alpha / various", "note": "The iconic tap-a-permanent artifact; functional ancestor of Tyrant's Machine at similar mana cost"},
+    {"name": "Puppet Strings", "set": "Tempest", "note": "Similar tap/untap artifact for creature control"},
+    {"name": "Thornbite Staff", "set": "Morningtide", "note": "Tap-effect artifact with combo potential, contrasts the utilitarian Machine"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -76,3 +76,14 @@ A predatory dinosaur — a slender, raptor-like theropod rendered in deep crimso
 **Iconography:** bared-teeth, claws, lunge
 **Genre cues:** fantasy, prehistoric, pulp
 
+## Trivia
+
+- **Set / origin context** — Ripscale Predator was first printed in Gatecrash (GTC, February 2013), the second set of the Return to Ravnica block. That block's narrative centered on Ravnica's recovering ecosystems pushing back against the city's guild power structures, which the flavor text makes explicit: "As Ravnica's wilds expanded, even advocates for nature had to confront fiercer natural threats." `[Scryfall]`
+- **Flavor text** — "As Ravnica's wilds expanded, even advocates for nature had to confront fiercer natural threats." The line frames the dinosaur not as an exotic import but as native Ravnican wilderness reclaiming ground — a complication for Golgari and Selesnya members who advocate for natural growth on the plane. `[Scryfall]`
+- **Type-line retrocon** — Ripscale Predator was originally printed in Gatecrash with the creature type "Lizard." The type was updated to "Dinosaur" in September 2017 as part of the comprehensive Dinosaur creature-type overhaul Wizards performed across the card database concurrent with the Ixalan block release. `[Scryfall]`
+- **Mechanical profile** — A 6/5 with menace for six mana (four colorless, two red), Ripscale Predator is a curve-topper with above-rate stats at common. Its EDHREC rank of 21522 reflects limited Commander adoption — at six mana, red common 6/5s compete with a crowded field of finishers. `[Scryfall]` `[EDHREC]`
+
+### Related cards
+- Goring Ceratops (Ixalan, 13) — another red dinosaur with combat-oriented ability; same Dinosaur type post-overhaul
+- Silverclad Ferocidons (Rivals of Ixalan, 144) — red Dinosaur with menace, mechanically adjacent
+- Burning Sun's Avatar (Ixalan, 133) — red Dinosaur curve-topper for comparison

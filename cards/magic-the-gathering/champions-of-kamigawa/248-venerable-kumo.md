@@ -75,3 +75,18 @@ A massive spider occupies the center of the image, its body heavily plated and a
 **Iconography:** web, egg sacs
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Champions of Kamigawa (released October 1, 2004) is set on the plane of Kamigawa, an MTG rendition of feudal Japan, during the Kami War — a prolonged conflict in which the spirit world suddenly turned hostile toward mortals. "Kumo" is the Japanese word for spider (also cloud); kumo kami are spider spirits. A neighboring card in the set, Time of Need (CHK no. 247), carries flavor text that establishes the kumo's role: "When the kumo attacked the monks' sacred shrine, a mournful toll for help echoed through the forest. Thus began the Battle of Silk, which would last six years." — directly naming the kumo as instigators of one of the Kami War's major conflicts. `[Scryfall: Time of Need CHK flavor text, via WebSearch snippet]`
+
+- **Design** — Venerable Kumo is a green common with a single printing — it has never been reprinted. Illustrated by Carl Critchlow. Scryfall's flavor_text field is absent in the API response, confirming the card carries no printed flavor text. The card costs {4}{G} for a 2/3 body with Reach and Soulshift 4, which was considered weak value even at the time of release — a 5-mana 2/3 is below rate in any era. `[Scryfall API card data]`
+
+- **Mechanical context** — Soulshift 4 allows returning a Spirit card with mana value 4 or less from the graveyard to hand when Venerable Kumo dies — enabling recursion in Spirit-tribal green builds. Soulshift was a Kamigawa-block exclusive keyword and has never appeared on new cards outside the original block. Reach allows blocking flyers, complementing a ground-based Spirit web. EDHREC rank of 28,254 reflects near-zero Commander adoption, consistent with bulk common status. `[Scryfall API oracle_text, edhrec_rank, reprint: false]`
+
+- **Set lore** — The Soulshift mechanic is narratively coherent with Kamigawa's central lore conceit: kami are spirits that cycle between the mortal world and the spirit world, and Soulshift simulates that return. The kumo spider kami represent one of several hostile kami factions during the war; the "venerable" prefix implies an ancient, long-established spirit rather than a newly summoned one. `[MTG Wiki: Kami, via WebSearch snippet]`
+
+### Related cards
+- Orbweaver Kumo (Champions of Kamigawa) — Another kumo spider Spirit in the same set; gains forestwalk when a Spirit or Arcane spell is cast
+- Dripping-Tongue Zubera (Champions of Kamigawa) — Common Spirit with Soulshift 1; anchors the cheap end of the Soulshift recursion chain
+- Kashi-Tribe Reaver (Saviors of Kamigawa) — Snake Spirit that exemplifies Soulshift synergy in Kamigawa block
+- Time of Need (Champions of Kamigawa, no. 247) — The adjacent card carrying the Battle of Silk flavor text that names kumo as war instigators

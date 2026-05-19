@@ -1,0 +1,53 @@
+{
+  "card_name": "Rummaging Goblin",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "198",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rummaging Goblin was first printed in Magic 2013 (M13, July 2012), a core set. It was reprinted in Magic 2015, Ixalan, The List, Commander Legends, and Jumpstart 2022 — six total printings as of 2022. Karl Kopinski illustrated all printings; the same composition has appeared across every version.",
+      "sources": ["Scryfall", "artofmtg.com"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"To a goblin, value is based on the four S's: shiny, stabby, smelly, and super smelly.\" The line has no attributed speaker, keeping it as ambient goblin-world flavor rather than a character quote.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The loot ability ({T}, Discard a card: Draw a card) makes Rummaging Goblin one of the cleanest discard-enablers for red at common, useful in graveyard-synergy decks that want to pitch specific cards. Its EDHREC rank of 9706 is higher than several rarer CMR cards in this batch, reflecting consistent inclusion in budget red Commander builds that want a repeatable discard outlet.",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Karl Kopinski's personal portfolio site features both the original M13 illustration and a holographic variant as separate gallery entries, indicating Kopinski kept original paintings or produced a variant illustration — a relatively rare artist archiving practice for a common card.",
+      "sources": ["karlkopinski.com"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Faithless Looting",
+      "set": "Conspiracy: Take the Crown",
+      "note": "Red looting spell, same discard-to-draw design space"
+    },
+    {
+      "name": "Magmatic Channeler",
+      "set": "Zendikar Rising",
+      "note": "Red creature that uses discard as an engine upgrade"
+    },
+    {
+      "name": "Goblin Lore",
+      "set": "Tenth Edition",
+      "note": "Older red goblin discard/draw effect, flavor-adjacent"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

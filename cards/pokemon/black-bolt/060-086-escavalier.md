@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - armor
+  - lance
+  - insect
+  - knight
+  - charge
+  - warrior
+  - silver
+  - speed
+  - shell
+  - predator
+  - battle
+tags_filter:
+  - solo
+  - forward-facing
+  - mid-shot
+  - action
+  - creature-stage1
 reference_image: cards/_images/pokemon/black-bolt/060-086-escavalier.png
 average_cost_paid: 0
 market_price: 0.08
@@ -27,6 +43,34 @@ oracle_text: "Wild Lances (Metal) 90: This Pokémon also does 30 damage to itsel
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: void
+suspected_ip: Escavalier
+ip_confidence: high
+ip_verified: false
 ---
 
 # Escavalier (Black Bolt)
+
+## Vision
+
+![060-086-escavalier](../../_images/pokemon/black-bolt/060-086-escavalier.png)
+
+> [!warning] Suspected IP: **Escavalier** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A heavily armored insectoid Pokemon charges forward against a burst of red and pink energy. The figure is encased in a full metallic shell — silver-white with red and dark trim — and extends two sharp lance-like appendages directly toward the viewer. The motion lines and radiating energy behind it convey speed and aggression. The composition is almost purely the creature filling the frame, with little environmental context visible behind the dynamic energy burst.
+
+**Subject:** Escavalier, an armored insectoid Pokemon with lance-like arms, charging forward
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** void, indeterminate
+**Foreground:** Armored insectoid creature with twin lance-arms thrust forward  *(palette: silver, white, red, dark-gray)*
+**Background:** Radiating energy burst in red and pink tones  *(palette: red, pink, magenta, white)*
+**Mood / lighting:** action, harsh
+**Emotion read:** aggressive charge, full-speed attack posture
+**Objects:** lances, armor-shell
+**Creatures:** insectoid-creature, armored-creature
+**Genre cues:** anime, fantasy
+

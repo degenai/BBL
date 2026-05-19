@@ -77,3 +77,15 @@ Three hooded elven soldiers stride forward in formation through a foggy forest. 
 **Iconography:** hood, drawn-sword
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set / origin context** — Entourage of Trest was first printed in Conspiracy: Take the Crown (CN2, August 2016), a multiplayer draft set set on the intrigue-soaked plane of Fiora. "Trest" is a spy and mercenary organization on Fiora; Leovold, Emissary of Trest (the card's flavor-text speaker) is the faction's legendary elf Advisor and one of CN2's featured legends. `[Scryfall]` `[scryfall.com/card/cn2/77]`
+- **Flavor text** — "The dim resort to violence, for which the nimble prepare." — Leovold, emissary of Trest. Leovold's card text reads: "Each opponent can't draw more than one card each turn" — an information-control ability fitting his intelligence-operative identity. The flavor text framing positions his guards (this card's soldiers) as preparation against those who lack Leovold's cunning. `[Scryfall]`
+- **Monarch mechanic** — The Monarch keyword mechanic was introduced in Conspiracy: Take the Crown (2016), designed specifically for multiplayer games: the Monarch draws an extra card each end step but loses the title to anyone whose creature deals them combat damage. Entourage of Trest was one of the original Monarch-granting creatures in CN2. Commander Legends (CMR, 2020) marked the Monarch's first appearance in a booster-draft Commander product, making reprints like this card key to the mechanic's wider distribution. `[Scryfall]` `[magic.wizards.com: Conspiracy: Take the Crown Mechanics, 2016-08-15]`
+- **Mechanical profile** — A 4/4 for five mana that crowns you Monarch on entry and blocks an additional creature while you hold the title. EDHREC rank 16335. Its value is tied to the Monarch engine — it synergizes with any card that rewards being the Monarch (such as Court of Grace or Palace Jailer) but asks you to defend the title, which the multi-block ability directly supports. `[Scryfall]` `[EDHREC]`
+
+### Related cards
+- Leovold, Emissary of Trest (Conspiracy: Take the Crown, 77) — flavor-text speaker; the card's named lore anchor
+- Palace Jailer (Conspiracy: Take the Crown, 38) — another Trest-adjacent Monarch-granting card from the original CN2 printing
+- Court of Grace (Commander Legends, 8) — CMR Monarch-payoff enchantment, direct synergy partner
+- The Monarch (Commander Legends, 13) — the token card representing the Monarch status; listed as a combo piece on Scryfall's related_cards field for Entourage of Trest

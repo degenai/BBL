@@ -74,3 +74,15 @@ A blocky, cube-shaped device — part stone, part forged metal, banded with dark
 **Iconography:** lightning, cube, shackle-implied
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **Reprint history** — Tyrant's Machine was originally printed in Magic 2015 (M15, released July 18, 2014) and reprinted in Battlebond (BBD, June 8, 2018). Both printings use the same Yeong-Hao Han illustration and are identical in oracle text, flavor text, and rarity (common). Scryfall confirms exactly two printings. `[Scryfall API prints data]`
+
+- **Flavor text** — "Though tempered differently, all wills can be broken." — Inquisitor Kyrik. Inquisitor Kyrik appears to be a named MTG character who exists only in this card's flavor text; no Wizards story spotlight or lore article has been identified that expands on this figure beyond the attribution. The quote positions the device as a will-breaking interrogation instrument. `[Scryfall API flavor_text field]`
+
+- **Mechanical context** — The activated ability ({4}, {T}: Tap target creature) is a slow tap-down effect costing 6 mana total across casting and activation. It is legal in Pioneer, Modern, Legacy, Vintage, Commander, and Pauper but maintains an EDHREC rank of 27,372 — indicating minimal Commander adoption. The card has no niche competitive role in any format surveyed. Functionally, it is a distant descendent of Icy Manipulator (Alpha, 1993), which operates at the same converted mana cost ({4}) and tap. `[Scryfall API edhrec_rank, legalities fields]`
+
+### Related cards
+- Icy Manipulator (Alpha / various) — Iconic tap-a-permanent artifact at similar cost; Tyrant's Machine is a thematic descendant
+- Puppet Strings (Tempest) — Tap/untap artifact for creature control; comparable utility
+- Scepter of Dominance (various) — White tap-down artifact with similar effect at lower activation cost

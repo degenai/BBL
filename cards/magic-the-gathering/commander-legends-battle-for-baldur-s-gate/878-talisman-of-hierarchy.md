@@ -78,3 +78,16 @@ A circular metal pendant or talisman lies on a polished checkered floor, etched 
 **Iconography:** triangle, geometric-sigil, amulet
 **Genre cues:** fantasy, occult, still-life
 
+## Trivia
+
+- **Set context and original printing** — Talisman of Hierarchy was first printed in Modern Horizons (June 2019, MH1 no. 233), completing the enemy-colored half of the Talisman cycle. The ally-colored Talismans (Talisman of Dominance, Impulse, Indulgence, Progress, and Unity) had existed since Mirrodin (2003). Modern Horizons added the five enemy-color pairs, making a full ten-card Talisman cycle for the first time. This copy is from Commander Legends: Battle for Baldur's Gate (June 2022). `[Scryfall; WebSearch: Draftsim Modern Horizons spoilers]`
+- **Artist and artwork** — All five enemy-colored Talismans in Modern Horizons were painted by Lindsey Look, who created custom clay-and-Swarovski-crystal physical talisman models as reference objects for each piece. The Talisman of Hierarchy original painting sold for $4,550 in September 2019 — the top lot of the five-piece auction — and was noted for incorporating a chess set as its central design motif, reinforcing the Orzhov (white/black) hierarchy theme. `[Hipsters of the Coast: "Modern Horizons Talisman Cycle by Lindsay Look Sold," 2019]`
+- **Flavor text — Kaya** — `"You'll never get to the top if you don't know who's already there."` — Kaya. `[Scryfall]` Kaya Cassir is a planeswalker ghost-assassin from Tolvada who served as the nominal guildmaster of the Orzhov Syndicate on Ravnica between 4560 and 4562 AR. Her tenure was entangled from the start — she accepted the position under a Guildpact clause that transferred all outstanding Orzhov debts to her personally, and was eventually outmaneuvered by Teysa Karlov. The quote encapsulates her reading of Orzhov power politics. `[MTG Wiki: Kaya Cassir, via WebSearch]`
+- **Mechanical reputation** — Talisman of Hierarchy is an EDHREC rank 135 staple, appearing in approximately 532,000 Commander decks — a 26.4% inclusion rate across all tracked lists. As a 2-mana rock that produces colorless, white, or black mana at the cost of 1 life, it outperforms Orzhov Signet in most mana-base designs because it can tap for colorless without needing a colored mana input. `[EDHREC: Talisman of Hierarchy, via WebSearch; Scryfall]`
+- **Orzhov symbol note** — The card carries white/black color identity (Orzhov guild colors). The Orzhov eclipsed-sun signet — documented in the corpus as the sigil that serves as both master's medallion and slave-brand tattoo in Orzhov lore — is the canonical symbol of the power structure this card's flavor text directly names. `[cards/_symbols/orzhov-signet.md; MTG lore canon]`
+
+### Related cards
+- Talisman of Dominance (Mirrodin) — ally-colored Talisman (blue/black); original 2003 cycle
+- Talisman of Progress (Mirrodin) — ally-colored Talisman (white/blue); original 2003 cycle
+- Orzhov Signet (Ravnica: City of Guilds) — same color identity, same function class; predates Talisman of Hierarchy by 14 years
+- Talisman of Creativity (Modern Horizons) — Izzet enemy-colored cycle companion, also painted by Lindsey Look

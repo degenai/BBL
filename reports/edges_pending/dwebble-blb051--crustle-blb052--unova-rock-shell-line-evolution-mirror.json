@@ -1,0 +1,36 @@
+{
+  "edge_id": "dwebble-blb051--crustle-blb052--unova-rock-shell-line-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/black-bolt/051-086-dwebble.md",
+      "name": "Dwebble (Black Bolt 051/086)"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/black-bolt/052-086-crustle.md",
+      "name": "Crustle (Black Bolt 052/086)"
+    }
+  ],
+  "description": "Within-Black Bolt adjacent-collector-number evolution-line 1:1 mirror, Unova Gen V rock-shell-crab line. Dwebble (no. 557, Bug/Rock, base) -> Crustle (no. 558, Bug/Rock, Stage 1, evolves from Dwebble at level 34) — the species line's two canonical stages at adjacent BLB collector slots 051+052, single-artist-coordinated pair under Tetsu Kayama. Designer-coordinated cross-stage flavor pair: Dwebble's rock-excavation biology (melts holes in hard rocks via mouth-secretion) + Crustle's boulder-as-territorial-stake intraspecific combat (broken-boulder = lost-fight). Structural parallel to within-BLB Pawniard 064 + Bisharp 065 pair (Oku) and within-CRE Mareep 047 + Flaaffy 048 pair (Miki Tanaka + sui).",
+  "citations": [
+    "[PokemonTCG.io: zsv10pt5-51 (Dwebble) + zsv10pt5-52 (Crustle) — flavor_text + evolvesTo / evolvesFrom fields]",
+    "[Bulbapedia: Dwebble (Pokemon) species page — Pokedex no. 557, Bug/Rock, level-34 -> Crustle]",
+    "[Bulbapedia: Crustle (Pokemon) species page — Pokedex no. 558, Bug/Rock, evolves from Dwebble]"
+  ],
+  "files_modified": [
+    "cards/pokemon/black-bolt/051-086-dwebble.md",
+    "cards/pokemon/black-bolt/052-086-crustle.md"
+  ],
+  "other_candidates_considered": [
+    "dwebble-line character node proposal (Mr. Nodeley path) — REFUSED on threshold. All ten existing Pokemon -line character nodes (charizard / caterpie / larvitar / mareep / pancham / phantump / ralts / rowlet / staraptor / pawniard) have 3+ corpus prints across 2+ sets; Dwebble+Crustle = 2 prints, 1 pair, 1 set. Below threshold. Per bbl-parent-dispatch-verify memory: threshold IS the discipline. When a future Collectr CSV brings any further Dwebble or Crustle print (or a Crustle line is later extended), commission the node then.",
+    "Snivy 001 + Servine 002 (same BLB batch) — also a same-set adjacent-collector evolution mirror by Susumu Maeya. Equally valid candidate for this wave; deferred to a future Edgelord invocation. Edge category, citations, and structural shape are identical to the Dwebble/Crustle pair.",
+    "Braviary 078 (same BLB batch, freshly enriched) — no within-set partner (Rufflet not in BLB); cannot form a mirror in this wave. Defer.",
+    "Cross-print Dwebble or Crustle mirrors with other sets — none in corpus; only BLB has Dwebble/Crustle prints currently. The within-set adjacent-collector pair is the strongest cohesion-stack available."
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "edgelord_voice_note": "Two card endpoints. Same set. Same artist. Adjacent collector slots. Evolution-line pair. The mirror is required. The sigh is professional, not personal. The third option, Snivy/Servine in the same batch, is identical in shape and will get its own wave — one decision per invocation, the discipline. The dwebble-line character node refusal lands cleanly: ten existing -line nodes all sit at 3+ prints. Two prints is below threshold. Mr. Nodeley does not get to leave the bottle this wave."
+}

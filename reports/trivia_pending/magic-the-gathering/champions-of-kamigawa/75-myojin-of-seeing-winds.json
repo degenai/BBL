@@ -1,0 +1,43 @@
+{
+  "card_name": "Myojin of Seeing Winds",
+  "game": "Magic: The Gathering",
+  "set": "Champions of Kamigawa",
+  "collector_number": "75",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Myojin of Seeing Winds was released in Champions of Kamigawa (October 2004), the first set of the Kamigawa block. The Kami War — the plane's defining conflict — was triggered by Lord Konda stealing the unborn child of O-Kagachi, causing every kami, including the five Myojin, to turn against the mortal world.",
+      "sources": ["MTG Wiki: Kamigawa, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Myojin of Seeing Winds is the blue member of the five-card Myojin cycle (one per color), each representing a fundamental force: knowledge (blue), justice (white), passion (red), power (black), creation (green). The other cycle members are Myojin of Cleansing Fire, Myojin of Night's Reach, Myojin of Infinite Rage, and Myojin of Life's Web.",
+      "sources": ["MTG Wiki: Myojin, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The divinity counter was a 2004 rules workaround for indestructible before that keyword was templated on counters. When Kamigawa returned in Neon Dynasty (2022), five new Myojin used 'indestructible counters' instead. Wizards noted the CHK templates would have used indestructible counters if designed today.",
+      "sources": ["Wizards: Odds & Ends – Kamigawa: Neon Dynasty, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Myojin of Seeing Winds has EDHREC rank 12,427 and is tracked in approximately 79 Commander decks as the primary commander. Its mass-draw activated ability scales with clone/proliferate/permanent-spam strategies.",
+      "sources": ["Scryfall", "EDHREC: Myojin of Seeing Winds, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Myojin of Cleansing Fire", "set": "Champions of Kamigawa", "note": "White member of the five-Myojin divinity-counter cycle"},
+    {"name": "Myojin of Night's Reach", "set": "Champions of Kamigawa", "note": "Black member of the five-Myojin divinity-counter cycle"},
+    {"name": "Myojin of Infinite Rage", "set": "Champions of Kamigawa", "note": "Red member of the five-Myojin divinity-counter cycle"},
+    {"name": "Myojin of Life's Web", "set": "Champions of Kamigawa", "note": "Green member of the five-Myojin divinity-counter cycle"},
+    {"name": "Myojin of Cryptic Dreams", "set": "Kamigawa: Neon Dynasty Commander", "note": "2022 blue Myojin successor; uses indestructible counters instead of divinity counters"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "card_name": "Renegade Tactics",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "195",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Renegade Tactics was first printed in Kaladesh (KLD, September 2016), a set built around the plane of Kaladesh (later renamed Avishkar) and its central conflict between the autocratic Consulate and the insurgent Renegades led by Pia Nalaar. The card is a direct mechanical expression of that faction's guerrilla ethos: disrupt, evade, advance.",
+      "sources": ["Scryfall", "magic.wizards.com: Planeswalker's Guide to Kaladesh"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Nothing against you. It's just that waiting for Consulate clearance was never really my thing.\" The speaker is unnamed but the voice is pure Renegade: personal, apologetic-but-not-really, anti-bureaucratic. The Consulate required permits and clearance for aether use and public movement; sidestepping that clearance is the whole point of the Renegade faction.",
+      "sources": ["Scryfall", "magic.wizards.com: Planeswalker's Guide to Kaladesh"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At one red mana, Renegade Tactics combines a combat trick (make a blocker step aside) with card draw, a combination rare at common rarity. It holds Pauper-legal status and an EDHREC rank of 3409 across all formats, making it one of the more-played cards in this CMR common slot.",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "The CMR printing is the card's second major appearance, following Kaladesh and preceding a Jumpstart: Historic Horizons digital print. The same Yeong-Hao Han illustration carries across all printings.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Pia Nalaar",
+      "set": "Kaladesh",
+      "note": "Leader of the Renegades; the faction Renegade Tactics names in its title"
+    },
+    {
+      "name": "Aetherstorm Roc",
+      "set": "Kaladesh",
+      "note": "Another Kaladesh card depicting Renegade aerial operations against Consulate forces"
+    },
+    {
+      "name": "Bastion Inventor",
+      "set": "Aether Revolt",
+      "note": "Kaladesh block Renegade creature with improvise, shares the anti-Consulate faction"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

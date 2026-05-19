@@ -1,0 +1,42 @@
+{
+  "card_name": "Wooden Sphere",
+  "game": "Magic: The Gathering",
+  "set": "Classic: Sixth Edition",
+  "collector_number": "318",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Wooden Sphere was first printed in Limited Edition Alpha (1993) and reprinted in every core set through at least Eighth Edition (2003). The Classic Sixth Edition copy carries Donato Giancola art that first appeared in Fifth Edition (1997), replacing the original Mark Tedin illustration that ran Alpha through Fourth Edition.",
+      "sources": ["Scryfall: print history, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The Alpha through Fourth Edition printings were illustrated by Mark Tedin, one of the original 25 Magic artists known for his impressionistic layering style.",
+      "sources": ["WebSearch: Mark Tedin MTG Wiki Fandom"]
+    },
+    {
+      "category": "design",
+      "text": "The Sixth Edition (and later) art is by Donato Giancola, an award-winning illustrator with credits spanning Lord of the Rings calendar commissions, book covers, and a substantial MTG portfolio. His painterly style is a notable departure from Tedin's impressionistic originals.",
+      "sources": ["WebSearch: donatoarts.com; Donato Giancola MTG Fandom"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Wooden Sphere is part of the Alpha 'lucky charm' artifact cycle (one per color): Crystal Rod (blue), Ivory Cup (white), Throne of Bone (black), Iron Star (red), and Wooden Sphere (green). Each gains 1 life whenever a player casts a spell of that color for {1}. The cycle ran from Alpha through Eighth Edition. EDHREC rank 26,337 — essentially unplayed in contemporary Commander.",
+      "sources": ["WebSearch: Lucky charm MTG Wiki Fandom; pfmtg.wordpress.com", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Iron Star", "set": "Alpha", "note": "Lucky charm cycle: gains life on red spells"},
+    {"name": "Ivory Cup", "set": "Alpha", "note": "Lucky charm cycle: gains life on white spells"},
+    {"name": "Crystal Rod", "set": "Alpha", "note": "Lucky charm cycle: gains life on blue spells"},
+    {"name": "Throne of Bone", "set": "Alpha", "note": "Lucky charm cycle: gains life on black spells"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

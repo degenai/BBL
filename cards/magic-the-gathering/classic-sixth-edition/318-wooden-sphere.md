@@ -74,3 +74,15 @@ A polished wooden orb covered in intricate interlaced knotwork is cradled by two
 **Iconography:** interlaced-knotwork, celtic-knot, offering, orb
 **Genre cues:** fantasy, druidic
 
+## Trivia
+
+- **Set context and reprint history** — Wooden Sphere was first printed in Limited Edition Alpha (1993) and has appeared in every core set through at least Eighth Edition (2003), spanning roughly a decade of continuous reprints. The Classic Sixth Edition copy (April 1999) carries the artwork by Donato Giancola, which first appeared in Fifth Edition (1997) and replaced the original Mark Tedin illustration that ran from Alpha through Fourth Edition. `[Scryfall: print history, via WebSearch]`
+- **Original artist: Mark Tedin** — The Alpha through Fourth Edition printings were illustrated by Mark Tedin, one of the original 25 Magic: The Gathering artists known for his impressionistic layering style. His Wooden Sphere art depicted the same artifact motif in his characteristic early-Magic style. `[WebSearch: Mark Tedin MTG Wiki]`
+- **New art: Donato Giancola** — The Sixth Edition art is by Donato Giancola, an award-winning illustrator celebrated for work spanning book covers, editorial illustration, and fine-art fantasy paintings including commissions for the Lord of the Rings calendar series. His style is distinctly painterly and detailed, departing sharply from Tedin's impressionistic originals. Giancola has an extensive MTG portfolio and maintains an artist proof archive. `[WebSearch: Donato Giancola MTG Fandom; donatoarts.com]`
+- **Mechanical note** — Wooden Sphere is a lifegain-on-opponent's-green-spell trigger at 1 mana, a design that predates the modern mana-fixing era. It was a staple tech against mono-green in early Magic but has effectively no competitive presence today given the power inflation of both life-gain and artifact slots. Legal in Commander but carries EDHREC rank 26,337 — among the least-played legal artifacts in the database. `[Scryfall; EDHREC rank from Scryfall data]`
+
+### Related cards
+- Iron Star (Alpha) — "lucky charm" cycle sibling: gains life whenever a player casts a red spell
+- Ivory Cup (Alpha) — gains life whenever a player casts a white spell; same cycle
+- Crystal Rod (Alpha) — gains life whenever a player casts a blue spell; same cycle
+- Throne of Bone (Alpha) — gains life whenever a player casts a black spell; same cycle

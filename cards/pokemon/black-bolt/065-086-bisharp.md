@@ -49,6 +49,8 @@ setting: mountain
 suspected_ip: Bisharp
 ip_confidence: high
 ip_verified: false
+characters:
+  - pawniard-line
 ---
 
 # Bisharp (Black Bolt)

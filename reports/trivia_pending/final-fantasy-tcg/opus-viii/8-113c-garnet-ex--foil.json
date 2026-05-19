@@ -1,0 +1,42 @@
+{
+  "card_name": "Garnet EX",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-113C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card is titled 'Garnet' and carries the Summoner job type — Garnet til Alexandros XVII is the sole named Summoner protagonist of Final Fantasy IX. Square Enix official Opus VIII product page confirms FFIX characters appear in the set with original artwork. The card name and job class are sufficient canonical identifiers; no unnamed generic figure could share this name in the FFTCG system.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII was released in 2019 and features characters from Final Fantasy VII, IX, XIV: Stormblood, XV, and Brave Exvius — Square Enix described it as expanding FFTCG's 'play experience and collectability.' The set introduced FFXV and Brave Exvius characters 'in full force' after teases in Opus VII. [Square Enix Opus VIII product page, via WebSearch snippet]",
+      "sources": ["Square Enix Opus VIII product page (na.finalfantasy.com/news/1043)"]
+    },
+    {
+      "category": "design",
+      "text": "The card is a Water-element Forward with 2 CP cost, 5000 Power, and the Summoner job. Its EX BURST ability reads: when Garnet enters the field, choose 1 Forward and activate it; if a Forward you control is dealt damage by a Summon, reduce the damage by 5000 instead. The EX BURST mechanic triggers when this card is revealed from the damage zone. [WebSearch snippet from Collector's Cache / Card Cavern listings]",
+      "sources": ["Collector's Cache FFTCG card listing (collectorscache.crystalcommerce.com)", "Card Cavern FFTCG listing (cardcaverntradingcards.com)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Garnet til Alexandros XVII, also known as Dagger, is the princess of Alexandria and hereditary Summoner in Final Fantasy IX (1999, PlayStation). She is one of the two playable protagonists alongside Zidane Tribal, and her summoning abilities form a central plot thread of the game — she is hunted for the eidolons (summon beasts) sealed within her. [Final Fantasy Wiki: Garnet til Alexandros XVII, via WebSearch]",
+      "sources": ["Final Fantasy Wiki: Garnet til Alexandros XVII (finalfantasy.fandom.com/wiki/Garnet_Til_Alexandros_XVII)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The 'C' in 8-113C denotes Common rarity in FFTCG's collector numbering system. The EX suffix ('Garnet EX') is a FFTCG card designation indicating the card carries an EX BURST — a damage-zone triggered ability that activates when the card is revealed as a damage card, a mechanic unique to FFTCG with no direct analog in MTG or Pokemon TCG. [FFTCG Opus VIII product page / FFTCG FAQ, via Square Enix official site]",
+      "sources": ["Square Enix FFTCG official site (fftcg.square-enix-games.com)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Zidane", "set": "Opus VIII", "note": "Co-protagonist of FFIX; Garnet and Zidane are the central pair of the game's narrative"},
+    {"name": "Vivi", "set": "Opus VIII", "note": "Major FFIX party member appearing in Opus VIII"},
+    {"name": "Garnet [PR-143]", "set": "FFTCG Promo", "note": "Promo variant of Garnet referenced in official Square Enix FFTCG blog post; same character, different card"},
+    {"name": "Eiko", "set": "Opus VIII", "note": "Second Summoner in FFIX, narrative counterpart to Garnet"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

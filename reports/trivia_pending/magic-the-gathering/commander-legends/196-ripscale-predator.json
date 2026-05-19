@@ -1,0 +1,53 @@
+{
+  "card_name": "Ripscale Predator",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "196",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ripscale Predator was first printed in Gatecrash (GTC, February 2013), the second set of the Return to Ravnica block. That block's narrative centered on Ravnica's recovering ecosystems pushing back against the city's guild power structures, which the flavor text makes explicit.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"As Ravnica's wilds expanded, even advocates for nature had to confront fiercer natural threats.\" The line frames the dinosaur as native Ravnican wilderness reclaiming ground — a complication for Golgari and Selesnya members who advocate for natural growth on the plane.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Ripscale Predator was originally printed in Gatecrash with the creature type Lizard. The type was updated to Dinosaur in September 2017 as part of the comprehensive Dinosaur creature-type overhaul Wizards performed across the card database concurrent with the Ixalan block release.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 6/5 with menace for six mana, Ripscale Predator is an above-rate common curve-topper. Its EDHREC rank of 21522 reflects limited Commander adoption — at six mana, red common 6/5s compete with a crowded field of finishers.",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Goring Ceratops",
+      "set": "Ixalan",
+      "note": "Red dinosaur with combat-oriented ability; same Dinosaur type post-overhaul"
+    },
+    {
+      "name": "Silverclad Ferocidons",
+      "set": "Rivals of Ixalan",
+      "note": "Red Dinosaur with menace, mechanically adjacent"
+    },
+    {
+      "name": "Burning Sun's Avatar",
+      "set": "Ixalan",
+      "note": "Red Dinosaur curve-topper for comparison"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

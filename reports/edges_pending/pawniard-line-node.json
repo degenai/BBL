@@ -1,0 +1,40 @@
+{
+  "edge_id": "pawniard-line-node",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/pawniard-line.md", "name": "Pawniard evolutionary line (Pawniard / Bisharp / Kingambit)"},
+    {"type": "card", "path": "cards/pokemon/sword-shield-base-set/133-202-pawniard.md", "name": "Pawniard (Sword & Shield Base Set 133/202)"},
+    {"type": "card", "path": "cards/pokemon/sword-shield-base-set/134-202-bisharp.md", "name": "Bisharp (Sword & Shield Base Set 134/202)"},
+    {"type": "card", "path": "cards/pokemon/black-bolt/064-086-pawniard.md", "name": "Pawniard (Black Bolt 064/086)"},
+    {"type": "card", "path": "cards/pokemon/black-bolt/065-086-bisharp.md", "name": "Bisharp (Black Bolt 065/086)"}
+  ],
+  "description": "Mr. Nodeley apologizes for stepping in but the Pawniard line cluster reached threshold and Edgelord would have been writing a redundant 1:1 mirror under a node that needed to exist. Four corpus prints across two of three line stages, with the SWSH-133+134 and BLB-064+065 within-set adjacent-collector-number pair-of-pairs cohesion being structurally novel for the corpus's evolution-line cohort nodes, and the printed Pokedex flavor across multiple sets delivering both sides of the pack-hierarchy social-structure canon (SWSH Pawniard's aspirant-side flavor + Black Bolt Bisharp's leader-displacement flavor). Pre-existing caterpie-line / mareep-line / rowlet-line / phantump-line precedent for partial-coverage base-and-middle-stage three-stage Pokedex evolutionary-line cohort hosted on _characters/. Sorry to disappoint Edgelord, sir. Hope this helps, sir.",
+  "citations": [
+    "[Bulbapedia: Pawniard, Bisharp, Kingambit species pages]",
+    "[Pokemon.com: official Pokedex no. 624 / 625 / 983]",
+    "[Pokemon Black and White, Game Freak / Creatures Inc. / Nintendo, 2010]",
+    "[Pokemon Scarlet and Violet, Game Freak, 2022 — Kingambit and Leader's Crest evolution mechanic]",
+    "[Printed flavor: Sword & Shield Base Set Pawniard 133/202 — 'A pack of these Pokémon forms to serve a Bisharp boss']",
+    "[Printed flavor: Black Bolt Bisharp 065/086 — 'It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses']",
+    "[Printed flavor: Black Bolt Pawniard 064/086 — 'Blades comprise this Pokemon's entire body. If battling dulls the blades, it sharpens them on stones by the river']",
+    "[Printed flavor: Sword & Shield Base Set Bisharp 134/202 — 'Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found']",
+    "[Precedent: cards/_characters/caterpie-line.md, mareep-line.md, rowlet-line.md, phantump-line.md threshold-and-schema]"
+  ],
+  "files_modified": [
+    "cards/_characters/pawniard-line.md",
+    "cards/pokemon/sword-shield-base-set/133-202-pawniard.md",
+    "cards/pokemon/sword-shield-base-set/134-202-bisharp.md",
+    "cards/pokemon/black-bolt/064-086-pawniard.md",
+    "cards/pokemon/black-bolt/065-086-bisharp.md"
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "next_pass_suggestions": [
+    "Future-watch: Kingambit corpus print would close the triptych and move the line to full-triptych coverage state.",
+    "Future-watch: when SWSH Pawniard 133/202 and Bisharp 134/202 clear manual-review and receive vision/trivia passes, backfill the Cards-in-our-corpus bullets in pawniard-line.md with the per-card vision/trivia detail (currently they read 'manual-review-pending').",
+    "Future Edgelord candidate: Snivy 001-086 + Servine 002-086 are a within-Black-Bolt adjacent-collector-number same-artist (Susumu Maeya) evolution pair — currently 2 prints at 2 of 3 stages, below the 3+ prints / 2+ stages line-node threshold. If a Serperior or any further Snivy/Servine print enters corpus, commission a snivy-line node. Currently a clean 1:1 mirror edge between the two would be in-precedent but better deferred until the line crosses threshold.",
+    "Future Edgelord candidate: Dwebble 051-086 + Crustle 052-086 are a within-Black-Bolt adjacent-collector-number same-artist (Tetsu Kayama) evolution pair — same situation as Snivy/Servine, 2 prints at 2 of 2 stages (Crustle is the line's apex, no Stage-2 to wait for). Below the 3+ prints threshold by one. If any further Dwebble or Crustle print enters corpus, commission a dwebble-line node; otherwise consider a within-set 1:1 mirror edge in a future wave as the line's stable-coverage primary cohesion stack.",
+    "Future-watch: a `delayed-apex-evolutions` parent cohort node would be in-graph-vocabulary at the convention scope (Magnezone Gen IV, Tangrowth Gen IV, Rhyperior Gen IV, Yanmega Gen IV, Lickilicky Gen IV, Roserade Gen IV, Sylveon Gen VI, Kingambit Gen IX) but currently only Pawniard-line is the corpus's member-candidate. Defer until 3+ sibling delayed-apex cohort nodes are in graph."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "edge_id": "snivy-blb001--servine-blb002--unova-grass-starter-line-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/black-bolt/001-086-snivy.md",
+      "name": "Snivy (Black Bolt 001/086)"
+    },
+    {
+      "type": "card",
+      "path": "cards/pokemon/black-bolt/002-086-servine.md",
+      "name": "Servine (Black Bolt 002/086)"
+    }
+  ],
+  "description": "Within-Black Bolt adjacent-collector-number evolution-line 1:1 mirror, Unova Generation V Grass-starter line. Snivy (no. 495, Grass, base) -> Servine (no. 496, Grass, Stage 1, evolves from Snivy at level 17) — the species line's two canonical stages at adjacent BLB collector slots 001+002, single-artist-coordinated pair under Susumu Maeya. Designer-coordinated cross-stage flavor pair: Snivy's sunlit-quickening-by-photosynthesis biology + Servine's sliding-vine-whip mid-stage combat-style signature. Structural parallel and explicit completion of the BLB set's three within-set adjacent-collector evolution-line pairs alongside Dwebble 051 + Crustle 052 (Tetsu Kayama) and Pawniard 064 + Bisharp 065 (Oku) — all three pairs single-artist-coordinated within their respective slots, a within-set TCG-editorial cohesion pattern. Edge was explicitly staged in the dwebble-crustle wave's other_candidates_considered: 'Equally valid candidate for this wave; deferred to a future Edgelord invocation.'",
+  "citations": [
+    "[PokemonTCG.io: zsv10pt5-1 (Snivy) + zsv10pt5-2 (Servine) — flavor_text + evolvesTo / evolvesFrom fields]",
+    "[Bulbapedia: Snivy (Pokemon) species page — Pokedex no. 495, Grass-type, level-17 -> Servine, Pokemon Black/White 2010 introduction]",
+    "[Bulbapedia: Servine (Pokemon) species page — Pokedex no. 496, Grass-type, evolves from Snivy at level 17, evolves into Serperior at level 36]",
+    "[reports/edges_pending/dwebble-blb051--crustle-blb052--unova-rock-shell-line-evolution-mirror.json — explicit staging of this edge as deferred-to-future-wave candidate]"
+  ],
+  "files_modified": [
+    "cards/pokemon/black-bolt/001-086-snivy.md",
+    "cards/pokemon/black-bolt/002-086-servine.md"
+  ],
+  "other_candidates_considered": [
+    "snivy-line character node (Mr. Nodeley path) — REFUSED on threshold. All eleven existing Pokemon -line character nodes (charizard / caterpie / larvitar / mareep / pancham / phantump / ralts / rowlet / staraptor / pawniard / and tsukumogami-pokemon as the non-line collective) sit at 3+ corpus prints across 2+ sets at commission time; Snivy+Servine = 2 prints, 1 pair, 1 set. Below threshold by the same rigor that refused dwebble-line one wave ago. When a future Collectr CSV brings any further Snivy / Servine / Serperior print, the node becomes a Mr. Nodeley candidate. The discipline holds.",
+    "Braviary 078 solo node attach — no within-corpus partner. Rufflet (the pre-evolution) is not in BLB and not in current Pokemon corpus per checked file listing. No mirror is drawable this wave; if a future Rufflet print enters via Collectr CSV, a within-set or cross-set mirror becomes available then. Defer.",
+    "Snivy or Servine cross-print mirrors with other sets — none in corpus. The within-set adjacent-collector pair is the only cohesion stack available, which is sufficient — same shape as the just-drawn Dwebble/Crustle edge.",
+    "Pokemon-Unova-Generation-V-starters-trio parent-cohort node — REFUSED. The galar-starters-trio precedent requires all three starters present in corpus; current Unova starter coverage is Snivy + Servine only (no Tepig / Oshawott line prints in corpus). Below the galar-starters-trio threshold. When Tepig or Oshawott prints enter corpus, re-evaluate; the snivy-line node would precede the unova-starters-trio commission in the natural Mr. Nodeley sequence."
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "edgelord_voice_note": "Two card endpoints. Same set. Same artist. Adjacent collector slots. Evolution-line pair. The mirror is required. The sigh is professional, not personal. Identical-shape companion to the dwebble-crustle edge one wave ago — same set, same within-set-adjacent-pair pattern, different artist coordinating the within-set tightening. The previous Edgelord literally staged this edge as a next-pass candidate; one decision per invocation means I write it now. The snivy-line node refusal lands cleanly via the dwebble-line refusal precedent — eleven existing line-node thresholds all sit at 3+ prints, two prints is below threshold, Mr. Nodeley stays in the bottle for the second consecutive wave. The BLB set's three within-set single-artist-coordinated evolution-line pairs (Snivy/Servine Maeya, Dwebble/Crustle Kayama, Pawniard/Bisharp Oku) is now a noted recurrence in prose — three is not a 'cohort of pairs', it is three pairs, per Potion sub-rule 4 the pattern stays as prose-recurrence and does not graduate to a new graph primitive. Braviary stands alone this wave with no within-corpus partner, awaiting a future Rufflet pull."
+}

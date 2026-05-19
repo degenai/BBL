@@ -71,8 +71,8 @@ tags:
 
 ![36-204-the-horned-king-wicked-ruler](../../_images/lorcana/whispers-in-the-well/36-204-the-horned-king-wicked-ruler.jpg)
 
-> [!warning] Suspected IP: **The Horned King (Disney / The Black Cauldron)** (confidence: high, verified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **The Horned King (Disney / The Black Cauldron)**
+> Confirmed via card name, set context (Whispers in the Well is The Black Cauldron's debut in Lorcana), and Ravensburger official oracle text naming the character directly. [disneylorcana.com; wiki.mushureport.com]
 
 A dynamic wide composition depicting the Horned King, a skeletal undead figure in dark flowing robes with two prominent horns rising from his head. His face is gaunt and skull-like with glowing eyes. He raises one hand which crackles with sickly yellow-green magical energy. Heavy chains hang from his figure. Behind and above him looms the massive skull of a dragon or beast, jaws open, rendered in pale blue-grey against a swirling background of toxic greens and yellows. The overall palette is poisonous greens, yellows, deep purples, and black, creating an atmosphere of necromantic corruption. The card name and artist credit (Julian del Rey) confirm this is The Horned King from Disney's The Black Cauldron.
 
@@ -89,3 +89,23 @@ A dynamic wide composition depicting the Horned King, a skeletal undead figure i
 **Iconography:** horns, glowing-hand, chains, dragon-skull
 **Genre cues:** fantasy, dark-fantasy, animation
 
+## Trivia
+
+- **Set context** — Whispers in the Well is Lorcana's 10th set, released November 14, 2025. It is the first Lorcana set to include characters from Disney's The Black Cauldron (1985), Gargoyles (1994-1997), and The Legend of Sleepy Hollow — three properties new to the card game. The Horned King serves as the flagship villain introduction for the Black Cauldron debut. `[lorcanaplayer.com/set/whispers-in-the-well/; sagaconcepts.com/blog/whispers-in-the-well]`
+
+- **Design** — Amethyst ink Super Rare, stats 3 Strength / 4 Willpower / 2 Lore, type classifications Villain / King / Sorcerer / Floodborn. The Floodborn subtype marks this as the Shifted upgrade version of a cheaper Horned King base card (The Horned King - Triumphant Ghoul). Shift 2 allows playing this card at a discount on top of that base. Illustrated by Julian del Rey. `[oracle_text field (Ravensburger official data); lorcanaplayer.com]`
+
+- **IP context** — The Horned King is the main antagonist of Disney's The Black Cauldron (1985), the studio's 25th animated feature and one of the first Disney films to receive a PG rating. He seeks the Black Cauldron to raise an undead army called the Cauldron Born. He was voiced by John Hurt. The film is adapted from Lloyd Alexander's Chronicles of Prydain series; the film version merges the Horned King with the source material's spirit Arawn. `[Disney Wiki: Horned King; CBR: 'The Black Cauldron's Horned King Remains Disney's Scariest Villain']`
+
+- **Mechanical resonance** — The ON THE MOVE ability (returns to hand when challenged, preventing all combat damage) creates a recursive evasion loop: the card cannot be destroyed through normal challenge. Combined with ARISE! (return a banished ally to hand), the card generates sustained card advantage through attrition. Community on LorcanaPlayer describes this as making the card "difficult to permanently remove" and synergistic with aggressive challenge-baiting lines. `[Community sentiment, lorcanaplayer.com card analysis]`
+
+### Related cards
+- The Horned King - Triumphant Ghoul (Whispers in the Well) — Epic version; the Shift base target for Wicked Ruler
+- The Horned King (Enchanted, Whispers in the Well, no. 049) — Chase Enchanted variant; noted as highest-value card in the set
+- Taran - Assistant Pig-Keeper (TBD) — The Black Cauldron protagonist; natural narrative counterpart if printed
+
+## IP
+
+> [!warning] IP: The Horned King (Disney / The Black Cauldron, 1985)
+> Disney-owned character. Lorcana is an officially licensed Disney product by Ravensburger — no third-party conflict. External Disney IP, but fully licensed here.
+> Sources: `[Disney Wiki: Horned King]` `[Ravensburger Lorcana official oracle data]`

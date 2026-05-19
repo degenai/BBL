@@ -1,0 +1,41 @@
+{
+  "card_name": "The Horned King - Wicked Ruler",
+  "game": "Lorcana",
+  "set": "Whispers in the Well",
+  "collector_number": "36/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card is named 'The Horned King' and frontmatter already has ip_verified: true. The card name, set context, and oracle text ('Shift 2: play on top of one of your characters named The Horned King') are direct canonical identifiers. The Horned King is the main antagonist of Disney's 1985 animated film The Black Cauldron, voiced by John Hurt. Whispers in the Well (Set 10) is confirmed as The Black Cauldron's first appearance in Lorcana. Vision callout required cleanup from unverified to verified state.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Whispers in the Well is Lorcana's 10th set, released November 14, 2025. It marks the debut of three Disney properties in the card game: The Black Cauldron (1985), the animated series Gargoyles (1994-1997), and The Legend of Sleepy Hollow. The Horned King is the flagship villain introduction from The Black Cauldron. [WebSearch snippet from lorcanaplayer.com and Saga Concepts preview article]",
+      "sources": ["lorcanaplayer.com/set/whispers-in-the-well/", "sagaconcepts.com/blog/whispers-in-the-well"]
+    },
+    {
+      "category": "design",
+      "text": "The card is an Amethyst ink Super Rare with stats 3 Strength / 4 Willpower / 2 Lore. It carries three type classifications: Villain, King, and Sorcerer, plus the Floodborn subtype (indicating a Shifted version of an existing character). The Shift 2 ability allows playing this version on top of a cheaper base Horned King card. Its ARISE! ability returns banished allies to hand, and ON THE MOVE sends the card to hand when challenged (preventing challenge damage entirely). [Scryfall-equivalent: oracle_text field; LorcanaPlayer card review]",
+      "sources": ["oracle_text in card frontmatter (Ravensburger official data)", "lorcanaplayer.com/card/the-horned-king-wicked-ruler/"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Horned King is the main antagonist of Disney's 1985 film The Black Cauldron, the studio's 25th animated feature and one of the first Disney animated films to receive a PG rating. He seeks the Black Cauldron to raise an army of undead warriors called the Cauldron Born. He was voiced by John Hurt. The film is adapted from Lloyd Alexander's Chronicles of Prydain series, though the film's Horned King diverges significantly from the book version — the film merges him with the spirit Arawn from the source mythology. [Disney Wiki / Villains Wiki via WebSearch]",
+      "sources": ["Disney Wiki: Horned King (disney.fandom.com/wiki/Horned_King)", "CBR: 'The Black Cauldron's Horned King Remains Disney's Scariest Villain'"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The ON THE MOVE ability is a defensive evasion mechanic: when challenged, the card returns to hand rather than taking damage, making the challenger waste their action. Combined with ARISE! (returning banished allies), the card creates a recursive, attrition-resistant play pattern. Community on r/Lorcana and LorcanaPlayer note this makes the card difficult to permanently remove and synergizes with aggressive challenge strategies that bait opposing removals. [Community sentiment, LorcanaPlayer card analysis]",
+      "sources": ["lorcanaplayer.com/card/the-horned-king-wicked-ruler/ (community sentiment)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "The Horned King - Triumphant Ghoul", "set": "Whispers in the Well", "note": "Epic rarity version of the same character; the Shift target for Wicked Ruler"},
+    {"name": "The Horned King (Enchanted)", "set": "Whispers in the Well", "note": "Chase Enchanted version (card 049) noted as highest-value card in the set"},
+    {"name": "Taran - Assistant Pig-Keeper", "set": "TBD", "note": "The Black Cauldron protagonist; would be natural companion/counterpart card if printed"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

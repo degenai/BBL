@@ -76,3 +76,15 @@ The frame is dominated by a violent eruption of orange-red flame and black smoke
 **Iconography:** explosion, fire-cloud
 **Genre cues:** fantasy, pulp-adventure
 
+## Trivia
+
+- **Set context and original printing** — Fiery Cannonade was first printed in Ixalan (September 2017, XLN no. 143) as an uncommon. Ixalan is a plane structured around four warring factions — the dinosaur-riding Sun Empire, the vampire conquistadors of the Legion of Dusk, the Brazen Coalition pirates, and the River Heralds merfolk — all converging on the Immortal Sun. This copy is from Commander Legends (November 2020), where it was reprinted at common. `[Scryfall; WebSearch: Ixalan set]`
+- **Flavor text — Ixalan faction conflict** — `"Wary of the ferocious dinosaurs, the Legion of Dusk built up the walls of their fort—just in time for the pirates to burn them down."` `[Scryfall]` The Legion of Dusk is the military arm of Alta Torrezon, an ecclesiastic vampire monarchy whose nobles undergo the Rite of Redemption — a ritual vampirism bestowed by the church — to serve as conquistadors seeking the Immortal Sun on Ixalan. The flavor text encodes three of Ixalan's four factions in a single sentence: the dinosaurs (Sun Empire's weapons), the Legion's fortifications, and the Brazen Coalition pirates' fire. `[Wizards: Planeswalker's Guide to Ixalan Part 2, 2017, via WebSearch]`
+- **Mechanical design** — Fiery Cannonade deals 2 damage to each non-Pirate creature, making it a tribal-board-sweeper that rewards Pirate decks by leaving their own creatures intact. The mechanic is specific to Ixalan's block and meaningfully cross-references the tension embedded in the flavor text: pirates use the cannon fire, everyone else takes damage. `[Scryfall oracle text]`
+- **Community use** — Fiery Cannonade is a staple in Commander Pirate-tribal decks, valued as a low-cost mass damage spell that avoids killing the deck's own creatures. EDHREC rank 10,223; legal in Pauper, Modern, Legacy, Vintage, and Commander formats. `[Scryfall; EDHREC rank from Scryfall data]`
+
+### Related cards
+- Fiery Cannonade (Ixalan, 143) — original printing, uncommon rarity, Ben Wootten art
+- Dire Fleet Ravager (Ixalan) — Legion of Dusk vampire pirate; same Ixalan faction setting
+- Elenda, the Dusk Rose (Rivals of Ixalan) — founding figure of the Legion of Dusk; named in Ixalan lore as the vampire who brought the Rite of Redemption to Torrezon
+- Huatli, Warrior Poet (Ixalan) — Sun Empire champion; the dinosaur-riders whose presence drove the Legion to build the fort mentioned in the flavor text

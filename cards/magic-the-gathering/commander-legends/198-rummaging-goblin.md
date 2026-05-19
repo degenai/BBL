@@ -79,3 +79,14 @@ A wiry green-skinned goblin with long pointed ears, jutting lower tusks, and a w
 **Creatures:** goblin
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set / origin context** — Rummaging Goblin was first printed in Magic 2013 (M13, July 2012), a core set. It was reprinted in Magic 2015, Ixalan, The List, Commander Legends, and Jumpstart 2022 — six total printings as of 2022. Karl Kopinski illustrated all printings; the same composition has appeared across every version of the card. `[Scryfall]` `[artofmtg.com]`
+- **Flavor text** — "To a goblin, value is based on the four S's: shiny, stabby, smelly, and super smelly." The line has no attributed speaker, which keeps it as ambient goblin-world flavor rather than a character quote. `[Scryfall]`
+- **Mechanical role** — The loot ability ({T}, Discard a card: Draw a card) makes Rummaging Goblin one of the cleanest discard-enablers for red at common, useful in graveyard-synergy decks that want to pitch specific cards. Its EDHREC rank of 9706 is higher than several rarer CMR cards in this batch, reflecting consistent inclusion in budget red Commander builds that want a repeatable discard outlet. `[Scryfall]` `[EDHREC]`
+- **Artist note** — Karl Kopinski's personal portfolio site features both the original M13 illustration and a holographic variant as separate gallery entries under "Rummaging Goblin" and "Rummaging Goblin (H)," indicating Kopinski kept original paintings or produced variant art for the card — a relatively rare artist archiving practice. `[karlkopinski.com]`
+
+### Related cards
+- Faithless Looting (Conspiracy: Take the Crown, 100) — red looting spell, same discard-to-draw design space
+- Magmatic Channeler (Zendikar Rising, 149) — red goblin that uses discard as an engine upgrade
+- Goblin Lore (Tenth Edition, 201) — older red goblin discard/draw effect, flavor-adjacent

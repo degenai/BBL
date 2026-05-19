@@ -76,3 +76,14 @@ A mid-shot of a green-skinned figure — likely an orc or elf warrior — caught
 **Iconography:** raised-weapon, open-mouth-roar
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set / origin context** — Undying Rage was first printed in Time Spiral (TSP, October 2006), a set defined by its "timeshifted" frame cards and its explicit design homage to older Magic sets. The card's self-recurring mechanic — returning to hand when it dies — echoes Time Spiral's preoccupation with cyclical, undying power. The card has since appeared in Duel Decks: Heroes vs. Monsters and Commander Legends, totaling multiple printings. `[Scryfall]` `[echomtg.com]`
+- **No flavor text** — Scryfall confirms the CMR printing of Undying Rage has no flavor text; the card lets its art and name carry the emotional weight. `[Scryfall]`
+- **Mechanical note** — Undying Rage is an Aura enchantment that grants +2/+2 and forces the enchanted creature to attack (can't block), with a built-in recursion: when it leaves the battlefield it returns to its owner's hand. This prevents it from being a permanent two-for-one, making it stickier than comparable pump Auras. It is legal in Pauper and Modern, with an EDHREC rank of 16863. `[Scryfall]` `[EDHREC]`
+- **Artist** — Scott M. Fischer has illustrated over 165 Magic cards since the mid-1990s. His portfolio site (`scottmfischer.com`) tracks original game art and artist proofs, making him one of the more commercially active legacy MTG illustrators in the secondary artist-proof market. `[Scryfall]` `[scottmfischer.com]`
+
+### Related cards
+- Reckless Charge (Odyssey, 213) — earlier red pump spell with recursion, similar design space
+- Bestial Fury (Mirage, 167) — original recursive red Aura, ancestor of this design
+- Goblin War Paint (Magic 2012, 143) — red Aura granting +2/+2 and haste, direct mechanical cousin

@@ -1,0 +1,53 @@
+{
+  "card_name": "Undying Rage",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "205",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Undying Rage was first printed in Time Spiral (TSP, October 2006), a set defined by its timeshifted frame cards and explicit design homage to older Magic sets. The card's self-recurring mechanic echoes Time Spiral's preoccupation with cyclical, undying power. It has since appeared in Duel Decks: Heroes vs. Monsters and Commander Legends, totaling multiple printings.",
+      "sources": ["Scryfall", "echomtg.com"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "No flavor text. Scryfall confirms the CMR printing of Undying Rage carries no flavor text; the card lets its art and name carry the emotional weight.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Undying Rage is an Aura that grants +2/+2 and forces the enchanted creature to attack (can't block), with built-in recursion: when it leaves the battlefield it returns to its owner's hand. This prevents the permanent two-for-one that kills most Auras, making it stickier than comparable pump Auras. Legal in Pauper and Modern; EDHREC rank 16863.",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Scott M. Fischer has illustrated over 165 Magic cards since the mid-1990s. His portfolio site tracks original game art and artist proofs, making him one of the more commercially active legacy MTG illustrators in the secondary artist-proof market.",
+      "sources": ["Scryfall", "scottmfischer.com"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Reckless Charge",
+      "set": "Odyssey",
+      "note": "Earlier red pump spell with recursion via flashback, similar design space"
+    },
+    {
+      "name": "Bestial Fury",
+      "set": "Mirage",
+      "note": "Original recursive red Aura, potential ancestor of this design"
+    },
+    {
+      "name": "Goblin War Paint",
+      "set": "Magic 2012",
+      "note": "Red Aura granting +2/+2 and haste, direct mechanical cousin"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

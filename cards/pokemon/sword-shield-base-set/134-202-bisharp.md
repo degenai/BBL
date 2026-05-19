@@ -31,6 +31,8 @@ oracle_text: "Charge Order (Colorless) 30+: This attack does 30 more damage for 
 image_width: 734
 image_height: 1024
 image_quality: high
+characters:
+  - pawniard-line
 tags:
   - card
   - pokemon

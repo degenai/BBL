@@ -1,0 +1,40 @@
+{
+  "card_name": "Runesword",
+  "game": "Magic: The Gathering",
+  "set": "Chronicles",
+  "collector_number": "106",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Runesword was first printed in The Dark (August 1994), set in the aftermath of the Brothers' War Sylex Blast: a world of cold, shadow, and anti-magic religious persecution. This gothic medieval-European aesthetic defined the card's dark-fantasy tone.",
+      "sources": ["MTG Wiki: The Dark, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Chronicles (July 1995) copy in the inventory is from Magic's first reprint compilation set. Chronicles reprinted cards from Arabian Nights, Antiquities, Legends, and The Dark; its market impact was so severe it directly prompted Wizards to create the Reserved List. Runesword was uncommon in The Dark but was downgraded to common in Chronicles.",
+      "sources": ["MTG Wiki: Chronicles, via WebSearch", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Christopher Rush (1965–2016), one of the original 25 MTG artists. Rush painted Black Lotus and also helped design the five mana-color symbols. He worked on Magic from Alpha through several early sets.",
+      "sources": ["Wikipedia: Christopher Rush, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Approximately one-third of Runesword copies from The Dark carry a documented misprint: an uneven black line across the text box resembling a hair caught in the printing press. Scryfall catalogues this variant separately as card 107† (daggered). The Chronicles reprint does not carry this defect.",
+      "sources": ["WebSearch: eBay misprint listings; Scryfall DRK 107†"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Runesword", "set": "The Dark", "note": "Original printing (uncommon); Christopher Rush art; site of the famous 'hairy' misprint variant"},
+    {"name": "Runesword", "set": "The Dark", "note": "Misprint variant (DRK 107†) — Scryfall catalogues separately"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

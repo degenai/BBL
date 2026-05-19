@@ -31,6 +31,8 @@ oracle_text: Cut Up (Colorless) 10\nMetal Claw (MetalColorless) 20
 image_width: 734
 image_height: 1024
 image_quality: high
+characters:
+  - pawniard-line
 tags:
   - card
   - pokemon

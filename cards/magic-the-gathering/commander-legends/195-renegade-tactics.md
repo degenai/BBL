@@ -77,3 +77,14 @@ A warm, red-saturated interior scene set in what appears to be an opulent Kalade
 **Creatures:** horse
 **Genre cues:** fantasy, heist, steampunk-adjacent
 
+## Trivia
+
+- **Set / origin context** — Renegade Tactics was first printed in Kaladesh (KLD, September 2016), a set built around the plane of Kaladesh (later renamed Avishkar) and its central conflict between the autocratic Consulate and the insurgent Renegades led by Pia Nalaar. The card is a direct mechanical expression of that faction's guerrilla ethos: disrupt, evade, advance. `[Scryfall]` `[magic.wizards.com: Planeswalker's Guide to Kaladesh]`
+- **Flavor text** — "Nothing against you. It's just that waiting for Consulate clearance was never really my thing." The speaker is unnamed but the voice is pure Renegade: personal, apologetic-but-not-really, anti-bureaucratic. The Consulate required permits and clearance for aether use and public movement; sidestepping that clearance is the whole point of the Renegade faction. `[Scryfall]`
+- **Mechanical footprint** — At one red mana, Renegade Tactics combines a combat trick (make a blocker step aside) with card draw, a combination rare at common rarity. It holds a Pauper-legal status and an EDHREC rank of 3409 across all formats, making it one of the more-played cards in this CMR common slot. `[Scryfall]` `[EDHREC]`
+- **Reprint history** — The CMR printing is the card's second major appearance, following Kaladesh and preceding a Jumpstart: Historic Horizons digital print. The same Yeong-Hao Han illustration carries across all printings. `[Scryfall]`
+
+### Related cards
+- Pia Nalaar (Kaladesh, 137) — leader of the Renegades; the faction Renegade Tactics names in its title
+- Aetherstorm Roc (Kaladesh, 3) — another Kaladesh card depicting Renegade aerial operations against Consulate forces
+- Bastion Inventor (Aether Revolt, 37) — Kaladesh block Renegade creature with improvise, shares the anti-Consulate faction

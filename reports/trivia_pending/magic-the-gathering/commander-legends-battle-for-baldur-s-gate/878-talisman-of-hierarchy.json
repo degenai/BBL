@@ -1,0 +1,42 @@
+{
+  "card_name": "Talisman of Hierarchy",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends: Battle for Baldur's Gate",
+  "collector_number": "878",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Talisman of Hierarchy was first printed in Modern Horizons (June 2019, MH1 no. 233), completing the enemy-colored half of the ten-card Talisman cycle. The ally-colored five Talismans existed since Mirrodin (2003); Modern Horizons added the five enemy-color pairs for the first time. This copy is from Commander Legends: Battle for Baldur's Gate (June 2022).",
+      "sources": ["Scryfall", "WebSearch: Draftsim Modern Horizons"]
+    },
+    {
+      "category": "design",
+      "text": "All five enemy-colored Talismans in Modern Horizons were painted by Lindsey Look, who crafted physical clay-and-Swarovski-crystal reference models for each piece. The Talisman of Hierarchy original sold for $4,550 in September 2019 — top lot of the five-piece auction — and featured a chess set as its central design motif.",
+      "sources": ["Hipsters of the Coast: Modern Horizons Talisman Cycle by Lindsay Look Sold, 2019"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"You'll never get to the top if you don't know who's already there.\" — Kaya. Kaya Cassir is a planeswalker ghost-assassin who served as nominal Orzhov guildmaster on Ravnica; her tenure was trapped by a Guildpact clause that assigned all outstanding Orzhov debts to her personally.",
+      "sources": ["Scryfall", "MTG Wiki: Kaya Cassir, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 135; appears in approximately 532,000 Commander decks (26.4% inclusion rate). One of the most-played mana rocks in the format. Outperforms Orzhov Signet in many mana-base designs because it taps for colorless without requiring a colored mana input.",
+      "sources": ["EDHREC: Talisman of Hierarchy, via WebSearch", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Talisman of Dominance", "set": "Mirrodin", "note": "Ally-colored Talisman (blue/black); from the original 2003 cycle"},
+    {"name": "Talisman of Progress", "set": "Mirrodin", "note": "Ally-colored Talisman (white/blue); original 2003 cycle"},
+    {"name": "Orzhov Signet", "set": "Ravnica: City of Guilds", "note": "Same Orzhov color identity; same function class; older and slower"},
+    {"name": "Talisman of Creativity", "set": "Modern Horizons", "note": "Izzet cycle companion; also painted by Lindsey Look with physical reference model"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

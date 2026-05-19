@@ -1,0 +1,42 @@
+{
+  "card_name": "Venerable Kumo",
+  "game": "Magic: The Gathering",
+  "set": "Champions of Kamigawa",
+  "collector_number": "248",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Champions of Kamigawa (released October 1, 2004) is set on the plane of Kamigawa, an MTG rendition of feudal Japan, during the Kami War — a prolonged conflict in which the spirit world (kami) suddenly turned hostile toward mortals. 'Kumo' is the Japanese word for spider (also cloud); kumo kami are spider spirits who play a role in the conflict. A neighboring card, Time of Need (CHK no. 247), carries flavor text referencing the Battle of Silk: 'When the kumo attacked the monks' sacred shrine, a mournful toll for help echoed through the forest. Thus began the Battle of Silk, which would last six years.' — establishing kumo as active combatants in the Kami War's lore. [Scryfall: Time of Need CHK flavor text, via WebSearch snippet]",
+      "sources": ["Scryfall: Time of Need (CHK) flavor text, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Venerable Kumo is a green common from Champions of Kamigawa with a single printing — it has never been reprinted. Illustrated by Carl Critchlow. It has no flavor text; Scryfall's flavor_text field is absent in the API response. The card has a 5-mana cost ({4}{G}) for a 2/3 body with Reach and Soulshift 4 — considered bulk filler even at time of release. [Scryfall API card data]",
+      "sources": ["Scryfall API card data (api.scryfall.com/cards/308566ed-18cc-4e3b-b5ab-d5b17795f2f1)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Soulshift 4 allows returning a Spirit card with mana value 4 or less from the graveyard to hand when Venerable Kumo dies — a recursion engine that rewards Spirit-heavy green builds. Reach lets it block flying creatures, complementing a ground-based Spirit web. Soulshift was a keyword unique to the Kamigawa block; it has never been reprinted on new cards outside the original block sets. Venerable Kumo's EDHREC rank of 28,254 reflects near-zero Commander adoption, consistent with its status as a bulk common. [Scryfall API]",
+      "sources": ["Scryfall API oracle_text, edhrec_rank fields"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Soulshift mechanic is mechanically coherent with Kamigawa's Spirit tribal theme and the plane's lore conceit: kami are spirits that can return to the mortal world, and Soulshift simulates that cycle of departure and return. The kumo spider kami specifically represent one of several hostile kami factions during the war. [MTG Wiki: Kami, via WebSearch snippet]",
+      "sources": ["MTG Wiki: Kami (mtg.fandom.com/wiki/Kami, via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Orbweaver Kumo", "set": "Champions of Kamigawa", "note": "Another kumo spider Spirit in the same set; gains forestwalk when a Spirit/Arcane spell is cast"},
+    {"name": "Kashi-Tribe Reaver", "set": "Saviors of Kamigawa", "note": "Snake Spirit that exemplifies Soulshift synergy in Kamigawa block"},
+    {"name": "Dripping-Tongue Zubera", "set": "Champions of Kamigawa", "note": "Common Spirit with Soulshift 1; anchors the cheap end of the Soulshift recursion chain"},
+    {"name": "Azusa, Lost but Seeking", "set": "Champions of Kamigawa", "note": "Green legend from the same set; represents mortal protagonists in the Kami War"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
