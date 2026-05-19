@@ -1,0 +1,41 @@
+{
+  "card_name": "Lasswell",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-043H",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Lasswell' printed directly on card. Card type Forward / Knight from Final Fantasy Brave Exvius — a named protagonist character confirmed in the game's lore as Rain's childhood friend and deuteragonist. The Square Enix Opus VIII press release explicitly names Lasswell as a featured character initially teased in Opus VII and brought to the forefront in Opus VIII. Verification is straightforward.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Square Enix Opus VIII press release (March 22, 2019) explicitly notes that Lasswell, along with Noctis from Final Fantasy XV, was 'initially teased in the Opus VII set' before being 'brought to the forefront' in Opus VIII with 'multiple new characters from each game.' This makes Lasswell one of the featured faces of the Opus VIII marketing, not a background inclusion. [Square Enix press release: press.na.square-enix.com/LATEST-FINAL-FANTASY-TRADING-CARD-GAME-OPUS-VIII-SET-NOW-AVAILABLE]",
+      "sources": ["Square Enix press release: press.na.square-enix.com/LATEST-FINAL-FANTASY-TRADING-CARD-GAME-OPUS-VIII-SET-NOW-AVAILABLE"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Lasswell is the deuteragonist of Final Fantasy Brave Exvius — a free-to-play mobile RPG developed by A-Lim and published by Square Enix (global version: gumi), released in Japan October 2015 and globally June 2016. He is Rain's childhood friend and adopted brother, raised by Rain's father Sir Raegen after his own parents were killed in his infancy. He is the focus character of Season Two of Brave Exvius. His signature weapon, the sword 'Purple Lightning,' is a memento from Sir Raegen and appears in the game's logo. [Final Fantasy Wiki (Fandom): Lasswell; Wikipedia: Final Fantasy Brave Exvius]",
+      "sources": ["Final Fantasy Wiki (Fandom): finalfantasy.fandom.com/wiki/Lasswell", "Wikipedia: en.wikipedia.org/wiki/Final_Fantasy_Brave_Exvius"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In FFTCG, Lasswell (8-043H) is a 4-cost Ice Forward (8000 power), Knight job, Category BE (Brave Exvius). Entry/attack trigger: choose 1 Forward; if it has received damage this turn, dull it and Freeze it (effectively removing it from combat for two turns). He also has 'Azure Sky S': choose 2 Forwards, deal 8000 damage to the first and dull and Freeze the other. FFTCG Crystarium rated him 4.5 in Opus VIII limited review, calling him 'Must Kill' and noting that 'with reliable access to fire CP, Lasswell deletes the opponent's strongest blocker for two turns.' [FFTCG Crystarium: 'How to Win Limited: Opus VIII Review'; WebSearch snippet]",
+      "sources": ["FFTCG Crystarium: fftcgcrystarium.com/limited-format/how-to-win-limited-opus-viii-review/"]
+    },
+    {
+      "category": "design",
+      "text": "Final Fantasy Brave Exvius received mixed critical reviews on Metacritic but was commercially successful — 5 million downloads in Japan alone by January 2016. Square Enix's decision to tease Lasswell in Opus VII and then front-load him in Opus VIII reflects the franchise's commercial weight in mobile gaming, despite Brave Exvius being a spinoff without the mainline series' critical pedigree. The game has since ended service (the global version shut down in December 2022). [Wikipedia: Final Fantasy Brave Exvius; Square Enix press release]",
+      "sources": ["Wikipedia: en.wikipedia.org/wiki/Final_Fantasy_Brave_Exvius", "Square Enix press release: March 22 2019"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rain (Brave Exvius)", "set": "various FFTCG sets", "note": "Lasswell's childhood friend and co-protagonist of Brave Exvius — likely also has FFTCG cards across sets"},
+    {"name": "Fina (Brave Exvius)", "set": "various FFTCG sets", "note": "Third primary protagonist of Brave Exvius who grants Rain and Lasswell their vision powers"},
+    {"name": "Lasswell (Opus VII teaser)", "set": "Opus VII", "note": "The Opus VII teaser version of Lasswell mentioned in the Opus VIII press release — earlier printing in the preceding set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

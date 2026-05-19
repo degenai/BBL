@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - magnifying-glass
+  - detective
+  - investigation
+  - arcane-object
+  - mystery
+  - artifact
+  - cobblestone
+  - lens
+  - tool
+  - magic-item
+  - bronze
+  - glow
+tags_filter:
+  - close-up
+  - no-face
+  - scene-mode
+  - colorless-magic
+  - artifact
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/255-magnifying-glass.png
 average_cost_paid: 0
 market_price: 0.27
@@ -29,7 +46,29 @@ oracle_text: "{T}: Add {C}.\\n{4}, {T}: Investigate. (Create a Clue token. It's 
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: other
+time_of_day: indeterminate
+setting: urban
 tags:
   - card
 ---
 # Magnifying Glass (Murders at Karlov Manor)
+
+## Vision
+
+![255-magnifying-glass](../../_images/magic-the-gathering/murders-at-karlov-manor/255-magnifying-glass.png)
+
+The art depicts two magnifying glasses with elaborate bronze scroll-worked handles, laid atop grey cobblestones. The larger lens dominates the right side of the composition, glowing with a soft blue-white magical aura along its rim. A smaller lens is attached by a hinge to the left. The handles are ornate with curved filigree detail. No figures are present — this is a pure object study rendered with warm metallic tones against cool stone.
+
+**Subject:** Two ornate bronze-handled magnifying glasses resting on cobblestone, emanating blue magical energy
+
+**Composition:** close-up, abstract, figures: none, facing: n/a
+**Setting:** urban, indeterminate
+**Foreground:** Two bronze ornate magnifying glasses with blue magical glow on cobblestone  *(palette: bronze, gold, blue-white, grey)*
+**Background:** Stone cobblestone pavement, shadowed and muted  *(palette: grey, brown, dark-tan)*
+**Mood / lighting:** other, soft
+**Emotion read:** no figures — object only
+**Objects:** magnifying-glass, cobblestone, magical-aura
+**Iconography:** lens, filigree, arcane-glow
+**Genre cues:** fantasy, mystery, steampunk-adjacent
+

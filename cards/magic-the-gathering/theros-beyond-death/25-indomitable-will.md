@@ -52,6 +52,7 @@ setting: mountain
 artist: Micah Epstein
 characters:
   - theros-pantheon
+  - iroas
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/25-indomitable-will--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/7/47772a34-c72f-44e8-b272-4ef2d2af5c82.jpg?1581479150
 flavor_text: \"Charge bravely. Fight selflessly. Act honorably. Iroas will watch over you.\"\n—Verenis, priest of Iroas

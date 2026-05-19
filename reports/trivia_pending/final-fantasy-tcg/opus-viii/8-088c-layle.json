@@ -1,0 +1,41 @@
+{
+  "card_name": "Layle",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-088C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Layle' is printed directly on the card. Card type is 'Backup / Crystal Bearer' from 'DFF / FFCC' (Dissidia Final Fantasy / Final Fantasy Crystal Chronicles). The figure's white and gold coat, goggles, and channeled blue crystalline orb match Layle's established visual design as protagonist of Final Fantasy Crystal Chronicles: The Crystal Bearers. Verification is straightforward — named character, named source on card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Layle is the protagonist of Final Fantasy Crystal Chronicles: The Crystal Bearers (Wii, released December 2009 in North America), a standalone Crystal Chronicles game set in the same universe but far into the future of the mainline FFCC timeline. In this future, the Lilty Kingdom has risen to dominance through crystal-based technology, and the Yuke race has nearly vanished. Magic-wielding 'Crystal Bearers' — those born with a crystal shard inside their body — are a feared and marginalized class. Layle, unlike most Bearers, openly wields his crystal powers rather than hiding them. [Final Fantasy Wiki (Fandom): Final Fantasy Crystal Chronicles: The Crystal Bearers; Wikipedia: same]",
+      "sources": ["Final Fantasy Wiki (Fandom): finalfantasy.fandom.com/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers", "Wikipedia: en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_The_Crystal_Bearers"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Layle is a Clavat Crystal Bearer whose crystal shard (visible as an embedded mark on his right cheek) grants gravity-based telekinetic powers — allowing him to grab, lift, drag, and throw almost any object or enemy in the environment. He works as a mercenary-for-hire. The Crystal Bearers received mixed critical reception on Wii, with Game Informer calling it 'spinning off in bad directions' and Metacritic aggregating mixed scores around 6-7/10 — making Layle one of FFTCG's inclusions from a lower-profile, critically divisive game. [Final Fantasy Wiki (Fandom): Layle; Metacritic: The Crystal Bearers; Game Informer review headline]",
+      "sources": ["Final Fantasy Wiki (Fandom): finalfantasy.fandom.com/wiki/Layle", "Metacritic: metacritic.com/game/final-fantasy-crystal-chronicles-the-crystal-bear/"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In FFTCG, Layle is a 2-cost Backup with the 'Crystal Bearer' job subtype. His sacrifice ability: put Layle into the Break Zone to choose 1 Summon of cost 4 or less and cancel its effect. FFTCG Crystarium notes he is 'particularly potent because of the wealth of good summons in this set, with cards like Alexander and Raiden at rare' — making him a high-priority common Backup in Opus VIII limited formats despite his low market value as a single. [FFTCG Crystarium: 'How to Win Limited: Opus VIII Review'; WebSearch snippet]",
+      "sources": ["FFTCG Crystarium: fftcgcrystarium.com/limited-format/how-to-win-limited-opus-viii-review/"]
+    },
+    {
+      "category": "design",
+      "text": "The card frame notes 'DFF / FFCC' as dual source tags, indicating the art or character version depicted draws from Dissidia Final Fantasy as well as the original Crystal Chronicles game — a pattern in FFTCG where characters who appeared in the Dissidia crossover franchise receive dual attribution. The 'ghosted portrait' art layout visible in the card is a common FFTCG stylistic choice for Backup cards, showing both a full-body action pose and a face close-up simultaneously. [Card frame: Layle 8-088C; FFTCG card design convention]",
+      "sources": ["Card frame metadata: 8-088C"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Alexander (Opus VIII)", "set": "Opus VIII", "note": "High-value Summon that Layle's counter-summon ability is specifically noted to check"},
+    {"name": "Raiden (Opus VIII)", "set": "Opus VIII", "note": "Fellow high-value Rare Summon in Opus VIII that contextualizes Layle's anti-summon utility"},
+    {"name": "Amidatelion (various FFTCG sets)", "set": "various", "note": "Yuke character from Crystal Chronicles; thematic connection to the near-extinction of the Yuke race in Layle's setting"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

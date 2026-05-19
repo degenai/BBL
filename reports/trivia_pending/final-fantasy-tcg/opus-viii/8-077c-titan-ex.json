@@ -1,0 +1,41 @@
+{
+  "card_name": "Titan EX",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-077C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card type is 'Summon' from Final Fantasy XI. Titan is a canonical, named recurring summon across the Final Fantasy franchise debuting in FFIII. The 'EX' suffix designates the harder-difficulty encounter variant specific to FFXI's avatar battle system. Visual depiction (massive rocky earth giant with blue beaded accessories) matches FFXI's Titan art style. Verification is straightforward for a named recurring franchise entity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Titan is one of Final Fantasy's oldest recurring summons, first appearing in Final Fantasy III (Famicom, 1990) as a Hyper Summon Magic spell. In Final Fantasy IV, Titan appears as the summon Rydia's grief triggers in the destruction of Mist Village — among the earliest emotionally dramatic summon moments in the series. Titan has since appeared across FFIII, IV, V, VII, XI, XIV, XV, and XVI. [Final Fantasy Wiki (Fandom): Titan (summon)]",
+      "sources": ["Final Fantasy Wiki (Fandom): finalfantasy.fandom.com/wiki/Titan_(summon)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Final Fantasy XI, Titan is the earth-element Avatar — one of the eight 'Sleeping Gods,' celestial beings tied to the eight elements of Vana'diel and represented as constellations on the Stellar Map. His origin myth tells of a giant who befriended a girl named Daemdalus; when the city threatened his life, she defended him and both souls were called to the heavens by the goddess Altana, transforming the giant into the Celestial Avatar of Earth. Daemdalus is also the name of the brightest star in Titan's constellation. [Final Fantasy Wiki (Fandom): Titan (Final Fantasy XI); FFXIclopedia: Titan]",
+      "sources": ["Final Fantasy Wiki (Fandom): finalfantasy.fandom.com/wiki/Titan_(Final_Fantasy_XI)", "FFXIclopedia: ffxiclopedia.fandom.com/wiki/Titan"]
+    },
+    {
+      "category": "design",
+      "text": "The 'EX' suffix in the card name refers to the harder-difficulty variant of the FFXI avatar battle — FFXI's avatar system has a standard and an EX ('Burning Circle Notorious Monster') mode, with the EX encounter being the more powerful version players can challenge. The FFTCG card's EX Burst ability — choose 1 Forward; it gains +1000 power for each Earth Backup you control — ties the mechanical identity of an Earth-stacking Backup engine to the summon's earth-colossus flavor. [WebSearch snippet via Sequence Comics card listing; FFXI lore: FFXIclopedia Avatar system]",
+      "sources": ["WebSearch snippet: sequencecomics.ca Titan EX 8-077C listing", "FFXIclopedia: Prime Avatars Guide"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Common Summon, Titan EX carries an EX Burst — meaning when an opponent's damage flip reveals this card in the damage zone, its effect fires automatically before any player can respond (EX Bursts resolve immediately and bypass the normal stack). In an Earth-heavy Backup deck, the power bonus scales sharply: with three or four Earth Backups in play, a single Titan EX fires for +3000 or +4000 power, potentially swinging combat math mid-damage-step. [FFTCG Crystarium: 'Rules Processing No. 6 — EX Bursts'; Square Enix FFTCG FAQ]",
+      "sources": ["FFTCG Crystarium: fftcgcrystarium.com/rules/rules-processing-6-ex-bursts-akstar/", "Square Enix FFTCG FAQ: fftcg.square-enix-games.com/na/play-article/faq"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Titan (various FFTCG sets)", "set": "multiple", "note": "Non-EX Titan cards appear in other Opus sets — same character, different difficulty rendering"},
+    {"name": "Ifrit EX / Shiva EX (various FFTCG sets)", "set": "multiple", "note": "The EX-mode naming convention is shared with other avatar encounter variants in the FFTCG line"},
+    {"name": "Leviathan EX", "set": "various", "note": "Parallel EX-tier avatar summon from FFXI roster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

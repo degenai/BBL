@@ -1,0 +1,40 @@
+{
+  "card_name": "Apururu",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-069R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Apururu' directly printed on card, card type labeled 'Backup / Mage' from Final Fantasy XI, and Tarutaru race depiction matches canonical lore. The figure's beret, earth-toned robes, and warm wooden interior are consistent with FFXI's Windurst aesthetic. Verification is straightforward — named character, named source game on card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (released March 22, 2019) is a 149-card set that marked the FFTCG franchise milestone of 180 million cards shipped worldwide. The set spotlighted Final Fantasy XV and Final Fantasy Brave Exvius as its headlining IPs, while FFXI characters like Apururu appeared as supporting inclusions alongside FFXIV: Stormblood and Crystal Chronicles. [Square Enix press release, March 22 2019]",
+      "sources": ["Square Enix press release: press.na.square-enix.com/LATEST-FINAL-FANTASY-TRADING-CARD-GAME-OPUS-VIII-SET-NOW-AVAILABLE"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Apururu is a Tarutaru minister of the Federation of Windurst's Monastery in Final Fantasy XI, responsible for maintaining Windurst's Cardian (animated playing-card soldier) forces. She is the daughter of Zonpa-Zippa, the Cardian inventor who headed the Monastery before her. Her brother Ajido-Marujido is the rogue minister of the rival Orastery. The Monastery suffered persistent budget shortfalls under her tenure, forcing her into unconventional financial schemes to keep the ministry operational. [Final Fantasy Wiki, Fandom: Apururu; FFXIclopedia: Apururu]",
+      "sources": ["Final Fantasy Wiki (Fandom): finalfantasy.fandom.com/wiki/Apururu", "FFXIclopedia: ffxiclopedia.fandom.com/wiki/Apururu"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In FFTCG, Apururu is an Earth-element Backup whose cost is reduced by 1 for each Backup you already control — making her effectively free in a developed board. When she enters the field, you may retrieve any 1 Character from your Break Zone to hand, enabling recursion and splash-element recovery. FFTCG Crystarium rates her a 3 in the Opus XII All-Star Draft and notes 'once you get her cost down to 3 or even 2, she is truly an incredible Backup,' adding that she enables splash strategies by letting you discard off-element cards early for Crystal Points and retrieve them later. [WebSearch snippet: FFTCG Crystarium, 'How to Win Limited: Backups']",
+      "sources": ["FFTCG Crystarium: fftcgcrystarium.com/limited-format/how-to-win-limited-backups/", "WebSearch snippet: totalcards.net card listing (card effect text)"]
+    },
+    {
+      "category": "design",
+      "text": "As a Trust NPC in Final Fantasy XI, Apururu (UC) is considered by the FFXI community to be the strongest healing Trust in the game, functioning as WHM/RDM with access to the ability 'Nott' for additional MP recovery. Her card design mirrors this role — she is typed Mage/Backup, not a Forward, reflecting her in-game status as a support-tier NPC companion rather than a frontline combatant. [FFXIclopedia: Trust: Apururu (UC); WebSearch snippet via Twinfinite FFXI Trusts guide]",
+      "sources": ["FFXIclopedia: ffxiclopedia.fandom.com/wiki/Trust:_Apururu_(UC)", "Twinfinite: twinfinite.net/guides/ffxi-best-trusts/"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ajido-Marujido", "set": "various FFTCG sets", "note": "Apururu's brother and canonical foil — the rogue Orastery minister; likely appears elsewhere in FFTCG"},
+    {"name": "Shantotto", "set": "various FFTCG sets", "note": "The most prominent FFXI Tarutaru in FFTCG; shares Windurst/Federation lore context with Apururu"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Yuffie (Hero)",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-064H",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Yuffie' printed directly on card. Card type is Forward / Ninja, Category VII. Visual design matches Yuffie Kisaragi's canonical attire from Final Fantasy VII: green crop top, yellow scarf, denim shorts, fishnet arm coverings. The card is titled 'Yuffie (Hero)' indicating it is the Hero-rarity printing of this named character. Verification is straightforward.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Yuffie Kisaragi is one of two optional party members in Final Fantasy VII (1997), alongside Vincent Valentine. She is a 16-year-old Wutaian ninja who steals Materia from travelers to fund her goal of restoring Wutai — her homeland, once a militaristic nation that lost its identity after Shinra turned it into a resort town. Her father, Godo Kisaragi, is Wutai's leader and her complex foil. Yuffie is encountered as the 'Mystery Ninja' in forests across the overworld and must be recruited through a dialogue-choice minigame — players who fail or flee miss her entirely. [Final Fantasy Wiki (Fandom): Yuffie Kisaragi; Wikipedia: Yuffie Kisaragi]",
+      "sources": ["Final Fantasy Wiki (Fandom): finalfantasy.fandom.com/wiki/Yuffie_Kisaragi", "Wikipedia: en.wikipedia.org/wiki/Yuffie_Kisaragi"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Opus VIII was released in 2019, two years before Final Fantasy VII Remake Intergrade (2021) elevated Yuffie from optional FFVII character to protagonist of the INTERmission DLC — in which 16-year-old Yuffie and her partner Sonon Kusakabe infiltrate Midgar to steal Shinra's 'ultimate materia' for Wutai. Square Enix used INTERmission to canonize Yuffie as essential to the Remake saga, having previously nearly cut her from the original 1997 release. The Opus VIII card represents her pre-Remake status as a beloved but secondary party member. [Kotaku: 'Yuffie Mission Is A Must-Play'; Final Fantasy Wiki: Yuffie Kisaragi (VII Remake)]",
+      "sources": ["Kotaku: kotaku.com/final-fantasy-vii-remake-intergrade-s-yuffie-mission-is-1847082454", "Final Fantasy Wiki (Fandom): Yuffie Kisaragi (VII Remake party member)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In FFTCG, Yuffie (Hero) (8-064H) is a 2-cost Wind Forward (5000 power) with the Ninja job, Category VII. Conditional effect: if you control 3 or more other Category VII Characters, Yuffie gains +2000 power and Haste. Attack trigger: deal 1000 damage to all Forwards the opponent controls. FFTCG Crystarium rated this version 1.5 in Opus VIII limited review, noting '1k just isn't enough damage to really do much with, especially when attached to a trigger so unwieldy as attacking' and that the Category VII buff 'is almost impossible to set up' — making this a weak limited card despite the strong character IP. A Starter Set version of Yuffie also exists in Opus VIII (8-064S), suggesting she had at least two printings in the same set. [FFTCG Crystarium: 'How to Win Limited: Opus VIII Review'; TCGPlayer listings]",
+      "sources": ["FFTCG Crystarium: fftcgcrystarium.com/limited-format/how-to-win-limited-opus-viii-review/", "TCGPlayer: Yuffie (Hero) and Yuffie (Starter) Opus VIII listings"]
+    },
+    {
+      "category": "design",
+      "text": "The 'Hero' rarity designation in FFTCG sits above Rare but below Legend — it typically indicates a foil premium version of a named protagonist card, often with alternate or enhanced art compared to lower-rarity printings. Yuffie's market price of $1.73 in this card's frontmatter is notably higher than the Common cards in this set, consistent with Hero-rarity premium positioning despite the card's assessed limited-format weakness. [FFTCG card frame: 8-064H rarity designation; frontmatter market_price]",
+      "sources": ["Card frontmatter: market_price 1.73; FFTCG card rarity structure"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Yuffie (Starter) (Opus VIII)", "set": "Opus VIII", "note": "Alternate Starter Set printing of Yuffie in the same set — Opus VIII FFVII Starter deck"},
+    {"name": "Cloud (Opus VIII)", "set": "Opus VIII", "note": "Fellow Category VII party member; Opus VIII FFVII Starter Set is built around Cloud, Tifa, and the FFVII roster"},
+    {"name": "Tifa (Opus VIII)", "set": "Opus VIII", "note": "Named in the Square Enix press release as a featured FFVII Starter Set character alongside Cloud"},
+    {"name": "Vincent Valentine (various FFTCG sets)", "set": "various", "note": "The other optional party member in FFVII — natural thematic parallel to Yuffie's optional recruitment narrative"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "card_name": "Monk",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-087C",
+  "task_profile": "ip-priority",
+  "ip_decision": "refute",
+  "ip_outcome_note": "The vision flag 'Monk job-class character (Final Fantasy XIV)' at low confidence was correct to flag but is not a named individual IP. The card name is literally 'Monk' — a recurring generic job-class Backup in FFTCG. Monk has appeared as a generic job Backup across at least Opus I (1-120C) and Opus II (2-089C) in addition to Opus VIII, confirming this is a repeating archetype card, not a depiction of any named FFXIV character. No named character evidence exists in card text, flavor text, Wizards-equivalent article, or visual identifier. Refuting the 'suspected individual character' framing; FFXIV source-game attribution is correct but no named IP is present.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Monk is a recurring generic job-class Backup in FFTCG, appearing across at least Opus I (1-120C), Opus II (2-089C), and Opus VIII (8-087C). These cards represent the Monk archetype across Final Fantasy titles rather than depicting a named individual character — a design pattern in FFTCG where generic job classes appear as low-cost Backup enablers separate from the named-character Forward cards. [FFTCG Mognet card database: fftcgmognet.com/card/1-120C and 2-089C]",
+      "sources": ["FFTCG Mognet: fftcgmognet.com/card/1-120C", "FFTCG Mognet: fftcgmognet.com/card/2-089C"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Final Fantasy XIV, Monk (MNK) is a Disciple of War melee DPS job evolved from the Pugilist class, unlocked at level 30. The Pugilists' Guild is based in Ul'dah. The FFXIV Monk's lore connects to two martial traditions: the ancient Fist of Rhalgr order — ascetic warrior-monks from Ala Mhigo who worshipped Rhalgr the Destroyer — and the Ul'dah school of pugilism. Opus VIII's FFXIV cards focused on the Stormblood expansion, which centers heavily on the liberation of Ala Mhigo — the Monk's ancestral homeland. [Final Fantasy Wiki (Fandom): Monk (Final Fantasy XIV); FFXIV Consolegameswiki: Monk]",
+      "sources": ["Final Fantasy Wiki (Fandom): finalfantasy.fandom.com/wiki/Monk_(Final_Fantasy_XIV)", "FFXIV Consolegameswiki: ffxiv.consolegameswiki.com/wiki/Monk"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Opus II Monk Backup (2-089C) — an earlier printing of this archetype — has the ability: put Monk in the Break Zone to give 1 Forward +3000 power and Brave until end of turn. This is a common design pattern for generic job Backups in FFTCG: single-use power boost plus a keyword (Brave = that Forward can attack without dulling). The Opus VIII version's specific effect text was not retrieved via research; the above describes the Opus II precedent. [FFTCG Mognet: fftcgmognet.com/card/2-089C]",
+      "sources": ["FFTCG Mognet: fftcgmognet.com/card/2-089C"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Monk (1-120C)", "set": "Opus I", "note": "Earlier generic job-class Monk Backup — same archetype"},
+    {"name": "Monk (2-089C)", "set": "Opus II", "note": "Opus II Monk Backup with documented effect text (Break Zone sacrifice for +3000 power + Brave)"},
+    {"name": "Lyse (Opus VIII)", "set": "Opus VIII", "note": "Named FFXIV Stormblood character and fellow Monk — the specific named individual where the generic Monk archetype finds its story anchor in Stormblood"},
+    {"name": "Widargelt Beake (various)", "set": "various", "note": "Named FFXIV Monk NPC central to the Monk job storyline — potential named Forward card equivalent"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "",
+    "ip_confidence": "none"
+  }
+}

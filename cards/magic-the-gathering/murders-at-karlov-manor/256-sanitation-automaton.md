@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - automaton
+  - construct
+  - robot
+  - clean-up
+  - discarded
+  - scroll
+  - gold
+  - mechanical
+  - artifact-creature
+  - mystery
+  - indoor
+  - debris
+  - red-glow
+tags_filter:
+  - solo
+  - mid-shot
+  - scene-mode
+  - colorless-magic
+  - creature
+  - no-face
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/256-sanitation-automaton.png
 average_cost_paid: 0
 market_price: 0.07
@@ -30,7 +49,30 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{2}"
+mood: other
+time_of_day: indeterminate
+setting: indoor
 tags:
   - card
 ---
 # Sanitation Automaton (Murders at Karlov Manor)
+
+## Vision
+
+![256-sanitation-automaton](../../_images/magic-the-gathering/murders-at-karlov-manor/256-sanitation-automaton.png)
+
+The art shows a mechanical construct — a golem-like automaton — lying on a tiled floor amid scattered scrolls and broken fragments. The body is gold and brass with a large red-glowing crystalline or glass core at its chest, shaped like an inverted bell or lantern. Flexible hose-like appendages curve around the torso. Two small red eye-like dots are visible on the body chassis. A tall cylindrical pillar and more scrolls occupy the background right. The scene reads as the automaton at rest or deactivated, surrounded by discarded paperwork.
+
+**Subject:** A fallen mechanical construct with a red glowing core and gold-and-brass body, surrounded by scrolls and debris on a tiled floor
+
+**Composition:** mid-shot, narrative, figures: solo, facing: away
+**Setting:** indoor, modern, indeterminate
+**Foreground:** Gold-and-brass mechanical construct with glowing red core and hose appendages on tiled floor  *(palette: gold, brass, red, crimson)*
+**Background:** Marble tile floor, white pillar, scattered scrolls  *(palette: white, cream, grey, pale-blue)*
+**Mood / lighting:** other, soft
+**Emotion read:** no legible facial expression — construct at rest or deactivated
+**Objects:** scroll, mechanical-construct, hose, pillar, debris
+**Creatures:** construct, automaton
+**Iconography:** glowing-core, mechanical-eye, gold-chassis
+**Genre cues:** fantasy, steampunk, mystery
+

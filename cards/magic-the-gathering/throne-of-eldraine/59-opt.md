@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - choice
+  - knowledge
+  - book
+  - sword
+  - wizard
+  - magic
+  - blue-light
+  - arcane
+  - contemplation
+  - duality
+  - robed-figure
+  - library
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - away
+  - blue-magic
+  - instant
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/59-opt.png
 average_cost_paid: 0
 market_price: 0.27
@@ -30,7 +48,29 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{U}"
+mood: sublime
+time_of_day: indeterminate
+setting: indoor
 tags:
   - card
 ---
 # Opt (Throne of Eldraine)
+
+## Vision
+
+![59-opt](../../_images/magic-the-gathering/throne-of-eldraine/59-opt.png)
+
+A bald humanoid figure stands in the center of the composition, seen from behind, both arms raised with hands open and outstretched. To the figure's upper left, an ornate closed book floats in mid-air; to the upper right, a longsword floats at a slight angle. Both objects are suspended in intense blue-white arcane energy that radiates from a blinding central light source between them. The figure wears simple robes or a high-collared garment. Stone pillars or architectural elements frame the sides, partially obscured by the glow. The overall image reads as a moment of choice between two paths: wisdom and force.
+
+**Subject:** A bald robed figure seen from behind with arms raised, a floating book to the left and a floating sword to the right, bathed in blue arcane light
+
+**Composition:** mid-shot, narrative, figures: solo, facing: away
+**Setting:** indoor, gothic, indeterminate
+**Foreground:** Bald robed figure from behind, arms raised toward floating book and sword  *(palette: grey-blue, white, pale-blue, dark-grey)*
+**Background:** Blazing blue-white arcane light through stone archway, stone pillars  *(palette: white, blue-white, pale-blue, grey)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** contemplative — figure reaches toward two levitating objects in a moment of choice
+**Objects:** book, sword, magical-light, stone-pillar
+**Iconography:** arcane-light, floating-objects, book, sword
+**Genre cues:** fantasy, medieval
+

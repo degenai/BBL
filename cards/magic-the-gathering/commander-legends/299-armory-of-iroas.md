@@ -47,6 +47,9 @@ mood: sublime
 time_of_day: indeterminate
 setting: other
 artist: Yeong-Hao Han
+characters:
+  - theros-pantheon
+  - iroas
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/299-armory-of-iroas--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/0/703a03ac-5bb5-4e36-ab9b-a5c007ffc03d.jpg?1608911321
 flavor_text: Each weapon is as unique as the champion who carried it to battle.

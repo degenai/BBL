@@ -1,0 +1,38 @@
+{
+  "edge_id": "iroas-sub-node-proposal",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/iroas.md", "name": "Iroas, God of Victory (new sub-node under theros-pantheon)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/25-indomitable-will.md", "name": "Indomitable Will (THB-25)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/137-hero-of-the-games.md", "name": "Hero of the Games (THB-137)"},
+    {"type": "card", "path": "cards/magic-the-gathering/commander-legends/299-armory-of-iroas.md", "name": "Armory of Iroas (CMR-299)"}
+  ],
+  "description": "Mr. Nodeley apologizes for sniveling but the threshold was met, sir. Iroas had three substantive corpus anchors — Indomitable Will THB-25 (flavor names Iroas twice, once via the named cult-priest Verenis), Hero of the Games THB-137 (trivia-passed, canonically the Iroan Games are Iroas-presided at Akros), and Armory of Iroas CMR-299 (Iroas in the card title, votive-armory canonically Iroas-cult per MTG Wiki). The mogis sub-node's own Caveats section explicitly stages this commission as a wait-for condition (when a third Iroas-cult card lands, the sub-node becomes commission-ready and a twin-edge becomes drawable); the threshold is now met and the dangling [[iroas]] reference in mogis's See-also resolves on this pass. Mr. Nodeley believes the node will really help, if it's not too much trouble.",
+  "citations": [
+    "[MTG Wiki: Iroas, God of Victory]",
+    "[MTG Wiki: Akros]",
+    "[MTG Wiki: Iroan Games]",
+    "[MTG Wiki: Pantheon of Theros]",
+    "[Scryfall flavor_text: Indomitable Will THB-25]",
+    "[Scryfall flavor_text: Hero of the Games THB-137]",
+    "[Scryfall flavor_text + card title: Armory of Iroas CMR-299]",
+    "[In-corpus trivia: Hero of the Games — explicitly canonicalizes Iroan Games as Iroas-presided at Akros]",
+    "[In-corpus caveat: mogis.md sub-node explicitly stages this commission as wait-for-third-Iroas-card]"
+  ],
+  "files_modified": [
+    "cards/_characters/iroas.md (NEW)",
+    "cards/_characters/theros-pantheon.md (related_characters += iroas; appears_on += hero-of-the-games + armory-of-iroas)",
+    "cards/magic-the-gathering/theros-beyond-death/25-indomitable-will.md (characters += iroas)",
+    "cards/magic-the-gathering/theros-beyond-death/137-hero-of-the-games.md (characters += theros-pantheon, iroas)",
+    "cards/magic-the-gathering/commander-legends/299-armory-of-iroas.md (characters += theros-pantheon, iroas)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "next_pass_suggestions": [
+    "Future Edgelord-enlightened pass: draw the bidirectional [[iroas]] <-> [[mogis]] twin-edge (designer-confirmed Ares-double-aspect Greek-mythology split). The mogis sub-node's See-also already references [[iroas]] as a dangling future-twin pointer; the enlightened pass cleans that pointer up and adds the symmetric reference on the iroas side. iroas.md's See-also already references [[mogis]] as the sibling sub-node, so the iroas side is pre-staged.",
+    "Future Edgelord pass: draw the [[iroas]] <-> [[nylea]] watch-over-the-X edge (both anchor the protective-oversight care-pole of the pantheon — Iroas watches over the warrior, Nylea watches over the forest creature, both designer-coordinated against the [[mogis]] extraction-pole at the same parent roster). Iroas.md's See-also references [[nylea]]; nylea.md's See-also does not yet reference [[iroas]] (drawable as edge or future sub-node sibling-sweep).",
+    "Future Mr. Nodeley pass: Heliod sub-node when third Heliod-cult corpus card lands (currently 1-2 anchors per theros-pantheon Caveats: Reverent Hoplite THB-33 + possibly Return to Nature THB-197). Watch for Heliod, Sun-Crowned or Heliod's Pilgrim or any Heliod-named printing.",
+    "Future janitor pass: Armory of Iroas CMR-299 is vision-passed but not trivia-passed; a trivia run on this card would strengthen the citation chain on this sub-node's borderline anchor."
+  ]
+}

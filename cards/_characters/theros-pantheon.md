@@ -31,6 +31,8 @@ appears_on:
   - magic-the-gathering/theros-beyond-death/179-moss-viper
   - magic-the-gathering/theros-beyond-death/194-plummet
   - magic-the-gathering/theros-beyond-death/25-indomitable-will
+  - magic-the-gathering/theros-beyond-death/137-hero-of-the-games
+  - magic-the-gathering/commander-legends/299-armory-of-iroas
   - magic-the-gathering/theros-beyond-death/33-reverent-hoplite
   - magic-the-gathering/theros-beyond-death/77-towering-wave-mystic
   - magic-the-gathering/theros/218-opaline-unicorn
@@ -42,6 +44,7 @@ related_symbols: []
 related_characters:
   - mogis
   - nylea
+  - iroas
 ip_resolution_for: theros-pantheon
 tags:
   - layer
