@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - forest
+  - grass
+  - serpent
+  - nature
+  - leaf
+  - vine
+  - evolution
+  - green
+  - elegance
+  - starter
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - common
+  - portrait-mode
+  - pokemon-species
 reference_image: cards/_images/pokemon/black-bolt/002-086-servine.png
 average_cost_paid: 0
 market_price: 0.07
@@ -27,6 +43,34 @@ oracle_text: "Wrap (Grass) 20: Flip a coin. If heads, your opponent's Active Pok
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: day
+setting: forest
+suspected_ip: Servine
+ip_confidence: high
+ip_verified: false
 ---
 
 # Servine (Black Bolt)
+
+## Vision
+
+![002-086-servine](../../_images/pokemon/black-bolt/002-086-servine.png)
+
+> [!warning] Suspected IP: **Servine** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+Servine stands in a confident mid-ground pose, its longer and more streamlined serpentine body held upright. The distinctive white leaf-frill collar is clearly visible around its neck, and the pointed leaf-tail extends behind it. The environment is similarly lush and sunlit as its pre-evolution's setting — bright green foliage fills the background with warm filtered light. The creature's posture is more assertive and upright compared to Snivy, conveying the step-up in poise and capability befitting an evolution. The palette is rich green with cream and white accents on the creature.
+
+**Subject:** Servine, a sleek green serpentine creature with a leaf-frill collar and a vine-like body, standing in a dynamic pose amid lush green vegetation
+
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** forest, day, clear
+**Foreground:** Servine in a confident upright pose amid green vegetation  *(palette: green, cream, white, yellow-green)*
+**Background:** sunlit lush foliage, green forest vegetation  *(palette: green, bright yellow-green, golden yellow)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** confident, poised, composed
+**Objects:** leaf-frill, foliage, vine
+**Creatures:** Servine, serpentine creature
+**Genre cues:** anime
+

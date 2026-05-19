@@ -1,0 +1,36 @@
+{
+  "card_name": "Dark Knight",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-070C",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged. Generic FFXIV job class card — no named character identity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Dark Knight (8-070C) is an Earth-element Backup from Opus VIII, Category: FFXIV. The FFXIV Dark Knight was introduced in Heavensward (3.0, June 2015) alongside Machinist and Astrologian as the first new tank job added to the game, requiring completion of the base A Realm Reborn main scenario. [Final Fantasy Wiki: Dark Knight (FFXIV); FFXIV official job guide]",
+      "sources": ["https://finalfantasy.fandom.com/wiki/Dark_Knight_(Final_Fantasy_XIV)", "https://na.finalfantasyxiv.com/jobguide/darkknight"]
+    },
+    {
+      "category": "design",
+      "text": "In FFXIV lore, Dark Knights channel inner pain and darkness as a weapon wielded for the common people of Ishgard, operating as social outcasts outside official hierarchies. The thematic identity as an outsider tank has made Dark Knight one of FFXIV's most narratively celebrated jobs. [FFXIV consolegameswiki]",
+      "sources": ["https://ffxiv.consolegameswiki.com/wiki/Dark_Knight"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Dark Knight is one of FFTCG's most consistently reprinted FFXIV Commons, with versions in Opus I (1-092C), Opus II (2-073C), Opus IV (4-074C), Opus VI (6-065C), and this Opus VIII printing. Repeated Common inclusion reflects its utility as a foundational Earth backup piece. [FFTCG community forums: fftcg.boards.net]",
+      "sources": ["https://fftcg.boards.net/thread/575/dark-knight-opus-vi"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Machinist", "set": "Opus VIII (8-073C)", "note": "Co-introduced with Dark Knight in FFXIV Heavensward; both Earth-element Common Backups in Opus VIII"},
+    {"name": "Dark Knight", "set": "Opus VI (6-065C)", "note": "Immediately previous Common printing of the same FFXIV job class"},
+    {"name": "Dark Knight", "set": "Opus II (2-073C)", "note": "Earlier Common printing in the reprint series"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

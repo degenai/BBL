@@ -66,3 +66,13 @@ A male figure in layered tactical gear stands in a confident, slightly forward-l
 **Iconography:** goggles, firearm
 **Genre cues:** fantasy, jrpg, steampunk
 
+## Trivia
+
+- **Set context** — Machinist (8-073C) is an Earth-element Backup card from Opus VIII, Category: FFXIV. The Machinist job was introduced in Final Fantasy XIV: Heavensward (3.0, June 2015) alongside Dark Knight and Astrologian as one of three new jobs. It is a Ranged Physical DPS role — the game's first gun-and-turret fighting style — developed by Ishgard's Skysteel Manufactory in response to the Dragonsong War. `[Square Enix FFXIV official job guide; FFXIV consolegameswiki]`
+- **Lore origin** — The Machinist discipline was created by combining Ishgardian craftsmanship with Garlean imperial magitek, facilitated by Cid Garlond's Garlond Ironworks. The Machinist's signature device, the aetherotransformer, converts the wearer's innate aether into lightning-aspected energy to fuel firearms and combat turrets. The player character in FFXIV is canonically among the first true practitioners of the new art. `[FFXIV official job guide; Square Enix forum lore thread]`
+- **FFTCG print history** — Machinist appears as a recurring Earth-element Common Backup across multiple Opus sets including Opus II (2-083C), Opus VI (6-069C), and this Opus VIII printing. Its consistent reprint treatment as a Common mirrors the Dark Knight's pattern, cementing the two Heavensward-launch jobs as parallel design fixtures in FFTCG Earth builds. `[WebSearch: Final Fantasy Card Game Wikia FFXIV category]`
+
+### Related cards
+- Dark Knight (Opus VIII, 8-070C) — co-introduced with Machinist in FFXIV Heavensward; both are Earth-element Common Backups in Opus VIII
+- Machinist (Opus VI, 6-069C) — previous Common printing of the same job class
+- Machinist (Opus II, 2-083C) — earliest known Common printing of the FFXIV Machinist in FFTCG

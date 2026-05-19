@@ -1,0 +1,41 @@
+{
+  "card_name": "Garuda EX",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-051C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Garuda EX' (EX suffix denotes named character in FFTCG) and canonical visual match — pale winged humanoid with feathered headdress matches Garuda's established summon design from FFXI onward. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Garuda EX (8-051C) is a Wind-element Summon from FFTCG Opus VIII, released March 22, 2019. Opus VIII contains 148 cards (60 Common, 36 Rare, 26 Hero, 14 Legend) with heavy FFXIV and FFXI Primal representation. [Square Enix FFTCG Opus VIII release page]",
+      "sources": ["https://fftcg.square-enix-games.com/en/release/opus-viii"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Garuda first appeared as a named enemy in Final Fantasy III and was elevated to Wind-elemental summon status in Final Fantasy XI — the first time no established Wind summon existed. Her FFXI design as a pale winged humanoid became the visual template for FFXIV, XV, and XVI versions. [CBR: Every Garuda Appearance; Game Rant]",
+      "sources": ["https://www.cbr.com/every-mainline-ff-garuda-chronological-order/", "https://gamerant.com/final-fantasy-3-ff16-garuda-wind-summon-monster-evolution-history/"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Final Fantasy XIV, Garuda carries the title 'Lady of the Vortex' and is a Primal worshipped by the Ixal beast tribe, distinguished by her intense hatred of 'landwalkers.' [Final Fantasy Wiki: Garuda (FFXIV)]",
+      "sources": ["https://finalfantasy.fandom.com/wiki/Garuda_(Final_Fantasy_XIV)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The EX designation in FFTCG means the card's ability fires as an EX BURST trigger — unpreventable — when flipped from the Break Zone during damage resolution. This gives Common Summons like Garuda EX competitive relevance beyond base summon effects. [Square Enix FFTCG official FAQ]",
+      "sources": ["https://fftcg.square-enix-games.com/na/play-article/faq"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Garuda (Primal)", "set": "Opus VIII", "note": "Primal-tier version of the same character in the same set"},
+    {"name": "Garuda (XIV)", "set": "Opus XIV", "note": "Later printing confirming recurring Primal presence across FFTCG"},
+    {"name": "Ifrit", "set": "Opus VIII", "note": "Co-featured FFXIV Primal summon in Opus VIII"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

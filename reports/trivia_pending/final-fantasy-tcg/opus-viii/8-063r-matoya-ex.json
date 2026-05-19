@@ -1,0 +1,40 @@
+{
+  "card_name": "Matoya EX",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-063R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card Category: FFL (Final Fantasy Legends/Dimensions) and canonical visual match — young dancer with flower-tiara and gold coin-chain attire matches the Dimensions Matoya: fourth in a lineage of women bearing that name, a dancer over 100 years old who leads the Desert Moon rebels. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Matoya EX (8-063R) is a Wind-element Backup (Job: Dancer, Category: FFL, Cost: 4) from Opus VIII. EX BURST: when Matoya enters the field, choose 1 Monster opponent controls and Break it. Opus VIII featured exclusive Kira Oguro illustrations for FFL characters. [ArcadeGameCards listing; Square Enix Opus VIII release page]",
+      "sources": ["https://www.arcadegamecards.com/product/final-fantasy-opus-8-tcg-card-8-063r-matoya/", "https://fftcg.square-enix-games.com/en/release/opus-viii"]
+    },
+    {
+      "category": "set-lore",
+      "text": "This Matoya is from Final Fantasy Dimensions (FFL in Japan), not the FF1 witch. She is the fourth woman in her family bearing the name — a dancer appearing young but over 100 years old, who leads rebel faction Desert Moon against the empire of Avalon. Her flower-tiara and Crystal Eye are canonical signature visual identifiers. [Final Fantasy Wiki: Matoya (Dimensions)]",
+      "sources": ["https://finalfantasy.fandom.com/wiki/Matoya_(Dimensions)"]
+    },
+    {
+      "category": "design",
+      "text": "Opus VIII featured exclusive illustrations by Kira Oguro for Final Fantasy Legends characters, making Matoya EX part of a deliberate artist spotlight on the FFL/Dimensions roster. [Square Enix Opus VIII release page]",
+      "sources": ["https://fftcg.square-enix-games.com/en/release/opus-viii"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 4-cost Wind Backup with on-entry Monster removal fills a niche: Wind decks rarely access direct destruction, making Matoya EX's trigger meaningful utility in the Backup slot. [WebSearch snippets: TCG Republic, ArcadeGameCards]",
+      "sources": ["https://tcgrepublic.com/product/product_page_2000185689.html"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Matoya (FF1)", "set": "Earlier Opus sets", "note": "The original FF1 witch — distinct character with the same name, both in the FFTCG card pool"},
+    {"name": "Asmodai", "set": "Opus sets", "note": "The Four Generals antagonist from Dimensions whose defeat is tied to Matoya's Crystal Eye reveal"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

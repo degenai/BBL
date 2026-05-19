@@ -1,0 +1,13 @@
+{
+  "edge_id": "ff6-returners-party--ffbe-opening-arc-party--character-layer-sibling-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/ff6-returners-party.md", "name": "FF6 Returners party (Category VI)"},
+    {"type": "character", "path": "cards/_characters/ffbe-opening-arc-party.md", "name": "FFBE opening-arc party (Category BE)"}
+  ],
+  "description": "Mirror-drift sync. FFBE -> FF6 link exists (wave 136); FF6 -> FFBE link missing (FFBE wasn't authored yet at FF6 time). Two FFTCG character-layer cohort nodes debuted in same Opus VIII set per same Square Enix press release; FFBE node explicitly cites FF6 as structural template. Sigh, mirror, done. Pure sync work — quality of the underlying edge already established at FFBE authorship.",
+  "edgelord_mood": "sighed-but-mirrored",
+  "files_modified": ["cards/_characters/ff6-returners-party.md"]
+}

@@ -1,0 +1,37 @@
+{
+  "card_name": "Marlene EX",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-085C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The card oracle text explicitly names Marlene alongside Aerith, Cloud, Tifa, and Barret as card name targets for the EX BURST ability — this is direct primary-source identity confirmation from the card itself. Additionally, the card is categorized FFVII (tag: ffvii-origin per vision pass) and the chibi art style with brown hair, pink outfit, and flower is consistent with official FFVII Marlene visual appearances. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Marlene EX (8-085C) is an Earth-element Backup card from Opus VIII, Category: FFVII. Her EX BURST ability reads: when Marlene enters the field, choose 1 card named Aerith, or Cloud, or Tifa, or Barret in your Break Zone and add it to your hand. The ability directly encodes the FFVII party structure — she can recover any of the four central heroes of the original game. [WebSearch: totalcards.net and Card Cavern listings; search snippet via TCGplayer]",
+      "sources": ["https://totalcards.net/products/final-fantasy-opus-8-marlene-8-085c", "https://www.cardcaverntradingcards.com/products/marlene-8-085c-opusviii"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Final Fantasy VII, Marlene Wallace is the biological daughter of Dyne and Eleanor, orphaned as an infant when Shinra burned Corel and killed her mother. She was adopted by Barret Wallace, Dyne's friend who survived the massacre. In the original game she is approximately 4 years old and lives with Tifa at 7th Heaven bar. Her connection to Barret and the AVALANCHE crew is the emotional anchor for the party's resistance against Shinra. [Final Fantasy Wiki: Marlene Wallace]",
+      "sources": ["https://finalfantasy.fandom.com/wiki/Marlene_Wallace"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Marlene EX is a Common-rarity Earth Backup whose EX BURST makes her a utility recovery piece in FFVII-themed Earth decks. The four named targets — Aerith, Cloud, Tifa, Barret — are all high-frequency FFVII cards across multiple Opus sets, meaning Marlene's trigger is widely applicable in dedicated FFVII builds. Community deck-building notes flag her as a low-cost consistency tool for the FFVII Earth archetype. [WebSearch: search snippets from TCGplayer and Card Cavern community comments]",
+      "sources": ["https://www.tcgplayer.com/product/186481/final-fantasy-tcg-opus-viii-matoya-ex"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Barret", "set": "Multiple Opus sets", "note": "Marlene's adoptive father; one of the four named EX BURST targets on this card"},
+    {"name": "Aerith", "set": "Multiple Opus sets", "note": "Named EX BURST target; recurring FFVII hero card across Opus sets"},
+    {"name": "Cloud", "set": "Multiple Opus sets", "note": "Named EX BURST target; FFVII protagonist with numerous FFTCG printings"},
+    {"name": "Tifa", "set": "Multiple Opus sets", "note": "Named EX BURST target; the four named targets collectively define the FFVII FFTCG deck archetype"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

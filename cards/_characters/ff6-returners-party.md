@@ -22,7 +22,8 @@ appears_on:
 related_hubs:
   - rebellion
 related_symbols: []
-related_characters: []
+related_characters:
+  - ffbe-opening-arc-party
 ip_resolution_for:
   - Final Fantasy VI
   - FF6 party
@@ -111,5 +112,6 @@ The FF6 party's most BBL-relevant property is its canonical structuring as the R
 - `[[crane-school-cohort]]` — sibling small-roster martial-cohort node; precedent for cohort-as-character-layer treatment when the in-canon faction has fewer than 5 BBL-corpus anchors.
 - `[[endriders]]` — sibling small-faction node; further precedent for the cohort-pattern in the character layer.
 - `[[vivi-ornitier]]` — sibling FFTCG character node representing the FF9 Black Mage; the two nodes together establish the FFTCG-character-layer pattern of separating cohort-by-FF-mainline-entry (Category VI vs Category IX).
+- `[[ffbe-opening-arc-party]]` — sibling FFTCG character-layer cohort node representing the Final Fantasy Brave Exvius opening-arc party (Rain, Lasswell, Fina — Category BE) debuted in the same Opus VIII set per the same Square Enix press release (2019-03-22). The two nodes together establish the FFTCG-character-layer pattern of separating cohort-by-FF-mainline-entry (Category VI vs Category BE) and demonstrate the same designer-formalized cohort-debut-via-Opus-set predicate at the FFTCG card-frame-marker layer; structural twin of this entry rather than a precedent ancestor.
 - `[[rebellion]]` — BBL hub thematically near the FF6 party's Returners-faction identity; Banon's resistance against the Gestahlian Empire's magitek-extraction apparatus is the canonical-event framing that grounds the hub adjacency.
 - ``Bulk Graph Bundler`` — the project this character node serves.

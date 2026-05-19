@@ -1,0 +1,84 @@
+{
+  "edge_id": "wave137-dark-nodesley-snip-walk--refusal",
+  "shape": "node-dissolution-proposal",
+  "topology": "stack",
+  "category": "refusal",
+  "endpoints": [],
+  "description": "Walked the full layer-node graph. No node dissolves cleanly enough to earn the snip. The thinnest candidates by anchor count (acerola N=2, kalos-aura-trio N=2, iona N=2, kiora N=2, jace-beleren N=2, master-roshi N=2, guidelight-voyagers N=2, iroas N=3) all carry documented commission rationale that survives the four Dark-Nodesley triggers. Each was commissioned with threshold-relaxation reasoning or with corpus-unique cross-reference work, and their body content is referenced by sibling nodes' prose. Dissolving any of them would break citation chains and leave dangling sibling-node references — the graph would be thinner without being cleaner. The hiatus shape is currently correct. Refusal IS the discipline working.",
+  "citations": [
+    "[wave28-e2-acerola-solo-node.json — Mr. Nodeley's threshold-relaxation rationale for acerola at N=2: dual-cohort connecting-tissue across alola-trial-captains + alola-elite-four + aether-foundation, corpus-unique]",
+    "[cards/_characters/kalos-aura-trio.md — Bulbapedia Aura Trio canonical page, designer-confirmed Life/Death/Order triad, Xerneas future-fill explicit at line 66]",
+    "[cards/_characters/iona.md, kiora.md, iroas.md, master-roshi.md, jace-beleren.md — each N=2 named-individual node has MTG Wiki / Dragon Ball Wiki / Bulbapedia primary character page citation + corpus-unique character beats]",
+    "[cards/_characters/guidelight-voyagers.md — Wizards Planeswalker's Guide to Aetherdrift Part 1 canonical team documentation, parallel-precedent with endriders + aether-rangers (both also N=2-3)]",
+    "[cards/_characters/wmat-tournament-announcer.md — 3-card Bandai TB2 designer-coordinated mini-cycle with explicit hercule inverse-pair-anchor positioning at lines 109, 123]",
+    "[cards/_characters/pollution-pokemon.md — Sugimori/Unno Nintendo Dream interview cohort-statement cited via Garbodor RBC-118 trivia; designer-stated three-substrate framework]",
+    "[cards/_characters/tsukumogami-pokemon.md — Bulbapedia per-species design-source sections across 4 species lines + Voltorb no. 100 deliberate folklore encoding]",
+    "[cards/_symbols/single-strike-emblem.md, monarch-at-common-cmr.md — designer-coordinated mechanical-primitive cohorts, Wizards-confirmed]",
+    "[reports/janitor_triage.md — no dissolution candidates flagged; entries are future-watch-condition node-additions, not snip-targets]",
+    "[memory: bbl-snip-frenzy-as-mode — currently on 10-wave hiatus through wave 143; user explicitly overrode for this walk]"
+  ],
+  "files_modified": [],
+  "edgelord_mood": "dark-nodesley-stood-down",
+  "dissolution_target": null,
+  "trigger_evaluated": {
+    "empty": "no node found with empty appears_on or zero dependent edges",
+    "subsumed": "no node found where a stronger sibling fully replaces it; cross-references are inverse-pair-anchor (acerola/cohort triangle, announcer/hercule, endriders/aether-rangers/guidelight-voyagers parallel) or threshold-relaxation precedents, not redundancies",
+    "inaccurate": "no citation-chain errors found in candidate set",
+    "mistakenly_proposed": "wave-28 acerola, wave-33 kalos-aura-trio, wave-78 iona, etc — each commission's rationale is currently load-bearing for sibling-node prose; dissolving would create dangling [[wikilink]] references in alola-elite-four.md, alola-trial-captains.md, aether-foundation.md, theros-pantheon.md, zendikari-resistance.md, eldrazi.md"
+  },
+  "other_candidates_considered": [
+    {
+      "node": "acerola",
+      "anchor_count": 2,
+      "dissolution_test": "FAIL — wave-28 commission rationale (three-node institutional triangle across alola-trial-captains + alola-elite-four + aether-foundation, the only character in corpus to do so) is explicitly load-bearing. alola-elite-four.md line 84, alola-trial-captains.md line 84, and aether-foundation.md line 38 all cite acerola by [[wikilink]] in body prose. Dissolving would break three sibling-node references and lose the franchise's only Trial-Captain-to-Elite-Four-promotion canonical anchor.",
+      "verdict": "keep"
+    },
+    {
+      "node": "kalos-aura-trio",
+      "anchor_count": 2,
+      "dissolution_test": "FAIL — Bulbapedia 'Aura Trio' IS a canonical page; Life/Death/Order designer-confirmed thesis; Xerneas future-fill trajectory explicit. Acerola threshold-relaxation precedent invoked in body at line 66.",
+      "verdict": "keep"
+    },
+    {
+      "node": "guidelight-voyagers",
+      "anchor_count": 2,
+      "dissolution_test": "FAIL — Wizards Planeswalker's Guide to Aetherdrift Part 1 canonical team documentation; parallel structure to endriders (N=3) + aether-rangers (N=3) as the three Aetherdrift teams in BBL graph. Dissolving the smallest of three parallel teams would create asymmetric coverage of a single designer-coordinated set roster.",
+      "verdict": "keep"
+    },
+    {
+      "node": "iona",
+      "anchor_count": 2,
+      "dissolution_test": "FAIL — MTG Wiki primary character page; Zendikar archangel with cross-references to eldrazi, kor, zendikari-resistance. Banned-in-Legacy detail is Wizards-canonical. Bident-of-Thassa-equivalent named-character beats survive any anchor count.",
+      "verdict": "keep"
+    },
+    {
+      "node": "kiora",
+      "anchor_count": 2,
+      "dissolution_test": "FAIL — MTG Wiki Kiora page; stolen-bident cross-plane theft is canonical and load-bearing for any Theros/Zendikar bundle prose. Body explicitly notes future-fill trajectory to BNG-149 / OGW-41 / THB cards.",
+      "verdict": "keep"
+    },
+    {
+      "node": "master-roshi",
+      "anchor_count": 2,
+      "dissolution_test": "FAIL — corpus-unique dual-identity pair (TB2-057 open-master + TB2-058 Jackie Chun concealment-register) with Bandai-canonical trivia framing the corrupted-stewardship-by-mask reading. wmat-tournament-announcer.md cites master-roshi as canonical disguise-witness cross-reference.",
+      "verdict": "keep"
+    },
+    {
+      "node": "jace-beleren",
+      "anchor_count": 2,
+      "dissolution_test": "FAIL — named Wizards-canon planeswalker with MTG Wiki page; corpus-unique mind-mage character beats; parallel-precedent to nicol-bolas / liliana-vess / chandra-nalaar / gideon-jura solo planeswalker nodes.",
+      "verdict": "keep"
+    },
+    {
+      "node": "iroas",
+      "anchor_count": 3,
+      "dissolution_test": "FAIL — MTG Wiki primary character page; Theros Pantheon member; mogis-twin canonical dyad documented at parent_character: theros-pantheon. Body content carries the Iroan Games / Akros / honor-warfare canonical beats that bundle copy can lean on.",
+      "verdict": "keep"
+    }
+  ],
+  "future_watch": [
+    "If a card pointing at a layer node gets sold and the node's anchor count drops below threshold without a documented threshold-relaxation rationale, re-evaluate. The bbl-bundles-are-destructive-on-graph memory note covers this — bundles mutate the graph, and anchor-loss is expected. Dark Nodesley returns when a node's anchor count crosses below its commission-rationale threshold without a clean replacement.",
+    "If a Mr. Nodeley future-pass creates a node that fully subsumes an existing node (e.g. a future `alola-island-kahunas` parent absorbing the alola-kahunas + alola-elite-four cross-recruitment-dual-role caveat scope), Dark Nodesley evaluates the parent-vs-child redundancy at that point.",
+    "Wave-143 hiatus expiration: next routine snip walk earliest wave 144, unless an explicit user override or a discovered structural redundancy triggers earlier."
+  ]
+}

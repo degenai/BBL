@@ -1,0 +1,36 @@
+{
+  "card_name": "Machinist",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-073C",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flagged. Generic FFXIV job class card — no named character identity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Machinist (8-073C) is an Earth-element Backup from Opus VIII, Category: FFXIV. Introduced in FFXIV Heavensward (3.0, June 2015) as a Ranged Physical DPS role, the Machinist is Ishgard's gun-and-turret combat discipline — developed by the Skysteel Manufactory in response to the Dragonsong War. [Square Enix FFXIV official job guide; FFXIV consolegameswiki]",
+      "sources": ["https://na.finalfantasyxiv.com/jobguide/machinist/", "https://ffxiv.consolegameswiki.com/wiki/Machinist"]
+    },
+    {
+      "category": "design",
+      "text": "The Machinist's lore involves fusing Ishgardian craftsmanship with Garlean imperial magitek via Cid Garlond's Garlond Ironworks. The aetherotransformer device converts the wearer's aether into lightning-aspected energy for firearms and turrets. The FFXIV player character is canonically one of the discipline's first practitioners. [FFXIV official job guide; Square Enix forum lore thread]",
+      "sources": ["https://na.finalfantasyxiv.com/jobguide/machinist/", "https://forum.square-enix.com/ffxiv/threads/365590"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Machinist appears as a recurring Earth-element Common Backup across Opus II (2-083C), Opus VI (6-069C), and Opus VIII (8-073C). Its consistent reprint pattern mirrors the Dark Knight's, cementing both Heavensward-launch jobs as parallel Common fixtures in FFTCG Earth builds. [Final Fantasy Card Game Wikia: FFXIV category]",
+      "sources": ["https://final-fantasy-card-game.fandom.com/wiki/Final_Fantasy_XIV"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dark Knight", "set": "Opus VIII (8-070C)", "note": "Co-introduced with Machinist in FFXIV Heavensward; both Earth-element Common Backups in Opus VIII"},
+    {"name": "Machinist", "set": "Opus VI (6-069C)", "note": "Previous Common printing of the same FFXIV job class"},
+    {"name": "Machinist", "set": "Opus II (2-083C)", "note": "Earliest known Common printing in FFTCG"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
