@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - dragon
+  - reptile
+  - tusk
+  - rock
+  - mountain
+  - warrior
+  - blade
+  - creature
+  - strength
+  - scales
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - portrait
+  - creature-card
 reference_image: cards/_images/pokemon/black-bolt/069-086-fraxure.png
 average_cost_paid: 0
 market_price: 0.06
@@ -27,6 +42,34 @@ oracle_text: "Bite (Colorless) 30\\nBoundless Power (FightingMetal) 90: During y
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: day
+setting: mountain
+subject_known_ip: true
+suspected_ip: Fraxure
+ip_confidence: high
+ip_verified: false
 ---
 
 # Fraxure (Black Bolt)
+
+## Vision
+
+![069-086-fraxure](../../_images/pokemon/black-bolt/069-086-fraxure.png)
+
+> [!warning] Suspected IP: **Fraxure** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A bipedal dragon-like creature stands confidently on a rocky outcrop or cliff face. Its most distinctive feature is a pair of large curved protrusions on either side of its head resembling axe blades or tusks, colored in deep red. The body is primarily green and gray with a muscular build. Rocky terrain and a pale sky background frame the scene. The pose is upright and poised, suggesting readiness.
+
+**Subject:** Fraxure — bipedal dragon-like Pokemon with prominent curved axe-tusks on its head, standing on rocky terrain
+
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** mountain, day, clear
+**Foreground:** Fraxure standing on rock, prominent curved tusk-protrusions visible  *(palette: dark-green, gray, deep-red)*
+**Background:** rocky cliff face, pale sky  *(palette: light-gray, stone-gray, pale-blue)*
+**Mood / lighting:** action, ambient
+**Emotion read:** poised and ready, confident stance
+**Creatures:** dragon, reptile, bipedal-creature
+**Genre cues:** anime, creature-design, fantasy
+

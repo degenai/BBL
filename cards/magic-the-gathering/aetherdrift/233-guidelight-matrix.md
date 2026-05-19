@@ -73,3 +73,16 @@ A tall, faceted blue crystal or energy unit rests at the center of the image, em
 **Iconography:** wireframe-outlines, glowing-matrix
 **Genre cues:** sci-fi, steampunk, fantasy
 
+## Trivia
+
+- **Set context** — Aetherdrift (DFT, released February 14, 2025) is the first Magic set to foreground both Mount and Vehicle creature types in the same limited environment. Guidelight Matrix bridges both: it can manually saddle a Mount or crew a Vehicle on command, serving as a set-support artifact for both creature-mount and piloted-vehicle strategies in the Ghirapur Grand Prix racing narrative. `[WebSearch: magic.wizards.com Aetherdrift Mechanics; WebSearch: scryfall.com/card/dft/233/guidelight-matrix]`
+
+- **Mechanical context** — Guidelight Matrix is a 2-mana artifact with three lines: (1) draw a card on entry, (2) {2},{T}: target Mount you control becomes saddled until end of turn (sorcery speed), (3) {2},{T}: target Vehicle you control becomes an artifact creature until end of turn. No flavor text. EDHREC's Aetherdrift artifact review singled it out as their favorite lower-rarity card in the set: "the ability to turn any of them or a Vehicle into a beater for a puny two mana is great" — and the entry-draw makes it card-neutral on arrival. `[EDHREC: Aetherdrift Set Review — Artifacts and Lands, via WebFetch; card oracle_text, frontmatter]`
+
+- **Design / cycle signal** — Illustrated by Eli Minaya. Guidelight Matrix (no. 233) is the highest collector number of three adjacent colorless artifact commons in DFT: Aetherjacket (no. 230), Camera Launcher (no. 232), and Guidelight Matrix (no. 233). Aetherjacket and Camera Launcher are artifact creatures; Guidelight Matrix is a non-creature artifact — together the three span the support-commons of the set's artifact theme. Edgelord note: this trio is a strong candidate for a cluster edge in the graph. `[Card frontmatter: artist, collector_number; WebSearch: scryfall.com/sets/dft]`
+
+### Related cards
+- Aetherjacket (Aetherdrift, no. 230) — adjacent colorless artifact creature common in the same cluster
+- Camera Launcher (Aetherdrift, no. 232) — adjacent colorless artifact creature common; Exhaust + Thopter token
+- Vnwxt, Verbose Host (Aetherdrift, no. 73) — set's legendary commentator; Camera Launcher names him; all three artifacts serve the Grand Prix apparatus
+- Cultivator's Caravan (Kaladesh) — predecessor artifact Vehicle from original Kaladesh block, same plane now renamed Avishkar

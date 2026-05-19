@@ -1,0 +1,46 @@
+{
+  "edge_id": "son-goku--schema-precedent-wikilink-dissolution",
+  "shape": "edge-dissolution",
+  "category": "wikilink-discipline-cleanup",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/son-goku.md", "name": "Son Goku"}
+  ],
+  "description": "Nine wikilinks converted to backticks in son-goku.md per bbl-wikilink-vs-backtick-discipline. All converted links were pure architectural-pattern citations (schema-precedent / memory-rule references), not real thematic edges. Converted: [[trunks]] x3 (line 71 'precedent applies directly'; line 155 'Following the precedent'; line 173 'following the pattern'), [[tamiyo]] x2 (line 155 schema-precedent citation; line 180 'structural precedent on the Magic-side'), [[charizard-line]] x2 (line 173 and line 183), [[mareep-line]] x2 (line 173 and line 183), [[staraptor-line]] x2 (line 173 and line 183), [[bbl-triviabot-no-role-identity-conflation]] x1 (line 157 memory-rule cite), [[bbl-anti-confab-prompt]] x2 (lines 159 and 165 memory-rule cites), [[bbl-multi-copy-bundles]] x1 (line 175 memory-rule cite). Preserved: all appears_on card wikilinks (lines 114-139), [[vegeta]] (rival/fusion-component thematic edge), [[son-goten]] (Gotenks dual-anchor thematic edge), [[trunks]] in lines 169/179/187 (GT traveling-trio co-protagonist real thematic edge — DISTINCT from the schema-precedent uses), [[baby-dbgt]] (GT Baby Saga adversarial thematic edge), [[son-gohan]] (canonical father-son thematic edge), [[pan]] (canonical granddaughter thematic edge), [[bardock]] (canonical father thematic edge).",
+  "citations": [
+    "[memory: bbl-wikilink-vs-backtick-discipline]",
+    "[wave-124 pattern: cell-saga-apparatus--schema-precedent-wikilink-dissolution.json]",
+    "[wave-127 pattern: dark-vassal-trio--schema-precedent-wikilink-sweep.json]"
+  ],
+  "files_modified": [
+    "cards/_characters/son-goku.md"
+  ],
+  "links_converted": [
+    {"original": "[[trunks]]", "location": "line 71 — What this node anchors", "reason": "schema-precedent: 'The trunks precedent applies directly'"},
+    {"original": "[[trunks]]", "location": "line 155 — Caveats: One parent, four incarnations", "reason": "schema-precedent: 'Following the trunks precedent'"},
+    {"original": "[[tamiyo]]", "location": "line 155 — Caveats: One parent, four incarnations", "reason": "schema-precedent: 'the tamiyo precedent'"},
+    {"original": "[[bbl-triviabot-no-role-identity-conflation]]", "location": "line 157 — Caveats: Bandai character-tag", "reason": "memory-rule reference, not a graph node"},
+    {"original": "[[bbl-anti-confab-prompt]]", "location": "line 159 — Caveats: GT vs Childhood disambiguation", "reason": "memory-rule reference, not a graph node"},
+    {"original": "[[bbl-anti-confab-prompt]]", "location": "line 165 — Caveats: Visual identifier ambiguity", "reason": "memory-rule reference, not a graph node"},
+    {"original": "[[trunks]]", "location": "line 173 — Caveats: Charizard-line precedent does NOT apply", "reason": "schema-precedent: 'following the trunks / tamiyo / nicol-bolas multi-aspect single-character pattern'"},
+    {"original": "[[tamiyo]]", "location": "line 173 — Caveats: Charizard-line precedent does NOT apply", "reason": "schema-precedent: same sentence"},
+    {"original": "[[charizard-line]]", "location": "line 173 — Caveats: Charizard-line precedent does NOT apply", "reason": "cross-franchise architectural comparison"},
+    {"original": "[[mareep-line]]", "location": "line 173 — Caveats: Charizard-line precedent does NOT apply", "reason": "cross-franchise architectural comparison"},
+    {"original": "[[staraptor-line]]", "location": "line 173 — Caveats: Charizard-line precedent does NOT apply", "reason": "cross-franchise architectural comparison"},
+    {"original": "[[bbl-multi-copy-bundles]]", "location": "line 175 — Caveats: Future Discrete Lair candidate", "reason": "memory-rule reference, not a graph node"},
+    {"original": "[[tamiyo]]", "location": "line 180 — See also", "reason": "schema-precedent: 'structural precedent on the Magic-side'"},
+    {"original": "[[charizard-line]]", "location": "line 183 — See also", "reason": "cross-franchise architectural comparison"},
+    {"original": "[[mareep-line]]", "location": "line 183 — See also", "reason": "cross-franchise architectural comparison"},
+    {"original": "[[staraptor-line]]", "location": "line 183 — See also", "reason": "cross-franchise architectural comparison"}
+  ],
+  "links_preserved_with_reason": [
+    "[[trunks]] lines 169/179/187 — real thematic edge: GT traveling-trio co-protagonist, Gotenks Fusion-Dance dual-anchor peer",
+    "[[baby-dbgt]] lines 169/182 — real thematic edge: GT Baby Saga canonical adversary",
+    "[[vegeta]] lines 93/94/169/187 — real thematic edge: Saiyan-Saga rival and Vegito Potara-Fusion component",
+    "[[son-goten]] lines 93/94/187 — real thematic edge: Gotenks Fusion-Dance dual-anchor peer",
+    "[[son-gohan]] line 167 — real thematic edge: canonical eldest son",
+    "[[pan]] line 167 — real thematic edge: canonical granddaughter",
+    "[[bardock]] lines 167 — real thematic edge: canonical Saiyan father",
+    "appears_on card wikilinks lines 114-139 — auto-generated, not touched"
+  ],
+  "edgelord_mood": "enlightened-corrective"
+}

@@ -28,7 +28,9 @@
       "Bash(python -c \"import json; d=json.load\\(open\\(r'C:/Users/alexa/Desktop/Bulk Graph Bundler/reports/trivia_pending/magic-the-gathering/theros-beyond-death/33-reverent-hoplite.scryfall.json','r',encoding='utf-8'\\)\\); keys=['name','set','set_name','collector_number','rarity','released_at','mana_cost','type_line','oracle_text','power','toughness','flavor_text','artist','edhrec_uri','scryfall_uri','reprint','story_spotlight','watermark','frame_effects','promo_types']; [print\\(k+': '+repr\\(d.get\\(k\\)\\)\\) for k in keys]; leg=d.get\\('legalities',{}\\); [print\\('legalities.'+k+': '+leg[k]\\) for k in ['standard','commander','modern','pioneer','pauper'] if k in leg]; ru=d.get\\('related_uris',{}\\); [print\\('related.'+k+': '+ru[k]\\) for k in ru]\")",
       "Bash(python *)",
       "WebFetch(domain:wiki.mushureport.com)",
-      "WebFetch(domain:final-fantasy-card-game.fandom.com)"
+      "WebFetch(domain:final-fantasy-card-game.fandom.com)",
+      "WebFetch(domain:lorcanaplayer.com)",
+      "Bash(dir C:\\\\Users\\\\alexa\\\\Desktop\\\\Bulk Graph Bundler\\\\reports\\\\trivia_pending *)"
     ]
   }
 }

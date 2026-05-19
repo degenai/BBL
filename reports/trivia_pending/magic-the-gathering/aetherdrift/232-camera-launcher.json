@@ -1,0 +1,42 @@
+{
+  "card_name": "Camera Launcher",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "232",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift is centered on the Ghirapur Grand Prix — an interplanar death race across Avishkar, Amonkhet, and Muraganda, hosted by Vnwxt (nicknamed 'Vin'), the emcee and 'Verbose Host' of the event. Camera Launcher's flavor text ('Vnwxt's contract demanded at least one dedicated camera on him at all times') places this mechanical construct as part of Vin's personal media apparatus — a self-promotional tool for the Grand Prix's star commentator. [Wizards: The Legends of Aetherdrift, via WebFetch; WebSearch: gatherer.wizards.com DFT 73]",
+      "sources": ["WebFetch: magic.wizards.com/en/news/feature/the-legends-of-aetherdrift", "WebSearch: gatherer.wizards.com/DFT/en-us/73/vnwxt-verbose-host"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Vnwxt's contract demanded at least one dedicated camera on him at all times.\" The flavor text names Vnwxt (Verbose Host, DFT no. 73) — making Camera Launcher one of the few Aetherdrift commons with a direct named-character lore hook. Vnwxt is described as 'Kylem's favorite verbose host' and a returning commentator from the Spellslingers competition. [Card flavor_text (frontmatter); Wizards: The Legends of Aetherdrift]",
+      "sources": ["Card flavor_text (frontmatter)", "WebFetch: magic.wizards.com/en/news/feature/the-legends-of-aetherdrift"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Camera Launcher is a 3-mana 2/2 Artifact Creature — Construct with a single Exhaust ability ({3}: put a +1/+1 counter on this creature and create a 1/1 colorless Thopter token with flying — activate only once). Exhaust is an Aetherdrift-introduced keyword: each exhaust ability on a permanent can only fire once per game. The Camera Launcher's exhaust makes the spider-construct the 'launcher' — it deploys a small flying camera-thopter into the air on a one-shot basis. [Card oracle_text (frontmatter); WebSearch: magic.wizards.com Aetherdrift Mechanics]",
+      "sources": ["Card oracle_text (frontmatter)", "WebSearch: magic.wizards.com/en/news/feature/aetherdrift-mechanics"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Ben Wootten, a long-tenured MTG artist with credits across dozens of sets. Camera Launcher (no. 232) sits adjacent to Aetherjacket (no. 230) and Guidelight Matrix (no. 233) — three colorless artifact commons clustered in the same collector-number band, all mechanically supporting Aetherdrift's racing and artifact themes. [Card frontmatter: artist, collector_number; WebSearch: scryfall.com/sets/dft]",
+      "sources": ["Card frontmatter: artist, collector_number", "WebSearch: scryfall.com/sets/dft"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vnwxt, Verbose Host", "set": "Aetherdrift (DFT, no. 73)", "note": "Named in flavor text; the Grand Prix emcee whose camera contract the Launcher fulfills"},
+    {"name": "Aetherjacket", "set": "Aetherdrift (DFT, no. 230)", "note": "Adjacent colorless artifact common in the same cluster; both are Construct/Thopter artifact creatures"},
+    {"name": "Guidelight Matrix", "set": "Aetherdrift (DFT, no. 233)", "note": "Adjacent colorless artifact common; vehicle/mount support — same cluster"},
+    {"name": "Thopter Fabricator", "set": "Aetherdrift (DFT, no. 68)", "note": "Also creates Thopter tokens in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

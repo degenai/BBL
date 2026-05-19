@@ -1,0 +1,45 @@
+{
+  "card_name": "Amazu's Inkcaster",
+  "game": "Lorcana",
+  "set": "Wilds Unknown",
+  "collector_number": "134/204",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Wilds Unknown (Set 12, released May 15, 2026) is the first Lorcana expansion to feature Pixar characters — Toy Story, Brave, and The Incredibles all make their TCG debut in this set. The set's narrative follows glimmers scattered across uncharted Inklands territories called Domains following the thaw of the Winterspell. [Lorcana Wiki: Wilds Unknown, via WebSearch]",
+      "sources": ["Lorcana Wiki: Wilds Unknown (lorcana.fandom.com)", "WebSearch snippet: fantasylandnews.com"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The flavor text attributes the Inkcaster to 'Amazu, an Illumineer' — an Illumineer being the in-world term for a Lorcana player/wizard who summons glimmers. 'Amazu' appears to be an original Lorcana character native to the Inklands rather than a Disney-IP import; the card is among the set's original-character items alongside the established Disney roster. [Lorcana: Amazu's Inkcaster card text, via WebSearch]",
+      "sources": ["Card oracle_text and flavor_text (frontmatter)", "WebSearch snippet: lorcana.cardsrealm.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's ON THE HORIZON ability (exhaust + 1 ink cost) lets the controller look at the top 4 cards of their deck and pull a Location card to hand. Community evaluation places it squarely in Ruby/Location-focused strategies: efficient in decks built around specific Locations, but slow and redundant as a splash. [WebSearch snippet: tcgplayer.com community review]",
+      "sources": ["Card oracle_text (frontmatter)", "WebSearch snippet: tcgplayer.com"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Kuya Jaypi, who serves as both Art Director at Ravensburger North America and a prolific Lorcana card illustrator. Jaypi is notable for illustrating the first Peter Pan Enchanted card in Lorcana and has credits across multiple sets. Amazu's Inkcaster appears to be among his contributions to the Wilds Unknown set. [Lorcana Wiki: Kuya Jaypi, LinkedIn, via WebSearch]",
+      "sources": ["WebSearch: linkedin.com/in/kuyajaypi", "WebSearch: wiki.mushureport.com/wiki/Kuya_Jaypi"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It always points the way to new adventures.\" — Amazu, an Illumineer. The flavor text frames the Inkcaster as a navigation instrument rather than a weapon, consistent with its ability to locate destinations (Location cards) rather than deal damage. [Card flavor_text, frontmatter]",
+      "sources": ["Card flavor_text (frontmatter)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Amazu's Lantern", "set": "unknown — check Lorcana card list", "note": "Amazu may have additional item cards in Wilds Unknown; search for other 'Amazu's' cards"},
+    {"name": "Stitch - Leader of the Ohana", "set": "Lorcana (various)", "note": "Location-search mechanics in Ruby are a recurring Lorcana design space; cross-reference Ruby location-search cards"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

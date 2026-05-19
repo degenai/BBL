@@ -73,3 +73,22 @@ A massive arachnid-form mechanical construct dominates the foreground, its multi
 **Creatures:** mechanical-spider, thopter, construct
 **Genre cues:** steampunk, fantasy, sci-fi
 
+## Trivia
+
+- **Set context / flavor-text lore** — Camera Launcher's flavor text names Vnwxt — the Grand Prix emcee known as "Verbose Host" (DFT no. 73) and nicknamed "Vin." Vnwxt was brought back for the Ghirapur Grand Prix "by popular demand" after commentating the Spellslingers competition on Kylem. The flavor text ("Vnwxt's contract demanded at least one dedicated camera on him at all times") places Camera Launcher as part of Vin's personal media apparatus — a self-promotional deploy mechanism for the interplanar race's star broadcaster. `[Wizards: The Legends of Aetherdrift, via WebFetch; WebSearch: gatherer.wizards.com DFT 73]`
+
+- **Flavor text** — "Vnwxt's contract demanded at least one dedicated camera on him at all times." Camera Launcher is one of the few common-rarity cards in Aetherdrift with a direct named-character lore hook at common. The named character (Vnwxt) has his own legendary creature card in the same set. `[Card flavor_text, frontmatter]`
+
+- **Mechanical context** — Camera Launcher is a 3-mana 2/2 Artifact Creature — Construct with a single Exhaust ability ({3}: put a +1/+1 counter on this creature and create a 1/1 colorless Thopter token with flying — activate only once). Exhaust is an Aetherdrift-introduced keyword: a given exhaust ability on a permanent can fire only once per game total, not once per turn. The camera "launches" — deploying a single flying Thopter permanently into the air. `[Card oracle_text, frontmatter; WebSearch: magic.wizards.com Aetherdrift Mechanics]`
+
+- **Design / cycle signal** — Illustrated by Ben Wootten, a veteran MTG artist with credits across dozens of sets. Camera Launcher (no. 232) sits between Aetherjacket (no. 230) and Guidelight Matrix (no. 233) — three colorless artifact commons in a tight collector-number band, all supporting Aetherdrift's racing and artifact themes. Edgelord note: this trio likely warrants a cluster edge in the graph. `[Card frontmatter: artist, collector_number; WebSearch: scryfall.com/sets/dft]`
+
+### Related cards
+- Vnwxt, Verbose Host (Aetherdrift, no. 73) — named in flavor text; the Grand Prix emcee whose camera contract the Launcher fulfills
+- Aetherjacket (Aetherdrift, no. 230) — adjacent colorless artifact common in the same cluster; Thopter creature type
+- Guidelight Matrix (Aetherdrift, no. 233) — adjacent colorless artifact common; vehicle/mount support — same cluster
+- Thopter Fabricator (Aetherdrift, no. 68) — also creates Thopter tokens in the same set
+
+## Connections
+
+- [[230-aetherjacket]] — Shared Thopter creature type. Camera Launcher's Exhaust ability creates a 1/1 colorless Thopter token with flying; Aetherjacket IS a Thopter (the named "Sting Strike model" per its flavor text — a Shadowblayde Craftworks Thopter line). The two cards depict opposite ends of the same Avishkari mechanical-insect manufacturing pipeline — Camera Launcher the Construct deploying generic-token Thopters into the air at the Grand Prix, Aetherjacket the named-line consumer model marketed post-Invasion. Thopter is the canonical Avishkar/Kaladesh creature subtype introduced in original Kaladesh (2016). `[Card oracle_text and type_line (both cards, frontmatter); Scryfall t:thopter set:dft]`

@@ -1,0 +1,86 @@
+{
+  "edge_id": "wave128-snip-simipour-daa042-cohort-redundant-trio-mirror",
+  "wave": 128,
+  "shape": "edge-dissolution",
+  "topology": "stack",
+  "category": "redundant-per-card-mirror-cohort-node-subsumes",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/darkness-ablaze/042-189-simipour.md",
+      "name": "Simipour (Darkness Ablaze 042/189)"
+    },
+    {
+      "type": "character-cohort-node",
+      "path": "cards/_characters/elemental-monkey-trio.md",
+      "name": "Elemental monkey trio (cohort node — subsumes the snipped edge)"
+    }
+  ],
+  "description": "ONE snip. Dissolved the four-bullet `### Related cards` trio-sibling-mirror block on Simipour DAA-042 (bullets pointing at Panpour pre-evolution + Simisage / Simisear / Pansage trio siblings). The four bullets express ONE logical edge — 'Simipour mirrors its trio cohort companions' — which is the exact edge the [[elemental-monkey-trio]] cohort node already articulates at the cohort scope. Triple-justification matches the Simisage DAA-007 precedent verbatim: (a) COHORT-NODE SUBSUMPTION — card already wires to the cohort via `characters: [elemental-monkey-trio]` frontmatter; cohort `appears_on:` includes this card; the cohort node body explicitly carries the trio-mirror tissue for all six canonical species plus the per-card Simipour DAA-042 bullet, (b) IN-CARD REDUNDANCY — the card's own `## Trivia` section directly above includes a 'Design origin' bullet that articulates the full three-wise-monkeys mapping (Pansage=Iwazaru / Pansear=Kikazaru / Panpour=Mizaru) with Bulbapedia citation; the four snipped bullets restate the same thesis without citations, (c) JANNY-SWEEP OMISSION — the wave-122 `janny_redundant_sibling_mirror_sweep.py` SNIPS dict swept the BUS prints (Pansage 12, Pansear 22, Panpour 36), the DAA Pansage (006), DAA Simisear (027), and the Lunatone pair (BUS-68, DAA-072), but DAA-042 Simipour is NOT in the SNIPS dict; it was missed during the mechanical sweep. This Edgelord pass resolves the omission. No cross-print same-species Simipour bullet hiding among the four (a Simipour BB-018 print now exists in corpus as of wave 127, but the four snipped bullets are all trio-sibling-mirror, none are a same-species print-continuity bullet). Section retained (with an HTML comment marking the dissolution) as a hook for future legitimate cross-print bullets if a Simipour BB-018 same-species print-continuity edge is later judged worth wiring at card scope rather than cohort scope.",
+  "citations": [
+    "[cards/_characters/elemental-monkey-trio.md — cohort node, includes pokemon/darkness-ablaze/042-189-simipour in appears_on: at line 24, per-card Simipour DAA-042 bullet at line 53 articulates the trio tissue at cohort scope]",
+    "[cards/pokemon/darkness-ablaze/042-189-simipour.md — characters: [elemental-monkey-trio] frontmatter at lines 49-50 wires the traversal; ## Trivia 'Design origin' bullet at line 85 states the three-wise-monkeys mapping with Bulbapedia citation]",
+    "[reports/_scratch/janny_redundant_sibling_mirror_sweep.py — wave-122 janny SNIPS dict at lines 34-78 covers BUS-12/22/36/68, DAA-006/027/072, but OMITS DAA-042; this snip resolves the mechanical-sweep gap]",
+    "[reports/edges_pending/snip-simisage-daa007-cohort-redundant-trio-mirror.json — direct precedent on the same cohort, same shape, same triple-justification]"
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/042-189-simipour.md"
+  ],
+  "edges_removed": [
+    {
+      "from": "pokemon/darkness-ablaze/042-189-simipour",
+      "to": "pokemon/*/panpour (various) — pre-evolution mirror",
+      "kind": "redundant-per-card-trio-cohort-mirror"
+    },
+    {
+      "from": "pokemon/darkness-ablaze/042-189-simipour",
+      "to": "pokemon/*/simisage (various) — trio sibling mirror",
+      "kind": "redundant-per-card-trio-cohort-mirror"
+    },
+    {
+      "from": "pokemon/darkness-ablaze/042-189-simipour",
+      "to": "pokemon/*/simisear (various) — trio sibling mirror",
+      "kind": "redundant-per-card-trio-cohort-mirror"
+    },
+    {
+      "from": "pokemon/darkness-ablaze/042-189-simipour",
+      "to": "pokemon/*/pansage (various) — trio sibling mirror",
+      "kind": "redundant-per-card-trio-cohort-mirror"
+    }
+  ],
+  "edgelord_mood": "dark-nodesley-confident",
+  "other_candidates_considered": [
+    {
+      "candidate": "Simipour BB-018 `### Related cards` snip",
+      "judgment": "REFUSED — BB-018 has no `### Related cards` section at all (vision pass only; trivia pass not yet run). Nothing to snip. The cohort wiring is already in place via wave-127 attach. Surface as ordinary trivia-queue enrichment.",
+      "topology": "n/a"
+    },
+    {
+      "candidate": "Pansage BB-004 + Panpour BB-017 enlightened-replacement (add cohort wiring, then snip)",
+      "judgment": "REFUSED THIS PASS — explicitly flagged in snip-simisage-daa007 sidecar's `next_pass_suggestions` as enlightened-replacement work, not pure snip. SNIP-FRENZY mode is ONE CUT, not edge-replacement. Stage for a wave-129 enlightened-replacement pass per the existing standing recommendation.",
+      "topology": "n/a"
+    },
+    {
+      "candidate": "Pansage BB-004 standalone snip on its `### Related cards`",
+      "judgment": "REFUSED — Pansage BB-004 lacks `characters: [elemental-monkey-trio]` frontmatter AND is missing from the cohort node's `appears_on:` list. Snipping without wiring would orphan the card from the cohort. Must be enlightened-replacement, not pure snip.",
+      "topology": "n/a"
+    },
+    {
+      "candidate": "Simisage DAA-007 re-verification — was the prior snip applied cleanly?",
+      "judgment": "Not re-verified this pass (would be a hygiene re-check, not a new snip). Trust the wave-126 sidecar receipt unless caller flags drift.",
+      "topology": "n/a"
+    },
+    {
+      "candidate": "Klink BB-061 / Fraxure BB-069 cohort-attach surfacing (per parent prompt's wave-128 mention)",
+      "judgment": "Not a snip candidate — these are cohort-attach (Mr. Nodeley / Edgelord-attach) work, not snip work. Mode mismatch. Stage for ordinary Edgelord dispatch.",
+      "topology": "n/a"
+    }
+  ],
+  "next_pass_suggestions": [
+    "Enlightened-replacement pass on Pansage BB-004 + Panpour BB-017: ADD `characters: [elemental-monkey-trio]` frontmatter on both cards, ADD `pokemon/black-bolt/004-086-pansage` and `pokemon/black-bolt/017-086-panpour` to elemental-monkey-trio.md `appears_on:`, ADD per-card cohort bullets in the cohort node body, THEN snip the redundant trio-sibling bullets in Pansage BB-004's `### Related cards` (preserving the fourth Pansage-Art-Rare bullet as a legitimate cross-print same-set variant edge). Panpour BB-017 has no `### Related cards` section so the snip side is a no-op there — just the wiring.",
+    "Trivia queue: Simipour BB-018 — vision-passed wave 127 but no trivia pass; once trivia lands, re-check whether a `### Related cards` block was added and whether it carries cohort-redundant bullets needing a future snip.",
+    "Janitorbot mechanical sweep extension: update `reports/_scratch/janny_redundant_sibling_mirror_sweep.py` SNIPS dict to add `cards/pokemon/darkness-ablaze/042-189-simipour.md` for future re-runs (the snip is already applied, but the script is the receipt of which cards have been swept; keeping it complete prevents re-scanning effort later).",
+    "Janitorbot mechanical sweep candidate (broader): the wave-127 sidecar already flagged this — grep for cards with BOTH `characters: [<cohort-slug>]` frontmatter AND a `### Related cards` section whose bullets restate the cohort roster. DAA-042 was the most-recent verified miss; a fresh corpus sweep may surface others as more cohort nodes get populated (fear-of-cycle, dsk-unlucky-lands-cycle, etc.)."
+  ],
+  "edgelord_notes": "Mood enum `dark-nodesley-confident` chosen over `enlightened-corrective` because this isn't fixing Edgelord overreach — the four bullets were correct at write-time (no cohort node existed then); the cohort node was added later and the bullets quietly became redundant. The dissolution is mechanical cleanup, not corrective. Snip-frenzy is functionally a Dark Nodesley EX flavor of Edgelord work when the dissolution target is a redundant edge rather than a redundant node, so the mood enum reads cleanly across both forms. Refused to dual-dispatch (no second snip this pass — one cut per invocation discipline holds). Refused to fabricate cross-print Simipour DAA-042↔BB-018 mirror in the same pass — that's a separate enlightened-replacement consideration once BB-018 has trivia."
+}

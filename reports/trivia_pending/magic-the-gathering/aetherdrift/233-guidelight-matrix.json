@@ -1,0 +1,37 @@
+{
+  "card_name": "Guidelight Matrix",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "233",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift (DFT, released February 14, 2025) is the first Magic set to heavily foreground both Mount and Vehicle creature types in the same environment. Guidelight Matrix serves as a set-support artifact that bridges both: it can manually saddle a Mount or crew a Vehicle on command. This dual-activation design reflects the Grand Prix racing event's reliance on both creature-mounts and piloted vehicles. [WebSearch: magic.wizards.com Aetherdrift Mechanics; Scryfall: DFT 233]",
+      "sources": ["WebSearch: magic.wizards.com/en/news/feature/aetherdrift-mechanics", "WebSearch: scryfall.com/card/dft/233/guidelight-matrix"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Guidelight Matrix is a 2-mana artifact with three lines: (1) draw a card on entry, (2) {2},{T}: target Mount you control becomes saddled until end of turn (sorcery speed), (3) {2},{T}: target Vehicle you control becomes an artifact creature until end of turn. EDHREC's Aetherdrift artifact review called it their favorite lower-rarity card in the set, praising 'the ability to turn any of them or a Vehicle into a beater for a puny two mana' alongside the entry-trigger card draw. [EDHREC: Aetherdrift Set Review — Artifacts and Lands, via WebFetch]",
+      "sources": ["WebFetch: edhrec.com/articles/aetherdrift-set-review-artifacts-lands", "Card oracle_text (frontmatter)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Eli Minaya. Guidelight Matrix (no. 233) is the highest collector number of three adjacent colorless artifact commons in Aetherdrift: Aetherjacket (no. 230), Camera Launcher (no. 232), and Guidelight Matrix (no. 233). While Aetherjacket and Camera Launcher are artifact creatures, Guidelight Matrix is a non-creature artifact — the three together span the artifact-support commons of the set. [Card frontmatter: artist, collector_number; WebSearch: scryfall.com/sets/dft]",
+      "sources": ["Card frontmatter: artist, collector_number", "WebSearch: scryfall.com/sets/dft"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Aetherjacket", "set": "Aetherdrift (DFT, no. 230)", "note": "Adjacent colorless artifact common in same cluster — creature type Thopter"},
+    {"name": "Camera Launcher", "set": "Aetherdrift (DFT, no. 232)", "note": "Adjacent colorless artifact common in same cluster — Construct with Exhaust"},
+    {"name": "Vengeful Steedbreaker", "set": "Aetherdrift (DFT)", "note": "Mount-disruption card in same set — cross-reference vehicle/mount design space"},
+    {"name": "Cultivator's Caravan", "set": "Kaladesh (KLD)", "note": "Predecessor artifact Vehicle from original Kaladesh block (same plane, now Avishkar)"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

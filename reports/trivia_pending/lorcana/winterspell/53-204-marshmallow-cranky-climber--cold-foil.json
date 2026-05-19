@@ -1,0 +1,46 @@
+{
+  "card_name": "Marshmallow - Cranky Climber",
+  "game": "Lorcana",
+  "set": "Winterspell",
+  "collector_number": "53/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Marshmallow is canonically named on the card (name field: 'Marshmallow - Cranky Climber'). The card is a Dreamborn Ally — Lorcana's classification for characters who originated in Elsa's imagination/magic (consistent with Marshmallow being created by Elsa). Flavor text 'GO AWAY!!' is a verbatim line Marshmallow shouts in Frozen (2013). ICY BLAST ability and Amethyst ink color both confirm the Frozen snow-monster identity. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Marshmallow - Cranky Climber (no. 53/204) is an Amethyst-ink card in Winterspell (Lorcana Set 11, released February 13, 2026) — a set whose entire narrative centers on a magical winter event freezing the Inklands. Marshmallow's inclusion fits the set's cold-weather theming: the character is an ice-and-snow construct from Disney's Frozen (2013). [Mushu Report: Marshmallow - Cranky Climber; Lorcana Wiki: Winterspell, via WebSearch]",
+      "sources": ["WebFetch: wiki.mushureport.com/wiki/Marshmallow_-_Cranky_Climber", "WebSearch: chaoscards.co.uk Winterspell article"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Frozen, Marshmallow is a giant snow-monster created by Elsa to expel Anna and Kristoff from her ice palace. Unlike Olaf (created from Elsa's happiness), Marshmallow was born from Elsa's desire to protect herself and keep Anna at a distance. Following Elsa's return to Arendelle, Marshmallow is left as the caretaker of her mountain palace. [Disney Wiki: Marshmallow; The Codex Wiki: Marshmallow, via WebSearch]",
+      "sources": ["WebSearch: disney.fandom.com/wiki/Marshmallow", "WebSearch: thecodex.wiki/Marshmallow"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The ICY BLAST ability (triggers on quest: each opponent cannot ready more than 1 character at the start of their next turn) is a board-wide tap-lock effect that trades Marshmallow's lore generation for an action-economy tax on all opponents. As a 5-cost 5/5 Rare Dreamborn Ally, it occupies the same mana band as several other Lorcana curve-toppers. The effect is particularly punishing in multiplayer formats. [Mushu Report: Marshmallow - Cranky Climber, card oracle_text (frontmatter)]",
+      "sources": ["WebFetch: wiki.mushureport.com/wiki/Marshmallow_-_Cranky_Climber", "Card oracle_text (frontmatter)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"GO AWAY!!\" — the flavor text is Marshmallow's most recognizable line from Frozen, delivered when he expels Anna and Kristoff from the ice palace. The choice to use this line rather than a narrator description reflects Lorcana's habit of using first-person character dialogue as flavor text for beloved Disney moments. [Card flavor_text (frontmatter); Disney film: Frozen, 2013]",
+      "sources": ["Card flavor_text (frontmatter)", "WebSearch: disney.fandom.com/wiki/Marshmallow"]
+    },
+    {
+      "category": "design",
+      "text": "The copy in inventory is a Cold Foil variant — Winterspell's premium foiling treatment named after the set's ice theme. Cold Foil is Lorcana's cold-stamped foil technology applied to select Rare and higher-rarity cards in the Winterspell set, distinct from standard holographic foil. [WebSearch: facetofacegames.com Winterspell Cold Foil listing]",
+      "sources": ["WebSearch: facetofacegames.com/marshmallow-cranky-climber-53204-winterspell-cold-foil"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Elsa - Snow Queen", "set": "Lorcana (various)", "note": "Marshmallow's creator; Elsa cards are recurring Amethyst-ink figures"},
+    {"name": "Olaf - Friendly Snowman", "set": "Lorcana (various)", "note": "Also created by Elsa; Olaf and Marshmallow are paired snow-creations with contrasting temperaments"},
+    {"name": "Anna - Brave Princess", "set": "Lorcana (various)", "note": "The character Marshmallow was created to expel from the ice palace"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Marshmallow (Frozen)",
+    "ip_confidence": "high"
+  }
+}

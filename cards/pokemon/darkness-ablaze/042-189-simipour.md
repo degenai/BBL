@@ -87,8 +87,6 @@ A blue monkey-like creature with a large curly blue topknot sits in a shallow, b
 - **Art** — Art by Shigenori Negishi. The seated tide-pool pose is a direct visual expression of the flavor text's clean-water habitat preference and the Mizaru see-no-evil serenity register. `[PokemonTCG.io API: swsh3-42 artist field]`
 
 ### Related cards
-- Panpour (various) — pre-evolution; Water-type base form encoding Mizaru (see-no-evil)
-- Simisage (various) — elemental monkey cohort member, Grass-type (Iwazaru / speak-no-evil)
-- Simisear (various) — elemental monkey cohort member, Fire-type (Kikazaru / hear-no-evil)
-- Pansage (various) — Grass elemental monkey base form completing the trio
+<!-- wave-128 snip-frenzy: dissolved 4 trio-sibling-mirror bullets (Panpour pre-evolution + Simisage / Simisear / Pansage trio siblings). Cohort wiring via `characters: [elemental-monkey-trio]` frontmatter + cohort node body + this card's own `## Trivia` "Design origin" bullet (Bulbapedia citation) collectively subsume the per-card mirror. Section retained as a hook for future cross-print Simipour bullets (e.g. BB-018 if a same-species print continuity edge is later judged worth wiring at card scope rather than cohort scope). -->
+
 

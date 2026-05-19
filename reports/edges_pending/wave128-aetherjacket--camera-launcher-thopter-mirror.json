@@ -1,0 +1,63 @@
+{
+  "edge_id": "aetherjacket--camera-launcher--shared-thopter-pipeline",
+  "wave": 128,
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/aetherdrift/230-aetherjacket.md",
+      "name": "Aetherjacket (DFT-230)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/aetherdrift/232-camera-launcher.md",
+      "name": "Camera Launcher (DFT-232)"
+    }
+  ],
+  "description": "Two endpoints. Bidirectional Thopter-pipeline mirror. Camera Launcher CREATES 1/1 colorless flying Thopter tokens (oracle_text Exhaust line); Aetherjacket IS a Thopter (oracle_text type_line + the 'Sting Strike model' flavor text naming a Shadowblayde Craftworks Thopter product line). Read together: a Construct deploying generic-token Thopters into the Grand Prix sky, and a named consumer-model Thopter marketed as military surplus. Thopter is canonical Avishkar/Kaladesh creature subtype since original Kaladesh (2016). Sigh, mirrored.",
+  "citations": [
+    "[Card oracle_text and type_line, Aetherjacket frontmatter (Artifact Creature - Thopter; flying, vigilance)]",
+    "[Card oracle_text and type_line, Camera Launcher frontmatter (Exhaust - {3}: ... Create a 1/1 colorless Thopter artifact creature token with flying)]",
+    "[Card flavor_text, Aetherjacket frontmatter ('The Sting Strike model ... bestseller for Shadowblayde Craftworks')]",
+    "[Scryfall: t:thopter set:dft]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/aetherdrift/230-aetherjacket.md",
+    "cards/magic-the-gathering/aetherdrift/232-camera-launcher.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    {
+      "candidate": "Mr. Nodeley: aetherdrift-artifact-commons-cluster (Aetherjacket + Camera Launcher + Guidelight Matrix as a character-layer cohort)",
+      "verdict": "REFUSED",
+      "reason": "Triviabot's own signal noted 'not formally designer-named.' The three cards share adjacent collector slots + colorless + artifact rarity — that's a pattern instance, not a designer-coordinated cohort. Compare the precedent cohort nodes: dsk-unlucky-lands-cycle has shared rules text + shared 'They say...' flavor convention + shared haunted-vernacular-place subject (three predicates, all designer-coordinated). eld-cinderella-cycle has Rosewater's design article naming the cycle. endriders has Wizards-named faction status. The DFT-230/232/233 trio has none of those — no shared rules text (artifact removal vs. token generator vs. mount/vehicle support), no shared flavor register (Phyrexian-surplus military commerce vs. Vnwxt's camera contract vs. no flavor text at all), no shared subject (mechanical insect vs. mechanical spider vs. crystal matrix device). Promoting this to a cohort node would violate Potion Rule sub-rule 4 (don't graduate pattern-instances to first-class graph-objects). Standard graph-theory terms suffice: this is a bidirectional edge between two cards plus a noted-in-prose recurrence."
+    },
+    {
+      "candidate": "Edgelord 1:1: Aetherjacket ↔ Guidelight Matrix (both 'colorless artifact common')",
+      "verdict": "REFUSED",
+      "reason": "Tag-tier sharing only. Both are colorless artifact commons. That's filter-tier metadata, not an edge. No shared creature type, no flavor link, no story moment, no symbol on art. Refused per the standing rule: shared single tag ≠ edge."
+    },
+    {
+      "candidate": "Edgelord 1:1: Camera Launcher ↔ Guidelight Matrix (both 'support the Grand Prix racing apparatus')",
+      "verdict": "REFUSED but interesting",
+      "reason": "Tempting because both serve the racing event — Camera Launcher names Vnwxt (the Grand Prix emcee) directly, and Guidelight Matrix saddles/crews mounts and vehicles which are the race's substrate. But 'supports the racing apparatus' applies to roughly half the DFT corpus — it's set-thematic, not pair-specific. The Vnwxt connection is already captured cleanly via Camera Launcher's existing Related cards bullet pointing to Vnwxt, Verbose Host. No additional edge needed yet; revisit when Vnwxt himself enters the corpus and the apparatus-of-spectacle character node becomes load-bearing."
+    },
+    {
+      "candidate": "Edgelord 1:1: Guidelight Matrix ↔ Guidelight Optimizer (DFT-45) — shared 'Guidelight' name prefix",
+      "verdict": "DEFERRED to a future wave",
+      "reason": "Guidelight Optimizer (DFT-45) is vision-passed but NOT trivia-passed yet. The name-prefix recurrence ('Guidelight') is suggestive — it could be a Wizards-coded in-world product line (like the way 'Aether-' branding spans Avishkar artifacts) or it could just be flavor word recycling. Without triviabot's canonical sourcing on Optimizer's flavor text and any Wizards designer commentary on the 'Guidelight' brand, drawing the edge now would be speculation. Stage for the wave after DFT-45 trivia-pass."
+    }
+  ],
+  "next_pass_suggestions": [
+    "After bbl-triviabot enriches DFT-45 Guidelight Optimizer, re-dispatch Edgelord on the {Guidelight Matrix, Guidelight Optimizer} pair to verify or refuse the 'Guidelight' shared-brand edge.",
+    "When Vnwxt, Verbose Host (DFT-73) enters the BBL corpus and is enriched, dispatch Mr. Nodeley to consider an 'Aetherdrift Grand Prix apparatus' character-layer cohort node (Vnwxt + Camera Launcher + potentially Far Fortune, End Boss + the Endriders racing team) — at that point the apparatus-of-spectacle pattern has named-character anchors and crosses the cohort-vs-pattern-instance threshold.",
+    "Re-examine the DFT-230/232/233 cluster ONLY if Wizards publishes a designer article naming the artifact-commons trio explicitly (precedent: Cinderella cycle was named in Rosewater's design article)."
+  ],
+  "potion_rule_check": {
+    "applied": true,
+    "sub_rules_invoked": ["#4 don't graduate pattern-instances to first-class graph-objects"],
+    "verdict": "Refused the cohort node. Drew the load-bearing pair-edge instead. Noted the recurrence in the sidecar prose. Did not invent new graph-primitive vocabulary."
+  }
+}

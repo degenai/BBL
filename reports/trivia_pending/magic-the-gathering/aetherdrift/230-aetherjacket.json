@@ -1,0 +1,42 @@
+{
+  "card_name": "Aetherjacket",
+  "game": "Magic: The Gathering",
+  "set": "Aetherdrift",
+  "collector_number": "230",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aetherdrift (set code DFT) is Magic's 103rd expansion, released February 14, 2025. Set on the newly renamed plane of Avishkar (formerly Kaladesh — renamed after the Indigo Revolution), the story takes place approximately two years after the New Phyrexian Invasion of the Multiverse (March of the Machine). The 'Invasion' in Aetherjacket's flavor text refers specifically to this Phyrexian incursion. [Draftsim: Aetherdrift Lore & Story Summary; WebSearch snippet]",
+      "sources": ["WebSearch: draftsim.com/mtg-aetherdrift-story/", "WebSearch: gameshub.com Aetherdrift overview"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The Sting Strike model saved thousands of lives during the Invasion and quickly became a bestseller for Shadowblayde Craftworks.\" — Shadowblayde Craftworks is an in-world Avishkari artifact manufacturer; the Sting Strike is this specific Thopter model's product name. The flavor text frames the card as military surplus gone commercial — a weapon of the Phyrexian War repackaged as a consumer product. [Card flavor_text (frontmatter); Scryfall: Aetherjacket, via WebSearch snippet]",
+      "sources": ["Card flavor_text (frontmatter)", "WebSearch: scryfall.com/card/dft/230/aetherjacket"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Aetherjacket is a 3-mana 2/1 Artifact Creature — Thopter with flying and vigilance, plus a sacrifice-based artifact removal ability ({2}, {T}, sacrifice: destroy another target artifact, sorcery speed). It is in the tradition of Avishkar's Thopter creature type — small flying artifact insects first introduced in the original Kaladesh block. The card has the colorless mana cost common to artifact creatures that slot into any deck. [Scryfall: Aetherjacket, via WebSearch; Gatherer: DFT 230]",
+      "sources": ["Card oracle_text (frontmatter)", "WebSearch: gatherer.wizards.com/DFT/en-us/230/aetherjacket"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Domenico Cava. The artifact creature cycle of support commons in Aetherdrift (Aetherjacket at no. 230, Camera Launcher at no. 232, Guidelight Matrix at no. 233) cluster in adjacent collector numbers, suggesting a co-designed group of set-support artifacts tied to the Grand Prix racing theme and Avishkar's aetherpunk aesthetic. All three are colorless artifacts. [Scryfall set gallery DFT, via WebSearch; card metadata (frontmatter)]",
+      "sources": ["WebSearch: scryfall.com/sets/dft", "Card frontmatter: artist, collector_number"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Camera Launcher", "set": "Aetherdrift (DFT, no. 232)", "note": "Adjacent collector number; colorless artifact creature common in same set — likely part of same artifact support cluster"},
+    {"name": "Guidelight Matrix", "set": "Aetherdrift (DFT, no. 233)", "note": "Adjacent collector number; colorless artifact common with vehicle/mount synergy — same cluster"},
+    {"name": "Thopter Fabricator", "set": "Aetherdrift (DFT, no. 68)", "note": "Same set; creates Thopter tokens — shares creature type with Aetherjacket"},
+    {"name": "Smuggler's Copter", "set": "Kaladesh (KLD)", "note": "Iconic Kaladesh-block artifact/vehicle predecessor from the same plane (now Avishkar)"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

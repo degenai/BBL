@@ -1,0 +1,41 @@
+{
+  "card_name": "Lord Dingwall - Bullheaded",
+  "game": "Lorcana",
+  "set": "Wilds Unknown",
+  "collector_number": "186/204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Lord Dingwall is canonically named on the card (name field: 'Lord Dingwall - Bullheaded'). The character is a known Disney/Pixar Brave figure appearing in Lorcana Set 12 (Wilds Unknown). Card name, flavor text, art description (wild white hair, tartan kilt, Scottish clan lord with aggressive posture and round shield), and set context all confirm identity. The figure to his side is Wee Dingwall, his son from Brave. Voiced by the late Robbie Coltrane in the film. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Lord Dingwall - Bullheaded (no. 186/204) is among the Brave characters making their Lorcana debut in Wilds Unknown (Set 12, May 15, 2026), the first expansion to introduce Pixar IP into the game. Lord Dingwall appears alongside his son Wee Dingwall (Scrappy Lad, no. 176/204) in the same set, preserving the father-son dynamic from the film. [Lorcana Wiki: Wilds Unknown; Mushu Report: Lord Dingwall, via WebSearch]",
+      "sources": ["WebSearch: lorcanaplayer.com/wilds-unknown-card-list-lorcana-set-12", "WebSearch: wiki.mushureport.com/wiki/Lord_Dingwall_(character)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Disney/Pixar's Brave (2012), Lord Dingwall is the leader of Clan Dingwall — one of three Highland clan lords who bring their sons as suitors for Princess Merida's hand in marriage. He was voiced by the late Robbie Coltrane. Despite his lean build, he is known for his willingness to brawl with opponents far larger than himself. [Disney Wiki: Lord Dingwall, via WebSearch]",
+      "sources": ["WebSearch: disney.fandom.com/wiki/Lord_Dingwall", "WebSearch: disneynews.us/character/lord-dingwall/"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Lord Dingwall's FIGHTIN' TALK ability lets him enter play exhausted to grant a chosen character Challenger +3 for the turn — a Steel-ink combat-buff pattern that mirrors the character's blustering, combat-ready personality. As a 5-cost 5/6 Uncommon Storyborn Ally, he sits in the upper end of the common/uncommon bracket. [Mushu Report: Lord Dingwall - Bullheaded, via WebFetch]",
+      "sources": ["WebFetch: wiki.mushureport.com/wiki/Lord_Dingwall_(character)", "Card oracle_text (frontmatter)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Ach, look at the size o' that flower! Let's clear that beastie out before it causes any trouble.\" The line captures Dingwall's reflexive pugnacity — he sees a large flower and immediately frames it as a threat requiring violent intervention. [Card flavor_text, frontmatter]",
+      "sources": ["Card flavor_text (frontmatter)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Wee Dingwall - Scrappy Lad", "set": "Wilds Unknown (176/204)", "note": "Lord Dingwall's son; both appear in Wilds Unknown preserving the Brave father-son pair"},
+    {"name": "Merida - Brave Princess", "set": "Lorcana (various sets)", "note": "The primary Brave protagonist; Dingwall's clan is one of her suitors' groups"},
+    {"name": "Lord MacGuffin / Lord Macintosh", "set": "Lorcana (check set list)", "note": "The other two Brave clan lords; may also appear in Wilds Unknown or future sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Lord Dingwall (Brave)",
+    "ip_confidence": "high"
+  }
+}

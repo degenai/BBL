@@ -82,3 +82,18 @@ A decorative magical staff or wand is depicted diagonally against a warm reddish
 **Iconography:** teal jewel, ornate staff, explorer's tool
 **Genre cues:** fantasy, animation, adventure
 
+## Trivia
+
+- **Set context** — Wilds Unknown (Set 12, released May 15, 2026) is the first Lorcana expansion to introduce Pixar characters into the game, with Toy Story, Brave, and The Incredibles all making their TCG debut. The set's narrative follows glimmers scattered across uncharted Inklands territories called Domains following the thaw of the Winterspell. `[Lorcana Wiki: Wilds Unknown; WebSearch: fantasylandnews.com]`
+
+- **Character context** — The flavor text attributes the Inkcaster to "Amazu, an Illumineer" — an Illumineer being the in-world term for a Lorcana player/summoner who calls glimmers into being. Amazu appears to be an original Lorcana character native to the Inklands rather than a Disney-IP import; the card is among the set's original-character items alongside the established Disney roster. `[Card flavor_text; WebSearch: lorcana.cardsrealm.com]`
+
+- **Flavor text** — "It always points the way to new adventures." — Amazu, an Illumineer. The line frames the Inkcaster as a navigation instrument rather than a weapon, consistent with the card's ON THE HORIZON ability, which locates destinations (Location cards) rather than dealing damage. `[Card flavor_text, frontmatter]`
+
+- **Mechanical context** — ON THE HORIZON (exhaust + 1 ink cost): look at top 4 cards, reveal a Location card to hand, rest go to bottom. Community evaluation places it in Ruby/Location-focused strategies — efficient in decks built around specific Locations, slow as a splash. `[Card oracle_text; WebSearch: tcgplayer.com community review]`
+
+- **Design** — Illustrated by Kuya Jaypi, who serves as both Art Director at Ravensburger North America and a prolific Lorcana card illustrator. Jaypi is notable for illustrating the first Peter Pan Enchanted card in the game and has credits across multiple sets including original Lorcana characters. `[LinkedIn: Kuya Jaypi; Lorcana Wiki: Kuya Jaypi, via WebSearch]`
+
+### Related cards
+- Wee Dingwall - Scrappy Lad (Wilds Unknown, no. 176/204) — another original Wilds Unknown entry from the same set; cross-reference Ruby item-card ecology
+- Stitch - Leader of the Ohana (Lorcana, various) — Ruby-ink Location-search space is a recurring design pattern; Stitch cards often interact with Location mechanics
