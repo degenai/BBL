@@ -1,0 +1,46 @@
+{
+  "card_name": "Vivi",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-016H",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed via card name ('Vivi'), job ('Black Mage'), category (Final Fantasy IX), and canonical visual identifiers: enormous drooping wide-brimmed pointed hat (Vivi's signature design quirk vs. standard black mages), glowing circular eye-lights beneath brim, layered robes. IP is Square Enix-internal (Final Fantasy IX). No external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vivi Ornitier is the black mage protagonist of Final Fantasy IX (PlayStation, 2000). His defining visual identifiers — oversized drooping pointed hat, glowing yellow/orange circular eyes beneath the brim, layered robes — are present in this card's art. Unlike standard Black Mage soldiers in FF IX, Vivi's hat droops down his back rather than pointing upright, marking him as a longer-lived prototype distinct from the manufactured mage-soldiers.",
+      "sources": ["Wikipedia: Vivi Ornitier", "Final Fantasy Wiki: Vivi Ornitier"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Opus VIII was released in 2019, the eighth main FFTCG expansion. Rarity: Hero (H) — one tier below Legend, used for significant named characters. Cost 1, Fire element, Power 2000, Black Mage job, Category IX.",
+      "sources": ["WebSearch: TCGPlayer Opus VIII Vivi", "WebSearch: Square Enix FFTCG Opus VIII release page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "When Vivi enters the field, choose 1 opposing Forward and deal it 2000 damage. If you control 4 or more Category IX Characters, deal 7000 instead. If you control 7 or more Category IX Characters, deal 10000 instead. Scalable enter-the-battlefield damage that rewards building a full Final Fantasy IX party. At max threshold, a 1-cost card deals 10000 damage on entry — exceptional rate for the cost.",
+      "sources": ["WebSearch: Final Fantasy TCG Opus VIII Vivi card text (via multiple retailer listings)"]
+    },
+    {
+      "category": "design",
+      "text": "Art style is highly stylized and painterly, consistent with Yoshitaka Amano's illustration register — spindly figure, trailing ribbon-elements, pale textured wash background. Amano has contributed art to multiple FFTCG Hero and Legend-tier cards across the Opus series. Artist credit for 8-016H is not confirmed in available sources; flag for verification against physical card credit.",
+      "sources": ["WebSearch: Yoshitaka Amano FFTCG Instagram/ANN", "Vision pass: painterly genre cue"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Vivi's existential arc — discovering he is a manufactured being with a fixed lifespan who developed genuine emotions — is widely regarded as one of the most emotionally resonant character arcs in the Final Fantasy franchise. Market price ($3.91) is elevated for a Hero-tier card at this rarity tier, reflecting sustained community demand driven by character attachment rather than pure competitive utility.",
+      "sources": ["Wikipedia: Vivi Ornitier", "TCGPlayer market price data as of 2026-05-19"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vivi", "set": "Opus III", "note": "3-017L; Legend-tier earlier Vivi card with high-value Amano art; the more-played competitive version"},
+    {"name": "Vivi", "set": "Opus XXVIII", "note": "28-016L; later Legend reprint; tracks the character's TCG longevity across 10+ years of sets"},
+    {"name": "Black Mage", "set": "Opus VIII", "note": "Anonymous Black Mage cards in the same set; the contrast between named protagonist and manufactured soldier mirrors the FF IX narrative"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Vivi Ornitier",
+    "ip_confidence": "high"
+  }
+}

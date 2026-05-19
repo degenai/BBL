@@ -47,7 +47,9 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Son Goku
 ip_confidence: high
-ip_verified: false
+ip_verified: true
+characters:
+  - son-goku
 tags:
   - card
   - dbs
@@ -58,8 +60,8 @@ tags:
 
 ![bt3-057-finishing-spirit-bomb-son-goku](../../_images/dragon-ball-super/cross-worlds/bt3-057-finishing-spirit-bomb-son-goku.png)
 
-> [!warning] Suspected IP: **Son Goku** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Son Goku**
+> Confirmed via card name ("Son Goku" explicit in title), Cross Worlds set Android 13 Saga era attribution, and the orange gi + golden Super Saiyan aura iconography canonical to Goku's design [Dragon Ball Wiki].
 
 A muscular humanoid figure in a tattered orange gi stands with arms raised high above their head, golden aura blazing around their entire body. The hair is spiked and golden, characteristic of a powered-up Super Saiyan transformation. The pose is a classic upward-thrust charge, arms fully extended, fists clenched. An intense yellow-gold energy radiates outward against a dark background. The figure's expression is not fully legible at this resolution but the body language reads as exertion and concentration.
 
@@ -74,4 +76,16 @@ A muscular humanoid figure in a tattered orange gi stands with arms raised high 
 **Objects:** orange-gi, tattered-clothing
 **Iconography:** golden-aura, energy-sphere, raised-fists
 **Genre cues:** anime, manga, shonen
+
+## Trivia
+
+- **Set context** — Cross Worlds (DBS-B03) is the third main booster set for the Dragon Ball Super Card Game, released in 2018. Its thematic anchor is the *Dragon Ball Z: Super Android 13!* film (1992) — Android 13 is the set's headline leader card (BT3-056), with the green subset built around his Android-themed control strategy. BT3-057 sits in that same green column as the climactic counter to Android 13's arc. `[WebSearch: DBS official card list, Cross Worlds strategy page]`
+- **IP verified: Son Goku** — Card name makes identity explicit. The "Finishing Spirit Bomb" refers to the decisive technique from *Dragon Ball Z: Super Android 13!* (1992): Goku gathered a Spirit Bomb while his allies held off Super Android 13, then absorbed the bomb's energy into his Super Saiyan form and punched through Super 13's core to destroy him — a technique unique to that film and not a standard Spirit Bomb usage. `[Wikipedia: Dragon Ball Z: Super Android 13!]` `[Dragon Ball Wiki: Spirit Bomb]`
+- **Mechanics** — EX-Evolve skill allows playing this card on top of any Green Son Goku with energy cost 5 or more by discarding 1 card. When attacking, combo with up to 3 green Battle Cards from the Drop Area; also draws 1 card. A conditional skill grants a "damage to Drop Area" effect when an opponent's Son Goku or Battle Card (cost 6 or less) leaves the field via your skills. Power: 25000. `[WebSearch: DBZ Exchange BT3-057]`
+- **Design history** — BT3-057 is Rare rarity, green color, Battle type, Android 13 Saga era. Cross Worlds was the first DBS set to feature the EX-Evolve mechanic as a core design pillar, allowing evolution chains that reward playing on top of existing units rather than paying full cost — a significant design shift from BT1 and BT2. `[WebSearch: Cross Worlds set overview, DBS official]`
+
+### Related cards
+- Full Power Vegeta (Union Force, BT2-076) — parallel Rare from BT2 featuring a Saiyan power-stance; shares the Saiyan trait and Drop Area mechanics
+- Dawn of Terror, Android 13 (Cross Worlds, BT3-070) — the set's headline villain leader; BT3-057 is the designated narrative counter in the same set
+- Senzu Bean (Galactic Battle / Mythic Booster, BT1-053) — healing Extra played in green Son Goku decks; mechanically paired with characters like this one
 

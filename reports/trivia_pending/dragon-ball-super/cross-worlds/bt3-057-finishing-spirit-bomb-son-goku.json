@@ -1,0 +1,41 @@
+{
+  "card_name": "Finishing Spirit Bomb Son Goku",
+  "game": "Dragon Ball Super",
+  "set": "Cross Worlds",
+  "collector_number": "BT3-057",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name makes Son Goku explicit. 'Finishing Spirit Bomb' references the climactic technique from Dragon Ball Z: Super Android 13! (1992) where Goku absorbed a Spirit Bomb into his Super Saiyan form and destroyed Super Android 13 by punching through his core. Orange gi and golden SSJ aura are canonical Goku visual identifiers.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cross Worlds (DBS-B03) is the third main DBS booster set, released 2018. Its thematic anchor is the Dragon Ball Z: Super Android 13! film (1992); Android 13 is the set's headline leader (BT3-056), with green centered on his control strategy. BT3-057 is the climactic narrative counter in that same green column.",
+      "sources": ["WebSearch: DBS official card list", "WebSearch: Cross Worlds strategy page DBS official"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The 'Finishing Spirit Bomb' refers to the decisive technique from Dragon Ball Z: Super Android 13! (1992): Goku gathered a Spirit Bomb while allies held Super 13 at bay, then absorbed the bomb's energy into his Super Saiyan form and punched through Super 13's core — a unique combination not replicable under standard Spirit Bomb technique rules.",
+      "sources": ["Wikipedia: Dragon Ball Z: Super Android 13!", "Dragon Ball Wiki: Spirit Bomb"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EX-Evolve: discard 1 card to play on top of any Green Son Goku with energy cost 5+. When attacking: combo with up to 3 green Battle Cards from Drop Area and draw 1 card. Conditional: if opponent's Son Goku or cost-6-or-less Battle Card leaves field via your skills, gains 'opponent places damage to Drop Area' for the turn. Power: 25000.",
+      "sources": ["WebSearch: DBZ Exchange BT3-057", "WebSearch: GamingGiant BT3-057"]
+    },
+    {
+      "category": "design",
+      "text": "Cross Worlds was the first DBS set to establish EX-Evolve as a core mechanic, allowing evolution chains by playing on top of existing units rather than paying full cost — a structural design shift from BT1 and BT2's more straightforward play patterns.",
+      "sources": ["WebSearch: DBS official Cross Worlds strategy notes"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dawn of Terror, Android 13", "set": "Cross Worlds", "note": "BT3-070; set's headline villain leader, narrative counter-position to BT3-057"},
+    {"name": "Full Power Vegeta", "set": "Union Force", "note": "BT2-076; parallel Rare Saiyan power card from BT2, Drop Area mechanic overlap"},
+    {"name": "Senzu Bean", "set": "Mythic Booster", "note": "BT1-053; healing Extra paired with green Son Goku decks mechanically"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Goku",
+    "ip_confidence": "high"
+  }
+}

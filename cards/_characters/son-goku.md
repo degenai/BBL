@@ -20,6 +20,7 @@ confidence: canonical
 appears_on:
   - dragon-ball-super/cross-worlds/bt3-006-pint-sized-warrior-son-goku
   - dragon-ball-super/cross-worlds/bt3-007-shocking-future-son-goku
+  - dragon-ball-super/cross-worlds/bt3-057-finishing-spirit-bomb-son-goku
   - dragon-ball-super/cross-worlds/bt3-058-pressure-assault-super-saiyan-son-goku
   - dragon-ball-super/colossal-warfare/bt4-005-blazing-spirit-son-goku
   - dragon-ball-super/colossal-warfare/bt4-026-sneak-attack-son-goku
@@ -113,6 +114,7 @@ This is what BBL's bundle copy can lean on without inventing canon: Goku is, can
 
 - [[bt3-006-pint-sized-warrior-son-goku]]
 - [[bt3-007-shocking-future-son-goku]]
+- [[bt3-057-finishing-spirit-bomb-son-goku]]
 - [[bt3-058-pressure-assault-super-saiyan-son-goku]]
 - [[bt4-005-blazing-spirit-son-goku]]
 - [[bt4-026-sneak-attack-son-goku]]

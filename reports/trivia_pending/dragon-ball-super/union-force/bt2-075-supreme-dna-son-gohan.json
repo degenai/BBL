@@ -1,0 +1,41 @@
+{
+  "card_name": "Supreme DNA Son Gohan",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-075",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is explicit: 'Son Gohan.' Official DBS-CG database designates the character as 'Son Gohan: Childhood' with Special Trait Saiyan/Earthling, Android/Cell Saga era — consistent with Union Force's Cell Saga thematic axis.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (DBS-B02) was released November 3, 2017. Its green subset is explicitly designed around the Android/Cell Saga, with Cell's Union-Absorb transformation as the headline mechanic. BT2-075 fits the green column; 'Supreme DNA' references Gohan's Saiyan-Earthling hybrid biology, which Cell appropriated as a key component of his own 'perfect' form.",
+      "sources": ["WebSearch: DBS official Union Force designer's note", "PSA CardFacts: Union Force 2017"]
+    },
+    {
+      "category": "set-lore",
+      "text": "'Supreme DNA' reframes Gohan not as Cell's victim but as the genetic source — the template for supremacy that Cell copied. The 'Childhood' designation specifies pre-Cell-Games Gohan, consistent with the Android saga timeline where Gohan's potential was first becoming apparent.",
+      "sources": ["Dragon Ball Wiki: Cell", "WebSearch: TCGPlayer BT2-075"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Battle card, Green, Cost 3, Power 15000, Combo Power 5000, Common. Effect: if 2 or more Son Goku cards are in your Drop Area, reduce this card's energy cost by 2. A family-lineage synergy payoff rewarding Goku-focused Drop Area buildup — mechanically encouraging mixed Goku-Gohan green decks.",
+      "sources": ["WebSearch: Level Up Games BT2-075", "WebSearch: DBZ Exchange / TCGPlayer BT2-075"]
+    },
+    {
+      "category": "design",
+      "text": "Special Trait: Saiyan/Earthling. Gohan is one of a small number of DBS-CG characters with a dual-trait listing — canonically the first half-Saiyan, half-human character of narrative significance, with a power ceiling theorized in-universe to exceed full-blooded Saiyans precisely because of the hybrid lineage.",
+      "sources": ["Dragon Ball Wiki: Son Gohan", "WebSearch: TCGPlayer BT2-075 database"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Perfect Force Cell", "set": "Union Force", "note": "BT2-084; set's headline Special Rare, the villain whose arc BT2-075 is embedded in"},
+    {"name": "Full Power Vegeta", "set": "Union Force", "note": "BT2-076; adjacent Rare same set, same Android/Cell Saga era"},
+    {"name": "Son Gohan, Champion of Justice", "set": "various", "note": "Adult Gohan cards that contrast with this Childhood version across the DBS-CG character arc"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Son Gohan",
+    "ip_confidence": "high"
+  }
+}

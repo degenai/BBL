@@ -46,7 +46,7 @@ time_of_day: indeterminate
 setting: other
 suspected_ip: Chocobo
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Chocobo (Opus VI)
@@ -55,8 +55,8 @@ ip_verified: false
 
 ![6-050c-chocobo](../../_images/final-fantasy-tcg/opus-vi/6-050c-chocobo.jpg)
 
-> [!warning] Suspected IP: **Chocobo** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Chocobo**
+> Confirmed via card name, FFTCG category "Theatrhythm," and the canonical Chocobo visual identifiers: yellow feathers, orange crest, round blue eye, plump galliform silhouette. IP is Square Enix-internal (Final Fantasy franchise mascot). [Final Fantasy Wiki: Chocobo]
 
 A chibi-style yellow bird stands in a three-quarter pose against a light green background scattered with white musical notes and swirling sheet-music motifs. The creature has a large feathered orange crest atop its head, stubby rounded wings, a small beak, and a single visible round blue eye. The body is plump and cheerful in proportion, entirely yellow-orange. The rendering style is soft and rounded, consistent with a Theatrhythm Final Fantasy aesthetic. Musical symbols float throughout the background, reinforcing the Theatrhythm subgame context.
 
@@ -72,4 +72,16 @@ A chibi-style yellow bird stands in a three-quarter pose against a light green b
 **Creatures:** bird, chocobo, giant-bird
 **Iconography:** musical-notes, chibi-style
 **Genre cues:** anime, chibi, fantasy, jrpg
+
+## Trivia
+
+- **IP verified: Chocobo** — The Chocobo is one of the Final Fantasy franchise's defining mascots, debuting in *Final Fantasy II* (1988) and appearing in virtually every mainline FF title since. The species was designed by Koichi Ishii; the name derives from the Japanese Morinaga "Choco Ball" confection. The Chocobo Theme (composed by Nobuo Uematsu) is one of the most remixed tracks in video game history. `[Wikipedia: Chocobo]` `[Final Fantasy Wiki: Chocobo Theme]`
+- **Set context** — Opus VI was released July 13, 2018, the sixth main FFTCG expansion. The set contains 130 cards (54 commons, 36 rares, 26 heroes, 14 legends). This card's category is listed as "Theatrhythm," indicating the art draws from *Theatrhythm Final Fantasy* (Nintendo 3DS, 2012) — a rhythm game released to celebrate the franchise's 25th anniversary. The Chocobo is a playable element in Theatrhythm's Field Music Sequences, appearing when players execute a successful Feature Drive. `[Cardmarket: Opus VI]` `[Final Fantasy Wiki: Theatrhythm Final Fantasy]`
+- **Mechanics** — Forward type, Wind element, Cost 3, Power 3000, Standard Unit job, Category: Theatrhythm. When Chocobo enters the field, you may play 1 card named Chocobo from your hand onto the field. A self-replicating entry effect — playing one Chocobo chains directly into a second, creating a two-Forward field state for the cost of 3 Wind. Common rarity. `[WebSearch: The Deck Box / TCGRepublic 6-050C]`
+- **Art note** — The chibi Theatrhythm visual register is distinct from standard FFTCG Chocobo card art (which typically appears in more naturalistic proportions). Opus VI intentionally drew from the Theatrhythm game's visual language for this category subset — the musical-note background motifs in the card art confirm this is the Theatrhythm Chocobo specifically, not a generic franchise-mascot depiction. `[WebSearch: Opus VI Fandom card list]`
+
+### Related cards
+- Chocobo (Opus IV, 4-063C) — earlier Chocobo Forward card; same entry-effect pattern, tracks the Chocobo-replication archetype across Opus sets
+- Chocobo (various Opus sets) — multiple Chocobo cards appear across FFTCG Opus I-XII+; this Theatrhythm version is visually distinct subset
+- Mog (various) — fellow Theatrhythm-category FFTCG cards from the same crossover subset
 

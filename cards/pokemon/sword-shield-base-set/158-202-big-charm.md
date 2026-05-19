@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - charm
+  - amulet
+  - talisman
+  - protection
+  - magic-item
+  - golden
+  - sparkle
+  - item-card
+  - treasure
+  - glowing
+tags_filter:
+  - solo
+  - close-up
+  - no-face
+  - portrait-mode
+  - item
 reference_image: cards/_images/pokemon/sword-shield-base-set/158-202-big-charm.png
 average_cost_paid: 0
 market_price: 0.16
@@ -33,6 +48,9 @@ artist: inose yukie
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: indeterminate
+setting: void
 tags:
   - card
   - pokemon
@@ -42,12 +60,19 @@ tags:
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![158-202-big-charm](../../_images/pokemon/sword-shield-base-set/158-202-big-charm.png)
 
+An oversized round charm rendered in warm amber-orange tones occupies the center of the frame, its smooth curved surface catching a glossy highlight. A thin cord or string loops from the top of the charm. The background is a cool blue-white swirl with radiating sparkle lines, giving the impression of magic or energy emanating from the object. The composition is clean and item-focused with no figures present.
 
-**Subject:** 
+**Subject:** a large round orange-amber charm with a string attached, centered in a swirling blue-white sparkle background
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** close-up, abstract, figures: none, facing: n/a
+**Setting:** void, indeterminate
+**Foreground:** large round amber-orange charm with string  *(palette: amber, orange, gold)*
+**Background:** swirling blue-white sparkle field  *(palette: blue, white, light-blue)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** n/a — no figure present
+**Objects:** charm, amulet, string
+**Iconography:** charm, protective-talisman
+**Genre cues:** anime, fantasy
 

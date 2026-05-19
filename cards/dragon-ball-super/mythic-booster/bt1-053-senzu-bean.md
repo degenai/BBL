@@ -43,9 +43,9 @@ image_quality: low
 mood: action
 time_of_day: indeterminate
 setting: other
-suspected_ip: Son Goku
-ip_confidence: med
-ip_verified: false
+suspected_ip: ""
+ip_confidence: none
+ip_verified: true
 tags:
   - card
   - dbs
@@ -56,8 +56,8 @@ tags:
 
 ![bt1-053-senzu-bean](../../_images/dragon-ball-super/mythic-booster/bt1-053-senzu-bean.png)
 
-> [!warning] Suspected IP: **Son Goku** (confidence: med, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP refuted
+> Vision flagged the background figure as Son Goku (orange gi, raised arms). The card is an Extra named "Senzu Bean" — an item card, not a character card. The background figure is an anonymous celebrant framing the item; the card name and type confirm no character IP attribution is intended. Suspect cleared.
 
 The foreground is dominated by a large rounded grey cloth sack — the named item on the card. Behind it stands a humanoid figure in an orange gi with arms raised or posed triumphantly, conveying energy and excitement. The background is warm yellow-orange. The card is an Extra card type, and the art foregrounds the item rather than the figure. The sack is the compositional anchor; the figure behind it serves as the celebratory frame.
 
@@ -73,4 +73,16 @@ The foreground is dominated by a large rounded grey cloth sack — the named ite
 **Food/drink:** bean, senzu-bean
 **Iconography:** raised-arms, cloth-sack, item-card
 **Genre cues:** anime, manga, shonen
+
+## Trivia
+
+- **Item lore** — The Senzu Bean is a healing item from Dragon Ball canon, grown exclusively by Korin (an 800-year-old martial artist cat) in his tower. A single bean fully restores a fighter's health, stamina, and ki, and provides enough nutrition to sustain a person for ten days. Supply is scarce — beans take considerable time to grow — making them a tactically rationed resource throughout the Z-Fighters' battles. First appeared in the Commander Red Saga of the original *Dragon Ball* series. `[Dragon Ball Wiki: Senzu Bean]` `[CBR: Dragon Ball Super Senzu Beans Explained]`
+- **Card mechanics** — BT1-053 is an Extra card (Blue, cost 1). Effect: choose up to 1 of your cards; it gains +5000 power for the turn. Then switch up to 2 of your energy to Active Mode. Received an official errata from Bandai: post-errata, the card can only be activated during your *opponent's* turn, closing an exploit where the energy-refresh effect could be chained on your own turn in Zenkai-era loops. `[WebSearch: DBS Card Game errata page BT1-053]`
+- **Set context** — BT1-053 originally appeared in *Galactic Battle* (DBS-B01), the game's launch set (2017). This copy is the Mythic Booster (MB-01, 2020) reprint — one of 63 curated reprints in that set, each receiving a new alternate-art version with gold stamp and holo parallel. The Mythic Booster was the first DBS set to offer Secret Rare reprints. `[WebSearch: Mythic Booster MB01 overview]`
+- **Item-class candidate** — Senzu Bean is one of a small category of named Dragon Ball items represented as Extra cards in DBS-CG (alongside Dragon Balls, Potara Earrings, Dragon Radar, etc.). It is the first item-class card in this inventory corpus; if additional iconic items appear in vision-queue batches, a `_characters/dbs-iconic-items` or `_symbols/` node may be warranted.
+
+### Related cards
+- Super Shenron, the Almighty (various sets) — another iconic DB item/entity in Extra/Leader card form
+- Senzu Bean (Battle Evolution reprint, BT1-053 RE) — alternate foil reprint version within the same Mythic Booster print run
+- Finishing Spirit Bomb Son Goku (Cross Worlds, BT3-057) — green Goku Battle card mechanically paired with healing/support Extras like this
 

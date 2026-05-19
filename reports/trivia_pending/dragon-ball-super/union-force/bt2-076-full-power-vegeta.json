@@ -1,0 +1,41 @@
+{
+  "card_name": "Full Power Vegeta",
+  "game": "Dragon Ball Super",
+  "set": "Union Force",
+  "collector_number": "BT2-076",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is explicit: 'Vegeta.' Special Trait: Saiyan. Union Force Android/Cell Saga era designation. 'Full Power' refers to Vegeta's 'Full Power Super Saiyan' training arc during the Cell Games preparation. Golden spiked hair + Saiyan battle armor are canonical Vegeta SSJ visual identifiers.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Union Force (DBS-B02, November 2017) is the second main booster. Its green axis is the Android/Cell Saga with Cell's Union-Absorb as flagship mechanic. 'Full Power Vegeta' references Vegeta's Android Saga arc: after allowing Cell to absorb Android 18 and achieve perfect form, Vegeta trained to a 'Full Power Super Saiyan' state in preparation for the Cell Games.",
+      "sources": ["WebSearch: DBS official Union Force set notes", "Dragon Ball Wiki: Cell Games Saga"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Vegeta's 'Full Power' arc carries narrative ambivalence: his peak power in this arc was also the moment his pride cost the world the most — his decision to let Cell absorb Android 18 was a pride-driven choice that enabled Cell's perfect form and nearly ended human civilization. The card title's framing of 'Full Power' carries that weight.",
+      "sources": ["Dragon Ball Wiki: Vegeta", "Dragon Ball Wiki: Cell"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Battle card, Green, Cost 3, Power 15000, Combo Power 5000, Rare. On-play effect: KO any number of opponent's Battle Cards with individual cost 2 or less, as long as their combined cost totals 3 or less. A board-clear entry effect efficient at sweeping small-unit boards. Note: vision flagged blue-magic (color-read from low-res image); TCG database confirms the card is Green element.",
+      "sources": ["WebSearch: DBZ Exchange BT2-076", "WebSearch: TCGPlayer BT2-076"]
+    },
+    {
+      "category": "design",
+      "text": "BT2-076 is the only Rare in the green subset of Union Force from the Saiyan trait group — the adjacent BT2-075 Son Gohan is Common. Vegeta's Rare designation reflects the card's stronger on-play removal utility versus Gohan's cost-reduction value trigger.",
+      "sources": ["WebSearch: Bleeding Cool Union Force checklist", "WebSearch: DBZ Exchange BT2-076"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Supreme DNA Son Gohan", "set": "Union Force", "note": "BT2-075; adjacent Common in same set, same Android/Cell Saga era, same green axis"},
+    {"name": "Perfect Force Cell", "set": "Union Force", "note": "BT2-084; the villain Vegeta empowered by allowing Android 18 absorption"},
+    {"name": "God Charge Vegeta", "set": "Galactic Battle", "note": "BT1-036; earlier Vegeta card in corpus, tracks his transformation arc across sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Vegeta",
+    "ip_confidence": "high"
+  }
+}

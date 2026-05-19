@@ -1,0 +1,36 @@
+{
+  "card_name": "Senzu Bean",
+  "game": "Dragon Ball Super",
+  "set": "Mythic Booster",
+  "collector_number": "BT1-053",
+  "task_profile": "ip-priority",
+  "ip_decision": "refute",
+  "ip_outcome_note": "Vision flagged background figure (orange gi, raised arms) as Son Goku at medium confidence. Refuted: this is an Extra/item card named 'Senzu Bean' — the card type and name confirm the compositional anchor is the item, not a named character. The background figure is an anonymous celebrant framing the sack. No character IP attribution is warranted for an item card with an unnamed background figure.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Senzu Bean is a healing item from Dragon Ball canon, grown by Korin (an 800-year-old martial artist cat) exclusively in his tower. A single bean fully restores health, stamina, and ki, and sustains a person for ten days. Supply is scarce — notable rationing throughout Z-Fighters battles. First appeared in the Commander Red Saga of the original Dragon Ball series.",
+      "sources": ["Dragon Ball Wiki: Senzu Bean", "CBR: Dragon Ball Super Senzu Beans Explained"]
+    },
+    {
+      "category": "mechanical",
+      "text": "BT1-053 is an Extra card (Blue, cost 1). Effect: choose up to 1 of your cards; it gains +5000 power for the turn; then switch up to 2 of your energy to Active Mode. Received an official errata from Bandai: post-errata, activation is restricted to the opponent's turn only, closing an exploit where the energy-refresh effect could be chained on your own turn in Zenkai-era loops.",
+      "sources": ["WebSearch: DBS Card Game official errata page BT1-053", "WebSearch: CoolStuffInc Senzu Bean"]
+    },
+    {
+      "category": "set-lore",
+      "text": "BT1-053 originally appeared in Galactic Battle (DBS-B01), the game's launch set (2017). This copy is the Mythic Booster (MB-01, 2020) reprint — one of 63 curated reprints in that set, each with new alternate art and gold stamp. The Mythic Booster was the first DBS set to offer Secret Rare reprints.",
+      "sources": ["WebSearch: Mythic Booster MB01 set overview", "WebSearch: House Rules Gaming Senzu Bean reprint"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Senzu Bean (RE)", "set": "Mythic Booster", "note": "BT1-053 RE alternate-art holo parallel in same print run"},
+    {"name": "Finishing Spirit Bomb Son Goku", "set": "Cross Worlds", "note": "BT3-057; green Goku Battle card type that benefits from Extra support"},
+    {"name": "Super Shenron, the Almighty", "set": "various", "note": "Another iconic DB item/entity in Extra/Leader card form"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "",
+    "ip_confidence": "none"
+  }
+}

@@ -47,7 +47,9 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Vegeta
 ip_confidence: high
-ip_verified: false
+ip_verified: true
+characters:
+  - vegeta
 tags:
   - card
   - dbs
@@ -58,8 +60,8 @@ tags:
 
 ![bt2-076-full-power-vegeta](../../_images/dragon-ball-super/union-force/bt2-076-full-power-vegeta.png)
 
-> [!warning] Suspected IP: **Vegeta** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Vegeta**
+> Confirmed via card name ("Vegeta" explicit in title), Union Force Android/Cell Saga era attribution, and the golden upright spikes + Saiyan battle armor silhouette canonical to Vegeta's Super Saiyan design [Dragon Ball Wiki].
 
 A humanoid figure with spiked golden hair stands in a wide-legged power stance. The figure wears what appears to be dark battle armor. An intense swirl of pink, purple, and white energy surrounds the body, creating a vortex-like background. The golden spiked hair and armored bodysuit silhouette are clearly rendered even at this resolution. The pose communicates strength and dominance — feet planted, body upright.
 
@@ -74,4 +76,16 @@ A humanoid figure with spiked golden hair stands in a wide-legged power stance. 
 **Objects:** battle-armor
 **Iconography:** golden-aura, energy-vortex, power-stance, battle-armor
 **Genre cues:** anime, manga, shonen
+
+## Trivia
+
+- **Set context** — Union Force (DBS-B02, November 2017) is the second main booster. Its green axis is centered on the Android/Cell Saga, with the set's design notes explicitly calling out Cell's Union-Absorb transformation as the flagship mechanic. "Full Power Vegeta" refers to Vegeta's narrative arc during the Cell Games: after allowing Cell to absorb Android 18 and reach his perfect form, Vegeta trains to a state he calls "Full Power Super Saiyan" — surpassing his previous limits in pride-driven preparation for the Cell Games. `[WebSearch: DBS official Union Force set notes]`
+- **IP verified: Vegeta** — Card name is explicit. Special Trait listed as Saiyan. The android/Cell Saga designation and "Full Power" title directly reference Vegeta's Android Saga character arc. `[WebSearch: TCGPlayer / DBZ Exchange BT2-076]`
+- **Mechanics** — Battle card, Green (note: vision flagged blue-magic but TCG database confirms Green color — a low-resolution color-read artifact), Cost 3, Power 15000, Combo Power 5000, Rare. Effect on play: KO any number of opponent's Battle Cards whose combined energy cost totals 3 or less (each individually must cost 2 or less). Strong board-clear on entry for small-unit strategies. `[WebSearch: DBZ Exchange BT2-076]`
+- **"Full Power" arc note** — Vegeta's "Full Power Super Saiyan" training is specifically tied to his decision to let Cell absorb Android 18 — a pride-driven choice that enabled Cell's perfect form and nearly doomed the planet. The "Full Power" card title carries that ambivalent narrative weight: his peak power in this arc was also the moment his pride cost everyone the most. `[Dragon Ball Wiki: Cell Games Saga / Vegeta]`
+
+### Related cards
+- Supreme DNA Son Gohan (Union Force, BT2-075) — adjacent Common in the same set, same Android/Cell Saga era, same green color axis
+- Perfect Force Cell (Union Force, BT2-084) — the villain Vegeta empowered by allowing Android 18 absorption
+- God Charge Vegeta (Galactic Battle, BT1-036) — earlier Vegeta card in corpus; tracks his transformation arc across sets
 

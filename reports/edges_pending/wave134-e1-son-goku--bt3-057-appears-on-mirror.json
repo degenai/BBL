@@ -1,0 +1,74 @@
+{
+  "edge_id": "wave134-e1-son-goku--bt3-057-finishing-spirit-bomb-appears-on-mirror",
+  "wave": 134,
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/son-goku.md",
+      "name": "Son Goku"
+    },
+    {
+      "type": "card",
+      "path": "cards/dragon-ball-super/cross-worlds/bt3-057-finishing-spirit-bomb-son-goku.md",
+      "name": "Finishing Spirit Bomb Son Goku (Cross Worlds BT3-057)"
+    }
+  ],
+  "description": "Mirror-attach the BT3-057 card to the son-goku parent node's appears_on roster, closing the sync drift that triviabot's wave-134 pass opened. The card-side characters: [son-goku] frontmatter pointer was written but the node-side appears_on: list was never extended. The 'Finishing Spirit Bomb' is the canonical decisive technique from Dragon Ball Z: Super Android 13! (1992) — Goku gathered a Spirit Bomb while his allies held off Super Android 13, then absorbed the bomb's energy into his Super Saiyan form to punch through Super 13's core. The card's existing trivia bullet cites the canonical attribution; this pass restores the mirror so the graph is traversable from both directions.",
+  "citations": [
+    "[Dragon Ball Wiki: Spirit Bomb]",
+    "[Wikipedia: Dragon Ball Z: Super Android 13!]",
+    "[Bandai DBSCG official BT3-057 listing — character tag 'Son Goku', era 'Android 13 Saga']"
+  ],
+  "files_modified": [
+    "cards/_characters/son-goku.md"
+  ],
+  "edges_added": [
+    "son-goku.appears_on += dragon-ball-super/cross-worlds/bt3-057-finishing-spirit-bomb-son-goku",
+    "son-goku '## Appears on' wikilink list += [[bt3-057-finishing-spirit-bomb-son-goku]]"
+  ],
+  "edges_removed": [],
+  "edgelord_mood": "sighed-but-mirrored",
+  "edgelord_voice_note": "Worst case of partial wiring this month. The card knew about the character, the character did not know about the card. That is not a graph, that is a one-way street. Fixed. Mirror restored. The sigh is professional, not personal.",
+  "other_candidates_considered": [
+    {
+      "edge_id": "son-gohan--bt2-075-supreme-dna-appears-on-mirror",
+      "shape": "1:1 mirror",
+      "reason_deferred": "Same sync-drift pattern as the chosen edge — card-side frontmatter wired, node-side appears_on absent. Equally valid; staged for next invocation per the one-edge-per-invocation rule. Bandai character tag: 'Son Gohan: Childhood', era: Android/Cell Saga."
+    },
+    {
+      "edge_id": "vegeta--bt2-076-full-power-appears-on-mirror",
+      "shape": "1:1 mirror",
+      "reason_deferred": "Same sync-drift pattern. Bandai character tag: 'Vegeta', era: Cell Games Saga. 'Full Power Vegeta' is the canonical Cell-Games-era Vegeta arc where he trains to surpass Super Saiyan after allowing Cell to absorb Android 18 — pride-driven prep for the Cell Games. Staged for next invocation."
+    },
+    {
+      "edge_id": "vivi-ornitier-character-node-proposal",
+      "shape": "node-proposal (Mr. Nodeley)",
+      "reason_refused": "Wave brief flagged Vivi as N=2 corpus appearances (Opus III 3-017L Legend + Opus VIII 8-016H Hero), borderline for character-node threshold. Verified corpus: ONLY 8-016H exists as a card file. The 3-017L Legend Vivi is mentioned in 8-016H's '### Related cards' body section but is NOT a corpus card. True corpus count is N=1. Below threshold. Refuse with reason: 'one Vivi card is a card, not a layer-eligible cohort.' When/if 3-017L or 28-016L enters the corpus via a future CSV ingest, re-evaluate at N=2 (still below) or N=3 (commission)."
+    }
+  ],
+  "next_pass_suggestions": [
+    {
+      "edge_id": "son-gohan--bt2-075-mirror",
+      "priority": "high",
+      "reason": "Identical sync-drift pattern; one of the two remaining mirrors from the wave-134 triviabot batch. Trivial Edit, satisfying-mood candidate."
+    },
+    {
+      "edge_id": "vegeta--bt2-076-mirror",
+      "priority": "high",
+      "reason": "Identical sync-drift pattern; third of three mirrors. Completes the wave-134 DBS cohort hygiene cleanup."
+    },
+    {
+      "edge_id": "wave134-cell-saga-bundler-candidate-flag",
+      "priority": "medium-future-watch",
+      "reason": "Wave brief notes 4 DBS cards (BT2-075 + BT2-076 + BT3-057 + BT1-053 Senzu Bean as support) form a tight Android/Cell Saga thematic cluster spanning BT1-BT3. The cell-saga-apparatus character node already exists. Bundler material once Senzu Bean is trivia-passed (it's in the wave-134 trivia slate). Flag for janitor_triage as 'Cell Saga Discrete Lair candidate when 5+ enriched anchors.' NOT Edgelord work — this is bundler substrate, per the wave-81 P3 decision."
+    },
+    {
+      "edge_id": "wave134-fftcg-multi-game-character-cluster-watch",
+      "priority": "low-future-watch",
+      "reason": "Sabin (FF6) + Rain (FFBE) + Sophia (FFL) + Warrior of Light (FF1) + Vivi (FF9) = 5 FFTCG character cards across 5 different FF games. Substrate-thin for any single-character node. The 'one-card-per-FF-game' pattern might be a future hub candidate ('fftcg-cross-game-character-roster' or similar) but only if the corpus accumulates 10+ such cards. Refuse premature node-creation per Potion-rule sub-3."
+    }
+  ]
+}

@@ -45,7 +45,9 @@ time_of_day: indeterminate
 setting: void
 suspected_ip: Son Gohan
 ip_confidence: high
-ip_verified: false
+ip_verified: true
+characters:
+  - son-gohan
 tags:
   - card
   - dbs
@@ -56,8 +58,8 @@ tags:
 
 ![bt2-075-supreme-dna-son-gohan](../../_images/dragon-ball-super/union-force/bt2-075-supreme-dna-son-gohan.png)
 
-> [!warning] Suspected IP: **Son Gohan** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Son Gohan**
+> Confirmed via card name ("Son Gohan" explicit in title), Union Force Android/Cell Saga era, and "Son Gohan: Childhood" character designation in the DBS-CG database [WebSearch: TCGPlayer BT2-075].
 
 A small humanoid figure with dark, spiky hair stands in a forward-leaning charge pose. The figure wears what appears to be a dark gi or combat outfit. A bright green-yellow energy aura surrounds the body and trails behind dynamically. The background is washed with green and yellow energy light. The figure's youth is legible from proportions — shorter stature, rounder face. Expression is not fully readable at this resolution but body language suggests a determined forward rush.
 
@@ -72,4 +74,16 @@ A small humanoid figure with dark, spiky hair stands in a forward-leaning charge
 **Objects:** dark-gi
 **Iconography:** green-aura, energy-charge, charging-pose
 **Genre cues:** anime, manga, shonen
+
+## Trivia
+
+- **Set context** — Union Force (DBS-B02) was released November 3, 2017, the second main booster set. The green subset is explicitly designed around the Android/Cell Saga, featuring Cell's Union-Absorb transformation mechanic as its headline. BT2-075 fits within that green column — Gohan's "Supreme DNA" name references his unique Saiyan-Earthling hybrid biology, which Cell's design appropriated as a component in his own "perfect" form. `[WebSearch: DBS official Union Force set notes]` `[PSA CardFacts: Union Force 2017]`
+- **IP verified: Son Gohan (Childhood)** — Card name is explicit. The "Childhood" designation in the official card database specifies this is young Gohan (pre-Cell Games era, consistent with the Android/Cell Saga setting). Special Trait listed as Saiyan/Earthling — the canonical hybrid lineage central to Gohan's power potential in the Cell arc. `[WebSearch: TCGPlayer BT2-075]`
+- **Mechanics** — Battle card, Green, Cost 3, Power 15000, Combo Power 5000, Common rarity. Effect: if there are 2 or more Son Goku cards in your Drop Area, reduce this card's energy cost by 2. A straightforward cost-reduction payoff for running Goku-focused green decks — mechanically encouraging family-lineage synergy on the field. `[WebSearch: DBZ Exchange / Level Up Games BT2-075]`
+- **"Supreme DNA" title context** — The phrase "Supreme DNA" directly references Cell's in-universe claim that he possesses the "perfect" genetic material, having absorbed the DNA of the universe's greatest fighters including Goku, Vegeta, Piccolo, Frieza, and King Cold. Gohan's human-Saiyan hybrid genetics were a key design target. The card title reframes Gohan not as Cell's victim but as the source — the genetic template for supremacy. `[Dragon Ball Wiki: Cell]`
+
+### Related cards
+- Perfect Force Cell (Union Force, BT2-084) — the set's headline Special Rare; the villain whose arc BT2-075 is set within
+- Full Power Vegeta (Union Force, BT2-076) — adjacent Rare in the same set; Saiyan trait, same Android/Cell Saga era
+- Son Gohan, Champion of Justice (various sets) — adult Gohan cards contrast with this Childhood version
 
