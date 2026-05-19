@@ -1,0 +1,36 @@
+{
+  "card_name": "Makindi Patrol",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "39",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Makindi is a historically significant location on Zendikar: the great capital city of an ancient Kor empire situated in Ondu. The empire was destroyed by civil war (the Ondu Skyclave turned against the capital), and the site became the Makindi Trenches — a maze of high-walled canyons where birds, reptiles, goblins, and kor now make their homes on sheer canyon walls. A 'Makindi Patrol' implies a kor or coalition sentry force guarding the remnants of this ancestral territory during the Eldrazi invasion. [MTG Wiki: Zendikar (plane), via WebSearch]",
+      "sources": ["MTG Wiki: Zendikar (plane), via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Creature type: Human Knight Ally (BFZ-39). The Rally keyword — introduced in Battle for Zendikar for the Ally creature type — triggers whenever this creature or another Ally enters, granting all creatures you control vigilance until end of turn. Vigilance on a vigilance-granting Ally is recursive by design: each new Ally entering re-triggers the ability, meaning a critical mass of Allies keeps your board attack-ready without tapping. Rally was a return to the Ally tribal mechanics of original Zendikar (2009), formalized under a named ability word for the first time in BFZ. [Scryfall; Wizards: Battle for Zendikar Mechanics article, via WebSearch]",
+      "sources": ["Scryfall", "Wizards: Battle for Zendikar Mechanics, via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Working with his noble mount, he notices every form on the horizon, every scent in the air, every tremor in the earth.\" No speaker is named. The mount is depicted as a horned horse — consistent with Zendikar's altered megafauna ecology. The card has no Scryfall ruling notes. [Scryfall: BFZ-39 flavor_text]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hero of Goma Fada", "set": "Battle for Zendikar", "note": "BFZ-31: another Ally card named for the Goma Fada location, Rally mechanic sibling"},
+    {"name": "Makindi Sliderunner", "set": "Battle for Zendikar", "note": "Another BFZ Ally referencing the Makindi location"},
+    {"name": "Kor Bladewhirl", "set": "Battle for Zendikar", "note": "BFZ white Ally with Rally, same tribal package"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -77,3 +77,13 @@ A tall, muscular humanoid figure with long pale hair stands or crouches over a p
 **Iconography:** healing-light
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set / lore context** — Creature type: Kor Cleric (no Ally subtype — not a Rally trigger, not part of the coalition mechanic). The Stone Havens are canonical Kor settlement-network infrastructure on Zendikar, referenced in Cliffside Lookout (BFZ-20) flavor text, functioning as distributed kor-maintained refuge and resupply outposts across the plane. A Kor Cleric at a Stone Haven is a field medic in a wartime refugee network. Oracle text ({W},{T}: You gain 1 life) models sustained low-intensity healing between engagements. `[Scryfall: BFZ-51 type_line + oracle_text; Cliffside Lookout BFZ-20 flavor text cross-reference per wave 41 ip_cleared note]`
+- **Flavor text** — "These days, soldiers never stick around long enough for a proper healing. They just want me to knit them up so they can hurry back to the fight." No speaker is attributed. The voice is exhausted-caretaker rather than heroic — the medic is frustrated by the war's tempo, by injured fighters refusing full rest. "Knit them up" is an idiomatic phrase for wound closure. `[Scryfall: BFZ-51 flavor_text]`
+- **Mechanical reputation** — Stats: 1/3 for {1}{W} — high toughness, low power, fitting the medic archetype. A late BFZ draft pick, functional but slow. EDHREC rank 25,264 — occasionally seen in dedicated lifegain Commander lists as a cheap repeatable trigger source (e.g. for Archangel of Thune). Pauper-legal. `[Scryfall: oracle_text + legalities + edhrec_rank]`
+
+### Related cards
+- Cliffside Lookout (BFZ, 20) — flavor text names the Stone Havens as kor settlement-network infrastructure
+- Shadow Glider (BFZ, 47) — Kor Soldier in the same cave-refuge network, flavor text confirms kor cave-survival strategy
+- Serene Steward (BFZ, 46) — Human Cleric Ally in the same care-while-resisting register, lifegain mechanic sibling

@@ -1,0 +1,37 @@
+{
+  "card_name": "Blighted Steppe",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "232",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Part of the Blighted cycle — five colorless utility lands in Battle for Zendikar (BFZ, released 2015-10-02), one per color, each producing {C} plus a sacrificial colored-ability. Blighted Steppe is the white member: sacrifice plus {3}{W} to gain 2 life per creature you control. The cycle was designed to give each color a land-based version of that color's characteristic effect without needing the land to produce colored mana (adding colored mana would have required an enters-tapped clause and made the cards too wordy). [Scryfall; WebSearch: MythicSpoiler Blighted cycle design note]",
+      "sources": ["Scryfall", "WebSearch: MythicSpoiler BFZ land cycle design"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"When a limb is gangrenous, you cut it off. This is no different.\" — Greenweaver Mina. Greenweaver Mina is an unnamed Zendikari character; 'greenweaver' is likely a title indicating a druid or nature-magic practitioner. The quote frames the blighting of Zendikar's steppes as triage logic — sacrificing corrupted land to preserve the whole — mirroring the card's sacrifice mechanic. [Scryfall: BFZ-232 flavor_text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 7,865 as of 2026-05-19 — the most Commander-played card in this six-card BFZ batch. Sees use in white token and lifegain Commander decks that can scale the life-gain effect with creature count, but considered a fringe inclusion given the colorless mana production and four-mana activation cost. Legal in Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall: legalities; EDHREC rank from Scryfall edhrec_rank field]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Blighted Cataract", "set": "Battle for Zendikar", "note": "Blue member of the Blighted cycle — same design frame, colored card-draw ability"},
+    {"name": "Blighted Fen", "set": "Battle for Zendikar", "note": "Black member of the Blighted cycle — sacrifice for targeted removal"},
+    {"name": "Blighted Gorge", "set": "Battle for Zendikar", "note": "Red member of the Blighted cycle"},
+    {"name": "Blighted Woodland", "set": "Battle for Zendikar", "note": "Green member of the Blighted cycle — search for two basic lands"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "card_name": "Ondu Greathorn",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "40",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"May your horns get lodged in an Eldrazi's bony face, ornery brute!\" — Bruse Tarl, Goma Fada nomad. Bruse Tarl is a named Zendikari character: a Goma Fada nomad who organized a resistance force of nomads after the Eldrazi threatened his caravan on Akoum. He is canonically known for 'the creativity of the insults he hurls' at the Eldrazi. He later received his own card — Bruse Tarl, Boorish Herder — as a Partner Commander in Commander 2016. The Ondu Greathorn quote is one of his earliest flavor-text appearances. [Scryfall: BFZ-40 flavor_text; MTG Wiki: Bruse Tarl]",
+      "sources": ["Scryfall", "MTG Wiki: Bruse Tarl (Puppeteer fetch)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Ondu is one of Zendikar's major continents, featuring the Makindi Trenches, the Turntimber forests, and the Crypt of Agadeem. The 'Ondu Greathorn' is unnamed plane-native megafauna — a Beast type creature, not an Ally — representing the native wildlife that persists through the Eldrazi invasion. Landfall and first strike together suggest a creature well-adapted to a landscape that is itself in constant flux. [Scryfall: BFZ-40 type_line + oracle_text; MTG Wiki: Ondu, via WebSearch]",
+      "sources": ["Scryfall", "MTG Wiki: Ondu, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Stats: 2/3 with first strike and Landfall (+2/+2 until end of turn when a land enters). In the BFZ draft format, this was a solid combat trick anchor: play a land on your turn, attack with a 4/5 first striker. EDHREC rank 27,199 — rarely sees Commander play, outclassed by similar Landfall threats at the same mana cost. Legal in Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall: legalities + edhrec_rank]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bruse Tarl, Boorish Herder", "set": "Commander 2016", "note": "Named speaker of the flavor text; Goma Fada nomad who became a Partner Commander"},
+    {"name": "Snapping Gnarlid", "set": "Battle for Zendikar", "note": "Another BFZ Beast with Landfall in the same set"},
+    {"name": "Makindi Ox", "set": "Battle for Zendikar", "note": "Another BFZ creature quoted by Bruse Tarl per MTG Wiki in-game references"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -31,7 +31,8 @@
       "WebFetch(domain:final-fantasy-card-game.fandom.com)",
       "WebFetch(domain:lorcanaplayer.com)",
       "Bash(dir C:\\\\Users\\\\alexa\\\\Desktop\\\\Bulk Graph Bundler\\\\reports\\\\trivia_pending *)",
-      "Bash(kor\")"
+      "Bash(kor\")",
+      "Bash(node \"C:\\\\Users\\\\alexa\\\\Desktop\\\\Bulk Graph Bundler\\\\scripts\\\\puppeteer-fetch\\\\fetch.js\" \"https://mtg.wiki/page/Stone_Haven\" --text-only --timeout=45000)"
     ]
   }
 }

@@ -1,0 +1,36 @@
+{
+  "card_name": "Serene Steward",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "46",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "Creature type: Human Cleric Ally (BFZ-46). Oracle text: whenever you gain life, you may pay {W} to put a +1/+1 counter on target creature. This is a triggered ability that fires on every life-gain event, not just once per turn — in a lifegain-dense or token-wide white deck, each trigger is a cheap growth opportunity. At 2/2 for {1}{W} with this upside, she was considered a reasonable but not powerful uncommon in BFZ draft. EDHREC rank 18,786 — sees fringe Commander play in lifegain decks. Legal in Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall: BFZ-46 oracle_text + legalities + edhrec_rank]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"I can give you strength, but you'll have to bring your own courage.\" No speaker is attributed in the Scryfall record. The Connections section of this card's MD already establishes the flavor-text's thematic role in the BFZ resistance cycle. [Scryfall: BFZ-46 flavor_text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Magali Villeneuve, one of the highest-profile artists in the MTG corpus. Villeneuve received her own Artist Series Secret Lair drop (2022), with original graphite sketches selling for a combined $18,200 at auction — among the highest values realized for MTG artist-series original art. She has 8 confirmed credits in the BBL corpus, making her a strong artist-node candidate. [Hipsters of the Coast: 'Sketches for Artist Series: Magali Villeneuve Secret Lair Drop Sell for $18,200 Combined', May 2022]",
+      "sources": ["Hipsters of the Coast: Magali Villeneuve Secret Lair sketches article, May 2022"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cliffside Lookout", "set": "Battle for Zendikar", "note": "BFZ-20: kor settlement-network card, Stone Havens named in flavor text — resistance infrastructure context"},
+    {"name": "Retreat to Emeria", "set": "Battle for Zendikar", "note": "BFZ white Landfall enchantment with counter-placement option, synergizes with the +1/+1 counter growth archetype"},
+    {"name": "Stone Haven Medic", "set": "Battle for Zendikar", "note": "BFZ-51: kor cleric in the same resistance-care role, cave setting, paired thematically"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

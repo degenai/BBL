@@ -1,0 +1,36 @@
+{
+  "card_name": "Stone Haven Medic",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "51",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Creature type: Kor Cleric (not Kor Ally — no Ally subtype, no Rally). The Stone Havens are canonical Kor settlement-network infrastructure on Zendikar, referenced in the flavor text of Cliffside Lookout (BFZ-20): a distributed system of kor-maintained outposts that serve as refuge and resupply points. A Kor Cleric stationed at a Stone Haven is a field medic in a wartime refugee network, not a front-line combatant — consistent with the oracle text ({W},{T}: You gain 1 life) representing sustained low-intensity healing. [Scryfall: BFZ-51 type_line + oracle_text; Cliffside Lookout BFZ-20 flavor text cross-reference, per wave 41 ip_cleared note]",
+      "sources": ["Scryfall", "Cliffside Lookout BFZ-20 flavor text, per ip_cleared_reason in card frontmatter"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"These days, soldiers never stick around long enough for a proper healing. They just want me to knit them up so they can hurry back to the fight.\" No speaker is attributed. The voice is exhausted-caretaker, not heroic — the medic is frustrated by the tempo of the war, the way injured fighters refuse complete rest. The phrase 'knit them up' is a period-appropriate idiom for wound closure. [Scryfall: BFZ-51 flavor_text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Stats: 1/3 for {1}{W} with a {W},{T} activated lifegain ability. The defensive stat-line (high toughness, low power) fits the medic archetype. In BFZ draft, it was a late pick: functional but slow, outclassed by more aggressive white two-drops. EDHREC rank 25,264 — occasionally seen in dedicated lifegain Commander lists as a cheap, repeatable trigger source for cards like Archangel of Thune. Pauper-legal. [Scryfall: oracle_text + legalities + edhrec_rank]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cliffside Lookout", "set": "Battle for Zendikar", "note": "BFZ-20: flavor text names the Stone Havens as kor settlement-network infrastructure"},
+    {"name": "Shadow Glider", "set": "Battle for Zendikar", "note": "BFZ-47: another Kor Soldier in the same cave-refuge network, flavor text confirms kor cave-survival strategy"},
+    {"name": "Serene Steward", "set": "Battle for Zendikar", "note": "BFZ-46: Human Cleric Ally in the same care-while-resisting register, lifegain mechanic sibling"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

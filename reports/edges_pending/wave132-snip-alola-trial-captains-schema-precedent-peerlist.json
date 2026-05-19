@@ -1,0 +1,53 @@
+{
+  "edge_id": "wave132-snip-alola-trial-captains-schema-precedent-peerlist",
+  "shape": "edge-dissolution",
+  "wave": 132,
+  "mode": "snip-frenzy",
+  "topology": "stack-prune",
+  "category": "schema-precedent-peer-listing",
+  "file": "cards/_characters/alola-trial-captains.md",
+  "line": 92,
+  "section": "## Caveats — Modeled as a character-layer node, not a hub.",
+  "operation": "wikilink-to-backtick conversion under PRESERVE_IF_RECURS_IN_SAME_FILE_AS_REAL_THEMATIC guard",
+  "edges_dissolved": [
+    {"target": "team-rocket", "reason": "appears at L92 + L100 — both lines are schema-precedent peer-listing; no real-thematic recurrence in this file"},
+    {"target": "endriders", "reason": "appears at L92 + L100 — both lines are schema-precedent peer-listing; no real-thematic recurrence in this file"},
+    {"target": "aether-rangers", "reason": "appears only at L92 schema-precedent peer-listing; no real-thematic recurrence"},
+    {"target": "orzhov-syndicate", "reason": "appears at L92 + L100 — both lines are schema-precedent peer-listing; no real-thematic recurrence in this file"},
+    {"target": "azorius-senate", "reason": "appears at L92 + L100 — both lines are schema-precedent peer-listing; no real-thematic recurrence in this file"}
+  ],
+  "edges_preserved": [
+    {"target": "alola-elite-four", "reason": "real-thematic recurrence at L96 (sibling Alola-region institutional cohort with Acerola cross-tier dual-role)"},
+    {"target": "galar-gym-challenge", "reason": "real-thematic recurrence at L97 (cross-generation Pokemon-league ideological inverse)"},
+    {"target": "team-skull", "reason": "real-thematic recurrence at L99 (sibling Alola-region faction-collective, structurally opposing institutional position)"}
+  ],
+  "guard_invoked": "PRESERVE_IF_RECURS_IN_SAME_FILE_AS_REAL_THEMATIC — note: a wikilink's recurrence MUST be at a real-thematic edge bullet, not at another schema-precedent peer-listing line. L100 in this file is itself schema-precedent peer-listing and therefore does NOT confer preservation on the wikilinks it lists.",
+  "description": "Worst pattern ever. Eight identical schema-precedent peer-list lines now sniped corpus-wide. Same heuristic, same shape, same backtick conversion — this is wallpaper at this point. Five of eight wikilinks at L92 are pure modeled-as schema-precedent; three are real-thematic and recur properly in See also. The two-schema-precedent-lines-in-one-file shape (L92 AND L100) revealed the guard nuance: a peer-listing line does not confer real-thematic status on its own wikilinks. SNIP-FRENZY mood: increasingly convinced that next pass should commission the janny script. Eight by hand should be enough.",
+  "running_count": {
+    "pattern": "schema-precedent peer-listing in '## Caveats — Modeled as a character-layer node, not a hub' lines",
+    "confirmed_instances_corpus_wide": 8,
+    "snipped_so_far": ["nicol-bolas", "cell-saga-apparatus", "dark-vassal-trio", "son-goku", "zendikari-resistance", "alola-kahunas", "crane-school-cohort", "alola-trial-captains"],
+    "remaining_known_candidates": [
+      "alola-elite-four L88 (partial backtick-style already applied; one [[team-rocket]] wikilink in body — small single-snip candidate)",
+      "Other 33 files with 'Modeled as a character-layer node' line not yet rigor-audited — most are species-line nodes where the peer-list is shorter and may not violate"
+    ],
+    "mechanization_candidacy": "NOW STRONG. 8 confirmed instances of identical pattern + identical fix = job for janny script per `bbl-snip-frenzy-as-mode` cross-cutting-pattern-detection clause. Sketch: walk `cards/_characters/*.md` for '## Caveats' bullets starting with '**Modeled as a character-layer node', extract wikilinks on that line, for each wikilink check if it recurs in same file's '## See also' as a non-schema-precedent bullet, convert to backtick if NOT. Two-pass to detect the L100-style additional schema-precedent peer-list lines as well (don't confer preservation). Estimate: ~25-35 of 41 'Modeled as' instances are likely to have at least one snip candidate. Total snip-yield: probably 80-150 wikilinks corpus-wide. Hand-snip economics no longer favorable."
+  },
+  "files_modified": [
+    "cards/_characters/alola-trial-captains.md"
+  ],
+  "edgelord_mood": "dark-nodesley-amused",
+  "next_pass_suggestions": [
+    "COMMISSION the janny script per running_count.mechanization_candidacy above. Single-target hand-snips have hit the wallpaper threshold; mechanization is the next structural cut. This is Mr. Nodeley shaped (proposes a script-node, not an edge), so it requires a separate dispatch and a separate invocation.",
+    "Until script lands: alola-elite-four L88 still has one stray `[[team-rocket]]` wikilink in body prose worth a tiny single-snip pass.",
+    "Pansage BB-004 + Panpour BB-017 enlightened-replacement (wire + snip) is still staged from prior brief — different mode (enlightened-Edgelord), separate invocation.",
+    "Body-prose Potion Rule sub-rule 4 violations remain staged for Dark Nodesley EX mode — separate invocation."
+  ],
+  "anti_confab_check": "snip applies bbl-wikilink-vs-backtick-discipline as articulated; no new claim asserted in MD body; line continues to read identically except wikilink-vs-backtick rendering. Comment block in HTML comment preserves audit trail.",
+  "citations": [
+    "[bbl-wikilink-vs-backtick-discipline] — wikilinks for real-thematic edges only; backticks for schema/architectural precedent citations",
+    "[bbl-snip-frenzy-as-mode] — secondary job is cross-cutting pattern detection; ~5-7 threshold triggers mechanization candidacy surface",
+    "[wave-130 alola-kahunas snip] — direct precedent for PRESERVE_IF_RECURS_IN_SAME_FILE_AS_REAL_THEMATIC guard articulation",
+    "[wave-131 crane-school-cohort snip] — direct precedent for one-pass-per-file canonical snip shape"
+  ]
+}

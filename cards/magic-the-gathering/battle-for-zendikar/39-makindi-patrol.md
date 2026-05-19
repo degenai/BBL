@@ -72,3 +72,13 @@ A lone armored rider sits mounted on a large horned horse at the crest of a rock
 **Creatures:** horned-horse
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set / lore context** — Makindi is the site of an ancient Kor empire capital on the continent of Ondu. Civil war destroyed the city; the land became the Makindi Trenches — a maze of high-walled canyons now home to birds, reptiles, goblins, and kor on the sheer walls. A Makindi Patrol implies a coalition sentry force guarding the remnants of this ancestral kor territory during the Eldrazi invasion. `[MTG Wiki: Zendikar (plane), via WebSearch snippet]`
+- **Mechanical context** — Creature type: Human Knight Ally (BFZ-39). Rally triggers whenever this creature or any other Ally enters, granting all your creatures vigilance until end of turn. Rally was a return to Ally tribal triggers from the original Zendikar block (2009), formalized under a named ability word for the first time in BFZ. In a wide Ally board, each new Ally extending the vigilance window made this a combat-math anchor at common. `[Scryfall: BFZ-39 type_line + oracle_text; Wizards: Battle for Zendikar Mechanics article, via WebSearch]`
+- **Flavor text** — "Working with his noble mount, he notices every form on the horizon, every scent in the air, every tremor in the earth." No speaker attributed. The mount depicted is a horned horse — consistent with Zendikar's altered megafauna ecology and the kor tradition of riding unusual creatures. `[Scryfall: BFZ-39 flavor_text]`
+
+### Related cards
+- Hero of Goma Fada (BFZ, 31) — BFZ Ally named for the Goma Fada location, same Rally tribal package
+- Makindi Sliderunner (BFZ) — another BFZ Ally referencing the Makindi geography
+- Kor Bladewhirl (BFZ) — white BFZ Ally with Rally, same coalition tribal context

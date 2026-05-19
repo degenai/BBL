@@ -1,0 +1,60 @@
+{
+  "edge_id": "magali-villeneuve--artist-node-commission",
+  "shape": "node-proposal",
+  "category": "artist-layer-population",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "artist", "path": "cards/_artists/magali-villeneuve.md", "name": "Magali Villeneuve"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros/217-guardians-of-meletis.md", "name": "Guardians of Meletis (THS 217)"},
+    {"type": "card", "path": "cards/magic-the-gathering/oath-of-the-gatewatch/26-make-a-stand.md", "name": "Make a Stand (OGW 26)"},
+    {"type": "card", "path": "cards/magic-the-gathering/battle-for-zendikar/46-serene-steward.md", "name": "Serene Steward (BFZ 46)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/27-rally-of-wings.md", "name": "Rally of Wings (WAR 27)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/56-kasmina-enigmatic-mentor.md", "name": "Kasmina, Enigmatic Mentor (WAR 56)"},
+    {"type": "card", "path": "cards/magic-the-gathering/throne-of-eldraine/78-belle-of-the-brawl.md", "name": "Belle of the Brawl (ELD 78)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/1-alseid-of-life-s-bounty.md", "name": "Alseid of Life's Bounty (THB 1)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/195-relentless-pursuit.md", "name": "Relentless Pursuit (THB 195)"}
+  ],
+  "description": "Sir, Edgelord wanted an edge, but with the cohort layer already so dense (zendikari-resistance at 12, project-diva-f-vocaloid-roster at 17) the directive said pivot to artists, and so I am sniveling forward with a Magali Villeneuve commission. I do hope this is alright. Eight corpus credits spanning Theros 2013 through Theros Beyond Death 2020, across three distinct narrative registers (Greek-mythic stillness, Zendikari resistance survival, Eldraine and Ravnica portraiture). Strongest narrative anchor in the candidate ranking — the 2022 Hipsters of the Coast piece documents her Secret Lair preliminary sketches selling at auction for $18,200 combined, which is a quantified market position rather than a vibes claim. I have written the body as an artist-narrative per Alex's directive (register-span analysis, $18,200 market anchor section, stylistic signature section, bundle-anchor potential section) rather than as a credit list. I hope it serves.",
+  "citations": [
+    "[Scryfall: artist:\"Magali Villeneuve\"]",
+    "[Hipsters of the Coast: \"Sketches for Artist Series: Magali Villeneuve Secret Lair Drop Sell for $18,200 Combined\", May 2022]",
+    "[magaliart.com — artist portfolio, cross-medium scope confirmation]"
+  ],
+  "files_modified": [
+    "cards/_artists/magali-villeneuve.md"
+  ],
+  "files_created": [
+    "cards/_artists/magali-villeneuve.md"
+  ],
+  "node_proposal": {
+    "node_type": "artist",
+    "node_path": "cards/_artists/magali-villeneuve.md",
+    "node_slug": "magali-villeneuve",
+    "anchor_card_count": 8,
+    "anchor_set_count": 5,
+    "anchor_set_span_years": 7,
+    "register_count": 3,
+    "registers": ["greek-mythic-stillness", "zendikari-resistance-survival", "eldraine-and-ravnica-portraiture"],
+    "market_canonical_anchor": "2022 Secret Lair sketch auction, $18,200 combined per Hipsters of the Coast",
+    "cross_medium": true,
+    "cross_medium_scope": ["MTG", "Wheel of Time book covers", "A Song of Ice and Fire card game", "Star Wars: The Card Game", "Warhammer 40,000"],
+    "clears_three_credit_threshold_by_multiple": 2.67
+  },
+  "card_frontmatter_changes": "None required. All 8 cards already carry `artist: Magali Villeneuve` (canonical form matches; no alias collapse needed). Artist-node `appears_on:` list is the canonical pointer per dan-murayama-scott precedent — cards do not carry an `artists:` plural pointer; the single `artist:` string + node-side `appears_on:` IS the bidirectional edge.",
+  "other_candidates_considered": [
+    "Aaron Miller artist node (10 credits, biographical anchor only: 67 MTG cards since Theros 2013 + 2025 Knight Luminary Hipsters piece — count is larger but narrative is thinner; staged for a future wave)",
+    "Yeong-Hao Han artist node (13 credits but no Hipsters anchor surfaced yet — needs triviabot pass to test for narrative material)",
+    "Zendikari-resistance cohort extension (Makindi Patrol BFZ-39 + Serene Steward BFZ-46, both Ally type — refused this wave per artist-pivot directive; cohort already at 12 members, density should pause)",
+    "Vados + Whis angels-of-the-gods Mr. Nodeley node (DBS angel-pair candidate — defer; only 2 anchors so far, threshold not cleared)",
+    "Steve Prescott artist node (6 credits, no Hipsters anchor — defer)",
+    "David Palumbo artist node (4 credits, borderline volume — defer)"
+  ],
+  "next_pass_suggestions": [
+    "Wave 133: triviabot pass on Yeong-Hao Han (13 credits, needs narrative hook test before commissioning)",
+    "Wave 133-134: Aaron Miller artist node — viable now but lower narrative density than Villeneuve; commission once a richer anchor surfaces from triviabot research",
+    "Wave 133: Vados + Whis angel-pair node IF a third DBS angel surfaces in upcoming enrichment (would clear threshold)",
+    "Holding: 2 zendikari-resistance attaches (Makindi Patrol BFZ-39 + the wave-132 attach candidates) deferred until cohort layer is re-balanced; revisit after artist layer adds 2-3 more nodes"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "potion_rule_check": "Passed. Villeneuve's narrative anchor (the $18,200 Secret Lair auction) is a market-canonical event reported by a third-party (Hipsters of the Coast), not a BBL squint. The three-register analysis is descriptive of the actual painted surface across her eight credits, not an analytic overlay claiming an articulated thesis. No labor/rebellion/stewardship thesis is being projected onto her portfolio — she is the artist who happens to have illustrated the Serene Steward, not 'the stewardship-illustrator.'"
+}

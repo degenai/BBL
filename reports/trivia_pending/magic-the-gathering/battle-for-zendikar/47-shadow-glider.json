@@ -1,0 +1,36 @@
+{
+  "card_name": "Shadow Glider",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "47",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Flavor text: \"A few bands of kor sought refuge from the Eldrazi in Zendikar's vast cave networks, relying on their ability to survive in harsh vertical landscapes.\" This is one of the most direct worldbuilding statements in the BFZ common slot: the Kor, who are defined by their hook-and-rope vertical-mobility culture, adapted their traditional skills to cave survival when the Eldrazi invasion made the surface uninhabitable. The card's type line — Kor Soldier (not Kor Ally) — indicates an individual Kor fighter rather than an Ally-coalition member. [Scryfall: BFZ-47 type_line + flavor_text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Steve Prescott, who has 6 confirmed credits in the BBL corpus. Prescott has been a recurring MTG illustrator across multiple sets and is known for dynamic action compositions — the cave-shaft descent here is a characteristic example. No Hipsters of the Coast Artistic Range piece was found for Prescott in this search pass. [Scryfall: BFZ-47 artist field; BBL corpus grep]",
+      "sources": ["Scryfall", "BBL corpus artist grep"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Stats: 2/2 flyer for {2}{W} with a single keyword (Flying) and no other text. A Vanilla 2/2 flyer at three mana is below the power floor for Constructed formats but was a functional draft pick in BFZ limited as early white air coverage. EDHREC rank 29,669 — essentially not played in Commander. Pauper-legal. [Scryfall: oracle_text + legalities + edhrec_rank]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cliffside Lookout", "set": "Battle for Zendikar", "note": "BFZ kor creature, same cave-and-vertical-landscape setting"},
+    {"name": "Kor Entanglers", "set": "Battle for Zendikar", "note": "BFZ Ally kor creature with Rally, same tribal cultural context"},
+    {"name": "Kor Bladewhirl", "set": "Battle for Zendikar", "note": "BFZ Ally kor creature with Rally vigilance, shares the Kor resistance network"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

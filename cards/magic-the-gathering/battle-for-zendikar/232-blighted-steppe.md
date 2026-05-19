@@ -69,3 +69,14 @@ A wide landscape view of a floating cliff environment. Two grassy plateaus are c
 **Iconography:** floating rocks, Zendikar landscape
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Part of the Blighted cycle: five colorless utility lands in Battle for Zendikar (released 2015-10-02), one per color, each producing {C} plus a sacrificial colored ability. Blighted Steppe is the white member: sacrifice plus {3}{W} to gain 2 life for each creature you control. The cycle was designed to give each color a land-based effect without forcing the land to enter tapped or require life payment — producing colorless mana kept the card clean. `[Scryfall: BFZ-232; WebSearch: BFZ land-cycle design]`
+- **Flavor text** — "When a limb is gangrenous, you cut it off. This is no different." — Greenweaver Mina. Mina's title suggests a druid or nature-magic practitioner; the quote frames the blighting of Zendikar's steppes as triage logic — sacrificing corrupted land to preserve the whole — which mirrors the card's sacrifice mechanic exactly. `[Scryfall: BFZ-232 flavor_text]`
+- **Mechanical reputation** — EDHREC rank 7,865 as of 2026-05-19: the most Commander-relevant card in this BFZ batch. Sees fringe use in white token and lifegain Commander decks where creature count can scale the life total, though the {3}{W} activation and colorless tap make it a late-game-only inclusion. Legal in Pioneer, Modern, Legacy, Vintage, and Commander. `[Scryfall: legalities + edhrec_rank]`
+
+### Related cards
+- Blighted Cataract (BFZ, 230) — blue member of the Blighted cycle, card-draw ability
+- Blighted Fen (BFZ, 234) — black member, targeted-removal ability
+- Blighted Gorge (BFZ, 235) — red member of the Blighted cycle
+- Blighted Woodland (BFZ, 236) — green member, search for two basic lands

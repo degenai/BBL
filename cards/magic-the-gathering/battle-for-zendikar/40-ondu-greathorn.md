@@ -72,3 +72,13 @@ A large, stocky quadruped creature dominates the center of the frame, facing tow
 **Creatures:** horned-beast, megafauna, quadruped
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Flavor text** — "May your horns get lodged in an Eldrazi's bony face, ornery brute!" — Bruse Tarl, Goma Fada nomad. Bruse Tarl is a named Zendikari character: a Goma Fada nomad who organized a resistance force after Eldrazi swarms threatened his caravan on Akoum. He is canonically known for the creativity of the insults he hurls at enemies. He later received his own card, Bruse Tarl, Boorish Herder, as a Partner Commander in Commander 2016. The Ondu Greathorn quote is one of his earliest flavor-text appearances, alongside at least five other BFZ-era cards per the MTG Wiki. `[Scryfall: BFZ-40 flavor_text; MTG Wiki: Bruse Tarl]`
+- **Set / lore context** — Ondu is a major Zendikar continent home to the Makindi Trenches, the Turntimber forests, and the Crypt of Agadeem. The Ondu Greathorn is type-line Beast — unnamed plane-native megafauna, not an Ally. Its landfall and first strike together model a creature adapted to Zendikar's constantly shifting, erupting terrain. `[Scryfall: BFZ-40 type_line + oracle_text; MTG Wiki: Ondu, via WebSearch]`
+- **Mechanical reputation** — Stats: 2/3 first strike with Landfall (+2/+2 until end of turn when a land enters). In BFZ limited, playing a land on your attack turn temporarily made this a 4/5 first striker — a punishing combat trade at common. EDHREC rank 27,199 — essentially absent from Commander play. Legal in Pioneer, Modern, Legacy, Vintage, Commander, and Pauper. `[Scryfall: legalities + edhrec_rank]`
+
+### Related cards
+- Bruse Tarl, Boorish Herder (Commander 2016) — named speaker of the flavor text; became a Partner Commander
+- Makindi Ox (BFZ) — another BFZ creature quoted by or associated with Bruse Tarl per MTG Wiki in-game references
+- Snapping Gnarlid (BFZ) — another BFZ Beast with Landfall in the same set

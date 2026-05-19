@@ -78,3 +78,14 @@ A small humanoid figure is shown in sharp descent through a vertical cave shaft,
 
 - [[kor]] — Scryfall creature-type Kor Spirit; flavor text confirms the refugee-bands-in-the-caves narrative ("A few bands of kor sought refuge from the Eldrazi in Zendikar's vast cave networks, relying on their ability to survive in harsh vertical landscapes."). `[Scryfall: BFZ-47 type_line + oracle_text]`
 
+## Trivia
+
+- **Set / lore context** — Flavor text: "A few bands of kor sought refuge from the Eldrazi in Zendikar's vast cave networks, relying on their ability to survive in harsh vertical landscapes." This is one of the most direct worldbuilding statements in the BFZ common slot: the Kor, whose culture is defined by hook-and-rope vertical mobility, adapted their traditional skills to cave survival when the Eldrazi invasion made the surface uninhabitable. The card's type line — Kor Soldier (not Kor Ally) — designates an individual Kor fighter outside the formal Ally coalition. `[Scryfall: BFZ-47 type_line + flavor_text]`
+- **Design** — Illustrated by Steve Prescott, who has 6 confirmed credits in the BBL corpus. The cave-shaft descent composition — lit from a narrow aperture above, figure mid-fall with geometric wing-struts — is a strong action-framing piece. No Hipsters of the Coast Artistic Range article was found for Prescott in this research pass. `[Scryfall: BFZ-47 artist field; BBL corpus artist grep]`
+- **Mechanical reputation** — Stats: 2/2 flyer for {2}{W} with Flying only. Below Constructed power floor but functional in BFZ limited as early white air coverage. EDHREC rank 29,669 — not played in Commander. Pauper-legal. `[Scryfall: oracle_text + legalities + edhrec_rank]`
+
+### Related cards
+- Cliffside Lookout (BFZ, 20) — kor creature in the same cave-and-vertical-landscape survival context
+- Kor Entanglers (BFZ) — BFZ Ally kor creature with Rally, same tribal cultural frame
+- Kor Bladewhirl (BFZ) — BFZ Ally kor with Rally vigilance, shares the Kor resistance network
+
