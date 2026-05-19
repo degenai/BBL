@@ -1,0 +1,80 @@
+{
+  "wave": 120,
+  "edge_id": "wave120-e1-starly-daa145--staraptor-daa147--bookends-mirror-dissolution",
+  "shape": "edge-dissolution",
+  "topology": "snip",
+  "category": "redundant-double-link-subsumed-by-cohort",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/145-189-starly.md", "name": "Starly (Darkness Ablaze 145/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/147-189-staraptor.md", "name": "Staraptor (Darkness Ablaze 147/189)"}
+  ],
+  "edges_removed": [
+    {
+      "source": "cards/pokemon/darkness-ablaze/145-189-starly.md",
+      "target": "cards/pokemon/darkness-ablaze/147-189-staraptor.md",
+      "relation_dissolved": "within-set Sinnoh-bird-evolution-line bookends 1:1 mirror",
+      "original_sidecar": "reports/edges_pending/starly-daa145--staraptor-daa147--sinnoh-bird-evolution-bookends-mirror.json"
+    },
+    {
+      "source": "cards/pokemon/darkness-ablaze/147-189-staraptor.md",
+      "target": "cards/pokemon/darkness-ablaze/145-189-starly.md",
+      "relation_dissolved": "within-set Sinnoh-bird-evolution-line bookends 1:1 mirror (mirror side)",
+      "original_sidecar": "reports/edges_pending/starly-daa145--staraptor-daa147--sinnoh-bird-evolution-bookends-mirror.json"
+    }
+  ],
+  "edges_added": [],
+  "description": "Edge snip per the user's wave-120 one-snip dispatch. The within-set Sinnoh-bird-evolution-line bookends 1:1 mirror between Starly DAA-145 and Staraptor DAA-147 was drawn in the same wave the staraptor-line cohort node was commissioned, and the cohort node body already articulates every claim the per-card mirror duplicates: the bookends-pattern framing, the within-set partial-triptych pattern with the missing Staravia at the 146 slot, the Brave Bird mechanical signature reading at the species-canon scope, the comparison to the within-Vivid-Voltage Charizard-line full-triptych, the species-line identity, the Sword & Shield-era shared TCG cycle. The mirror was a Bolas/Trunks/Kaya-pattern redundant-double-link — same connective tissue expressed twice, once at the cohort-anchor scope and once as a card-to-card edge between two members of that same cohort. The cross-print same-species mirror between Starly BRS-117 and Starly DAA-145 stays — that edge carries information the cohort node does NOT articulate (the per-print Pokedex-flavor-text continuity signature applied across two prints of the same character at the same life-stage in the same era, which is a same-stage-cross-print relation distinct from the within-line different-stage relation the cohort anchors). Both endpoints stay attached to the cohort via the `characters: [staraptor-line]` frontmatter and the cohort's `appears_on` list; only the redundant per-card edge between them is dissolved. Net effect: graph loosens by 2 edge-bullets (the mirror was bidirectional), zero canonical information lost, cohort node continues to do the structural work the per-card mirror was duplicating.",
+  "snip_rationale": [
+    "Redundant against cohort node — cards/_characters/staraptor-line.md 'The design thesis' section explicitly states: 'The within-Darkness-Ablaze Starly DAA-145 + Staraptor DAA-147 adjacent-but-non-contiguous pair is the corpus's first Sinnoh-region within-set evolutionary-bookends pattern, structurally parallel to the within-Vivid-Voltage Charmander-Charmeleon-Charizard 023+024+025 evolutionary triptych'. The per-card mirror said the same thing twice.",
+    "Subsumed by cohort attach — both cards already point at the cohort via `characters: [staraptor-line]`; the cohort `appears_on` lists both prints; the cohort body bullets enumerate both prints individually with their species-stage, flavor-text, and mechanical signature; the cross-print Starly mirror at DAA-145 stays as the load-bearing same-species relation. The bookends mirror was structural padding on top of the cohort layer.",
+    "Bolas/Trunks/Kaya precedent — the wave-119 sidecar reports/edges_pending/wave119-e1-bt2-012-repeated-force-vegito--son-goku-mirror-attach.json catalogues this exact pattern: 'per-voicebank module-variants attach through the cohort, not pairwise' (wave-113 sidecar), and the wave-118 dual-anchor for Repeated Force Vegito chose stack-attach at both parent character nodes rather than a 1:1 BT2-012 to vegito-component-card edge for the same reason. Pairwise edges between cohort-internal members are graph-tightening that the cohort layer already addresses at the structural scope.",
+    "Cross-print Starly mirror at DAA-145 (Starly BRS-117 to Starly DAA-145) is NOT in this redundancy pattern — that mirror is between two prints of the SAME species at the SAME life-stage, articulating the per-print flavor-text-continuity signature (both prints carry the exact same Pokedex flavor text) which the cohort node anchors at the species-line scope but does not articulate at the per-print-pair scope. The same-stage cross-print relation is a different relation from the within-line different-stage relation the cohort anchors. Keep the cross-print mirror, snip the bookends mirror."
+  ],
+  "files_modified": [
+    "cards/pokemon/darkness-ablaze/145-189-starly.md (removed the within-set bookends mirror bullet from ## Connections; the cross-print Starly mirror bullet remains)",
+    "cards/pokemon/darkness-ablaze/147-189-staraptor.md (removed the within-set bookends mirror bullet from ## Connections; section is now empty but the header remains for future bullets)",
+    "cards/_characters/staraptor-line.md (updated the Starly DAA-145 and Staraptor DAA-147 'Cards in our corpus pointing here' bullets to reflect the dissolution; the design-thesis bookends framing in the body section was already in place and continues to anchor the relation at the cohort scope)"
+  ],
+  "potion_rule_check": {
+    "no_canonical_loss": true,
+    "evidence_type": "The bookends-pattern, Brave Bird mechanical-signature, within-set partial-triptych framing, and species-line identity all remain anchored at cards/_characters/staraptor-line.md (a node Mr. Nodeley commissioned in the same wave the mirror was drawn). All canonical citations the per-card mirror surfaced were duplicates of citations already present on the cohort node. Zero canonical information has been removed from the graph.",
+    "no_new_attribution_claim": "This dissolution makes no new analytic / curatorial / thesis claim. It only reduces the graph's per-card edge density at a point where the cohort layer already anchors the relation.",
+    "potion_rule_pass": true
+  },
+  "edgelord_mood": "enlightened-cleanup",
+  "edgelord_voice_note": "The user explicitly commissioned a snip-only mode for this invocation ('ONE snip. Graph is too tight') overriding the standard Enlightenment-requires-replacement rule. The original mirror was drawn in good faith — its sidecar correctly identified the bookends pattern, correctly cited the Brave Bird canonical attack, correctly compared to the Vivid-Voltage Charizard triptych — but it was drawn IN THE SAME WAVE the staraptor-line cohort node was commissioned by Mr. Nodeley, which means the per-card mirror was duplicating connective tissue the cohort was about to anchor. Wave-110-onward swarm-staggering discipline (one-edge-per-invocation, single Opus Edgelord per wave) would have caught this — the wave-25-ish double-write happened before the swarm-staggering rule landed. Comic Book Guy register: 'Worst proposed double-link I've snipped this month. Cohort already anchored the bookends pattern in five places. Mirror was vestigial. Snip clean. Cross-print Starly mirror stays because same-stage-different-print is a different relation from within-line-different-stage and I'm not snipping load-bearing edges to flex.'",
+  "other_candidates_considered": [
+    {
+      "candidate": "Snip cross-print Starly mirror (BRS-117 to DAA-145) as well",
+      "verdict": "refused",
+      "reason": "That mirror is NOT subsumed by the cohort. The cohort anchors species-line membership; the cross-print same-species same-stage mirror articulates the per-print Pokedex-flavor-text continuity (both prints carry the exact same flavor text 'They flock around mountains and fields, chasing after bug Pokemon. Their singing is noisy and annoying') which is a print-level cross-attestation the cohort body mentions in passing but does not anchor at the per-pair scope. Same-stage cross-print is a structurally different relation from within-line different-stage. Keep."
+    },
+    {
+      "candidate": "Snip the Trubbish RBC-117 to Alolan Grimer CSE-130 cross-cohort predator-prey mirror (wave 104)",
+      "verdict": "refused",
+      "reason": "That edge defended itself in its sidecar against being subsumed by the cohort-cohort cross-reference: the predator-prey relationship is a species-event-level canonical interaction that the pollution-pokemon to alolan-regional-forms cohort link does not articulate. The two cohort nodes related_characters each other at the cohort scope but the cohort-scope link is 'both are Pokemon cohorts that overlap on labor/sanitation themes' — it doesn't carry the canonical predator-prey claim. The cross-cohort edge carries information neither cohort node anchors. Earns its weight. Keep."
+    },
+    {
+      "candidate": "Snip the Goku to Vegeta related_characters frontmatter pointer at one node",
+      "verdict": "refused-not-an-edge-in-the-snip-sense",
+      "reason": "The wave-119 sidecar noted both nodes already point at each other in related_characters frontmatter and assessed 'no edge work needed; the relation is already encoded symmetrically'. That's the character-layer canonical rival-pair relation; it's load-bearing and trivially structural. Not a redundant-double-link in the same sense as the bookends-mirror-against-cohort case. Not a snip target."
+    },
+    {
+      "candidate": "Snip one of the Kagamine Rin Append to roster Cards-in-our-corpus-bullet position vs canonical-roster-table-row position double-encoding",
+      "verdict": "refused-both-positions-do-different-work",
+      "reason": "The roster body has Rin Append in two places (the Cards-in-our-corpus prose roster AND the canonical-roster table row), but those serve different reader-tasks: the prose roster is the cohort-internal narrative ordering by voicebank-cluster, the table is the at-a-glance per-character corpus-count summary. Both are needed; neither is redundant. Not a snip target."
+    },
+    {
+      "candidate": "Snip the Vegito Potara-Fusion dual-anchor at son-goku vs vegeta (one of the two attachments)",
+      "verdict": "refused",
+      "reason": "The dual-anchor IS the structural model — the Gotenks Fusion-Dance precedent at son-goten and trunks established it. Vegito is BOTH halves of the fusion at the canonical character-identity level; dropping one half would misrepresent the fusion-character canon. Both attachments earn their weight. Not a snip target."
+    }
+  ],
+  "next_pass_suggestions": [
+    "Periodic-rigor-audit candidate: walk every cohort character node and grep its member cards' ## Connections sections for per-card mirrors between members of the same cohort. Any such mirror is a candidate snip if the cohort body already articulates the relation. The same-stage cross-print case (different relation type) should be EXCLUDED from the audit because those mirrors carry information the cohort doesn't anchor.",
+    "Possible follow-up snip targets surfaced during this audit (not actioned, one-snip-per-invocation rule): walk the per-card ## Connections sections at solrock-lunatone-pair members (DAA-072 Lunatone + DAA-092 Solrock + BUS-068 Lunatone) and verify whether the celestial-pair 1:1 mirrors are similarly subsumed by the pair-cohort node body. Mr. Nodeley shipped that pair-node after the per-card mirrors were drawn. Likely the same Bolas/Trunks/Kaya pattern.",
+    "Possible follow-up snip targets: the elemental-monkey-trio cohort node and the within-cohort 1:1 mirrors between Pansage / Pansear / Panpour prints if any exist. Same audit shape.",
+    "Possible follow-up snip targets: the galarian-regional-forms cohort node and any per-card mirrors between two Galarian regional variants that the cohort body already articulates as a designer-cohort relation.",
+    "Janitor entry candidate: backfill an audit-trail sidecar for the original starly-staraptor mirror dissolution noting that the wave-25-ish mirror sidecar was written before the cohort node landed; the cohort node should retroactively be treated as the canonical anchor for the bookends pattern. (Possibly add a janitor_triage entry: 'when wave-N draws an edge between two cards and wave-N or wave-N+1 commissions a cohort node anchoring both, sweep the per-card edge as redundant.')"
+  ]
+}
