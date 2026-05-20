@@ -1,0 +1,47 @@
+{
+  "card_name": "Thrill of Possibility",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "165",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Thrill of Possibility debuted in Throne of Eldraine (ELD, October 2019) and was reprinted in Core Set 2021 (M21, July 2020). It has since become one of red's most-reprinted cantrip-discard spells, appearing across Theros Beyond Death, Strixhaven Mystical Archive (two treatments), Dominaria United, Jumpstart 2022, Phyrexia: All Will Be One, Tales of Middle-earth Commander, Foundations, and even the Marvel Universe crossover set — 18 distinct printings as of 2026. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC ranks Thrill of Possibility at 202 overall, placing it among the most-included red cards in Commander — appearing in over 400,000 registered decks. Its {1}{R} cost and instant speed make it the go-to rummage spell for red Commander decks, particularly in madness, discard-payoff, and reanimator shells. [EDHREC: edhrec.com/cards/thrill-of-possibility]",
+      "sources": ["EDHREC", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card is legal in Pauper format at common rarity, placing it in competition with other red looting spells in that format. [Scryfall legalities]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Izzy (credited as a single mononym) has over 220 Magic illustrations to their credit, including the notorious Worldfire (M13). Izzy's work spans both the Thrill of Possibility art (depicting a human face consumed by fire in a moment of creation) and several other high-profile red instant and sorcery cards. [Scryfall artist field; gatherer.wizards.com artist search for Izzy]",
+      "sources": ["Scryfall", "Gatherer"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Right now, in these first moments of creation, it is simultaneously nothing and everything.\" The speaker is unnamed, framing the act of discarding-to-draw as a cosmological act of destruction enabling creation — appropriate for a card that mechanically trades one card for two. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Faithless Looting", "set": "Commander 2019", "note": "The benchmark red rummage spell; Thrill of Possibility is frequently compared to it for instant-speed advantage at higher mana cost"},
+    {"name": "Cathartic Reunion", "set": "Kaladesh", "note": "Discard-2-draw-3 at sorcery speed; forms the discard-draw triumvirate with Thrill in red Commander and Pauper"},
+    {"name": "Worldfire", "set": "Magic 2013", "note": "Also illustrated by artist Izzy; shares the creation-destruction thematic register"},
+    {"name": "Tormenting Voice", "set": "Khans of Tarkir", "note": "Functional predecessor: discard 1, draw 2 at sorcery speed; directly compared in format discussions"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

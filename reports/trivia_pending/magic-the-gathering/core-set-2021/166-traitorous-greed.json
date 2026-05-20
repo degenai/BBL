@@ -1,0 +1,42 @@
+{
+  "card_name": "Traitorous Greed",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "166",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Traitorous Greed is an M21 debut — it has no prior printing and has not been reprinted since its July 2020 Core Set 2021 release as of 2026. The effect (gain control + haste + add two mana of any color) is unique among Act of Treason variants in that the mana-rider clause makes it a two-for-one: you steal their creature and fuel a follow-up play in the same turn. [Scryfall: reprint: false]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC ranks Traitorous Greed at 8,758 — significantly lower than Act of Treason variants that lack the mana bonus, which itself suggests the card's unique mana-rider clause hasn't broken through the noise of a crowded Act-of-Treason effect pool in Commander. Legal in Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall legalities; EDHREC rank]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Remind me again, what's the going rate for betrayal these days?\" — Captain Rhenmir. Captain Rhenmir appears only on this card's flavor text and has no established presence elsewhere in published MTG lore; the name and title suggest a mercenary or pirate captain for whom betrayal is a commodity with a market price. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Svetlin Velinov is a Bulgarian digital illustrator who has produced over 200 Magic illustrations. He is predominantly a digital artist; of his entire catalog, only two cards have known original traditional paintings — The First Sliver (Modern Horizons), whose original sold at the MTG Art Market for $12,500 in 2019. Traitorous Greed is a digital work. [Hipsters of the Coast: 'Painting for the First Sliver Sells for $12,500', June 2019; Scryfall artist field]",
+      "sources": ["Hipsters of the Coast", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Act of Treason", "set": "Magic 2010", "note": "The baseline Act-of-Treason effect; Traitorous Greed adds the two-mana rider at one extra mana"},
+    {"name": "Claim the Firstborn", "set": "Throne of Eldraine", "note": "Cheaper single-mana Act variant; competes in the same red steal-a-creature design space"},
+    {"name": "Harness by Force", "set": "Journey into Nyx", "note": "Scalable Act of Treason that can steal multiple creatures; direct design comparison"},
+    {"name": "The First Sliver", "set": "Modern Horizons", "note": "Also illustrated by Svetlin Velinov; one of only two Velinov cards with a known original traditional painting"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

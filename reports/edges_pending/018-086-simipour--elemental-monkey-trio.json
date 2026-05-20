@@ -1,0 +1,16 @@
+{
+  "edge_id": "018-086-simipour--elemental-monkey-trio",
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/black-bolt/018-086-simipour.md", "name": "Simipour (Black Bolt 018/086)"},
+    {"type": "character", "path": "cards/_characters/elemental-monkey-trio.md", "name": "Elemental monkey trio (Pansage / Pansear / Panpour line)"}
+  ],
+  "description": "Completes the card-side half of a half-wired stack edge. Simipour BB-018 already sat in the node's appears_on: list (wave-127 attach) AND already carried the characters: frontmatter pointer, but the card-side ## Connections prose bullet was missing while both sibling Black Bolt trio members (Pansage BB-004, Panpour BB-017) carry theirs. Sync-drift orphan: node side and frontmatter-pointer side present, prose-edge side absent. Wrote the missing bullet matching the established sibling-card register. Parent brief mis-stated the gap as also missing the characters: pointer; the pointer was already present (lines 52-53) -- only the ## Connections bullet was actually absent.",
+  "citations": ["[PokemonTCG.io: zsv10pt5-18]", "[Bulbapedia: Simipour (Pokemon)]", "[Bulbapedia: Elemental monkeys]"],
+  "edges_removed": [],
+  "edges_added": ["018-086-simipour --> elemental-monkey-trio (## Connections bullet)"],
+  "files_modified": ["cards/pokemon/black-bolt/018-086-simipour.md"],
+  "edgelord_mood": "sighed-but-mirrored"
+}

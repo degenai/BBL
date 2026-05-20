@@ -73,3 +73,15 @@ A close, almost claustrophobic image of a human face wreathed in fire and lava-l
 **Iconography:** flame, open-mouth, wide-eyes
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Thrill of Possibility debuted in Throne of Eldraine (ELD, October 2019) and was reprinted in Core Set 2021 (July 2020). It has since accumulated 18 distinct printings through 2026, including Strixhaven Mystical Archive (two treatments), Dominaria United, Phyrexia: All Will Be One, Tales of Middle-earth Commander, Foundations, and a Marvel Universe crossover printing — making it one of red's most-reprinted cantrip-discard spells. `[Scryfall prints search]`
+- **Mechanical reputation** — EDHREC ranks Thrill of Possibility at 202 overall, appearing in over 400,000 registered Commander decks as of 2026. Its {1}{R} instant-speed rummage is the format benchmark for red card selection, outpacing sorcery-speed predecessors like Tormenting Voice and Cathartic Reunion in tempo-sensitive builds. Also legal in Pauper. `[EDHREC: edhrec.com/cards/thrill-of-possibility; Scryfall]`
+- **Design** — Artist Izzy (credited as a single mononym) has over 220 Magic illustrations, including the notorious Worldfire (M13). Both Worldfire and Thrill of Possibility share a creation-annihilation thematic register; Izzy's Thrill art depicts a human face consumed by fire at the moment of genesis rather than destruction. `[Scryfall artist field; Gatherer artist search]`
+- **Flavor text** — `"Right now, in these first moments of creation, it is simultaneously nothing and everything."` The speaker is unnamed. The quote frames the discard-then-draw mechanic as cosmological: obliterating one thing to birth two others. `[Scryfall]`
+
+### Related cards
+- Faithless Looting (Commander 2019, no. 134) — benchmark red rummage spell; Thrill of Possibility is its instant-speed counterpart at one extra mana
+- Tormenting Voice (Khans of Tarkir, no. 118) — functional predecessor at sorcery speed; directly displaced in many lists by Thrill's instant timing
+- Cathartic Reunion (Kaladesh, no. 108) — discard-2-draw-3 at sorcery speed; forms the red discard-draw triumvirate alongside Thrill in Commander and Pauper
+- Worldfire (Magic 2013, no. 158) — also illustrated by Izzy; shares the creation-annihilation thematic register

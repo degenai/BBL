@@ -75,3 +75,15 @@ A warrior figure stands at the center of a fiery cataclysm, its body and armor d
 **Iconography:** fire, explosion, destruction
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **Set context** — Turn to Slag debuted in Scars of Mirrodin (SOM, October 2010), the set that opened the Phyrexian corruption arc on Mirrodin and established Equipment as the block's central mechanical pillar. The card's Equipment-destruction clause is setting-specific: Mirrodin is saturated with weapon-artifacts, and melting them was a narrative act, not just a mechanical one. Reprinted in Magic 2013 and Core Set 2021. `[Scryfall prints search]`
+- **Flavor text** — `"If it wasn't a blackened, stinking, melted abomination before, it certainly is now."` — Koth of the Hammer. Koth is a Vulshok geomancer from Mirrodin whose power involves moving mountains, shattering stone, and melting metal — the "hammer" is not metaphorical. He later lost his planeswalker spark during the Phyrexian Invasion of the Multiverse (2023). The quote is quintessential Koth: blunt, practical, zero aesthetic appreciation for the carnage. `[Scryfall; Wizards planeswalker profile: magic.wizards.com/en/story/planeswalkers/koth-hammer]`
+- **Mechanical reputation** — EDHREC rank: 22,484. Rarely sees Commander play due to the cost ({3}{R}{R}) and the availability of more efficient artifact-hate. Pauper-legal (common), where it is more competitive — 5 damage clears most Pauper creatures and the Equipment-destroy is a bonus. `[EDHREC; Scryfall legalities]`
+- **Design** — Credited to Zoltan Boros & Gabor Szikszai as a collaborative pair — a partnership known for extensive joint work on Magic art in the early-to-mid 2010s, particularly on Mirrodin-block cards. Scryfall carries two separate artist IDs for the pair, reflecting Wizards' joint credit convention. `[Scryfall artist_ids]`
+
+### Related cards
+- Koth of the Hammer (Scars of Mirrodin, no. 94) — the flavor-text speaker; the planeswalker whose geomancy Turn to Slag directly invokes
+- Vandalblast (Return to Ravnica, no. 116) — red artifact-destruction spell that outcompetes Turn to Slag in Commander due to overload mode
+- Shatter (Ice Age, no. 202) — the baseline red artifact-destroy; Turn to Slag adds the 5-damage-to-creature mode at a significantly higher cost
+- Smelt (Magic 2014, no. 160) — 1-mana narrow artifact-destroy; opposite end of the cost spectrum for Equipment-hate comparisons

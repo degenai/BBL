@@ -1,0 +1,42 @@
+{
+  "card_name": "Turn to Slag",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "168",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Turn to Slag debuted in Scars of Mirrodin (SOM, October 2010) — the set that introduced Phyrexian oil corruption to Mirrodin and kicked off the New Phyrexia block. The card was reprinted in Magic 2013 (M13) and Core Set 2021 (M21). Its Equipment-destruction clause is specific to the Mirrodin setting where Equipment (swords, equipment artifacts) were central to the set's mechanical and narrative identity. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"If it wasn't a blackened, stinking, melted abomination before, it certainly is now.\" — Koth of the Hammer. Koth is a Vulshok geomancer and former planeswalker from Mirrodin: his power involves moving mountains, shattering stone, and melting metal. He lost his planeswalker spark during the events of the Phyrexian Invasion of the Multiverse (2023). The flavor text is vintage Koth — blunt, practical, no aesthetic appreciation for destruction. [Scryfall; Wizards planeswalker profile: magic.wizards.com/en/story/planeswalkers/koth-hammer]",
+      "sources": ["Scryfall", "Wizards.com planeswalker profile"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank: 22,484 — a fringe inclusion even in Equipment-heavy Commander decks, where more efficient artifact-hate options exist. The 5-damage clause is relevant in Pauper (legal there), where toughness thresholds are lower. The Equipment-destroy bonus is uniquely punishing against Voltron strategies. [Scryfall legalities; EDHREC rank]",
+      "sources": ["EDHREC", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Credited to 'Zoltan Boros & Gabor Szikszai' as a collaborative pair — a duo known for their longtime partnership on Magic card art, particularly in the Mirrodin-block era. Scryfall lists two distinct artist IDs for the pair, reflecting that Wizards credited them jointly. Their collaborative output spans dozens of cards from the early 2010s. [Scryfall artist_ids field]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Koth of the Hammer", "set": "Scars of Mirrodin", "note": "The flavor-text speaker; the planeswalker whose geomancy lore Turn to Slag directly invokes"},
+    {"name": "Vandalblast", "set": "Return to Ravnica", "note": "Red artifact-destruction spell that competes in the same design space in Commander"},
+    {"name": "Shatter", "set": "Ice Age", "note": "The baseline red artifact-destroy spell; Turn to Slag adds 5 damage to a creature at a higher cost"},
+    {"name": "Smelt", "set": "Magic 2014", "note": "Narrow 1-mana artifact-destroy instant; frequently compared in Equipment-hate discussions"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

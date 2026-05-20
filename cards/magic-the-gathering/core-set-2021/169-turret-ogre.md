@@ -76,3 +76,15 @@ A heavily armored ogre dominates the frame, broad-shouldered and grim-faced, hau
 **Creatures:** ogre
 **Genre cues:** fantasy, high-fantasy, dark-fantasy
 
+## Trivia
+
+- **Set context** — Turret Ogre debuted in War of the Spark (WAR, May 2019), a Ravnica set centered on Nicol Bolas's planeswalker-harvesting invasion. The Gruul Clans appear in that conflict as Ravnica's brute-force defenders against Bolas's Eternal forces. M21 and Ravnica: Clue Edition (2024) are the two subsequent printings — three total. `[Scryfall prints search]`
+- **Flavor text** — `"Common Gruul career aspirations: berserker, shaman, catapult."` The Gruul Clans are a collection of feuding warrior clans on Ravnica where physical power defines social rank. Berserker and shaman are established Gruul role archetypes; "catapult" is the dark punchline, positioning the ogre not as a user of siege artillery but as the artillery itself — a reading the card art literalizes by showing the ogre carrying the catapult as a backpack. `[Scryfall; MTG Wiki: Gruul Clans via WebSearch]`
+- **Mechanical reputation** — EDHREC rank: 23,279. The enter-the-battlefield trigger (2 damage to each opponent if you control another power-4-or-greater creature) is a meaningful payoff in large-creature Gruul Commander builds but too conditional for wider adoption. Pauper-legal; the power-4 condition is achievable in Pauper big-green shells. `[EDHREC; Scryfall legalities]`
+- **Design** — Artist Johann Bodin's visual interpretation deserves note: the ogre does not operate a catapult — it wears one like a siege-engine backpack. This literalizes the flavor text's joke in the art itself, which is a tighter joke-delivery than the card could have achieved with a separate catapult prop in frame. `[Scryfall artist field; Vision section]`
+
+### Related cards
+- Borborygmos (Guildpact, no. 117) — Gruul Clans chieftain; the most powerful figure in the hierarchy whose career structure the flavor text jokes about
+- Ruric Thar, the Unbowed (Dragon's Maze, no. 119) — two-headed ogre chieftain of the Ghor Clan (a Gruul sub-clan); same Gruul ogre design space
+- Rhythm of the Wild (Ravnica Allegiance, no. 201) — Gruul enchantment synergizing with entering creatures; relevant in Turret Ogre Gruul Commander builds
+- Savage Stomp (Commander 2019, no. 56) — Gruul-flavored removal requiring a creature with power 4 or greater, mirroring Turret Ogre's conditional trigger

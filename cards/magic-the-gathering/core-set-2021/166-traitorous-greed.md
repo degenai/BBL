@@ -76,3 +76,15 @@ A scaled red dragon dominates the frame, its long sinuous neck arcing forward as
 **Iconography:** banner, war-banner, heraldry
 **Genre cues:** fantasy, high-fantasy, sword-and-sorcery
 
+## Trivia
+
+- **Set context** — Traitorous Greed is an M21 debut with no prior or subsequent printing as of 2026 — a singleton release. `[Scryfall]` The effect grafts a two-mana-of-any-color rider onto the standard Act of Treason chassis ({3}{R}: gain control + haste until end of turn), making it uniquely a two-for-one: steal a creature and cash a mana bonus in the same turn. No other Act of Treason variant has this clause. `[Scryfall oracle text]`
+- **Mechanical reputation** — EDHREC rank: 8,758. Lower than most Act of Treason variants despite the mana-rider upside, suggesting the additional mana cost ({3}{R} versus Act of Treason's {2}{R}) is the sticking point for Commander pilots who value efficiency over the bonus. Legal in Pioneer, Modern, Legacy, Vintage, and Commander. `[EDHREC; Scryfall legalities]`
+- **Flavor text** — `"Remind me again, what's the going rate for betrayal these days?"` — Captain Rhenmir. Rhenmir appears nowhere else in published MTG lore; the title and phrasing position betrayal as a market commodity with a negotiable price — fitting the card's transactional mechanic. `[Scryfall]`
+- **Design** — Artist Svetlin Velinov is a Bulgarian digital illustrator with over 200 Magic credits. He works almost entirely in digital media; of his full catalog, only two cards have documented original traditional paintings — The First Sliver (Modern Horizons) sold at the MTG Art Market for $12,500 in May 2019. Traitorous Greed is digital. `[Hipsters of the Coast, "Painting for the First Sliver Sells for $12,500," June 2019; Scryfall artist field]`
+
+### Related cards
+- Act of Treason (Magic 2010, no. 122) — baseline red steal-creature effect; Traitorous Greed is its mana-rider upgrade at one additional mana
+- Claim the Firstborn (Throne of Eldraine, no. 118) — single-mana Act variant; competes in the same design space
+- Harness by Force (Journey into Nyx, no. 100) — scalable Act that can steal multiple creatures; direct design comparison
+- The First Sliver (Modern Horizons, no. 202) — also illustrated by Svetlin Velinov; one of only two Velinov cards with a documented original traditional painting

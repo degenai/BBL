@@ -1,0 +1,43 @@
+{
+  "card_name": "Volcanic Geyser",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "171",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Volcanic Geyser is a Mirage original, first printed October 1996 — placing it among Magic's oldest X-damage burn spells. It has been reprinted across nine sets: Classic Sixth Edition (1999), Friday Night Magic promo (2000), Magic 2013, Magic 2014, Archenemy: Nicol Bolas (2017), MTGO Promos (2014), Core Set 2021, and The List (2024). The M21 printing is the card's first Arena-legal version, making it newly accessible to digital players 24 years after its debut. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank: 12,566. As an {X}{R}{R} instant that deals X damage to any target, Volcanic Geyser is a scalable burn spell and mana-sink in Commander but faces stiff competition from Banefire (uncounterable), Comet Storm (multi-target), and Fall of the Titans. Scryfall flags it as a combo piece with Caldera Breaker (Alchemy: Ixalan, December 2023) — Caldera Breaker conjures Volcanic Geysers directly from outside the game into the library as a digital-Arena mechanic. [EDHREC; Scryfall related_cards / combo_piece tag; Scryfall: Caldera Breaker]",
+      "sources": ["EDHREC", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The common folk call it the breaking of the crust or the spilling of fire. Geomancers call it target practice.\" — Ryda, geomancer. Ryda does not appear in any other published MTG lore; the quote frames geomancy as a discipline that domesticates volcanic catastrophe into craft — consistent with the geomancer archetype seen in Koth of the Hammer and other red-mage lore. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Clint Cearley has produced a substantial Magic catalog including notable land and environment illustrations. His Swamp from Hour of Devastation was cited in a Hipsters of the Coast analysis comparing MTG art to Mark Rothko's abstract expressionist work, noting Cearley's skill with atmospheric vertical compositions — visible in the Volcanic Geyser art's dominant vertical eruption column. [Hipsters of the Coast: 'Mark Rothko and Magic: the Gathering,' August 2021; Scryfall artist field]",
+      "sources": ["Hipsters of the Coast", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Banefire", "set": "Conflux", "note": "Uncounterable X-damage burn spell; frequently cited as Volcanic Geyser's superior for Commander finisher roles"},
+    {"name": "Comet Storm", "set": "Worldwake", "note": "Multi-target X-burn instant; competes in the same X-spell Commander mana-sink space"},
+    {"name": "Caldera Breaker", "set": "Alchemy: Ixalan", "note": "Scryfall-listed combo piece — conjures Volcanic Geysers into the library as an Arena digital mechanic"},
+    {"name": "Fireball", "set": "Alpha", "note": "The original scalable X-burn spell; Volcanic Geyser is the instant-speed narrow-target successor"},
+    {"name": "Fall of the Titans", "set": "Oath of the Gatewatch", "note": "Instant-speed X-burn with surge; direct design comparison for the scalable-burn slot"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Turret Ogre",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "169",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Turret Ogre debuted in War of the Spark (WAR, May 2019) — a Ravnica set framed around Nicol Bolas's invasion and mass-planeswalker harvesting. The Gruul Clans appear in War of the Spark as defenders of Ravnica against Bolas's Eternal forces; the Turret Ogre fits that context as a brute-force siege creature on the Ravnica side. M21 (2020) and Ravnica: Clue Edition (2024) are the subsequent printings — three total. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Common Gruul career aspirations: berserker, shaman, catapult.\" The Gruul Clans are a collection of feuding warrior clans on Ravnica for whom physical power and combat role define social rank — berserker and shaman are established Gruul archetypes; 'catapult' is the dark joke, positioning the ogre itself as siege artillery rather than a user of it. [Scryfall; MTG Wiki: Gruul Clans]",
+      "sources": ["Scryfall", "MTG Wiki via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank: 23,279. The card's enter-the-battlefield trigger (deal 2 damage to each opponent if you control another creature with power 4 or greater) is a reasonable payoff in large-creature red or Gruul Commander decks, but its narrow conditional and common rarity keep it outside most competitive Commander lists. Pauper-legal; the power-4 condition is achievable in Pauper big-green shells. [Scryfall legalities; EDHREC rank]",
+      "sources": ["EDHREC", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Johann Bodin has produced numerous creature illustrations for Magic, predominantly in the creature-fantasy space. Turret Ogre is notable within Bodin's portfolio for its unusual visual concept: an ogre carrying a catapult like a backpack rather than operating one, which literalizes the flavor text's 'catapult' punchline in the art itself. [Scryfall artist field]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Borborygmos", "set": "Guildpact", "note": "Gruul Clans chieftain; the lore figure leading the guild whose career structure Turret Ogre's flavor text jokes about"},
+    {"name": "Ruric Thar, the Unbowed", "set": "Dragon's Maze", "note": "Two-headed ogre chieftain of the Ghor Clan (a Gruul sub-clan); same Gruul ogre design space"},
+    {"name": "Rhythm of the Wild", "set": "Ravnica Allegiance", "note": "Gruul enchantment that synergizes with entering creatures including Turret Ogre in Gruul Commander builds"},
+    {"name": "Savage Stomp", "set": "Commander 2019", "note": "Gruul-flavored removal that requires a creature with power 4 or greater — mirrors Turret Ogre's conditional trigger"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
