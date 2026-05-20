@@ -1,0 +1,42 @@
+{
+  "card_name": "Feat of Resistance",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "19",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Feat of Resistance originated in Khans of Tarkir (September 2014, set no. KTK 10). Khans of Tarkir depicted the five warring clans of a plane where dragons had been driven extinct — the Abzan clan, associated with endurance and white-black-green colors, was the thematic home for this card. The original KTK flavor text reads: \"Dragons are extinct on Tarkir, but Abzan magic still emulates their endurance.\" [Scryfall: KTK/10].",
+      "sources": ["Scryfall: KTK/10"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 10113 (as of 2026-05-19). The card is Pauper-legal and PauperCommander-legal — one of relatively few protection instants in those formats. Its +1/+1 counter adds permanent power where most protection spells are purely defensive [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The M21 printing carries no flavor text — the KTK Abzan flavor text did not travel with the card into Core Set 2021. The art by David Gaillet is consistent across all three printings: Khans of Tarkir (2014), The List (2019), and Core Set 2021 (2020). No new art was commissioned for M21 [Scryfall prints search].",
+      "sources": ["Scryfall prints search", "Scryfall: KTK/10", "Scryfall: M21/19"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Protection from a chosen color is one of the most versatile protective keywords in MTG — it simultaneously prevents blocking, targeting, damage, and enchanting/equipping from that color, making this a flexible combat trick that can save a creature from targeted removal, force it through a blocker of the right color, or strip it of an opposing aura in a single instant-speed action [Scryfall oracle text].",
+      "sources": ["Scryfall oracle text"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Feat of Resistance", "set": "Khans of Tarkir", "note": "Original printing — carries the Abzan flavor text absent from the M21 version"},
+    {"name": "Gods Willing", "set": "Theros", "note": "White protection instant at 1 mana; functional parallel, scry 1 bonus; frequently compared in Pauper brews"},
+    {"name": "Emerge Unscathed", "set": "Rise of the Eldrazi", "note": "Rebound protection instant — similar function, recurring cast; design cousin"},
+    {"name": "Valorous Stance", "set": "Fate Reforged", "note": "Abzan-era modal combat trick from the same block — same set block context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

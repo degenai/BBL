@@ -76,3 +76,16 @@ A solitary figure stands centered in the frame, body torqued into a defensive br
 **Iconography:** radiant-burst, halo-of-light, raised-blade
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** — Feat of Resistance originated in Khans of Tarkir (September 2014, KTK 10), the first set of the Khans of Tarkir block. The Abzan clan — Tarkir's endurance-themed white-black-green faction — is the thematic home for this card. The original Khans of Tarkir flavor text reads: "Dragons are extinct on Tarkir, but Abzan magic still emulates their endurance." That text did not carry into the Core Set 2021 reprint; the M21 version has no flavor text `[Scryfall: KTK/10; Scryfall: M21/19]`
+- **Mechanical reputation** — EDHREC rank 10113 (as of 2026-05-19). Pauper-legal and PauperCommander-legal. The card combines a permanent +1/+1 counter with a turn-length protection grant — simultaneously growing the creature and shielding it from removal, evasion-blocking, and opposing auras in one action `[Scryfall]`
+- **Design / reprint history** — Three printings across three products: Khans of Tarkir (2014), The List (2019, KTK-10), and Core Set 2021 (2020). David Gaillet's art is consistent across all three; no new art was commissioned for M21 `[Scryfall prints search]`
+- **Mechanical note** — Protection from a chosen color prevents blocking, targeting, damage, and enchanting/equipping from that color simultaneously — making Feat of Resistance a versatile combat trick that can force through a blocker, save from targeted removal, or strip an opposing aura in a single instant-speed action `[Scryfall oracle text]`
+
+### Related cards
+- Feat of Resistance (Khans of Tarkir, 10) — original printing carrying the Abzan flavor text absent from M21
+- Gods Willing (Theros) — white protection instant at one mana with scry 1; frequently compared in Pauper brews
+- Emerge Unscathed (Rise of the Eldrazi) — rebound protection instant; functional design cousin
+- Valorous Stance (Fate Reforged) — modal combat trick from the same Tarkir block era; set-context sibling
+

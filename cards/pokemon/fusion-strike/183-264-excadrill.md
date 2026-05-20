@@ -48,6 +48,8 @@ setting: mountain
 suspected_ip: Excadrill (Pokémon)
 ip_confidence: high
 ip_verified: true
+characters:
+  - drilbur-line
 tags:
   - card
   - pokemon

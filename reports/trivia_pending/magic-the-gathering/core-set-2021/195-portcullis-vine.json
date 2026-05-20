@@ -1,0 +1,42 @@
+{
+  "card_name": "Portcullis Vine",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "195",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Portcullis Vine originated in Guilds of Ravnica (October 2018, set GRN 142), the first of two sets revisiting the plane of Ravnica. In that set's limited environment, it was a building block for defender-based draft strategies — early community discussion on MTGSalvation described it as \"gold for the Wall.dec\" in the context of Guilds of Ravnica Pauper [MTGSalvation: Guilds of Ravnica commons for Pauper forum thread, via WebSearch].",
+      "sources": ["MTGSalvation via WebSearch", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Nature's way of saying 'take the long way home.'\" The same text appeared on both the Guilds of Ravnica original printing and the Core Set 2021 reprint — the only two printings of this card to date [Scryfall: GRN/142; Scryfall: M21/195].",
+      "sources": ["Scryfall GRN/142", "Scryfall M21/195"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 14564 (as of 2026-05-19). Portcullis Vine is Pauper-legal and PauperCommander-legal. Its sacrifice ability — {2}, {T}, sacrifice a creature with defender: draw a card — lets it convert a board of defender-only creatures into card draw, giving Wall tribal and defender-matters strategies a built-in outlet [Scryfall oracle text].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a 0/3 Creature — Plant Wall for {G} with Defender, Portcullis Vine is a one-mana blocker that trades zero offensive capability for a sacrifice-draw engine. The Plant subtype connects it to Plant-tribal synergies (Avenger of Zendikar, Quirion Ranger) but its primary function in Constructed is enabling the defender-synergy axis alongside cards like Assault Formation and Arcades, the Strategist [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Portcullis Vine", "set": "Guilds of Ravnica", "note": "Original printing — identical art (James Paick) and flavor text"},
+    {"name": "Arcades, the Strategist", "set": "Core Set 2019", "note": "Defender-matters commander that rewards including 0-power walls; Portcullis Vine slots directly into Arcades builds"},
+    {"name": "Assault Formation", "set": "Dragons of Tarkir", "note": "Enchantment that lets defenders attack using toughness; key enabler alongside Portcullis Vine in Wall strategies"},
+    {"name": "Wall of Blossoms", "set": "Stronghold", "note": "Design predecessor — green wall with ETB draw; Portcullis Vine's sacrifice-draw is the activated-ability variant of the same role"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

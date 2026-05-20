@@ -75,3 +75,17 @@ A heroic figure in plated armor and a billowing pale-green hooded cloak lunges f
 **Iconography:** broken-bonds, heroic-charge
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** — Heroic Intervention originated in Aether Revolt (January 2017, AER 109), the second set of the Kaladesh block. The Kaladesh narrative centered on a popular uprising of renegades against the autocratic Consulate, which monopolized the plane's aether supply. Ajani Goldmane, the flavor-text speaker, aligned with the renegade faction, coordinated resistance strategy, and joined the Gatewatch after the revolt's victory `[Scryfall; MTG Wiki: Aether Revolt via WebSearch]`
+- **Flavor text** — "Wherever the strong would harm the weak, I will be there." — Ajani Goldmane. The quote was printed identically on the Aether Revolt original and has carried unchanged into every reprint through Core Set 2021, Commander Masters, and beyond `[Scryfall]`
+- **Mechanical reputation** — EDHREC rank 32 globally (as of 2026-05-19), with 30.4% inclusion across 1.24 million Commander decks; in mono-green Commander builds specifically, inclusion climbs to 46% across 127K decks. EDHREC describes it as "the granddaddy of all green protection spells." Primary function: countering board wipes by simultaneously granting hexproof and indestructible — covering both targeted removal and destruction-based wraths in a single two-mana instant `[EDHREC card page via WebSearch; Scryfall]`
+- **Design / reprint history** — As of the 2026 print record, this card has appeared in over 20 distinct products: original Aether Revolt (James Ryman art), Kaladesh Remastered, Core Set 2021, Forgotten Realms Commander, Commander Masters, Tales of Middle-earth Commander, Doctor Who commander decks (4 versions), Fallout commander decks (4 versions), Secret Lair drops in 2024 (art by Jake Murray) and 2025 (art by Justyna Dura), Avatar: The Last Airbender Eternal, and the Marvel Universe crossover set. The M21 printing retains the original James Ryman art `[Scryfall prints search]`
+- **Community resonance** — Community sentiment on EDHREC: Heroic Intervention is consistently cited as a green Commander must-include, with top synergy commanders including Kitt Kanto, Mayhem Diva; Rin and Seri, Inseparable; and Jinnie Fay, Jetmir's Second. Its reprint volume reflects sustained demand — the card has held a $13+ market price despite numerous reprints `[EDHREC via WebSearch; Scryfall prices]`
+
+### Related cards
+- Heroic Intervention (Aether Revolt, 109) — original printing, same James Ryman art and Ajani flavor text
+- Inspiring Call (Dragons of Tarkir) — thematic cousin; protects creatures with counters from removal; compared in counter-based Commander builds
+- Wrap in Vigor (Future Sight) — budget predecessor; indestructible only, no hexproof; fills similar anti-wrath role
+- Boros Charm (Gatecrash) — non-green parallel to the same sweeper problem; frequently mentioned alongside Heroic Intervention in board-protection discussions
+

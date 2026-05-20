@@ -76,3 +76,16 @@ A pale-skinned elf druid stands at center frame in a dense, sun-dappled forest, 
 **Iconography:** spiral-energy, glowing-eyes, raised-hands-casting
 **Genre cues:** fantasy, high-fantasy, druidic
 
+## Trivia
+
+- **Set context / first printing** — Llanowar Visionary is a first printing with no prior set appearance (Scryfall `reprint: false`). The Llanowar are ancient elves of Dominaria, inhabitants of a vast forest in South Aerona. Their tribal identity is defined by fierce isolationism dating to the Ice Age, when they defended their forests from outsiders under the protection of the planeswalker-goddess Freyalise. The flavor text — "The elves of Llanowar look to their past to determine the shape of their future" — anchors the card in that ancestral-memory theme `[Scryfall; MTG Wiki: Llanowar via WebSearch]`
+- **Flavor text** — "The elves of Llanowar look to their past to determine the shape of their future." `[Scryfall]`
+- **Mechanical reputation** — EDHREC rank 3574 (as of 2026-05-19) — the highest rank among all five cards in this batch, and exceptional for a common. Llanowar Visionary combines a mana-dork tap ability ({T}: Add {G}) with an enter-the-battlefield card draw trigger, making it a three-mana package that replaces itself immediately. This positions it as a slower but card-efficient alternative to Llanowar Elves in Commander builds that can afford the extra mana investment `[Scryfall]`
+- **Design / preview** — Core Set 2021 previews were distributed to a range of community creators; Llanowar Visionary was previewed by Dana Fischer via YouTube (2020-06-05). Scryfall records this in its preview metadata field, making the preview-source part of the permanent print record `[Scryfall preview field]`
+
+### Related cards
+- Llanowar Elves (Dominaria) — the archetypal Llanowar mana dork; Llanowar Visionary is the slower, card-replacing parallel
+- Elvish Visionary (Magic 2013) — design direct predecessor; same ETB draw trigger on an elf, no mana ability
+- Llanowar Tribe (Core Set 2019) — another Llanowar-named elf from the same M19 era; also a Dana Fischer preview per MTGSalvation Rumor Mill
+- Selvala, Heart of the Wilds (Conspiracy) — Commander anchor that frequently runs Llanowar Visionary per EDHREC synergy data
+

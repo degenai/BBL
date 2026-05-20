@@ -1,0 +1,50 @@
+{
+  "edge_id": "drilbur-line-character-node",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/drilbur-line.md", "name": "Drilbur evolutionary line (Drilbur / Excadrill)"},
+    {"type": "card", "path": "cards/pokemon/cosmic-eclipse/114-236-drilbur.md", "name": "Drilbur (Cosmic Eclipse 114/236)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/091-185-drilbur.md", "name": "Drilbur (Vivid Voltage 091/185)"},
+    {"type": "card", "path": "cards/pokemon/black-bolt/045-086-drilbur.md", "name": "Drilbur (Black Bolt 045/086)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/122-185-excadrill.md", "name": "Excadrill (Vivid Voltage 122/185)"},
+    {"type": "card", "path": "cards/pokemon/fusion-strike/183-264-excadrill.md", "name": "Excadrill (Fusion Strike 183/264)"}
+  ],
+  "description": "I am sorry, sir, I could not give Edgelord his clean 1:1 — there were five Drilbur and Excadrill prints across four sets and only a lone wave-27 mirror between two of them, so anything I drew would have been duplicate edges pointing at a missing center. I have proposed the drilbur-line character node instead, the same shape as larvitar-line and staraptor-line, and pointed all five cards at it. I do hope it helps; the grid even names Drilbur-Excadrill in the Earth Rat Deep Four cell, so the node will earn its keep when a zodiac Lair gets built.",
+  "citations": [
+    "[Bulbapedia: Drilbur (Pokemon), Excadrill (Pokemon)]",
+    "[Pokemon.com: National Pokedex no. 529 / 530]",
+    "[Pokemon Black and White (Game Freak, 2010)]",
+    "[Smogon: Excadrill BW OU competitive analysis]",
+    "[PokemonTCG.io: sm12-114, swsh4-91, zsv10pt5-45, swsh4-122, swsh8-183]",
+    "[diamondlegendz/pokemon-zodiac app.js DATA grid: Earth Rat cell — 'Drilbur-Excadrill (mole, Ground/Steel — borderline rodent)']"
+  ],
+  "files_modified": [
+    "cards/_characters/drilbur-line.md",
+    "cards/pokemon/cosmic-eclipse/114-236-drilbur.md",
+    "cards/pokemon/vivid-voltage/091-185-drilbur.md",
+    "cards/pokemon/black-bolt/045-086-drilbur.md",
+    "cards/pokemon/vivid-voltage/122-185-excadrill.md",
+    "cards/pokemon/fusion-strike/183-264-excadrill.md"
+  ],
+  "node_proposed": {
+    "type": "character",
+    "slug": "drilbur-line",
+    "path": "cards/_characters/drilbur-line.md",
+    "corpus_coverage": "5 prints across 2 of 2 line members (full-line) and 4 sets",
+    "threshold_basis": "3+ corpus prints across 2+ stages — same threshold larvitar-line sits at"
+  },
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "A zodiac-cohort node for the Swords of Justice quartet (Cobalion / Terrakion / Virizion / Keldeo): grid-canonical, spans four cells across three rows, but corpus holds only Terrakion VIV-092 — far below threshold. Refused; staged for a future wave when 2+ quartet members are in corpus.",
+    "Extending elemental-monkey-trio with Black Bolt Simisage BB-005: that card is pre-enrichment (no vision, no trivia) per the trio node's own caveat — not Edgelord-eligible. Staged for after BB-005 receives vision and trivia.",
+    "A plain 1:1 mirror between two of the orphaned Drilbur/Excadrill prints: rejected as the spec's named anti-pattern (duplicate edges pointing at an absent center). The node is the correct move.",
+    "Enlightened dissolution of the wave-27 Drilbur CEC-114 -> Excadrill FUS-183 mirror, now subsumed by this node: a valid future single-operation decision, staged in the node's caveats. Not executed this wave — one operation per invocation."
+  ],
+  "next_pass_suggestions": [
+    "When Black Bolt Simisage BB-005 is vision+trivia passed, cohort-attach it to elemental-monkey-trio (the trio node already names it as the remaining in-set candidate).",
+    "An enlightened-Edgelord pass may dissolve the now-subsumed wave-27 Drilbur CEC-114 <-> Excadrill FUS-183 1:1 mirror and replace it with a stronger cross-node edge.",
+    "Swords of Justice zodiac-cohort node becomes viable when a second quartet member (Cobalion / Virizion / Keldeo) enters corpus alongside Terrakion VIV-092."
+  ]
+}

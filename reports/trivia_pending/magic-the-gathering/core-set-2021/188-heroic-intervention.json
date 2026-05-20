@@ -1,0 +1,47 @@
+{
+  "card_name": "Heroic Intervention",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "188",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Heroic Intervention originated in Aether Revolt (January 2017), the second set of the Kaladesh block. The Kaladesh narrative centered on a popular uprising of renegades against the autocratic Consulate, which monopolized the plane's aether supply. Ajani Goldmane, the flavor-text speaker, aligned with the renegade faction and later joined the Gatewatch after the revolt's victory [Scryfall; MTG Wiki: Aether Revolt, via WebSearch].",
+      "sources": ["Scryfall", "MTG Wiki: Aether Revolt via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Wherever the strong would harm the weak, I will be there.\" — Ajani Goldmane. The quote was printed identically on the original Aether Revolt printing and carried unchanged into all reprints through Core Set 2021, Commander Masters, and beyond [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 32 globally (as of 2026-05-19), with 30.4% inclusion across 1.24 million Commander decks. In mono-green Commander builds specifically, inclusion climbs to 46% across 127K decks. EDHREC describes it as \"the granddaddy of all green protection spells\" [EDHREC: Heroic Intervention card page, via WebSearch; Scryfall].",
+      "sources": ["EDHREC via WebSearch", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "By Core Set 2021, the card had already seen a reprint in Kaladesh Remastered (2020). As of the 2026 print record, it has been reprinted in over 20 distinct products including Doctor Who commander decks (4 versions, 2023), Fallout commander decks (4 versions, 2024), Commander Masters (2023), a Secret Lair in 2024 with art by Jake Murray, and a second Secret Lair in 2025 with art by Justyna Dura — plus crossover products for Avatar: The Last Airbender and Marvel Universe. The M21 printing retains James Ryman's original Aether Revolt art [Scryfall prints search].",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on EDHREC: Heroic Intervention is consistently cited as a must-include in green-heavy Commander builds. Its primary function is countering sweepers (board wipes) by making your board simultaneously hexproof and indestructible on the same turn, covering both targeted removal and destruction-based wraths in a single two-mana instant [EDHREC: Back to Basics — 10 Most Played Mono-Green Cards in Commander, via WebSearch].",
+      "sources": ["EDHREC via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Heroic Intervention", "set": "Aether Revolt", "note": "Original printing — same James Ryman art, same Ajani flavor text"},
+    {"name": "Inspiring Call", "set": "Dragons of Tarkir", "note": "Thematic cousin — also protects creatures with counters from removal; often compared in counter-based Commander builds"},
+    {"name": "Wrap in Vigor", "set": "Future Sight", "note": "Budget predecessor — gives indestructible only, no hexproof, still fills a similar anti-wrath role"},
+    {"name": "Boros Charm", "set": "Gatecrash", "note": "Non-green parallel — RW answer to the same sweeper problem; often mentioned alongside Heroic Intervention in 'how to protect your board' discussions"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

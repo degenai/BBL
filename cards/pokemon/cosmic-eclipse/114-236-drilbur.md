@@ -49,6 +49,8 @@ setting: forest
 suspected_ip: Drilbur
 ip_confidence: high
 ip_verified: false
+characters:
+  - drilbur-line
 tags:
   - card
   - pokemon

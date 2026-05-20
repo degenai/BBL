@@ -75,3 +75,16 @@ A young, athletic foreground figure stands with arms raised in a triumphant pose
 **Iconography:** raised-arms, triumph-pose
 **Genre cues:** fantasy, egyptian-fantasy, desert-fantasy
 
+## Trivia
+
+- **Set context** — Life Goes On originated in Hour of Devastation (July 2017, HOD 121), the second and final set of the Amonkhet block. Hour of Devastation depicted Nicol Bolas' return to the plane he had reshaped, unleashing his Eternal army and destroying most of Amonkhet's population and gods. The Samut flavor text positions this card at the climactic moment: the instant survivors had to choose whether to keep faith in the God-Pharaoh or revolt `[Scryfall; MTG Wiki: Hour of Devastation via WebSearch]`
+- **Flavor text** — "If you believe the God-Pharaoh tests you, charge with me to prove yourself. If you believe he betrayed us all, join with me to fight for tomorrow!" — Samut, former Tah-crop initiate. The same text appears on the Hour of Devastation and Core Set 2021 printings; the Amonkhet Remastered (2020) printing dropped it `[Scryfall: HOD/121; Scryfall: M21/192; Scryfall: AKR/199]`
+- **Set lore / Samut** — Samut began the Amonkhet story as a Tah-crop initiate training for the Trials of the Five Gods. She became a dissenter after discovering ancient hieroglyphics in a forgotten district of Naktamun that revealed the God-Pharaoh's true nature. Labeled a heretic, she was proven correct by the Hour of Devastation itself — and by the close of the block she leads the surviving initiates, helps defeat the Scorpion God, and saves the god Hazoret `[MTG Wiki: Samut via WebSearch]`
+- **Mechanical reputation** — EDHREC rank 17597 (as of 2026-05-19). Pauper-legal and PauperCommander-legal. The conditional clause — 8 life if a creature died this turn, 4 life otherwise — makes this a curve-dependent lifegain tool; in sacrifice and go-wide strategies, the 8-life mode is reliably accessible for a single green mana `[Scryfall]`
+
+### Related cards
+- Life Goes On (Hour of Devastation, 121) — original printing, same Samut flavor text and Daarken art
+- Samut, Voice of Dissent (Hour of Devastation) — the named flavor-text speaker; her creature card reflects the dissenter arc described in the quote
+- Hazoret the Fervent (Amonkhet) — the god Samut's survivors save during the Hour; thematic anchor of Amonkhet survivor lore
+- The Scorpion God (Hour of Devastation) — the antagonist Samut's survivors defeat; closing narrative beat of the Amonkhet block
+

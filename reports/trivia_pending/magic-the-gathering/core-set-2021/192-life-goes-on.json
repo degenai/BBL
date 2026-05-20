@@ -1,0 +1,42 @@
+{
+  "card_name": "Life Goes On",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "192",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Life Goes On originated in Hour of Devastation (July 2017), the second and final set of the Amonkhet block. Hour of Devastation depicted Nicol Bolas' return to the plane he had reshaped, unleashing the Eternal army and destroying most of Amonkhet's population and gods. The Samut flavor text positions the card in the immediate aftermath — the moment surviving initiates had to choose whether to keep faith in the God-Pharaoh or revolt [Scryfall; MTG Wiki: Hour of Devastation, via WebSearch].",
+      "sources": ["Scryfall", "MTG Wiki via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"If you believe the God-Pharaoh tests you, charge with me to prove yourself. If you believe he betrayed us all, join with me to fight for tomorrow!\" — Samut, former Tah-crop initiate. The same text appears on both the Hour of Devastation and Core Set 2021 printings; the Amonkhet Remastered printing (2020) dropped the flavor text entirely [Scryfall: HOD/121; Scryfall: M21/192; Scryfall: AKR/199].",
+      "sources": ["Scryfall HOD/121", "Scryfall M21/192", "Scryfall AKR/199"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Samut began the Amonkhet story as a Tah-crop initiate — one of the warriors training for the Trials of the Five Gods — but became a dissenter after discovering hieroglyphics in a forgotten district of Naktamun that revealed the God-Pharaoh's true nature. She was labeled a heretic before the Hour of Devastation confirmed her warnings. By the close of the block she leads the Amonkhet survivors, helps defeat the Scorpion God, and saves the god Hazoret [MTG Wiki: Samut, via WebSearch].",
+      "sources": ["MTG Wiki: Samut via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 17597 (as of 2026-05-19). Pauper-legal and PauperCommander-legal. The conditional clause — 8 life if a creature died this turn vs. 4 life otherwise — makes this a curve-dependent lifegain tool rather than a universal staple. In formats where creature death is frequent (sacrifice and go-wide strategies) the 8-life mode is reliably accessible [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Life Goes On", "set": "Hour of Devastation", "note": "Original printing — same Samut flavor text, same Daarken art"},
+    {"name": "Samut, Voice of Dissent", "set": "Hour of Devastation", "note": "Named speaker of the flavor text; her creature card reflects her dissenter arc"},
+    {"name": "Hazoret the Fervent", "set": "Amonkhet", "note": "The god Samut saves during the Hour; thematic anchor of Amonkhet survivor lore"},
+    {"name": "The Scorpion God", "set": "Hour of Devastation", "note": "The antagonist Samut's survivors defeat — closing narrative of the Amonkhet block"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -49,6 +49,8 @@ setting: dungeon
 suspected_ip: Excadrill
 ip_confidence: high
 ip_verified: false
+characters:
+  - drilbur-line
 tags:
   - card
   - pokemon

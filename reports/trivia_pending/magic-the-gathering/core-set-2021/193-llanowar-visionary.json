@@ -1,0 +1,42 @@
+{
+  "card_name": "Llanowar Visionary",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "193",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Llanowar Visionary is a first printing — the card does not appear in any earlier set [Scryfall: reprint field = false]. The Llanowar are the ancient elves of Dominaria, inhabitants of a vast forest in South Aerona. The tribe is characterized by fierce isolationism dating to the Ice Age, when they defended their forests from outsiders under the protection of the planeswalker-goddess Freyalise. The flavor text — \"The elves of Llanowar look to their past to determine the shape of their future\" — anchors this card in that ancestral-memory theme [Scryfall; MTG Wiki: Llanowar, via WebSearch].",
+      "sources": ["Scryfall", "MTG Wiki: Llanowar via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The elves of Llanowar look to their past to determine the shape of their future.\" [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 3574 (as of 2026-05-19) — the highest rank among the five cards in this batch, and notably strong for a common. Llanowar Visionary combines a mana dork ({T}: Add {G}) with an enter-the-battlefield draw trigger, making it a three-mana package that replaces itself immediately. This positions it as a more card-efficient (if slower) alternative to Llanowar Elves in Commander builds that can afford the extra mana [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The M21 preview was given to Dana Fischer, a then-young MTG content creator and competitive player known for her visibility in the youth-audience side of Wizards' promotional pipeline. The preview was announced via YouTube (channel: Dana Fischer). Scryfall records the preview source as \"Dana Fischer\" with the YouTube link as the source URI [Scryfall preview field].",
+      "sources": ["Scryfall preview field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Llanowar Elves", "set": "Dominaria", "note": "The archetypal Llanowar mana dork; Llanowar Visionary is a slower but card-replacing parallel"},
+    {"name": "Elvish Visionary", "set": "Magic 2013", "note": "Functional predecessor — same ETB draw trigger on an elf, no mana ability; design direct ancestor"},
+    {"name": "Selvala, Heart of the Wilds", "set": "Conspiracy", "note": "Llanowar-adjacent Commander build anchor that frequently runs Llanowar Visionary per EDHREC synergy data"},
+    {"name": "Llanowar Tribe", "set": "Core Set 2019", "note": "Another Llanowar-named mana elf from the same era; previewed by Dana Fischer per MTGSalvation Rumor Mill"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
