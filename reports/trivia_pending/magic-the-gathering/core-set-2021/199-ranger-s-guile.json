@@ -1,0 +1,42 @@
+{
+  "card_name": "Ranger's Guile",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "199",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Ranger's Guile is a reprint with a long core-set lineage: first printed in Innistrad (September 2011), then reprinted in Magic 2014 (2013), Magic 2015 (2014), The List (2019), and Core Set 2021 (2020) — five total printings. The Garruk Wildspeaker flavor text has been carried across all printings, making it a consistent piece of Garruk lore attached to a simple hexproof combat trick. [Scryfall prints search via oracle_id 694cb93a]",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"You don't survive in the wild by standing in plain sight.\" —Garruk Wildspeaker. The quote speaks to Garruk's core identity as a hunter and tracker who values camouflage and patience over brute force. In M21 lore, Garruk appears as 'Garruk, Unleashed' — freed from Liliana's Chain Veil curse that had turned him into a planeswalker-hunter; the flavor text echoes his restored self as the Wildspeaker, a master of natural concealment. [Scryfall flavor_text field; Draftsim M21 lore overview]",
+      "sources": ["Scryfall", "Draftsim M21 set overview"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A {G} instant granting +1/+1 and hexproof until end of turn. EDHREC rank: 6,684. Legal in Pauper and Pauper Commander, making it a known combat trick at the most budget-accessible formats. Penny Dreadful legal (penny_rank: 2,377 — among the more-played Penny cards). The hexproof mode — protection from targeted removal at instant speed — is a reliable one-mana play that has kept it relevant enough for five reprints across core sets spanning a decade. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The card was first printed in Innistrad (2011), Magic's gothic-horror set focused on humanity's survival against monsters. A ranger hiding in the wild to avoid detection fits the Innistrad thematic framework of humans using stealth and nature to survive a hostile supernatural world. The Garruk connection is retroactively fitting: Garruk visited Innistrad on his cursed planeswalker hunt, making his survival philosophy apt for that plane. [MTG Wiki: Garruk, via WebSearch snippet; Scryfall set data]",
+      "sources": ["MTG Wiki: Garruk (via WebSearch)", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Garruk, Unleashed", "set": "Core Set 2021", "note": "The M21 incarnation of Garruk Wildspeaker, the flavor-text speaker — curse-free and restored to his Wildspeaker identity"},
+    {"name": "Snakeskin Veil", "set": "Kaldheim", "note": "Direct functional successor: {G} instant, +1/+1 counter and hexproof; slightly stronger due to the counter being permanent"},
+    {"name": "Blossoming Defense", "set": "Kaladesh", "note": "The closest competitive predecessor: {G} instant, +2/+2 and hexproof — saw significant Constructed play, making Ranger's Guile the budget-tier sibling"},
+    {"name": "Garruk Wildspeaker", "set": "Magic 2011", "note": "The named flavor-text speaker's most iconic card form — a 4-mana green planeswalker centered on beast summoning and mana production"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

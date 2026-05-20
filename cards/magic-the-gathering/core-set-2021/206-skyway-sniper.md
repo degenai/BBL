@@ -76,3 +76,15 @@ A lithe elven archer kneels on a thick mossy branch high in the forest canopy, b
 **Creatures:** elf
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** — Skyway Sniper is a Core Set 2021 exclusive — only one printing as of 2026. As an uncommon (not a common), it was a meaningful inclusion signal for a green deck in M21 Limited focused on anti-air coverage. EDHREC rank: 19,767 — very low Commander inclusion, consistent with narrow-role reach creatures that rarely outcompete cheaper or more efficient alternatives. Not legal in Pauper (uncommon). `[Scryfall]`
+- **Design** — Art by Even Amundsen, a Norwegian illustrator known for naturalistic forest and nature imagery across multiple MTG sets. Amundsen's characteristic diffuse woodland lighting is visible here in the dappled canopy rendering. No Secret Lair Artist Series for Amundsen to date. `[Scryfall artist field; artofmtg.com]`
+- **Flavor text** — "No sight is more beautiful than a clear sky." No speaker is attributed on the card. The quote frames the elf archer's satisfaction as the measure of a cleared threat — the empty sky itself is the reward. No named lore character is associated with this line in sourced MTG story material; the absent attribution is common for M21 uncommon flavor text. `[Scryfall flavor_text field]`
+- **Mechanical** — A {G} 1/2 Elf Archer with Reach and an activated ability: {2}{G} — deal 1 damage to target creature with flying. The activation cost is steep for 1 damage, but it provides deterministic reach against any flier regardless of Sniper's own toughness. The card is the lowest mana-cost anti-flier green creature in M21. `[Scryfall oracle text]`
+
+### Related cards
+- Ranger's Guile (Core Set 2021, no. 199) — also a green forest-based card in this M21 batch; shares archer/ranger imagery
+- Llanowar Visionary (Core Set 2021, no. 193) — M21 green elf that ramps mana; thematic peer for an elf-tribal M21 green build
+- Thornmantle Striker (Wilds of Eldraine, no. 196) — later elf archer design with reach; thematic descendant in the elf-archer-as-anti-air design space
+- Grazing Whiptail (Ixalan, no. 193) — comparable green reach creature used in Limited to answer fliers; same Limited-role peer

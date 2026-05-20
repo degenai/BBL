@@ -1,0 +1,42 @@
+{
+  "card_name": "Pridemalkin",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "196",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 (M21), released July 3, 2020, was the first core set since 2015 to feature Garruk as a headlining planeswalker — specifically 'Garruk, Unleashed,' representing him freed from the Chain Veil curse inflicted by Liliana. Green's mechanical identity in M21 leaned into +1/+1 counters and trample as interlocking themes, making Pridemalkin a deliberate mechanical anchor for that axis. [Scryfall: Core Set 2021 set page; Draftsim M21 set overview]",
+      "sources": ["Scryfall", "Draftsim M21 set overview"]
+    },
+    {
+      "category": "design",
+      "text": "Pridemalkin is illustrated by Karl Kopinski, a UK-based fantasy illustrator who began contributing to Magic with Shards of Alara (2008) and has painted over 190 cards across 45+ sets. Pridemalkin is one of four printings all retaining Kopinski's original art: Core Set 2021 (2020), Jumpstart 2022, March of the Machine Commander (2023), and Foundations Jumpstart (2024). [Scryfall prints search; artofmtg.com artist page]",
+      "sources": ["Scryfall prints search", "artofmtg.com/artist/karl-kopinski/"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pridemalkin's ETB trigger can legally target itself — it enters, the trigger resolves, and it places a +1/+1 counter on itself, immediately qualifying as a 3/2 trample creature without needing another target. EDHREC rank: 4,310, indicating moderate but real Commander play. Legal in Pioneer, Modern, Pauper, and Pauper Commander. [Scryfall oracle text; MTGSalvation M21 Pridemalkin thread 2020]",
+      "sources": ["Scryfall", "MTGSalvation forums thread #817691"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on MTGSalvation during M21 previews: Pridemalkin was previewed by Twitch streamer NessaMeowMeow (per Scryfall preview source field), which the community found fitting given the card's cat subject matter — the preview source is logged as 'nessameowmeow' on Scryfall's card record. The card generated moderate interest as a counter-matters enabler in Limited rather than Constructed. [Scryfall preview source data; MTGSalvation M21 rumor mill thread #817691]",
+      "sources": ["Scryfall preview_source field", "MTGSalvation thread #817691"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Garruk's Uprising", "set": "Core Set 2021", "note": "M21 enchantment that grants trample to all your creatures and draws cards for large creatures — directly pairs with Pridemalkin's trample-enabler role"},
+    {"name": "Basri's Solidarity", "set": "Core Set 2021", "note": "M21 white instant that puts +1/+1 counters on all your creatures — synergizes with Pridemalkin's trample-grant-to-countered-creatures effect"},
+    {"name": "Primal Might", "set": "Core Set 2021", "note": "M21 green sorcery that puts X +1/+1 counters on a creature and fights — a high-synergy counter card from the same set"},
+    {"name": "Scute Swarm", "set": "Zendikar Rising", "note": "Counter-based green creature that exploded in the Standard format around the same era; illustrates the broader +1/+1 counter theme green was developing 2020-2021"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

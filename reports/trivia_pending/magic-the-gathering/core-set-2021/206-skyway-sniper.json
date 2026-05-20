@@ -1,0 +1,42 @@
+{
+  "card_name": "Skyway Sniper",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "206",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Skyway Sniper is a Core Set 2021 exclusive — only one printing as of 2026. The card is an uncommon (not a common), which in M21 Limited made it a meaningful inclusion signal for a green deck focused on anti-air reach. EDHREC rank: 19,767 — very low Commander inclusion, consistent with narrow-reach creatures that rarely outperform similarly costed alternatives. Not legal in Pauper (uncommon). [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Even Amundsen, a Norwegian illustrator who has contributed to Magic across multiple sets. Amundsen is known for his naturalistic painting style and is responsible for numerous green and white cards in the MTG catalog. Skyway Sniper is a solo painting with his characteristic diffuse forest lighting. No Hipsters of the Coast artist profile found for Amundsen via search; no Secret Lair Artist Series to date. [Scryfall artist field; artofmtg.com]",
+      "sources": ["Scryfall", "artofmtg.com"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"No sight is more beautiful than a clear sky.\" No speaker attributed on the card. The quote frames the elf archer as someone whose satisfaction comes from eliminating flying threats — the cleared sky is the measure of a job done. The absent speaker attribution is common for M21 flavor text; no named lore character is associated with this card in sourced MTG story material. [Scryfall flavor_text field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A {G} 1/2 Elf Archer with Reach and an activated ability: {2}{G} — deal 1 damage to target creature with flying. The activated ability is a slow reach supplement — costly at {2}{G} per point of damage — but provides guaranteed value against any flying creature regardless of the Sniper's toughness. The creature is the lowest mana cost anti-flier in green's toolkit for M21 Limited. [Scryfall oracle text]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ranger's Guile", "set": "Core Set 2021", "note": "Also a green forest-based instant in this M21 batch; shares archer/ranger imagery and forest setting with Skyway Sniper"},
+    {"name": "Thornmantle Striker", "set": "Wilds of Eldraine", "note": "Later elf archer design with reach; thematic descendant in the elf-archer-as-anti-air design space"},
+    {"name": "Grazing Whiptail", "set": "Ixalan", "note": "Another green reach creature used in Limited to answer fliers; comparable role in its set"},
+    {"name": "Llanowar Visionary", "set": "Core Set 2021", "note": "M21 green elf that ramps mana; thematic peer for an elf-tribal M21 green deck that Skyway Sniper could slot into"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

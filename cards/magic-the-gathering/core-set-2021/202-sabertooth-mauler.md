@@ -76,3 +76,15 @@ A muscular striped sabertooth cat dominates the foreground, body coiled low agai
 **Creatures:** sabertooth-cat, tiger
 **Genre cues:** fantasy, prehistoric, wilderness
 
+## Trivia
+
+- **Design** — Art by Randy Vargas, a science fiction and fantasy illustrator from Nicaragua who debuted in Magic with Hour of Devastation (2017). Vargas received his own Secret Lair Artist Series in Spring Superdrop 2023 — a recognition Wizards reserves for illustrators with a devoted collector following. Sabertooth Mauler is among his earlier MTG commissions, released in M21 just three years into his Magic career. `[Scryfall artist field; secretlair.wizards.com/us/en/product/813935]`
+- **Set context** — Sabertooth Mauler is a Core Set 2021 exclusive — only one printing as of 2026. Core sets served as entry-point sets with broad creature types and no plane-specific lore; this sabertooth is a generic fantasy wilderness predator with no named Ixalan or plane-specific origin in the card's text. EDHREC rank: 21,916 — low Commander inclusion, consistent with a mid-curve common carrying a conditional end-step trigger. `[Scryfall: single printing confirmed via prints search]`
+- **Flavor text** — "I hope the idiot who introduced these creatures to the jungle was their first meal." — Opar, veteran guide. The quote positions the sabertooth as an introduced invasive predator — not native to whatever jungle Opar is guiding in. Opar is a flavor-text-only character with no named lore entry across sourced MTG story material. `[Scryfall flavor_text field]`
+- **Mechanical** — A {3}{G} 3/3 Cat: at the beginning of your end step, if a creature died this turn, put a +1/+1 counter on this creature and untap it. The untap clause is the interesting piece — the Mauler can attack, trigger a creature death through combat, then untap and hold as a blocker or for activated ability use. Not legal in Pauper or Penny Dreadful. `[Scryfall oracle text and legalities]`
+
+### Related cards
+- Pridemalkin (Core Set 2021, no. 196) — the other Cat creature in this M21 green batch; shares Cat type for tribal synergy
+- Ferocious Pup (Core Set 2021, no. 182) — M21 creature that produces a token when a creature dies, directly triggering Sabertooth Mauler's condition
+- Colossal Dreadmaw (Core Set 2019, no. 164) — comparable mid-curve green common in the core-set creature design lineage
+- Scavenging Ooze (Core Set 2021, no. 204) — M21 creature that grows when creatures die; shares the death-trigger-as-growth design axis

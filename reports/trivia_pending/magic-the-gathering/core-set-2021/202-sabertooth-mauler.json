@@ -1,0 +1,42 @@
+{
+  "card_name": "Sabertooth Mauler",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "202",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Sabertooth Mauler is a Core Set 2021 exclusive — its only printing as of 2026. Core sets historically served as entry-point sets with broad creature types and no deep plane-specific lore; the sabertooth cat here is a generic fantasy wilderness predator rather than a named Ixalan or other plane-specific beast. EDHREC rank: 21,916 — low Commander inclusion, which tracks with it being a mid-curve common with a conditional end-step trigger. [Scryfall prints search: single printing confirmed]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Randy Vargas, a science fiction and fantasy illustrator from Nicaragua who debuted in Magic with Hour of Devastation (2017). Vargas received his own Secret Lair Artist Series in Spring Superdrop 2023 — a significant career recognition that Wizards reserves for illustrators with a devoted collector following. Sabertooth Mauler is among his earlier MTG commissions (M21, released July 2020). [Scryfall artist field; secretlair.wizards.com/us/en/product/813935]",
+      "sources": ["Scryfall", "secretlair.wizards.com Artist Series: Randy Vargas"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"I hope the idiot who introduced these creatures to the jungle was their first meal.\" —Opar, veteran guide. The quote frames the sabertooth as an invasive introduced predator — not native to wherever Opar is guiding. Opar is an unnamed flavor-text character specific to this card; no lore record of a named character Opar exists across MTG story sources. The invasive-predator reading is the flavor text's sole sourced meaning. [Scryfall flavor_text field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A {3}{G} 3/3 Cat that at the beginning of your end step, if a creature died this turn, gains a +1/+1 counter and untaps. The untap clause is notable: it enables the Mauler to attack, facilitate a creature dying (via combat or other means), then untap as a blocker or to use any activated abilities. Not legal in Pauper. Not legal in Penny Dreadful. [Scryfall oracle text and legalities]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pridemalkin", "set": "Core Set 2021", "note": "The other Cat creature in this M21 green batch; shares the Cat type for tribal synergies in the same set"},
+    {"name": "Ferocious Pup", "set": "Core Set 2021", "note": "M21 creature that produces a token when a creature dies — directly triggers Sabertooth Mauler's end-step condition"},
+    {"name": "Sabertooth Mauler", "set": "Core Set 2021", "note": "No reprints as of 2026; any future reprint would be its second appearance"},
+    {"name": "Prideful Parent", "set": "Magic Origins", "note": "Another core-set Cat creature that rewards controlling power creatures — thematic peer in the Cat-creature design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

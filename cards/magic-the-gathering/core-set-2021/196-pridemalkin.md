@@ -74,3 +74,15 @@ A large orange tabby cat with exaggerated musculature stands on stone pavement, 
 **Creatures:** cat
 **Genre cues:** fantasy, painterly
 
+## Trivia
+
+- **Set context** — Core Set 2021 (M21), released July 3, 2020, was built around Garruk as the headlining green planeswalker — specifically "Garruk, Unleashed," representing him freed from Liliana's Chain Veil curse. Green's mechanical identity in M21 deliberately centered +1/+1 counters and trample as interlocking themes, making Pridemalkin a purpose-built common anchor for that axis. `[Scryfall: Core Set 2021 set page; Draftsim M21 set overview]`
+- **Design** — Art by Karl Kopinski, a UK-based fantasy illustrator who debuted with Magic in Shards of Alara (2008) and has painted 190+ cards across 45+ sets. All four printings of Pridemalkin retain Kopinski's original art: Core Set 2021 (2020), Jumpstart 2022, March of the Machine Commander (2023), Foundations Jumpstart (2024). `[Scryfall prints search; artofmtg.com/artist/karl-kopinski/]`
+- **Mechanical** — Pridemalkin's ETB trigger can legally target itself: it enters, the trigger resolves, it places a +1/+1 counter on itself, and it immediately becomes a 3/2 with trample without needing a second creature. EDHREC rank: 4,310. Legal in Pioneer, Modern, Pauper, and Pauper Commander. `[Scryfall oracle text; MTGSalvation M21 preview thread no. 817691]`
+- **Community resonance** — Pridemalkin was previewed during M21 by Twitch streamer NessaMeowMeow — logged verbatim as the Scryfall preview source. Community sentiment on MTGSalvation found the cat-previewer pairing fitting; the card generated moderate interest as a Limited counter-matters enabler rather than a Constructed staple. `[Scryfall preview_source field; MTGSalvation thread no. 817691]`
+
+### Related cards
+- Garruk's Uprising (Core Set 2021, no. 185) — M21 enchantment granting trample to all your creatures; directly pairs with Pridemalkin's trample-to-countered-creatures role
+- Basri's Solidarity (Core Set 2021, no. 7) — M21 white instant putting +1/+1 counters on all your creatures; triggers Pridemalkin's trample grant en masse
+- Primal Might (Core Set 2021, no. 197) — M21 green sorcery adding X counters to a creature and fighting; highest-synergy counter card in the same set
+- Scute Swarm (Zendikar Rising, no. 203) — counter-based green creature that defined the Standard format concurrent with M21; illustrates how hard Wizards leaned into the counter theme in 2020-2021

@@ -74,3 +74,15 @@ A heavy-set ceratopsian dinosaur dominates the frame, its body painted in earthy
 **Iconography:** horns, frill, crest
 **Genre cues:** fantasy, prehistoric, naturalism
 
+## Trivia
+
+- **Set context** — Thrashing Brontodon originated in Rivals of Ixalan (January 2018, card RIX/148), on the tropical plane of Ixalan where ceratopsian-style brontodons serve as apex herd predators native to the Sun Empire's jungle territories. The flavor text — "It cares more about preserving the herd's territory than about preserving itself" — is identical across all 11 printings, anchoring the sacrifice-to-destroy ability in Ixalan's lore of territorial herd loyalty. `[Scryfall; Rivals of Ixalan original printing RIX/148]`
+- **Design** — 11 total printings as of 2026: Rivals of Ixalan (2018), Game Night (2018), Core Set 2020 (2019), Core Set 2020 Promos (2019), The List (2019), Core Set 2021 (2020), Jumpstart 2022, Lost Caverns of Ixalan (two alternate-art versions by Sidharth Chaturvedi and Randy Vargas, 2023), Foundations (2024), and Foundations Jumpstart (2024). The Jakub Kasper art on this M21 copy has been the most-reprinted version. `[Scryfall prints search via oracle_id 60bc63dc]`
+- **Mechanical** — A {1}{G}{G} 3/4 Dinosaur: {1}, Sacrifice this creature: Destroy target artifact or enchantment. EDHREC rank: 2,604 — a strong Commander showing for an uncommon, placing it among the more-played green removal pieces in the format. EDHREC data indicates 55,000+ Commander decks include it. Standard-legal as of 2026 via the Foundations reprint. The sacrifice-to-remove design occupies a creature-slot answer to noncreature permanents that doubles as a 3/4 body until needed. `[Scryfall; EDHREC Thrashing Brontodon page, via WebSearch]`
+- **Flavor text** — "It cares more about preserving the herd's territory than about preserving itself." No speaker attribution. The line reframes the sacrifice mechanic as species lore: the brontodon's willingness to die for territorial defense is its defining trait, not a game abstraction. Herd-first selflessness is consistent with Ixalan's Sun Empire dinosaur lore, where brontodons serve as sacred manifestations of the Threefold Sun's power. `[Scryfall flavor_text field]`
+
+### Related cards
+- Reclamation Sage (Magic 2015, no. 193) — the most direct functional peer: {2}{G} Elf that destroys an artifact or enchantment on ETB; frequently compared to Brontodon in EDH deck-building discussions
+- Caustic Caterpillar (Magic Origins, no. 161) — the Pauper-legal equivalent: {G} 1/1, sacrifice to destroy an artifact or enchantment; same axis at lower mana
+- Thrashing Brontodon (Rivals of Ixalan, no. 148) — the original 2018 printing by Jakub Kasper; same art, same flavor text
+- Titanoth Rex (Ikoria, no. 170) — Dinosaur creature that cycles into the graveyard to pump a creature; thematic peer in the herd-sacrifice design space

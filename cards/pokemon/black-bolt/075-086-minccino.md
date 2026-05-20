@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - cute
+  - forest
+  - flower
+  - small-creature
+  - fluffy
+  - nature
+  - woodland
+  - peaceful
+  - tiny
+  - grooming
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - creature-normal
 reference_image: cards/_images/pokemon/black-bolt/075-086-minccino.png
 average_cost_paid: 0
 market_price: 0.07
@@ -27,6 +42,34 @@ oracle_text: "Tail Slap (Colorless) 20×: Flip 2 coins. This attack does 20 dama
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: day
+setting: forest
+suspected_ip: Minccino
+ip_confidence: high
+ip_verified: false
 ---
 
 # Minccino (Black Bolt)
+
+## Vision
+
+![075-086-minccino](../../_images/pokemon/black-bolt/075-086-minccino.png)
+
+> [!warning] Suspected IP: **Minccino** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A small, round-eared chinchilla-like creature stands on a mossy surface, holding a small yellow flower in one paw. The creature has large ears, a fluffy appearance, and a long tail curling behind it. The background is a soft green forest setting with broad leaves and dappled natural light. The overall composition is gentle and naturalistic, with the subject centered in a peaceful woodland clearing.
+
+**Subject:** Minccino, a small chinchilla-like Pokemon
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** forest, day, calm
+**Foreground:** small fluffy creature holding a yellow flower, standing on mossy ground  *(palette: gray, white, yellow, green)*
+**Background:** soft green forest with broad leaves and dappled light  *(palette: green, dark-green, olive)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** calm, curious expression; gentle upright stance
+**Objects:** flower
+**Creatures:** chinchilla-like creature, small mammal
+**Genre cues:** anime, fantasy
+

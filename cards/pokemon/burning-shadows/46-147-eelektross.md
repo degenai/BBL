@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - eel
+  - electric
+  - darkness
+  - predator
+  - glowing-eyes
+  - menace
+  - void
+  - lightning
+  - sea-creature
+  - sucker
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-pose
+  - creature-lightning
 reference_image: cards/_images/pokemon/burning-shadows/46-147-eelektross.png
 average_cost_paid: 0
 market_price: 0.16
@@ -27,8 +42,35 @@ oracle_text: "Dark Clamp (LightningColorless) 50: The Defending Pokémon can't r
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: horror
+time_of_day: night
+setting: void
+suspected_ip: Eelektross
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
 ---
 # Eelektross (Burning Shadows)
+
+## Vision
+
+![46-147-eelektross](../../_images/pokemon/burning-shadows/46-147-eelektross.png)
+
+> [!warning] Suspected IP: **Eelektross** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A large, dark eel-like creature hovers or lunges forward with clawed forelimbs spread wide. Its sucker-like circular mouth is prominent and open. The body is dark blue-black with yellow and orange accents along the edges and glowing markings. Electric energy effects appear around the figure. The background is very dark, almost void-like, with faint energy streaks. The creature's glowing eyes are visible and the overall impression is menacing and predatory.
+
+**Subject:** Eelektross, a dark eel-like Pokemon with clawed limbs
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** void, night
+**Foreground:** dark eel-like creature with open sucker mouth, clawed limbs, and electric markings  *(palette: dark-blue, black, yellow, orange)*
+**Background:** near-void dark background with faint electric energy streaks  *(palette: black, dark-blue, dark-gray)*
+**Mood / lighting:** horror, rim
+**Emotion read:** menacing, predatory; gaping sucker mouth and spread claws suggest threat display
+**Creatures:** eel-like creature, electric creature, sea creature
+**Genre cues:** anime, fantasy
+

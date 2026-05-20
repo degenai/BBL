@@ -76,3 +76,15 @@ A lean ranger with long flowing red hair leans out from behind a mossy tree trun
 **Objects:** bow, arrow, quiver, tree-trunk
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Design** — Ranger's Guile is a reprint with a core-set lineage spanning a decade: first printed in Innistrad (September 2011), then reprinted in Magic 2014 (2013), Magic 2015 (2014), The List (2019), and Core Set 2021 (2020) — five total printings. The Garruk Wildspeaker flavor text has been carried intact across all printings. Art by Steve Prescott. `[Scryfall prints search via oracle_id 694cb93a]`
+- **Flavor text** — "You don't survive in the wild by standing in plain sight." — Garruk Wildspeaker. The quote anchors Garruk's pre-curse identity as a patient wilderness hunter who values concealment over confrontation. In M21 lore, Garruk appears as "Garruk, Unleashed" — freed from Liliana's Chain Veil curse that had turned him into a planeswalker-hunter; the flavor text speaks to his restored Wildspeaker self. `[Scryfall flavor_text field; Draftsim M21 lore overview]`
+- **Set context** — The card originated in Innistrad (2011), Magic's gothic-horror plane where human survival against monsters was the core narrative. A ranger hiding to avoid detection maps cleanly onto that plane's theme of humans using stealth to persist in a hostile supernatural world. Garruk canonically visited Innistrad during his cursed planeswalker hunt, making his survival philosophy apt for the plane. `[MTG Wiki: Garruk, via WebSearch snippet; Scryfall set data]`
+- **Mechanical** — A {G} instant granting +1/+1 and hexproof until end of turn. EDHREC rank: 6,684. Legal in Pauper and Pauper Commander; Penny Dreadful legal (penny_rank: 2,377 — among the more-played Penny cards). The hexproof-at-one-mana profile has earned it five reprints across core sets. `[Scryfall]`
+
+### Related cards
+- Garruk, Unleashed (Core Set 2021, no. 184) — the M21 incarnation of Garruk Wildspeaker, the flavor-text speaker, curse-free and restored
+- Snakeskin Veil (Kaldheim, no. 196) — direct functional successor: {G} instant, permanent +1/+1 counter and hexproof
+- Blossoming Defense (Kaladesh, no. 159) — competitive predecessor: {G} instant, +2/+2 and hexproof; saw significant Constructed play
+- Garruk Wildspeaker (Magic 2011, no. 174) — the named flavor-text speaker's most iconic card form
