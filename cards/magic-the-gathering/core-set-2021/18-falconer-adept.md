@@ -78,3 +78,15 @@ A figure in deep crimson and burnt-orange robes stands in three-quarter profile,
 **Iconography:** hood, raptor-on-fist
 **Genre cues:** fantasy, medieval
 
+## Trivia
+
+- **Set context** — Falconer Adept is a white Human Soldier uncommon from Core Set 2021 (M21), released July 3, 2020. It sits in the set's flying-matters design space alongside other white aerial-combat cards. M21 was designed as an accessible, thematic core set featuring five planeswalker focal characters. `[Scryfall: Core Set 2021]`
+- **Mechanical design** — A 2/3 for four mana that creates a 1/1 white Bird token with flying tapped and attacking every time it attacks. The token is always tapped and attacking, meaning it deals combat damage and triggers attack effects but cannot be used defensively. The card's EDHREC rank is 19,858, placing it in the fringe-Commander tier — playable in dedicated flying or bird-token builds but not a format staple. `[Scryfall]` `[EDHREC via Scryfall related_uris]`
+- **Flavor text** — "My falcons are family, as much as any other member of my clan." No speaker is named on the card. The line frames the falconer not as an aristocratic falconer using birds as tools but as a communal figure treating her birds as kin — consistent with the art's quiet, intimate bond between handler and bird. `[Scryfall flavor_text]`
+- **Artist** — Art by Billy Christian, who has illustrated 67+ MTG cards. His original Falconer Adept painting is sold as a print through the Original Magic Art store, indicating collector interest in the artwork at the card-art-market level. `[Scryfall artist field]` `[originalmagicart.store: Falconer Adept Print, via WebSearch snippet]`
+- **Preview provenance** — Falconer Adept was previewed by Limited Resources co-host Marshall Sutcliffe on June 12, 2020, via Twitter, per Scryfall's preview metadata. `[Scryfall preview field]`
+
+### Related cards
+- Aven Wind Guide (Amonkhet) — white bird-token synergy in a similar vein
+- Squadron Hawk (Magic 2011) — white flying-matters creature sharing the "birds as a unit" design space
+- Emeria Angel (Zendikar) — white flying-token-on-landfall that occupies a similar niche in flying Commander builds

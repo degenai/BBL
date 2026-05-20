@@ -73,3 +73,15 @@ A green-toned forest scene depicts a slender elven figure half-concealed in heav
 **Creatures:** elf
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Design history** — Fierce Empath originated in Scourge (2003), making this M21 printing one of at least 8 across its lifetime. Confirmed reprints include: Scourge (2003), Commander (2011), Duel Decks: Elves vs. Inventors, Archenemy, Masters 25, Double Masters, Commander Masters, and Foundations — a reprint depth that signals sustained format relevance over two decades. `[Gatherer: Fierce Empath printings, via WebSearch snippet]` `[MTGAssist: Fierce Empath sets, via WebSearch snippet]`
+- **Mechanical reputation** — EDHREC rank 2,063 makes this the standout card of this batch by a wide margin — one of the most-played uncommon tutors in Commander. As a 1/1 Elf for three mana, it tutors any creature with mana value 6 or greater from the library to hand on ETB. Its creature status is the key differentiator: unlike sorcery tutors, it can be recurred via Genesis, blinked for additional searches, or sacrificed to sacrifice outlets for value. Community sentiment on MTGSalvation Commander forums rates it above Green Sun's Zenith and Worldly Tutor in abuse-ceiling terms precisely because of creature-type recursion. `[Scryfall EDHREC rank]` `[MTGSalvation Commander EDH forum: Fierce Empath thread, via WebSearch snippet]`
+- **Set context** — In M21, Fierce Empath has no flavor text (Scryfall returns no flavor_text field). The card is legal in Pauper and PauperCommander per Scryfall legalities, extending its reach into budget formats beyond Commander. `[Scryfall legalities]` `[Scryfall flavor_text: absent]`
+- **Artist** — Art by Johann Bodin, a Swedish freelance illustrator and concept artist. M21 is confirmed in Bodin's MTG credits. `[Scryfall artist field]`
+
+### Related cards
+- Worldly Tutor (Mirage / various) — green instant tutor for any creature, Fierce Empath's most direct non-creature comparator
+- Green Sun's Zenith (Mirrodin Besieged) — green creature tutor that goes directly to battlefield, premium comparator
+- Genesis (Judgment) — classic recursion engine that loops Fierce Empath in creature-heavy Commander builds
+- Brutalizer Exarch (New Phyrexia) — comparable ETB tutor for creatures with power 5+ at higher mana

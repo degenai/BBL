@@ -1,0 +1,41 @@
+{
+  "card_name": "Canopy Stalker",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "175",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 (M21) released July 3, 2020, contains 274 cards, and features a deliberate Dogs vs. Cats subtheme: cats in green/white, dogs in white/red, anchored by Rin and Seri, Inseparable. The set also officially renamed the Hound creature type to Dog via errata.",
+      "sources": ["Scryfall: Core Set 2021", "mtg.wiki: Core Set 2021 (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "4/2 uncommon Cat with 'must be blocked if able' plus a death trigger granting 1 life per creature that died that turn — a limited combat trap with minimal Commander presence. EDHREC rank 23,064.",
+      "sources": ["Scryfall", "EDHREC (via Scryfall related_uris)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The forest's cover offers shade, shelter, and an increased risk of sudden death.\" — no speaker attributed. Mirrors the card's mechanical identity as a combat-forcing predator.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Ilse Gort, Dutch freelance illustrator with 63+ MTG cards. She sells prints of Canopy Stalker through her INPRNT gallery under handle 'caraid' — one of the artist's self-promoted pieces.",
+      "sources": ["Scryfall artist field", "INPRNT: Canopy Stalker by Ilse Gort (via WebSearch snippet)", "Gatherer: Artist Ilse Gort (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rin and Seri, Inseparable", "set": "Core Set 2021", "note": "Dogs vs. Cats legendary anchoring the M21 subtheme; Canopy Stalker's Cat type feeds Rin's Cat-count"},
+    {"name": "Garruk's Gorehorn", "set": "Core Set 2021", "note": "Same set, same green creature cycle"},
+    {"name": "Hunting Velociraptor", "set": "The Lost Caverns of Ixalan", "note": "Shares 'must be blocked' coercion mechanic design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

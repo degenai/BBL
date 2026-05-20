@@ -1,0 +1,46 @@
+{
+  "card_name": "Falconer Adept",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "18",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "White Human Soldier uncommon from Core Set 2021 (M21), July 3, 2020, in the set's flying-matters design space. M21 was an accessible thematic core set built around five planeswalker focal characters.",
+      "sources": ["Scryfall: Core Set 2021"]
+    },
+    {
+      "category": "mechanical",
+      "text": "2/3 for four mana that creates a 1/1 white Bird token with flying tapped and attacking on each attack. Token is always tapped and attacking — deals damage, can't block. EDHREC rank 19,858; fringe-Commander tier, playable in dedicated bird-token or flying builds.",
+      "sources": ["Scryfall", "EDHREC (via Scryfall related_uris)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"My falcons are family, as much as any other member of my clan.\" — no speaker named. Frames the falconer as communal, not aristocratic — treating birds as kin, not tools.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Billy Christian (67+ MTG cards). The original Falconer Adept painting is sold as a print through the Original Magic Art store, indicating collector-market traction on the artwork.",
+      "sources": ["Scryfall artist field", "originalmagicart.store: Falconer Adept Print (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Previewed by Limited Resources co-host Marshall Sutcliffe on June 12, 2020, via Twitter, per Scryfall preview metadata.",
+      "sources": ["Scryfall preview field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Aven Wind Guide", "set": "Amonkhet", "note": "White bird-token synergy in a similar flying-matters vein"},
+    {"name": "Squadron Hawk", "set": "Magic 2011", "note": "White flying-matters creature in 'birds as a unit' design space"},
+    {"name": "Emeria Angel", "set": "Zendikar", "note": "White flying-token-on-landfall occupying similar flying Commander niche"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

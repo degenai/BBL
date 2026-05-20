@@ -1,0 +1,41 @@
+{
+  "card_name": "Gnarled Sage",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "187",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 sole Treefolk printing; no prior version of Gnarled Sage exists (Scryfall reprint: false). Core sets have historically included Treefolk as recurring green common slot-fillers, but this card is an original.",
+      "sources": ["Scryfall reprint field", "Scryfall: Core Set 2021"]
+    },
+    {
+      "category": "mechanical",
+      "text": "4/4 for five mana with Reach and a draw-two condition: becomes 4/6 with vigilance as long as you've drawn two or more cards that turn. The draw-two motif appears across multiple M21 cards, clustering the set around a draw-rewards green subtheme. EDHREC rank 26,149 (375 decks tracked) — lowest of this batch. Pauper-legal.",
+      "sources": ["Scryfall", "EDHREC via Scryfall related_uris", "Scryfall legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Raoul Vitale, self-taught American oil-on-board illustrator. MTG credits since 2013 (Dragon's Maze). His Nyx Lotus original painting sold for $22,500 and sketch for $5,555 in January 2020 on the MTG Art Market. Hipsters of the Coast called him 'a master of his craft.'",
+      "sources": ["Scryfall artist field", "Hipsters of the Coast: Raoul Vitale's Nyx Lotus Sells for $22,500 (January 2020)", "Hipsters of the Coast: Izzet Cluestone by Raoul Vitale (2018)"]
+    },
+    {
+      "category": "design",
+      "text": "The Treefolk Druid type combination is rare in MTG. The Druid subtype adds synergy potential with Druid-count effects. Gnarled Sage's vigilance-on-draw-two reads mechanically as a forest elder growing alert as knowledge flows — mechanical condition and flavor identity aligned.",
+      "sources": ["Scryfall type_line"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Timber Protector", "set": "Lorwyn", "note": "Classic Treefolk lord giving other Treefolk indestructibility"},
+    {"name": "Dungrove Elder", "set": "Magic 2012", "note": "Green Treefolk Shaman whose power scales with forests; thematic companion to Gnarled Sage's size-scaling condition"},
+    {"name": "Argothian Elder", "set": "Urza's Saga", "note": "Elf Druid sharing the Druid subtype design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

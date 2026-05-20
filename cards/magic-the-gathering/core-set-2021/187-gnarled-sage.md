@@ -77,3 +77,14 @@ A treefolk druid stands tall in a forest glade. Its body is twisted weathered ba
 **Creatures:** treefolk
 **Genre cues:** fantasy, painterly
 
+## Trivia
+
+- **Set context** — Gnarled Sage is a Treefolk Druid common from Core Set 2021 (M21), released July 3, 2020. It is the set's sole Treefolk printing. Core sets historically included Treefolk as recurring green common slot-fillers, but M21's version is a first printing — no prior version of Gnarled Sage exists. `[Scryfall: reprint field = false]` `[Scryfall set: Core Set 2021]`
+- **Mechanical design** — A 4/4 for five mana with Reach plus a conditional bonus: as long as you've drawn two or more cards this turn, Gnarled Sage becomes a 4/6 with vigilance. The draw-two condition appears as a design motif across several M21 cards, clustering the set around a "draw rewards" green subtheme. EDHREC rank is 26,149 — the lowest of this batch, reflecting limited Commander traction (375 decks tracked). Pauper-legal per Scryfall legalities. `[Scryfall]` `[EDHREC via Scryfall related_uris]`
+- **Artist** — Art by Raoul Vitale, a self-taught American illustrator who works exclusively in oils on board. He has illustrated MTG cards since 2013 (starting with Dragon's Maze) and is known within the MTG art-collector community for high auction prices — his Nyx Lotus original painting sold for $22,500 and a sketch for $5,555 in January 2020. Hipsters of the Coast described him as "a master of his craft." `[Scryfall artist field]` `[Hipsters of the Coast: Raoul Vitale's Nyx Lotus Sells for $22,500, January 2020]` `[Hipsters of the Coast: Izzet Cluestone by Raoul Vitale, 2018]`
+- **Treefolk design space** — The Treefolk Druid type combination is rare in MTG — most Treefolk are Treefolk Warriors or simply Treefolk. The Druid subtype adds rules-text synergy potential with Druid-count effects. Gnarled Sage's vigilance-when-drawing-two reads like a forest elder who grows alert as knowledge flows through them, connecting its mechanical condition directly to its flavorful identity. `[Scryfall type_line]`
+
+### Related cards
+- Timber Protector (Lorwyn) — classic Treefolk lord giving other Treefolk indestructibility
+- Dungrove Elder (Magic 2012) — green Treefolk Shaman whose power scales with forests, a thematic companion to Gnarled Sage's size-scaling condition
+- Argothian Elder (Urza's Saga) — Elf Druid with synergy for Druid-type strategies; shares Gnarled Sage's Druid subtype design space

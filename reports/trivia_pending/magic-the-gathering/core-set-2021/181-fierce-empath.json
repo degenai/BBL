@@ -1,0 +1,42 @@
+{
+  "card_name": "Fierce Empath",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "181",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Originated in Scourge (2003); this M21 printing is one of at least 8 over its lifetime — Scourge, Commander 2011, Duel Decks: Elves vs. Inventors, Archenemy, Masters 25, Double Masters, Commander Masters, Foundations. Reprint depth signals sustained format relevance across two decades.",
+      "sources": ["Gatherer: Fierce Empath printings (via WebSearch snippet)", "MTGAssist: Fierce Empath sets (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 2,063 — standout of this batch. One of the most-played uncommon tutors in Commander. ETB tutors any creature mana value 6+ to hand. Creature status enables abuse via blink, recur (Genesis), and sacrifice outlets. Community sentiment on MTGSalvation Commander forums rates its recursion-ceiling above non-creature tutors like Green Sun's Zenith.",
+      "sources": ["Scryfall EDHREC rank", "MTGSalvation Commander EDH forum: Fierce Empath thread (via WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "No flavor text on the M21 printing (Scryfall flavor_text absent). Legal in Pauper and PauperCommander per Scryfall legalities — extends reach beyond Commander into budget formats.",
+      "sources": ["Scryfall flavor_text (absent)", "Scryfall legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Johann Bodin, Swedish freelance illustrator and concept artist.",
+      "sources": ["Scryfall artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Worldly Tutor", "set": "Mirage / various", "note": "Most direct non-creature comparator — green instant tutor for any creature"},
+    {"name": "Green Sun's Zenith", "set": "Mirrodin Besieged", "note": "Premium creature tutor that puts directly to battlefield"},
+    {"name": "Genesis", "set": "Judgment", "note": "Recursion engine that loops Fierce Empath in creature-heavy Commander"},
+    {"name": "Brutalizer Exarch", "set": "New Phyrexia", "note": "Comparable ETB tutor for creatures power 5+ at higher mana cost"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -76,3 +76,14 @@ A black big cat — panther-like, sinewy, with a long heavy tail trailing behind
 **Creatures:** panther, big-cat, black-cat
 **Genre cues:** fantasy, naturalism
 
+## Trivia
+
+- **Set context** — Canopy Stalker is a Cat creature from Core Set 2021 (M21), released July 3, 2020. M21 contained 274 cards and featured a deliberate "Dogs vs. Cats" subtheme — cats skewed green and white, dogs skewed white and red — anchored by the Selesnya legendary Rin and Seri, Inseparable. The set also officially renamed every "Hound" creature type to "Dog" in an errata sweep. `[Scryfall: Core Set 2021]` `[mtg.wiki: Core Set 2021, via WebSearch snippet]`
+- **Mechanical design** — Canopy Stalker is a 4/2 uncommon with two interlocking abilities: "must be blocked if able" (forcing combat engagement) and a death trigger that grants 1 life per creature that died that turn. The combination is a limited-format combat trap: block with your largest creature, eat it, gain a pile of life. EDHREC rank is 23,064, reflecting minimal Commander presence — the card is a limited staple only. `[Scryfall]` `[EDHREC via Scryfall related_uris]`
+- **Flavor text** — "The forest's cover offers shade, shelter, and an increased risk of sudden death." No speaker is attributed. The line doubles as a description of the card's mechanical identity: the forest's apex predator that forces engagement. `[Scryfall flavor_text]`
+- **Artist** — Art by Ilse Gort, a Dutch freelance illustrator and game artist. Gort actively sells prints of this specific card through her INPRNT gallery (under her handle "caraid"), making Canopy Stalker one of the artist's self-promoted pieces. She has illustrated 63+ MTG cards as of 2020. `[Scryfall artist field]` `[INPRNT: Canopy Stalker by Ilse Gort, via WebSearch snippet]` `[Gatherer: Artist Ilse Gort, via WebSearch snippet]`
+
+### Related cards
+- Rin and Seri, Inseparable (M21, no. 278) — the Dogs vs. Cats legendary that anchors M21's creature-type subtheme; Canopy Stalker's Cat type feeds Rin's Cat-count
+- Garruk's Gorehorn (M21, no. 184) — same set, same green creature cycle, companion-beast framing
+- Hunting Velociraptor (various) — shares the "must be blocked" coercion mechanic design space

@@ -75,3 +75,16 @@ A hulking quadrupedal beast dominates the frame in a dense, sun-dappled forest. 
 **Iconography:** horns
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Garruk lore context** — Garruk Wildspeaker is a major green planeswalker who was cursed by Liliana Vess via the Chain Veil artifact — she used it to overwhelm him with black magic that corrupted his summoning powers, turning his predator companions into sickly fiends. He was cured during the Throne of Eldraine storyline (2019), before M21 shipped. Core Set 2021's Garruk, Unleashed represents him post-cure, which is why his companion-beast cycle in M21 carries his name without the "Cursed Huntsman" framing. `[CommandersHerald: Retrospective Reviews — Garruk Wildspeaker, via WebSearch snippet]` `[Draftsim: Garruk M21 return, via WebSearch snippet]`
+- **Companion-beast design** — Garruk's Gorehorn is the common-rarity "signature beast" in the M21 Garruk planeswalker cycle, paired with Garruk's Harbinger (the rare) and anchored by Garruk, Unleashed (the planeswalker). In M21, each focal planeswalker received a named creature cycle at their color and power level. The Gorehorn is a textbook vanilla common: 7/3 for five mana, no abilities, existing purely to represent Garruk's bludgeoning force philosophy. `[Scryfall oracle_text: empty]` `[Dotesports: M21 planeswalker signature spells, via WebSearch snippet]`
+- **Flavor text** — "It certainly takes after its master: big and brutish, and you can smell it from a mile away." — Liliana Vess. `[Scryfall flavor_text]`. The quote is Liliana's signature condescension toward Garruk — the Duel Decks: Garruk vs. Liliana (2009) established the antagonism between the two planeswalkers as a recurring design touchstone.
+- **Showcase variant curiosity** — M21 includes a showcase version of Garruk's Gorehorn (no. 306/274) with an entirely empty text box — no rules text AND no flavor text. Commander's Herald documented this as, to their knowledge, the first MTG card with nothing whatsoever in the text box, an accidental consequence of putting a vanilla common into the showcase treatment designed for cards with clean, minimal text. `[Commander's Herald: Project Gorehorn, via WebSearch snippet]` `[Scryfall: M21 no. 306]`
+- **Artist** — Art by Svetlin Velinov, a Bulgarian freelance concept artist with a long MTG career spanning Wizards of the Coast, Blizzard Entertainment, Hasbro, and Games Workshop. Velinov has an active social media presence under @velinovart and attends MTG conventions. EDHREC rank for Gorehorn is 11,705 — Commander play exists in Garruk-themed and Beast-tribal builds. `[Scryfall artist field]` `[Concept Art World: Svetlin Velinov, via WebSearch snippet]` `[EDHREC via Scryfall related_uris]`
+
+### Related cards
+- Garruk, Unleashed (M21, no. 183) — the planeswalker this beast is named for; post-cure Garruk representation in M21
+- Garruk's Harbinger (M21, no. 185) — the rare companion-beast in the same M21 Garruk cycle
+- Garruk, Cursed Huntsman (Throne of Eldraine) — the veil-cursed version that preceded the M21 return
+- Liliana Vess (various) — the planeswalker who cursed Garruk; quotes his creature's flavor text here

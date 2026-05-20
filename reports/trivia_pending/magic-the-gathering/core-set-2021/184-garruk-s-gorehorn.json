@@ -1,0 +1,47 @@
+{
+  "card_name": "Garruk's Gorehorn",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "184",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "Garruk Wildspeaker is a Wizards-internal planeswalker character. Card name explicitly invokes him. No external IP risk. ip_verified not applicable (no suspected_ip flag in frontmatter).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Garruk Wildspeaker was cursed by Liliana Vess via the Chain Veil in prior storyline, turning his predator companions into fiends. He was cured in Throne of Eldraine (2019). M21's Garruk, Unleashed represents the post-cure state — which is why the M21 companion-beast cycle carries his name without the 'Cursed Huntsman' framing.",
+      "sources": ["CommandersHerald: Retrospective Reviews — Garruk Wildspeaker (via WebSearch snippet)", "Draftsim: Garruk M21 return (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "The common-rarity signature beast in the M21 Garruk planeswalker cycle (with Garruk's Harbinger at rare and Garruk, Unleashed as the planeswalker). A textbook vanilla common — 7/3 for five mana, no abilities — embodying Garruk's bludgeoning-force philosophy.",
+      "sources": ["Scryfall oracle_text (empty)", "Dotesports: M21 planeswalker and signature spells (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It certainly takes after its master: big and brutish, and you can smell it from a mile away.\" — Liliana Vess. [Scryfall flavor_text]. Liliana's signature condescension toward Garruk; the pair's antagonism was established in Duel Decks: Garruk vs. Liliana (2009).",
+      "sources": ["Scryfall flavor_text", "MTG Wiki: Duel Decks Garruk vs. Liliana (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "The M21 showcase variant (no. 306/274) has a completely empty text box — no rules text AND no flavor text. Commander's Herald documented it as likely the first MTG card with nothing in the text box whatsoever, an accidental result of applying the showcase treatment to a vanilla common.",
+      "sources": ["Commander's Herald: Project Gorehorn (via WebSearch snippet)", "Scryfall: M21 no. 306"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Svetlin Velinov, Bulgarian freelance concept artist (Wizards of the Coast, Blizzard, Hasbro, Games Workshop). EDHREC rank 11,705 — sees Commander play in Garruk-themed and Beast-tribal builds.",
+      "sources": ["Scryfall artist field", "Concept Art World: Svetlin Velinov (via WebSearch snippet)", "EDHREC via Scryfall related_uris"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Garruk, Unleashed", "set": "Core Set 2021", "note": "The planeswalker this beast is named for; post-cure Garruk in M21"},
+    {"name": "Garruk's Harbinger", "set": "Core Set 2021", "note": "Rare companion-beast in the same M21 Garruk cycle"},
+    {"name": "Garruk, Cursed Huntsman", "set": "Throne of Eldraine", "note": "The veil-cursed Garruk version preceding the M21 return"},
+    {"name": "Liliana Vess", "set": "various", "note": "Planeswalker who cursed Garruk; delivers flavor-text insult on this card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
