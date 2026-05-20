@@ -1,0 +1,47 @@
+{
+  "card_name": "Duress",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "96",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "First printed in Urza's Saga (October 1998, artist Lawrence Snelly). At least 39 distinct printings as of 2025, spanning core sets, duel decks, promos, Masters sets, Arena promos, Secret Lair, Strixhaven Mystical Archive, and Foundations. One of the most reprinted cards in MTG history. M21 copy is marked reprint: true.",
+      "sources": ["Scryfall prints search", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Steven Belledin illustrated Duress across at least 17 distinct printings from 2009 (Duel Decks: Divine vs. Demonic) through 2023 (Dominaria Remastered), making his version the single most-reprinted artwork on the card. Belledin offers signed artist proofs via stevenbelledin.com.",
+      "sources": ["Scryfall prints search", "stevenbelledin.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Staple discard spell across Legacy, Vintage, Pauper, Modern, Pioneer, and Standard. EDHREC rank 3,236 — among the highest-included black one-drops in Commander. Core Legacy sideboard staple particularly effective against combo and control; main limitation is miss rate against creature-heavy opponents (noncreature, nonland only).",
+      "sources": ["Scryfall: edhrec_rank field", "Scryfall: legalities", "mtgsalvation.com: A List of Legacy Staples, Legacy Archives", "tappedout.net: Inquisition or Duress, Modern forum"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Resistance is unthinkable.\" — no speaker attributed. Three-word flavor line; lack of attribution heightens the sense of omniscient coercive force rather than an individual speaker.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Other Duress artists include Pete Venters (Seventh Edition, 2001), Jason Rainville (Dragons of Tarkir, 2015), Lucas Graciano (Ixalan, 2017), Kristina Collantes and Romiy (Strixhaven Mystical Archive, 2021), Paul Scott Canavan (Innistrad: Midnight Hunt, 2021), and PINDURSKI (Phyrexia: All Will Be One, 2023).",
+      "sources": ["Scryfall prints search"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Thoughtseize", "set": "Lorwyn", "note": "pushed variant: hits creatures too at cost of 2 life; direct power-level comparison"},
+    {"name": "Inquisition of Kozilek", "set": "Rise of the Eldrazi", "note": "middle ground: hits cards CMC 3 or less including creatures; often preferred in Modern"},
+    {"name": "Hymn to Tourach", "set": "Fallen Empires", "note": "two-mana two-card random discard; older predecessor in black disruption suite"},
+    {"name": "Cabal Therapy", "set": "Judgment", "note": "naming-based discard scaling in combo; frequently discussed alongside Duress in Legacy context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

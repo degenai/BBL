@@ -1,0 +1,44 @@
+{
+  "card_name": "Memorial to War",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "246",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Memorial to War is the red member of the five-card Memorial cycle from Dominaria (April 27, 2018). Dominaria is defined by millennia of catastrophic war — the Brothers' War, the Ice Age, the Phyrexian Invasion — and the art's volcanic, ash-choked setting evokes regions like Shiv and Urborg, both historically devastated planes of Dominaria's surface.",
+      "sources": ["Scryfall", "WebSearch: Dominaria lore, Shiv / Urborg context"]
+    },
+    {
+      "category": "design",
+      "text": "Sacrificing for {4}{R} to destroy target land makes Memorial to War the only land-destruction land in the Memorial cycle and one of the few utility lands capable of permanently removing an opponent's land. EDHREC rank 13432 — the lowest of the five Memorials — reflecting both the high activation cost and the format-level stigma against land destruction in casual Commander.",
+      "sources": ["Scryfall", "EDHREC: edhrec.com/cards/memorial-to-war"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on MTGSalvation: 'still a little underwhelming, but if Encroaching Wastes saw play, this will too' — identifying a niche for the card while acknowledging its inefficiency relative to Field of Ruin and similar effects.",
+      "sources": ["Community sentiment — MTGSalvation: mtgsalvation.com/cards/dominaria/34353-memorial-to-war"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Richard Wright — the only artist among the BBL-held Memorials to paint just one card in the cycle. All other Memorials are by either James Paick (Genius and Glory) or Sung Choi (Folly).",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Memorial to Folly", "set": "Dominaria", "note": "black cycle member; BBL holds"},
+    {"name": "Memorial to Genius", "set": "Dominaria", "note": "blue cycle member; BBL holds"},
+    {"name": "Memorial to Glory", "set": "Dominaria", "note": "white cycle member; BBL holds"},
+    {"name": "Memorial to Unity", "set": "Dominaria", "note": "green cycle member; not in BBL corpus"},
+    {"name": "Encroaching Wastes", "set": "Magic 2014", "note": "functional comparison cited in community discourse"},
+    {"name": "Field of Ruin", "set": "Ixalan", "note": "most-played contemporary land-destruction land; direct competitive context for Memorial to War's poor reception"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

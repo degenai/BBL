@@ -76,3 +76,16 @@ A vast classical-fantasy memorial hall rendered in cream and pale gold stone. Tw
 **Iconography:** memorial, colonnade, classical-architecture
 **Genre cues:** fantasy, classical, high-fantasy
 
+## Trivia
+
+- **Set context** — Memorial to Glory is the white member of the five-card Memorial cycle from Dominaria (April 27, 2018). White's Memorial reads thematically as an homage to Benalia — the great human nation of Dominaria, long a center of military honor and knightly tradition, destroyed during the Phyrexian Invasion and rebuilt as New Benalia by the 2018 era. The ability (create two 1/1 white Soldier tokens) reflects white's martial identity and ties the monument to the soldier-as-institution that Benalia embodies. `[Scryfall]` `[WebSearch: Dominaria lore, New Benalia / Phyrexian Invasion context]`
+- **Design** — Activating for {3}{W} to produce two 1/1 Soldier tokens is the cheapest non-Folly activation in the cycle by mana value. EDHREC ranks it 6583 overall, placing it between Memorial to Folly (rank 2891) and Memorial to Genius (rank 9095) among the BBL-held Memorials. Soldier-tribal and token-generation Commander shells are the primary inclusion context. `[Scryfall]` `[EDHREC: edhrec.com/cards/memorial-to-glory]`
+- **Artist** — Illustrated by James Paick, who also painted Memorial to Genius (no. 243) in this same cycle — the only artist to illustrate two Memorials. `[Scryfall]`
+- **Reprint history** — Like the other Memorials, Memorial to Glory was reprinted in Commander 2019 and has not appeared in further sets per the Scryfall print record. No special treatments or promos exist. `[Scryfall prints search]`
+
+### Related cards
+- Memorial to Folly (Dominaria, no. 242) — black cycle member; BBL holds
+- Memorial to Genius (Dominaria, no. 243) — blue cycle member; same artist (James Paick); BBL holds
+- Memorial to War (Dominaria, no. 246) — red cycle member; BBL holds
+- Memorial to Unity (Dominaria, no. 245) — green cycle member; not in BBL corpus
+- History of Benalia (Dominaria, no. 21) — saga card; New Benalia lore directly tied to white-soldier identity on the same plane

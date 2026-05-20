@@ -1,0 +1,43 @@
+{
+  "card_name": "Memorial to Genius",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "243",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Memorial to Genius is the blue member of the five-card Memorial cycle from Dominaria (April 27, 2018). Thematically, a 'Memorial to Genius' on Dominaria reads as an elegy for Urza-era intellectual ambition and its catastrophic costs — the Tolarian Academy was destroyed by Urza's time-travel experiments and rebuilt as Tolaria West in the post-Mending era.",
+      "sources": ["Scryfall", "WebSearch: Dominaria lore article via coolstuffinc.com"]
+    },
+    {
+      "category": "design",
+      "text": "The {4}{U} sacrifice cost to draw two cards is the most mana-intensive activation in the Memorial cycle, limiting play. EDHREC rank 9095, appearing in approximately 20,052 Commander decks — second-lowest rank among the BBL-held Memorials.",
+      "sources": ["Scryfall", "EDHREC: edhrec.com/cards/memorial-to-genius"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by James Paick, who also painted Memorial to Glory (no. 244) — the only artist to illustrate two Memorials in the cycle.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on MTGSalvation described Memorial to Genius as excellent for control decks 'trying to edge out close late games' as a colored-mana-producing draw sink, but the EDHREC Dominaria set review cautioned players are 'probably better off with a similar land that taps for colorless but doesn't enter the battlefield tapped.'",
+      "sources": ["Community sentiment — MTGSalvation: mtgsalvation.com/cards/dominaria/34351-memorial-to-genius", "Community sentiment — EDHREC Dominaria set review article"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Memorial to Folly", "set": "Dominaria", "note": "black cycle member; BBL holds"},
+    {"name": "Memorial to Glory", "set": "Dominaria", "note": "white cycle member; same artist (James Paick); BBL holds"},
+    {"name": "Memorial to War", "set": "Dominaria", "note": "red cycle member; BBL holds"},
+    {"name": "Memorial to Unity", "set": "Dominaria", "note": "green cycle member; not in BBL corpus"},
+    {"name": "Tolaria West", "set": "Future Sight", "note": "named for the rebuilt Tolarian Academy; thematic anchor for Dominaria genius-memorial lore"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

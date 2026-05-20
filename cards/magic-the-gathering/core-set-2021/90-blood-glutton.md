@@ -76,3 +76,14 @@ A pale, gaunt vampire is hunched in a low predator's crouch in a moonless wood, 
 **Iconography:** fangs, claws, blood
 **Genre cues:** fantasy, gothic-horror, dark-fantasy
 
+## Trivia
+
+- **Set context** — Blood Glutton is a common Vampire creature in Core Set 2021, released July 3, 2020. M21's black suite featured a deliberate vampire sub-theme anchored by Sorin, Imperious Bloodlord and Vito, Thorn of the Dusk Rose at higher rarities; Blood Glutton and other common vampires provide the tribal base in Limited. The set released during a period when Vampires were a competitive Standard archetype `[Scryfall]` `[coolstuffinc.com: Core Set 2021 Standard Set Review: Black and Multicolor, 2020-07-01]`.
+- **Flavor text** — "Some savor the hunt. I savor the kill." — no speaker attributed `[Scryfall]`. The line frames the unnamed depicted vampire as a post-hunt predator rather than a pursuit-minded one — distinguishing appetite from sport, and sitting squarely in the glutton-not-hunter archetype named by the card.
+- **Mechanical note** — A 4/3 lifelink for five mana (four generic, one black) is below the typical curve for competitive constructed play. EDHREC rank 22,871 — very low inclusion, largely outclassed by more efficient lifelink vampires in Commander `[Scryfall: edhrec_rank field]`. In M21 Limited the card was rated as a serviceable but unexciting common — the body and lifelink stabilize boards but cost is steep `[coolstuffinc.com: Core Set 2021 Limited Set Review: Black and Multicolor, 2020-06-24]`.
+- **Artist** — Anna Podedworna (ArtStation: akreon) is a Polish freelance illustrator. Her MTG credits include over 20 confirmed cards `[Gatherer: artist search]`, with notable works including Gix, Yawgmoth Praetor, Beseech the Queen, and Shigeki, Jukai Visionary `[artofmtg.com: Anna Podedworna artist page]`. Blood Glutton is one of her earlier MTG commissions.
+
+### Related cards
+- Vito, Thorn of the Dusk Rose (M21, 127) — M21 vampire uncommon/rare anchor; Blood Glutton's lifelink triggers Vito's drain
+- Sorin, Imperious Bloodlord (M20, 115) — Sorin is the archetypal vampire planeswalker whose presence shaped M20/M21 tribal structures
+- Vampire of the Dire Moon (M20, 115) — efficient one-drop vampire for comparison; shows the cost-efficiency gap at common

@@ -1,0 +1,41 @@
+{
+  "card_name": "Alchemist's Gift",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "87",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 (set code M21) released July 3, 2020, structured around five monocolor planeswalker spotlights with Teferi as the featured face. Black commons lean into vampire, horror, and sacrifice-adjacent flavor consistent with the set's gothic underpinning.",
+      "sources": ["Scryfall", "magic.wizards.com: Collecting Core Set 2021, 2020-06-05"]
+    },
+    {
+      "category": "design",
+      "text": "First printing in M21 with no reprint until Foundations Jumpstart (November 2024), same artist Cristi Balanescu. No flavor text in any printing. Modal keyword pairing of deathtouch or lifelink on a one-mana black instant is an unusual design choice for a common. EDHREC rank 13,385.",
+      "sources": ["Scryfall prints search", "Scryfall: edhrec_rank field"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Cristi Balanescu is a Romanian illustrator with 147+ MTG card credits, also working for Star Wars and Game of Thrones properties.",
+      "sources": ["Gatherer: artist search", "artofmtg.com: Cristi Balanescu artist page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Pauper, Commander, Pioneer, Modern, Legacy, and Vintage. One-mana pump with modal keyword choice makes it a flexible sideboard option in Pauper black creature lists.",
+      "sources": ["Scryfall: legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vito, Thorn of the Dusk Rose", "set": "Core Set 2021", "note": "M21 black rare rewarding lifelink triggers; shares set and color synergy with lifelink mode"},
+    {"name": "Vampire of the Dire Moon", "set": "Core Set 2020", "note": "monocolor black 1/1 with both deathtouch and lifelink — mirrors the keyword pairing this card grants"},
+    {"name": "Duress", "set": "Core Set 2021", "note": "shares set, color, and one-mana slot in M21 black commons"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

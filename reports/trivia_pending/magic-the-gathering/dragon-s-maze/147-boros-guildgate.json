@@ -1,0 +1,43 @@
+{
+  "card_name": "Boros Guildgate",
+  "game": "Magic: The Gathering",
+  "set": "Dragon's Maze",
+  "collector_number": "147",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Boros Guildgate is part of the ten-card Guildgate cycle representing all of Ravnica's guilds. Guildgates were introduced across the Return to Ravnica block: five in Return to Ravnica (2012), five in Gatecrash (2013), and all ten reprinted in Dragon's Maze (2013). Boros Guildgate first appeared in Gatecrash (GTC no. 239), representing the Boros Legion — Ravnica's military and law-enforcement guild of white-aligned soldiers and red-aligned angels. The Dragon's Maze printing (DGM no. 147) is the second appearance of this card.",
+      "sources": ["Scryfall", "WebSearch: Gatecrash set, guildgate cycle history"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It promises protection to those in need and proclaims a warning to any who would threaten Ravnican law.\" — No speaker attributed. The text frames the Boros gate as simultaneously shelter for citizens and declaration of martial authority, condensing the guild's dual role as protector and enforcer.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Reprint history is extensive: Gatecrash (GTC, 2013), Dragon's Maze (DGM, 2013), Commander 2015 (C15), Commander Anthology Volume II (CM2), Guilds of Ravnica (GRN, 2018 — two variants with art by Titus Lunter), Zendikar Rising Commander (ZNC, 2020), Ravnica Remastered (RVR, 2024 — including retro-frame variant), and Foundations (FDN, 2024). EDHREC rank 1735 — highest rank (most Commander-played) among all five cards in this batch, reflecting its pauper-legal dual-land status and Gate subtype enabling payoffs like Gates Ablaze and Guild Summit.",
+      "sources": ["Scryfall", "WebSearch: mtgassist.com Boros Guildgate printings", "EDHREC: edhrec.com/cards/boros-guildgate"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Noah Bradley for the Gatecrash and Dragon's Maze printings (and Zendikar Rising Commander). In June 2020, Wizards of the Coast severed their relationship with Bradley after he publicly confirmed sexual misconduct allegations involving members of the Magic and artist community. Existing printed cards including this copy were not recalled or altered. The Guilds of Ravnica 2018 reprint had already introduced new art by Titus Lunter for the card.",
+      "sources": ["Scryfall artist field", "WebSearch: MTG Wiki Noah Bradley — Wizards 2020 statement"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Boros Guildgate", "set": "Gatecrash", "note": "original printing, no. 239; same oracle text, different art angle"},
+    {"name": "Boros Guildgate", "set": "Guilds of Ravnica", "note": "2018 reprint with new art by Titus Lunter"},
+    {"name": "Sacred Foundry", "set": "Ravnica: City of Guilds", "note": "the Boros shock land; functional upgrade in the same color identity"},
+    {"name": "Sunhome, Fortress of the Legion", "set": "Ravnica: City of Guilds", "note": "Boros headquarters; thematic anchor for the guild"},
+    {"name": "Clifftop Retreat", "set": "Innistrad", "note": "check land for R/W; frequent co-inclusion in budget Boros Commander builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

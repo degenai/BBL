@@ -75,3 +75,17 @@ A wide, desolate panorama dominated by an erupting volcano on the horizon, its c
 **Iconography:** monument, memorial-stone
 **Genre cues:** fantasy, post-apocalyptic
 
+## Trivia
+
+- **Set context** — Memorial to War is the red member of the five-card Memorial cycle from Dominaria (April 27, 2018). Dominaria is a plane defined by millennia of catastrophic war — the Brothers' War, the Ice Age, the Phyrexian Invasion — and its landscape is literally scarred with the wreckage of those conflicts. The volcanic, ash-choked setting of this card's art evokes regions like Shiv and Urborg, both sites of Dominaria's worst devastation. `[Scryfall]` `[WebSearch: Dominaria lore, Shiv / Urborg context]`
+- **Design** — Sacrificing for {4}{R} to destroy target land makes Memorial to War the only land-destruction land in the cycle — and one of the few utility lands that can permanently remove an opponent's land. The ability mirrors effects like Encroaching Wastes and Field of Ruin but costs significantly more mana. EDHREC ranks it 13432 overall, the lowest rank among the five Memorials, reflecting the combination of high activation cost and the format-level stigma around land destruction in casual Commander play. `[Scryfall]` `[EDHREC: edhrec.com/cards/memorial-to-war]`
+- **Community resonance** — Community sentiment on MTGSalvation noted Memorial to War as "still a little underwhelming, but if Encroaching Wastes saw play, this will too" — a backhanded endorsement that identifies the card's niche while acknowledging its inefficiency. The high activation cost relative to comparable land destruction makes it primarily a casual-singleton tool for land-light opponents rather than a format staple. `[Community sentiment — MTGSalvation: mtgsalvation.com/cards/dominaria/34353-memorial-to-war]`
+- **Artist** — Illustrated by Richard Wright, the only artist in the BBL-held Memorial cycle to illustrate only one card. Wright is a Wizards contributor whose credits include various lands and environment pieces across multiple sets. `[Scryfall]`
+
+### Related cards
+- Memorial to Folly (Dominaria, no. 242) — black cycle member; BBL holds
+- Memorial to Genius (Dominaria, no. 243) — blue cycle member; BBL holds
+- Memorial to Glory (Dominaria, no. 244) — white cycle member; BBL holds
+- Memorial to Unity (Dominaria, no. 245) — green cycle member; not in BBL corpus
+- Encroaching Wastes (Magic 2014, no. 235) — functional predecessor comparison cited in community discussion
+- Field of Ruin (Ixalan, no. 254) — most-played contemporary land-destruction land; direct competitive context for Memorial to War's reception

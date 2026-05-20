@@ -1,0 +1,41 @@
+{
+  "card_name": "Blood Glutton",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "90",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "M21's black suite featured a deliberate vampire sub-theme anchored by Sorin, Imperious Bloodlord and Vito, Thorn of the Dusk Rose at higher rarities; Blood Glutton provides tribal base in Limited. Released during a period when Vampires were a competitive Standard archetype.",
+      "sources": ["Scryfall", "coolstuffinc.com: Core Set 2021 Standard Set Review: Black and Multicolor, 2020-07-01"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Some savor the hunt. I savor the kill.\" — no speaker attributed. Frames the unnamed depicted vampire as a post-hunt predator rather than a pursuit-minded one, distinguishing appetite from sport.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "4/3 lifelink for five mana (4B) is below competitive constructed curve. EDHREC rank 22,871 — very low inclusion, outclassed by more efficient lifelink vampires in Commander. Rated as serviceable but unexciting common in M21 Limited.",
+      "sources": ["Scryfall: edhrec_rank field", "coolstuffinc.com: Core Set 2021 Limited Set Review: Black and Multicolor, 2020-06-24"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Anna Podedworna (ArtStation: akreon) is a Polish freelance illustrator with 20+ MTG card credits including Gix, Yawgmoth Praetor and Beseech the Queen. Blood Glutton is among her earlier MTG commissions.",
+      "sources": ["Gatherer: artist search", "artofmtg.com: Anna Podedworna artist page"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vito, Thorn of the Dusk Rose", "set": "Core Set 2021", "note": "M21 vampire anchor; Blood Glutton's lifelink triggers Vito's drain ability"},
+    {"name": "Sorin, Imperious Bloodlord", "set": "Core Set 2020", "note": "vampire planeswalker whose tribal presence shaped M20/M21 black structure"},
+    {"name": "Vampire of the Dire Moon", "set": "Core Set 2020", "note": "efficient one-drop vampire for cost-efficiency comparison at common"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

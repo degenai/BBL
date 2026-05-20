@@ -1,0 +1,26 @@
+{
+  "triage_item_slug": "suspected-ip-hash-suffix-cleanup",
+  "diagnosed_by": "bbl-nurse-joy-md",
+  "diagnosed_wave": 157,
+  "diagnosed_date": "2026-05-20",
+  "scope": "38 card MDs + 38 matching reports/vision_pending JSON sidecars + 2 source files",
+  "diagnosis": {
+    "whats_wrong": "38 card MDs and 38 matching vision-pending JSON sidecars carry suspected_ip values in the form 'Amoonguss (#591)' -- species name plus National Pokedex number as a parenthetical hash-suffix. Correct schema form is the bare species name only ('Amoonguss'). Obsidian reads '#591' inside a YAML text scalar as a tag fragment, spawning phantom numeric tag-nodes (#591, #050, #701 ...) in the graph, one per affected card.",
+    "why_it_happened": "The bbl-researcher agent spec IP-guardrails block instructs the vision model to populate suspected_ip with the character name but does not prohibit parenthetical qualifiers. For Pokemon cards the model appended the Pokedex number as a disambiguating suffix. apply_vision.py and bbl_schema.normalize_file() have no sanitization for suspected_ip; the value is written verbatim.",
+    "whats_at_risk": "(1) Obsidian graph view gets 38 phantom numeric tag-node edges. (2) The 38 vision_pending JSONs are the active transmission vector -- apply_vision.py run on any of them before patching re-infects the card MD. (3) Buyer-facing body prose renders ugly: '**Suspected IP:** Amoonguss (#591) (confidence: high, verified: False)'."
+  },
+  "prescription": {
+    "step_1": "Patch 38 card MDs: strip ' (#NNN)' hash-parenthetical from suspected_ip via re.sub(r'\\s*\\(#\\d+\\)\\s*$', '', val). suspected_ip: \"Amoonguss (#591)\" -> suspected_ip: Amoonguss",
+    "step_2": "Patch 38 vision-pending JSONs: same strip on the suspected_ip key. Prevents re-infection on next apply_vision.py run.",
+    "step_3": "Edit .claude/agents/bbl-researcher.md IP-guardrails block: add constraint forbidding Pokedex numbers / set codes / parenthetical qualifiers in suspected_ip -- bare character/species name only.",
+    "step_4": "Edit apply_vision.py: add defensive sanitizer re.sub(r'\\s*\\(#\\d+\\)\\s*$', '', vision['suspected_ip']).strip() before update_card(), so future agent drift cannot re-introduce the issue."
+  },
+  "verification": [
+    "grep -rn 'suspected_ip.*#' cards/  -- expect zero matches",
+    "grep -rn '\"suspected_ip\".*#' reports/vision_pending/  -- expect zero matches",
+    "grep suspected_ip cards/pokemon/black-bolt/011-086-amoonguss.md  -- expect: suspected_ip: Amoonguss"
+  ],
+  "estimates": {"effort": "5-minute script run", "risk": "low", "blockers": []},
+  "bonus_findings": "Two other triage entries are already self-healed and warrant bookkeeping-close, no treatment: (a) bbl_node_audit.py wikilink-differentiation warn item -- check_wikilinks() already emits card_cross_reference / cross_wiki_reference and never emits dangling_wikilink; (b) [[Labor]]/[[Rebellion]] casing item -- chinese-zodiac.md already uses lowercase.",
+  "sidecar_written_by": "parent (Janny has no Write tool; prescription delivered inline, parent transcribed)"
+}

@@ -75,3 +75,14 @@ A figure in a dark hood leans forward, peering at a small glass vial pinched bet
 **Iconography:** glowing-vial, hood
 **Genre cues:** fantasy, gothic, occult
 
+## Trivia
+
+- **Set context** — Core Set 2021 (set code M21) released July 3, 2020. The set is structured around five monocolor planeswalker spotlights, with Teferi as the featured face of the set; each color's card suite was designed to support its planeswalker's mechanical identity. Black's commons, including this card, lean into vampire, horror, and sacrifice-adjacent flavor consistent with the set's gothic underpinning `[Scryfall]` `[magic.wizards.com: "Collecting Core Set 2021", 2020-06-05]`.
+- **Design** — Alchemist's Gift is a first printing with no prior reprint history until Foundations Jumpstart (released November 2024), also illustrated by Cristi Balanescu `[Scryfall prints search]`. The card has no flavor text in any printing `[Scryfall]`. The oracle text offers a choice of deathtouch or lifelink — an unusual modal keyword pairing on a one-mana black instant, making it a flexible combat trick or finisher enabler. EDHREC rank 13,385 — sees scattered inclusion in creature-combat-heavy black decks `[Scryfall: edhrec_rank field]`.
+- **Artist** — Cristi Balanescu is a Romanian illustrator whose MTG credits span 147 cards across multiple sets `[Gatherer: artist search]`. He maintains an active portfolio at cristibalanescu.com and ArtStation featuring work for Wizards of the Coast, Star Wars, and Game of Thrones properties `[artofmtg.com: Cristi Balanescu artist page]`.
+- **Mechanical note** — Legal in Pauper, Commander, Pioneer, Modern, Legacy, and Vintage `[Scryfall: legalities]`. In Pauper, the card functions as a one-mana pump that turns any creature into a combat-trade threat (deathtouch) or life recovery tool (lifelink), making it a flexible sideboard and main-deck option in creature-dense black lists.
+
+### Related cards
+- Vito, Thorn of the Dusk Rose (M21, 127) — M21 black rare that rewards lifelink triggers; shares set and color synergy with Alchemist's Gift's lifelink mode
+- Vampire of the Dire Moon (M20, 115) — monocolor black 1/1 deathtouch lifelink vampire; mirrors the keyword pairing this card grants
+- Duress (M21, 96) — shares set, color, and one-mana slot in M21 black commons

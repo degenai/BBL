@@ -1,0 +1,38 @@
+{
+  "card_name": "Memorial to Glory",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "244",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Memorial to Glory is the white member of the five-card Memorial cycle from Dominaria (April 27, 2018). Thematically it reads as an homage to Benalia — Dominaria's great human-military nation, destroyed in the Phyrexian Invasion and rebuilt as New Benalia by the set's era. The ability (create two 1/1 Soldier tokens) mirrors white's martial identity and the soldier-as-institution Benalia embodies.",
+      "sources": ["Scryfall", "WebSearch: Dominaria lore, New Benalia / Phyrexian Invasion context"]
+    },
+    {
+      "category": "design",
+      "text": "Activation cost {3}{W} to produce two 1/1 Soldier tokens is the second-cheapest Memorial activation in the cycle (after Folly at {2}{B}). EDHREC rank 6583, appearing in approximately 20,052 Commander decks per the EDHREC search result — middle of the five Memorials by popularity, primarily played in Soldier-tribal and token-generation Commander shells.",
+      "sources": ["Scryfall", "EDHREC: edhrec.com/cards/memorial-to-glory"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by James Paick, who also painted Memorial to Genius (no. 243) — the only artist to illustrate two of the five Memorials. Reprinted in Commander 2019 (C19); no further reprints per Scryfall print record.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Memorial to Folly", "set": "Dominaria", "note": "black cycle member; BBL holds"},
+    {"name": "Memorial to Genius", "set": "Dominaria", "note": "blue cycle member; same artist (James Paick); BBL holds"},
+    {"name": "Memorial to War", "set": "Dominaria", "note": "red cycle member; BBL holds"},
+    {"name": "Memorial to Unity", "set": "Dominaria", "note": "green cycle member; not in BBL corpus"},
+    {"name": "History of Benalia", "set": "Dominaria", "note": "saga card; New Benalia lore directly tied to white-soldier identity on the same plane"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

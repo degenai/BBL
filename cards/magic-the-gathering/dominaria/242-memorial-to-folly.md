@@ -72,3 +72,16 @@ A desolate graveyard or memorial field rendered in muted grays and browns. A lar
 **Iconography:** memorial, ruin, grave
 **Genre cues:** fantasy, gothic
 
+## Trivia
+
+- **Set context** — Memorial to Folly is part of a five-card cycle of uncommon utility taplands in Dominaria (2018), one per color: Memorial to Folly (B, no. 242), Memorial to Genius (U, no. 243), Memorial to Glory (W, no. 244), Memorial to Unity (G, no. 245), and Memorial to War (R, no. 246). The Dominaria set was released April 27, 2018 as Magic's 25th-anniversary flagship, returning to the plane that served as the game's original home. The Memorials are thematically framed as ruins — sites of ancient significance on a world shaped by catastrophic war and recovery. `[Scryfall]`
+- **Design** — Each Memorial produces colored mana and sacrifices for a color-appropriate effect: Folly returns a creature from the graveyard to hand for {2}{B}, costing less than its cycle peers and offering a relevant graveyard-recursion effect for black. It was the most-played Memorial in Standard at release, and remains the most-used in Commander — EDHREC ranks it 2891 overall (appearing in approximately 45,942 Commander decks as of 2026), the highest rank among the four BBL-held Memorials. `[Scryfall]` `[EDHREC: edhrec.com/cards/memorial-to-folly]`
+- **Reprint history** — Memorial to Folly received its first reprint in Commander 2019 (C19). All five Memorials were printed only in Dominaria (2018) and Commander 2019; none have appeared in further sets as of the Scryfall print record. `[Scryfall prints search]` `[WebSearch: mtgassist.com]`
+- **Community resonance** — Community sentiment on MTGSalvation and EDHREC forums characterizes Memorial to Folly as the most broadly applicable Memorial for Commander: black graveyard synergy is pervasive across the format, and the {2}{B} activation cost is the cheapest among the five Memorials' sacrifice abilities. The EDHREC Dominaria land review noted the cycle as situationally playable in slower metas, with Folly singled out as the strongest due to relevance across nearly any black deck. `[Community sentiment — EDHREC Dominaria set review article]` `[MTGSalvation: mtgsalvation.com/cards/dominaria/]`
+
+### Related cards
+- Memorial to Genius (Dominaria, no. 243) — blue cycle member; BBL holds
+- Memorial to Glory (Dominaria, no. 244) — white cycle member; BBL holds
+- Memorial to War (Dominaria, no. 246) — red cycle member; BBL holds
+- Memorial to Unity (Dominaria, no. 245) — green cycle member; not in BBL corpus
+- Deserted Temple (Odyssey, no. 316) — land with graveyard-adjacent utility in black Commander shells; frequent cycle companion

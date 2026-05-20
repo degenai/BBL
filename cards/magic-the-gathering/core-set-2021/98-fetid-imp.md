@@ -73,3 +73,14 @@ A small dark-skinned imp with broad bat-like wings dominates the frame, posed in
 **Creatures:** imp, winged-creature
 **Genre cues:** fantasy, dark-fantasy, horror
 
+## Trivia
+
+- **Print lineage** — Fetid Imp first appeared in Magic Origins (July 2015), then Duel Decks: Nissa vs. Ob Nixilis (September 2016), The List (November 2019), Core Set 2021 (July 2020), and Jumpstart 2022 (December 2022) — all five printings illustrated by Nils Hamm `[Scryfall prints search]`. The M21 copy is marked `reprint: true` `[Scryfall]`. No flavor text exists in any printing `[Scryfall]`.
+- **Mechanical note** — Flying plus the activated deathtouch ability for one black mana creates a persistent deterrent: opponents must commit two creatures to attack profitably (one to absorb the block, one to trade) or risk losing a valuable attacker. EDHREC rank 19,878 — low Commander inclusion; the effect is considered redundant in black decks that have access to more efficient deathtouch fliers `[Scryfall: edhrec_rank field]`. Legal in Pauper, where the flying-plus-on-demand-deathtouch combination is more meaningful as a one-sided rattlesnake `[Scryfall: legalities]`.
+- **Artist** — Nils Hamm is a freelance illustrator from Düsseldorf, Germany with 195+ MTG card credits `[Gatherer: artist search]`. His first MTG work came through an engagement for Hecatomb circa 2004; Jeremy Jarvis (then MTG art director) saw his work and brought him into the main MTG illustration roster `[artofmtg.com: Nils Hamm artist page]`. Hipsters of the Coast described Hamm's style as "impressionistic and imaginative" across creatures, spells, and landscapes `[hipstersofthecoast.com: "Ain't That a Frame", March 2021]`. He has also illustrated a self-authored graphic novel ("Astro") and teaches concept art and game design `[artofmtg.com: Nils Hamm artist page]`.
+- **Set context** — Core Set 2021 released July 3, 2020. As a core set, M21 was designed to be an entry-friendly, planeswalker-themed environment; Fetid Imp represents a class of functional black commons (flying threat plus marginal ability) that provide Limited scaffolding without demanding rules knowledge beyond keyword reminder text `[Scryfall]` `[magic.wizards.com: Collecting Core Set 2021, 2020-06-05]`.
+
+### Related cards
+- Vampire Cutthroat (Eldritch Moon, 120) — one-mana flying lifelink skulk; comparison point for efficient mono-black evasive commons
+- Murder of Crows (Innistrad, 68) — fellow Nils Hamm illustration; shares the dark-winged creature aesthetic
+- Gnarlwood Dryad (Eldritch Moon, 174) — deathtouch common for mana-cost comparison; shows deathtouch on a common without flying

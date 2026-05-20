@@ -1,0 +1,43 @@
+{
+  "card_name": "Memorial to Folly",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "242",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Memorial to Folly is the black member of the five-card Memorial cycle in Dominaria (2018), one per color. The Memorials are uncommon utility taplands framing Dominaria's ruins as sites of ancient significance, thematically rooted in the plane's millennia of catastrophic war and recovery. Released April 27, 2018 as Magic's 25th-anniversary flagship set.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Sacrifice cost {2}{B} is the cheapest activation in the five-card cycle. Black graveyard recursion is broadly relevant across Commander. EDHREC rank 2891 overall, appearing in approximately 45,942 Commander decks — the highest rank among the four BBL-held Memorials.",
+      "sources": ["Scryfall", "EDHREC: edhrec.com/cards/memorial-to-folly"]
+    },
+    {
+      "category": "design",
+      "text": "Reprinted in Commander 2019 (C19). No further reprints per Scryfall print record.",
+      "sources": ["Scryfall prints search", "WebSearch: mtgassist.com"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on MTGSalvation and EDHREC characterizes Memorial to Folly as the most broadly applicable Memorial for Commander due to black graveyard synergy being pervasive. The EDHREC Dominaria land review called the cycle situationally playable in slower metas, with Folly singled out as the strongest.",
+      "sources": ["Community sentiment — EDHREC Dominaria set review article", "Community sentiment — MTGSalvation card page"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Memorial to Genius", "set": "Dominaria", "note": "blue cycle member; BBL holds"},
+    {"name": "Memorial to Glory", "set": "Dominaria", "note": "white cycle member; BBL holds"},
+    {"name": "Memorial to War", "set": "Dominaria", "note": "red cycle member; BBL holds"},
+    {"name": "Memorial to Unity", "set": "Dominaria", "note": "green cycle member; not in BBL corpus"},
+    {"name": "Deserted Temple", "set": "Odyssey", "note": "land with graveyard-adjacent utility in black Commander shells; frequent cycle companion"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

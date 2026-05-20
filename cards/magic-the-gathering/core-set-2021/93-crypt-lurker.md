@@ -74,3 +74,14 @@ A gaunt, skeletal humanoid horror crouches in near-total darkness within what ap
 **Iconography:** glowing-eyes
 **Genre cues:** fantasy, horror, gothic
 
+## Trivia
+
+- **Set context** — Crypt Lurker is a first-print Horror creature unique to Core Set 2021, released July 3, 2020. It has not been reprinted in any subsequent set `[Scryfall prints search]`. The creature type "Horror" places it in black's broader non-vampire creature suite in M21, alongside other undead and ghoul-adjacent commons that fill out the color's Limited ecosystem.
+- **Flavor text** — "Even the rats refuse to set foot inside. I fear to think what might be waiting in there." — attributed to a Gravedigger's journal `[Scryfall]`. The journal entry framing suggests an unnamed in-world narrator — a gravedigger, not a named lore character — whose occupation brings them close enough to crypts to note the absence of rats as a warning signal. No named plane or character is identified in the Scryfall data.
+- **Mechanical note** — When Crypt Lurker enters, you may sacrifice a creature or discard a creature card; if you do, draw a card. This is a enters-the-battlefield loot variant that trades a creature (from board or hand) for a draw. The 3/4 body for four mana is solid for Limited. EDHREC rank 23,357 — very low Commander inclusion, largely outclassed by more efficient sacrifice-draw engines at the same mana cost `[Scryfall: edhrec_rank field]`. Its pauper legality gives it a niche in sacrifice-draw loops at common `[Scryfall: legalities]`.
+- **Artist** — Svetlin Velinov is a Bulgarian freelance concept artist and illustrator born March 20, 1979, part of Wizards of the Coast's main illustration team since 2010. He has illustrated over 353 MTG cards, making him among the most prolific artists in the game's history `[Gatherer: artist search]` `[mtg.wiki: Svetlin Velinov]`. His work for Abrupt Decay was cited by Hipsters of the Coast as having "a near perfect color and composition fit" for the classic card frame `[hipstersofthecoast.com: "Ain't That a Frame", March 2021]`.
+
+### Related cards
+- Carrion Feeder (Scourge, 60) — one-mana black zombie that self-sacs; exemplifies the sacrifice-synergy shell Crypt Lurker slots into
+- Phyrexian Rager (Apocalypse, 53) — earlier black common with enters-ETB draw at similar mana cost; direct design lineage comparison
+- Village Rites (Strixhaven, 101) — one-mana black instant that sacrifices a creature to draw two cards; plays in the same functional space

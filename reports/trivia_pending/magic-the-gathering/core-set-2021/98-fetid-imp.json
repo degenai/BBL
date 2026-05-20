@@ -1,0 +1,41 @@
+{
+  "card_name": "Fetid Imp",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "98",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "First appeared in Magic Origins (July 2015). Five printings total: Magic Origins, Duel Decks: Nissa vs. Ob Nixilis (2016), The List (2019), Core Set 2021 (2020), Jumpstart 2022 (2022). All five printings illustrated by Nils Hamm. No flavor text in any printing. M21 copy is marked reprint: true.",
+      "sources": ["Scryfall prints search", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Flying plus on-demand deathtouch ({B}: gains deathtouch until end of turn) creates a persistent deterrent — opponents must commit two creatures to attack profitably. EDHREC rank 19,878 — low Commander inclusion; redundant in black decks with more efficient deathtouch fliers. Pauper-legal, where flying-plus-on-demand-deathtouch is a meaningful rattlesnake.",
+      "sources": ["Scryfall: edhrec_rank field", "Scryfall: legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Nils Hamm is a German freelance illustrator from Dusseldorf with 195+ MTG card credits. First MTG work via Hecatomb circa 2004; Jeremy Jarvis (then MTG art director) brought him into the main roster. Hipsters of the Coast described his style as 'impressionistic and imaginative.' Also wrote and illustrated graphic novel 'Astro' and teaches concept art and game design.",
+      "sources": ["Gatherer: artist search", "artofmtg.com: Nils Hamm artist page", "hipstersofthecoast.com: Ain't That a Frame, March 2021"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 released July 3, 2020. Designed as an entry-friendly planeswalker-themed environment; Fetid Imp represents a class of functional black commons providing Limited scaffolding without demanding rules complexity beyond keyword reminder text.",
+      "sources": ["Scryfall", "magic.wizards.com: Collecting Core Set 2021, 2020-06-05"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vampire Cutthroat", "set": "Eldritch Moon", "note": "one-mana flying lifelink skulk; comparison point for efficient mono-black evasive commons"},
+    {"name": "Murder of Crows", "set": "Innistrad", "note": "fellow Nils Hamm illustration; shares the dark-winged creature aesthetic"},
+    {"name": "Gnarlwood Dryad", "set": "Eldritch Moon", "note": "deathtouch common for mana-cost comparison; shows deathtouch on a common without flying"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

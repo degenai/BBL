@@ -72,3 +72,16 @@ A panoramic vista of a memorial complex perched on a verdant hillside. Tall slen
 **Iconography:** memorial, scholarly-monument, spires
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** — Memorial to Genius is the blue member of the five-card Memorial cycle from Dominaria (April 27, 2018). The set's Memorial lands are thematically grounded in Dominaria's layered history: scholars and students are central to Dominarian civilization through the Tolarian Academies, rebuilt as Tolaria West after the original was destroyed. A "Memorial to Genius" on this plane reads as an elegy for Urza-era intellectual ambition and its catastrophic costs. `[Scryfall]` `[WebSearch: WebSearch snippet from coolstuffinc.com Dominaria lore article]`
+- **Design** — The ability — sacrifice for {4}{U} to draw two cards — costs the most mana of the five Memorials' activation costs, making it the least format-efficient despite blue's universal demand for card draw. EDHREC ranks it 9095 overall (appearing in approximately 20,052 Commander decks), the second-lowest rank among the BBL-held Memorials; the high activation cost relative to established blue draw alternatives suppresses its inclusion. `[Scryfall]` `[EDHREC: edhrec.com/cards/memorial-to-genius]`
+- **Artist** — Illustrated by James Paick, who also painted Memorial to Glory (no. 244) in this same cycle. Paick is a frequent Wizards contributor with credits across multiple sets; his work on both the blue and white Memorials gives those two cards a visual coherence within the cycle. `[Scryfall]`
+- **Community resonance** — Community sentiment on MTGSalvation characterized Memorial to Genius as excellent for control decks "trying to edge out close late games" as a mana sink that still produces colored mana — but the EDHREC Dominaria set review cautioned that players are "probably better off with a similar land that taps for colorless but doesn't enter the battlefield tapped," noting the combined liabilities of entering tapped and costing {4}{U} to activate. `[Community sentiment — MTGSalvation: mtgsalvation.com/cards/dominaria/34351-memorial-to-genius]` `[Community sentiment — EDHREC Dominaria set review article]`
+
+### Related cards
+- Memorial to Folly (Dominaria, no. 242) — black cycle member; BBL holds
+- Memorial to Glory (Dominaria, no. 244) — white cycle member; same artist (James Paick); BBL holds
+- Memorial to War (Dominaria, no. 246) — red cycle member; BBL holds
+- Memorial to Unity (Dominaria, no. 245) — green cycle member; not in BBL corpus
+- Tolaria West (Future Sight, no. 177) — named for the rebuilt Tolarian Academy; thematic anchor for Dominaria's "genius" memorial lore
