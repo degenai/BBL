@@ -51,6 +51,8 @@ setting: other
 suspected_ip: Panpour
 ip_confidence: high
 ip_verified: true
+characters:
+  - elemental-monkey-trio
 tags:
   - card
   - pokemon
@@ -90,4 +92,8 @@ A small blue monkey Pokemon with a rounded blue body and a distinctive teal curl
 - Pansage (Black Bolt, 004/086) — Grass-arm trio member; Wood Monkey cell
 - Panpour (Burning Shadows, 036/147) — earlier corpus print of the same species, by Suwama Chiaki
 - Simipour (Darkness Ablaze, 042/189) — evolved Water arm; closes the trio at full canonical corpus coverage
+
+## Connections
+
+- [[elemental-monkey-trio]] — Water-arm base-form representative of the elemental monkey trio (Pansage / Pansear / Panpour and their Simi- evolved forms), the designer-coordinated Generation V Unova cohort of three paired Pokemon species mapped onto the three wise monkeys of Japanese cultural iconography (Pansage / *iwazaru* / speak no evil; Pansear / *kikazaru* / hear no evil; Panpour / *mizaru* / see no evil), each pair evolving via an elemental Stone rather than by level-up — a mechanically unifying departure from standard Gen V evolution. This Black Bolt Panpour 017/086 is the corpus's second Panpour print (after Burning Shadows 36/147) and the cohort's first Black Bolt base-form Water-arm member, illustrated by **Makura Tami** in a colorful flower-garden setting. Printed flavor *"The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large"* — the species' canonical water-as-plant-nourishment register, the Panpour-side of the cohort's care-and-nurture frame (paired with Pansage's leaf-as-soothing-remedy flavor on the cohort node body). Sits within the within-BLB adjacent-collector slot 017 immediately preceding Simipour 018/086 (its Stage-1 Stone-evolution form, also illustrated by Makura Tami) — a within-set adjacent-collector base-and-evolved pair-placement parallel to the Darkness Ablaze 006-007 Pansage/Simisage adjacency already in corpus, and the BB-017/018 pair gives Black Bolt a Water-arm bloom-coded design coupling (both prints in flower-garden settings) distinct from the Darkness Ablaze prints' rocks-and-pool framing. With this attachment the elemental-monkey-trio cohort node now points to 12 corpus prints across 6 canonical species and 4 sets; the cohort node body at the Caveats section explicitly anticipated this exact attach (Panpour BB-017 staged as already-in-corpus-and-vision-passed, awaiting its Edgelord wire on trivia close). `[PokemonTCG.io: zsv10pt5-17 — flavor_text + artist; Bulbapedia: Panpour (Pokemon), Elemental monkeys design page]`
 

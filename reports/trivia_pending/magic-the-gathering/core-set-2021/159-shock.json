@@ -1,0 +1,42 @@
+{
+  "card_name": "Shock",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "159",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Shock was first printed in Stronghold (STH, released 1998-03-02), not in Alpha/Beta — placing its origin nine years after the game launched and 1998 alongside the Tempest block. Despite the later origin, it has been reprinted across 38 distinct Scryfall print entries (as of May 2026), spanning Core Sets, competitive sets, promos, and the Strixhaven Mystical Archive. Most recent printings include Marvel's Spider-Man (SPM, 2025), Through the Omenpaths (OM1, 2025), and Murders at Karlov Manor (MKM, 2024). [Scryfall prints search, unique=prints query]",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The M21 printing (this card) is marked reprint:true by Scryfall and is legal in every non-Old School format including Standard (as of 2026). EDHREC rank: 2,235 — making Shock one of the more-played red instants in Commander despite its two-damage ceiling, presumably from its versatility targeting creatures or players. Penny Dreadful rank: 1,393 [Scryfall API]. As the budget Lightning Bolt — half the damage for the same mana — it is the entry-level one-mana burn spell across Constructed formats.",
+      "sources": ["Scryfall EDHREC rank field", "Scryfall legalities", "Scryfall penny_rank field"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The beauty of it is they never see it coming. Ever.\" — Razzix, sparkmage. The flavor speaker Razzix appears only in this flavor-text attribution — no other canonical MTG card, story, or source names this character. The text positions the spell as an ambush tool, not a duel — the beauty is the asymmetry of the moment. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The M21 printing is illustrated by Jon Foster, who has illustrated multiple Shock printings including Tenth Edition, Magic 2012, Magic 2014, and the Duel Decks: Speed vs. Cunning version (2014). Other notable Shock artists across the print run include Randy Gallegos (Stronghold through Ninth Edition era, FNM 2000 promo), Jason Rainville (Aether Revolt through M20), and international-exclusive prints (Salvat 2005/2011) with their own art variants. [Scryfall prints search, artist fields]",
+      "sources": ["Scryfall prints search"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lightning Bolt", "set": "Alpha", "note": "The benchmark Shock is always compared to — one mana, three damage; Shock trades one damage for universality across formats"},
+    {"name": "Play with Fire", "set": "Innistrad: Midnight Hunt", "note": "The functional Shock upgrade that replaced it in Standard rotation circa 2021"},
+    {"name": "Searing Blaze", "set": "Worldwake", "note": "Conditional upgrade for creature-heavy metas; the 'when is Searing Blaze better than Shock?' is a classic limited evaluation question"},
+    {"name": "Magma Jet", "set": "Theros", "note": "Two-damage instant with scry 2; often compared to Shock for slots in burn decks"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

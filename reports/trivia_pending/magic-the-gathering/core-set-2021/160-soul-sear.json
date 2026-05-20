@@ -1,0 +1,42 @@
+{
+  "card_name": "Soul Sear",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "160",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Soul Sear is a first-print M21 uncommon with no subsequent reprints as of May 2026 [Scryfall prints — single entry]. Its design role is explicit: five damage plus temporary indestructible-strip on a three-mana instant. It was previewed at PCGamesN in June 2020 during the M21 spoiler season [Scryfall preview metadata: PCGamesN, 2020-06-09]. Artist: Mathias Kollros, a German-Austrian illustrator with an extensive MTG portfolio spanning multiple blocks.",
+      "sources": ["Scryfall", "Scryfall preview metadata"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The indestructible-stripping clause exists primarily as a safety valve for Planeswalkers with the Teferi, Hero of Dominaria / Ugin, the Spirit Dragon tier of indestructibility-adjacent resilience. At three mana for five damage, Soul Sear is premium removal by red standards — Scryfall notes it is not Pauper-legal (uncommon), not legal in Standard post-rotation (not_legal in current Standard legality query). EDHREC rank: 13,746 — moderate Commander inclusion, roughly comparable to Havoc Jester in adoption. [Scryfall legalities and EDHREC rank field]",
+      "sources": ["Scryfall legalities", "Scryfall EDHREC rank field"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"There was no witty retort, no confident boast to accompany the attack. There was only pain.\" No speaker attributed. The text is a deliberate rejection of fantasy combat bravado — no quip, no theatrics, just damage. This makes it one of the starker flavor texts in M21's red suite. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021's red suite was designed around Chandra, Heart of Fire as the set's headlining planeswalker, and the red removal package (Shock, Soul Sear, Scorching Dragonfire) was built to give red players answers across multiple angles: one-mana burn, premium creature removal, and indestructible-hate. Soul Sear filled the indestructible-removal slot that other formats at the time had in Shatter-equivalent artifact hate [EpicStream M21 red removal preview article, 2020].",
+      "sources": ["EpicStream: Core Set 2021 reveals new premium red removal (2020)", "Scryfall set metadata"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Flame Slash", "set": "Rise of the Eldrazi", "note": "One-mana, four-damage instant to creatures only; the efficiency comparison point for Soul Sear's extra mana and added coverage"},
+    {"name": "Abrade", "set": "Hour of Devastation", "note": "Two-mana Modal burn/artifact hate; often the alternative in 3-mana-or-less red removal slots"},
+    {"name": "Chandra, Heart of Fire", "set": "Core Set 2021", "note": "Set's headlining planeswalker; Soul Sear is part of the red removal suite built around her draft archetype"},
+    {"name": "Ugin, the Spirit Dragon", "set": "Fate Reforged", "note": "Indestructible-adjacent resilient planeswalker; the tier of threat Soul Sear's clause was designed to answer"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

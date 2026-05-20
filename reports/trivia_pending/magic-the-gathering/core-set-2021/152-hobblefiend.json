@@ -1,0 +1,42 @@
+{
+  "card_name": "Hobblefiend",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "152",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Hobblefiend is typed Creature — Devil, placing it in MTG's design-recognized devil tribe: small chaotic fiends distinct from demons in both size and role. Within the Rakdos Cult's Ravnica hierarchy (though this card appears in a Core Set, not a Ravnica set), devils are the anarchic entertainers beneath the demon leadership tier [Scryfall type line; MTG Wiki: Devil].",
+      "sources": ["Scryfall", "MTG Wiki: Devil"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Bedbugs aren't the only things you need to worry about biting you at night.\" No speaker attributed. The text anchors the card's horror-lurker identity: a small predatory thing that emerges from the domestic dark. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Hobblefiend is a first-print M21 common (released 2020-07-03) with no subsequent reprints as of May 2026 [Scryfall prints search — single entry]. Artist is Nicholas Gregory, who has over 127 MTG credits in Gatherer including Elder Gargaroth (Core Set 2021), Grief (Modern Horizons 2), and Plague Engineer (Modern Horizons), with art sold through the Cosmic Daydream Studio storefront on INPRNT [Gatherer: Nicholas Gregory; artofmtg.com].",
+      "sources": ["Scryfall", "Gatherer: Nicholas Gregory", "artofmtg.com/artist/nicholas-gregory"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The sacrifice-outlet mechanic ({1}, sacrifice another creature: put a +1/+1 counter) combined with Trample makes Hobblefiend a snowballing aggressive two-drop in formats where cheap sacrifice fodder exists. Pauper-legal (confirmed by Scryfall legalities), meaning it sees play in that budget format's sacrifice-aggro builds. EDHREC rank: 15,438 — low Commander adoption; its value is concentrated in Pauper and limited formats where the trample+grow package on a two-drop is relevant [Scryfall legalities and EDHREC rank field].",
+      "sources": ["Scryfall legalities", "Scryfall EDHREC rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Goblin Arsonist", "set": "Magic 2012", "note": "Same devil-tribe design space; small aggressive devil with ETB/sacrifice payoff"},
+    {"name": "Elder Gargaroth", "set": "Core Set 2021", "note": "Same artist (Nicholas Gregory), same set — notable pairing of Nicholas Gregory's range from horror-intimate (Hobblefiend) to epic-scale (Elder Gargaroth)"},
+    {"name": "Carrion Feeder", "set": "Scourge", "note": "Classic Pauper sacrifice-outlet comparison; zero-cost self-growing sacrifice sink that Hobblefiend competes with in the archetype"},
+    {"name": "Judith, the Scourge Diva", "set": "Ravnica Allegiance", "note": "Rakdos devil-tribal commander that Hobblefiend slots into as sacrifice-synergy fuel"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

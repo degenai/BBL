@@ -1,0 +1,42 @@
+{
+  "card_name": "Havoc Jester",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "149",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Cult of Rakdos is one of Ravnica's ten guilds, and its lore-established purpose under the original Guildpact was to handle entertainment, mining, and manual labor — the menial and the spectacular in equal measure. Devils within the cult are described as the whimsical-chaos arm of the organization, smaller and more anarchic than the guild's founding demons, causing disorder out of proportion to their size [MTG Wiki: Cult of Rakdos, mtg.wiki].",
+      "sources": ["MTG Wiki: Cult of Rakdos (mtg.wiki)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"To the Rakdos, screams of delight and screams of terror are one and the same.\" The flavor text fuses the cult's entertainment mandate with its sadomasochistic philosophy: pain and pleasure are indistinguishable in a Rakdos performance, and the Jester is the figure who enforces that indistinction — theatrically, through chaos. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Havoc Jester was first printed in Core Set 2021 (M21, released 2020-07-03) as an uncommon, illustrated by Jason A. Engle, who has over 187 MTG card credits. It was reprinted in Commander Masters (CMM, 2023) and Ravnica: Clue Edition (CLU), confirming its value as a sacrifice-payoff anchor in Commander contexts [Scryfall prints search].",
+      "sources": ["Scryfall prints search", "Gatherer: Jason A. Engle"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's trigger fires on any sacrifice — not just creature sacrifice — making it synergize with artifact, enchantment, and token sacrifice outlets. MTGDecks.net documents at least 10 combo lines involving Havoc Jester, including loops with Treasure tokens and Arcane Adaptation that produce infinite damage. EDHREC rank: 13,414 [Scryfall], placing it in moderate Commander adoption — solid sacrifice-payoff, not a staple [MTGDecks.net combos; Scryfall EDHREC rank field].",
+      "sources": ["Scryfall EDHREC rank", "MTGDecks.net: Havoc Jester combos"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mayhem Devil", "set": "War of the Spark", "note": "Functionally analogous Rakdos devil — pings on any player's sacrifice; frequently compared to Havoc Jester in sacrifice-engine Commander decks"},
+    {"name": "Rakdos, the Showstopper", "set": "Ravnica Allegiance", "note": "Demon parun of the Cult of Rakdos; top of the flavor hierarchy that the Jester sits within"},
+    {"name": "Judith, the Scourge Diva", "set": "Ravnica Allegiance", "note": "Rakdos aristocrats commander; common co-pilot with Havoc Jester in sacrifice-payoff lists"},
+    {"name": "Blood Artist", "set": "Avacyn Restored", "note": "The genre-defining drain-on-death effect; Havoc Jester is the damage-ping cousin"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

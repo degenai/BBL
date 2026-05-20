@@ -1,0 +1,32 @@
+{
+  "edge_id": "panpour-bb017--elemental-monkey-trio",
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/black-bolt/017-086-panpour.md", "name": "Panpour (Black Bolt 017/086)"},
+    {"type": "character", "path": "cards/_characters/elemental-monkey-trio.md", "name": "Elemental monkey trio (Pansage / Pansear / Panpour line)"}
+  ],
+  "description": "Cohort stack-attach. Panpour BB-017 closed its trivia pass this session; it is the Water-arm base form of the elemental monkey trio (Pansage/Pansear/Panpour + Simi- evolved forms), a designer-coordinated Gen V Unova cohort mapped onto the three wise monkeys. Textbook 1:N attach. The node body had already STAGED this exact wire by name in its Caveats section, citing it as awaiting an Edgelord wave on trivia close. No squinting required, no Potion-rule stretch: the membership predicate (Pan-/Simi- name pattern + Stone-evolution mechanic + wise-monkey mapping) is canonically satisfied and Bulbapedia-cited. Mirror of the wave-144 Pansage BB-004 attach.",
+  "citations": [
+    "[PokemonTCG.io: zsv10pt5-17 — flavor_text + artist + National Pokedex no. 515]",
+    "[Bulbapedia: Panpour (Pokemon)]",
+    "[Bulbapedia: Elemental monkeys design page]"
+  ],
+  "files_modified": [
+    "cards/pokemon/black-bolt/017-086-panpour.md",
+    "cards/_characters/elemental-monkey-trio.md"
+  ],
+  "edges_removed": [],
+  "edges_added": [
+    "Panpour BB-017 -> elemental-monkey-trio (characters: frontmatter pointer + ## Connections bullet)"
+  ],
+  "other_candidates_considered": [
+    "Panpour BB-017 <-> Simipour BB-018 1:1 mirror (adjacent-collector base/evolved pair, same illustrator Makura Tami, both flower-garden settings). REJECTED as the primary move: drawing a thin card-to-card edge between two cohort members all pointing at an absent-from-their-frontmatter center is exactly the redundant-spoke anti-pattern the Jekyll/Hyde section warns against. The Simipour BB-018 -> elemental-monkey-trio attach is itself still open (BB-018 lacks the characters: pointer and ## Connections bullet despite being in the node appears_on:). That is the cleanest next-pass candidate and is staged below.",
+    "Simisage BB-005 -> elemental-monkey-trio: pre-enrichment, awaits vision + trivia. Not Edgelord-ready."
+  ],
+  "next_pass_suggestions": [
+    "Simipour BB-018 (cards/pokemon/black-bolt/018-086-simipour.md) is listed in the node appears_on: array but its CARD side is incomplete — no characters: frontmatter pointer, no ## Connections bullet. A future Edgelord wave should complete that half-wired attach (enlightened-corrective or plain card-side completion). This is sync drift from the wave-127 attach predating the ## Connections convention."
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

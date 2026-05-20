@@ -74,3 +74,16 @@ A figure in dark blue robes is caught at the moment of being struck by a sudden,
 **Iconography:** lightning, electrical arc
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Design / reprint history** — Shock was first printed in Stronghold (STH, 1998-03-02), not in Alpha/Beta — placing its origin nine years into the game's lifespan. Despite that, it has accumulated 38 distinct print entries in Scryfall (as of May 2026), spanning Core Sets, competitive releases, promos, the Strixhaven Mystical Archive, and Universal Beyond crossover sets. Most recent prints include Marvel's Spider-Man (SPM, 2025) and Through the Omenpaths (OM1, 2025). The M21 printing is one of many Jon Foster versions; other artists in the print lineage include Randy Gallegos (Stronghold through 9th Edition era + FNM 2000 promo) and Jason Rainville (Aether Revolt through M20). `[Scryfall prints search, unique=prints]`
+- **Mechanical reputation** — EDHREC rank: 2,235 — exceptionally high placement for a two-damage spell, driven by Commander's universal creature-and-player targeting utility. Penny Dreadful rank: 1,393. Legal in Standard as of 2026 (the M21 print). As the budget Lightning Bolt — half the damage for the same mana — Shock is the entry-level one-mana burn reference across Constructed formats. `[Scryfall EDHREC rank; Scryfall penny_rank; Scryfall legalities]`
+- **Flavor text** — "The beauty of it is they never see it coming. Ever." — Razzix, sparkmage. Razzix appears only in this flavor attribution; no other MTG card, story, or Scryfall record names this character. The quote frames Shock as an ambush spell rather than a duel — the aesthetic appeal is the asymmetry of surprise, not the magnitude of the damage. `[Scryfall]`
+- **Format context** — Core Set 2021 was released July 3, 2020, during the COVID lockdown era, primarily serving Arena's new-player pipeline and the M21 draft format. Shock functioned as the set's baseline one-mana burn benchmark; its presence in the set signals that the draft format was built with aggressive red strategies in mind. `[Scryfall set metadata]`
+
+### Related cards
+- Lightning Bolt (Alpha / many) — the benchmark Shock is measured against; three damage for one mana vs. Shock's two
+- Play with Fire (Innistrad: Midnight Hunt) — functional Shock upgrade that replaced it in Standard rotation in 2021; adds Scry 1
+- Searing Blaze (Worldwake) — conditional upgrade in creature-heavy metas; a classic limited evaluation comparison
+- Magma Jet (Theros) — two-damage + Scry 2; the recurring alternative when card selection matters more than raw efficiency
+

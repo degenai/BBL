@@ -1,0 +1,42 @@
+{
+  "card_name": "Sure Strike",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "163",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Sure Strike has 9 distinct Scryfall print entries across 9 sets from Battle for Zendikar (BFZ, 2015) through Foundations (FDN, 2024), confirming its status as a Wizards perennial reprint — a 'teaching card' that illustrates first strike cleanly enough to be worth bringing back for every new-player entry point. Foundations inclusion (2024) is the clearest signal: that set is designed as the permanent beginner product. [Scryfall prints search, unique=prints]",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "design",
+      "text": "The M21 printing is one of three illustrated by Jakub Kasper (also Battle for Zendikar and Core Set 2019). Other artists in the print lineage include Steve Argyle (Guilds of Ravnica, The List 2024), Lie Setiawan (Innistrad: Crimson Vow and Innistrad: Double Feature 2021-22), and Izzy (Ixalan and Foundations). The Guilds of Ravnica Steve Argyle version is the version most often cited in community discussions for its composition quality [Scryfall prints: artist fields].",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Sure Strike grants +3/+0 and first strike until end of turn for {1}{R}. In limited, this functions as a combat trick that wins almost any fight: the +3 power boost plus first-strike means the buffed creature deals its damage before the blocker, often killing it before taking any damage. EDHREC rank: 10,266 — low Commander adoption, as expected for a combat trick that is primarily a limited and aggressive-Constructed card [Scryfall EDHREC rank field].",
+      "sources": ["Scryfall EDHREC rank field", "Scryfall oracle text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"To survive imminent doom, it sometimes takes a foolhardy soul who acts first and fears later.\" No speaker attributed. The text is a functional description of first strike philosophy: the mechanical keyword rendered as survival instinct rather than training. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Giant Growth", "set": "Alpha", "note": "The archetype combat trick; Sure Strike trades the toughness pump for first strike, optimizing for offense"},
+    {"name": "Temur Battle Rage", "set": "Fate Reforged", "note": "The premium first-strike-plus-trample combat trick that Sure Strike is often compared to in aggressive red decks"},
+    {"name": "Rush of Adrenaline", "set": "Shadows over Innistrad", "note": "Near-functional analog (first strike + power boost) that competed with Sure Strike in the same Standard windows"},
+    {"name": "Infuriate", "set": "Theros Beyond Death", "note": "One-mana +3/+2 with no keyword; the 'cost of first strike' comparison card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

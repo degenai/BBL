@@ -78,3 +78,16 @@ A red-skinned devil with curling black horns, leathery bat-like wings, and a lon
 **Iconography:** horns, bat-wings, fire, tail, claws
 **Genre cues:** fantasy, dark-fantasy, horror
 
+## Trivia
+
+- **Set lore** — The Cult of Rakdos is one of Ravnica's ten guilds. Its mandate under the original Guildpact covered entertainment, mining, and manual labor — the menial and the spectacular in equal measure. Within that hierarchy, devils are the whimsical-chaos tier: smaller than the cult's founding demons, anarchic in scale, causing disorder out of proportion to their size. The Jester archetype is the performer who makes the crowd laugh and scream simultaneously. `[MTG Wiki: Cult of Rakdos, mtg.wiki]`
+- **Flavor text** — "To the Rakdos, screams of delight and screams of terror are one and the same." The text fuses the guild's entertainment mandate with its sadomasochistic philosophy: the Jester does not distinguish pain from joy in a performance, and neither does the audience by the time it's over. `[Scryfall]`
+- **Design** — Havoc Jester was first printed in Core Set 2021 (released 2020-07-03), illustrated by Jason A. Engle, who holds over 187 MTG card credits and sells original art prints through his studio (jaestudio.com). The card was reprinted in Commander Masters (CMM, 2023) and Ravnica: Clue Edition (CLU, 2024), confirming its legs as a sacrifice-payoff anchor in Commander. `[Scryfall prints; Gatherer: Jason A. Engle]`
+- **Mechanical reputation** — The trigger fires on any permanent sacrifice, not just creatures, giving the card synergy with artifact, enchantment, and token outlets that narrower payoffs miss. MTGDecks.net documents at least 10 combo lines involving Havoc Jester, including Treasure-token + Arcane Adaptation loops producing infinite damage. EDHREC rank: 13,414 — moderate Commander adoption, steady sacrifice-payoff inclusion, not a format staple. `[Scryfall EDHREC rank field; MTGDecks.net: Havoc Jester combos]`
+
+### Related cards
+- Mayhem Devil (War of the Spark) — functionally analogous Rakdos devil that pings on any player's sacrifice; the most common comparison in sacrifice-engine Commander lists
+- Rakdos, the Showstopper (Ravnica Allegiance) — demon parun of the Cult; top of the flavor hierarchy Havoc Jester sits within
+- Judith, the Scourge Diva (Ravnica Allegiance) — Rakdos aristocrats commander; common co-pilot with Havoc Jester in sacrifice-payoff builds
+- Blood Artist (Avacyn Restored) — genre-defining drain-on-death effect; Havoc Jester is the damage-ping cousin
+

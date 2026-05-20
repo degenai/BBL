@@ -76,3 +76,16 @@ A diminutive red-skinned devil hunches in near-total darkness, its body lit by a
 **Iconography:** fangs, glowing-eyes
 **Genre cues:** fantasy, horror, gothic
 
+## Trivia
+
+- **Set lore** — Hobblefiend is typed Creature — Devil, slotting into MTG's design-recognized devil tribe: small chaotic fiends that are distinct from demons in both scale and function. Devils in the Rakdos Cult hierarchy (the tribe's primary Ravnica home) are the anarchic entertainer-tier below the founding demons. This M21 print brings the type into a Core Set context stripped of Ravnica setting, presenting the devil as pure horror-lurker. `[Scryfall type line; MTG Wiki: Devil, mtg.wiki]`
+- **Flavor text** — "Bedbugs aren't the only things you need to worry about biting you at night." No speaker attributed. The text positions Hobblefiend as a domestic-dark predator — something in the room with you, not an invader from outside. `[Scryfall]`
+- **Design** — First-print M21 common with no subsequent reprints as of 2026 [Scryfall prints]. Illustrated by Nicholas Gregory, who holds 127+ MTG credits in Gatherer, with a portfolio spanning the intimate-horror register (Hobblefiend, Plague Engineer) up to epic-scale creatures (Elder Gargaroth, also M21). Gregory sells original prints through Cosmic Daydream Studio on INPRNT. `[Gatherer: Nicholas Gregory; artofmtg.com/artist/nicholas-gregory]`
+- **Mechanical reputation** — Pauper-legal (confirmed Scryfall legalities) and relevant in that format's sacrifice-aggro builds: a two-mana self-growing trample threat that eats expendable tokens and creatures for counters. EDHREC rank: 15,438 — low Commander adoption; its ceiling is Pauper and limited, not Commander tables. `[Scryfall legalities; Scryfall EDHREC rank field]`
+
+### Related cards
+- Goblin Arsonist (Magic 2012) — devil-tribe design comp; small aggressive devil with sacrifice payoff
+- Elder Gargaroth (Core Set 2021) — same artist (Nicholas Gregory), same set; shows Gregory's full range from horror-intimate to epic-scale in a single release
+- Carrion Feeder (Scourge) — zero-cost Pauper sacrifice sink that Hobblefiend competes with in the archetype
+- Judith, the Scourge Diva (Ravnica Allegiance) — Rakdos devil-tribal commander that Hobblefiend slots into as sacrifice-synergy fodder
+
