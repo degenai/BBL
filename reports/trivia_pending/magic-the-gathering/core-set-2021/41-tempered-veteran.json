@@ -1,0 +1,41 @@
+{
+  "card_name": "Tempered Veteran",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "41",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tempered Veteran is an uncommon from Core Set 2021 (M21, released 2020-07-03) and functions as a signpost uncommon for white's +1/+1 counters archetype in limited. Its Wizards preview article appeared under the title 'Signpost Selesnya 2020,' confirming the design intent to telegraph the white-green counters draft archetype.",
+      "sources": ["Scryfall: preview source_uri (magic.wizards.com/en/articles/archive/card-preview/signpost-selesnya-2020-06-11)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 1/2 Human Knight for 1W with two activated counter abilities — cheap conditional ({W},{T} for a creature with an existing counter) and expensive unrestricted ({4}{W}{W},{T} for any creature). In limited pairs with Basri's Solidarity and Basri's Acolyte. EDHREC rank: 22,106 — minimal Commander uptake; primarily a draft-environment card.",
+      "sources": ["Scryfall", "Card Kingdom Blog: Core 2021 Draft Guide (via WebSearch)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'I've been carrying a sword since before you were born. I wouldn't give up my oath for all the peace and comfort in the world.' — Speaker is the unnamed knight depicted on the card. No official Wizards source identifies this figure as a named lore character. The text frames her as someone who chose oath over comfort across a lifetime.",
+      "sources": ["Scryfall: flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Izzy Medrano (credited as Izzy) has over 200 MTG illustrations across cards, promo art, marketing, and comics. His career includes work on God of War, Starhawk, and Dungeons & Dragons. Tempered Veteran is one of many knightly/warrior-type figures Izzy has rendered for Wizards.",
+      "sources": ["izzymedrano.com (via WebSearch)", "Scryfall: artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Basri's Acolyte", "set": "Core Set 2021", "note": "White counter-matters creature; Tempered Veteran's primary limited partner"},
+    {"name": "Basri's Solidarity", "set": "Core Set 2021", "note": "Mass-counter spell in the same M21 white counters package"},
+    {"name": "Conclave Mentor", "set": "Core Set 2021", "note": "Green-white counter-doubling creature from M21; same draft synergy axis"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

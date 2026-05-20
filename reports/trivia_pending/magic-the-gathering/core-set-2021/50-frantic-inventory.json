@@ -1,0 +1,47 @@
+{
+  "card_name": "Frantic Inventory",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "50",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Frantic Inventory is an original card first printed in Core Set 2021 (released July 3, 2020) — not a reprint. It was previewed on June 10, 2020 via Trusted Reviews. Its self-referential draw mechanic (drawing more cards for each copy in the graveyard) places it in the lineage of cards like Accumulated Knowledge and Think Twice that reward running multiples. [Scryfall; Scryfall preview field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Frantic Inventory's Pauper penny_rank of 600 (Scryfall field) is the highest of this five-card batch — indicating it is one of the most-played cards in budget formats that permit penny-priced cards. It is a confirmed staple in Pauper Izzet Faeries and Izzet Skred archetypes, where running four copies means the fourth Frantic Inventory in a turn draws four cards for {1}{U}. EDHREC rank 28,775 reflects low Commander uptake (it underperforms in singleton formats by design). [Scryfall; cardsrealm.com Izzet Faeries deck list via WebSearch]",
+      "sources": ["Scryfall", "cardsrealm.com Izzet Faeries deck list via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Another village, another angry mob. Why do I even bother unpacking?\" — No speaker attributed. The flavor text establishes the depicted wizard as an itinerant fugitive scholar — someone perpetually expelled and perpetually restarting, hoarding knowledge across repeated exiles. The 'unpacking' gag mirrors the card's mechanic: rummaging through accumulated discards (graveyard copies) for more resources. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Aaron Miller illustrated Frantic Inventory. Miller is a regular MTG contributor whose work spans multiple sets; his Frantic Inventory composition — cool blue underlighting from below, manic-eyed wizard, cluttered props — leans into comedic character illustration rather than epic fantasy, a register that aligns with the card's joke flavor text. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment (MTGArena Zone card page, Izzet Faeries archetype analysis on cardsrealm.com): Frantic Inventory is considered a sleeper common that reveals its power only in multiples — single-copy draw in Commander is unremarkable, but the Pauper four-of configuration turns it into a lopsided value engine. The card's comedic flavor has made it a minor community favorite for the 'wizard-on-the-run' archetype that shows up throughout blue's flavor history. [MTGArena Zone card page; cardsrealm.com — sentiment]",
+      "sources": ["MTGArena Zone card page via WebSearch snippet", "cardsrealm.com via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Accumulated Knowledge", "set": "Nemesis", "note": "Functional predecessor: also draws more cards per copy in graveyard; Pauper Izzet lists sometimes run both or choose between them"},
+    {"name": "Think Twice", "set": "Time Spiral", "note": "Blue instant card-draw with flashback; shares design space as 'better with multiple copies in graveyard' draw spell"},
+    {"name": "Mystic Sanctuary", "set": "Throne of Eldraine", "note": "Island subtype land that recurs instants/sorceries; community notes Frantic Inventory + Mystic Sanctuary as a recurring-draw engine in Pauper"},
+    {"name": "Brainstorm", "set": "Multiple", "note": "Blue staple card-draw; the reference point against which Frantic Inventory's ceiling and floor are measured in format discussions"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "card_name": "Cancel",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "46",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cancel was introduced in Time Spiral (2006) as a deliberate design-team replacement for Counterspell, which R&D had decided was too efficient at two mana to reprint in the modern card pool. Cancel codified {1}{U}{U} as the new baseline for unconditional counter magic. The M21 printing is its 23rd distinct printing, spanning Foundations (2024) back to its debut in Time Spiral (2006). [Scryfall prints search; ctrlmagic.wordpress.com 'The Ups and Downs of the Three Mana Counterspell']",
+      "sources": ["Scryfall prints search", "ctrlmagic.wordpress.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cancel carries an EDHREC rank of 2,011 — the highest-ranked card in this batch, placing it well within the top tier of commonly-played blue commons. Despite being widely considered a 'bad' counterspell relative to efficient alternatives (Mana Leak, Disdainful Stroke, Counterspell itself), it appears in a large volume of Commander decks simply as a budget unconditional counter. It is legal in every non-oldschool, non-restricted format including Standard as of the M21-era, and remains in Standard legality via the Foundations (2024) reprint. [Scryfall; EDHREC rank from Scryfall API]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Mathias Kollros illustrated this M21 printing of Cancel. Kollros is a prolific MTG illustrator with over 160 credited card illustrations; his portfolio includes high-profile Kaladesh Inventions (Masterpiece Series) cards. The M21 Cancel art — a solitary robed caster generating a radial anti-spell shockwave — is one of several distinct Cancel illustrations across the card's 23 printings, each by a different artist. [Scryfall; Gatherer artist page]",
+      "sources": ["Scryfall", "Gatherer"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"I decide what stands in my way.\" — No speaker attributed. The phrasing captures the essence of blue's controlling philosophy: the caster as gatekeeper, not as aggressor. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on MTGSalvation forums (archived thread 'JUST PRINT THE DAMN COUNTERSPELL ALREADY!!'): Cancel has long been a flashpoint in the community debate over Counterspell's absence from Standard and Modern. Players broadly regard Cancel as a necessary concession but an unsatisfying one — too expensive to run in competitive, too available to draft around. The consensus captured across deckbox.org and ctrlmagic.wordpress.com is that Cancel exists as a safety valve, not a design triumph. [MTGSalvation forum thread title via WebSearch snippet; ctrlmagic.wordpress.com — sentiment]",
+      "sources": ["MTGSalvation forum thread via WebSearch snippet", "ctrlmagic.wordpress.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Counterspell", "set": "Multiple", "note": "The two-mana original that Cancel replaced; the design-level predecessor"},
+    {"name": "Dissolve", "set": "Theros", "note": "The most commonly cited 'strictly better Cancel' — adds scry 1 for the same cost"},
+    {"name": "Disallow", "set": "Aether Revolt", "note": "Three-mana counter that also hits activated/triggered abilities; community frequently recommends over Cancel"},
+    {"name": "Negate", "set": "Multiple", "note": "Two-mana situational counter often preferred over Cancel in sideboards for non-creature heavy metas"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

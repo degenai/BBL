@@ -1,0 +1,45 @@
+{
+  "card_name": "Forest (272)",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "272",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Artist Volkan Baǵa is a traditional oil painter based in Würzburg, Germany who has contributed to Magic since 2005. He studied under master painter Donato Giancola, according to a Hipsters of the Coast article on hand-artistry in MTG (June 2018). Baǵa is considered one of the premier traditional-media MTG artists — his Sisay, Weatherlight Captain sold for $20,000 at auction in 2022 [Hipsters of the Coast — 'Powerstone Shard and Hand Artistry,' 2018; Hipsters of the Coast — 'Volkan Baga's New Sisay, Weatherlight Captain Sells For $20,000,' 2022].",
+      "sources": [
+        "Hipsters of the Coast — 'Powerstone Shard and Hand Artistry' (2018-06)",
+        "Hipsters of the Coast — 'Volkan Baga's New Sisay, Weatherlight Captain Sells For $20,000' (2022-04)"
+      ]
+    },
+    {
+      "category": "design",
+      "text": "This Forest illustration by Volkan Baǵa was originally created in traditional media for Magic 2012 (M12, 2011) and was reprinted in Core Set 2021 (M21, 2020) as no. 272. The same art appeared in both sets without modification. According to Hipsters of the Coast's M21 preview, Baǵa's Forest brings a 'storybook feeling' to the M21 basic land lineup — an imaginative shift away from purely realistic landscape depictions [Hipsters of the Coast — 'Core Set 2021 Preview: Basic Lands,' 2020-06-15; Scryfall prints search].",
+      "sources": [
+        "Hipsters of the Coast — 'Core Set 2021 Preview: Basic Lands' (2020-06-15)",
+        "Scryfall"
+      ]
+    },
+    {
+      "category": "set-lore",
+      "text": "Both basic land reprints in M21 by established artists (including Baǵa's Forest and John Avon's Plains) were previewed together by Hipsters of the Coast on June 15, 2020. This land preview was one of the first M21 reveal events, preceding the full set release by over two weeks [Scryfall preview.source field; Hipsters of the Coast article].",
+      "sources": [
+        "Scryfall preview.source field",
+        "Hipsters of the Coast — 'Core Set 2021 Preview: Basic Lands' (2020-06-15)"
+      ]
+    }
+  ],
+  "related_cards": [
+    {"name": "Forest (M12)", "set": "Magic 2012", "note": "Original printing of this Volkan Baǵa illustration"},
+    {"name": "Realms Uncharted", "set": "Rise of the Eldrazi", "note": "Volkan Baǵa art that sold for $3,600 at auction — artist profile"},
+    {"name": "Sisay, Weatherlight Captain", "set": "Modern Horizons", "note": "Volkan Baǵa oil painting that sold for $20,000 in 2022 — artist's highest-profile MTG sale"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

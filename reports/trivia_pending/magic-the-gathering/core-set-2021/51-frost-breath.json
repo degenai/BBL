@@ -1,0 +1,47 @@
+{
+  "card_name": "Frost Breath",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "51",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 (M21) was released July 3, 2020, and is centered on Teferi as its featured planeswalker. Each of the five monocolor planeswalkers in the set anchors a vertical cycle of thematic cards. Frost Breath sits in the blue contingent of M21's common slot as a tempo instant [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Frost Breath was first printed in Magic 2012 (M12, 2011) as card no. 54, reprinted in Magic 2014 (M14, 2013) as card no. 56, and reprinted again in Core Set 2021 as card no. 51 — all three printings carry the same Mike Bierek illustration [Scryfall prints search].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Mike Bierek is a digital concept artist whose MTG portfolio includes high-profile iconic pieces: the original Stoneforge Mystic art, Sol Ring, Mana Drain, Breeding Pool, and Fireblast, among 97+ total cards for Wizards of the Coast. He has worked in AAA game development (Saints Row at THQ; Assassin's Creed IV: Black Flag at Ubisoft Montreal) alongside his card-game commissions [MTGSignatures Wikia, via WebSearch].",
+      "sources": ["MTGSignatures Wikia (via WebSearch)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"I'll make ice chimes of your bones.\" — Speaker unnamed; the line is delivered as the dragon exhales its freezing breath [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Frost Breath has an EDHREC rank of 17,037 — middling for a blue common instant. Its effect (tap two creatures, skip their next untap) is a clean two-for-one tempo swing in Limited but sees no meaningful Commander or Pauper play; more efficient tap-and-lock effects (Icy Manipulator, Gigadrowse) crowd it out at higher power levels [Scryfall EDHREC rank field].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Icy Manipulator", "set": "various", "note": "Repeatable tap effect that largely supersedes Frost Breath in Constructed"},
+    {"name": "Stoneforge Mystic", "set": "Worldwake", "note": "Mike Bierek's most recognized MTG commission — same artist"},
+    {"name": "Gigadrowse", "set": "Dissension", "note": "Mass tap effect that competes with Frost Breath in Pauper blue-tempo lists"},
+    {"name": "Frost Lynx", "set": "Magic Origins", "note": "Creature version of the same freeze-on-entry effect, thematically adjacent"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -76,3 +76,17 @@ A horned blue dragon, body partially turned, opens its jaws and exhales a billow
 **Creatures:** dragon
 **Genre cues:** fantasy, painterly
 
+## Trivia
+
+- **Set context** — Core Set 2021 (M21, released July 3, 2020) is centered on Teferi as its featured planeswalker, with five monocolor planeswalkers each heading a vertical cycle of thematic cards. Frost Breath occupies the blue common tempo slot in that design framework `[Scryfall]`.
+- **Reprint history** — Frost Breath was first printed in Magic 2012 (M12, 2011, no. 54), reprinted in Magic 2014 (M14, 2013, no. 56), and reprinted again in M21 as no. 51. All three printings carry the same Mike Bierek illustration — the art has never been swapped across its three appearances `[Scryfall prints search]`.
+- **Design** — Artist Mike Bierek is a digital concept artist whose MTG portfolio includes Stoneforge Mystic, Sol Ring, Mana Drain, Breeding Pool, and Fireblast, among 97+ cards for Wizards of the Coast. His background spans AAA game development: Saints Row (THQ) and Assassin's Creed IV: Black Flag (Ubisoft Montreal) `[MTGSignatures Wikia, via WebSearch]`.
+- **Flavor text** — `"I'll make ice chimes of your bones."` — speaker unnamed; the line reads as the dragon's own voice as it exhales `[Scryfall]`.
+- **Mechanical reputation** — EDHREC rank 17,037. The tap-two-creatures-skip-untap effect is a strong Limited tempo swing but is crowded out in higher-power formats by repeatable tap effects such as Icy Manipulator and the mass-tap of Gigadrowse `[Scryfall EDHREC rank field]`.
+
+### Related cards
+- Stoneforge Mystic (Worldwake) — Mike Bierek's most recognized MTG commission; same artist
+- Icy Manipulator (various) — repeatable tap effect that largely supersedes Frost Breath in Constructed
+- Gigadrowse (Dissension) — mass-tap effect that competes in Pauper blue-tempo lists
+- Frost Lynx (Magic Origins) — creature version of the same freeze-on-entry effect, thematically parallel
+

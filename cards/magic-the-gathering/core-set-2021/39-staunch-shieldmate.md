@@ -77,3 +77,15 @@ A grinning bearded dwarf in a leather-and-cloth tunic leans against a wooden tab
 **Iconography:** dragon-head, heraldic-shield
 **Genre cues:** fantasy, high-fantasy, tavern-fantasy
 
+## Trivia
+
+- **Set context** — Staunch Shieldmate is a common from Core Set 2021 (M21, released 2020-07-03), a standalone set with no associated plane or story spotlight. Core sets in the post-2019 era served as beginner-entry products with simplified themes; M21 was the last in this run (Core Set 2022 was not produced). Staunch Shieldmate has no named plane affiliation — it is a generic dwarf soldier of no specified world. `[Scryfall: set_name, set_type "core"]`
+- **Mechanical context** — A 1/3 Dwarf Soldier for one white mana with no abilities. Its value is entirely in stat distribution: 1/3 is an unusually defensive profile for a one-drop, offering three toughness as a blocker at minimal investment. No oracle text means no rules complexity. Legal in Pauper and Pauper Commander. EDHREC rank: 24,757 — among the lowest in the batch, consistent with a vanilla creature that sees negligible Commander play. `[Scryfall]`
+- **Flavor text** — `"Gilded with gold from a dragon's trove, it is! And etched with the image of the dragon I slew to take it."` — The speaker is the unnamed dwarf depicted on the card, mid-boast in what reads as a tavern story. The shield visible in the art — gold, dragon-head engraved — matches the flavor text precisely, an unusually tight art-flavor correspondence for a common. `[Scryfall: flavor_text]`
+- **Artist** — Bartłomiej Gaweł is a Polish illustrator with approximately 9 credited MTG cards (per Gatherer), making Staunch Shieldmate one of his early Wizards commissions. His other notable MTG work includes cards from the Lord of the Rings: Tales of Middle-earth set. `[Gatherer: artist search for Bartłomiej Gaweł, via WebSearch]` `[Scryfall: artist field]`
+
+### Related cards
+- Dwarven Forge-Chanter (Lord of the Rings: Tales of Middle-earth) — another Bartłomiej Gaweł MTG illustration; same artist cohort
+- Shields of Velis Vel (Lorwyn) — shield-as-tribal-artifact thematic parallel
+- Gimli, Mournful Avenger (Lord of the Rings: Tales of Middle-earth) — Bartłomiej Gaweł dwarf illustration in the same artist body of work
+

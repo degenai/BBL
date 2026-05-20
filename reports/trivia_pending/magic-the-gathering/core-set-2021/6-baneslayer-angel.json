@@ -1,0 +1,47 @@
+{
+  "card_name": "Baneslayer Angel",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "6",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Baneslayer Angel was first printed in Magic 2010 (M10, July 17, 2009) and is reprinted in Core Set 2021. Its M10 debut made it the defining chase mythic of that era: at 5/5 flying, first strike, lifelink, and protection from Demons and Dragons for {3}{W}{W}, it dominated Standard and reached a secondary-market price of approximately $50 as a single — what the MTG finance community at the time called an unprecedented price for a Standard-legal mythic from a core set that was opened in relatively small volume. [Scryfall; CoolStuffInc article 'Baneslayer Angel: The Perfect Storm'; Quiet Speculation Dec. 2009]",
+      "sources": ["Scryfall", "CoolStuffInc 'Baneslayer Angel: The Perfect Storm' via WebSearch", "Quiet Speculation Dec 2009 via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The M21 printing is the card's eighth overall, including a 2015 appearance in From the Vault: Angels. All printings use Greg Staples's original artwork. According to Cook and Becker's fine-art print catalogue, the Baneslayer Angel art was originally painted for Serra Angel — Wizards considered it too ethereal for Serra's established look, so Staples repainted Serra Angel and the original composition became Baneslayer. The original Baneslayer Angel oil painting was sold by Star City Games President Pete Hoefling in December 2020 for $50,000, selling within ten minutes of listing. [Cook and Becker gallery listing via WebSearch; Hipsters of the Coast, 'SCG President Pete Hoefling Sells $160k in Original MTG Angel Paintings,' December 2020]",
+      "sources": ["Cook and Becker gallery via WebSearch", "Hipsters of the Coast December 2020"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Some angels protect the meek and innocent. Others seek out and smite evil wherever it lurks.\" — No attributed speaker. The flavor text encodes the card's design identity directly: Baneslayer is an aggressive, hunter-archetype angel rather than a guardian — reinforced by the protection from Demons and Dragons keywords that give her specific prey. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Baneslayer Angel holds an EDHREC rank of 4,768, reflecting sustained Commander adoption as a white finisher. In M10 Standard (2009-2010), the card was considered among the most powerful creatures in the format; it later fell from competitive grace as threats scaled and removal improved, but remains a popular casual and lifegain-combo target. It is not Pauper-legal (mythic). Penny_rank 2,409 reflects moderate budget-deck interest. Legal in Pioneer, Modern, Legacy, Vintage, and Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment (Pojo.com 'MTG Throwback Thursday' on Baneslayer Angel; r/magicTCG historical discussion): Baneslayer is widely cited as the card that proved core-set mythics could be financially explosive — its $50 peak in 2009 preceded Tarmogoyf's similar spike and established the template for what the community now calls a 'chase mythic.' Greg Staples produced a signed lithograph 'Angel Series' featuring Baneslayer Angel through Star City Games, and the art is sold as high-end reproductions through Cook and Becker and INPRNT — indicating collector-market recognition beyond gameplay utility. [Pojo.com via WebSearch; Cook and Becker/INPRNT via WebSearch; Star City Games lithograph listing via WebSearch — sentiment/art-market]",
+      "sources": ["Pojo.com via WebSearch", "Cook and Becker via WebSearch", "Star City Games lithograph via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Serra Angel", "set": "Multiple", "note": "The card whose art slot Baneslayer Angel's painting originally filled; a design-history predecessor"},
+    {"name": "Lyra Dawnbringer", "set": "Dominaria", "note": "5/5 flying first-strike lifelink angel; direct functional comparison to Baneslayer in Dominaria Standard; community debated which was better"},
+    {"name": "Gisela, the Broken Blade", "set": "Eldritch Moon", "note": "White 4/3 flying first-strike lifelink angel mythic; frequently cited alongside Baneslayer in 'best white angels' lists"},
+    {"name": "Avacyn, Angel of Hope", "set": "Avacyn Restored", "note": "The other defining white angel mythic in the post-Baneslayer era; Commander's most-played white angel"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

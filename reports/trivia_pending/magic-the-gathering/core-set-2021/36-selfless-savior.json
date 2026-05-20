@@ -1,0 +1,42 @@
+{
+  "card_name": "Selfless Savior",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "36",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Selfless Savior was printed in Core Set 2021 (M21, released 2020-07-03) as a native Dog-type creature — part of the same set-wide initiative retiring the Hound subtype via retroactive errata. Mark Rosewater championed this rename for over 20 years; set designer Adam Prosak implemented it in M21 without internal resistance.",
+      "sources": ["Wizards of the Coast: But Wait There's Core (Making Magic, 2020-06-15)", "Scryfall: type_line"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Selfless Savior is a 1-mana 1/1 Dog that sacrifices to grant another creature indestructible until end of turn. EDHREC rank: 2,989. Appears in 87% of Rin and Seri, Inseparable decklists and 100% of Isamaru, Hound of Konda builds per EDHREC aggregate. Also sees play in Pioneer and Modern creature strategies as single-target board-wipe protection.",
+      "sources": ["Scryfall", "EDHREC: Dogs tag page (via WebSearch)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'She raised him from an orphaned pup and gave him a life of love. With his last act, he thanked her.' The unnamed guardian figure is not identified in any official Wizards lore material. The text directly mirrors the sacrifice mechanic as canine gratitude.",
+      "sources": ["Scryfall: flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Ralph Horsley is a veteran MTG illustrator with credits going back to Mirrodin-era sets. His rendering of Selfless Savior emphasizes forward-facing emotional expressiveness — perked ears, alert posture — appropriate to a card mechanically defined by loyalty.",
+      "sources": ["Scryfall: artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rambunctious Mutt", "set": "Core Set 2021", "note": "Fellow M21 native Dog-type card; same Hound-to-Dog debut context"},
+    {"name": "Pack Leader", "set": "Core Set 2021", "note": "M21 rare dog lord; tribal commander anchor for Dog lists"},
+    {"name": "Rin and Seri, Inseparable", "set": "Core Set 2021", "note": "87% inclusion rate decklist overlap per EDHREC"},
+    {"name": "Isamaru, Hound of Konda", "set": "Champions of Kamigawa", "note": "Dog commander with 100% Selfless Savior inclusion rate"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

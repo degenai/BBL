@@ -1,0 +1,42 @@
+{
+  "card_name": "Capture Sphere",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "47",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Capture Sphere was first printed in Guilds of Ravnica (GRN, released October 5, 2018) as a blue common Aura in the Dimir/Azorius space, then reprinted in Ikoria: Lair of Behemoths (April 2020), Core Set 2021 (July 2020), Double Masters 2022 (July 2022), and Foundations Jumpstart (November 2024). It has appeared in six distinct sets across six years. [Scryfall prints search]",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Mark Behm illustrated the Guilds of Ravnica original and all subsequent core-set and supplemental printings. The Ikoria: Lair of Behemoths printing by Jakub Kasper is the only version with a different artist. Capture Sphere has no flavor text in any printing — the card relies entirely on its visual and mechanical concept to carry the imprisonment theme. [Scryfall prints search]",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Capture Sphere functions as an instant-speed (flash) tap-lock Aura: the enchanted creature enters tapped immediately and never untaps. At {3}{U} it is costed similarly to other blue pacifism effects but the flash clause makes it a combat trick, allowing a defensive kill on an attacking creature. EDHREC rank 18,084 reflects light Commander play — it competes with hard removal that blue doesn't often have and soft taps that are usually cheaper. Legal in Pauper Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on Tappedout.net and cardsrealm.com: Capture Sphere is regarded as a solid Limited common — its flash turns it into an ambush tool — but underwhelming in Constructed where Aura-removal vulnerability makes it a poor investment of four mana. Players in Pauper prefer hard exile or bounce over tap-lock Auras. [cardsrealm.com card page via WebSearch snippet — sentiment]",
+      "sources": ["cardsrealm.com card page via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Imprisoned in the Moon", "set": "Eldritch Moon", "note": "Blue enchantment that fully neutralizes a permanent; thematic kin as blue 'imprisonment' spell"},
+    {"name": "Claustrophobia", "set": "Multiple", "note": "Older blue tap-lock Aura at {2}{U}; Capture Sphere's functional predecessor"},
+    {"name": "Dungeon Geists", "set": "Dark Ascension", "note": "Blue creature that taps a target on entry and keeps it tapped; same effect on a creature body"},
+    {"name": "Stasis Snare", "set": "Battle for Zendikar", "note": "Flash exile Aura in white; frequently cited as upgrade over blue tap-lock Auras in Constructed"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

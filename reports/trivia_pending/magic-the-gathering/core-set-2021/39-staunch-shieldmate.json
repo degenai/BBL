@@ -1,0 +1,41 @@
+{
+  "card_name": "Staunch Shieldmate",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "39",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 (M21, released 2020-07-03) was the last entry in the post-2019 standalone core set run (Core Set 2022 was not produced). Core sets served as beginner-entry products with no specific plane affiliation. Staunch Shieldmate is a generic dwarf soldier of no named world.",
+      "sources": ["Scryfall: set_name, set_type core"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A vanilla 1/3 Dwarf Soldier for one white mana — no abilities, all stats. The 1/3 distribution is unusually defensive for a one-drop. Legal in Pauper and Pauper Commander. EDHREC rank: 24,757 — negligible Commander uptake consistent with a no-text common.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Gilded with gold from a dragon's trove, it is! And etched with the image of the dragon I slew to take it.' — The unnamed dwarf speaker boasts about the shield visible in the card art, which is depicted as gold with a dragon-head engraving — an unusually tight art-flavor correspondence for a common card.",
+      "sources": ["Scryfall: flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Bartłomiej Gaweł is a Polish illustrator with approximately 9 credited MTG cards (Gatherer), making Staunch Shieldmate one of his early Wizards commissions. He later contributed to the Lord of the Rings: Tales of Middle-earth set.",
+      "sources": ["Gatherer: artist search for Bartłomiej Gaweł (via WebSearch)", "Scryfall: artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dwarven Forge-Chanter", "set": "Lord of the Rings: Tales of Middle-earth", "note": "Another Bartłomiej Gaweł MTG illustration; artist cohort"},
+    {"name": "Gimli, Mournful Avenger", "set": "Lord of the Rings: Tales of Middle-earth", "note": "Bartłomiej Gaweł dwarf illustration in the same artist body of work"},
+    {"name": "Shields of Velis Vel", "set": "Lorwyn", "note": "Shield-as-tribal-artifact thematic parallel"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

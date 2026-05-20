@@ -1,0 +1,47 @@
+{
+  "card_name": "Keen Glidemaster",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "54",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 (released July 3, 2020) centers on the planeswalker Teferi and reintroduced phasing to Standard for the first time since the Weatherlight era — a 23-year gap. Keen Glidemaster is a common creature in the set's blue contingent, fitting the air-superiority theme that runs through M21's blue commons [Scryfall; Wizards product overview article].",
+      "sources": ["Scryfall", "magic.wizards.com (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Keen Glidemaster is a first printing — the card has appeared in no other set as of the Scryfall prints database [Scryfall prints_search_uri].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Caroline Gariba is a freelance digital illustrator based in Curitiba, Brazil, working with Wizards of the Coast and Blizzard Entertainment. No Hipsters of the Coast artist-spotlight coverage was found for Gariba as of May 2026 [WebSearch: Hipsters of the Coast site search; carolinegariba.com].",
+      "sources": ["carolinegariba.com (via WebSearch)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Fear is a rational response, but waiting won't make it any easier. Just jump!\" — speaker unnamed; the line reads as the Glidemaster's own instruction or ethos, delivered mid-leap [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 28,566 — one of the lowest-ranked cards in the M21 blue commons cohort. The activated flying-grant ability costs {2}{U} per use, making it inefficient in Commander; the 2/1 body for {1}{U} with no intrinsic evasion gives it nothing to offer outside Limited contexts where granting flying to a large attacker can close games [Scryfall EDHREC rank field].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Wingcrafter", "set": "Avacyn Restored", "note": "Similar flying-grant creature at lower mana cost, predecessor in the design space"},
+    {"name": "Zephyr Sprite", "set": "Core Set 2021", "note": "Same set, same blue common flying-creature cluster"},
+    {"name": "Inspired Sphinx", "set": "Core Set 2021", "note": "M21 blue rare that rewards flying-matters payoffs Glidemaster can enable"},
+    {"name": "Mahamoti Djinn", "set": "various", "note": "Classic M21 reprint representing M21 blue's air-power theme"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

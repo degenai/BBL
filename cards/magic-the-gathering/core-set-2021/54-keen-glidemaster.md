@@ -77,3 +77,17 @@ A dark-haired figure in light leather and cloth garb launches forward off a high
 **Iconography:** wings, leap-of-faith
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** — Core Set 2021 (M21, released July 3, 2020) centers on Teferi and reintroduced phasing to Standard for the first time since the Weatherlight era — a 23-year gap. Keen Glidemaster sits in the set's blue common air-superiority cluster alongside creatures like Zephyr Sprite `[Scryfall; magic.wizards.com product overview, via WebSearch]`.
+- **First printing** — Keen Glidemaster has appeared in no other set; this M21 printing is its only appearance in the Scryfall database `[Scryfall]`.
+- **Design** — Artist Caroline Gariba is a freelance digital illustrator based in Curitiba, Brazil, working with Wizards of the Coast and Blizzard Entertainment. No Hipsters of the Coast artist-spotlight coverage was found for Gariba as of May 2026 `[carolinegariba.com, via WebSearch]`.
+- **Flavor text** — `"Fear is a rational response, but waiting won't make it any easier. Just jump!"` — speaker unnamed; reads as the Glidemaster's own creed, delivered mid-leap from a mountain ridge `[Scryfall]`.
+- **Mechanical reputation** — EDHREC rank 28,566 — among the lowest-ranked blue commons in M21. The activated flying-grant costs {2}{U} per use, pricing it out of Commander relevance. In Limited, granting flying to a large ground threat can be decisive, but the 2/1 base body offers no intrinsic evasion `[Scryfall EDHREC rank field]`.
+
+### Related cards
+- Wingcrafter (Avacyn Restored) — earlier flying-grant creature at lower mana cost; predecessor design
+- Zephyr Sprite (Core Set 2021) — same set, same blue common flying cluster
+- Inspired Sphinx (Core Set 2021) — M21 blue rare that rewards the flying-matters payoffs Glidemaster enables
+- Mahamoti Djinn (various) — classic M21 reprint representing the set's blue air-power theme
+

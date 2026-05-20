@@ -75,3 +75,15 @@ A big shaggy white dog rears up on its hind legs at the center of a cluttered, w
 **Creatures:** dog
 **Genre cues:** fantasy, domestic
 
+## Trivia
+
+- **Set context / Hound-to-Dog rename** — Core Set 2021 (M21, released 2020-07-03) is the set where Wizards officially retired the "Hound" creature subtype in favor of "Dog," retroactively errataing every previously printed Hound card. Rambunctious Mutt was printed with the new "Dog" type from day one. Mark Rosewater has described the rename as "a fight I had for 20-plus years only to have someone else win it for me without any resistance" — the change was finally pushed through by set designer Adam Prosak without significant internal pushback. `[Wizards of the Coast: "But Wait, There's Core" — Making Magic, 2020-06-15]` `[Scryfall: type_line "Creature — Dog"]`
+- **Dog theme in M21** — The set includes a deliberate small dog tribal theme: Pack Leader (a rare dog lord), six canine creatures across the set including Rambunctious Mutt, and the buy-a-box promo Rin and Seri, Inseparable (a legendary Dog Cat that rewards casting both types). The art team was directed to illustrate "a variety of different kinds of dogs, many on the cuter side." `[Wizards of the Coast: "But Wait, There's Core" — Making Magic, 2020-06-15]`
+- **Mechanical context** — Rambunctious Mutt is a 3/4 for five mana (3WW) with an enters-the-battlefield Disenchant stapled to the body — destroy target artifact or enchantment on entry. The body and removal are both on the weaker end for the mana cost in competitive formats, but the card is legal in Pauper and Pauper Commander, where artifact/enchantment removal on a creature body is genuinely useful. EDHREC rank: 11,734 (limited Commander usage). `[Scryfall]` `[EDHREC, via Scryfall related_uris]`
+- **Flavor text** — `"Emphatic words with powerful gestures. Clearly this was playtime."` — The unnamed speaker is presumably someone watching the dog destroy something precious, framing the carnage as the dog just being playful. The absurdist tone matches the comedic art. `[Scryfall: flavor_text]`
+
+### Related cards
+- Pack Leader (M21, no. 28) — rare dog lord from the same set; the tribal anchor for the M21 dog theme
+- Rin and Seri, Inseparable (M21, no. 278) — buy-a-box legendary that united the Dog and Cat types; the capstone of M21's dog/cat narrative
+- Isamaru, Hound of Konda (Champions of Kamigawa) — oldest named Dog commander; received the Hound-to-Dog errata retroactively in 2020
+

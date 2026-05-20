@@ -71,3 +71,14 @@ Glowing rings and chains of magical energy encase a humanoid figure, suspending 
 **Iconography:** runes
 **Genre cues:** fantasy, painterly
 
+## Trivia
+
+- **Set context** — Capture Sphere was first printed in Guilds of Ravnica (GRN, October 2018) and has been reprinted in six sets through Foundations Jumpstart (November 2024). The M21 printing is its third appearance. All printings except the Ikoria version (artist: Jakub Kasper) use Mark Behm's original art. `[Scryfall prints search]`
+- **Design** — The card has no flavor text in any printing; the imprisonment theme is carried entirely by the art and mechanics. Mark Behm's glowing-chains-and-runes composition has become the canonical visual for the effect, reused across four of its six printings. `[Scryfall prints search]`
+- **Mechanical reputation** — Flash makes Capture Sphere a combat trick: cast it on an attacking creature to lock it out for the combat and every subsequent turn. At {3}{U} it sits awkwardly between cheaper soft taps and harder exile removal. EDHREC rank 18,084 reflects limited Commander use. Legal in Pauper Commander. `[Scryfall]`
+- **Community resonance** — Community sentiment (Tappedout and cardsrealm.com card page): Capture Sphere is well-regarded in Limited formats where flash and taplock are genuinely disruptive, but considered underpowered in Constructed — the Aura vulnerability (creature gets removed, you lose the enchantment too) and four-mana cost make it a poor fit where bounce or exile is available. `[cardsrealm.com card page via WebSearch snippet — sentiment]`
+
+### Related cards
+- Claustrophobia (Multiple sets) — older blue tap-lock Aura at {2}{U}; Capture Sphere's functional predecessor without flash
+- Imprisoned in the Moon (Eldritch Moon, no. 57) — blue enchantment that fully neutralizes a permanent; thematic kin as blue "imprisonment" spell
+- Dungeon Geists (Dark Ascension, no. 38) — blue creature that taps a target on entry and keeps it tapped; same mechanical effect on a creature

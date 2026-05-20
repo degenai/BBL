@@ -74,3 +74,16 @@ A small, scrappy dog with oversized triangular ears, a tousled brown-and-tan coa
 **Creatures:** dog
 **Genre cues:** fantasy, storybook
 
+## Trivia
+
+- **Set context / Hound-to-Dog rename** — Selfless Savior was printed in Core Set 2021 (M21, released 2020-07-03) as a "Dog" creature — part of the same set-wide initiative that retired the "Hound" subtype across all of Magic's history via retroactive errata. The rename was championed for over two decades by head designer Mark Rosewater and finally implemented by set designer Adam Prosak without internal resistance. Selfless Savior and Rambunctious Mutt are both first-generation native Dog-type cards. `[Wizards of the Coast: "But Wait, There's Core" — Making Magic, 2020-06-15]` `[Scryfall: type_line "Creature — Dog"]`
+- **Mechanical reputation** — Selfless Savior is a standout 1-mana utility piece: a 1/1 Dog that sacrifices to grant indestructible to another creature until end of turn. It functions as an asymmetric Heroic Intervention for one target at the cost of a creature, and sees meaningful play in Pioneer and Modern creature-based strategies as protection from board wipes. EDHREC rank: 2,989 — a top-tier inclusion in Commander, especially in Dog tribal lists where it appears in 87% of Rin and Seri, Inseparable decklists and reaches 100% inclusion in Isamaru, Hound of Konda builds (per EDHREC aggregate). `[Scryfall]` `[EDHREC: Dogs tag page, via WebSearch]`
+- **Flavor text** — `"She raised him from an orphaned pup and gave him a life of love. With his last act, he thanked her."` — The flavor text is one of the most emotionally direct in the set, directly naming the dog as a rescued stray and framing the sacrifice mechanic as an act of canine gratitude. The unnamed "she" is a guardian figure whose identity is not specified in any official Wizards lore material. `[Scryfall: flavor_text]`
+- **Artist** — Ralph Horsley, a veteran fantasy illustrator with extensive MTG credits going back to Mirrodin-era sets. Horsley has illustrated dozens of cards across multiple sets. His rendering of Selfless Savior emphasizes the dog's emotional expressiveness — perked ears and forward-facing posture — appropriate to a card whose entire mechanical identity is loyalty. `[Scryfall: artist field]`
+
+### Related cards
+- Rambunctious Mutt (M21, no. 30) — fellow M21 native Dog-type card; same set, same creature subtype debut
+- Pack Leader (M21, no. 28) — M21 rare dog lord; tribal commander anchor for Dog lists including Selfless Savior
+- Rin and Seri, Inseparable (M21, no. 278) — buy-a-box legendary where Selfless Savior appears in 87% of decklists
+- Isamaru, Hound of Konda (Champions of Kamigawa) — Dog commander where Selfless Savior hits 100% inclusion rate
+

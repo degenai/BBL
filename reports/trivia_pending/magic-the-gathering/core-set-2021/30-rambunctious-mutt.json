@@ -1,0 +1,41 @@
+{
+  "card_name": "Rambunctious Mutt",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "30",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 (M21, released 2020-07-03) is the set where Wizards officially retired the Hound creature subtype in favor of Dog, retroactively errataing every previously printed Hound card. Rambunctious Mutt was printed with the new Dog type from day one. Mark Rosewater described the rename as 'a fight I had for 20-plus years only to have someone else win it for me without any resistance' — pushed through by set designer Adam Prosak.",
+      "sources": ["Wizards of the Coast: But Wait There's Core (Making Magic, 2020-06-15)", "Scryfall: type_line"]
+    },
+    {
+      "category": "set-lore",
+      "text": "M21 includes a deliberate small dog tribal theme: Pack Leader (rare dog lord), six canine creatures, and the buy-a-box promo Rin and Seri, Inseparable. The art team was directed to illustrate a variety of different kinds of dogs, many on the cuter side.",
+      "sources": ["Wizards of the Coast: But Wait There's Core (Making Magic, 2020-06-15)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rambunctious Mutt is a 3/4 for five mana (3WW) with an enters-the-battlefield Disenchant on a body. Legal in Pauper and Pauper Commander. EDHREC rank: 11,734 — limited Commander uptake.",
+      "sources": ["Scryfall", "EDHREC (via Scryfall related_uris)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Emphatic words with powerful gestures. Clearly this was playtime.' — unnamed observer framing the dog's artifact destruction as innocent play.",
+      "sources": ["Scryfall: flavor_text"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pack Leader", "set": "Core Set 2021", "note": "Rare dog lord; the tribal anchor for M21's dog theme"},
+    {"name": "Rin and Seri, Inseparable", "set": "Core Set 2021", "note": "Buy-a-box legendary uniting Dog and Cat types; capstone of M21 dog/cat narrative"},
+    {"name": "Isamaru, Hound of Konda", "set": "Champions of Kamigawa", "note": "Oldest named Dog commander; received Hound-to-Dog errata retroactively in 2020"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -75,3 +75,14 @@ A man with messy white hair and wide manic eyes hunches over a chaotic table of 
 **Objects:** books, scrolls, jars, crates, curios, candle
 **Genre cues:** fantasy, painterly
 
+## Trivia
+
+- **Set context** — Frantic Inventory is an original card first printed in Core Set 2021 (July 3, 2020), previewed June 10 via Trusted Reviews. Its self-referential mechanic — drawing more cards per copy already in the graveyard — places it in the lineage of Accumulated Knowledge and Think Twice, cards that reward running multiples in the same deck. `[Scryfall]`
+- **Flavor text** — "Another village, another angry mob. Why do I even bother unpacking?" No speaker attributed. The itinerant-fugitive-scholar read embedded in the flavor text mirrors the mechanic: rummaging through accumulated discards (graveyard copies) to pull more resources out of the pile. `[Scryfall]`
+- **Mechanical reputation** — Frantic Inventory carries a penny_rank of 600 (Scryfall) — the highest of this five-card M21 batch — indicating outsized budget-format play. In Pauper, running four copies means the fourth cast in a game draws four cards for {1}{U}; the card is a confirmed staple in Pauper Izzet Faeries and Izzet Skred archetypes. EDHREC rank 28,775 reflects low Commander uptake: it underperforms in singleton formats by design. `[Scryfall; cardsrealm.com Izzet Faeries deck list via WebSearch]`
+- **Community resonance** — Community sentiment (MTGArena Zone card page; cardsrealm.com Pauper archetype coverage): Frantic Inventory is a community-recognized sleeper whose power is format- and configuration-dependent. Players frequently describe it as "unplayable Commander filler" and "Pauper engine" in the same breath — a card whose value only unlocks at four copies. The comedic flavor text has given it a small cult following in the "wizard-on-the-run" flavor tradition. `[MTGArena Zone; cardsrealm.com via WebSearch — sentiment]`
+
+### Related cards
+- Accumulated Knowledge (Nemesis, no. 34) — functional predecessor; also draws more per copy in graveyard; Pauper Izzet lists sometimes run both
+- Think Twice (Time Spiral, no. 84) — blue instant with flashback; shares "better with multiple copies" design space
+- Mystic Sanctuary (Throne of Eldraine, no. 247) — Island land that recurs instants/sorceries; community-noted draw engine partner with Frantic Inventory in Pauper

@@ -1,0 +1,41 @@
+{
+  "card_name": "Anointed Chorister",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "4",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Anointed Chorister is a common from Core Set 2021 (M21, released 2020-07-03). Core sets in this era were plane-agnostic beginner products. The Chorister has no named plane or character identity in any official Wizards source — she is a generic Human Cleric of white mana.",
+      "sources": ["Scryfall: set_name, type_line"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 1/1 Human Cleric for one white mana with lifelink; pump ability {4}{W}: +3/+3 until end of turn. EDHREC rank: 21,198 — modest Commander uptake in lifegain strategies. Legal in Pauper where 1-mana lifelink bodies are occasionally relevant in white aggro shells.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'I sing of benevolence and mercy, of golden wings bringing comfort to the meek and downtrodden.' — First-person speaker is the depicted chorister. The phrase 'meek and downtrodden' is unusually candid about class position for standard Wizards flavor copy.",
+      "sources": ["Scryfall: flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Bastien Lecouffe-Deharme (credited as Bastien L. Deharme) debuted in MTG with Battle for Zendikar (2015) and has approximately 86 credited cards per Gatherer. Best known for dark/gothic/surrealist work (Liliana, Heretical Healer; Olivia Voldaren; Animate Dead). Anointed Chorister is a notable tonal departure — warm, devotional, luminous rather than shadowed.",
+      "sources": ["Gatherer: artist search Bastien L. Deharme (via WebSearch)", "Scryfall: artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Animate Dead", "set": "multiple sets", "note": "Bastien Lecouffe-Deharme illustration; darkly contrasting register to Chorister from the same artist"},
+    {"name": "Liliana, Heretical Healer", "set": "Magic Origins", "note": "Bastien Lecouffe-Deharme's most prominent MTG credit; tonal opposite"},
+    {"name": "Soul Warden", "set": "multiple sets", "note": "1-mana lifelink-adjacent white creature; functional parallel in lifegain Commander strategies"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "card_name": "Valorous Steed",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "42",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Valorous Steed is an original card first printed in Core Set 2021 (released July 3, 2020) — not a reprint. Core Set 2021 was the last standalone core set Wizards of the Coast produced in the modern era, released alongside the Teferi-focused story and designed to be a teaching/entry-point set. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Donato Giancola has painted Valorous Steed across all three of its printings: Core Set 2021 (2020), Jumpstart 2022 (2022), and The List (2024). Giancola is a representational oil-on-panel painter known for medieval and Renaissance-influenced fantasy art; his Jumpstart unicorn Plains oil painting (a separate card) sold at auction for $10,100 in June 2020, within weeks of Valorous Steed's own release. [Scryfall prints search; Hipsters of the Coast, July 2020]",
+      "sources": ["Scryfall", "Hipsters of the Coast, July 2020"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, Valorous Steed creates a 2/2 Knight token with vigilance on entry — neatly reinforcing the flavor that the unicorn 'chooses' its knight companion. EDHREC rank 19,008 confirms it is a fringe card outside dedicated tribal lists. Legal in Pauper Commander (paupercommander) and Pioneer. [Scryfall; EDHREC rank from Scryfall API]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"A unicorn chooses only the most virtuous and noble of knights to be its companion.\" — no attributed speaker. The flavor text mirrors the card's enter-the-battlefield ability: the unicorn arrives and a knight token appears, enacting the lore beat mechanically. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on Draftsim's unicorn ranking article: Valorous Steed is noted as a reasonable Limited role-player in Core Set 2021 draft but considered overcosted for Constructed — 5 mana for a 3/3 with a 2/2 token is functional but rarely exciting outside unicorn tribal lists. [Draftsim, 'All 32 Unicorns in Magic Ranked', via WebSearch snippet]",
+      "sources": ["Draftsim unicorn ranking article, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Emiel the Blessed", "set": "Core Set 2021", "note": "M21 mythic unicorn that blinks creatures; synergy partner for Valorous Steed ETB trigger"},
+    {"name": "Crested Sunmare", "set": "Hour of Devastation", "note": "Horse tribal payoff; Valorous Steed's Knight token doesn't gain life but the Steed itself fits horse-adjacent tribal"},
+    {"name": "Nightmare Shepherd", "set": "Theros Beyond Death", "note": "Mentioned in community as reanimator synergy for token-on-ETB creatures"},
+    {"name": "Daxos, Blessed by the Sun", "set": "Theros Beyond Death", "note": "Devotion-to-white payoff that gains life when creatures ETB — works with Steed's token creation"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

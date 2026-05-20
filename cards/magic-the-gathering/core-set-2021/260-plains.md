@@ -72,3 +72,14 @@ A panoramic landscape vista. The sun hangs low at the center horizon, blazing wh
 **Iconography:** sun, horizon-line, radial-rays
 **Genre cues:** fantasy, landscape, pastoral
 
+## Trivia
+
+- **Design** — Artist John Avon is widely regarded as the most prolific basic-land illustrator in Magic's history: over 184 of his 300+ MTG pieces since 1997 are lands. He is best known to collectors for his full-art Unhinged (2004) and Unstable (2017) basic land cycles `[Draftsim — "The 19 Best John Avon Art Pieces in Magic Ranked"; Wikipedia: John Avon]`.
+- **Preview source** — This M21 Plains (no. 260) was revealed by Hipsters of the Coast on June 15, 2020 — Scryfall records Hipsters as the official preview outlet for this card. Reviewer Donny Caltrider described the composition as evoking the Gladiator film's Elysian-fields sequence, and noted that Avon's own stated inspiration matched that reading `[Hipsters of the Coast — "Core Set 2021 Preview: Basic Lands," 2020-06-15; Scryfall preview.source field]`.
+- **Set context** — M21's basic land offering included two tiers: five Showcase basics themed to the featured planeswalkers' home planes (by Jonas de Ro and others), and a set of reprinted traditional basics from established artists. This Avon Plains is in the reprinted-traditional tier, coexisting in M21 packs with Showcase plains by Jonas de Ro `[Hipsters of the Coast preview article]`.
+
+### Related cards
+- Plains (Unhinged, 2004) — John Avon's most celebrated basic-land cycle; artist's landmark work
+- Plains (Unstable, 2017) — John Avon's second full-art landmark land cycle
+- Plains (M21 Showcase, Jonas de Ro) — the Showcase Plains in the same set, themed to Teferi's home planes
+

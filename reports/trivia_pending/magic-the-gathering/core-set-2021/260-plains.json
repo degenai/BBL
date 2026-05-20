@@ -1,0 +1,36 @@
+{
+  "card_name": "Plains",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "260",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Artist John Avon is widely considered the most prolific basic-land illustrator in Magic's history, having illustrated over 184 land cards out of a total MTG portfolio of 300+ pieces since 1997. He is best known to collectors for his Unhinged (2004) and Unstable (2017) basic land cycles [Draftsim article; Wikipedia: John Avon].",
+      "sources": ["Draftsim — 'The 19 Best John Avon Art Pieces in Magic Ranked'", "Wikipedia: John Avon"]
+    },
+    {
+      "category": "design",
+      "text": "This M21 Plains (no. 260) was previewed by Hipsters of the Coast on June 15, 2020 — Scryfall lists Hipsters of the Coast as the official preview source for this specific card. Reviewer Donny Caltrider described Avon's composition as evoking the film Gladiator's Elysian fields scene, and noted that Avon's own stated inspiration matched that reading [Hipsters of the Coast — 'Core Set 2021 Preview: Basic Lands,' June 15, 2020].",
+      "sources": ["Hipsters of the Coast — 'Core Set 2021 Preview: Basic Lands' (2020-06-15)", "Scryfall preview.source field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 included five new Showcase basic lands tied to the five featured planeswalkers' home planes, plus a set of reprinted traditional basic lands from prior artists. This Plains (Avon) is in the reprinted-traditional tier; it coexists in M21 with Showcase plains by Jonas de Ro (themed to Teferi's Dominaria/Amonkhet) [Hipsters of the Coast preview article].",
+      "sources": ["Hipsters of the Coast — 'Core Set 2021 Preview: Basic Lands' (2020-06-15)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Plains (Unhinged)", "set": "Unhinged", "note": "John Avon's most celebrated basic-land cycle; artist's landmark work"},
+    {"name": "Plains (Unstable)", "set": "Unstable", "note": "John Avon's second landmark full-art land cycle"},
+    {"name": "Plains (M21 Showcase, de Ro)", "set": "Core Set 2021", "note": "The Showcase Plains for M21, themed to Amonkhet/Teferi, co-existing in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -77,3 +77,15 @@ A pure white unicorn stands proud in profile on the crest of a grassy hill, mane
 **Iconography:** horn, mane, cairn
 **Genre cues:** fantasy, high-fantasy, heraldic
 
+## Trivia
+
+- **Set context** — Valorous Steed is an original card (not a reprint) first printed in Core Set 2021, released July 3, 2020. M21 was the final standalone core set Wizards produced in the modern era, positioned as an entry-point set centered on the planeswalker Teferi. `[Scryfall]`
+- **Design** — Artist Donato Giancola has painted Valorous Steed across all three of its printings: Core Set 2021 (2020), Jumpstart 2022 (2022), and The List (2024). Giancola works in traditional oil on panel with a medieval/Renaissance influence; his Jumpstart unicorn Plains painting sold at auction for $10,100 in June 2020 — the same month Valorous Steed was previewed. `[Scryfall prints search; Hipsters of the Coast, July 2020]`
+- **Flavor text** — "A unicorn chooses only the most virtuous and noble of knights to be its companion." No speaker attributed. The flavor text enacts the card's ETB mechanic directly: the unicorn arrives, and the knight token appears. `[Scryfall]`
+- **Mechanical reputation** — Creates a 2/2 Knight token with vigilance on entry at 5 mana for a 3/3 body. EDHREC rank 19,008 reflects fringe usage outside dedicated unicorn or Knight tribal lists. Legal in Pauper Commander and Pioneer. `[Scryfall]`
+- **Community resonance** — Community sentiment (Draftsim unicorn ranking article): Valorous Steed is a functional Limited role-player in M21 draft but considered overcosted for Constructed; its primary home is unicorn tribal Commander lists where tribal synergy justifies the inclusion over raw efficiency. `[Draftsim, "All 32 Unicorns in Magic Ranked," via WebSearch snippet — sentiment]`
+
+### Related cards
+- Emiel the Blessed (M21, no. 14) — M21's mythic unicorn; blinks creatures to reuse Steed's ETB token trigger
+- Crested Sunmare (Hour of Devastation, no. 5) — horse tribal payoff; shares creature-type adjacency in four-legged-noble-mount space
+- Daxos, Blessed by the Sun (Theros Beyond Death, no. 9) — white devotion/life-gain payoff that benefits from Steed's token creation on ETB

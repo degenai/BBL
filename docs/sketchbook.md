@@ -846,3 +846,19 @@ Notes on the shape:
 ## (more to come)
 
 This file is intentionally append-only for now. Add new "wouldn't it be cool" concepts below as they form. When something graduates from idea to in-progress work, move it into the README's milestones section or its own dedicated doc.
+
+---
+
+## Lair seed — the Blackwell register (cozy M21 commons)
+
+**The seed (Alex, waves 153 & 155, 2026-05-19):** two M21 commons keep landing the same personal feeling — **Pridemalkin** (the felid, no. 196) and **Rambunctious Mutt** (the dog, no. 30). Alex on Pridemalkin: *"reminds me opening up cards with Andy at Blackwell our old house when I met Sarah."* On Rambunctious Mutt: *"gives me the same vibes as pridemalkin."*
+
+The vibe is not a tag — it is a *register*. Cozy, low-stakes, slightly-goofy creature commons; the feeling of opening packs with a friend at the old house, the year a life was starting. A cat and a dog so far. This is a narrative-first lair seed in the truest sense (per the brand position): the thesis is a feeling and a place, and the cards are the evidence. The narrative — title, copy — is Alex's to author when it crystallizes; this note only records the seed and the two anchor cards so they are not lost.
+
+**Why it matters:** this is the BBL thesis made personal. Pridemalkin is an EDHREC-4310 common worth ~40 cents by every reseller metric. Its real value is that it is a door back into a specific year. A "Blackwell register" lair is curation-as-rebellion against valuing cards by exchange-value — it sells use-value, memory, the small object that means something.
+
+**Who adds to this list:** Alex, and only Alex. The Blackwell register is a *felt* thing, not a detectable one — it is not "cozy creature common," it is a specific memory. Do NOT auto-nominate cards into this seed from vision/trivia tags or vibe-matching. A card joins only when Alex says it lands the feeling. The agent's job here is to *record* what Alex flags, never to propose.
+
+**Era boundary (Alex, 2026-05-19):** the felt cards come from four sets — **Theros**, **Throne of Eldraine**, **Ikoria**, and **M21** — mostly the up-to-Theros end, with some Eldraine / Ikoria / M21. Those four are the collecting-era window for the Blackwell period. A card outside those four sets is almost certainly not Blackwell-register, whatever its vibe. Pridemalkin and Rambunctious Mutt are both M21 — in window.
+
+The lair assembles when there is a cohort, not just a pair. No node, no graph object — this lives as a sketchbook seed and (eventually) a Discrete Lair, not a layer node.

@@ -1,0 +1,47 @@
+{
+  "card_name": "Roaming Ghostlight",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "65",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 (released July 3, 2020) centers on Teferi and reintroduced phasing to Standard for the first time since the Weatherlight era. Roaming Ghostlight is a blue common Spirit — the Spirit creature type has recurring thematic importance in blue across MTG sets, generally representing restless or undirected souls [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Roaming Ghostlight is a first printing — the card has appeared in no other set in the Scryfall prints database. Notably, it was reprinted in Ravnica: Clue Edition (CLU, 2024), making it one of the handful of M21 commons that found a second life in a mystery-themed crossover product [Scryfall prints_search_uri; frontmatter note].",
+      "sources": ["Scryfall", "card frontmatter (manual_review_reason note)"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Zezhou Chen illustrated Roaming Ghostlight. According to Hipsters of the Coast, Wardscale Crocodile (War of the Spark) was Chen's first-ever traditional painting for Magic — prior to that card he had illustrated 37 cards digitally. Roaming Ghostlight is among his digital works [Hipsters of the Coast, April 2019 article].",
+      "sources": ["Hipsters of the Coast — 'Art for Wardscale Crocodile by Zezhou Chen Sells for $1,500' (2019)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Some who die senseless deaths return as formless spirits, seeking answers where there are none.\" — no attributed speaker; the line frames the spirit as driven by unresolvable grief rather than malice [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 26,349. The bounce-on-enter trigger (return a non-Spirit to hand) reads as a rescue effect for Spirit tribal and a tempo disruptor in Pauper blue builds. At {3}{U}{U} it is expensive for a 3/2 common, which limits its Commander appeal; in Pauper blue-skies or Spirit-tribal shells it can provide targeted bounce while contributing a flying body [Scryfall EDHREC rank field; Scryfall legalities].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Aether Adept", "set": "Core Set 2011", "note": "Older blue bounce-on-enter common, direct mechanical comparison"},
+    {"name": "Aven Riftwatcher", "set": "Planar Chaos", "note": "Spirit creature for tribal context; enters and leaves with life-gain bookend"},
+    {"name": "Dungeon Geists", "set": "Dark Ascension", "note": "Spirit with tap-lock on entry — same Spirit-enters-triggers design space"},
+    {"name": "Wardscale Crocodile", "set": "War of the Spark", "note": "Zezhou Chen's first traditional painting for MTG — same artist"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
