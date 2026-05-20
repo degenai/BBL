@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - merfolk
+  - ocean
+  - underwater
+  - abduction
+  - kelp
+  - danger
+  - drowning
+  - water
+  - predator
+  - struggle
+  - siren
+  - depth
+tags_filter:
+  - duo
+  - mid-shot
+  - action
+  - blue-magic
+  - creature-merfolk
+  - three-quarter
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/53-merfolk-secretkeeper.png
 average_cost_paid: 0
 market_price: 0.23
@@ -29,7 +47,28 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{U} // {U}"
+mood: horror
+time_of_day: indeterminate
+setting: ocean
 tags:
   - card
 ---
 # Merfolk Secretkeeper (Throne of Eldraine)
+
+## Vision
+
+![53-merfolk-secretkeeper](../../_images/magic-the-gathering/throne-of-eldraine/53-merfolk-secretkeeper.png)
+
+An underwater scene showing two figures in struggle. In the center, a lighter-clothed humanoid — mouth open, expression panicked — is being pulled downward and to the side by a darker figure with long flowing hair or tendrils spreading through the water. The darker figure's arm is wrapped around the lighter figure. Both are surrounded by tall kelp or seaweed fronds in green and dark teal. Pale blue light filters from above, illuminating the lighter figure while the darker one merges into the depths.
+
+**Subject:** A humanoid figure being dragged underwater by a dark aquatic figure, surrounded by kelp and murky water
+
+**Composition:** mid-shot, action, figures: duo, facing: three-quarter
+**Setting:** ocean, indeterminate
+**Foreground:** Two figures in underwater struggle; kelp fronds  *(palette: pale-blue, white, teal, dark-green)*
+**Background:** Underwater murk; filtered surface light; kelp  *(palette: pale-blue, grey-blue, dark-teal)*
+**Mood / lighting:** horror, ambient
+**Emotion read:** Panic and predatory calm; the dragged figure is terrified
+**Creatures:** merfolk
+**Genre cues:** fantasy, fairytale
+

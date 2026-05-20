@@ -75,3 +75,14 @@ A gaunt zombie stands center-frame in a swampy nocturnal landscape, illuminated 
 **Iconography:** skull, ribcage, bare-trees
 **Genre cues:** fantasy, horror, gothic
 
+## Trivia
+
+- **Set context** — Walking Corpse debuted in Innistrad (September 2011) and has been reprinted in Magic 2013, Magic 2015, Welcome Deck 2016, Core Set 2019, Core Set 2020, The List (2019), and Core Set 2021 — eight distinct printings across a decade. Every single printing carries art by Igor Kieryluk, an unusually consistent single-artist run across the full reprint history of a creature card. `[Scryfall prints search]`
+- **Flavor text** — "Feeding a normal army is a problem of logistics. With zombies, it is an asset. Feeding is why they fight. Feeding is why they are feared." — Jadar, ghoulcaller of Nephalia `[Scryfall]`. Jadar is a named Innistrad character: a former village surgeon who turned to necromancy after a plague killed his patients, and became one of Nephalia's most notorious ghoulcallers, fishing bodies from the Morkrut marsh for reanimation. He received his own legendary creature card in Innistrad: Midnight Hunt (2021). `[MTG Wiki: Jadar via WebSearch]`
+- **Mechanical reputation** — Walking Corpse is a vanilla 2/2 Zombie for two mana with no abilities. It is Pauper legal and appears in Pauper zombie-tribal lists where the Zombie creature type matters for lords such as Death Baron. EDHREC rank 23154 reflects the low Commander ceiling of a baseline vanilla creature. `[Scryfall legalities; EDHREC]`
+- **Design** — Innistrad (2011) introduced Walking Corpse as part of the set's horror-gothic zombie population. Innistrad is the MTG plane most associated with gothic horror — werewolves, vampires, spirits, zombies — and Walking Corpse functions as the archetype's most basic unit, a deliberate design callback to genre tropes of mindless undead. `[Scryfall set: Innistrad]`
+
+### Related cards
+- Jadar, Ghoulcaller of Nephalia (Innistrad: Midnight Hunt) — the flavor-text speaker; received his own legendary creature card in 2021
+- Death Baron (Shards of Alara) — Zombie lord that pumps all Zombies and Skeletons, including Walking Corpse
+- Diregraf Ghoul (Innistrad) — sister vanilla Zombie from the original Innistrad set, the other baseline 2/2 Zombie of that block

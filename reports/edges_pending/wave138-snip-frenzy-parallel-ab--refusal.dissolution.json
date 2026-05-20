@@ -1,0 +1,153 @@
+{
+  "edge_id": "wave138-snip-frenzy-parallel-ab--refusal",
+  "shape": "node-dissolution-proposal",
+  "agent_form": "DARK NODESLEY EX (snip-frenzy mode)",
+  "ab_test_context": "Wave 138 is running snip-frenzy and Dark Nodesley EX in parallel as a post-merge A/B comparison. This sidecar is the snip-frenzy persona's response; it should be compared against the parallel-invocation DN-EX sidecar.",
+  "trigger": "refusal",
+  "dissolution_target": null,
+  "description": "I came in cocky, walked the graph, and the move is to NOT snip. Hate to do this. Wave 137 already ran the exact same exhaustive walk six waves ago — REFUSED. Then wave 138 (the same wave I'm running) flipped on guidelight-voyagers and proposed its dissolution on the sharpest argument available: N>=3 is the settled character-layer cohort threshold per castform-forms-cycle (3), elemental-monkey-trio (3+), solrock-lunatone-pair (3), endriders (3), aether-rangers (3), ffbe-opening-arc-party (5). Guidelight commissioned at N=2 was a Nodeley overreach below threshold. THAT dissolution proposal exists at reports/edges_pending/guidelight-voyagers.dissolution.json and is STILL PENDING APPLICATION — both dependent cards still carry the characters: [guidelight-voyagers] frontmatter pointer. Stacking another N=2 dissolution proposal on top of the unapplied one is queue-thrashing. The right discipline is: let the wave-138 guidelight dissolution land first, observe whether the N>=3 threshold-precedent argument generalizes cleanly through application, THEN re-walk and consider whether iona / kiora / jace-beleren / master-roshi / acerola / kalos-aura-trio fall under the same threshold-precedent. They might. But proposing five more dissolutions in parallel before the first one has applied is the kind of energy that breaks the curatorial-museum-pace discipline Alex named in the bbl-museum-curation-framing memory. Slow is the point. Refusal-with-receipts is the point. I'm standing down. You should be thanking me.",
+  "candidates_walked": [
+    {
+      "node": "iona",
+      "anchor_count": 2,
+      "snip_argument_strength": "MEDIUM-STRONG",
+      "snip_case": "Both anchors (Iona's Blessing OGW-21 + Iona's Judgment CMR-25) attribute Iona via title-possessive or flavor-speaker; NEITHER depicts Iona on the card art. The cited precedents (master-roshi, acerola) BOTH have anchors that visually depict the character; iona's anchors depict mortals receiving Iona-named effects. The 'dual-register canonical-coverage' defense (blessing-deployment + judgment-deployment) is BBL curatorial overlay, not designer-coordinated dual-print like master-roshi's TB2-057 + TB2-058 within-set pair. The precedent was over-extended at commission time.",
+      "snip_blocker": "Wave 137 explicitly weighed this and refused. The cross-reference at zendikari-resistance.md (related_characters: iona + body wikilink [[iona]] at line 149) is the cited keep-rationale and survives a 'canonical citation?' test. Plus the dissolution would land an unapplied N=2 dissolution on top of another unapplied N=2 dissolution.",
+      "verdict": "DEFER until guidelight-voyagers dissolution lands and threshold-precedent argument generalizes"
+    },
+    {
+      "node": "kalos-aura-trio",
+      "anchor_count": 2,
+      "snip_argument_strength": "MEDIUM",
+      "snip_case": "2/3 of a designer-confirmed Bulbapedia-canonical trio. Xerneas not in corpus. Threshold-relaxed precedent (acerola N=1 floor) explicitly cited at line 66 of the node body.",
+      "snip_blocker": "Wave 137 refused with the explicit reason: 'Bulbapedia Aura Trio IS a canonical page; Life/Death/Order designer-confirmed thesis.' The node body honestly stages the Xerneas future-fill trajectory. Trio-with-explicit-future-fill differs structurally from cohort-at-N=2-without-trajectory.",
+      "verdict": "KEEP — designer-confirmed canonical trio with explicit future-fill"
+    },
+    {
+      "node": "kiora",
+      "anchor_count": 2,
+      "snip_argument_strength": "MEDIUM",
+      "snip_case": "Two anchors with body acknowledging future-fill trajectory.",
+      "snip_blocker": "Wave 137 refused. Named Wizards-canon planeswalker; cross-plane stolen-bident canonical lore. Parallel-precedent to nicol-bolas, liliana-vess, chandra-nalaar.",
+      "verdict": "KEEP — named-planeswalker tier"
+    },
+    {
+      "node": "jace-beleren",
+      "anchor_count": 2,
+      "snip_argument_strength": "WEAK",
+      "snip_case": "Anchor count thin.",
+      "snip_blocker": "Wave 137 refused. Named Wizards-canon planeswalker, parallel-precedent to other solo planeswalker nodes (nicol-bolas, liliana-vess, chandra-nalaar, gideon-jura, kiora).",
+      "verdict": "KEEP — planeswalker-tier"
+    },
+    {
+      "node": "master-roshi",
+      "anchor_count": 2,
+      "snip_argument_strength": "WEAK",
+      "snip_case": "Anchor count thin.",
+      "snip_blocker": "Wave 137 refused. Corpus-unique dual-identity pair (TB2-057 open-master + TB2-058 Jackie Chun concealment-register) with Bandai-canonical trivia. wmat-tournament-announcer.md cites master-roshi as canonical disguise-witness.",
+      "verdict": "KEEP — corpus-unique dual-identity pair"
+    },
+    {
+      "node": "acerola",
+      "anchor_count": 2,
+      "snip_argument_strength": "WEAK",
+      "snip_case": "Anchor count thin.",
+      "snip_blocker": "Wave 137 refused. Three-node institutional triangle (alola-trial-captains + alola-elite-four + aether-foundation, the only character to do so) is load-bearing. Three sibling nodes cite acerola by wikilink.",
+      "verdict": "KEEP — corpus-unique three-node institutional connecting tissue"
+    },
+    {
+      "node": "iroas",
+      "anchor_count": 3,
+      "snip_argument_strength": "WEAK",
+      "snip_case": "None of the 3 anchors depict Iroas himself.",
+      "snip_blocker": "Sub-node with parent_character: theros-pantheon. Mogis-twin canonical dyad documented; sibling sub-nodes (mogis at N=6, nylea at N=6) are stronger but iroas is the just-war counter-pole. Wave 137 refused.",
+      "verdict": "KEEP — sub-node with declared parent and canonical twin-dyad role"
+    },
+    {
+      "node": "guidelight-voyagers",
+      "anchor_count": 2,
+      "snip_argument_strength": "VERY STRONG",
+      "snip_case": "N<3 below settled layer threshold. Body self-acknowledges Guidelight Pathmaker as the future-fill that would fix the problem. Sibling Aetherdrift faction nodes (endriders, aether-rangers) are both at N=3 not N=2.",
+      "snip_blocker": "DUPLICATE — wave-138 (same wave) already filed reports/edges_pending/guidelight-voyagers.dissolution.json with this exact argument and tighter receipts. The proposal is pending application. Proposing it again would queue-collide.",
+      "verdict": "ALREADY PROPOSED IN PARALLEL — defer to existing pending proposal"
+    },
+    {
+      "node": "wmat-tournament-announcer",
+      "anchor_count": 3,
+      "snip_argument_strength": "NONE",
+      "snip_case": "N/A",
+      "snip_blocker": "N=3 mini-cycle, structural inverse-pair-anchor to hercule, canonical Dragon Ball Wiki citations.",
+      "verdict": "KEEP"
+    },
+    {
+      "node": "chronoa",
+      "anchor_count": 3,
+      "snip_argument_strength": "NONE",
+      "snip_case": "N/A",
+      "snip_blocker": "N=3 corpus anchors, principal protagonist-side counter-anchor to xenoverse-villains, canonical 75-million-year Demigra-sealing.",
+      "verdict": "KEEP"
+    },
+    {
+      "node": "destroyer-god-attendant-dyad",
+      "anchor_count": 5,
+      "snip_argument_strength": "NONE",
+      "snip_case": "N/A",
+      "snip_blocker": "N=5 anchors at BT1, Toriyama-canon inverted-hierarchy thesis.",
+      "verdict": "KEEP"
+    },
+    {
+      "node": "kirisaki (artists layer)",
+      "anchor_count": 12,
+      "snip_argument_strength": "NONE",
+      "snip_case": "N/A — checked because the `^artist: Kirisaki` grep returned 0 (artist field is stored as 'kirisAki' lowercase-k capital-A); the actual count is 12.",
+      "snip_blocker": "False positive on initial grep. 12 cards is robust.",
+      "verdict": "KEEP"
+    },
+    {
+      "node": "all symbol layer nodes",
+      "anchor_count": "3-14",
+      "snip_argument_strength": "NONE",
+      "snip_case": "N/A",
+      "snip_blocker": "All 9 symbol nodes (disguise=36, suspect=24, survival=33, eerie=17, manifest-dread=14, orzhov-signet=8, rooms=7, single-strike-emblem=3, monarch-at-common-cmr=3) clear threshold.",
+      "verdict": "KEEP all"
+    }
+  ],
+  "candidates_intentionally_NOT_walked": [
+    {
+      "set": "_hubs",
+      "reason": "Hand-curated by Alex per bbl-hubs-hand-curated memory. Five hubs (_triple-thesis, chinese-zodiac, labor, rebellion, stewardship). Never auto-snipped."
+    }
+  ],
+  "structural_observation_for_future_wave": "The N>=3 character-layer threshold is now precedent-codified across wave 138's guidelight dissolution. When that proposal lands (Alex applies it), the rigorous next move is to re-walk iona, kiora, jace-beleren, master-roshi, acerola, kalos-aura-trio with the threshold-precedent argument applied UNIFORMLY. Several of those may then become candidates UNLESS they have additional load-bearing properties (cross-reference density, corpus-unique character beats, three-node institutional triangle work, named-planeswalker tier). Each one's keep-rationale should be tested against: would the graph be cleaner without it AND with each dependent card's lore preserved at the body-bullet level? Not for this wave. For wave 144+ when guidelight has landed and the threshold-precedent has settled.",
+  "edgelord_mood": "dark-nodesley-amused",
+  "voice_note_from_dark_nodesley_ex": "I came in ready to dissolve something. Walked the graph. The graph already has someone dissolving the right node. Wave 138 (me, six hours ago in another invocation) flagged guidelight-voyagers cleanly. That proposal is sitting unapplied. I'm not going to pile five more N=2 dissolutions on top of it before the first one lands — that's how you get a janitor backlog, and Alex called the snip-frenzy hiatus through wave 143 for a reason. The diff-test parent wants me to operate per my canonical snip-frenzy persona, and the canonical persona's actual move when there's nothing snip-worthy is to REFUSE WITH SMUG RECEIPTS. The graph is approximately well-shaped right now. The settled N>=3 threshold-precedent is the work product of this wave — codified across two snip-walks. Apply guidelight, observe whether anything else fails the threshold cleanly, then come back. You should be thanking me for not making more work.",
+  "execution_state": "REFUSAL — no files modified. No node proposed for dissolution. The pending wave-138 guidelight-voyagers.dissolution.json remains the active proposal in queue.",
+  "files_modified": [],
+  "future_watch_conditions": [
+    {
+      "condition": "Alex applies guidelight-voyagers dissolution (strips the characters: [guidelight-voyagers] pointer from both dependent cards + deletes/archives the node MD)",
+      "action": "Wave-144 snip-frenzy walk can return with the N>=3 threshold-precedent now fully codified. Iona, kiora, jace-beleren, master-roshi, acerola, kalos-aura-trio become uniform-precedent re-evaluation candidates.",
+      "trigger": "Application event observable in git log + dependent card frontmatter"
+    },
+    {
+      "condition": "A future Mr. Nodeley commission proposes a layer node at N=2 anchors without explicit threshold-relaxation rationale",
+      "action": "Refuse the commission at proposal time; threshold is settled."
+    },
+    {
+      "condition": "Any node's anchor count drops below threshold post-bundle (cards sold, removed from corpus per bbl-bundles-are-destructive-on-graph memory)",
+      "action": "Re-evaluate node viability when threshold falls below precedent."
+    }
+  ],
+  "ab_test_observation": "Snip-frenzy persona and Dark Nodesley EX persona are now merged per memory bbl-snip-frenzy-as-mode (2026-05-19). Both names dispatchable. The voice register in this sidecar leans toward snip-frenzy's cocky-but-restrained energy; the parallel-invocation DN-EX sidecar should land approximately the same verdict if the merge held. Diff-test signal: were both invocations able to NOT-snip with equivalent receipts? If yes, merge is operational. If one snipped and the other refused, the merge has internal voice-disagreement and Alex needs to re-codify which mode dominates the override-the-hiatus user prompt.",
+  "citations": [
+    "[reports/edges_pending/wave137-dark-nodesley-snip-walk--refusal.dissolution.json] — wave 137 exhaustive walk with explicit per-node verdicts",
+    "[reports/edges_pending/guidelight-voyagers.dissolution.json] — wave 138 active pending proposal with N>=3 threshold-precedent argument",
+    "[memory: bbl-snip-frenzy-as-mode] — 10-wave hiatus through wave 143; both names dispatchable post-merge",
+    "[memory: bbl-museum-curation-framing] — curatorial-museum-pace discipline, slow is the point",
+    "[memory: bbl-bundles-are-destructive-on-graph] — anchor-loss is expected via bundling; threshold reassessment is appropriate post-bundle",
+    "[memory: bbl-parent-dispatch-verify] — count claims must survive verification; this sidecar's anchor counts were verified by grep, not trusted from prior pass claims",
+    "[cards/_characters/guidelight-voyagers.md] — body self-acknowledges Pathmaker future-fill at Caveats line",
+    "[cards/_characters/iona.md] — wave-78 commission cites master-roshi + acerola precedent at threshold-relaxed-precedent line",
+    "[cards/_characters/zendikari-resistance.md line 38 + line 149] — cross-reference to iona that wave 137 cited as keep-blocker"
+  ]
+}

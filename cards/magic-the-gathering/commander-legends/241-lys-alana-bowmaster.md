@@ -75,3 +75,15 @@ A lithe elven archer crouches among the mossy branches of an enormous tree, body
 **Creatures:** elf, winged-creature
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set / lore context** — Lys Alana is the capital settlement of the Gilt Leaf elf tribe on the plane of Lorwyn — home of the palace Dawn's Light and the Perfect-class aristocracy who enforce beauty as social hierarchy. The Bowmaster guards that seat from aerial threats. `[MTG Wiki: Lys Alana, via WebSearch snippet]`
+- **Design history** — Originated in Morningtide (February 2008), the follow-up small set to Lorwyn. Morningtide shifted the Lorwyn tribal theme from "creatures in play" to "spells cast," and the Bowmaster's "whenever you cast an Elf spell" trigger is a signature example of that design pivot. Commander Legends (November 2020) is its only reprint. `[Scryfall prints search]`
+- **Mechanical reputation** — EDHREC rank 16400 marks this as a fringe Commander inclusion. Reach plus a conditional flying-damage trigger are both anti-air tools, but most Elf tribal Commander builds prioritize creature volume over disruption, leaving the Bowmaster on the margins. Legal in Modern, Legacy, Pauper, and Commander. `[Scryfall legalities and edhrec_rank]`
+- **Named-place cycle** — Multiple cards reference Lys Alana as a location: Lys Alana Huntmaster (Lorwyn), Lys Alana Scarblade (Morningtide), and Lys Alana Dignitary (Lorwyn Eclipsed). The Bowmaster is the Morningtide entry, anchoring a mechanical action to a named seat of Lorwyn elf power. `[Scryfall card search]`
+
+### Related cards
+- Lys Alana Huntmaster (Lorwyn, no. 229) — named-location sibling, elf tribal token maker
+- Lys Alana Scarblade (Morningtide) — Morningtide sibling in the Lys Alana named-place cycle
+- Lys Alana Dignitary (Lorwyn Eclipsed, no. 180) — Lorwyn Eclipsed entry in the named-location group
+- Imperious Perfect (Lorwyn) — Gilt Leaf elf aristocracy staple, same tribal context

@@ -1,0 +1,42 @@
+{
+  "card_name": "Ark Angel TT",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-067R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Ark Angel TT is a confirmed Notorious Monster boss from Final Fantasy XI: Rise of the Zilart, encountered in Zilart Mission 14 (Ark Angels). The 'TT' suffix denotes the Tarutaru archetype — one of five Ark Angels each representing a racial 'flaw.' Ark Angel TT embodies Tarutaru cowardice and fights using Black Mage / Dark Knight hybrid job abilities. Card name directly matches the character name. The depicted short dark-robed scythe-wielder in a stone chamber with blue-purple magical glow is consistent with the established FFXI visual for this NM. Internal Square Enix IP — no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ark Angel TT is a Notorious Monster boss from Final Fantasy XI: Rise of the Zilart, the first major expansion to FFXI (2002, Japan; 2003, North America). It is encountered in Zilart Mission 14 (Ark Angels), one of five 'Crystal Warriors' each embodying a negative trait of one of FFXI's five playable races. The 'TT' suffix designates the Tarutaru archetype; Ark Angel TT represents Tarutaru cowardice [Final Fantasy Wiki: Ark Angel TT, via WebSearch snippet; FFXIclopedia: Ark_Angel_TT, via WebSearch snippet].",
+      "sources": ["Final Fantasy Wiki: Ark Angel TT (finalfantasy.fandom.com)", "FFXIclopedia: Ark Angel TT (ffxiclopedia.fandom.com)", "WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "In FFXI, Ark Angel TT is a hybrid Black Mage / Dark Knight fighter: it can use both Manafont (BLM job ability) and Blood Weapon (DRK job ability), cast every spell from both jobs up to level 75, and teleports around the arena relying on magic. When it activates Blood Weapon, it shifts to melee and leaves the combat ring. Its unique weapon skill is Amon Drive, an area-of-effect attack that can inflict Paralysis, Petrification, and Poison simultaneously. Players who defeat it for the first time receive a Shard of Cowardice [Final Fantasy Wiki: Ark Angel TT, via WebSearch snippet].",
+      "sources": ["Final Fantasy Wiki: Ark Angel TT (finalfantasy.fandom.com)", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The five Ark Angels (EV, GK, HM, MR, TT) can also be fought simultaneously in the optional quest 'Divine Might,' one of FFXI's most notorious endgame challenges at original release difficulty — defeating all five at once was considered a high-prestige feat in the FFXI community during the 2003-2006 era [Coldrun Gaming: FFXI Part 36 Ark Angels, via WebSearch snippet].",
+      "sources": ["Coldrun Gaming: FFXI - Part 36: Ark Angels (coldrungaming.blogspot.com)", "WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Ark Angel TT appears in the FFTCG as a Forward-type card (card type: forward-card per frontmatter), which fits its role in FFXI as an active combat boss rather than a support entity. The Rare foil variant in inventory signals its mid-tier tournament relevance in FFTCG draft and constructed formats [card frontmatter: tags_filter forward-card, rarity Rare].",
+      "sources": ["Card frontmatter", "Scryfall analogue via card type field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ark Angel EV", "set": "FFTCG Opus VIII", "note": "Elvaan-archetype Ark Angel, same five-boss set from Zilart Mission 14"},
+    {"name": "Ark Angel GK", "set": "FFTCG Opus VIII", "note": "Galka-archetype Ark Angel; Ark Angel GK EX variant also in Opus VIII"},
+    {"name": "Ark Angel HM", "set": "FFTCG Opus VIII", "note": "Hume male archetype Ark Angel, same five-boss set"},
+    {"name": "Ark Angel MR", "set": "FFTCG Opus VIII", "note": "Mithra-archetype Ark Angel, completes the five-boss group"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

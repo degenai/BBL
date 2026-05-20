@@ -77,3 +77,14 @@ A confident, pale-skinned woman with long silvery-white hair leans forward acros
 **Iconography:** coin, coin-flip
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **Set context** — Tavern Swindler was first printed in Return to Ravnica (October 2012) as an uncommon and has appeared in six further printings: Duel Decks: Jace vs. Vraska (2014), Iconic Masters (2017), Battlebond (2018), The List (2019), and Core Set 2021 (2020) — all carrying Cynthia Sheppard's original art. A seventh printing in Streets of New Capenna (2022) introduced new art by Pauline Voss. `[Scryfall prints search]`
+- **Flavor text** — "Rakdos cultists are her best customers. They never flinch at pain and are seldom good at math." — anonymous `[Scryfall]`. The Rakdos are a black-red demonic cult on Ravnica who stage spectacular, often lethal theater; the joke is that their tolerance for life payment and their poor accounting make them ideal marks for a coin-flip hustler.
+- **Mechanical reputation** — The card sees play in coin-flip-themed Commander decks, particularly those built around Zndrsplt, Eye of Wisdom or Okaun, Eye of Chaos, where repeated coin-flip triggers compound. Its life-payment-for-flip mechanic is net-positive only on a win, making it a high-variance engine rather than a utility piece. EDHREC rank 11857. `[Scryfall legalities; EDHREC via WebSearch]`
+- **Design** — Artist Cynthia Sheppard illustrated the card across six consecutive printings from 2012 to 2020. Sheppard published artist commentary about the Return to Ravnica version on her illustration blog (sheppard-arts.blogspot.com, September 2012, updated October 2013). `[Scryfall artist field; sheppard-arts.blogspot.com]`
+
+### Related cards
+- Zndrsplt, Eye of Wisdom (Battlebond) — coin-flip Commander that rewards repeated flips
+- Okaun, Eye of Chaos (Battlebond) — partner commander; pumps on coin-flip wins
+- Krark's Thumb (Mirrodin) — artifact that lets you flip two coins on any flip and ignore one result, synergizing with the life-gain gameplan

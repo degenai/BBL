@@ -75,3 +75,15 @@ A monumental dark obelisk rises from a barren rocky plateau, its slender vertica
 **Iconography:** obelisk, vortex, convergence-of-light
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Mana-rock lineage** — Manalith debuted in Magic 2012 (2011) as a colorless {3} artifact that taps for one mana of any color — functionally a named variant of the Alloy Myr / Manalith family. Ryan Yee illustrated all three later printings (M12, Hour of Devastation 2017, M19 2018, and Game Night 2018), giving the card unusual artist consistency across its 4-print run. [Scryfall prints search; EDHREC article "Too-Specific Top 10 - Manaliths"]
+- **Commander reputation** — EDHREC has dedicated an "In the Margins" column specifically to Manalith, arguing that while approximately 1,645 Commander decks run it, players should almost always replace it with strictly better alternatives at the same cost: Commander's Sphere (draws a card when sacrificed), Darksteel Ingot (indestructible), or Chromatic Lantern (also fixes lands). The article coined the implicit critique that Manalith is a "nostalgic holdover" rather than an optimal choice. [EDHREC: "In the Margins — Manalith"; "Too-Specific Top 10 - Manaliths"]
+- **Flavor text** — "Planeswalkers seek out great monuments throughout the Multiverse, knowing that their builders were unwittingly drawn by the convergence of mana in the area." This flavor text positions mana-convergence as an unconscious attractor — civilizations build monuments at ley-line nexuses without knowing why, while planeswalkers recognize the pattern. [Scryfall]
+- **Format legality note** — Manalith is legal in Pauper at common rarity, which is its primary competitive niche; in Commander it is widely considered outclassed. It is not legal in premodern or PreDH formats (first printing 2011). [Scryfall legalities]
+
+### Related cards
+- Chromatic Lantern (Return to Ravnica) — the preferred upgrade: same {3} cost, also fixes lands for any color
+- Commander's Sphere (Commander 2013) — strictly-better-than-Manalith at same mana cost; draws a card when sacrificed
+- Darksteel Ingot (Darksteel) — same cost, adds indestructibility; Commander staple for over a decade
+- Cultivator's Caravan (Kaladesh) — another {3} any-color rock with an upside (crews as a 5/5)

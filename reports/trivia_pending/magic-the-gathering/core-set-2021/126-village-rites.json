@@ -1,0 +1,41 @@
+{
+  "card_name": "Village Rites",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "126",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Village Rites was introduced in Core Set 2021 (July 2020) and is not a reprint — M21 was its debut printing. It has since been reprinted in Kaldheim (2021), Strixhaven Mystical Archive (2021, in a special showcase treatment), Jumpstart 2022, Game Night: Free-for-All (2022), The Lost Caverns of Ixalan Commander (2023), Foundations Jumpstart (2024), Innistrad Remastered (2025, two variants), and a Secret Lair Drop (December 2025). [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Village Rites is a one-mana black instant: sacrifice a creature, draw two cards. As of the EDHREC dataset, it appears in over 221,000 Commander decks (EDHREC rank 194), making it one of the highest-penetration black staples in the format at common rarity. It is also legal in Pauper and Pauper Commander. [Scryfall legalities; EDHREC article 'Singleton Shmingleton — Village Rites']",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "EDHREC's 'Singleton Shmingleton' column described Village Rites as having 'opened the floodgates' on this effect type, tracing a lineage from older sacrifice-draw cards (Skulltap, Altar's Reap) to the modern tight-costed versions. The article noted it is the second-most-played card in its functional cycle, behind Deadly Dispute (232,316 decks vs. Village Rites' 221,385 at the time of writing). [EDHREC: 'Singleton Shmingleton — Village Rites']",
+      "sources": ["EDHREC"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"You were so eager to take and consume. Yet when asked to give, you refuse?\" — speaker unnamed [Scryfall]. The rhetorical accusation directed at a sacrifice victim is consistent with cult ritual framing; no specific plane or faction is named on the card itself.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Deadly Dispute", "set": "Adventures in the Forgotten Realms", "note": "Near-functional analog; also one mana, sacrifice, draw two plus a Treasure — slightly more upside, also a format staple"},
+    {"name": "Altar's Reap", "set": "Innistrad", "note": "Earlier sacrifice-draw predecessor at two mana; Village Rites is the tighter descendant"},
+    {"name": "Viscera Seer", "set": "Magic 2011", "note": "Free sacrifice outlet that pairs with Village Rites in aristocrats strategies"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

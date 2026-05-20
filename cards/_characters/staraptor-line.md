@@ -23,6 +23,7 @@ related_hubs: []
 related_symbols: []
 related_characters:
   - charizard-line
+  - rufflet-line
 ip_resolution_for: staraptor-line
 tags:
   - layer

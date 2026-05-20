@@ -82,3 +82,15 @@ A medium-sized canine elemental composed entirely of fire stands in profile agai
 **Iconography:** flame
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Design** — Chandra's Magmutt is original to Core Set 2021 (no prior printings). It carries the type line "Creature — Elemental Dog," and M21 is the set where Wizards officially renamed all Hound creature types to Dog. The rename was proposed by M21 designer Adam Prosak and faced no significant internal resistance — Mark Rosewater had championed the change for over 20 years before it went through without a fight. `[Wizards of the Coast: "But Wait, There's Core," 2020-06-15]` `[Dotesports: "MTG celebrates Dog name change with M21"]`
+- **Set context** — Core Set 2021 was designed around Chandra Nalaar as its featured planeswalker, with no storyline or Story Spotlights — a mechanical showcase set, not a narrative chapter. Chandra's Magmutt and Chandra's Pyreling (card 138) form the two named Chandra-companion creatures in the set. `[Scryfall: story_spotlight=false]` `[Flipside Gaming: "Core Set 2021 Design Review: The Planeswalkers"]`
+- **Flavor text** — `"Is it purebred? No, but it's pure fire."` — Chandra Nalaar. `[Scryfall]` Voiced in Chandra's own register — self-deprecating humor about her elemental companion's mixed-elemental nature.
+- **Mechanical reputation** — EDHREC rank 14,007. `[Scryfall: edhrec_rank]` A 2/2 for {1}{R} with repeatable {T}: deal 1 damage to a player or planeswalker. Legal in Pauper and Commander. The tapping pinger ability creates minor inevitability in slow games; sees more play in Chandra-themed Commander builds (appears in ~44% of Chandra, Fire of Kaladesh EDH lists per EDHREC) than in competitive formats. `[EDHREC: chandras-magmutt]`
+
+### Related cards
+- Chandra's Pyreling (Core Set 2021, no. 138) — the paired Chandra-companion creature in M21; same design cluster
+- Chandra, Heart of Fire (Core Set 2021) — headliner Chandra planeswalker anchoring the M21 Chandra theme
+- Chandra, Fire of Kaladesh (Magic Origins) — Chandra's origin card; Magmutt appears in ~44% of its EDH builds
+- Rin and Seri, Inseparable (Core Set 2021) — the other Dog-theme card in M21 that anchored the Hound-to-Dog rename announcement

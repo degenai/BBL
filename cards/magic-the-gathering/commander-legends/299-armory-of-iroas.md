@@ -79,3 +79,17 @@ A monumental cairn of weaponry rises at center frame: round hoplite-style shield
 **Iconography:** votive-offering, trophy-pile, weapon-cairn, hoplite-shield
 **Genre cues:** fantasy, mythological, classical-greek
 
+## Trivia
+
+- **Set context** — Armory of Iroas appears in Commander Legends (CMR), released November 20, 2020 — the first Magic set designed specifically for booster draft in the Commander format. Players drafted with three packs, picking two cards per pick, then built 60-card decks. Its artifact type is Equipment; it is a colorless common. `[Scryfall: CMR 299]`
+- **Named IP — Iroas, God of Victory** — "Iroas" in the card name is a direct reference to the Theros pantheon deity of victory and honorable warfare. Iroas is a red-white Nyxborn god who presides over the polis of Akros and its annual athletic Iroan Games. His canonical form is a bronze-armored warrior with a polished bull-mask face, twin of Mogis (god of slaughter). Per MTG Wiki, the Armory of Iroas is Iroas's actual canonical trophy site within Akros — the card names a real place in Theros lore, not just a thematic object. `[MTG Wiki: Iroas, via WebSearch snippet]` `[Scryfall: Iroas, God of Victory JOU-150]`
+- **First printing** — The card was originally printed in Journey into Nyx (JOU-158, 2014-05-02), illustrated by Yeong-Hao Han for both printings. Commander Legends (2020) is the card's only reprint, and both copies share the same art by the same artist. `[Scryfall prints search]`
+- **Flavor text** — "Each weapon is as unique as the champion who carried it to battle." This flavor describes the votive-armory tradition of the Iroas cult in Akros — weapons of fallen or retired champions dedicated upward to the god rather than reused or melted down. `[Scryfall: flavor_text field]`
+- **Mechanical context** — At EDHREC rank 7,750 out of the overall commander card pool, this is a niche Equipment. Its loop — equip creature, attack, gain a +1/+1 counter — rewards aggro equipment decks that plan to attack repeatedly. Legal in Pauper Commander; listed in EDHREC's Pauper Commander Bruenor Battlehammer equipment primer as a solid budget option. `[Scryfall: edhrec_rank]` `[EDHREC: Pauper Commander Bruenor Battlehammer article, via WebSearch snippet]`
+
+### Related cards
+- Iroas, God of Victory (JOU, no. 150) — the Theros deity named in this card's title; the canonical god-card anchor for the Iroas character node
+- Indomitable Will (THB, no. 25) — Iroas-cult card with flavor text "Charge bravely. Fight selflessly. Act honorably. Iroas will watch over you." — in corpus
+- Hero of the Games (THB, no. 137) — Iroan Games champion card with Iroas-cult flavor; in corpus
+- The First Iroan Games (THB, no. 170) — saga depicting the founding of the Iroas-presided athletic competition; not in corpus
+- Mogis, God of Slaughter (BNG, no. 151) — designer-confirmed twin of Iroas; the slaughter-doctrine counterpart to this card's just-war flavor register

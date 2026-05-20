@@ -1,0 +1,46 @@
+{
+  "card_name": "Snivy",
+  "game": "Pokemon",
+  "set": "Black Bolt",
+  "collector_number": "001/086",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, Pokedex number (no. 495), and illustrated species exactly match the canonical Snivy design (small green serpentine Grass-type starter, leaf-tipped tail, leaf collar, cream underside). PokemonTCG.io card ID zsv10pt5-1 confirms name = Snivy. IP verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "This card is from Scarlet & Violet: Black Bolt (Japanese set code SV11B), a 2025 Japan-exclusive expansion dedicated entirely to all 156 Generation V (Unova) Pokemon. The set released in Japan on June 6, 2025, and internationally on July 18, 2025. Snivy holds collector number 001/086 — the opening card of the 86-card main set, consistent with Snivy being the Grass-type starter of Unova. [Sports Card Investor: Snivy 2025 Japanese Scarlet & Violet Black Bolt; PokeGuardian: SV11B Black Bolt set list]",
+      "sources": ["Sports Card Investor: Snivy 2025 SV Black Bolt", "PokeGuardian: SV11B Black Bolt main set list"]
+    },
+    {
+      "category": "design",
+      "text": "The Snivy-Servine-Serperior line was designed with Western European aristocracy as its primary cultural reference. Ken Sugimori has stated the line is inspired by Western culture, specifically citing Lady Oscar from The Rose of Versailles. Serperior's chest bears a motif resembling a fleur-de-lis, the French heraldic sigil, and its ability to amplify sunlight may reference Louis XIV of France, the 'Sun King.' [Bulbapedia: Serperior (Pokemon), citing Sugimori; WebSearch snippet from Bulbapedia]",
+      "sources": ["Bulbapedia: Serperior (Pokemon)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Printed flavor text: \"It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.\" This photo-kinetic biology (sunlight powering movement speed) is the canonical Snivy species register and directly informs the Snivy-Serperior line's 'Sun King' design thread. [PokemonTCG.io: zsv10pt5-1]",
+      "sources": ["PokemonTCG.io: zsv10pt5-1"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Diamond Legendz Zodiac grid placement: Snivy anchors the Wood Snake cell of the 12-animal x 6-column Wuxing matrix. The Snivy line is Grass-type (Wuxing Wood element) and fully serpentine in body plan (Snake zodiac animal). The line's culmination, Serperior, is officially the 'Regal Pokemon' (National Pokedex no. 497) and may also incorporate design cues from Chinese and Japanese imperial serpent figures — sources note the line 'may also incorporate features of emperors of ancient China and Japan.' The loong-regality resonance maps cleanly onto the Wood Snake cell. [Veekun: Serperior no. 497 — Regal Pokemon; Bulbapedia: Serperior (Pokemon)]",
+      "sources": ["Veekun: Serperior no. 497", "Bulbapedia: Serperior (Pokemon)"]
+    },
+    {
+      "category": "design",
+      "text": "Both Snivy (no. 001/086) and Servine (no. 002/086) in Black Bolt are illustrated by Susumu Maeya — a within-set single-artist coordinated evolution-line pair. This is consistent with a TCG editorial pattern documented across Black Bolt: the set contains at least four within-set adjacent-collector-number single-artist evolution-line pairs (Snivy/Servine by Maeya; Pawniard/Bisharp by Oku; Dwebble/Crustle by Tetsu Kayama; Rufflet/Braviary by Kedamahadaitai Yawarakai). [PokemonTCG.io: zsv10pt5-1 and zsv10pt5-2 artist fields]",
+      "sources": ["PokemonTCG.io: zsv10pt5-1", "PokemonTCG.io: zsv10pt5-2"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Servine", "set": "Black Bolt", "note": "Adjacent-collector evolution mirror, same artist (Susumu Maeya), same-set Grass-starter line Stage 1"},
+    {"name": "Serperior", "set": "Various", "note": "Final evolution of Snivy; the 'Regal Pokemon' (no. 497); not in BBL corpus at time of this pass"},
+    {"name": "Snivy AR 087/086", "set": "Black Bolt", "note": "Art Rare variant of the same species in the same set — higher-rarity treatment"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

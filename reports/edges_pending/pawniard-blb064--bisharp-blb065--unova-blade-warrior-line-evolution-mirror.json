@@ -1,0 +1,32 @@
+{
+  "edge_id": "pawniard-blb064--bisharp-blb065--unova-blade-warrior-line-evolution-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/black-bolt/064-086-pawniard.md", "name": "Pawniard (Black Bolt 064/086)"},
+    {"type": "card", "path": "cards/pokemon/black-bolt/065-086-bisharp.md", "name": "Bisharp (Black Bolt 065/086)"}
+  ],
+  "description": "Sync drift fix. The pawniard-line cohort node body documents the within-BLB 064+065 adjacent-collector-number single-artist-coordinated (Oku on both) evolution-line pair as canonical, and the Dwebble/Crustle 051+052 mirror plus the Snivy/Servine 001+002 mirror plus the rufflet-line cohort node body all cite the Pawniard 064 + Bisharp 065 pair as parallel precedent. But the two cards themselves had NO Connections section. The line's pack-hierarchy-with-leader-contestation social structure (Pawniard aspirant-side blade-maintenance + Bisharp leader-side combat-for-position) is printed Pokedex flavor on both cards, designer-coordinated, canon-stated not curatorial. Mirror is the right shape, both endpoints traversable from either side, sigh is professional not personal.",
+  "citations": [
+    "[PokemonTCG.io: zsv10pt5-64 (Pawniard) flavor_text]",
+    "[PokemonTCG.io: zsv10pt5-65 (Bisharp) flavor_text + evolvesFrom]",
+    "[Bulbapedia: Pawniard (Pokemon)]",
+    "[Bulbapedia: Bisharp (Pokemon)]",
+    "[cards/_characters/pawniard-line.md body: within-BLB 064+065 single-artist-coordinated pair documented]"
+  ],
+  "files_modified": [
+    "cards/pokemon/black-bolt/064-086-pawniard.md",
+    "cards/pokemon/black-bolt/065-086-bisharp.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Rufflet 077 + Braviary 078 (Black Bolt) — fourth within-BLB single-artist-coordinated pair (Kedamahadaitai Yawarakai on both), structurally identical case. Rufflet card has a Connections bullet pointing at the [[rufflet-line]] cohort node and Braviary card has the same; neither carries a 1:1 mirror to the other. Same sync-drift class as the Pawniard/Bisharp case, slightly less acute because both Rufflet and Braviary at least have *some* Connections section. Staged as the natural next-pass target.",
+    "Wave-137 Snivy/Servine pair — already mirrored both directions this same wave, so skipping.",
+    "Re-mirroring the SWSH 133+134 Pawniard+Bisharp pair — refused: both SWSH prints carry manual_review_reason and have empty vision/trivia. Edge cannot be drawn against empty-body cards per the precedent of waiting for vision/trivia completion. Re-eligible after the SWSH cards clear manual review."
+  ],
+  "next_pass_suggestions": [
+    "Rufflet BLB-077 + Braviary BLB-078 1:1 mirror — same case, same artist (Kedamahadaitai Yawarakai), same within-set adjacent-collector cohesion stack."
+  ],
+  "cbg_voice_audit_trail": "Sync drift, plain as day. The cohort node knew. Dwebble/Crustle's bullet name-dropped the pair as precedent. Snivy/Servine's bullet name-dropped the pair as precedent. The rufflet-line node body name-dropped the pair as precedent. The pair itself had nothing. Worst kind of orphan — cited everywhere, written nowhere. Mirror drawn. Two endpoints, must traverse from either side, the sigh is professional, not personal. Refusing to re-mirror the SWSH 133+134 pair is the discipline working — empty-body cards do not get edges, that is the rule, and the rule survives even when the cohort node lists them."
+}

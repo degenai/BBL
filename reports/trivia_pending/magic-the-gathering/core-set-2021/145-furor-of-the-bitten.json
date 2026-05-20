@@ -1,0 +1,42 @@
+{
+  "card_name": "Furor of the Bitten",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "145",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Furor of the Bitten originated in Innistrad (September 2011) — the gothic horror plane of Innistrad, home to the game's most developed werewolf mechanics. The original printing (ISD 143) was part of the transform-era werewolf design space, where red enchantments fueled the berserker-aggro side of the human/lycanthrope identity. The M21 reprint carries the same Randy Gallegos art and flavor text. [Scryfall: set=isd, released_at=2011-09-30]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Only two printings exist: Innistrad (2011) and Core Set 2021 (2020), both illustrated by Randy Gallegos. The card was reprinted into M21 with no art or text changes, a nine-year gap between printings. [Scryfall: prints_search_uri]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Those who only believe themselves infected with lycanthropy can be as dangerous as those who really are.\" [Scryfall] No attributed speaker. The flavor text exploits the ambiguity of psychosomatic transformation — the enchantment's mechanical effect (forced attacks, +2/+2) literalizes the loss of agency regardless of whether the curse is 'real,' which makes the card thematically coherent as both a horror and a red enchantment.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 18,512 [Scryfall: edhrec_rank] — the lowest rank in this five-card batch, indicating it sees less EDH play than the other M21 commons here. Pauper-legal at {R} with +2/+2 and forced attacks; the forced-attack drawback is the main limiting factor in competitive Pauper, where it can give opponents too much control information.",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rancor", "set": "Urza's Legacy", "note": "The canonical comparison point for 1-mana pump Auras with drawbacks; Furor is the red forced-attack variant"},
+    {"name": "Curse of Stalked Prey", "set": "Innistrad", "note": "Innistrad-era red enchantment that rewards attacking; same design space"},
+    {"name": "Afflicted Deserter", "set": "Innistrad", "note": "Innistrad werewolf creature that the lycanthropy flavor directly echoes"},
+    {"name": "Inquisitor's Flail", "set": "Innistrad", "note": "Innistrad double-strike equipment; mechanical cousin in the same set's aggressive red design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Manalith",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2019",
+  "collector_number": "239",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Manalith debuted in Magic 2012 (2011) as a colorless {3} artifact that taps for one mana of any color. Ryan Yee illustrated all three subsequent printings (Hour of Devastation 2017, M19 2018, Game Night 2018), giving the card unusual artist consistency across its 4-print run.",
+      "sources": ["Scryfall prints search: api.scryfall.com/cards/search?order=released&q=oracleid%3Abd9e416a-89b3-4912-be9b-49fce6a93dc9&unique=prints"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC dedicated an 'In the Margins' column specifically to Manalith, noting approximately 1,645 Commander decks run it while arguing players should almost always replace it with Commander's Sphere, Darksteel Ingot, or Chromatic Lantern at the same cost.",
+      "sources": ["EDHREC: edhrec.com/articles/in-the-margins-manalith", "EDHREC: edhrec.com/articles/too-specific-top-10-manaliths"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Planeswalkers seek out great monuments throughout the Multiverse, knowing that their builders were unwittingly drawn by the convergence of mana in the area.\" — positions mana-convergence as an unconscious attractor for civilizational construction.",
+      "sources": ["Scryfall flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Manalith is legal in Pauper (its primary competitive niche at common rarity) but is not legal in premodern or PreDH formats due to its 2011 first printing. In Commander it is widely considered outclassed.",
+      "sources": ["Scryfall legalities field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Chromatic Lantern", "set": "Return to Ravnica", "note": "Same {3} cost, also fixes lands; the preferred Commander upgrade over Manalith"},
+    {"name": "Commander's Sphere", "set": "Commander 2013", "note": "Same cost, draws a card on sacrifice; frequently cited as strictly better"},
+    {"name": "Darksteel Ingot", "set": "Darksteel", "note": "Same cost, indestructible; Commander staple often cited in comparison"},
+    {"name": "Cultivator's Caravan", "set": "Kaladesh", "note": "Same {3} any-color rock with creature-upside via crew"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

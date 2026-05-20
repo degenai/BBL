@@ -1,0 +1,53 @@
+{
+  "card_name": "Fire Diamond",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "309",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag set.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Part of the Mirage diamond cycle (Mirage, 1996): five uncommon artifacts each costing {2}, entering tapped, tapping to produce one aligned-color mana. Fire Diamond produces {R}. This Commander Legends (CMR) printing released November 20, 2020.",
+      "sources": ["Scryfall: CMR 309", "MTGSalvation forums: Diamond cycle thread, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Lindsey Look confirmed in a 2018 Hipsters of the Coast interview that she used her dad's hand as the model for Fire Diamond — the pale hand cradling the glowing red gemstone in the art. Her grandmother's hand appears in Charcoal Diamond; her mom's hand in Lion's Eye Diamond.",
+      "sources": ["Hipsters of the Coast: 'Lindsey Look's Powerstone Shard,' 2018"]
+    },
+    {
+      "category": "design",
+      "text": "Original Mirage printing (1996) illustrated by Richard Thomas. Look repainted all five diamonds for Commander 2014 (2014-11-07); every Fire Diamond printing from C14 forward uses her art. Commander Legends: Battle for Baldur's Gate (2022) also features two alternate-art reprints by different artists (Gaboleps, Phil Stone).",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The essence of flame to stoke the spirit.\" Parallel construction to Charcoal Diamond's \"The essence of night to harden the soul\" — identical syntactical pattern, elemental essence + verb + effect on bearer's inner state.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 669 — budget red mana accelerant for Commander. Most common in mono-red or heavy-red decks with budget constraints. Legal in Legacy, Pauper, Commander, Pauper Commander.",
+      "sources": ["Scryfall: edhrec_rank 669"]
+    },
+    {
+      "category": "design",
+      "text": "Artist-prized signal: Lindsey Look's Talisman cycle originals sold combined $15,625 (2019), Gilded Goose sold $7,211 (2019), Sublime Epiphany won Chesley Award. Diamond cycle paintings belong to the same body of work from one of Commander's most collected illustrators.",
+      "sources": ["Hipsters of the Coast: 'Modern Horizons Talisman Cycle by Lindsay Look Sold,' 2019", "Hipsters of the Coast: 'Lindsey Look's Gilded Goose Sells for $7,211,' 2019"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Charcoal Diamond", "set": "Commander Legends", "note": "Cycle-mate; parallel flavor; also by Lindsey Look; in corpus"},
+    {"name": "Marble Diamond", "set": "Commander 2014", "note": "White member of Mirage diamond cycle; also by Lindsey Look for C14"},
+    {"name": "Moss Diamond", "set": "Mirage", "note": "Green member of Mirage diamond cycle"},
+    {"name": "Sky Diamond", "set": "Mirage", "note": "Blue member of Mirage diamond cycle"},
+    {"name": "Lion's Eye Diamond", "set": "Mirage", "note": "Look used her mom's hand as model; personal artistic connection across diamond works"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

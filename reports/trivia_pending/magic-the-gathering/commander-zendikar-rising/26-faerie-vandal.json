@@ -1,0 +1,42 @@
+{
+  "card_name": "Faerie Vandal",
+  "game": "Magic: The Gathering",
+  "set": "Commander: Zendikar Rising",
+  "collector_number": "26",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Faerie Vandal was first printed in Throne of Eldraine (October 2019, no. 45/269), illustrated by Paul Scott Canavan — a BAFTA award-winning concept artist from Edinburgh, Scotland who has worked for Wizards of the Coast, Valve, Netflix, and Games Workshop, and serves as Art Director at Axis Studios. The Zendikar Rising Commander copy (ZNC no. 26, September 2020) is its second printing. Scryfall records five total printings: Throne of Eldraine, Zendikar Rising Commander, Streets of New Capenna (no. 44), Jumpstart 2022, and Foundations Jumpstart. [Scryfall API: prints search for oracle ID b872f147-00eb-4cf8-af8c-4144356b2089; WebSearch: Paul Scott Canavan professional bio]",
+      "sources": ["Scryfall API: prints search oracle ID b872f147-00eb-4cf8-af8c-4144356b2089", "WebSearch: Paul Scott Canavan bio via ArtStation/paulscottcanavan.com"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"History may be written by the triumphant, but it's often rewritten by the troublesome.\" No speaker attributed. [Scryfall: flavor_text field] The line frames the Faerie Rogue's theft as archival insurgency — the golden halo she carries is not just loot but a rewritten record.",
+      "sources": ["Scryfall API: flavor_text field for card 04692219-8850-4b05-aa60-64f32b0daade"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The 'draw your second card each turn' trigger is a Throne of Eldraine design motif — the set introduced multiple cards that reward drawing the second card in a turn rather than the first, specifically to avoid overlapping with cantrip-on-draw staples that reward the first card. Faerie Vandal scales aggressively in draw-heavy decks: each second draw per turn adds a +1/+1 counter, but the trigger fires only once per turn. EDHREC lists 20,855 decks running the card, and it appears in Faerie tribal, draw-matters, and prowess-style strategies. [Scryfall: oracle_text ruling notes; EDHREC: Faerie Vandal card page, via WebSearch snippet; MTGNexus: Faerie Vandal, via WebSearch snippet]",
+      "sources": ["Scryfall API: oracle_text", "EDHREC: Faerie Vandal card page — deck count via WebSearch snippet", "MTGNexus: Faerie Vandal — WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Faerie Vandal is not legal in Pauper despite being an Uncommon (its only Pauper-legal printing would require a common-rarity release; the Streets of New Capenna printing is also Uncommon). Format legalities per Scryfall: legal in Commander, Pioneer, Modern, Legacy, Vintage, Historic, and Timeless. Not legal in Standard, Pauper, or Paupercommander as of 2026-05-19. [Scryfall API: legalities field]",
+      "sources": ["Scryfall API: legalities field for card 04692219-8850-4b05-aa60-64f32b0daade"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Spellstutter Sprite", "set": "Lorwyn", "note": "Classic Faerie Rogue tribal piece; overlaps in creature type and flash archetype"},
+    {"name": "Bitterblossom", "set": "Morningtide", "note": "Cornerstone Faerie tribal engine; likely same Commander deck contexts"},
+    {"name": "Brazen Borrower", "set": "Throne of Eldraine", "note": "Same set and Faerie Rogue type; more powerful but shares Vandal's flash + bounce design space"},
+    {"name": "Teferi's Ageless Insight", "set": "Core Set 2021", "note": "Draw-doubler that synergizes with second-card-draw triggers like Faerie Vandal"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

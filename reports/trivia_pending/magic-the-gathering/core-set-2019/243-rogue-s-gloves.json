@@ -1,0 +1,42 @@
+{
+  "card_name": "Rogue's Gloves",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2019",
+  "collector_number": "243",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Rogue's Gloves has three printings: Magic 2015 (debut, 2014), Core Set 2019 (2018), and Jumpstart (2020). All three use the same Cyril Van Der Haegen illustration. Not Pauper-legal (uncommon); legal in Commander, Pioneer, Modern.",
+      "sources": ["Scryfall prints search: api.scryfall.com/cards/search?order=released&q=oracleid%3A308d7868-49f9-47a3-a7b1-4b0332d610f1&unique=prints", "Scryfall legalities field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rogue's Gloves triggers card draw whenever the equipped creature deals combat damage to a player — the same incentive trigger as ninjutsu and prowl mechanics — making it a budget option for Rogue-tribal or unblockable-creature Commander builds. EDHREC records it in approximately 3,968 Commander decks.",
+      "sources": ["EDHREC: edhrec.com/cards/rogues-gloves", "Scryfall oracle_text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Thievery requires subtlety, from the beginning of the heist to the end.\" — No attributed speaker; functions as a generic criminal aphorism consistent with MTG equipment flavor conventions.",
+      "sources": ["Scryfall flavor_text field"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrator Cyril Van Der Haegen is a Belgian artist whose MTG portfolio spans hundreds of cards. The chiaroscuro still-life composition — gloves on coins, no visible wielder — is a recurring device in his equipment illustrations where absence of a figure lets the gear carry the menace. No Hipsters of the Coast artist spotlight found.",
+      "sources": ["Scryfall artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Thieving Magpie", "set": "Urza's Destiny", "note": "Mechanical predecessor: deal combat damage to a player, draw a card"},
+    {"name": "Coastal Piracy", "set": "Mercadian Masques", "note": "Enchantment version of the same draw-on-damage effect for all creatures"},
+    {"name": "Mask of Memory", "set": "Mirrodin", "note": "Equipment with similar draw trigger; frequently compared as Pauper-legal alternative"},
+    {"name": "Bident of Thassa", "set": "Theros", "note": "Permanent with same draw-on-combat-damage trigger; staple in unblockable builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

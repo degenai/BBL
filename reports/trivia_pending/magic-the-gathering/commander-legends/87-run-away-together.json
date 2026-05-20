@@ -1,0 +1,42 @@
+{
+  "card_name": "Run Away Together",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "87",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Run Away Together was first printed in Throne of Eldraine (October 2019, no. 62/269), where it was illustrated by Filip Burburan — a Croatian painter known for traditional acrylic and oil work. As of Scryfall's records, this CMR printing is its third appearance; the card has since been reprinted nine times across Throne of Eldraine, Commander Legends, Commander Legends: Battle for Baldur's Gate, Wilds of Eldraine Commander, Game Night: Free-for-All, Bloomburrow, The List (CLB-92), Foundations, and Lorwyn Eclipsed (2026). [Scryfall: prints search for Run Away Together oracle ID]",
+      "sources": ["Scryfall API: /cards/search?oracleid=290faa28-450e-4797-9a8f-642d8af3f82a&unique=prints"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Virtue is virtue, whatever the heart that nurtures it.\" — Malacan, Vantress exile. The speaker, Malacan, is identified as a Vantress exile — a figure from the school of mind-magic on Eldraine, suggesting a scholar cast out for unorthodox views. The line frames the card's art (an improbable monster-and-mage duo running together) as a meditation on moral universalism. [Scryfall: flavor_text field]",
+      "sources": ["Scryfall API: flavor_text field for card d747d5f2-d3b0-44f9-92f0-781839386850"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Run Away Together requires two targets controlled by different players — a design constraint that creates unique gameplay tension in multiplayer Commander: the caster must always return one of their own creatures alongside an opponent's. This is a deliberate asymmetry forcing diplomatic card usage, which is why it was considered one of the strongest commons in Commander Legends limited. EDHREC ranks it at 1704 among all cards. [Scryfall: oracle_text; Scryfall: edhrec_rank; dotesports.com: 'Throne of Eldraine brings the feels with Run Away Together', via WebSearch snippet]",
+      "sources": ["Scryfall API: oracle_text + edhrec_rank", "dotesports.com: Throne of Eldraine Run Away Together preview — WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Artist-prized commons signal: Filip Burburan's original MTG paintings have sold at auction for $4,450 to $9,000 each (Xyris, the Writhing Storm sold for $9,000; Brokkos, Apex of Forever for $5,600; Akim, the Soaring Wind for $4,450 — all from Ikoria, 2020). Burburan works in traditional acrylic and oil on board. His original art market value is among the highest for active Magic illustrators. [Hipsters of the Coast: 'Three Filip Burburan Legends Fetch Nearly $20,000 Combined' (2020); Hipsters of the Coast: 'Filip Buruban's Nyxbloom Ancient Sells for $7,500']",
+      "sources": ["Hipsters of the Coast: 'Three Filip Burburan Legends Fetch Nearly $20,000 Combined' (May 2020)", "Hipsters of the Coast: 'Filip Buruban's Nyxbloom Ancient Sells for $7,500'"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Unsummon", "set": "Various", "note": "Single-target blue bounce; Run Away Together is a two-for-one upgrade in multiplayer contexts"},
+    {"name": "Boomerang", "set": "Various", "note": "Classic two-mana bounce; shares the instant-speed bounce slot"},
+    {"name": "Reality Shift", "set": "Various", "note": "Commander staple blue removal — common comparison in the bounce-vs-exile debate"},
+    {"name": "Brazen Borrower", "set": "Throne of Eldraine", "note": "Same set origin; Faerie Rogue bounce-creature sharing Eldraine's 'escape' theme"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Pirate's Cutlass",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "333",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Pirate's Cutlass was first printed in Ixalan (September 2017), the Mesoamerican-Caribbean exploration plane set featuring four factions including the Brazen Coalition pirates. The CMR copy is a reprint in Commander Legends (November 2020), MTG's first Commander-focused draft set. Across all printings, the same art by John Stanko has been used throughout [Scryfall: prints list — XLN 2017, JMP 2020, CMR 2020, FDN 2024].",
+      "sources": ["Scryfall API: Pirate's Cutlass prints"]
+    },
+    {
+      "category": "design",
+      "text": "As of the Scryfall prints API, Pirate's Cutlass has been printed in exactly 4 sets: Ixalan (XLN, no. 242, 2017), Jumpstart (JMP, no. 477, 2020), Commander Legends (CMR, no. 333, 2020), and Foundations (FDN, no. 563, 2024). All four printings share the same illustration by John Stanko and the same oracle text [Scryfall API].",
+      "sources": ["Scryfall API: Pirate's Cutlass prints"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pirate's Cutlass auto-equips to a Pirate on entry — a conditional ETB trigger that makes it efficient in dedicated Pirate tribal decks but a blank-trigger in non-Pirate builds. Its EDHREC rank of 17742 indicates low Commander inclusion outside tribal Pirate shells [Scryfall API: edhrec_rank; EDHREC via Scryfall link].",
+      "sources": ["Scryfall API: edhrec_rank 17742"]
+    },
+    {
+      "category": "design",
+      "text": "Artist John Stanko is a freelance illustrator who has produced work for Wizards of the Coast across multiple sets. No signed-copy listings or artist commentary specific to Pirate's Cutlass were found in the research pass; however, signed foil copies of the Ixalan printing appear on the secondary market (eBay, CoolStuffInc), suggesting the card is among Stanko's portfolio pieces he has personalized at events [eBay listing: 'MTG Magic the Gathering Pirate's Cutlass FOIL Ixalan Signed by John Stanko NM'; CoolStuffInc: 'Pirate's Cutlass FOIL Signed by John Stanko'].",
+      "sources": ["eBay: 'MTG Magic the Gathering Pirate's Cutlass FOIL Ixalan Signed by John Stanko NM'", "CoolStuffInc: 'Pirate's Cutlass FOIL Signed by John Stanko'"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Breeches, Brazen Plunderer", "set": "Commander Legends", "note": "Pirate commander in the same CMR set — benefits directly from Cutlass equip trigger"},
+    {"name": "Ramirez DePietro, Pillager", "set": "Commander Legends", "note": "Pirate commander in CMR; Equipment synergy with cutlass in pirate builds"},
+    {"name": "Malcolm, Keen-Eyed Navigator", "set": "Commander Legends", "note": "Partner Pirate commander from the same set"},
+    {"name": "Fell Flagship", "set": "Ixalan", "note": "Ixalan-era Pirate tribal Equipment/vehicle — thematic pairing with the Cutlass"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - rats
+  - candle
+  - underground
+  - swarm
+  - trickster
+  - herald
+  - crown
+  - masked
+  - fairy-tale
+  - chaos-leader
+  - rodent
+  - night
+tags_filter:
+  - mid-shot
+  - forward-facing
+  - red-magic
+  - creature-goblin
+  - crowd
+  - action-mode
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/130-mad-ratter.png
 average_cost_paid: 0
 market_price: 0.25
@@ -30,7 +48,36 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{3}{R}"
+mood: grim
+time_of_day: indeterminate
+setting: dungeon
+suspected_ip: Mad Hatter (Alice in Wonderland) — thematic echo, not a direct visual match
+ip_confidence: low
+ip_verified: false
 tags:
   - card
 ---
 # Mad Ratter (Throne of Eldraine)
+
+## Vision
+
+![130-mad-ratter](../../_images/magic-the-gathering/throne-of-eldraine/130-mad-ratter.png)
+
+> [!warning] Suspected IP: **Mad Hatter (Alice in Wonderland) — thematic echo, not a direct visual match** (confidence: low, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A wiry humanoid figure with pointed ears strides forward holding a lit candle aloft. The figure wears what appears to be a layered crown or headdress with a lit candle at its apex, and a mask-like face covering. The body is bare-chested with heavy gauntlets on the wrists. In all directions around the figure's legs and lower body, dozens of rats swarm, many of them also carrying small lit candles in their mouths or near them. The background is a deep purple-red cavern or underground space. The scene is lit almost entirely by candlelight, giving the palette a warm amber-orange glow against the dark purple surroundings.
+
+**Subject:** a pointed-eared, mask-wearing humanoid figure leading a swarm of rats, holding a lit candle, wearing a candle-crown headdress
+
+**Composition:** mid-shot, action, figures: crowd, facing: forward
+**Setting:** dungeon, indeterminate
+**Foreground:** masked humanoid figure leading rat swarm, holding candle aloft, candle-crown headdress  *(palette: amber, orange, warm gold)*
+**Background:** deep purple cavern, darkness, candlelight glow  *(palette: deep purple, reddish-brown, black)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** ecstatic, frenzied leadership — the figure leads with wild energy
+**Objects:** candle, candle-crown headdress, mask
+**Creatures:** rats, rat-swarm
+**Iconography:** candle, crown
+**Genre cues:** fantasy, fairy-tale
+

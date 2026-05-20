@@ -1,0 +1,42 @@
+{
+  "card_name": "Spectral Searchlight",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "342",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (confirmed Scryfall): \"The first searchlights were given as gifts, symbols of cooperation, to the emissaries present at the signing of the Guildpact.\" The Guildpact is the ancient magical treaty that originally organized Ravnica's ten guilds under a binding law — signed before the events of the Ravnica: City of Guilds set (2005). The flavor text positions the Searchlight as a Ravnican diplomatic artifact, a ceremonial object from the founding moment of the city's guild system [Scryfall API: flavor_text field].",
+      "sources": ["Scryfall API: Spectral Searchlight (0a7dd6c9-628b-4dde-a385-604501dd0979)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Spectral Searchlight first appeared in Ravnica: City of Guilds (October 2005) as an uncommon, serving as a mana-fixing card designed for multiplayer formats. Commander Legends (November 2020) is the only printing that downgrades it to common; the five other printings — Conspiracy (2014), Battlebond (2018), Commander 2021 (2021), and Commander Masters (2023) — all maintain uncommon rarity. The CMR common downgrade is unusual and reflects the set's need to fill common artifact slots for draft [Scryfall API: prints list — 6 total printings].",
+      "sources": ["Scryfall API: Spectral Searchlight prints"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Searchlight's ability ({T}: Choose a player. That player adds one mana of any color they choose.) is deliberately symmetrical — you choose the player, but they choose the color. This design fits multiplayer formats where 'gifting' mana to an opponent to curry favor is a real strategic play, matching the flavor-text framing of the item as a diplomatic gift. EDHREC rank of 7549 indicates solid Commander inclusion [Scryfall API: edhrec_rank 7549; oracle_text].",
+      "sources": ["Scryfall API: oracle_text, edhrec_rank 7549"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Martina Pilcerova has illustrated every printing of Spectral Searchlight across all six sets — an unusually consistent artist retention for a card reprinted over 18 years. The sepia-monochrome rendering of the ceremonial lantern functions as a guild-emblem illustration, rendered in an ink-engraving or museum-catalog style that distinguishes it visually from most artifact card art [Scryfall API: artist field, all six printings].",
+      "sources": ["Scryfall API: Spectral Searchlight prints, artist: Martina Pilcerova (all printings)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Chromatic Lantern", "set": "Return to Ravnica", "note": "Ravnica mana-fixing artifact; similar role but stronger — fixes and taps for any color for you"},
+    {"name": "Coalition Relic", "set": "Future Sight", "note": "Another colorless mana-fixing artifact that connects to multi-faction diplomacy themes"},
+    {"name": "Commander's Sphere", "set": "Commander 2013", "note": "Commander-format mana-fixing artifact; direct functional parallel"},
+    {"name": "Guildpact", "set": "Dissension", "note": "Named after the treaty referenced in Searchlight's flavor text"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

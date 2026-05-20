@@ -37,6 +37,7 @@ last_seen: 2026-05-19
 reference_image_source_url: https://images.pokemontcg.io/sv8/153_hires.png
 art_match_confidence: high
 needs_manual_review: false
+artist: Anesaki Dynamic
 oracle_text: "Drag Off (ColorlessColorless): Switch in 1 of your opponent's Benched Pokémon to the Active Spot. This attack does 40 damage to the new Active Pokémon.\\nBlasting Wind (ColorlessColorlessColorless) 120"
 image_width: 733
 image_height: 1024
@@ -48,6 +49,8 @@ subject_known_ip: true
 suspected_ip: Braviary
 ip_confidence: high
 ip_verified: true
+characters:
+  - rufflet-line
 tags:
   - card
   - pokemon
@@ -89,5 +92,5 @@ Braviary dominates the frame in a steep diving posture, wings fully extended and
 
 ## Connections
 
-- [[92-rufflet]] — Direct pre-evolution. Braviary (#628) evolves from Rufflet (#627) at level 54; the line is a single canonical two-stage evolution designed by Takao Unno as Unova's bald-eagle Americana allegory, with both stages male-exclusive. The Steam Siege Rufflet's "challenges anything without fear" framing matures into this card's diving-predator silhouette. `[PokemonTCG.io: evolvesFrom field; Bulbapedia: Rufflet evolution; Bulbapedia: Braviary]`
+- [[rufflet-line]] — Apex-stage representative of the Rufflet evolutionary line (Pokedex 627 / 628, Normal/Flying, two-stage, male-exclusive, Unova Gen V). This Surging Sparks Braviary 153/191 is the corpus's only Braviary print depicting the apex stage in a steep diving combat posture with talons-forward attack-dive composition, illustrated by Anesaki Dynamic at the SV8-era TCG-editorial cadence. The card's Drag Off attack (2 Colorless, switch + 40 damage) is a disruption-mechanic with TCG history dating to Dark Machoke (Team Rocket expansion). The trivia body identifies the species as Takao Unno's bald-eagle Americana allegory at the community-attested-designer-intent scope (Bulbapedia attribution, not Wizards-published designer-statement canon — see `_triple-thesis` Potion-rule sub-rule 1). Per the cohort-subsumes-1:1-mirrors precedent established in `solrock-lunatone-pair` / `mareep-line` / `staraptor-line` / `caterpie-line`, the prior Rufflet-XY11-92 ↔ Braviary-SV8-153 1:1 mirror is now subsumed by the cohort node (which also covers the within-Black-Bolt adjacent-collector-number Rufflet 077 + Braviary 078 same-artist pair that the prior 1:1 mirror omitted entirely). `[PokemonTCG.io: sv8-153; Bulbapedia: Braviary (Pokemon)]`
 

@@ -75,3 +75,15 @@ A humanoid rabbit — upright, wearing a dark vest and rolled-up trousers — sp
 **Iconography:** blue magic glow, fireflies
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set / lore context** — Kwain, Itinerant Meddler is a new character introduced in Commander Legends (November 2020) — no prior printings, no prior MTG lore appearances. As one of 71 new legends in the set, Kwain was designed specifically for the draftable Commander format. `[Scryfall reprint:false field]`
+- **Design history** — Kwain is widely recognized as the first Legendary Rabbit in Magic history. The rabbit creature type was exceedingly rare prior to Commander Legends: Vizzerdrix (Seventh Edition, 2001) and Kezzerdrix (Tempest) are among the only notable prior rabbit creatures. The community nickname for Kwain-led decks is "Wizzardrix" — a portmanteau of Wizard and Vizzerdrix, explicitly acknowledging the genealogy. `[WebSearch: Vizzerdrix rabbit history; TappedOut deck names via WebSearch]`
+- **Flavor text** — "Why so slow, why so slow? Hurry up! You never know what you'll find." — Kwain. `[Scryfall flavor_text field]` The card is one of the few where the flavor text is spoken by the depicted creature itself, reinforcing Kwain's impatient, itinerant, meddling character.
+- **Mechanical reputation** — EDHREC rank 2281 — the highest-ranked card in this batch and a genuine Commander staple. The {T} ability grants each player optional draw plus 1 life: symmetrical group-hug at two mana. The {W}{U} color identity limits green-ramp combo lines common to group-hug, but Azorius control and life-gain shells compensate. Functions as both commander and 99 inclusion. `[Scryfall edhrec_rank field]` `[MTG Cardsrealm, "Kwain, Itinerant Meddler and the Group Hug", via WebSearch]`
+
+### Related cards
+- Vizzerdrix (Seventh Edition) — one of the only prior MTG rabbits; source of the "Wizzardrix" community nickname for Kwain decks
+- Howling Mine (Unlimited Edition) — archetype group-hug draw that Kwain echoes with an optional clause and life gain
+- Kami of the Crescent Moon (Saviors of Kamigawa) — blue legend with similar symmetrical draw effect; common Kwain comparator
+- Alms Collector (Commander 2017) — white card that punishes opponents drawing via Kwain; commonly noted tension piece in Kwain builds

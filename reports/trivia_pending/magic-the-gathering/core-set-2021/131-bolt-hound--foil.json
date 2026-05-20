@@ -1,0 +1,41 @@
+{
+  "card_name": "Bolt Hound",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "131",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Bolt Hound is an M21 original — its first and (as of the Scryfall prints record) only printing is Core Set 2021 (July 2020). It has not been reprinted in any subsequent set. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Bolt Hound was previewed on June 8, 2020 by Pro Tour champion and content creator Brian Kibler via his Twitter feed, per Scryfall's preview metadata. M21 was notable for its Dog-tribal push — it was the set where Wizards officially renamed the 'Hound' creature type to 'Dog,' making Bolt Hound's Elemental Dog type contemporaneous with that in-game taxonomy shift. [Scryfall preview metadata; MTGSalvation Rumor Mill thread via WebSearch]",
+      "sources": ["Scryfall", "MTGSalvation: [M21] Bolt Hound preview thread (via WebSearch)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Bolt Hound is a 2/2 Elemental Dog for three red mana with Haste; whenever it attacks, all other creatures you control get +1/+0 until end of turn. The attack trigger makes it a pseudo-anthem for aggressive red boards, functioning as a quasi-lord for the turn it swings. It was featured in a Mythic-ranked Mono-Red MTG Arena aggro list (July 2020 season, no. 230 Mythic by EdFrank) shortly after M21 release. EDHREC rank 12896. [Scryfall oracle text; MTGAZone: Bolt Hound Mono-Red deck via WebSearch]",
+      "sources": ["Scryfall", "MTGAZone (via WebSearch)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Its spark is worse than its bite.\" — anonymous [Scryfall]. A pun inverting the idiom 'its bark is worse than its bite,' with 'spark' doing double duty as both lightning-elemental identity and a nod to the Planeswalker Spark as MTG's power metaphor.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Snapping Sailback", "set": "Magic Origins", "note": "Another red elemental creature from a core set previewed by Kibler"},
+    {"name": "Reckless Bushwhacker", "set": "Oath of the Gatewatch", "note": "Red haste creature with a similar mass-pump-on-attack role in aggressive decks"},
+    {"name": "Goblin Rabblemaster", "set": "Magic 2015", "note": "Comparable red three-drop with haste and an attack-based pump effect for the team"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

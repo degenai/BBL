@@ -72,3 +72,15 @@ The painting shows a large spider from an overhead perspective, centered in the 
 **Creatures:** spider
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Reprint longevity** — Giant Spider has been printed in 36 distinct editions, making it one of the longest-running commons in MTG history. It appeared in Limited Edition Alpha (1993) and has been continuously reprinted through Dominaria Remastered (2023), spanning thirty years of the game. [Scryfall prints search]
+- **Randy Gallegos ownership** — The M19 illustration (and the majority of Giant Spider prints since 1995) is the work of Randy Gallegos, who debuted with Magic in Ice Age and has illustrated over 500 cards for the game. Gallegos has noted surprise at the card's enduring reprint life in a Magic Untapped interview, naming Giant Spider alongside Shock and Dance of the Dead as cards whose longevity caught him off guard. [magicuntapped.com, "An interview with Magic artist Randy Gallegos"; Hipsters of the Coast, "Randy Gallegos Eldraine Food Token sells for $3,000"]
+- **Flavor text speaker** — The M19 flavor text — "After everything I've survived, it's hard to be frightened by anything anymore." — is attributed to Vivien Reid, the planeswalker introduced in Core Set 2019. Vivien is the last survivor of Skalla, a plane destroyed by Nicol Bolas, who wields the Arkbow, an artifact containing spirit-forms of every creature that ever lived on her home plane. The quote fits her character archetype as a survivalist naturalist with a hardened but affectionate relationship to dangerous fauna. [Scryfall; magic.wizards.com/en/story/vivien-reid-planeswalker]
+- **Mechanical niche** — Giant Spider is pauper- and commander-legal across its many prints. EDHREC records it in approximately 1,606 Commander decks; it sees the most inclusion in spider-tribal builds led by commanders like Shelob, Child of Ungoliant. As a vanilla-adjacent Reach common it functions primarily as a budget flying-blocker in limited formats. [EDHREC: edhrec.com/cards/giant-spider; Scryfall legalities]
+
+### Related cards
+- Vivien Reid (Core Set 2019, no. 208) — planeswalker whose flavor text appears on this card; her Arkbow preserves creature spirits including spiders
+- Shelob, Child of Ungoliant (The Lord of the Rings: Tales of Middle-earth) — the most popular commander for spider-tribal decks where Giant Spider appears
+- Ishkanah, Grafwidow (Shadows over Innistrad) — second highest Giant Spider inclusion by commander; spider-tribal payoff
+- Arachnus Web (Magic 2012) — spider-thematic removal that synergizes with spider tokens; same color identity

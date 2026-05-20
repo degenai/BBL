@@ -1,0 +1,42 @@
+{
+  "card_name": "Fertilid",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "226",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Commander Legends (CMR), released November 20, 2020, was the first Magic set designed explicitly as a draftable Commander format — players drafted with 20-card packs taking two cards per pick, then built 60-card singleton-optional Commander decks. Fertilid is a reprint inclusion in that environment, its ramp utility making it a reliable green draft pick for mana-hungry Commander shells. [Scryfall; Hipsters of the Coast, 'A First Look at Commander Legends', 2020]",
+      "sources": ["Scryfall", "Hipsters of the Coast"]
+    },
+    {
+      "category": "design",
+      "text": "Fertilid originated in Morningtide (February 2008), the follow-up small set to Lorwyn, where the counter-as-resource theme ran through the set's tribal designs. It has been reprinted 14 times across Planechase, Archenemy, Commander 2011, Duel Decks: Nissa vs. Ob Nixilis, Battlebond, Ikoria, Jumpstart, Zendikar Rising Commander, Commander Legends, Neon Dynasty Commander, Jumpstart 2022, and March of the Machine Commander — making it one of the most broadly distributed common ramp creatures in the game. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "On EDHREC, Fertilid holds an edhrec_rank of 2686 and appears in approximately 1.32% of Commander decks — roughly 54,000 decks surveyed. Its appeal is the 'target player' clause: unlike most land-ramp, Fertilid can fetch for any player, making it useful in group-hug and politics strategies as well as straightforward ramp. [Scryfall edhrec_rank field; EDHREC card page]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "The Commander Legends printing was illustrated by Wayne Reynolds, a British fantasy illustrator whose MTG originals command strong auction prices — his Feather, the Redeemed original sold for $6,050 (2019) and his Bruenor Battlehammer original sold for $26,000 (2021). Fertilid is a common, but the Reynolds credit connects it to a body of high-value original work. [Hipsters of the Coast, 'Painting for Bruenor Battlehammer by Wayne Reynolds Sells for $26,000', 2021; 'Art for Feather, the Redeemed by Wayne Reynolds Sells for $6,050', 2019]",
+      "sources": ["Hipsters of the Coast"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fertilid's Favor", "set": "March of the Machine", "note": "Direct descendant card using Fertilid's name and counter mechanic"},
+    {"name": "Lys Alana Huntmaster", "set": "Lorwyn", "note": "Co-set card from the Morningtide block era with shared counter-matters design space"},
+    {"name": "Retreat to Kazandu", "set": "Battle for Zendikar", "note": "Common EDHREC combo partner with Fertilid via landfall triggers"},
+    {"name": "Lotus Cobra", "set": "Zendikar", "note": "EDHREC-documented Fertilid combo piece via land-fetch mana generation"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

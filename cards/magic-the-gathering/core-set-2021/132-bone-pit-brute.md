@@ -78,3 +78,14 @@ A huge muscular cyclops with a single bright eye grins broadly while raising bot
 **Creatures:** cyclops
 **Genre cues:** fantasy, painterly
 
+## Trivia
+
+- **Set context** — Bone Pit Brute is an M21 original — no prior printing, no subsequent reprints as of the Scryfall prints record. Despite its six-mana cost, it is legal in Pauper and Pauper Commander. `[Scryfall prints search; Scryfall legalities]`
+- **Mechanical reputation** — A 4/5 Cyclops for {4}{R}{R} with Menace; when it enters, target creature gets +4/+0 until end of turn. The ETB pump layered on Menace makes it a combo-finisher in Pauper blink or ramp shells where the ETB trigger can be recurred. EDHREC rank 27283 reflects low Commander demand at six mana where larger threats are plentiful. `[Scryfall oracle text; EDHREC]`
+- **Flavor text** — "Welcome to the club." — anonymous `[Scryfall]`. The art and text function as a visual punch-line: a grinning cyclops welcoming someone (or something) to a pit already full of bones, delivering a gang-initiation line with deadpan menace. The humor is the whole joke.
+- **Design** — Illustrated by Victor Adame Minguez, a Spanish artist with a large MTG portfolio spanning Battle for Zendikar through modern releases. MTGNexus hosts a gallery entry for this specific piece. The comedic register of Bone Pit Brute's art is an outlier in Adame Minguez's catalog, which tends toward high-detail figurative fantasy. `[Scryfall artist field; MTGNexus gallery via WebSearch]`
+
+### Related cards
+- Cyclops of Eternal Fury (Magic 2015) — another red core-set Cyclops with a haste-granting ETB, functional parallel in Cyclops design space
+- Lava Axe (Core Set 2019) — classic red Pauper finisher at comparable mana cost; contextual peer for Pauper red top-end evaluation
+- Enthralling Hold (Core Set 2021) — same-set blue common with a control-oriented ETB, illustrating M21's symmetry of ETB-value commons across colors

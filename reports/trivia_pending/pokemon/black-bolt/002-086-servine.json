@@ -1,0 +1,46 @@
+{
+  "card_name": "Servine",
+  "game": "Pokemon",
+  "set": "Black Bolt",
+  "collector_number": "002/086",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, Pokedex number (no. 496), and illustrated species exactly match the canonical Servine design (sleek green serpentine Grass-type Stage 1 evolution, leaf-frill collar, vine-like body). PokemonTCG.io card ID zsv10pt5-2 confirms name = Servine. IP verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Servine (no. 002/086) occupies the second position in Scarlet & Violet: Black Bolt (SV11B), the 2025 Japan-exclusive Unova-retrospective expansion, immediately following Snivy (no. 001/086). The sequential placement mirrors the species' evolution order within the Grass-starter line (Snivy evolves into Servine at level 17). [PokeGuardian: SV11B Black Bolt main set list; PokemonTCG.io: zsv10pt5-2]",
+      "sources": ["PokeGuardian: SV11B Black Bolt main set list", "PokemonTCG.io: zsv10pt5-2"]
+    },
+    {
+      "category": "design",
+      "text": "Servine is the Stage 1 (middle form) of the Snivy-Serperior line, which Ken Sugimori designed around Western European aristocracy — specifically citing Lady Oscar from The Rose of Versailles. Within the line, Servine represents the transition from Snivy's intelligent calm to Serperior's regal authority: its flavor text foregrounds sliding motion and vine-whip combat as the species' mid-stage combat register, marking the shift from temperament-based identity (calm, photo-kinetic) to evasion-and-attack style. [Bulbapedia: Serperior (Pokemon), citing Sugimori]",
+      "sources": ["Bulbapedia: Serperior (Pokemon)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Printed flavor text: \"It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.\" The sliding-gait and vine-whip together encode the species' mid-stage elegance-as-combat-style — a tonal step up from Snivy's calm intelligence toward Serperior's regal authority. [PokemonTCG.io: zsv10pt5-2]",
+      "sources": ["PokemonTCG.io: zsv10pt5-2"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Diamond Legendz Zodiac grid placement: Servine, as Stage 1 of the Snivy line, co-anchors the **Wood Snake** cell alongside Snivy. Grass-type (Wuxing Wood) + serpentine body plan (Snake zodiac animal) is the dual-predicate placement logic shared across the entire evolutionary line. The line's culmination Serperior is the official 'Regal Pokemon,' with possible design cues from Chinese and Japanese imperial figures reinforcing the loong-regality register. [Bulbapedia: Serperior (Pokemon); Veekun: Serperior no. 497]",
+      "sources": ["Bulbapedia: Serperior (Pokemon)", "Veekun: Serperior no. 497"]
+    },
+    {
+      "category": "design",
+      "text": "Servine (002/086) and Snivy (001/086) in Black Bolt are both illustrated by Susumu Maeya, making them a within-set single-artist coordinated evolution pair. This TCG editorial pattern — adjacent collector numbers, same artist, sequential evolution stages — is documented across at least four pairings in the Black Bolt set. [PokemonTCG.io: zsv10pt5-1 and zsv10pt5-2 artist fields]",
+      "sources": ["PokemonTCG.io: zsv10pt5-1", "PokemonTCG.io: zsv10pt5-2"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Snivy", "set": "Black Bolt", "note": "Adjacent-collector pre-evolution mirror, same artist (Susumu Maeya)"},
+    {"name": "Serperior", "set": "Various", "note": "Final evolution; 'Regal Pokemon' no. 497; Serperior ex appears in the same Black Bolt set"},
+    {"name": "Servine Art Rare", "set": "Black Bolt", "note": "Higher-rarity variant of the same species in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

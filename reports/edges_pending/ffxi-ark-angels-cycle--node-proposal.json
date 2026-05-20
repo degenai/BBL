@@ -1,0 +1,45 @@
+{
+  "edge_id": "ffxi-ark-angels-cycle--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/ffxi-ark-angels-cycle.md", "name": "FFXI Ark Angels cycle (five Crystal Warriors of Zilart Mission 14 — Apathy, Arrogance, Cowardice, Envy, Rage)"},
+    {"type": "card", "path": "cards/final-fantasy-tcg/opus-viii/8-001r-ark-angel-hm.md", "name": "Ark Angel HM (Opus VIII 8-001R)"},
+    {"type": "card", "path": "cards/final-fantasy-tcg/opus-viii/8-023r-ark-angel-gk-ex.md", "name": "Ark Angel GK EX (Opus VIII 8-023R)"},
+    {"type": "card", "path": "cards/final-fantasy-tcg/opus-viii/8-067r-ark-angel-tt--foil.md", "name": "Ark Angel TT (Opus VIII 8-067R foil)"}
+  ],
+  "description": "Edgelord, sir — I do apologize. There was a clean Mr. Nodeley case sitting in Opus VIII and I really had to step in. Three FFTCG cards (8-001R Ark Angel HM, 8-023R Ark Angel GK EX, 8-067R Ark Angel TT) all IP-verified to the Final Fantasy XI Zilart Mission 14 Ark Angels quintet — five Crystal Warriors created by the ancient Zilart civilization, each embodying one of Vana'diel's five racial sins (Apathy/Hume, Arrogance/Elvaan, Envy/Mithra, Cowardice/Tarutaru, Rage/Galka). It is a designer-coordinated five-boss cycle stated directly in the in-game lore (the canonical 'Apathy, arrogance, cowardice, envy, rage — the darkness that lurks within us all' framing is Square-published, not BBL-curatorial). The corpus has three of five, all in the same FFTCG set as Rare Fire-element Forwards — a within-set quintet-cohort cluster. Every card already lists its Ark-Angel siblings in its `### Related cards` section, so the cohort anchor was the missing piece. A 1:1 mirror between any two cards would be made redundant by the future addition of EV / MR, sir, so the node felt — if you don't mind my saying — like the right move. I hope this is alright.",
+  "files_modified": [
+    "cards/_characters/ffxi-ark-angels-cycle.md",
+    "cards/final-fantasy-tcg/opus-viii/8-001r-ark-angel-hm.md",
+    "cards/final-fantasy-tcg/opus-viii/8-023r-ark-angel-gk-ex.md",
+    "cards/final-fantasy-tcg/opus-viii/8-067r-ark-angel-tt--foil.md"
+  ],
+  "citations": [
+    "[Square (2002 JP) / Square Enix (2003 NA), Final Fantasy XI: Rise of the Zilart — primary canon for the Ark Angels quintet, Zilart Mission 14 at La'Loff Amphitheater in Tu'Lia, the Crystal Warriors lore, the sins-of-the-races mapping, and the 'Divine Might' optional quest]",
+    "[Final Fantasy Wiki — per-character pages for Ark Angel HM / EV / MR / TT / GK and the parent Ark Angels boss-encounter page; canonical aggregator for race-sin pairings and Zilart Mission 14 mechanics]",
+    "[FFXIclopedia — alternate canonical aggregator for the Ark Angels, primary source for FFXI Notorious Monster encounter profiles]",
+    "[BG-wiki (bg-wiki.com) — FFXI players' canonical encounter-strategy aggregator, primary source for per-Ark-Angel combat mechanics (Cross Reaver for HM; great-katana weapon-skill ladder for GK; Amon Drive multi-status finisher for TT)]",
+    "[Square Enix / Hobby Japan (2019-03), FFTCG Opus VIII expansion — designer-formalized FFXI-Ark-Angel-cohort moment in FFTCG; primary source for the three Opus VIII prints 8-001R, 8-023R, 8-067R at Rare Fire-element Forward slot]",
+    "[FFTCG Crystarium 'How to Win Limited: Opus VIII Review' — community-tier evaluation for Ark Angel HM premium-aggressive-rare placement; per existing card trivia]"
+  ],
+  "future_node_candidates": [
+    "ffxi-notorious-monsters — parent cohort if 3+ non-Ark-Angel FFXI-NM sibling nodes accumulate (Eald'narche, Kam'lanaut, the Shadow Lord, the Wyrm Kings); current corpus has only the Ark Angels-quintet members so no parent yet justified",
+    "shadow-self-quintets — cross-franchise parent if a third quintet-cohort node sibling accumulates beyond ffxi-ark-angels-cycle + fear-of-cycle; not yet justified at N=2",
+    "ark-angel-ev (per-character node) — only if EV accumulates 3+ corpus prints across 2+ sets per dwebble-line precedent; threshold not met (zero corpus prints)",
+    "ark-angel-mr (per-character node) — same threshold logic"
+  ],
+  "other_candidates_considered": [
+    "1:1 mirror edge between HM 8-001R and GK EX 8-023R (Crystal Warrior cohort siblings within Opus VIII) — refused; would be made redundant by node creation",
+    "1:1 mirror edge between TT 8-067R and HM 8-001R (Fire-Rare Opus VIII Ark Angel cohort) — refused; same redundancy concern",
+    "Job-class generic-figure cohort node (Red Mage / Black Mage / Bard / Warrior / Time Mage / Scholar / Archer / Dark Knight / Machinist / Monk / Ninja / Selkie in Opus VIII) — declined this pass; the FFTCG job-class generics span multiple FF entries and don't share a single canonical cohort identity the way the Ark Angels do; a future Mr. Nodeley pass might split into per-job-class or per-FF-entry parents but the cohort architecture needs more thought than this single invocation permits",
+    "Cid cohort (8-011c-cid-ffl + 8-054r-cid-highwind) — declined this pass; only two corpus Cids in Opus VIII at present, threshold (3+ across 2+ sets) not yet met; surfaces as future candidate per next_pass_suggestions"
+  ],
+  "next_pass_suggestions": [
+    "After 1-2 more corpus FFTCG additions, revisit the Cid-recurring-character question — across Opus VIII and earlier opuses, FFTCG prints multiple Cids (FFL, Highwind, FF7, FF14, etc.); when 3+ corpus Cid prints land, a `cid-recurring-character` cohort node becomes Mr. Nodeley-eligible",
+    "When ark-angel-ev or ark-angel-mr lands via Collectr CSV, the appears_on list extends and the cohort-coverage moves toward full-quintet; bundle assembly natural at three-of-five (current) or higher",
+    "Mid-term: FFTCG job-class generic-figure cohort architecture decision — single parent job-classes-cohort node vs per-job-class per-FF-entry per-card sub-cohorts. Defer until more job-class cards are enriched and the architecture preference clarifies"
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct"
+}

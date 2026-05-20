@@ -1,0 +1,42 @@
+{
+  "card_name": "Lys Alana Bowmaster",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "241",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Lys Alana is the capital settlement of the Gilt Leaf tribe of elves on the plane of Lorwyn — the palace called Dawn's Light sits at its center, inhabited by Perfect and Exquisite class elves who treat beauty as a social hierarchy. Bowmasters defending this seat would represent the outer guard of that aristocratic order. [MTG Wiki: Lys Alana, via WebSearch snippet]",
+      "sources": ["MTG Wiki via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Lys Alana Bowmaster originated in Morningtide (February 2008), the follow-up small set to Lorwyn. The 'whenever you cast an Elf spell' trigger was a signature Morningtide design pattern: the set shifted Lorwyn's tribal theme from 'creatures in play' to 'spells cast,' rewarding players for playing the tribal game more actively. Commander Legends (November 2020) is its only reprint. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Reach plus a flying-damage trigger on every Elf cast gives the card two distinct anti-air angles in Elf tribal Commander builds. EDHREC rank 16400 confirms it is a fringe inclusion — the 2-damage trigger is conditional on the flying creature being a legal target, and most Commander elf builds prioritize creature density over disruption. Legal in Modern, Legacy, Pauper, and Commander formats. [Scryfall legalities; Scryfall edhrec_rank field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Multiple named cards reference Lys Alana as a location: Lys Alana Huntmaster (Lorwyn), Lys Alana Scarblade (Morningtide), and Lys Alana Dignitary (Lorwyn Eclipsed). The Bowmaster is the Morningtide entry in that named-place cycle, grounding a mechanical action (shooting flyers) in a specific seat of Lorwyn elf power. [Scryfall card search]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lys Alana Huntmaster", "set": "Lorwyn", "note": "Named-location sibling card from Lorwyn, elf tribal token maker"},
+    {"name": "Lys Alana Scarblade", "set": "Morningtide", "note": "Morningtide sibling in the Lys Alana named-place cycle"},
+    {"name": "Lys Alana Dignitary", "set": "Lorwyn Eclipsed", "note": "Lorwyn Eclipsed entry in the Lys Alana named-location card group"},
+    {"name": "Imperious Perfect", "set": "Lorwyn", "note": "Lorwyn elf aristocracy staple — same Gilt Leaf tribal context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

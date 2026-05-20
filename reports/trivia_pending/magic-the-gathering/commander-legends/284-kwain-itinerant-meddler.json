@@ -1,0 +1,42 @@
+{
+  "card_name": "Kwain, Itinerant Meddler",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "284",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Kwain, Itinerant Meddler is a new character introduced in Commander Legends (November 2020) — a Legendary Creature — Rabbit Wizard with no prior printings and no prior appearances in MTG lore. As one of 71 new legends in the set, Kwain was designed specifically for the draftable Commander format. [Scryfall reprint:false; Scryfall set_name]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Kwain is widely recognized as the first Legendary Rabbit in Magic: The Gathering history. The rabbit creature type had been exceedingly rare — Vizzerdrix (Seventh Edition, 2001; Ninth Edition, 2004) and Kezzerdrix (Tempest) are among the only notable prior rabbit creatures. The community nickname for Kwain-led decks, 'Wizzardrix,' is a portmanteau of Wizard and Vizzerdrix, acknowledging the genealogy. [WebSearch: Vizzerdrix MTG rabbit history; community discourse via TappedOut deck names]",
+      "sources": ["WebSearch", "TappedOut via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Why so slow, why so slow? Hurry up! You never know what you'll find.\" — Kwain. [Scryfall flavor_text field]. The card is one of the few where the flavor text is spoken by the depicted creature itself, reinforcing Kwain's itinerant, impatient, meddling character.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Kwain's {T} ability gives each player optional draw plus 1 life — a symmetrical group-hug effect stapled to a legendary creature body. EDHREC rank 2281 makes it the most-played card in this 5-card batch. The {W}{U} color identity limits pure group-hug combo lines that often rely on green ramp, but Azorious control and life-gain synergies compensate. The card serves as both commander and 99 inclusion. [Scryfall edhrec_rank field; EDHREC commander page via WebSearch]",
+      "sources": ["Scryfall", "EDHREC via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vizzerdrix", "set": "Seventh Edition", "note": "One of the only prior MTG rabbit creatures; community-named Kwain decks 'Wizzardrix' in its honor"},
+    {"name": "Howling Mine", "set": "Unlimited Edition", "note": "Archetype group-hug card draw that Kwain mechanically echoes with the added optional clause and life gain"},
+    {"name": "Kami of the Crescent Moon", "set": "Saviors of Kamigawa", "note": "Blue legend with similar symmetrical draw effect; common Kwain comparator in deck discourse"},
+    {"name": "Alms Collector", "set": "Commander 2017", "note": "White card that can punish opponents drawing via Kwain — commonly noted tension piece in Kwain builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

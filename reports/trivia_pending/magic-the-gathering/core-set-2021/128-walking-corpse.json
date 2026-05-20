@@ -1,0 +1,41 @@
+{
+  "card_name": "Walking Corpse",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "128",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Walking Corpse debuted in Innistrad (September 2011) and has been reprinted in Magic 2013, Magic 2015, Welcome Deck 2016, Core Set 2019, Core Set 2020, The List (2019), and Core Set 2021 — eight distinct printings spanning a decade. Every single printing was illustrated by Igor Kieryluk, an unusually consistent single-artist run for a card with this many reprintings. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Feeding a normal army is a problem of logistics. With zombies, it is an asset. Feeding is why they fight. Feeding is why they are feared.\" — Jadar, ghoulcaller of Nephalia [Scryfall]. Jadar is a named character from Innistrad lore: a former village surgeon who turned to necromancy and became one of Nephalia's most infamous ghoulcallers, fishing corpses from the Morkrut marsh and reanimating them. He received a legendary creature card in Innistrad: Midnight Hunt (2021). [Scryfall; MTG Wiki: Jadar via WebSearch snippet]",
+      "sources": ["Scryfall", "MTG Wiki: Jadar (via WebSearch)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Walking Corpse is a 2/2 Zombie for two mana with no abilities — a pure vanilla body. It is legal in Pauper and has appeared in Pauper zombie-tribal lists, where the 2/2 floor plus Zombie creature type matters for lords like Death Baron or Lord of the Undead. EDHREC rank 23154 reflects its low Commander ceiling as a baseline vanilla. [Scryfall legalities; EDHREC]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Innistrad (2011) introduced Walking Corpse as part of the set's horror-gothic zombie population. Innistrad is notable as the MTG plane most associated with gothic horror — werewolves, vampires, spirits, and zombies — and Walking Corpse serves as the archetype's most basic zombie unit, a deliberate design callback to horror genre tropes of mindless undead. [Scryfall set: Innistrad]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Jadar, Ghoulcaller of Nephalia", "set": "Innistrad: Midnight Hunt", "note": "The flavor-text speaker; received his own legendary creature card in 2021"},
+    {"name": "Death Baron", "set": "Shards of Alara", "note": "Zombie lord that pumps all Zombies and Skeletons including Walking Corpse"},
+    {"name": "Diregraf Ghoul", "set": "Innistrad", "note": "Sister vanilla Zombie from the original Innistrad set, often compared as the other 2/2 Zombie baseline"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

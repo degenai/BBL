@@ -10,8 +10,26 @@ condition: Moderately Played
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - fire
+  - lizard
+  - starter
+  - flame
+  - outdoors
+  - nature
+  - small-creature
+  - orange
+  - grass
+  - iconic
+  - dragon-line
+  - warmth
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - portrait-mode
+  - pokemon-fire-type
+  - modern-composite-style
 reference_image: cards/_images/pokemon/base-set-unlimited/46-charmander--moderately-played.png
 average_cost_paid: 0
 market_price: 1.88
@@ -33,6 +51,13 @@ artist: Mitsuhiro Arita
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: day
+setting: forest
+subject_known_ip: true
+suspected_ip: Charmander
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -42,12 +67,22 @@ tags:
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![46-charmander--moderately-played](../../_images/pokemon/base-set-unlimited/46-charmander--moderately-played.png)
 
+> [!warning] Suspected IP: **Charmander** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-**Subject:** 
+A small orange bipedal lizard creature with a flame-tipped tail stands upright on a patch of green grass. The art style is a photorealistic composite — the creature is rendered in a smooth, digitally-painted style placed against what appears to be a real outdoor photograph with blurred background vegetation and human legs visible at the top edge. The lighting is warm and naturalistic, casting soft shadows on the grass. The creature's body is orange, the underbelly is lighter, and the tail tip glows with an orange flame. The overall register is warm-toned with green and orange dominating. This art is distinctly different from the 1990s Ken Sugimori flat-illustration style — it reads as a Sword and Shield era or similar modern composite.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Subject:** Charmander, the small fire-lizard starter Pokémon, standing on a grassy surface outdoors in a photorealistic composite style
+
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** forest, day, clear
+**Foreground:** Charmander standing on grass, orange body, flame tail  *(palette: orange, light-cream, green)*
+**Background:** Blurred outdoor photograph — grass, vegetation, partial human legs at top  *(palette: green, warm-brown, soft-orange)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** alert, upright posture suggesting readiness
+**Objects:** flame, grass
+**Creatures:** fire-lizard, charmander
+**Genre cues:** anime, fantasy, photorealistic-composite
 

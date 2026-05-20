@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - ice
+  - frozen
+  - helplessness
+  - falling
+  - chaos
+  - winter
+  - light
+  - ordinary-person
+  - powerlessness
+  - void
+  - transformation
+  - white-out
+tags_filter:
+  - solo
+  - mid-shot
+  - action-mode
+  - blue-magic
+  - enchantment-aura
+  - forward-facing
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/78-utter-insignificance.png
 average_cost_paid: 0
 market_price: 0.25
@@ -30,7 +48,28 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{1}{U}"
+mood: horror
+time_of_day: indeterminate
+setting: other
 tags:
   - card
 ---
 # Utter Insignificance (Modern Horizons 3)
+
+## Vision
+
+![78-utter-insignificance](../../_images/magic-the-gathering/modern-horizons-3/78-utter-insignificance.png)
+
+A humanoid figure in plain clothes — a cream or off-white tunic and brown trousers with a belt — appears suspended or tumbling through a chaotic scene of swirling ice, frost, and crystalline formations. Both arms are thrown outward, the body is clearly in uncontrolled motion. A harsh white light source blazes from the upper left, washing out the upper background. Jagged icy structures and frozen debris surround and frame the figure. The overall atmosphere is one of helplessness and disorientation. A shadowed, arm-like presence is faintly visible in the upper left corner, though indistinct.
+
+**Subject:** A humanoid figure in plain work clothes suspended or tumbling through a chaotic icy frozen environment, arms flung outward
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** other, indeterminate, snow
+**Foreground:** Humanoid figure in plain clothes tumbling with arms thrown wide  *(palette: cream, brown, white, grey)*
+**Background:** Chaotic icy crystalline environment with harsh white light  *(palette: white, pale-blue, grey, silver)*
+**Mood / lighting:** horror, harsh
+**Emotion read:** helplessness, panic, disorientation
+**Iconography:** ice, frozen-debris
+**Genre cues:** fantasy, sci-fi
+

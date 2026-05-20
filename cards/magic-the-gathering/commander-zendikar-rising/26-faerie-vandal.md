@@ -78,3 +78,15 @@ A slender faerie figure in sharp profile faces left, gripping a golden ring or h
 **Iconography:** halo, wings
 **Genre cues:** fantasy, urban-fantasy
 
+## Trivia
+
+- **Design history** — First printed in Throne of Eldraine (October 2019, no. 45/269), illustrated by Paul Scott Canavan — a BAFTA award-winning concept artist from Edinburgh who has worked for Wizards of the Coast, Valve, Netflix, and Games Workshop. The Zendikar Rising Commander copy (ZNC no. 26, September 2020) is its second printing. Scryfall records five total printings: Throne of Eldraine, Zendikar Rising Commander, Streets of New Capenna (no. 44, April 2022), Jumpstart 2022, and Foundations Jumpstart (November 2024). [Scryfall: prints search; WebSearch: Paul Scott Canavan professional bio via ArtStation]
+- **Flavor text** — "History may be written by the triumphant, but it's often rewritten by the troublesome." — no speaker attributed. `[Scryfall]` The unattributed line frames the Faerie Rogue's theft as archival insurgency — the golden halo in her hands is less loot than stolen record.
+- **Mechanical** — The "draw your second card each turn" trigger is a Throne of Eldraine design motif, introduced to avoid redundancy with cantrip-on-first-draw staples. Faerie Vandal scales in draw-heavy decks: each second draw per turn adds a +1/+1 counter (once per turn maximum). EDHREC records it in 20,855 Commander decks, appearing in Faerie tribal, draw-matters, and flash-tempo builds. [EDHREC: Faerie Vandal — WebSearch snippet; Scryfall: oracle_text]
+- **Format legality note** — Despite being Uncommon, Faerie Vandal is not legal in Pauper or Paupercommander as of 2026-05-19 — all five printings have been at Uncommon rarity. Legal in Commander, Pioneer, Modern, Legacy, Vintage, Historic, and Timeless. [Scryfall API: legalities field]
+
+### Related cards
+- Spellstutter Sprite (Lorwyn) — classic Faerie Rogue flash-counter; overlapping tribal archetype
+- Bitterblossom (Morningtide) — Faerie tribal engine; likely shares Commander deck contexts
+- Brazen Borrower (Throne of Eldraine, no. 39) — same set and Faerie Rogue type; flash + bounce sibling
+- Teferi's Ageless Insight (Core Set 2021) — draw-doubler that synergizes with second-card-draw triggers

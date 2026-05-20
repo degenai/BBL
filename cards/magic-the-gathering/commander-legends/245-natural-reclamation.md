@@ -73,3 +73,15 @@ A ruined stone structure stands deep in a dense, ancient forest, almost complete
 **Iconography:** overgrown-ruins, god-rays, lost-civilization
 **Genre cues:** fantasy, high-fantasy, painterly
 
+## Trivia
+
+- **Design history** — Natural Reclamation is a new card in Commander Legends (November 20, 2020) — Scryfall's `reprint: false` confirms no prior printing. It was subsequently reprinted in Commander Legends: Battle for Baldur's Gate (CLB, 2022, card 829). The design pairs Cascade with Naturalize-effect removal, a combination that had not previously appeared on a single card. `[Scryfall]`
+- **Mechanical reputation** — EDHREC rank 5493 places it as a moderate Commander inclusion. At {4}{G} with Cascade, it cascades into any nonland spell with mana value 4 or less — the value proposition is the free cascade hit, not the base removal effect, which competes poorly with cheaper dedicated answers like Krosan Grip. `[Scryfall edhrec_rank field]`
+- **Artist signal** — Illustrated by Alayna Danner, widely described by 2020 as Magic's go-to landscape artist (50+ cards painted). Her original paintings have reached $3,056–$3,751 at auction; she collaborated with Rebecca Guay on an original watercolor for Guay's December 2020 Kickstarter. The overgrown-ruins composition of Natural Reclamation is central to Danner's practiced visual range. `[Hipsters of the Coast, "Alayna Danner Sells Two Storybook Originals", 2019; "Rebecca Guay Adds Collaborations with Seb McKinnon and Alayna Danner", 2020]`
+- **Rules note** — A 2021 rules update to Cascade formalized that the spell you choose to cast must also have lesser mana value than the Cascade card (not merely the exiled card). This did not change Natural Reclamation's play pattern but applied retroactively to all Cascade cards. `[MTG Assist rules note, via WebSearch]`
+
+### Related cards
+- Naturalize (Eighth Edition) — functional baseline for the remove-artifact-or-enchantment effect Natural Reclamation upgrades with Cascade
+- Krosan Grip (Time Spiral) — Commander-staple benchmark this card competes with on rate
+- Shardless Agent (Alara Reborn) — canonical Cascade-on-a-body reference point for evaluating Commander Legends' Cascade commons
+- Natural State (Oath of the Gatewatch) — more restrictive cost-limited variant; illustrates the breadth of the effect's cost spectrum

@@ -49,6 +49,8 @@ setting: other
 suspected_ip: Rufflet
 ip_confidence: high
 ip_verified: true
+characters:
+  - rufflet-line
 ---
 
 # Rufflet (Steam Siege)
@@ -86,5 +88,5 @@ A framed Steam Siege card. The art shows Rufflet — a small compact bird with w
 
 ## Connections
 
-- [[153-191-braviary]] — Direct evolution. Rufflet (#627) evolves into Braviary (#628) at level 54; the line is a single canonical two-stage evolution designed by Takao Unno as Unova's bald-eagle Americana allegory, with both stages male-exclusive. The Pokedex framing "challenges anything without fear" on this Rufflet matures into Braviary's diving-predator silhouette. `[PokemonTCG.io: evolvesFrom field; Bulbapedia: Rufflet evolution; Bulbapedia: Braviary]`
+- [[rufflet-line]] — Base-stage representative of the Rufflet evolutionary line (Pokedex 627 / 628, Normal/Flying, two-stage, male-exclusive, Unova Gen V). This Steam Siege Rufflet 92/114 is the corpus's earliest in-print example of the line and the only Rufflet print where the species' canonical aspirant-warrior temperament is rendered as printed flavor text verbatim from the mainline Pokedex — *"They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger"* — with the attack name "Reckless Charge" mechanically echoing the strength-through-self-hazarding framing. Illustrated by Mitsuhiro Arita, the XY-era pre-Surging-Sparks pre-Black-Bolt print at the line's earliest TCG-era waypoint in the corpus. Per the cohort-subsumes-1:1-mirrors precedent established in `solrock-lunatone-pair` / `mareep-line` / `staraptor-line` / `caterpie-line`, the prior Rufflet-XY11-92 ↔ Braviary-SV8-153 1:1 mirror is now subsumed by the cohort node (which also covers the within-Black-Bolt adjacent-collector-number Rufflet 077 + Braviary 078 same-artist pair that the prior 1:1 mirror omitted entirely). `[PokemonTCG.io: xy11-92; Bulbapedia: Rufflet (Pokemon); Pokemon White Pokedex flavor #627]`
 

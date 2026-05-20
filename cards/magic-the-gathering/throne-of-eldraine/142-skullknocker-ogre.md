@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - ogre
+  - books
+  - destruction
+  - brute
+  - library
+  - giant
+  - crash
+  - chaos
+  - monster
+  - knowledge-destruction
+tags_filter:
+  - solo
+  - close-up
+  - away-facing
+  - red-magic
+  - creature-ogre
+  - action-mode
+  - overhead-perspective
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/142-skullknocker-ogre.png
 average_cost_paid: 0
 market_price: 0.02
@@ -30,7 +47,29 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{3}{R}"
+mood: action
+time_of_day: indeterminate
+setting: indoor
 tags:
   - card
 ---
 # Skullknocker Ogre (Throne of Eldraine)
+
+## Vision
+
+![142-skullknocker-ogre](../../_images/magic-the-gathering/throne-of-eldraine/142-skullknocker-ogre.png)
+
+An extreme overhead perspective looks down at a hulking ogre whose enormous pale-green head and broad shoulders fill most of the frame. The creature is hunched forward as if mid-crash, breaking through something below. Scattered around the ogre are torn pages, books, and wooden debris — folios flying outward from the impact. The ogre's skin is mottled pale gray-green and the texture is rough and lumpy. Shards of wood and what appear to be book covers in reds and browns ring the creature. The composition creates a sense of violent downward momentum.
+
+**Subject:** a massive ogre viewed from above, head and shoulders dominating the frame, crashing through a door surrounded by scattered books and debris
+
+**Composition:** close-up, action, figures: solo, facing: away
+**Setting:** indoor, ruined, indeterminate
+**Foreground:** ogre's large head and shoulders, pale gray-green skin, crashing downward  *(palette: pale gray-green, mottled gray, off-white)*
+**Background:** scattered books, wooden debris, torn pages, red and brown fragments  *(palette: red-brown, tan, white)*
+**Mood / lighting:** action, harsh
+**Emotion read:** brutal impact, mindless force — no visible face expression
+**Objects:** books, torn pages, wooden door debris, folios
+**Creatures:** ogre
+**Genre cues:** fantasy, fairy-tale
+

@@ -1,0 +1,74 @@
+{
+  "edge_id": "oku-artist-node-REFUSED",
+  "wave": 137,
+  "shape": "refusal",
+  "topology": "branch (refused)",
+  "category": "shared-artist-thematic",
+  "endpoints": [
+    {"type": "artist", "path": "cards/_artists/oku.md (NOT CREATED)", "name": "Oku (proposed, refused)"},
+    {"type": "card", "path": "cards/pokemon/black-bolt/064-086-pawniard.md", "name": "Pawniard (Black Bolt 064/086)"},
+    {"type": "card", "path": "cards/pokemon/black-bolt/065-086-bisharp.md", "name": "Bisharp (Black Bolt 065/086)"},
+    {"type": "card", "path": "cards/pokemon/destined-rivals/097-182-nosepass.md", "name": "Nosepass (Destined Rivals 097/182)"}
+  ],
+  "description": "REFUSED at the alias-disambiguation gate, per the Yusuke Ohmura precedent (reports/edges_pending/yusuke-ohmura-artist-node-REFUSED.json). Oku has 3 corpus prints (BLB-064 Pawniard, BLB-065 Bisharp, DR-097 Nosepass) across 2 sets — that clears the raw count threshold three existing artist nodes set (Sanosuke Sakuma at 5, Clint Cearley at 4, Jenn Ravenna Tran at 4). But the artist layer's stated purpose per bbl-artists-layer-built memory is ALIAS DISAMBIGUATION — Jenn Ravenna Tran exists because Scryfall stored 'Ravenna Tran' on Dominaria-era prints while the printed card credit was 'Jenn Ravenna Tran' / 'Jenn Ravenna' and the artist_resolve.py helper maps stored to canonical at render time. Oku has zero alias drift: all three corpus prints are stamped consistently as 'Oku' in the artist: frontmatter field. The resolver passes through the stored credit unchanged. There is no canonical-versus-stored divergence to disambiguate. Additionally, zero of the three corpus prints has been trivia-passed yet — no load-bearing biographical or cross-medium published fact has been surfaced in-corpus (contrast with Sanosuke Sakuma, whose node was justified by the Larvitar DAA-086 trivia pass's cross-medium Galar-NPC-design-portfolio discovery, the kind of hidden-but-surface-layer artist context BBL artist nodes exist to anchor). The within-BLB Pawniard 064 + Bisharp 065 within-set single-artist-coordinated pair is already documented in prose at both card-edge level (## Connections bullets cite Oku by name) and cohort level (pawniard-line node body line 50: 'Same artist (Oku) across both Black Bolt prints, a within-set designer-coordinated art-direction cohesion'). The artist field itself supports a future `artist:Oku` query without requiring a node. Edgelord and Mr. Nodeley both decline. Refusal IS the discipline working.",
+  "refusal_reason": "Artist nodes serve alias disambiguation primarily (per Yusuke Ohmura wave-N refusal precedent + bbl-artists-layer-built memory). Oku has zero alias drift across 3 corpus prints (all stamped 'Oku'). Zero trivia-passed cards in the corpus mean no load-bearing biographical / cross-medium / published-statement fact has been surfaced to justify the node beyond raw print-count. The within-set Pawniard 064 + Bisharp 065 single-artist pair is already adequately documented in prose at card-Connections and pawniard-line cohort-body level. If the bundler later wants 'all Oku-painted Pokemon' as a Discrete Lair candidacy, the artist field supports that query without a node.",
+  "files_modified": [],
+  "citations": [
+    "[reports/edges_pending/yusuke-ohmura-artist-node-REFUSED.json — direct precedent on same shape: 7 corpus credits, zero alias drift = refusal]",
+    "[memory: bbl-artists-layer-built — 'agnostic alias system at cards/_artists/ with type:artist frontmatter; Scryfall's stored artist field is NOT printing-fidelity (can diverge from printed card); card frontmatter preserves as-captured credit, artist_resolve.py maps to canonical at render time']",
+    "[cards/_artists/sanosuke-sakuma.md — comparator artist node justified by Larvitar DAA-086 trivia-pass cross-medium NPC-design discovery; loadbearing-biographical-fact precedent]",
+    "[cards/_characters/pawniard-line.md line 50 — within-set single-artist-coordinated pair already documented at cohort-body level: 'Same artist (Oku) across both Black Bolt prints, a within-set designer-coordinated art-direction cohesion']",
+    "[cards/pokemon/black-bolt/064-086-pawniard.md + 065-086-bisharp.md ## Connections — within-set single-artist-coordinated pair already documented at card-edge level via the pawniard-line cohort attach]"
+  ],
+  "other_candidates_considered": [
+    {
+      "candidate": "snivy-line character node (Mr. Nodeley)",
+      "judgment": "REFUSED — 2 corpus prints (Snivy BLB-001, Servine BLB-002), 1 set, 1 pair. Below the 3+ prints across 2+ sets threshold all ten existing Pokemon -line character nodes meet. Direct precedent: dwebble-blb051--crustle-blb052 sidecar refused dwebble-line on identical grounds. Stage for future Mr. Nodeley pass when corpus crosses threshold (any further Snivy / Servine / Serperior print)."
+    },
+    {
+      "candidate": "dwebble-line character node (Mr. Nodeley)",
+      "judgment": "REFUSED — same threshold reason as snivy-line; explicitly refused already in the dwebble-blb051--crustle-blb052 sidecar."
+    },
+    {
+      "candidate": "Tetsu Kayama artist node",
+      "judgment": "REFUSED — 3 corpus prints (BLB-051 Dwebble, BLB-052 Crustle, TF-020 Bramblin) across 2 sets, BUT Bramblin TF-020 is pre-enrichment (empty tags_hub, no vision body) so only 2 of 3 cards are enriched. Falls below the enriched-cohort threshold the existing artist nodes meet. Plus same zero-alias-drift refusal as Oku."
+    },
+    {
+      "candidate": "Susumu Maeya artist node",
+      "judgment": "REFUSED — only 2 corpus prints (BLB-001 Snivy, BLB-002 Servine), 1 set, 1 pair. Below count threshold and same zero-alias-drift refusal."
+    },
+    {
+      "candidate": "Kedamahadaitai Yawarakai artist node",
+      "judgment": "REFUSED — only 2 corpus prints (BLB-077 Rufflet, BLB-078 Braviary), 1 set, 1 pair. Below count threshold and zero alias drift. Note: the artist's name is long and unusual but the credit is stamped consistently across both prints."
+    },
+    {
+      "candidate": "Panpour BB-017 cohort attach to elemental-monkey-trio",
+      "judgment": "REFUSED THIS PASS — Panpour BB-017 is vision-passed but trivia is pending; cohort node body explicitly stages this as 'awaiting its own Edgelord wave when trivia closes.' Wave-128 sidecar's enlightened-replacement plan also gates this on trivia-closure. Honor the trivia-first discipline. Stage for next Edgelord pass once Panpour BB-017 trivia lands."
+    },
+    {
+      "candidate": "Simipour BB-018 ## Connections backfill (frontmatter is cohort-wired but card has no Connections section)",
+      "judgment": "DEFERRED — the wave-127 attach sidecar exists; the cohort node's appears_on includes BB-018; the bullet is in the cohort body. The card-side Connections section is the missing piece. This IS a clean per-card mirror-attach edge that could be drawn now (trivia is also pending here, same gate as BB-017, but unlike BB-017 the cohort-side wiring is already complete and the sidecar pre-exists). Lower priority than the artist-node refusal because the artist-node case is the larger-stakes structural decision (avoid layer-pollution) — and one operation per invocation."
+    },
+    {
+      "candidate": "Pawniard SWSH-133 / Bisharp SWSH-134 within-set adjacent-pair mirror (SWSH counterparts to the BLB Oku pair)",
+      "judgment": "REFUSED — pawniard-line node body line 84 explicitly flags both SWSH prints as 'needs_manual_review: false but carry the manual_review_reason note that the SWSH set-code did not match and the fuzzy-fallback image match may not reflect the actually-printed art. Both cards have empty tags_hub, empty vision body, and no trivia pass.' Cannot draw card-edge mirrors on cards whose enrichment is blocked at manual-review."
+    },
+    {
+      "candidate": "Braviary SV8-153 ↔ Braviary BLB-078 cross-print same-species mirror",
+      "judgment": "REFUSED — already subsumed by the rufflet-line cohort node. The SV8-153 ## Connections bullet explicitly states 'the prior Rufflet-XY11-92 ↔ Braviary-SV8-153 1:1 mirror is now subsumed by the cohort node.' Drawing a new SV8↔BLB Braviary mirror would re-introduce exactly the kind of cohort-redundant per-card mirror that the wave-122 janny sweep and wave-128 Simipour DAA-042 snip dissolved. Don't undo prior cleanup."
+    }
+  ],
+  "future_trigger_conditions": [
+    "If a future Collectr CSV upload introduces an Oku credit with a different spelling (Ōku, Oku-san, an additional given-name component, or alias drift in artist_resolve.py traffic), revisit and create the node as an alias-disambiguation entry",
+    "If a future trivia pass on any of the three Oku corpus cards surfaces a load-bearing biographical fact (published statement, cross-medium credit, designer-statement coordinated cohort) analogous to Sanosuke Sakuma's Galar-NPC-design-portfolio discovery, revisit and create the node as a portfolio-coherence entry",
+    "If the bundler workflow specifies that portfolio-thematic-coherence artist nodes are query-relevant for Discrete Lair candidacy, revisit and create as a Discrete Lair candidacy anchor — but this is a layer-purpose policy decision, not a per-artist case"
+  ],
+  "next_pass_suggestions": [
+    "Simipour BB-018 ## Connections backfill (wave-127 sidecar exists, cohort node already pointered, just the card-side Connections section is missing) — clean single-card mirror-write, no judgment work required",
+    "Trivia queue priority: Panpour BB-017 (gates the next BLB elemental-monkey-trio cohort thicken) and the four trivia-pending Oku/Maeya/Kayama/Yawarakai BLB pair cards (would surface either nothing — confirming the refusal — or load-bearing artist context that would re-open the artist-node question)",
+    "Vision queue: Simisage BB-005, Bramblin TF-020 — both empty tags_hub blocking dependent edge work",
+    "Janitor triage: surface the within-BLB four-pair pattern (Snivy+Servine / Dwebble+Crustle / Pawniard+Bisharp / Rufflet+Braviary, all single-artist-coordinated within-set adjacent-collector pairs) as a noted-in-prose pattern instance per Potion-rule sub-rule 4. Do NOT promote to first-class graph-vocabulary."
+  ],
+  "edgelord_mood": "satisfied",
+  "edgelord_notes": "Refusal IS the discipline working. The Oku artist-node case looked tempting on raw print-count (3 across 2 sets, matching the Sanosuke Sakuma floor) but failed on both governance gates: (1) zero alias drift means no disambiguation work for artist_resolve.py to do, and (2) zero trivia-passed cards means no load-bearing biographical fact has been surfaced to justify a portfolio-coherence node beyond what the artist: field already supports. The Yusuke Ohmura refusal precedent is direct and the layer-purpose memory is explicit. Comic-Book-Guy register: worst proposed artist node ever — or, actually, not worst, just unnecessary. The within-set single-artist-coordinated pair is already adequately documented in prose at both card-edge and cohort-body level. The artist: field carries the query weight. No node required. One decision per wave, the discipline holds — refusal sidecar emitted; the next-pass-suggestions queue stages the Simipour BB-018 Connections backfill as the cleanest next move that requires no new judgment work."
+}

@@ -1,0 +1,47 @@
+{
+  "card_name": "Panpour",
+  "game": "Pokemon",
+  "set": "Black Bolt",
+  "collector_number": "017/086",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, Pokedex number (no. 515), and illustrated species exactly match canonical Panpour design (blue simian Water-type with teal curly water-tuft on head, closed eyes). PokemonTCG.io card ID zsv10pt5-17 confirms name = Panpour. IP verified.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Panpour (National Pokedex no. 515) is the Water-type member of the elemental monkey trio introduced in Pokemon Black & White (Generation V, Unova, 2010-2011). The trio — Pansage (Grass), Pansear (Fire), Panpour (Water) — maps onto the three wise monkeys (三猿, sanzaru) of Japanese iconography: Pansage represents speak no evil (iwazaru), Pansear represents hear no evil (kikazaru), and Panpour represents see no evil (mizaru). The trio was designed by Takao Unno. [Bulbapedia: Elemental monkeys; Bulbapedia: Panpour (Pokemon)]",
+      "sources": ["Bulbapedia: Elemental monkeys", "Bulbapedia: Panpour (Pokemon)"]
+    },
+    {
+      "category": "design",
+      "text": "The elemental monkey trio was specifically designed as partner Pokemon for the Striaton Gym Leaders (Cilan, Chili, and Cress) in Pokemon Black & White, whose gym doubles as a restaurant. The trio's hands were designed to resemble oven mitts as a nod to the restaurant theme. Each trio member's base form gives a type advantage against the type-disadvantaged Striaton leader when the player chooses the opposing Unova starter. [Bulbapedia: Elemental monkeys]",
+      "sources": ["Bulbapedia: Elemental monkeys"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Printed flavor text: \"The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.\" The water-as-plant-nourishment register — the Water-type trio member tending to living things — mirrors the see-no-evil posture as care-oriented rather than punitive. The BBL corpus's existing elemental-monkey-trio character node describes this flavor as 'the see-no-evil register softened into a tending gesture, paralleling Pansage's leaf-sharing care frame.' [PokemonTCG.io: zsv10pt5-17; BBL corpus: elemental-monkey-trio.md]",
+      "sources": ["PokemonTCG.io: zsv10pt5-17", "BBL corpus: cards/_characters/elemental-monkey-trio.md"]
+    },
+    {
+      "category": "set-lore",
+      "text": "This card is from Scarlet & Violet: Black Bolt (SV11B), the 2025 Japan-exclusive Unova retrospective covering all 156 Generation V Pokemon. Within the set, the Water arm of the elemental monkey trio is represented by both Panpour (017/086) and Simipour (018/086) at adjacent collector numbers, mirroring the Darkness Ablaze (DAA) treatment where Pansage 006/189 and Simisage 007/189 were placed adjacently. [PokeGuardian: SV11B Black Bolt main set list; BBL corpus: elemental-monkey-trio.md Caveats section]",
+      "sources": ["PokeGuardian: SV11B Black Bolt main set list", "BBL corpus: cards/_characters/elemental-monkey-trio.md"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Diamond Legendz Zodiac grid placement: Panpour anchors the **Water Monkey** cell of the 12-animal Wuxing matrix. Water-type (Wuxing Water element) + simian body plan (Monkey zodiac animal) is the dual-predicate logic. The full elemental monkey trio (Pansage/Simisage, Pansear/Simisear, Panpour/Simipour) fills Wood/Fire/Water Monkey cells in synchrony — a designer-coordinated triple-cell Zodiac attachment. The BBL corpus already holds a dedicated `elemental-monkey-trio` character-layer node with complete 6-of-6 canonical species coverage. [Bulbapedia: Elemental monkeys; BBL corpus: cards/_characters/elemental-monkey-trio.md]",
+      "sources": ["Bulbapedia: Elemental monkeys", "BBL corpus: cards/_characters/elemental-monkey-trio.md"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Simipour", "set": "Black Bolt (018/086)", "note": "Adjacent-collector evolved form of Panpour; Water Monkey cell companion in the same set"},
+    {"name": "Pansage", "set": "Black Bolt (004/086)", "note": "Grass-arm trio member; Wood Monkey cell; same Black Bolt set"},
+    {"name": "Panpour", "set": "Burning Shadows (36/147)", "note": "Earlier corpus print of the same species, by Suwama Chiaki"},
+    {"name": "Simipour", "set": "Darkness Ablaze (042/189)", "note": "Evolved Water arm; closes the trio at full canonical coverage in BBL corpus"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

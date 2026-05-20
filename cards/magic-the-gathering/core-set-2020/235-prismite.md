@@ -77,3 +77,15 @@ A faceted, crystalline golem made of countless prismatic shards crouches forward
 **Iconography:** prism, rainbow-refraction
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context and debut** — Prismite debuted in War of the Spark (2019) with a distinctly Ravnica-flavored flavor text: "It didn't budge when the portal opened, nor when the ancient gods emerged. It came to life only when all ten guilds came together to face a common threat." — referencing the climactic moment when all ten Ravnica guilds united to resist Nicol Bolas's invasion. The M20 reprint (this copy) replaced that text with the simpler "Even its shadow is a dazzling rainbow." [Scryfall: api.scryfall.com/cards/war/242; Scryfall: api.scryfall.com/cards/5c9fdb01-ba52-4510-897e-0d69558fdaee]
+- **Alayna Danner** — Prismite is illustrated by Alayna Danner across all three of its prints (War of the Spark, M20, M21). Danner is a Seattle-based fantasy artist and avid Commander player who has illustrated over 97 cards for Magic, including panoramic basic lands for Commander 2019. Hipsters of the Coast has covered her work in the context of Secret Lair and Commander previews, and she collaborated with Rebecca Guay on a Guay Kickstarter project (2020). [Hipsters of the Coast: Alayna Danner Archives; Scryfall artist field]
+- **Mechanical profile** — Prismite is an Artifact Creature — Golem (2/1 for {2}) that taps for one mana of any color at a cost of {2}. It is pauper-legal, which gives it relevance in that format as a mana-fixing body — distinct from pure mana rocks because it is also a creature and thus answers to removal differently. EDHREC records it in approximately 13,832 Commander decks, a strong showing for a common. [Scryfall; EDHREC: edhrec.com/cards/prismite]
+- **Flavor text (M20 print)** — "Even its shadow is a dazzling rainbow." — No attributed speaker. The brevity of the quote mirrors the golem's function: it is a refraction device, not a thinker. [Scryfall]
+
+### Related cards
+- Prismite (War of the Spark, no. 242) — same card, different flavor text with Ravnica-guild-unification context
+- Manalith (Core Set 2019) — same ability (tap for any color, {2} activation) but as a non-creature artifact; Prismite is the creature-body variant
+- Alloy Myr (New Phyrexia) — 2/2 artifact creature Myr with the same {tap}: add one mana of any color ability; direct comparable
+- Firemind Vessel (War of the Spark) — another artifact mana-fixer that appeared alongside Prismite in WAR

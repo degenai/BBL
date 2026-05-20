@@ -1,0 +1,42 @@
+{
+  "card_name": "Prismite",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2020",
+  "collector_number": "235",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Prismite debuted in War of the Spark (2019) with Ravnica-flavored flavor text: 'It didn't budge when the portal opened, nor when the ancient gods emerged. It came to life only when all ten guilds came together to face a common threat.' — referencing the moment all ten Ravnica guilds united against Nicol Bolas's invasion. The M20 reprint (this copy) replaced that text with the simpler 'Even its shadow is a dazzling rainbow.'",
+      "sources": ["Scryfall WAR print: api.scryfall.com/cards/war/242", "Scryfall M20 print: api.scryfall.com/cards/5c9fdb01-ba52-4510-897e-0d69558fdaee"]
+    },
+    {
+      "category": "design",
+      "text": "Prismite is illustrated by Alayna Danner across all three of its prints (War of the Spark, M20, M21). Danner is a Seattle-based fantasy artist and Commander player with over 97 MTG cards illustrated, including panoramic basic lands for Commander 2019. Hipsters of the Coast has covered her work in Secret Lair and Commander preview contexts; she also collaborated with Rebecca Guay on a Guay Kickstarter (2020).",
+      "sources": ["Hipsters of the Coast: hipstersofthecoast.com/tag/alayna-danner/", "Scryfall artist field", "Hipsters of the Coast: Rebecca Guay Adds Collaborations with Seb McKinnon and Alayna Danner"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As an Artifact Creature — Golem (2/1 for {2}) that pays {2} to add one mana of any color, Prismite is Pauper-legal and offers mana-fixing on a creature body — differently answering removal than pure artifact rocks. EDHREC records it in approximately 13,832 Commander decks.",
+      "sources": ["Scryfall oracle_text and legalities", "EDHREC: edhrec.com/cards/prismite"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Even its shadow is a dazzling rainbow.\" — No attributed speaker. The M20 flavor text; see also the WAR flavor text above for the set-specific variant.",
+      "sources": ["Scryfall flavor_text field (M20 print)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Prismite", "set": "War of the Spark", "note": "Same card with Ravnica guild-unification flavor text; debut print"},
+    {"name": "Manalith", "set": "Core Set 2019", "note": "Same {2} tap-for-any-color ability as a non-creature artifact; direct functional comparison"},
+    {"name": "Alloy Myr", "set": "New Phyrexia", "note": "2/2 artifact creature Myr with identical tap ability; closest comparable"},
+    {"name": "Firemind Vessel", "set": "War of the Spark", "note": "Mana-fixer artifact that appeared alongside Prismite in WAR"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

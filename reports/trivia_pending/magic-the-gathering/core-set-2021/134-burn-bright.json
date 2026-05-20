@@ -1,0 +1,41 @@
+{
+  "card_name": "Burn Bright",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "134",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Burn Bright originated in Ravnica Allegiance (January 2019), where it served as a Gruul combat-trick instant. The Gruul Clans are Ravnica's displaced wilderness faction — nomadic tribes who lost their territory to urban sprawl and channel that displacement into ritual fire and battle-rage. [Scryfall: set=rna, type_line=Instant]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The card has been reprinted five times across: Ravnica Allegiance (2019), Core Set 2021 (2020), Arena Beginner Set (2020), Jumpstart 2022 (2022), and Ravnica Remastered (2024) — all five printings carry the same Scott Murphy art. [Scryfall: prints_search_uri]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"From a great bonfire at the dawn of time, the first Gruul kindled their rage. The same flame burns in you.\" — Kroshkar, Gruul shaman. [Scryfall] The speaker, Kroshkar, is a named Gruul shaman voice used to frame Gruul origin mythology; this is their only credited flavor text appearance across all Scryfall-indexed cards.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 15,805 [Scryfall field: edhrec_rank]. The card is legal in Pauper, Pioneer, Modern, Legacy, Vintage, and Commander. As a {2}{R} pump instant it sees niche use in Pauper red-aggro and Gruul stompy commander lists as a mid-combat surprise, but is not considered a format staple.",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Reckless Bushwhacker", "set": "Oath of the Gatewatch", "note": "Same role: red combat-pump instant for token-wide offense; frequent Pauper comparison point"},
+    {"name": "Titanic Ultimatum", "set": "Shards of Alara", "note": "Gruul-adjacent mass pump instant; thematic predecessor for mass combat buffs"},
+    {"name": "Krenko, Mob Boss", "set": "Magic 2013", "note": "Represents the opposing red-aggro axis (Goblins vs. Gruul) that Burn Bright supports in Pauper"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

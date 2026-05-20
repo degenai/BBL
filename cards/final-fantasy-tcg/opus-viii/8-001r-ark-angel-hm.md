@@ -48,6 +48,8 @@ setting: dungeon
 suspected_ip: Ark Angel HM
 ip_confidence: high
 ip_verified: true
+characters:
+  - ffxi-ark-angels-cycle
 ---
 
 # Ark Angel HM (Opus VIII)

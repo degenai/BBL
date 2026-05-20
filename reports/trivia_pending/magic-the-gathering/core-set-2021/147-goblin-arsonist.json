@@ -1,0 +1,42 @@
+{
+  "card_name": "Goblin Arsonist",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "147",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Goblin Arsonist was originally printed in Rise of the Eldrazi (April 2010) — a large set notable for departing from normal Zendikar mechanics to focus entirely on Eldrazi creatures. The Arsonist has been reprinted six times: Rise of the Eldrazi (2010), Magic 2012 (2011), Magic 2013 (2012), Duel Decks: Sorin vs. Tibalt (2013), Core Set 2021 (2020), and Foundations Jumpstart (2024). All six printings carry the same Wayne Reynolds art. [Scryfall: prints_search_uri]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Wayne Reynolds is known in MTG art collecting circles for high-value originals: his Feather, the Redeemed painting sold for $6,050 in 2019, and his Bruenor Battlehammer (Adventures in the Forgotten Realms) painting sold for $26,000 in 2021. [Hipsters of the Coast: 'Painting for Bruenor Battlehammer by Wayne Reynolds Sells for $26,000'; 'Art for Feather, the Redeemed by Wayne Reynolds Sells for $6,050']",
+      "sources": ["Hipsters of the Coast"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"With great power comes great risk of getting yourself killed.\" [Scryfall] No attributed speaker. The text riffs on the Spider-Man axiom ('with great power comes great responsibility') and inverts it into goblin-idiom: goblins in MTG lore are defined by their self-destructive relationship with fire and power. The Arsonist's death-trigger mechanically literalizes this — it takes you with it.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 12,293 [Scryfall: edhrec_rank]. A 1/1 for {R} with a death-trigger dealing 1 damage to any target. Legal in Pauper, Pioneer, Modern, Legacy, Vintage, Commander, and PreDH. Sees competitive Pauper play in Mono-Red Burn and Goblins archetypes as a 1-drop that generates value on death. [Scryfall: legalities; MTGDecks.net: goblin-arsonist]",
+      "sources": ["Scryfall", "MTGDecks.net"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Goblin Grenade", "set": "Fallen Empires", "note": "The canonical goblin self-sacrifice burn spell; Arsonist's death-ping is the creature-based parallel"},
+    {"name": "Goblin Lackey", "set": "Urza's Saga", "note": "Pauper/Legacy Goblins engine that Arsonist appears alongside in goblin aggro lists"},
+    {"name": "Mogg Fanatic", "set": "Tempest", "note": "Direct mechanical predecessor — 1-drop goblin with a sacrifice-to-deal-1-damage ability; Arsonist is the death-trigger version"},
+    {"name": "Skirk Prospector", "set": "Onslaught", "note": "Pauper Goblins combo piece; appears in the same Pauper Goblins lists as Arsonist"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

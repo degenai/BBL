@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - demon
+  - rafters
+  - chains
+  - underworld
+  - predator
+  - lurking
+  - horns
+  - theater
+  - dark-presence
+  - tavern-ceiling
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - multicolor-black-red
+  - creature-demon
+  - action-mode
+  - no-weapon-visible
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/196-rafter-demon.png
 average_cost_paid: 0
 market_price: 0.08
@@ -29,7 +46,29 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{2}{B}{R}"
+mood: grim
+time_of_day: indeterminate
+setting: indoor
 tags:
   - card
 ---
 # Rafter Demon (Ravnica Allegiance)
+
+## Vision
+
+![196-rafter-demon](../../_images/magic-the-gathering/ravnica-allegiance/196-rafter-demon.png)
+
+A muscular demon perches on a heavy wooden beam or rafter, hunched forward with clawed hands gripping the wood. Two curved horns extend from its head and glowing orange-red eyes cut through the shadow. The demon's body is a deep reddish-brown, with rough, textured skin. Tattered fabric and hanging cloth hang from the rafters around it, suggesting an interior ceiling — perhaps a theater or tavern. A chain is visible near the lower portion of the figure. The ambient lighting is warm and orange, casting the scene in a hellish glow filtered through the draped fabric.
+
+**Subject:** a horned demon crouching on a wooden rafter, glowing eyes, chains visible below
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** indoor, indeterminate
+**Foreground:** demon crouching on wooden beam, clawed hands visible, chains below  *(palette: deep red, reddish-brown, orange)*
+**Background:** tattered hanging fabric, draped cloth, warm interior ambient light  *(palette: pale yellow-green, amber, shadow-black)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** predatory alertness, coiled readiness
+**Objects:** wooden beam, chains, tattered cloth, rafters
+**Creatures:** demon
+**Genre cues:** fantasy, gothic
+

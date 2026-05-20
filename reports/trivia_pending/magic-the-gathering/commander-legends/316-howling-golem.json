@@ -1,0 +1,46 @@
+{
+  "card_name": "Howling Golem",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "316",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag set.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Originally printed in Dominaria (DOM-218, April 27, 2018). Commander Legends (CMR-316, November 20, 2020) is its second printing. Also in Game Night (2018), Game Night 2019, and Game Night: Free-for-All (2022). All five printings use the same Grzegorz Rutkowski art.",
+      "sources": ["Scryfall: CMR 316", "Scryfall prints search"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Grzegorz Rutkowski is a prolific Polish fantasy illustrator with over 90 Magic card credits including Drakuseth Maw of Flames, Glorybringer, and God-Eternal Oketra. Howling Golem is a comparatively modest subject in his portfolio — a stone construct in a grassy field vs. the dragons and gods he is better known for.",
+      "sources": ["ArtStation: Greg Rutkowski profile, via WebSearch snippet", "Scryfall: artist search Grzegorz Rutkowski"]
+    },
+    {
+      "category": "design",
+      "text": "Reprinted in all three Game Night products (2018, 2019, 2022) — Wizards's casual 3-5 player introductory product. The symmetrical draw trigger (every attacking or blocking trigger draws for all players) makes it a natural fit for casual multiplayer tables.",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It wails of buried riches and the souls lost seeking them.\" The flavor frames the golem's howl as grief for those who died seeking treasure — lament rather than aggression, consistent with the art's mournful open-mouthed pose in a desolate field.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 6,302 — niche. As a 2/3 for {3} with symmetrical draw on attack or block, serves primarily in group-hug or wheel-synergy Commander builds. Symmetrical nature is a competitive drawback but a casual-multiplayer attraction.",
+      "sources": ["Scryfall: edhrec_rank 6302"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Howling Mine", "set": "Seventh Edition", "note": "Canonical symmetrical draw artifact; frequently compared to Howling Golem as creature-based variant"},
+    {"name": "Temple Bell", "set": "Magic 2011", "note": "Another symmetrical draw artifact grouped with Howling Mine in group-hug lists"},
+    {"name": "Lore Broker", "set": "Ravnica: City of Guilds", "note": "Older creature with symmetrical draw-discard trigger; functional ancestor of combat-triggered draw design"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -74,3 +74,16 @@ A single-edged curved cutlass with a dark hilt and crossguard lies abandoned on 
 **Iconography:** abandoned-weapon, tideline
 **Genre cues:** fantasy, pirate, nautical
 
+## Trivia
+
+- **Set context** — Pirate's Cutlass originated in Ixalan (September 2017), MTG's Mesoamerican-Caribbean exploration plane, designed around four factions including the Brazen Coalition pirate crews. The CMR copy is a reprint in Commander Legends (November 2020), the game's first Commander-focused draft set. All four lifetime printings share the same illustration [Scryfall API: prints list].
+- **Print history** — Four total printings confirmed via Scryfall: Ixalan (XLN, no. 242, 2017), Jumpstart (JMP, no. 477, 2020), Commander Legends (CMR, no. 333, 2020), and Foundations (FDN, no. 563, 2024). Every printing uses the same John Stanko art and the same oracle text [Scryfall API].
+- **Mechanical reputation** — The Cutlass's ETB auto-equip trigger fires only when a Pirate you control is present, making it dead-on-entry in non-Pirate builds. EDHREC rank of 17742 confirms low Commander inclusion outside dedicated Pirate tribal lists [Scryfall API: edhrec_rank 17742].
+- **Artist signal** — Signed foil copies of the Ixalan printing appear on the secondary market, indicating John Stanko has personalized this card at events — a low-key signal that it ranks among his portfolio pieces [eBay: "Pirate's Cutlass FOIL Ixalan Signed by John Stanko NM"; CoolStuffInc listing].
+
+### Related cards
+- Breeches, Brazen Plunderer (Commander Legends, no. 6) — Pirate commander in the same CMR set, benefits from Cutlass auto-equip trigger
+- Ramirez DePietro, Pillager (Commander Legends, no. 37) — Pirate commander in CMR; equipment synergy
+- Malcolm, Keen-Eyed Navigator (Commander Legends, no. 75) — Partner Pirate commander from the same set
+- Fell Flagship (Ixalan, no. 217) — Ixalan-era Pirate tribal artifact, thematic pairing
+

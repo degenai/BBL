@@ -76,3 +76,15 @@ A small hooded goblin figure stands at center, mostly silhouetted, partially clo
 **Iconography:** flame, fire-spiral
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Reprint history** — Originally printed in Rise of the Eldrazi (April 2010), Goblin Arsonist has been reprinted six times with the same Wayne Reynolds art: Rise of the Eldrazi (2010), Magic 2012 (2011), Magic 2013 (2012), Duel Decks: Sorin vs. Tibalt (2013), Core Set 2021 (2020), and Foundations Jumpstart (2024). Six printings with unbroken art consistency across 14 years. `[Scryfall: prints_search_uri]`
+- **Artist** — Wayne Reynolds is one of MTG's high-value original-art artists. His Feather, the Redeemed painting sold for $6,050 in 2019 and his Bruenor Battlehammer (Adventures in the Forgotten Realms) painting sold for $26,000 in 2021. The Goblin Arsonist original has not surfaced publicly at auction as of this research. `[Hipsters of the Coast: "Art for Feather, the Redeemed by Wayne Reynolds Sells for $6,050"; "Painting for Bruenor Battlehammer by Wayne Reynolds Sells for $26,000"]`
+- **Flavor text** — `"With great power comes great risk of getting yourself killed."` (no attributed speaker) `[Scryfall]` A direct inversion of the Spider-Man axiom; the flavor text reframes "great responsibility" into goblin-idiom, where power and self-destruction are inseparable. The card's death-trigger mechanically literalizes this — the Arsonist takes someone with it on the way out.
+- **Mechanical reputation** — EDHREC rank 12,293. `[Scryfall: edhrec_rank]` Legal in Pauper, Pioneer, Modern, Legacy, Vintage, Commander, and PreDH. Sees competitive Pauper play in Mono-Red Burn and Goblins archetypes as a 1-drop that generates value on death. Frequently cited as the creature-based analog to Mogg Fanatic in historical goblin aggro analysis. `[Scryfall: legalities]`
+
+### Related cards
+- Mogg Fanatic (Tempest) — direct mechanical predecessor; 1-drop goblin with sacrifice-for-1-damage ability; Arsonist is the death-trigger version
+- Goblin Grenade (Fallen Empires) — canonical goblin self-sacrifice burn; the card's flavor space Arsonist occupies
+- Goblin Lackey (Urza's Saga) — Pauper/Legacy Goblins engine that Arsonist appears alongside
+- Skirk Prospector (Onslaught) — Pauper Goblins combo piece appearing in the same lists as Arsonist

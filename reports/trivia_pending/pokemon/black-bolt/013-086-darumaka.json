@@ -1,0 +1,46 @@
+{
+  "card_name": "Darumaka",
+  "game": "Pokemon",
+  "set": "Black Bolt",
+  "collector_number": "013/086",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, Pokedex number (no. 554), and illustrated species exactly match the canonical Darumaka design (round red roly-poly Fire-type creature with wide grin, cream underside, stubby limbs — the daruma doll form). PokemonTCG.io card ID zsv10pt5-13 confirms name = Darumaka. IP verified. The suspected_ip field listed 'Darumaka (#554)' — the parenthetical number is redundant metadata, not a separate character flag.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Darumaka (National Pokedex no. 554) is directly based on the Japanese Daruma doll — a hollow round folk-art object depicting Bodhidharma, the 5th-century Chinese monk who founded Chan Buddhism (predecessor of Zen). The legend behind daruma dolls holds that Bodhidharma meditated facing a wall at Shaolin Temple for nine years until his legs atrophied, inspiring the doll's limbless form. Darumaka's roly-poly round body and inability to be knocked over mirrors the self-righting daruma doll, which is designed to tip and return upright as a symbol of perseverance. [Game Rant: Explaining the Lore Behind Darumaka; Lava Cut Content: Gen 5 Historia (Nintendo Dream interview)]",
+      "sources": ["Game Rant: Pokemon Darumaka lore explained", "Lava Cut Content: Ken Sugimori Nintendo Dream 2"]
+    },
+    {
+      "category": "design",
+      "text": "Darumaka's Fire type is specifically connected to the daruma kuyō — the Japanese end-of-year ceremony in which old daruma dolls are returned to their originating temples, thanked for good luck, and ceremonially burned. The fire inside Darumaka's body (which keeps it energetically awake when burning and sends it to sleep when it dims) maps this burning-cycle ritual onto a biological mechanic. At rest, Darumaka's internal temperature is approximately 600 degrees Celsius. [Game Rant: Pokemon Darumaka lore explained; JapanObjects.com: What are Daruma?]",
+      "sources": ["Game Rant: Pokemon Darumaka lore explained", "JapanObjects.com: What are Daruma? 6 Things to Know"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Printed flavor text: \"When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.\" This directly encodes the daruma burning-ceremony cycle as biology: the ritual flame-and-rest alternation of the folk object mapped onto a living creature's energy state. [PokemonTCG.io: zsv10pt5-13]",
+      "sources": ["PokemonTCG.io: zsv10pt5-13"]
+    },
+    {
+      "category": "set-lore",
+      "text": "This card is from Scarlet & Violet: Black Bolt (SV11B), the 2025 Japan-exclusive Unova-retrospective expansion covering all 156 Generation V Pokemon. Darumaka is a Generation V species (introduced in Pokemon Black & White, 2010-2011), making Black Bolt its era of origin for the TCG retrospective. [PokeGuardian: SV11B Black Bolt set list; Sports Card Investor: Snivy 2025 Japanese SV Black Bolt]",
+      "sources": ["PokeGuardian: SV11B Black Bolt main set list"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Diamond Legendz Zodiac grid placement: Darumaka anchors the **Fire Monkey** cell of the 12-animal Wuxing matrix. Fire-type (Wuxing Fire element) + Darmanitan's highly energetic, acrobatic behavior (the 'Blazing' Pokemon) maps to the Monkey zodiac animal's kinetic, quick-witted character. The Bodhidharma design origin adds a second cultural layer: Bodhidharma is a Chinese Buddhist patriarch, giving the Fire Monkey cell an East-Asian design ancestry the zodiac grid can honor. [Bulbapedia: Darumaka (Pokemon), via WebSearch; Game Rant: Pokemon Darumaka lore explained]",
+      "sources": ["Bulbapedia: Darumaka (Pokemon)", "Game Rant: Pokemon Darumaka lore explained"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Darmanitan", "set": "Various", "note": "Stage 1 evolution of Darumaka; the 'Blazing Pokemon' with Zen Mode form change below 50% HP"},
+    {"name": "Darumaka (Galarian)", "set": "Various", "note": "Ice-type regional variant introduced in Sword & Shield; same daruma-doll design base, Ice typing"},
+    {"name": "Darmanitan (Galarian Standard/Zen Mode)", "set": "Various", "note": "Galarian Darmanitan with Gorilla Tactics ability; Smogon OU/Ubers presence in competitive video game"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

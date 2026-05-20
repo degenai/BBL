@@ -28,6 +28,7 @@ related_characters:
   - rowlet-line
   - phantump-line
   - ralts-line
+  - rufflet-line
 ip_resolution_for: pawniard-line
 tags:
   - layer

@@ -1,0 +1,42 @@
+{
+  "card_name": "Natural Reclamation",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "245",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Natural Reclamation is a new card in Commander Legends (November 2020) — it has no prior printings. It was subsequently reprinted in Commander Legends: Battle for Baldur's Gate (CLB, 2022) as card 829. The card combines Cascade with Naturalize-style removal, a pairing that had not previously appeared on a single card. [Scryfall reprint:false field; Scryfall CLB reprint record]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At {4}{G} with Cascade, Natural Reclamation will cascade into any nonland spell with mana value 4 or less. EDHREC rank 5493 places it as a moderate Commander inclusion — better than bulk, but the steep {4}{G} cost competes with cheaper dedicated artifact/enchantment removal. Its value is in the free cascade hit rather than the base effect. [Scryfall edhrec_rank field; MTG Assist rules note]",
+      "sources": ["Scryfall", "MTG Assist via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Alayna Danner, one of Magic's most prominent landscape artists. By the time of Commander Legends, Danner had painted more than 50 MTG cards and was widely described as 'the game's current go-to artist for landscapes.' Her original paintings for Realm-Cloaked Giant ($3,056) and Lonesome Unicorn ($3,751) sold at auction in 2019; she also collaborated with Rebecca Guay on an original watercolor for a Guay Kickstarter project (December 2020). Natural Reclamation's overgrown-ruins landscape composition is squarely within her practiced domain. [Hipsters of the Coast, 'Alayna Danner Sells Two Storybook Originals', 2019; 'Rebecca Guay Adds Collaborations with Seb McKinnon and Alayna Danner', 2020; 'Alayna Danner Launches Fundraiser in Honor of her Lab Jake', 2021]",
+      "sources": ["Hipsters of the Coast"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 2021 rules change to Cascade clarified that not only must the exiled card cost less than the spell with Cascade, but the spell you choose to cast must also have lesser mana value than the original spell. This did not change Natural Reclamation's functionality but formalized the constraint on all Cascade cards printed before and after. [MTG Assist rules note via WebSearch]",
+      "sources": ["MTG Assist via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Naturalize", "set": "Eighth Edition", "note": "Functional baseline for the remove-artifact-or-enchantment effect Natural Reclamation upgrades with Cascade"},
+    {"name": "Natural State", "set": "Oath of the Gatewatch", "note": "More restrictive Naturalize variant; illustrates the cost spectrum for this effect"},
+    {"name": "Krosan Grip", "set": "Time Spiral", "note": "Commander-staple artifact/enchantment removal benchmark that Natural Reclamation competes with"},
+    {"name": "Shardless Agent", "set": "Alara Reborn", "note": "Canonical Cascade-on-a-stick reference point for understanding Cascade value in Commander"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

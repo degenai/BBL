@@ -74,3 +74,16 @@ A hollow sphere constructed from interlaced bands of polished gold metalwork sit
 **Iconography:** sphere, orb, lattice, inner-light
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** — Commander's Sphere appears in Commander Legends (CMR), released November 20, 2020 — the first draftable Commander set. This is a reprint; the card originated in Commander 2014 (C14-54, 2014-11-07), illustrated by Ryan Alexander Lee, who has illustrated every single subsequent printing of this card. `[Scryfall: CMR 306]`
+- **Reprint ubiquity** — Commander's Sphere is one of the most reprinted Commander staples in Magic history. Scryfall shows over 40 distinct printings, appearing in nearly every Commander product from Commander 2014 through at least Lorwyn Eclipsed Commander (2026). It has appeared in Commander 2014 through 2021, all Commander-accompanying products for major sets, Starter Commander Decks, Commander Masters, Doctor Who, Warhammer 40,000 Commander (three variants), Secret Lair, Judge Promo, and WPN promo. `[Scryfall prints search]`
+- **EDHREC rank — format-defining staple** — EDHREC rank 44 out of the entire Commander card pool. This places Commander's Sphere among the most-played artifacts in the format. Its utility is universal: for {3} it produces any mana in the commander's color identity and sacrifices to draw a card, providing both early ramp and late-game card advantage. `[Scryfall: edhrec_rank 44]`
+- **Artist — Ryan Alexander Lee, single illustrator across all major printings** — With the exception of Warhammer 40K Commander (3 art variants by different artists for different faction decks) and a handful of other licensed products, every mainstream printing of Commander's Sphere has been illustrated by Ryan Alexander Lee. Lee has painted it for Commander products continuously from 2014 to at least 2026. This makes it one of the most artist-consistent reprints in Commander's history. `[Scryfall prints search]`
+- **Flavor text** — "It harmonizes with the essence of its master." The flavor evokes magical synchronization with the commander figure, reinforcing the card's mechanical design: it literally reads the commander's color identity. `[Scryfall: flavor_text field]`
+
+### Related cards
+- Arcane Signet (ELD, no. 331) — direct functional competitor; {2} for any color in commander's identity; no enter-tapped drawback; replaced Sphere as the go-to 2-drop rock in most decks
+- Sol Ring (C14, no. 268) — the Commander mana-rock apex; Commander's Sphere is frequently cited alongside it in staples lists
+- Mind Stone (WTH) — earlier design that also sac-draws; functional parallel at {2} with different mana restriction
+- Darksteel Ingot (DST) — earlier 3-mana any-color rock; predecessor in Commander staples lineage

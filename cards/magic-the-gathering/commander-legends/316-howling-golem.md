@@ -76,3 +76,15 @@ A hulking humanoid construct made of jagged grey stone and broken masonry stands
 **Creatures:** golem
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set / origin context** — Howling Golem was originally printed in Dominaria (DOM-218, released April 27, 2018). Commander Legends (CMR-316, November 20, 2020) is its second printing; Game Night (2018), Game Night 2019, and Game Night: Free-for-All (2022) round out its print history. All five printings are by Grzegorz Rutkowski with the same art. `[Scryfall: CMR 316]` `[Scryfall prints search]`
+- **Artist — Grzegorz Rutkowski** — Rutkowski is a prolific Polish fantasy illustrator with over 90 Magic card credits including Drakuseth, Maw of Flames; Glorybringer; and God-Eternal Oketra. He is one of Magic's most recognized creature artists, known for painterly realism and large-scale fantasy figures. Howling Golem is a comparatively modest subject in his portfolio — a stone construct in a grassy field rather than the dragons and gods he is better known for. `[ArtStation: Greg Rutkowski profile, via WebSearch snippet]` `[Scryfall: artist search Grzegorz Rutkowski]`
+- **Game Night anchor** — Beyond Commander Legends, Howling Golem has been reprinted in all three Game Night products (2018, 2019, 2022). Game Night is Wizards's casual introductory product designed for 3-5 players; Howling Golem's symmetrical draw ability — every attacking or blocking trigger draws for all players — makes it a natural fit for casual multiplayer tables where the group-draw-as-fun effect is more important than competitive advantage. `[Scryfall prints search]`
+- **Flavor text** — "It wails of buried riches and the souls lost seeking them." The flavor evokes a golem haunting a site of lost treasure — its howl is grief for those who died searching rather than a war cry. This grounds the visual (open-mouthed howl in a desolate field) as lament rather than aggression. `[Scryfall: flavor_text field]`
+- **Mechanical context** — EDHREC rank 6,302 — a niche pick. As a 2/3 for {3} with a symmetrical draw trigger on attack or block, Howling Golem serves primarily in group-hug or wheel-synergy Commander builds that want all players drawing frequently. Its symmetrical nature is a drawback in competitive contexts but an attraction in casual multiplayer. `[Scryfall: edhrec_rank 6302]`
+
+### Related cards
+- Howling Mine (7ED) — the canonical symmetrical draw artifact; Howling Golem is frequently compared to it as a creature-based variant
+- Temple Bell (M11) — another symmetrical draw artifact often grouped with Howling Mine in group-hug lists
+- Lore Broker (RAV) — older creature with a symmetrical draw-a-card-discard-a-card trigger; functional ancestor of the combat-triggered draw design

@@ -1,0 +1,41 @@
+{
+  "card_name": "Tavern Swindler",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "124",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tavern Swindler was first printed in Return to Ravnica (October 2012) as a common, then reprinted in Duel Decks: Jace vs. Vraska (2014), Iconic Masters (2017), Battlebond (2018), The List (2019), and Core Set 2021 (2020) — all with Cynthia Sheppard's original art. A seventh printing in Streets of New Capenna (2022) introduced new art by Pauline Voss. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Rakdos cultists are her best customers. They never flinch at pain and are seldom good at math.\" — anonymous [Scryfall]. The Rakdos are a black-red demonic cult on Ravnica who perform spectacular, often lethal theater; the joke is that their tolerance for pain (life payment) and their poor accounting make them ideal marks for a coin-flip hustler.",
+      "sources": ["Scryfall", "MTG Wiki: Cult of Rakdos"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card sees play in coin-flip-themed Commander decks, particularly those built around Zndrsplt, Eye of Wisdom or Okaun, Eye of Chaos, where repeated coin-flip triggers compound. Its life-to-flip mechanic is a net-positive only on a win, making it a high-variance engine card rather than a removal piece. EDHREC rank 11857. [Scryfall legalities; EDHREC via WebSearch]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Cynthia Sheppard illustrated the card across six consecutive printings from 2012 to 2020, making this one of her most-reprinted pieces in the MTG catalog. Sheppard published artist commentary about the card on her illustration blog (sheppard-arts.blogspot.com, 2012). [Scryfall artist field; sheppard-arts.blogspot.com]",
+      "sources": ["Scryfall", "sheppard-arts.blogspot.com (Cynthia Sheppard artist blog)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Zndrsplt, Eye of Wisdom", "set": "Battlebond", "note": "Coin-flip Commander that rewards repeated flips"},
+    {"name": "Okaun, Eye of Chaos", "set": "Battlebond", "note": "Partner commander; pumps on coin-flip wins"},
+    {"name": "Krark's Thumb", "set": "Mirrodin", "note": "Artifact that lets you flip two coins on any flip and ignore one result — synergizes with coin-flip life-gain gameplan"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - dwarf
+  - faerie
+  - lantern
+  - partnership
+  - light
+  - sword
+  - night
+  - odd-couple
+  - adventure
+  - tiny-figure
+  - blade
+  - glow
+tags_filter:
+  - duo
+  - mid-shot
+  - forward-facing
+  - multicolor-blue-red
+  - creature-faerie
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/193-improbable-alliance.png
 average_cost_paid: 0
 market_price: 0.17
@@ -30,7 +47,30 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{U}{R}"
+mood: action
+time_of_day: night
+setting: other
 tags:
   - card
 ---
 # Improbable Alliance (Throne of Eldraine)
+
+## Vision
+
+![193-improbable-alliance](../../_images/magic-the-gathering/throne-of-eldraine/193-improbable-alliance.png)
+
+In the foreground, a stocky figure with a prominent red beard and weathered face holds a short sword raised in one hand and a square metal lantern in the other. The lantern glows with vivid blue-white light and contains a small winged figure — a faerie — visible inside. A second large hand is partially visible in the upper right corner, suggesting another figure just out of frame. The overall tone is warm amber against cool blue lantern-light, suggesting a nighttime adventure or unlikely partnership.
+
+**Subject:** A stocky, red-bearded dwarf-like figure holding a sword and a glowing lantern containing a small faerie
+
+**Composition:** mid-shot, portrait, figures: duo, facing: forward
+**Setting:** other, night
+**Foreground:** Stocky bearded figure with sword and lantern; faerie inside lantern  *(palette: red, amber, blue, white)*
+**Background:** Dark warm brown, hints of another figure in shadow  *(palette: dark-brown, amber)*
+**Mood / lighting:** action, chiaroscuro
+**Emotion read:** Determined, watchful; the dwarf-figure looks forward with a shrewd expression
+**Objects:** sword, lantern, faerie-inside-lantern
+**Creatures:** faerie
+**Iconography:** glowing-lantern
+**Genre cues:** fantasy, fairytale
+

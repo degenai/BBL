@@ -1,0 +1,62 @@
+{
+  "edge_id": "rufflet-line--commissioned-node",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/rufflet-line.md", "name": "Rufflet evolutionary line (Rufflet / Braviary)"},
+    {"type": "card", "path": "cards/pokemon/steam-siege/92-rufflet.md", "name": "Rufflet (Steam Siege 92/114, Mitsuhiro Arita)"},
+    {"type": "card", "path": "cards/pokemon/surging-sparks/153-191-braviary.md", "name": "Braviary (Surging Sparks 153/191, Anesaki Dynamic per trivia)"},
+    {"type": "card", "path": "cards/pokemon/black-bolt/077-086-rufflet.md", "name": "Rufflet (Black Bolt 077/086, Kedamahadaitai Yawarakai)"},
+    {"type": "card", "path": "cards/pokemon/black-bolt/078-086-braviary.md", "name": "Braviary (Black Bolt 078/086, Kedamahadaitai Yawarakai)"}
+  ],
+  "description": "Oh dear, terribly sorry to interrupt — Edgelord wanted to draw a clean BLB-077-Rufflet to BLB-078-Braviary same-species mirror, sir, but the corpus actually has FOUR Rufflet-line prints across THREE sets (Steam Siege 2016 + Surging Sparks 2024 + Black Bolt 2025 x 2), which I do believe puts it well past the 3+-prints-across-2+-sets threshold that the snivy-line and dwebble-line refusal notes cited as the Mr. Nodeley trigger condition. So I, um, I went ahead and commissioned the rufflet-line character-layer node instead, following the staraptor-line and pawniard-line templates — the species line is canonically two-stage Unova bald-eagle-Americana-allegory, male-exclusive, with the Hisuian Braviary regional variant noted as a future-attachment slot. All four cards now point at the new node via the characters: frontmatter field. Edgelord steps aside; Mr. Nodeley quietly hopes this saves a future wave from drawing four duplicate 1:1 same-species mirrors that the cohort node makes redundant. Thank you for your patience.",
+  "citations": [
+    "[Bulbapedia: Rufflet (Pokemon)]",
+    "[Bulbapedia: Braviary (Pokemon)]",
+    "[Pokemon.com: Pokedex no. 627 / 628]",
+    "[Pokemon Black and White (Game Freak / Creatures Inc. / Nintendo, 2010): primary canon]",
+    "[Pokemon Legends: Arceus (Game Freak, 2022): Hisuian Braviary regional form]",
+    "[PokemonTCG.io: xy11-92 (Rufflet) / sv8-153 (Braviary) / zsv10pt5-77 (Rufflet) / zsv10pt5-78 (Braviary): flavor_text + evolvesTo / evolvesFrom]",
+    "[Card trivia on 153-191-braviary.md: Anesaki Dynamic illustrator credit + bald-eagle-Americana design framing + male-exclusive species pairing via Bulbapedia WebSearch snippet]",
+    "[Card trivia on 92-rufflet.md: Takao Unno design credit + American-eagle-allegory framing via Bulbapedia WebSearch snippet]"
+  ],
+  "files_modified": [
+    "cards/_characters/rufflet-line.md (NEW)",
+    "cards/pokemon/steam-siege/92-rufflet.md (added characters: [rufflet-line] frontmatter)",
+    "cards/pokemon/surging-sparks/153-191-braviary.md (added characters: [rufflet-line] frontmatter)",
+    "cards/pokemon/black-bolt/077-086-rufflet.md (added characters: [rufflet-line] frontmatter)",
+    "cards/pokemon/black-bolt/078-086-braviary.md (added characters: [rufflet-line] frontmatter)",
+    "cards/_characters/staraptor-line.md (added rufflet-line to related_characters bidirectional mirror)",
+    "cards/_characters/pawniard-line.md (added rufflet-line to related_characters bidirectional mirror)"
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "node_predicates": {
+    "threshold_at_proposal_time": "4 prints across 3 sets — exceeds the 3+ prints across 2+ sets staraptor-line / caterpie-line precedent threshold",
+    "stage_coverage": "full at canonical two-stage Unovan-form scope (both Rufflet and Braviary in corpus)",
+    "form_coverage": "Unovan form only; Hisuian Braviary (Psychic/Flying, Pokemon Legends: Arceus 2022) regional variant noted as future-attachment slot",
+    "canonical_axes": [
+      "two-stage Normal/Flying evolutionary line (Pokedex no. 627 -> 628, evolves at level 54)",
+      "Unova bald-eagle-Americana-allegory (red/white/blue plumage + bald-eagle silhouette + Unova-as-New-York regional design)",
+      "male-exclusive species pairing with female-only Vullaby/Mandibuzz counterpart line at adjacent Pokedex slots 629/630",
+      "Hisuian Braviary regional form (Psychic/Flying, Pokemon Legends: Arceus 2022)",
+      "designed by Takao Unno (Game Freak character designer) per community-attested Bulbapedia aggregation"
+    ],
+    "design_thesis_summary": "fearless-aspirant (Rufflet) to friend-protecting-hero (Braviary) temperament arc rendered as canonically printed Pokedex flavor across multiple TCG sets and game generations; bald-eagle-Americana iconography layered as community-attested designer-intent reading on top of the temperament canon"
+  },
+  "other_candidates_considered": [
+    "Plain 1:1 BLB-077 Rufflet to BLB-078 Braviary same-species mirror — refused as redundant against the cohort node (would have been duplicate of what the node already aggregates), per the snivy/dwebble refusal precedent.",
+    "Plain 1:1 XY11-92 Rufflet to BLB-077 Rufflet cross-print mirror — refused as redundant against the cohort node.",
+    "Plain 1:1 SV8-153 Braviary to BLB-078 Braviary cross-print mirror — refused as redundant against the cohort node.",
+    "Enlightened-Edgelord snip of the existing XY11-92 to SV8-153 1:1 mirror edge — DEFERRED to a future pass; the 1:1 mirror should be reviewed for snip-versus-keep after this cohort node settles in the graph. The node body's 'Cards in our corpus pointing here' section notes that this 1:1 edge is 'a candidate for enlightened-Edgelord snip in a future pass once the four-card cohort is fully wired'. Surfacing this for the next Edgelord wave."
+  ],
+  "next_pass_suggestions": [
+    "Enlightened-Edgelord snip-and-replace pass: review the existing XY11-92 to SV8-153 1:1 same-species mirror edge for snip vs keep, given that both cards now anchor at the rufflet-line cohort node. Following the wave-120 within-Darkness-Ablaze Starly-Staraptor bookends-mirror snip precedent cited in staraptor-line's body. Most likely outcome: snip the per-card edge, leaving the cohort node as the sole anchor.",
+    "Backfill the Surging Sparks 153/191 Braviary card's artist: frontmatter field with 'Anesaki Dynamic' from the trivia body citation; the field is currently empty.",
+    "Trivia pass on BLB-077 Rufflet and BLB-078 Braviary (both currently vision-passed only).",
+    "IP verification flip on BLB-077 Rufflet and BLB-078 Braviary (both currently ip_verified: false; vision-and-Pokedex match is unambiguous).",
+    "When Vullaby or Mandibuzz print enters corpus via future Collectr CSV, commission the vullaby-line sibling node and draw the male-only / female-only paired-line cross-mirror edge to rufflet-line.",
+    "When Pidove / Tranquill / Unfezant prints accumulate to threshold in corpus, commission the pidove-line node as the proper Unova regional-bird-line slot (distinct from this Rufflet / Braviary line).",
+    "When 3+ male-exclusive-paired-line cohorts (rufflet-line + vullaby-line, volbeat / illumise, nidoran-m / nidoran-f, etc.) accumulate in the graph, commission the male-exclusive-paired-lines parent-cohort node."
+  ]
+}

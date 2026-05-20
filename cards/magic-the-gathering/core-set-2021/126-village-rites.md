@@ -75,3 +75,14 @@ A claustrophobic, dimly lit scene shows a tight cluster of hooded villagers in r
 **Iconography:** raised-hands, offering-pose, hooded-figures
 **Genre cues:** fantasy, horror, dark-fantasy
 
+## Trivia
+
+- **Set context** — Village Rites debuted in Core Set 2021 (July 2020) — it is not a reprint. It has since accumulated ten additional printings: Kaldheim (2021), Strixhaven Mystical Archive (2021, two showcase treatments), Jumpstart 2022, Game Night: Free-for-All (2022), The Lost Caverns of Ixalan Commander (2023), Foundations Jumpstart (2024), Innistrad Remastered (2025, two variants), and a Secret Lair Drop (December 2025). `[Scryfall prints search]`
+- **Mechanical reputation** — A one-mana black instant: sacrifice a creature, draw two cards. As of EDHREC data, it appears in over 221,000 Commander decks (EDHREC rank 194), placing it among the highest-penetration black staples in the format at common rarity. Legal in Pauper and Pauper Commander. `[Scryfall legalities; EDHREC]`
+- **Design history** — EDHREC's "Singleton Shmingleton" column described Village Rites as having "opened the floodgates" on tightly-costed sacrifice-draw effects, tracing a lineage from Skulltap and Altar's Reap to the modern one-mana versions. The article cited it as the second-most-played card in its functional cycle at the time of writing, behind Deadly Dispute (232,316 decks vs. Village Rites' 221,385). `[EDHREC: "Singleton Shmingleton — Village Rites"]`
+- **Flavor text** — "You were so eager to take and consume. Yet when asked to give, you refuse?" — speaker unnamed `[Scryfall]`. The rhetorical accusation directed at a sacrifice victim reads as a cult leader's challenge; no specific plane or faction is named on the card.
+
+### Related cards
+- Deadly Dispute (Adventures in the Forgotten Realms) — near-functional analog at one mana, sacrifice, draw two plus a Treasure token
+- Altar's Reap (Innistrad) — earlier sacrifice-draw predecessor at two mana; Village Rites is the tighter descendant
+- Viscera Seer (Magic 2011) — free sacrifice outlet that pairs with Village Rites in aristocrats strategies

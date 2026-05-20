@@ -1,0 +1,42 @@
+{
+  "card_name": "Ark Angel TT",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-067R",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The card name, type line (Forward/FFXI), and visual description all confirm this depicts the FFXI Notorious Monster Ark Angel TT — the Crystal Warrior representing Tarutaru cowardice. Scythe, dark cloak, stone chamber, blue-purple magical light all align with FFXI NM model. Verified via Final Fantasy Wiki (Fandom) and ZAM FFXI bestiary.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ark Angel TT is drawn from Final Fantasy XI, specifically the Rise of the Zilart expansion (2002). It is one of five 'Crystal Warriors' — beings forged by the ancient Zilart race and formed from the same essence as Vana'diel's five playable races. Each Ark Angel embodies the defining sin of its corresponding race; Ark Angel TT represents Tarutaru cowardice. [Final Fantasy Wiki: Crystal Warriors, via WebSearch snippet]",
+      "sources": ["Final Fantasy Wiki (Fandom): Crystal Warriors — WebSearch snippet", "Final Fantasy Wiki (Fandom): Ark Angel TT — WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Ark Angel TT is classified as a Forward in FFTCG Opus VIII (card 8-067R, Rare), affiliated with the FFXI game in the card's element lineup. Opus VIII (March 2019) drew heavily from FFXI, featuring multiple Crystal Warrior cards. The set also included exclusive original artwork by artists Yasuhisa Izumisawa, Ryoma Ito, Akira Oguro, and Toshitaka Matsuda. [Final Fantasy Portal Site news, via WebSearch snippet; ICv2 article on Opus VIII, via WebSearch snippet]",
+      "sources": ["Final Fantasy Portal Site: Opus VIII release news — WebSearch snippet", "ICv2: Final Fantasy TCG Opus VIII Collection article — WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In the source game, Ark Angel TT can use abilities of both Black Mage and Dark Knight jobs simultaneously (Manafont and Blood Weapon), and its unique weapon skill Amon Drive deals area-of-effect damage and can inflict Paralysis, Petrification, and Poison — an unusually lethal moveset for a Notorious Monster. The scythe depicted on the FFTCG card is consistent with its Dark Knight job association. [ZAM FFXI Bestiary: Ark Angel TT, via WebSearch snippet]",
+      "sources": ["ZAM FFXI Bestiary: Ark Angel TT — WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The in-game curse spoken to players who fight Ark Angel TT: 'You shall be consumed by the cowardice that binds you...' — underscoring its role as a mirror of Tarutaru racial darkness. The Ark Angels mission chain (Zilart Mission 14) also offered a harder variant called Divine Might where players fought all five at once. [WebSearch snippet: FFXI Ark Angels lore summary]",
+      "sources": ["WebSearch snippet: Ark Angels lore / Divine Might mission summary"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ark Angel EV", "set": "FFTCG Opus VIII or related", "note": "Fellow Crystal Warrior — Elvaan counterpart in the same FFXI Ark Angels mission chain"},
+    {"name": "Ark Angel HM", "set": "FFTCG", "note": "Crystal Warrior representing Hume — sibling card in the five-figure cycle"},
+    {"name": "Ark Angel MR", "set": "FFTCG", "note": "Crystal Warrior representing Mithra"},
+    {"name": "Ark Angel GK", "set": "FFTCG", "note": "Crystal Warrior representing Galka"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

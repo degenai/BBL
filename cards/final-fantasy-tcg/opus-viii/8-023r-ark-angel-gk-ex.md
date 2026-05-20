@@ -45,6 +45,8 @@ setting: dungeon
 suspected_ip: Ark Angel GK (Final Fantasy XI)
 ip_confidence: high
 ip_verified: true
+characters:
+  - ffxi-ark-angels-cycle
 ---
 
 # Ark Angel GK EX (Opus VIII)

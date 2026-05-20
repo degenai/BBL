@@ -1,0 +1,48 @@
+{
+  "card_name": "Armory of Iroas",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "299",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag; Iroas is Wizards-internal IP (Theros pantheon), no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Appears in Commander Legends (CMR), released November 20, 2020 — the first Magic set designed for booster draft in the Commander format. Players drafted three packs, picking two cards per pick, then built 60-card decks.",
+      "sources": ["Scryfall: CMR 299", "Hipsters of the Coast: Commander Legends is a Draftable Commander Set Coming in 2020 (2019-10), via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Iroas in the card name is a direct reference to the Theros pantheon deity of victory and honorable warfare — patron of the polis of Akros. Per MTG Wiki, the Armory of Iroas is Iroas's canonical trophy site within Akros, making this card a named real place in Theros lore.",
+      "sources": ["MTG Wiki: Iroas, via WebSearch snippet", "Scryfall: Iroas God of Victory JOU-150"]
+    },
+    {
+      "category": "design",
+      "text": "Originally printed in Journey into Nyx (JOU-158, 2014-05-02) by artist Yeong-Hao Han. Commander Legends is its only reprint; both copies share the same art by the same artist.",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Each weapon is as unique as the champion who carried it to battle.\" Describes the votive-armory tradition of the Iroas cult in Akros — weapons of honored champions dedicated to the god rather than reused.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 7,750 — niche equipment with a counter-on-attack loop. Legal in Pauper Commander; cited in EDHREC's Pauper Commander Bruenor Battlehammer equipment primer as a budget option.",
+      "sources": ["Scryfall: edhrec_rank 7750", "EDHREC: Pauper Commander Bruenor Battlehammer article, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Iroas, God of Victory", "set": "Journey into Nyx", "note": "The deity named in the card title; canonical god-card anchor for the iroas character node"},
+    {"name": "Indomitable Will", "set": "Theros Beyond Death", "note": "Iroas-cult card with named-priest flavor text; in corpus"},
+    {"name": "Hero of the Games", "set": "Theros Beyond Death", "note": "Iroan Games champion card with Iroas-cult flavor; in corpus"},
+    {"name": "The First Iroan Games", "set": "Theros Beyond Death", "note": "Saga depicting the founding of the Iroas-presided games; not in corpus"},
+    {"name": "Mogis, God of Slaughter", "set": "Born of the Gods", "note": "Designer-confirmed twin of Iroas; the slaughter-doctrine counterpart"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

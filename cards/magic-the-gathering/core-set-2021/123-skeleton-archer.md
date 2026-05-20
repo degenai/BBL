@@ -75,3 +75,15 @@ A skeletal figure in a deep crimson hooded cloak draws a longbow, the bowstring 
 **Iconography:** skull, bow-and-arrow
 **Genre cues:** fantasy, dark-fantasy, gothic
 
+## Trivia
+
+- **Print history and debut** — Skeleton Archer debuted in Core Set 2019 (2018) and was reprinted in Core Set 2020 (2019), The List (2019), Core Set 2021 (this copy, 2020), Arena Beginner Set (2020), Double Masters 2022, and Foundations (2024) — 7 prints total. Randy Vargas illustrated all 7. [Scryfall prints search]
+- **Randy Vargas** — Vargas is a Venezuelan-born artist whose MTG work began with Tetsuko Umezawa, Fugitive in Dominaria (2018). Hipsters of the Coast covered the auction of his oil painting for Marit Lage's Slumber (Modern Horizons, 2019), which sold for $4,400 — noted as only his second traditional painting for the game at that point. [Hipsters of the Coast: "Marit Lage's Slumber by Randy Vargas Sells for $4,400"]
+- **Mechanical profile** — Skeleton Archer enters as a 3/3 for {3}{B} and deals 1 damage to any target on entry, combining a relevant damage ping with a durable black creature body. EDHREC records it in approximately 21,013 Commander decks. Its pauper legality (confirmed Scryfall) makes it a recurring budget removal-on-a-stick in black pauper shells; the ping can target players, creatures, or planeswalkers. [Scryfall legalities; EDHREC rank field]
+- **Flavor text and speaker** — "Soul, flesh, even eyes — none of these are strictly necessary for deadly precision." — Modriss of Zargoth Fen. Modriss is a necromancer character quoted across several Core Set 2020 and 2021 cards. Zargoth Fen is a location introduced in Core Set 2020 flavor text; according to MTG lore authority vorthosjay (Tumblr, 2019), it is a new location and should not be assumed to be on any previously named plane. [Scryfall; vorthosjay.tumblr.com/post/185725601521]
+
+### Related cards
+- Skeleton Archer (Core Set 2019, no. 315) — earliest print; same art, same text
+- Rotting Regisaur (Core Set 2020) — another Zargoth Fen card, sharing the same necromantic setting implied by Modriss
+- Bone Splinters (Core Set 2020) — also features Zargoth Fen flavor text, establishing it as a recurring setting
+- Disentomb (Core Set 2020) — Modriss appears as flavor text speaker, establishing the character across the set

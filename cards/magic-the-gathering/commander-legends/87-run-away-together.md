@@ -78,3 +78,14 @@ A wide forest clearing scene in warm afternoon light. On the left, a large lumbe
 **Iconography:** flower-petals, claws, open-mouth
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Design history** — First printed in Throne of Eldraine (October 2019, no. 62/269), illustrated by Filip Burburan. The Commander Legends copy (no. 87, November 2020) is its third printing. As of Scryfall, the card has appeared in nine total printings across Throne of Eldraine, Commander Legends, Commander Legends: Battle for Baldur's Gate, Wilds of Eldraine Commander, Game Night: Free-for-All, Bloomburrow, The List, Foundations, and Lorwyn Eclipsed — making it a regular reprint staple. [Scryfall: prints search, oracle ID 290faa28-450e-4797-9a8f-642d8af3f82a]
+- **Flavor text** — "Virtue is virtue, whatever the heart that nurtures it." — Malacan, Vantress exile. `[Scryfall]` Malacan is identified as a scholar from Vantress, the school of mind-magic on Eldraine, exiled for reasons unstated. The quote frames the art's improbable pairing as moral philosophy — character and capability matter more than pedigree.
+- **Mechanical** — The spell requires two targets controlled by different players, forcing the caster to always bounce one of their own creatures. This diplomatic design tension makes it uniquely interesting in multiplayer Commander while remaining a powerful two-for-one tempo play. EDHREC ranks it at 1704 overall. [Scryfall: oracle_text, edhrec_rank; dotesports.com preview article, via WebSearch]
+- **Artist-prized commons signal** — Filip Burburan is a notable original-art collector target. His traditional acrylic/oil MTG paintings sold at auction in 2020 for $4,450–$9,000 each (Xyris: $9,000; Brokkos: $5,600; Akim: $4,450 — all Ikoria). Burburan's original art market value ranks among the highest for active Magic illustrators. [Hipsters of the Coast: "Three Filip Burburan Legends Fetch Nearly $20,000 Combined" (May 2020)]
+
+### Related cards
+- Unsummon (various sets) — single-target bounce ancestor; Run Away Together is a two-for-one multiplayer upgrade
+- Boomerang (various sets) — two-mana bounce classic; shares the tempo bounce slot
+- Brazen Borrower (Throne of Eldraine, no. 39) — same set origin; another Eldraine bounce piece with a creature body

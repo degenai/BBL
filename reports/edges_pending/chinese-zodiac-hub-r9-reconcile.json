@@ -1,0 +1,41 @@
+{
+  "edge_id": "chinese-zodiac-hub-r9-reconcile",
+  "shape": "hub-body-reconciliation",
+  "category": "designer-confirmed-cycle",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "hub", "path": "cards/_hubs/chinese-zodiac.md", "name": "Chinese Zodiac"},
+    {"type": "canonical-source", "path": "reports/diamondlegendz-pokemon-zodiac-app.js", "name": "Diamond Legendz pokemon-zodiac app.js (vendored)"}
+  ],
+  "description": "Not an edge this wave. Reconciled a hand-curated hub body against the canonical source Alex asked to be wired in. The hub was running a stale 60-cell / 5-element / strict-orphan model; the live app.js encodes a 72-cell / 6-column grid (5 Wuxing + Aura) under the nine-rule R1-R9 ruleset, where R9's market-acceptance test restores Western dragons, wolves, and foxes that the old prose declared permanently orphaned. Corrected the cell counts, the Animal-slot criteria, the Anti-Patterns pivot, and refreshed Narrative Seeds against the actual DATA array. Preserved Alex's voice and section structure throughout. Did not duplicate the parent's dated Canonical Ruleset Reference section.",
+  "citations": [
+    "[app.js DATA array — 6-column grid, ELABEL = WOOD/FIRE/EARTH/METAL/WATER/AURA, 12 rows = 72 cells]",
+    "[app.js ruleset header — R1-R9, three tiers; R9 market-acceptance test overrides Tier 3 fauna exclusions but never R5 element rules]",
+    "[app.js DATA — depth-5 cells verified: Rat-Earth Skwovet, Ox-Earth Terrakion, Dragon-Earth Drampa, Dragon-Aura Dragonite]",
+    "[app.js DATA + TRIO_NAMES — 'swords' trio tag on 4 cells across 3 rows: Ox-Earth, Goat-Wood, Goat-Metal, Horse-Water]",
+    "[app.js DATA + TRIO_NAMES — 'sims' trio tag on 3 cells, all Monkey row: Wood/Fire/Water]",
+    "[app.js ROW_NOTES — Dragon: 'Row goes from 2 cells to 5'; Dog: R9 restores Lycanroc/Vaporeon/Houndoom; Tiger: strict rule and R9 agree, row stays fully open]"
+  ],
+  "changes": [
+    "Opening paragraph: 'five Wuxing elements, sixty cells, ~25 honestly open' -> 'six columns (five Wuxing elements + an Aura column), seventy-two cells, ~27 honestly open'.",
+    "What This Hub Anchors intro: added the Aura column to the scope sentence.",
+    "Animal-slot criteria: rewrote all 12 bullets to fold in R9 restorations (Dragon restores Western/kaiju; Dog restores wolves/foxes/hellhounds; Rat/Ox admit market-readable borderline silhouettes; Tiger noted as strict-and-market-agree). Added BROAD/STRICT tags matching ROW_NOTES.",
+    "Element criteria: added Grass/Fire/Water type names, the R5 Poison-terrestrial-Earth extension, and the Steel-only-not-Electric clarification.",
+    "Added a new 'Aura column' criteria block explaining the sixth column (R9 ratifies animal-fit, R5 still orphans element).",
+    "Narrative Seeds: '~35 closed cells' -> '~45 cells with cluster depth >= 1' (verified count). Added a one-line preamble flagging seeds as anchored_lairs-tier. Added 'The Deep Four' seed (the four verified depth-5 cells). Corrected the Swords of Justice claim from 'four-cell ... across two element rows' to 'four cells across three rows' with each cell named. Added the 'Sim Monkey Trio' seed. Rewrote 'What doesn't fit' to draw from genuine post-R9 Tier 3 orphans, not R9-restored fauna. Updated 'MTG Zodiac' to note the dragon row widens under R9.",
+    "Why This Hub Earns Foundational Status: '60-cell grid' -> '72-cell grid (12 slots x 6 columns) ... the nine-rule R1-R9 ruleset'.",
+    "Anti-Patterns: rewrote bullet 1 from blanket 'Western dragons are orphaned / Foxes are orphaned' to 'Type-mushy inclusion without TPC ratification' (the two-gate evidence requirement is the anti-pattern, not the fauna). Added a new bullet guarding R5 against R9 bleed (element rules never bent for convenience).",
+    "Design Note: corrected the parenthetical claiming the 39 dragon-tag MTG cards are 'explicitly orphaned' - under R9 they are restored; the live argument is that tag-match still does not equal cell-fill."
+  ],
+  "not_changed": [
+    "The parent's dated 'Canonical Ruleset Reference (2026-05-19)' section - left intact, not duplicated.",
+    "Frontmatter - no edits; canonical_source field already present and accurate.",
+    "Design Note's core card-edge-disconnection argument and the bbl-bundles-are-destructive-on-graph citation.",
+    "No appears_on: or card-edge attachments added - hub stays card-edge-disconnected by design.",
+    "Alex's voice, section ordering, and the curation-as-scholarship blockquote."
+  ],
+  "files_modified": [
+    "cards/_hubs/chinese-zodiac.md"
+  ],
+  "edgelord_mood": "satisfied"
+}

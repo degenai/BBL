@@ -1,0 +1,42 @@
+{
+  "card_name": "Scrounging Bandar",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "252",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Scrounging Bandar originated in Aether Revolt (January 2017), the second set of the Kaladesh block. 'Bandar' is the Kaladeshi word for monkey — the plane's Cat Monkey creatures are named using that term. Aether Revolt depicts the renegade uprising against the Consulate on the steampunk-aether plane of Kaladesh (later renamed Avishkar), home plane of Chandra Nalaar. [Scryfall; WebSearch: Aether Revolt lore summary]",
+      "sources": ["Scryfall", "WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It was right here a second ago . . .\" [Scryfall flavor_text field]. The speaker is unnamed. The quote captures the Bandar's scrounging, thieving character — something was just here and now it isn't, attributable to the creature.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The counter-transfer ability — moving +1/+1 counters from the Bandar to any other creature at each upkeep — makes it a counter-distribution engine in decks that want counters elsewhere (Infect, Proliferate, counters-matter commanders). EDHREC rank 8572 places it in the moderate fringe; it sees more play in focused counter-synergy builds than generalist green decks. [Scryfall edhrec_rank field; EDHREC card page]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Printed in Aether Revolt (2017), Jumpstart (2020), Commander Legends (2020), and Jumpstart 2022 (2022) — four total printings. Illustrated by Shreya Shetty, who had approximately 15 MTG cards to her credit as of the Aether Revolt era. The Cat Monkey creature type is a rare combination; the card is one of the few to define what that creature type looks like in art. [Scryfall prints search; Gatherer artist search via WebSearch]",
+      "sources": ["Scryfall", "Gatherer via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rishkar, Peema Renegade", "set": "Aether Revolt", "note": "Aether Revolt co-set card; defines the counter-matters design throughline of the block"},
+    {"name": "Winding Constrictor", "set": "Aether Revolt", "note": "Aether Revolt counter-synergy card that would amplify Scrounging Bandar's ETB counters"},
+    {"name": "Kalonian Hydra", "set": "Magic 2014", "note": "Archetype counter-doubler that benefits from receiving counters transferred from Scrounging Bandar"},
+    {"name": "Walking Ballista", "set": "Aether Revolt", "note": "Same-set counter sink — Scrounging Bandar's transfers feed its damage output"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

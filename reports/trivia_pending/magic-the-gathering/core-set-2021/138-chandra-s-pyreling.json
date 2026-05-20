@@ -1,0 +1,42 @@
+{
+  "card_name": "Chandra's Pyreling",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "138",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "ip_verified already true in frontmatter; no IP work required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Chandra's Pyreling is original to Core Set 2021 (reprint: false per Scryfall) and was previewed by Wizards of the Coast on June 9, 2020. It is one of two named Chandra-companion creatures in M21 alongside Chandra's Magmutt (137). M21 has no narrative story spotlights — Chandra's presence is mechanical and thematic, not story-chapter driven. [Scryfall: previewed_at=2020-06-09, story_spotlight=false]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 11,964 [Scryfall: edhrec_rank]. A 1/3 Uncommon for {1}{R} that gains +1/+0 and double strike whenever any source you control deals noncombat damage to an opponent. The trigger includes planeswalker ping abilities, Guttersnipe-style triggers, and burn spells — allowing the Pyreling to grow and double-strike in the same turn as a Lightning Bolt. NOT legal in Pauper (uncommon). [Scryfall: legalities, pauper=not_legal]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"I think Chandra just wanted something to blame random scorch marks on.\" — Jace Beleren. [Scryfall] The quote is a characteristic piece of Jace-Chandra banter — their long-running antagonistic-turned-collegial relationship across multiple sets is one of the most documented inter-planeswalker dynamics in MTG lore. Jace's dry tone here frames Chandra's pyromancy as casually destructive rather than malicious.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on TappedOut: Chandra's Pyreling is frequently compared to Chandra's Spitfire from M10, described as 'equally devastating but lacking evasion.' The card's combo ceiling in noncombat-damage decks (Torbran, Thane of Red Fell; Guttersnipe) is noted; Break Through the Line is cited as a frequent evasion patch. [TappedOut: chandras-pyreling card page]",
+      "sources": ["TappedOut: chandras-pyreling"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Chandra's Magmutt", "set": "Core Set 2021", "note": "The paired Chandra-companion common in M21"},
+    {"name": "Chandra's Spitfire", "set": "Magic 2010", "note": "Direct mechanical predecessor — same trigger type (noncombat damage → pump), frequently compared in community discussions"},
+    {"name": "Torbran, Thane of Red Fell", "set": "Throne of Eldraine", "note": "Strongest EDH synergy partner — Torbran's damage buff triggers Pyreling's noncombat damage condition"},
+    {"name": "Guttersnipe", "set": "Return to Ravnica", "note": "Spell-damage engine that repeatedly triggers Pyreling in spell-heavy builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

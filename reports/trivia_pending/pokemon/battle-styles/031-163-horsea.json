@@ -1,0 +1,46 @@
+{
+  "card_name": "Horsea",
+  "game": "Pokemon",
+  "set": "Battle Styles",
+  "collector_number": "031/163",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, art, and type all match canonical Horsea (National Pokedex no. 116, Water-type Basic seahorse Pokemon). The Bulbapedia entry for Horsea (Battle Styles 31) confirms artist Anesaki Dynamic and card ID swsh5-31. IP verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "This card is from Battle Styles (SWSH5), the fifth expansion of the Sword & Shield TCG series, released March 19, 2021. Battle Styles was the first expansion to introduce the Single Strike and Rapid Strike card variants, built around the Wushu Pokemon Urshifu and its two forms. Horsea (031/163) is a Basic Water-type common from the set's non-featured background roster. [Bulbapedia: Battle Styles (TCG)]",
+      "sources": ["Bulbapedia: Battle Styles (TCG)"]
+    },
+    {
+      "category": "design",
+      "text": "Horsea (National Pokedex no. 116) is a Water-type Basic Pokemon whose Japanese name, Tattu, derives from tatsu — the Japanese word for dragon, embedded in the compound tatsu-no-otoshigo (竜の落とし子), meaning 'dragon's illegitimate child,' the Japanese folk term for seahorse. The design reflects a real-world Japanese mythological belief that a seahorse living for a century will transform into a dragon — the evolutionary logic behind Horsea's line gaining the Dragon type at Kingdra (via Seadra evolving with a Dragon Scale). [Bulbapedia: Kingdra (Pokemon); Dextraneous.blog: Horsea, Seadra, Kingdra; bogleech.com Tumblr post on tatsu-no-otoshigo]",
+      "sources": ["Bulbapedia: Kingdra (Pokemon)", "Dextraneous.blog: Horsea Seadra Kingdra", "bogleech.com: tatsu-no-otoshigo Tumblr"]
+    },
+    {
+      "category": "design",
+      "text": "Kingdra, the final evolution of the Horsea line, is a dual Water/Dragon type introduced in Generation II (Gold & Silver) via trading with a Dragon Scale. Its deep-sea-floor habitat and ability to generate whirlpools while sleeping may reference Ryujin, the Japanese sea deity and dragon king. Kingdra's horns are visually consistent with the Eastern dragon (loong) iconography, completing the seahorse-to-dragon mythological arc the line encodes. [Bulbapedia: Kingdra (Pokemon); Dextraneous.blog: Horsea, Seadra, Kingdra]",
+      "sources": ["Bulbapedia: Kingdra (Pokemon)", "Dextraneous.blog: Horsea Seadra Kingdra"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Printed flavor text: \"It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.\" The ink-spitting defense mechanic is consistent with the Horsea line's squid-influenced biology noted by analysts (Seadra and Horsea both use ink-based water attacks). [PokemonTCG.io: swsh5-31; bogleech.com: Horsea family analysis]",
+      "sources": ["PokemonTCG.io: swsh5-31", "bogleech.com: The Horsea Family"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Diamond Legendz Zodiac grid placement: Horsea anchors the **Water Dragon** cell of the 12-animal Wuxing matrix. The placement logic is dual: (1) Water-type at every stage of the evolutionary line, and (2) the line's mythological identity as a dragon-in-becoming — the Japanese folk etymology of seahorse as 'dragon's illegitimate child' and the Horsea-Seadra-Kingdra evolutionary arc culminating in a literal Water/Dragon dual type. The whiskered, serpentine form of Kingdra maps onto the loong (Chinese dragon) iconography. [Bulbapedia: Kingdra (Pokemon); Dextraneous.blog: Horsea, Seadra, Kingdra]",
+      "sources": ["Bulbapedia: Kingdra (Pokemon)", "Dextraneous.blog: Horsea Seadra Kingdra"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Seadra", "set": "Various", "note": "Stage 1 evolution of Horsea; Dragon Scale trade evolution trigger"},
+    {"name": "Kingdra", "set": "Various", "note": "Final evolution; Water/Dragon dual type; the loong-form culmination of the line"},
+    {"name": "Horsea", "set": "Various (multiple prints)", "note": "Multiple prior TCG printings; Anesaki Dynamic has illustrated 152+ cards since Steam Siege"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

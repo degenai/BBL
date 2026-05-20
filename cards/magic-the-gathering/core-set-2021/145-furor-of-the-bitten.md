@@ -74,3 +74,14 @@ A close-up portrait of a humanoid figure consumed by feral fury or transformatio
 **Iconography:** bared-teeth, wide-eyes, snarl
 **Genre cues:** fantasy, horror, gothic-horror
 
+## Trivia
+
+- **Set context** — Furor of the Bitten originated in Innistrad (September 2011), the gothic horror plane that introduced the game's most developed werewolf mechanics. The original printing (ISD, card 143) was part of Innistrad's human/lycanthrope design space, where red enchantments fueled the berserker-aggro side of the transformation theme. The M21 reprint carries the same Randy Gallegos art and text, with a nine-year gap between printings — only two editions exist. `[Scryfall: set=isd, released_at=2011-09-30]` `[Scryfall: prints_search_uri]`
+- **Flavor text** — `"Those who only believe themselves infected with lycanthropy can be as dangerous as those who really are."` (no attributed speaker) `[Scryfall]` The text exploits psychosomatic ambiguity: the enchantment's mechanical effect (forced attacks, +2/+2) literalizes loss of agency whether or not the curse is "real" — a tight loop between horror flavor and red enchantment mechanics.
+- **Mechanical reputation** — EDHREC rank 18,512. `[Scryfall: edhrec_rank]` The lowest rank in this M21 batch. A {R} Aura granting +2/+2 with forced attacks; Pauper-legal. The forced-attack drawback is the primary limiting factor — it telegraphs board state and can be exploited in competitive formats, suppressing its wider adoption despite the efficient mana-to-stats ratio.
+- **Artist** — Randy Gallegos illustrated both the 2011 Innistrad original and the 2020 M21 reprint. The consistent artist credit across a nine-year reprint gap is uncommon. `[Scryfall: artist=Randy Gallegos]`
+
+### Related cards
+- Rancor (Urza's Legacy) — canonical 1-mana pump Aura comparison point; Furor is the red forced-attack variant
+- Curse of Stalked Prey (Innistrad, card 152) — same Innistrad-era red enchantment that rewards attacking creatures
+- Afflicted Deserter (Innistrad) — werewolf creature whose lycanthropy transformation the flavor text directly echoes

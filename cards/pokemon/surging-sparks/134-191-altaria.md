@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - sky
+  - cloud
+  - flight
+  - dragon
+  - bird
+  - white
+  - serenity
+  - freedom
+  - soaring
+  - cotton
+  - gentle
+tags_filter:
+  - solo
+  - mid-shot
+  - action-mode
+  - three-quarter
+  - colorless-type
+  - stage-1
 reference_image: cards/_images/pokemon/surging-sparks/134-191-altaria.png
 average_cost_paid: 0
 market_price: 0.08
@@ -25,6 +42,33 @@ oracle_text: "Humming Charge (Water): Search your deck for up to 2 Basic Energy 
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: day
+setting: other
+suspected_ip: Altaria
+ip_confidence: high
+ip_verified: false
 ---
 
 # Altaria (Surging Sparks)
+
+## Vision
+
+![134-191-altaria](../../_images/pokemon/surging-sparks/134-191-altaria.png)
+
+> [!warning] Suspected IP: **Altaria** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A slender bird-dragon creature with large, puffed cloud-like wing masses soars through a bright open sky. Its body is pale blue and white, with long flowing cloud-feather wings that billow outward to both sides. Soft white clouds drift in the background against a clear pale-blue sky. The creature appears to glide or float gently, body oriented slightly upward. The overall composition is light, airy, and serene — dominated by whites and soft blues.
+
+**Subject:** Altaria, a cloud-winged dragon-bird Pokemon soaring through open sky
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** other, day, clear
+**Foreground:** Pale blue and white cloud-winged dragon-bird in gentle soaring pose  *(palette: white, pale-blue, sky-blue)*
+**Background:** Open sky with soft white clouds  *(palette: pale-blue, white, light-blue)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** serene, graceful, unhurried flight
+**Creatures:** bird, dragon, cloud-creature, pokemon
+**Genre cues:** anime, fantasy, monster-design
+

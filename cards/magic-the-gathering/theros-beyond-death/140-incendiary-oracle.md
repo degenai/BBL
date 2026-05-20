@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - fire
+  - oracle
+  - prophet
+  - forge
+  - robed-figure
+  - flame-walker
+  - power
+  - devotion
+  - ritual
+  - destruction
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - red-magic
+  - creature-human-wizard
+  - female-figure
+  - action-mode
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/140-incendiary-oracle.png
 average_cost_paid: 0
 market_price: 0.02
@@ -30,7 +47,28 @@ image_width: 745
 image_height: 1040
 image_quality: high
 mana_cost: "{1}{R}"
+mood: sublime
+time_of_day: indeterminate
+setting: other
 tags:
   - card
 ---
 # Incendiary Oracle (Theros Beyond Death)
+
+## Vision
+
+![140-incendiary-oracle](../../_images/magic-the-gathering/theros-beyond-death/140-incendiary-oracle.png)
+
+A slender humanoid figure stands amid a massive eruption of fire and flame. The figure wears flowing red-orange garments that blend seamlessly into the fire surrounding them, making cloth and flame nearly indistinguishable. Hair is drawn up close to the head. One arm is raised and extended forward in a commanding or releasing gesture. The other arm hangs lower, also surrounded by fire. The background is smoky gray-white, and in the far background a dark anvil shape is barely visible through the smoke and ash. The palette is dominated by deep orange, red, and gold with a pale ashen sky above.
+
+**Subject:** a robed humanoid figure commanding fire, one arm extended outward in a sweeping gesture
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** other, indeterminate, fire
+**Foreground:** figure in fire-robes, arm extended in commanding gesture, surrounded by flames  *(palette: deep orange, crimson, gold)*
+**Background:** ash-gray sky, smoke, faint anvil silhouette  *(palette: pale gray, white-smoke, charcoal)*
+**Mood / lighting:** sublime, harsh
+**Emotion read:** commanding authority, fierce concentration
+**Objects:** anvil (distant), fire, ash
+**Genre cues:** fantasy, mythology
+

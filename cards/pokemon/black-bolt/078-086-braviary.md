@@ -50,6 +50,8 @@ setting: mountain
 suspected_ip: Braviary
 ip_confidence: high
 ip_verified: false
+characters:
+  - rufflet-line
 ---
 
 # Braviary (Black Bolt)
@@ -74,4 +76,8 @@ Braviary is captured in full-spread flight, wings extended to their full dramati
 **Objects:** canyon walls, clouds
 **Creatures:** Braviary, eagle, bird of prey
 **Genre cues:** anime
+
+## Connections
+
+- [[rufflet-line]] — Apex-stage representative of the Rufflet evolutionary line (Pokedex 627 / 628, Normal/Flying, two-stage, male-exclusive, Unova Gen V). This Black Bolt Braviary 078/086 is the corpus's BLB-era Braviary print, illustrated by Kedamahadaitai Yawarakai and slotted at the within-set adjacent-collector-number pair partner to Rufflet 077/086 by the same artist — the BLB set's fourth within-set adjacent-collector-number single-artist-coordinated evolution-line pair alongside Snivy 001 + Servine 002 (Susumu Maeya), Dwebble 051 + Crustle 052 (Tetsu Kayama), and Pawniard 064 + Bisharp 065 (Oku). Printed flavor *"They fight for their friends without any thought about danger to themselves. One can carry a car while flying"* — the species' canonical friend-protecting-hero temperament rendered as printed Pokedex flavor, the apex-stage counterpart to the Rufflet prints' fearless-aspirant flavor. The wide canyon flight composition with red-orange cliffs is a deliberate Americana iconography render (red/white/blue plumage against canyon-landscape Unova-as-American-Southwest geographic register), at the community-attested designer-intent scope per the cohort node's body. `[PokemonTCG.io: zsv10pt5-78; Bulbapedia: Braviary (Pokemon)]`
 

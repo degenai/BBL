@@ -1,0 +1,35 @@
+{
+  "card_name": "Luminous Puma",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-080C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name, game source (FFXIII-2), and visual description (large dark-armored beast with purple energy accents) directly match the Luminous Puma enemy from Final Fantasy XIII-2 (Augusta Tower 200 AF). Internal Square Enix IP — no external IP risk. Verified via Final Fantasy Wiki (Fandom) and gamercorner.net FFXIII-2 bestiary.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Luminous Puma originates from Final Fantasy XIII-2 (2012), where it appears as an enemy encountered in Augusta Tower (200 AF). It belongs to the Monster class — a tameable creature category in XIII-2's Paradigm Pack system, where defeated monsters can be recruited into the player's party. [Final Fantasy Wiki: Luminous Puma, via WebSearch snippet; gamercorner.net FFXIII-2 monsters, via WebSearch snippet]",
+      "sources": ["Final Fantasy Wiki (Fandom): Luminous Puma — WebSearch snippet", "gamercorner.net FFXIII-2 bestiary: Luminous Puma — WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a FFTCG Backup (card 8-080C, Common), Luminous Puma's card effect lets the controller sacrifice it to either power up all Forwards by 2000, or grant one Forward 5000 Power — in exchange for Earth CP and Light CP. This makes it a budget utility piece in Earth/Light mixed builds rather than a standalone threat. [WebSearch snippet: FFTCG Luminous Puma card effect summary]",
+      "sources": ["WebSearch snippet: FFTCG Luminous Puma card effect — Crystarium-adjacent summary"]
+    },
+    {
+      "category": "set-lore",
+      "text": "FFXIII-2's Augusta Tower is set in a far-future timeline (200 years After Fading) where rogue artificial intelligence PSICOM and proto-fal'Cie have taken control. The Luminous Puma and similar mechanically-armored beasts in the Augusta Tower zone reflect the setting's cyberpunk-industrial aesthetic — far removed from the pastoral or mythological creature designs of earlier XIII locations. [Final Fantasy Wiki: Augusta Tower / FFXIII-2, via WebSearch snippet]",
+      "sources": ["Final Fantasy Wiki (Fandom): Augusta Tower (FFXIII-2) — WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Nightblade Puma", "set": "Final Fantasy XIII-2 source / FFTCG", "note": "Near-identical enemy type in FFXIII-2 — same puma family, different zone and variant"},
+    {"name": "Lightning (FFTCG)", "set": "Various Opus sets", "note": "Protagonist of FFXIII-2's predecessor game; recurring card type associated with the XIII universe"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

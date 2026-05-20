@@ -77,3 +77,16 @@ A monochrome, sepia-toned illustration of an elaborate ceremonial searchlight or
 **Iconography:** lantern, guild-symbol, ceremonial-gift, light-source
 **Genre cues:** fantasy, heraldic, ceremonial
 
+## Trivia
+
+- **Flavor text** — "The first searchlights were given as gifts, symbols of cooperation, to the emissaries present at the signing of the Guildpact." [Scryfall]. The Guildpact is the ancient magical treaty that organized Ravnica's ten guilds under binding law — the founding compact predating the events of Ravnica: City of Guilds (2005). The Searchlight is framed as a diplomatic relic from that originary moment.
+- **Set context and rarity quirk** — First printed in Ravnica: City of Guilds (October 2005) as an uncommon. Commander Legends (November 2020) is the only printing among six total to downgrade it to common; all five other printings — Conspiracy (2014), Battlebond (2018), Commander 2021 (2021), Commander Masters (2023) — hold uncommon. The CMR common slot appears to be a draft-fill decision [Scryfall API: prints list].
+- **Mechanical design** — The ability ({T}: Choose a player. That player adds one mana of any color they choose.) is deliberately asymmetrical in favor: you pick the player, they pick the color. In multiplayer Commander, gifting an opponent mana to buy goodwill is a real political play — mechanically enacting the flavor-text narrative of the searchlight as a diplomatic tool. EDHREC rank 7549 shows steady Commander inclusion [Scryfall API: oracle_text, edhrec_rank].
+- **Artist consistency** — Martina Pilcerova has illustrated every printing of Spectral Searchlight across all six sets and 18 years of reprints — an unusually consistent artist retention. The sepia-monochrome museum-catalog rendering has been reproduced without alteration across Ravnica, Conspiracy, Battlebond, Commander Legends, Commander 2021, and Commander Masters [Scryfall API: artist field, all six printings].
+
+### Related cards
+- Chromatic Lantern (Return to Ravnica, no. 222) — Ravnica mana-fixing artifact; stronger functional parallel (fixes and taps for any color for you)
+- Coalition Relic (Future Sight, no. 155) — colorless mana artifact with multi-faction diplomatic resonance
+- Commander's Sphere (Commander 2013, no. 259) — Commander-format mana-fixing; direct functional parallel
+- Guildpact (Dissension, no. 34) — the enchantment named after the treaty referenced in the Searchlight's flavor text
+

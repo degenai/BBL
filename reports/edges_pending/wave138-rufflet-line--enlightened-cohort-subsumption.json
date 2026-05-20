@@ -1,0 +1,59 @@
+{
+  "edge_id": "wave138-rufflet-line--enlightened-cohort-subsumption",
+  "shape": "replacement",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "wave": 138,
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/rufflet-line.md", "name": "Rufflet evolutionary line (Rufflet / Braviary)"},
+    {"type": "card", "path": "cards/pokemon/steam-siege/92-rufflet.md", "name": "Rufflet (Steam Siege 92/114)"},
+    {"type": "card", "path": "cards/pokemon/surging-sparks/153-191-braviary.md", "name": "Braviary (Surging Sparks 153/191)"},
+    {"type": "card", "path": "cards/pokemon/black-bolt/077-086-rufflet.md", "name": "Rufflet (Black Bolt 077/086)"},
+    {"type": "card", "path": "cards/pokemon/black-bolt/078-086-braviary.md", "name": "Braviary (Black Bolt 078/086)"}
+  ],
+  "edges_removed": [
+    {"from": "cards/pokemon/steam-siege/92-rufflet.md", "to": "cards/pokemon/surging-sparks/153-191-braviary.md", "description": "Pre-cohort-node-era 1:1 evolution mirror between Steam Siege Rufflet 92 and Surging Sparks Braviary 153. The mirror was drawn before rufflet-line.md existed and the rufflet-line node body itself flags this bullet as a candidate for enlightened-Edgelord snip in a future pass once the four-card cohort is fully wired. Subsumed by the cohort-node attachment per the wave-50 solrock-lunatone-pair precedent."}
+  ],
+  "edges_added": [
+    {"from": "cards/pokemon/steam-siege/92-rufflet.md", "to": "cards/_characters/rufflet-line.md", "description": "Steam Siege Rufflet 92 cohort-attaches as the corpus's earliest-print Rufflet and the only Rufflet print where the species' canonical aspirant-warrior temperament is rendered as Pokedex flavor verbatim. Mitsuhiro Arita art, XY-era TCG-editorial cadence."},
+    {"from": "cards/pokemon/surging-sparks/153-191-braviary.md", "to": "cards/_characters/rufflet-line.md", "description": "Surging Sparks Braviary 153 cohort-attaches as the corpus's only Braviary print depicting the apex stage in a steep diving combat posture. Anesaki Dynamic art, SV8-era TCG-editorial cadence. Drag Off mechanic with TCG history dating to Dark Machoke (Team Rocket expansion)."},
+    {"from": "cards/pokemon/black-bolt/077-086-rufflet.md", "to": "cards/_characters/rufflet-line.md", "description": "Black Bolt Rufflet 077 cohort-attaches as the BLB-era Rufflet print, within-set adjacent-collector-number pair partner to Braviary 078 (both Kedamahadaitai Yawarakai), the BLB set's fourth within-set adjacent-pair after Snivy/Servine, Dwebble/Crustle, Pawniard/Bisharp. New Connections section added (was missing — sync drift fixed at cohort-attachment wire layer)."},
+    {"from": "cards/pokemon/black-bolt/078-086-braviary.md", "to": "cards/_characters/rufflet-line.md", "description": "Black Bolt Braviary 078 cohort-attaches as the BLB-era Braviary print, within-set adjacent-collector-number pair partner to Rufflet 077 (both Kedamahadaitai Yawarakai). New Connections section added (was missing — sync drift fixed at cohort-attachment wire layer)."}
+  ],
+  "description": "Enlightened-cleanup. Direct replay of the wave-50 solrock-lunatone-pair precedent at the rufflet-line scope: the cohort node has existed and listed all four corpus prints in its appears_on field since wave 134, but two of the four prints (Black Bolt Rufflet 077 and Braviary 078) had only the characters: frontmatter pointer with no card-side Connections bullet, AND the older Steam Siege 92 Rufflet / Surging Sparks 153 Braviary 1:1 mirror predates the cohort node and is now redundant under it (the rufflet-line node body itself stages this exact snip at line 49). Replaced the thin two-of-four 1:1 mirror with four-of-four cohort attachment via per-card Connections bullets pointing at [[rufflet-line]], matching the schema established by solrock-lunatone-pair. Net edge count preserved per Edgelord's enlightened-form rule: -1 (the 1:1 Steam-Siege ↔ Surging-Sparks mirror) + 4 (each card's cohort attachment as a single edge), but the 1:1 was already implicit-double-counted via mirror-pair, so the bookkeeping is +3 cohort attachments and -1 redundant mirror. The within-Black-Bolt adjacent-collector-number same-artist (Kedamahadaitai Yawarakai) Rufflet-077 + Braviary-078 pair — which the prior 1:1 mirror omitted — is now load-bearing through the cohort node, completing the BLB set's full four-pair within-set adjacent-pair cohesion (Snivy/Servine, Dwebble/Crustle, Pawniard/Bisharp, Rufflet/Braviary). Behold. The graph improves.",
+  "citations": [
+    "[Bulbapedia: Rufflet (Pokemon), Braviary (Pokemon)]",
+    "[Pokemon.com: official Pokedex no. 627 / 628]",
+    "[PokemonTCG.io: xy11-92, sv8-153, zsv10pt5-77, zsv10pt5-78]",
+    "[Pokemon Black and White, Game Freak / Creatures Inc. / Nintendo, 2010 — primary canon]",
+    "[Pokemon White Pokedex flavor #627 — printed verbatim on Steam Siege 92 Rufflet]",
+    "[Precedent: wave-50 solrock-lunatone-pair cohort-subsumes-1:1-mirrors enlightenment (reports/edges_pending/wave50-e3-solrock-lunatone-pair--enlightened-cohort-subsumption.json)]",
+    "[Precedent: pawniard-line-node.json (wave-N) cohort-substitutes-for-per-card-BLB-pair-mirror]",
+    "[Schema-precedent: cards/_characters/mareep-line.md, staraptor-line.md, caterpie-line.md — cohort-subsumes-pre-cohort-1:1-mirrors pattern]",
+    "[Self-staging: cards/_characters/rufflet-line.md L49 — 'pair-edge anchored at this cohort node and is a candidate for enlightened-Edgelord snip in a future pass once the four-card cohort is fully wired']"
+  ],
+  "files_modified": [
+    "cards/pokemon/steam-siege/92-rufflet.md (Connections bullet refactored from 1:1 mirror to cohort attachment)",
+    "cards/pokemon/surging-sparks/153-191-braviary.md (Connections bullet refactored from 1:1 mirror to cohort attachment)",
+    "cards/pokemon/black-bolt/077-086-rufflet.md (new Connections section added — cohort attachment)",
+    "cards/pokemon/black-bolt/078-086-braviary.md (new Connections section added — cohort attachment)"
+  ],
+  "edgelord_mood": "enlightened-cleanup",
+  "other_candidates_considered": [
+    "Snivy 001-086 ↔ Servine 002-086 within-BLB pair (Susumu Maeya) — REFUSED for this wave: pair already has 1:1 mirror Connections, line is sub-threshold for snivy-line cohort node (2 prints, 1 set; threshold is 3+ prints / 2+ sets per dwebble-line refusal precedent). Pair's per-card 1:1 mirror stays in place until a third Snivy/Servine/Serperior print enters corpus.",
+    "Dwebble 051-086 ↔ Crustle 052-086 within-BLB pair (Tetsu Kayama) — REFUSED: same situation as Snivy/Servine; pair already has 1:1 mirror, dwebble-line is sub-threshold (2 prints at 2 of 2 stages — Crustle is the line's apex, no Stage-2 to wait for; below 3+ prints threshold by one). Pair's per-card 1:1 mirror stays in place.",
+    "Pawniard 064-086 ↔ Bisharp 065-086 within-BLB pair (Oku) — REFUSED: pawniard-line cohort node was already commissioned and includes both BLB cards in its appears_on. However the BLB cards have characters: frontmatter pointer but NO card-side Connections bullet — same sync-drift state as the BLB rufflet-line cards before this wave. This is a parked future-wave Edgelord candidate to apply the same cohort-attachment Connections-bullet schema to the pawniard-line BLB cards (and the SWSH Pawniard 133 / Bisharp 134 cards, both of which similarly lack Connections sections). Defer to a future wave since one cohort-subsumption refactor per invocation per swarm-staggering rule.",
+    "Braviary IR (Surging Sparks 214/191, illustrator Gapao) — NOT IN CORPUS: only mentioned in the Surging Sparks Braviary trivia's Related-cards as an alternate-art print. If a future CSV upload brings the IR variant in, it cohort-attaches to rufflet-line at vision-pass time.",
+    "Hisuian Braviary (Astral Radiance no. 132, Psychic/Flying regional form) — NOT IN CORPUS: mentioned in rufflet-line caveat as the only non-Unovan-form variant. Future-watch when corpus accumulates the regional form."
+  ],
+  "next_pass_suggestions": [
+    "Future Edgelord candidate (high priority): apply the same cohort-attachment Connections-bullet schema to the pawniard-line BLB cards (064 Pawniard, 065 Bisharp) and the SWSH Base Set pair (133 Pawniard, 134 Bisharp). All four currently have characters: [pawniard-line] frontmatter pointer but no card-side Connections bullet — same sync-drift state as the BLB rufflet-line cards before this wave. The wave-50 + this-wave precedent now justifies a sweep.",
+    "Future Edgelord candidate (medium priority): walk all character-layer cohort nodes (caterpie-line, charizard-line, mareep-line, pawniard-line, phantump-line, ralts-line, rowlet-line, staraptor-line, alolan-regional-forms, galarian-regional-forms, baby-dbgt, bardock, broly, etc.) for the same sync-drift pattern — cards with the cohort frontmatter pointer but no card-side Connections bullet attaching to the cohort node. The cohort-node-MD body usually stages the snip explicitly; harvest those stages.",
+    "Future-watch: when Hisuian Braviary (Astral Radiance 132) or any Vullaby/Mandibuzz print enters corpus, the rufflet-line node body anticipates: Hisuian Braviary extends the line to multi-form coverage; Vullaby-line corpus print unlocks the male-exclusive / female-exclusive paired-line cross-mirror as the franchise's clearest paired-line cohort.",
+    "Future-watch: the BLB set's full four-pair within-set adjacent-pair single-artist-coordinated cohesion (Snivy/Servine, Dwebble/Crustle, Pawniard/Bisharp, Rufflet/Braviary) is now a corpus-noted recurrence. Per Potion-Rule sub-rule 4, hold this in prose without graduating to graph-vocabulary. If a fifth within-set adjacent-pair lands in BLB or a sibling pattern emerges in another set, reconsider whether the pattern crosses the threshold for a designer-coordinated-within-set-adjacent-pairs cycle-node candidate."
+  ],
+  "surprise_lore_for_carry_forward": [
+    "The within-BLB Rufflet 077 + Braviary 078 pair completes the BLB set's full four-pair within-set adjacent-collector-number single-artist-coordinated evolution-line pattern — all four pairs cleanly single-artist within their slots, an unusually high within-set TCG-editorial cohesion stack at the species-line scope.",
+    "Steam Siege 92 Rufflet's printed flavor is Pokemon White Pokedex entry verbatim; the attack 'Reckless Charge' (20 damage / 10 self-damage) mechanically translates the Pokedex framing 'strength through self-hazarding aggression' into TCG rules — one of the cleaner cases of Pokedex-flavor-to-attack-mechanic translation in the corpus."
+  ]
+}

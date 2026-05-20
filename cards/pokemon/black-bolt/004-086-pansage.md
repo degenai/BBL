@@ -50,6 +50,8 @@ setting: forest
 suspected_ip: Pansage
 ip_confidence: high
 ip_verified: true
+characters:
+  - elemental-monkey-trio
 tags:
   - card
   - pokemon
@@ -89,4 +91,8 @@ A small, bright-eyed green monkey-type Pokemon stands in an active, slightly lea
 - Pansear (various) — Fire monkey trio sibling; part of the three wise monkeys design group
 - Panpour (various) — Water monkey trio sibling; completes the three wise monkeys set
 - Pansage Art Rare (Black Bolt, no. 089/086) — Illustration Rare variant of this same Pokemon in the same set; distinct full-art treatment
+
+## Connections
+
+- [[elemental-monkey-trio]] — Grass-arm base-form representative of the elemental monkey trio (Pansage / Pansear / Panpour and their Simi- evolved forms), the designer-coordinated Generation V Unova cohort of three paired Pokemon species mapped onto the three wise monkeys of Japanese cultural iconography (Pansage / *iwazaru* / speak no evil; Pansear / *kikazaru* / hear no evil; Panpour / *mizaru* / see no evil), each pair evolving via an elemental Stone rather than by level-up — a mechanically unifying departure from standard Gen V evolution. This Black Bolt Pansage 004/086 is the corpus's third Pansage print (after Burning Shadows 12/147 and Darkness Ablaze 006/189) and the cohort's first Black Bolt base-form Grass-arm member, illustrated by **kurumitsu** in a rain-streaked lush forest setting that extends the species' canonical *"dwells deep in the forest"* habitat flavor into a vivid sun-and-rain dappled jungle composition. Printed flavor *"This Pokémon dwells deep in the forest. Eating a leaf from its head whisks weariness away as if by magic"* — the species' canonical leaf-as-soothing-remedy register, the Pansage-side of the cohort's care-and-nurture frame (paired with Panpour's water-as-plant-nourishment flavor on the cohort node body). Sits within the within-BLB adjacent-collector slot 004 immediately preceding Simisage 005/086 (its Stage-1 Stone-evolution form, vision pre-enrichment) — a within-set adjacent-collector pair-placement parallel to the Burning Shadows 12-22-36 base-form triptych and the Darkness Ablaze 006-007 base-and-evolved pairing already in corpus. With this attachment the elemental-monkey-trio cohort node now points to 11 corpus prints across 6 canonical species and 4 sets; the cohort node body at the Caveats section explicitly anticipated this exact attach (line 84 stages Pansage BB-004 + Panpour BB-017 as already-in-corpus-and-vision-passed, awaiting their Edgelord wire). `[PokemonTCG.io: zsv10pt5-4 — flavor_text + artist; Bulbapedia: Pansage (Pokemon), Elemental monkeys design page]`
 

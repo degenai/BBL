@@ -74,3 +74,15 @@ A wiry, primate-like creature with feline features perches in a forest canopy, i
 **Creatures:** monkey, cat, cat-monkey, primate
 **Genre cues:** fantasy, wilderness
 
+## Trivia
+
+- **Set / lore context** — Scrounging Bandar originated in Aether Revolt (January 2017), the second set of the Kaladesh block. "Bandar" is the Kaladeshi word for monkey; the plane's Cat Monkey creatures carry the name. Aether Revolt depicts the renegade uprising against the Consulate on the aether-powered steampunk plane of Kaladesh (later renamed Avishkar), home plane of Chandra Nalaar. `[Scryfall]` `[WebSearch: Aether Revolt lore]`
+- **Flavor text** — "It was right here a second ago . . ." — speaker unnamed. `[Scryfall flavor_text field]` The quote frames the Bandar as a thief or displacement agent — something is gone, presumably because the creature took it.
+- **Mechanical reputation** — The counter-transfer ability (move any number of +1/+1 counters to another creature at upkeep) makes this a counter-distribution engine in Infect, Proliferate, or counters-matter builds. EDHREC rank 8572; sees more play in focused synergy builds than generalist green decks. `[Scryfall edhrec_rank field]` `[EDHREC: edhrec.com/cards/scrounging-bandar]`
+- **Design** — Four printings: Aether Revolt (2017), Jumpstart (2020), Commander Legends (2020), Jumpstart 2022 (2022). Illustrated by Shreya Shetty (~15 MTG cards as of the Aether Revolt era). Cat Monkey is a rare creature-type combination; Scrounging Bandar is among the handful of cards defining what that type looks like in art. `[Scryfall prints search]` `[Gatherer artist search via WebSearch]`
+
+### Related cards
+- Rishkar, Peema Renegade (Aether Revolt) — co-set card; defines the counter-matters throughline of the Kaladesh block
+- Winding Constrictor (Aether Revolt) — counter-synergy card that amplifies Scrounging Bandar's ETB counters
+- Walking Ballista (Aether Revolt) — same-set counter sink; Bandar's transfer ability feeds its damage output
+- Kalonian Hydra (Magic 2014) — archetype counter-doubler that benefits from received Bandar transfers

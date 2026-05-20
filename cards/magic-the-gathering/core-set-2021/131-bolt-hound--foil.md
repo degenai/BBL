@@ -77,3 +77,14 @@ A black, lean canine charges directly at the viewer in mid-leap, head low and te
 **Iconography:** lightning, fire, spark
 **Genre cues:** fantasy, elemental
 
+## Trivia
+
+- **Set context** — Bolt Hound is an M21 original; Core Set 2021 (July 2020) is its first and only printing as of the Scryfall prints record — no subsequent reprints. `[Scryfall prints search]`
+- **Design history** — Bolt Hound was previewed on June 8, 2020 by Pro Tour champion and content creator Brian Kibler via his Twitter feed, per Scryfall's preview metadata. M21 was also the set where Wizards officially renamed the "Hound" creature subtype to "Dog," making Bolt Hound's Elemental Dog type contemporaneous with that in-game taxonomy change. `[Scryfall preview metadata; MTGSalvation Rumor Mill thread via WebSearch]`
+- **Flavor text** — "Its spark is worse than its bite." — anonymous `[Scryfall]`. A deliberate inversion of the idiom "its bark is worse than its bite," with "spark" doing double duty as both the creature's lightning-elemental identity and a nod to the Planeswalker Spark as MTG's shorthand for magical power.
+- **Mechanical reputation** — A 2/2 Elemental Dog for three red mana with Haste; whenever it attacks, all other creatures you control get +1/+0 until end of turn. Functions as a pseudo-anthem for aggressive red boards on the turn it swings. It appeared in a Mythic-ranked Mono-Red MTG Arena aggro list (July 2020 season, no. 230 Mythic by EdFrank) shortly after M21 release. EDHREC rank 12896. `[Scryfall oracle text; MTGAZone via WebSearch]`
+
+### Related cards
+- Reckless Bushwhacker (Oath of the Gatewatch) — red haste creature with a comparable mass-pump-on-attack role in aggressive decks
+- Goblin Rabblemaster (Magic 2015) — red three-drop with haste and an attack-based pump effect; frequent comparison point
+- Crasher Hound (Dominaria United) — later red Dog creature with Haste, part of the post-rename Dog type expansion

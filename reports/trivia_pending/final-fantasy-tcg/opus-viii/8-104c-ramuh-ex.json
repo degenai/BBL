@@ -1,0 +1,41 @@
+{
+  "card_name": "Ramuh EX",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-104C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name 'Ramuh EX' combined with Summon card type and visual match (aged winged figure, long beard, crackling blue lightning, arms outstretched) confirm this depicts Ramuh — the recurring Final Fantasy lightning summon present in the series since FFIII. Internal Square Enix IP — no external IP risk. Verified via Final Fantasy Wiki (Fandom), finalfantasywiki.com, and game-specific sources.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ramuh is one of the longest-running recurring summons in the Final Fantasy franchise, first appearing in Final Fantasy III (1990). He has been summoned across FFIII, IV, V, VI, VII, IX, XI, XIV, and XV — making him one of the most consistently present summons in the series. His signature attack Judgment Bolt has appeared across nearly every iteration. [Final Fantasy Wiki: Ramuh, via WebSearch snippet; finalfantasywiki.com: Ramuh, via WebSearch]",
+      "sources": ["Final Fantasy Wiki (Fandom): Ramuh — WebSearch snippet", "finalfantasywiki.com: Ramuh — WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Ramuh's visual identity has been consistent across the series: an elderly man with a long white beard and robes, carrying a staff, calling down lightning. The FFTCG Opus VIII art adds large dark wings — a design variant seen in some later-era depictions (particularly FFXIV). His name and appearance are believed to derive from a composite of mythological sources: the connection to thunder mirrors Indra (Hindu storm deity), his judicious elder aspect evokes the legendary priest-king Ra-mu of the mythical continent of Mu, and his design has been compared to the Mesopotamian deity Lahmu. [Final Fantasy Wiki: Ramuh mythology notes, via WebSearch snippet; Goomba Stomp: 'Not So Final Fantasy — Summons and Mythology']",
+      "sources": ["Final Fantasy Wiki (Fandom): Ramuh — mythology section, WebSearch snippet", "Goomba Stomp Magazine: 'Not So Final Fantasy – Summons and Mythology' — WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In FFTCG, Ramuh EX is a Common Lightning Summon (8-104C) costing 4 CP with an EX BURST trigger: deal 5000 damage to one active Forward, plus 1000 additional damage per Lightning Backup you control. The EX BURST mechanic activates when a card with it is revealed from the top of the deck during damage resolution — providing emergency board interaction mid-combat. [WebSearch snippet: FFTCG Ramuh EX card effect; FFTCG Crystarium: Opus VIII Limited review, via WebSearch]",
+      "sources": ["WebSearch snippet: FFTCG Ramuh EX (8-104C) card effect summary", "FFTCG Crystarium: How to Win Limited Opus VIII — WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Ramuh plays a narrative role beyond simple combat utility in several FF games: in FFVI he appears to Terra and reveals her parentage as a half-Esper; in FFIX he is the first Eidolon to aid Garnet after her summoning powers are stripped by Zorn and Thorn. The FFTCG EX suffix on this version's card name indicates it is mechanically distinct from a baseline Ramuh card in the same or adjacent sets. [Final Fantasy Wiki: Ramuh — narrative appearances, via WebSearch snippet]",
+      "sources": ["Final Fantasy Wiki (Fandom): Ramuh — series narrative roles, WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ramuh (other Opus sets)", "set": "FFTCG various", "note": "Baseline Ramuh cards in other Opus sets — same character, different mechanical iteration"},
+    {"name": "Ifrit (FFTCG)", "set": "FFTCG various", "note": "Fire summon counterpart — Ramuh and Ifrit are paired elemental opposites across multiple FF games"},
+    {"name": "Shiva (FFTCG)", "set": "FFTCG various", "note": "Ice summon — part of the classic FF summon trio alongside Ramuh and Ifrit"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

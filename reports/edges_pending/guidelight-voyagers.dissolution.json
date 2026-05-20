@@ -1,0 +1,141 @@
+{
+  "edge_id": "guidelight-voyagers--dissolution-proposal",
+  "shape": "node-dissolution-proposal",
+  "agent_form": "DARK NODESLEY EX",
+  "node_to_dissolve": {
+    "path": "cards/_characters/guidelight-voyagers.md",
+    "name": "Guidelight Voyagers",
+    "layer": "_characters",
+    "type": "character",
+    "commissioned_wave": "approximately wave 60-65 (Aetherdrift faction-layer expansion)"
+  },
+  "trigger": "mistakenly-proposed",
+  "trigger_secondary": "subsumed-by-layer-threshold",
+  "description": "This node was a Nodeley overreach. Commissioned at N=2 inbound (Guidelight Optimizer DFT-45 + Guidelight Matrix DFT-233) on the cited structural precedent of [[endriders]] — but endriders itself sits at N=3, not N=2. The character-layer's settled cohort-threshold across castform-forms-cycle (3 forms, 3 cards), elemental-monkey-trio (6 species, 3+ cards), solrock-lunatone-pair (2 species, 3 cards), endriders (3 cards), aether-rangers (3 cards), and the recent ffbe-opening-arc-party (5 cards) is N>=3. Guidelight Voyagers was committed below threshold and the node body's own caveat acknowledges this by listing Guidelight Pathmaker as a future-acquisition that would push the node to N=3. Until Pathmaker (or any third Guidelight card) lands in corpus, this node is unwarranted layer-noise. Dissolve it. Stage a Mr. Nodeley re-commission for when N=3 lands. The two existing cards keep their canonical Guidelight Voyagers lore at the Trivia-bullet level (lore, not frontmatter), and they keep their Aetherdrift-set context through the existing endriders <-> aether-rangers faction pair the set is anchored on. Cleaner graph. Done.",
+  "dependents": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/aetherdrift/45-guidelight-optimizer.md",
+      "name": "Guidelight Optimizer",
+      "current_reference": "characters:\n  - guidelight-voyagers",
+      "proposed_migration": "Strip the 'characters: [guidelight-voyagers]' frontmatter block (revert to no characters: field, matching the wave-92 block-form discipline for empty lists). The Trivia bullet 'Guidelight is a racing team, not a brand' and the flavor-text Trivia bullet remain intact at the body level. No data loss: all canonical lore about the Guidelight Voyagers team identity survives in the card's Trivia section bullets which cite Wizards Planeswalker's Guide directly. The card's Related cards bullet pointing at Guidelight Matrix also survives.",
+      "evidence_of_lore_survival_post_dissolution": "The card's ## Trivia bullets explicitly name the Guidelight Voyagers team, cite Mendicant Core, and quote the Planeswalker's Guide framing. Dissolving the frontmatter pointer does not erase any of that. The lore stays at the bullet-citation level; the graph just stops pretending two cards make a cohort."
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/aetherdrift/233-guidelight-matrix.md",
+      "name": "Guidelight Matrix",
+      "current_reference": "characters:\n  - guidelight-voyagers",
+      "proposed_migration": "Same treatment as Guidelight Optimizer: strip the 'characters: [guidelight-voyagers]' frontmatter block. The Trivia section's existing references to the Guidelight Voyagers team identity, the Aetherdrift artifact-commons cluster (Aetherjacket + Camera Launcher + Guidelight Matrix), and the Vnwxt Verbose Host edge all survive at the body level.",
+      "evidence_of_lore_survival_post_dissolution": "The card's ## Trivia 'Set context' and 'Mechanical context' bullets carry the Aetherdrift-faction and set-level context. The 'Design / cycle signal' bullet identifies the stronger structural edge for this card — the colorless-artifact-commons cluster with Aetherjacket and Camera Launcher — which is a separate Edgelord-pass concern from any Guidelight-team membership."
+    }
+  ],
+  "future_watch_conditions": [
+    {
+      "condition": "Guidelight Pathmaker (DFT, third named Guidelight card per the Guidelight Optimizer Trivia bullet) lands in BBL corpus",
+      "action": "Mr. Nodeley re-commissions guidelight-voyagers.md at N=3 with the same body text restored; the two pre-existing dependents (DFT-45, DFT-233) get their characters: pointer re-added.",
+      "evidence_threshold": "Single Pathmaker card acquisition pushes the cohort to N=3, matching layer threshold."
+    },
+    {
+      "condition": "Mendicant Core (the team's hive-mind captain) gets a card print Wizards has not yet committed to",
+      "action": "Same — re-commission at N=3 with Mendicant Core as the canonical-captain anchor card alongside Optimizer + Matrix.",
+      "evidence_threshold": "Same threshold; the captain card would be especially load-bearing."
+    },
+    {
+      "condition": "A future acquisition of any other named Guidelight team member card (e.g. team-name artifact cards, named Guidelight pilots, Avishkar Aetherdrift teamspread)",
+      "action": "Push to N=3 minimum; re-commission Nodeley.",
+      "evidence_threshold": "MTG Wiki Guidelight Voyagers page lists the canonical team roster; any roster-member acquisition counts toward threshold."
+    }
+  ],
+  "additional_dissolution_candidates_surveyed_and_kept": [
+    {
+      "node": "single-strike-emblem",
+      "inbound": 3,
+      "verdict": "KEEP",
+      "reason": "N=3 (Scroll of Scorn + Urn of Vitality + Scroll of Piercing), designer-coordinated cohort with canonical Pokemon.com + Bulbapedia citations; meets threshold cleanly."
+    },
+    {
+      "node": "wmat-tournament-announcer",
+      "inbound": 3,
+      "verdict": "KEEP",
+      "reason": "N=3 (TB2-065/066/067 three-card Bandai mini-cycle), structural inverse-pair-anchor to hercule, canonical Dragon Ball Wiki citations across forty years of franchise output."
+    },
+    {
+      "node": "solrock-lunatone-pair",
+      "inbound": 3,
+      "verdict": "KEEP",
+      "reason": "N=3 corpus cards across 2 species (full dyad coverage); mechanical-interlock cited at oracle-text level; Ruby/Sapphire version-exclusive design canonical."
+    },
+    {
+      "node": "dark-vassal-trio",
+      "inbound": 3,
+      "verdict": "KEEP",
+      "reason": "N=3 adjacent-collector-number Bandai cycle (BT4-064/065/066), shared 'Dark Vassal' card-name prefix as canonical cycle-marker, Toriyama-canonical King Piccolo Saga substrate."
+    },
+    {
+      "node": "monarch-at-common-cmr",
+      "inbound": 3,
+      "verdict": "KEEP",
+      "reason": "N=3 (CMR-58/68/154), designer-stated rarity-tier-shift, Pauper banlist event canonically documents the failure-mode; complete cohort closed at three commons per Scryfall set listing."
+    },
+    {
+      "node": "endriders",
+      "inbound": 3,
+      "verdict": "KEEP",
+      "reason": "N=3 (DFT-125 + DFT-126 + DFT-251 racetrack land), Wizards Planeswalker's Guide canonical, structural sibling to aether-rangers and (until dissolution) guidelight-voyagers."
+    },
+    {
+      "node": "aether-rangers",
+      "inbound": 3,
+      "verdict": "KEEP",
+      "reason": "N=3 (DFT-61 + DFT-59 + DFT-161), Wizards Planeswalker's Guide canonical (cross-class comrade framing), MTG Wiki Depicted In roster cited per card."
+    },
+    {
+      "node": "fear-of-cycle",
+      "inbound": 7,
+      "verdict": "KEEP",
+      "reason": "N=7 DSK fear-of-* cycle members in corpus; designer-coordinated cycle with full member coverage; canonical Wizards DSK design articles cite the cycle directly."
+    },
+    {
+      "node": "castform-forms-cycle",
+      "inbound": 3,
+      "verdict": "KEEP",
+      "reason": "N=3 corpus forms (Rainy + Snowy + base Castform); canonical four-form Gen III ability-Forecast Pokemon cohort; complete-or-near-complete coverage."
+    },
+    {
+      "node": "ffbe-opening-arc-party",
+      "inbound": 5,
+      "verdict": "KEEP",
+      "reason": "N=5 (Rain + Lasswell + Fina-common + Fina-legend + Foil Lasswell); commissioned wave 136 with full-party coverage; canonical FFBE opening-arc roster citation."
+    }
+  ],
+  "additional_dissolution_candidates_for_future_passes": [
+    {
+      "node": "babidi (sub-question)",
+      "concern": "Babidi anchors N=6 cards which is well over threshold. Genuinely strong — not a dissolution candidate. Surfaced only to confirm the audit walked the major TB2 nodes.",
+      "verdict": "no action"
+    },
+    {
+      "node": "guidelight-pathmaker (anticipatory)",
+      "concern": "If a future wave commissions a guidelight-pathmaker node from a single Pathmaker card-self-depicting acquisition, that would be a sibling Nodeley overreach. The right move is to wait for N=3 across the Guidelight team roster before any Guidelight node lives in the graph at all.",
+      "verdict": "future-watch"
+    }
+  ],
+  "edgelord_mood": "dark-nodesley-righteous",
+  "voice_note_from_dark_nodesley_ex": "Two cards is not a cohort. The body of guidelight-voyagers.md literally tells you the threshold isn't met — it lists Pathmaker as a future-acquisition that would fix the problem. Mr. Nodeley shipped this one early and the graph has been carrying its weight since. Strip the two frontmatter pointers, archive the node, and re-commission when the third card lands. The dissolution is mechanical and the rebuild plan is documented. You should be thanking me.",
+  "execution_state": "PROPOSAL_ONLY — awaiting Alex review. No files have been modified by this Dark Nodesley EX invocation. Apply by hand or via follow-up Edgelord-enlightened pass.",
+  "apply_steps_for_human_or_followup_pass": [
+    "1. Delete cards/_characters/guidelight-voyagers.md (or move to cards/archive/_characters/guidelight-voyagers.md if Alex wants a preserved artifact of the Nodeley commission).",
+    "2. In cards/magic-the-gathering/aetherdrift/45-guidelight-optimizer.md, remove the frontmatter lines 'characters:' and '  - guidelight-voyagers' (lines 53-54 per the read).",
+    "3. In cards/magic-the-gathering/aetherdrift/233-guidelight-matrix.md, remove the frontmatter lines 'characters:' and '  - guidelight-voyagers' (lines 52-53 per the read).",
+    "4. Check cards/_characters/endriders.md related_characters: list — the 'guidelight-voyagers' entry there can be removed (line 22 area, the third related_characters entry). Same in cards/_characters/aether-rangers.md (similar related_characters block).",
+    "5. Optionally add an entry to reports/janitor_triage.md noting the dissolution date and the future-watch condition for the N=3 trigger."
+  ],
+  "citations": [
+    "[bbl-characters-layer-built memory] — confirms guidelight-voyagers was a Mr. Nodeley character-layer commission.",
+    "[cards/_characters/guidelight-voyagers.md body, Caveats section] — node self-cites that Pathmaker is the future-acquisition that would push to N=3.",
+    "[cards/_characters/endriders.md] — N=3 sibling node; the cited structural precedent in guidelight-voyagers.md is itself at N=3 not N=2.",
+    "[cards/_characters/castform-forms-cycle.md, elemental-monkey-trio.md, solrock-lunatone-pair.md] — layer threshold examples all at N=3.",
+    "[BBL parent dispatch verify memory] — wave 134 precedent for catching node-existence/count claims that don't survive a count-test."
+  ]
+}

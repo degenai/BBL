@@ -1,0 +1,47 @@
+{
+  "card_name": "Commander's Sphere",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "306",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag set.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Appears in Commander Legends (CMR), released November 20, 2020 — the first draftable Commander set. Card originated in Commander 2014 (C14-54, 2014-11-07), illustrated by Ryan Alexander Lee, who has painted every major subsequent printing.",
+      "sources": ["Scryfall: CMR 306"]
+    },
+    {
+      "category": "design",
+      "text": "Over 40 distinct printings confirmed via Scryfall — appearing in nearly every Commander product from Commander 2014 through Lorwyn Eclipsed Commander (2026). Includes Commander 2014-2021, Starter Commander Decks, Commander Masters, Doctor Who, Warhammer 40K Commander, Secret Lair, Judge Promo, WPN promo.",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 44 out of the entire Commander card pool — format-defining staple. Produces any mana in the commander's color identity for {3}; sacrifices to draw a card. Universal utility regardless of color combination.",
+      "sources": ["Scryfall: edhrec_rank 44"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Ryan Alexander Lee has illustrated every major printing continuously from 2014 through at least 2026 — one of the most artist-consistent reprints in Commander product history. Exceptions are the Warhammer 40K Commander faction-specific variants (three different artists for three different faction decks).",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It harmonizes with the essence of its master.\" Mirrors the card's mechanical design: it literally reads the commander's color identity to determine which mana it produces.",
+      "sources": ["Scryfall: flavor_text field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Arcane Signet", "set": "Throne of Eldraine", "note": "Direct functional competitor at {2}; has largely supplanted Sphere as go-to 2-drop rock"},
+    {"name": "Sol Ring", "set": "Commander 2014", "note": "Commander mana-rock apex; frequently cited alongside Sphere in format staples lists"},
+    {"name": "Mind Stone", "set": "Weatherlight", "note": "Earlier sac-draw rock; functional parallel at {2}"},
+    {"name": "Darksteel Ingot", "set": "Darksteel", "note": "Earlier 3-mana any-color rock; predecessor in Commander staples lineage"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

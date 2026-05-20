@@ -74,3 +74,15 @@ A wild, branching plant elemental sprawls across the frame in a sunlit forest cl
 **Creatures:** plant-elemental, butterflies
 **Genre cues:** fantasy, nature-fantasy
 
+## Trivia
+
+- **Set context** — Commander Legends (CMR), released November 20, 2020, was the first Magic set designed as a draftable Commander format, using 20-card packs with two-card picks and 60-card singleton-optional deck construction. Fertilid is a reprint inclusion serving the set's mana-hungry green draft builds. `[Scryfall]` `[Hipsters of the Coast, "A First Look at Commander Legends", 2020]`
+- **Design history** — Fertilid originated in Morningtide (February 2008) and has since been reprinted 14 times across Planechase, Archenemy, Commander 2011, Duel Decks: Nissa vs. Ob Nixilis, Battlebond, Ikoria: Lair of Behemoths, Jumpstart, Zendikar Rising Commander, Commander Legends, Neon Dynasty Commander, Jumpstart 2022, and March of the Machine Commander — one of the most broadly distributed common ramp creatures in the game. `[Scryfall prints search]`
+- **Mechanical reputation** — EDHREC rank 2686; appears in approximately 1.32% of Commander decks surveyed (~54,000 decks). The "target player" clause distinguishes it from most land-ramp: it can fetch for any player, giving it additional utility in group-hug and political strategies. `[Scryfall edhrec_rank field]` `[EDHREC: edhrec.com/cards/fertilid]`
+- **Artist signal** — The Commander Legends printing is illustrated by Wayne Reynolds, a British fantasy illustrator whose MTG original paintings fetch strong auction prices: his Feather, the Redeemed original sold for $6,050 (2019) and his Bruenor Battlehammer original sold for $26,000 (2021). Fertilid is a common, but the Reynolds credit places it in a high-value illustrator's body of work. `[Hipsters of the Coast, "Painting for Bruenor Battlehammer by Wayne Reynolds Sells for $26,000", 2021]`
+
+### Related cards
+- Fertilid's Favor (March of the Machine Commander) — direct descendant card using Fertilid's name and counter mechanic
+- Retreat to Kazandu (Battle for Zendikar) — documented EDHREC combo partner via landfall triggers
+- Lotus Cobra (Zendikar) — documented EDHREC combo piece via land-fetch mana generation
+- Lys Alana Huntmaster (Lorwyn) — co-era card from Morningtide block sharing the counter-matters design space

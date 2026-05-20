@@ -75,3 +75,14 @@ A close, tightly framed portrait of a frenzied figure looming over a great bonfi
 **Iconography:** flame, ember, glowing-eyes
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **Set context** — Burn Bright originated in Ravnica Allegiance (January 2019) as a Gruul Clans combat instant. The Gruul are Ravnica's displaced wilderness faction — nomadic tribes stripped of territory by the city's expansion, who channel that loss into ritual fire and battle-fury. The M21 reprinting carries the same art and flavor, transplanting the Gruul origin myth into a non-Ravnica context. `[Scryfall: set=rna]`
+- **Reprint history** — Five printings, all with the same Scott Murphy art: Ravnica Allegiance (2019), Core Set 2021 (2020), Arena Beginner Set (2020), Jumpstart 2022 (2022), Ravnica Remastered (2024). The unbroken art consistency across five years is notable for a common instant. `[Scryfall: prints_search_uri]`
+- **Flavor text** — `"From a great bonfire at the dawn of time, the first Gruul kindled their rage. The same flame burns in you."` — Kroshkar, Gruul shaman. `[Scryfall]` Kroshkar is the named shaman used to voice Gruul origin mythology; this is their only credited flavor-text appearance in the Scryfall corpus.
+- **Mechanical reputation** — EDHREC rank 15,805. `[Scryfall: edhrec_rank]` Legal in Pauper, Pioneer, Modern, Legacy, Vintage, and Commander. Sees niche use in Pauper red-aggro and wide-board Gruul commander lists as a mid-combat pump surprise; not a format staple.
+
+### Related cards
+- Reckless Bushwhacker (Oath of the Gatewatch) — same role: red combat-pump instant for wide offense; frequent Pauper comparison
+- Titanic Ultimatum (Shards of Alara) — thematic predecessor for mass combat buffs in red-green
+- Krenko, Mob Boss (Magic 2013) — opposing red-aggro axis (Goblins vs. Gruul) that Burn Bright supports in Pauper token strategies

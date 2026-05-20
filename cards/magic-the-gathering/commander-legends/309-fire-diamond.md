@@ -75,3 +75,18 @@ A pale, bare human hand rises from the lower edge of the frame, palm up, fingers
 **Iconography:** gem, fire, offering-gesture
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set / cycle context** — Fire Diamond is part of the Mirage diamond cycle (Mirage, 1996): five uncommon artifacts each costing {2}, entering tapped, tapping to produce one mana of an aligned color. Fire Diamond produces {R}. This Commander Legends (CMR) printing was released November 20, 2020. `[Scryfall: CMR 309]` `[MTGSalvation forums: Diamond cycle thread, via WebSearch snippet]`
+- **Artist — Lindsey Look, father's hand as model** — Look confirmed in a 2018 Hipsters of the Coast interview that she used her dad's hand as the model for Fire Diamond — the pale hand cradling the glowing red gemstone in the art is her father's. Her grandmother's hand appears in Charcoal Diamond; her mom's in Lion's Eye Diamond. Both Fire Diamond and Charcoal Diamond in this batch are from the same family-reference shoot. `[Hipsters of the Coast: "Lindsey Look's Powerstone Shard," 2018]`
+- **Reprint history** — Original Mirage printing (1996) illustrated by Richard Thomas. Look repainted all five diamonds for Commander 2014 (2014-11-07), and every Fire Diamond printing from C14 forward uses her art. This CMR printing reprints the Look art. Commander Legends: Battle for Baldur's Gate (2022) also features two additional Fire Diamond reprints with different artists (Gaboleps, Phil Stone) as alternate-art versions. `[Scryfall prints search]`
+- **Flavor text** — "The essence of flame to stoke the spirit." Parallel construction to Charcoal Diamond's "The essence of night to harden the soul" — the two diamonds in this batch share a mirrored flavor structure with identical syntactical pattern: elemental essence + verb + effect on the bearer's inner state. `[Scryfall: flavor_text field]`
+- **Mechanical context** — EDHREC rank 669 — nearly identical to Charcoal Diamond (rank 659). Both are budget red and black mana accelerants for Commander. Fire Diamond is most common in mono-red or heavy-red Commander decks with budget constraints. Legal in Legacy, Pauper, Commander, Pauper Commander. `[Scryfall: edhrec_rank 669]`
+- **Artist-prized signal** — Lindsey Look's Talisman cycle originals sold combined $15,625 (2019) and her Gilded Goose sold $7,211 (2019). The Diamond cycle paintings predate these auction records but belong to the same body of work from one of Commander's most collected illustrators. `[Hipsters of the Coast: "Modern Horizons Talisman Cycle by Lindsay Look Sold," 2019]`
+
+### Related cards
+- Charcoal Diamond (CMR, no. 303) — cycle-mate; parallel flavor; also by Lindsey Look; in corpus
+- Marble Diamond (C14, no. 232) — white member of the Mirage diamond cycle; also by Lindsey Look for C14
+- Moss Diamond (MIR) — green member of the Mirage diamond cycle
+- Sky Diamond (MIR) — blue member of the Mirage diamond cycle
+- Lion's Eye Diamond (MIR) — Look used her mom's hand as model; personal artistic connection

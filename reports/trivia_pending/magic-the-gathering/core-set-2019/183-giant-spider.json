@@ -1,0 +1,42 @@
+{
+  "card_name": "Giant Spider",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2019",
+  "collector_number": "183",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Giant Spider has been printed in 36 distinct editions, making it one of the longest-running commons in MTG history. It appeared in Limited Edition Alpha (1993) and has been continuously reprinted through Dominaria Remastered (2023), spanning thirty years of the game.",
+      "sources": ["Scryfall prints search: api.scryfall.com/cards/search?order=released&q=oracleid%3Ae740ce2f-2134-473c-afa1-1b6d2d1e38ef&unique=prints"]
+    },
+    {
+      "category": "design",
+      "text": "The M19 illustration (and the majority of Giant Spider prints since 1995) is the work of Randy Gallegos, who debuted with Magic in Ice Age and has illustrated over 500 cards. Gallegos named Giant Spider alongside Shock and Dance of the Dead as cards whose reprint longevity surprised him in a Magic Untapped interview.",
+      "sources": ["magicuntapped.com: An interview with Magic artist Randy Gallegos", "Hipsters of the Coast: Randy Gallegos Eldraine Food Token sells for $3,000"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"After everything I've survived, it's hard to be frightened by anything anymore.\" — Vivien Reid. Vivien is the last survivor of Skalla, a plane destroyed by Nicol Bolas, who wields the Arkbow, an artifact preserving spirit-forms of every creature from her home plane.",
+      "sources": ["Scryfall flavor_text field", "magic.wizards.com/en/story/vivien-reid-planeswalker"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Giant Spider is pauper- and commander-legal across its prints. EDHREC records it in approximately 1,606 Commander decks, with highest inclusion in spider-tribal builds led by Shelob, Child of Ungoliant. As a Reach common it primarily functions as a budget flying-blocker in limited.",
+      "sources": ["EDHREC: edhrec.com/cards/giant-spider", "Scryfall legalities field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vivien Reid", "set": "Core Set 2019", "note": "Planeswalker whose flavor text quotes appear on this card; flavor connection"},
+    {"name": "Shelob, Child of Ungoliant", "set": "The Lord of the Rings: Tales of Middle-earth", "note": "Most popular commander for spider-tribal, highest Giant Spider inclusion"},
+    {"name": "Ishkanah, Grafwidow", "set": "Shadows over Innistrad", "note": "Second-highest Giant Spider inclusion by commander; spider-tribal payoff"},
+    {"name": "Arachnus Web", "set": "Magic 2012", "note": "Spider-thematic removal; same color identity, spider synergy"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

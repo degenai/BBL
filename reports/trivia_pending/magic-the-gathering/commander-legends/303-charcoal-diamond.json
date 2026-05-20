@@ -1,0 +1,53 @@
+{
+  "card_name": "Charcoal Diamond",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "303",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag set.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Part of the Mirage diamond cycle — five uncommon artifacts (Marble Diamond, Sky Diamond, Charcoal Diamond, Fire Diamond, Moss Diamond) each costing {2}, entering tapped, tapping to produce one aligned mana. Originated in Mirage (1996). This printing from Commander Legends (CMR), released November 20, 2020.",
+      "sources": ["Scryfall: CMR 303", "MTGSalvation forums: Diamond cycle thread, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Lindsey Look confirmed in a 2018 Hipsters of the Coast interview that she used her grandmother's hand as the model for Charcoal Diamond, her dad's hand for Fire Diamond, and her mom's hand for Lion's Eye Diamond. She stated: 'I purchased a bunch of colored glass paperweights and ended up convincing family and friends to lend a hand with reference shooting.'",
+      "sources": ["Hipsters of the Coast: 'Lindsey Look's Powerstone Shard,' 2018"]
+    },
+    {
+      "category": "design",
+      "text": "Original Mirage printing (1996) illustrated by Drew Tucker. Look received a commission to repaint all five diamonds for Commander 2014 (2014-11-07), giving the entire cycle a unified new aesthetic for the Commander product line. This CMR printing carries Look's Commander 2014 art.",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The essence of night to harden the soul.\" Parallel construction to Fire Diamond's \"The essence of flame to stoke the spirit\" — the two diamonds share a mirrored flavor structure: elemental essence + verb + effect on bearer.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 659 — high for a tap-in-tapped mana rock. Considered a budget black mana accelerant for Commander, most competitive in mono-black or black-heavy decks with limited higher-quality options. Legal in Legacy, Pauper, Commander, Pauper Commander.",
+      "sources": ["Scryfall: edhrec_rank 659"]
+    },
+    {
+      "category": "design",
+      "text": "Artist-prized signal: Lindsey Look's Talisman cycle originals sold combined $15,625 (2019), Gilded Goose sold $7,211 (2019), Sublime Epiphany won a Chesley Award. The Diamond cycle predates these higher-profile sales but is part of the same body of work.",
+      "sources": ["Hipsters of the Coast: 'Modern Horizons Talisman Cycle by Lindsay Look Sold,' 2019", "Hipsters of the Coast: 'Lindsey Look's Gilded Goose Sells for $7,211,' 2019"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fire Diamond", "set": "Commander Legends", "note": "Cycle-mate; parallel flavor; also by Lindsey Look; in corpus"},
+    {"name": "Marble Diamond", "set": "Commander 2014", "note": "White member of Mirage diamond cycle; also by Lindsey Look for C14"},
+    {"name": "Sky Diamond", "set": "Mirage", "note": "Blue member of Mirage diamond cycle"},
+    {"name": "Moss Diamond", "set": "Mirage", "note": "Green member of Mirage diamond cycle"},
+    {"name": "Lion's Eye Diamond", "set": "Mirage", "note": "Look used her mom's hand as model; personal artistic connection across diamond works"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Waltrill",
+  "game": "Final Fantasy TCG",
+  "set": "Opus VIII",
+  "collector_number": "8-047C",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Waltrill is a confirmed named character from Final Fantasy Crystal Chronicles: Echoes of Time (2009, Nintendo DS/Wii). He is a Yuke mage who serves as a mentor and parental figure to the young Yuke Norschtalen, whom he found lost in the forest and raised in the village. The card name directly matches the character name; the depicted chibi dark-robed mage with pointed hat, book, and lantern is consistent with his mage-scholar archetype. Internal Square Enix IP — no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Opus VIII (released March 2019) is a multi-title FFTCG set drawing characters from across the Final Fantasy franchise including FFVII, FFIX, FFXI, FFXIV: Stormblood, and FFXV, among others — rather than a single-game themed set [Square Enix FFTCG Opus VIII product page, via WebSearch snippet].",
+      "sources": ["Square Enix FFTCG Opus VIII product page (fftcg.square-enix-games.com/na/release/opus-viii)", "WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Waltrill originates from Final Fantasy Crystal Chronicles: Echoes of Time (Nintendo DS/Wii, 2009). He is a Yuke — one of the four playable races of the Crystal Chronicles subseries, characterized by armored, often helmet-masked bodies and an affinity for magic. In Echoes of Time, he is a mage-scholar who found the young Yuke Norschtalen lost in the forest and raised her as his apprentice in the village [Final Fantasy Wiki: FFCC Echoes of Time characters, via WebSearch snippet].",
+      "sources": ["Final Fantasy Wiki: Final Fantasy Crystal Chronicles: Echoes of Time characters (finalfantasy.fandom.com)", "WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Waltrill is a Backup-type card in the FFTCG system — Backup cards represent support characters who provide resources rather than entering combat directly as Forwards, fitting his lore role as a noncombatant scholar and mentor [card frontmatter: card type = backup-card].",
+      "sources": ["Card frontmatter (tags_filter: backup-card)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The chibi aesthetic visible in the card art reflects the distinctive art style of the Crystal Chronicles subseries, which consistently used a rounder, more cartoonish visual language than mainline Final Fantasy titles — a deliberate departure intended to differentiate the multiplayer-focused GameCube/DS/Wii spin-off line from the cinematic prestige of FFVII through FFXII [Final Fantasy Wiki: Yuke race entry, via WebSearch snippet].",
+      "sources": ["Final Fantasy Wiki: Yuke (finalfantasy.fandom.com)", "WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Norschtalen", "set": "FFTCG (various)", "note": "Waltrill's ward and apprentice in Echoes of Time; the two characters are narratively inseparable"},
+    {"name": "Mio", "set": "FFTCG (various)", "note": "Another FFCC Echoes of Time character who appears in FFTCG sets"},
+    {"name": "Yuke (generic)", "set": "FFTCG (various)", "note": "Race-type cards for the Yuke tribe appear across multiple Opus sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Skeleton Archer",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "123",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Skeleton Archer debuted in Core Set 2019 (2018) and has 7 total prints through Foundations (2024). Randy Vargas illustrated all 7 — an unusual single-artist consistency for a reprinted common across Core Sets, The List, Double Masters 2022, and Arena Beginner Set.",
+      "sources": ["Scryfall prints search: api.scryfall.com/cards/search?order=released&q=oracleid%3A3792763c-7aa0-4055-b8a1-3257e0443ef1&unique=prints"]
+    },
+    {
+      "category": "design",
+      "text": "Randy Vargas is a Venezuelan-born artist who began MTG work with Tetsuko Umezawa, Fugitive (Dominaria, 2018). His oil painting for Marit Lage's Slumber (Modern Horizons) sold for $4,400 at auction — noted at the time as only his second traditional painting for the game.",
+      "sources": ["Hipsters of the Coast: hipstersofthecoast.com/2019/06/marit-lages-slumber-by-randy-vargas-sells-for-4400/"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Skeleton Archer is a 3/3 for {3}{B} that deals 1 damage to any target on entry — a pauper-legal removal-ping on a body. EDHREC records it in approximately 21,013 Commander decks. The ping can target players, creatures, or planeswalkers, giving it flexibility beyond pure removal.",
+      "sources": ["Scryfall oracle_text and legalities", "Scryfall edhrec_rank field: 21013"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Soul, flesh, even eyes — none of these are strictly necessary for deadly precision.\" — Modriss of Zargoth Fen. Modriss is a necromancer character quoted across Core Set 2020/2021 cards. Zargoth Fen is a location introduced in M20 flavor text; vorthosjay (MTG lore authority) has noted it is a new location not assumed to be on any previously named plane.",
+      "sources": ["Scryfall flavor_text field", "vorthosjay.tumblr.com/post/185725601521 (2019)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Skeleton Archer", "set": "Core Set 2019", "note": "Earliest print; same art and text by Randy Vargas"},
+    {"name": "Rotting Regisaur", "set": "Core Set 2020", "note": "Another Zargoth Fen card; shares necromantic setting implied by Modriss"},
+    {"name": "Bone Splinters", "set": "Core Set 2020", "note": "Zargoth Fen flavor text; establishes setting as recurring"},
+    {"name": "Disentomb", "set": "Core Set 2020", "note": "Modriss appears as flavor text speaker; establishes character across the set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

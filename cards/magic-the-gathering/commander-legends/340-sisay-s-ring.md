@@ -75,3 +75,16 @@ An overhead shot of a weathered parchment chart or map spread across a wooden ta
 **Iconography:** compass-rose, ring, map
 **Genre cues:** fantasy, nautical, adventure
 
+## Trivia
+
+- **Flavor text** — "With this ring, you have friends in worlds you've never heard of." —Sisay, Captain of the *Weatherlight* [Scryfall]. The same flavor text appeared on the original Visions printing (1997) and carried through to Commander Legends unchanged.
+- **Lore context** — Captain Sisay was the Zhalfirin captain of the skyship Weatherlight, the central figure of the Weatherlight Saga (Mirage block through Invasion, 1996–2001). She wore a gold ring as a personal keepsake of her home village in Jamuraa. Her family had been selectively bred in Urza's secret bloodline project to produce an ideal heir to the Legacy — an artifact collection designed as Urza's ultimate weapon against Phyrexia [MTG Wiki: Sisay, via WebSearch snippet].
+- **Print history** — Three distinct Scryfall printings: Visions (VIS, no. 154, 1997, common, artist Donato Giancola), Seventh Edition (7ED, no. 315, 2001, uncommon, new art by David Martin — a rarity upgrade with a different illustration), and Commander Legends (CMR, no. 340, 2020, common, Donato Giancola restored). The CMR copy reverted to both the original rarity and the original Giancola art. EDHREC rank 4935 indicates meaningful Commander inclusion [Scryfall API: prints list].
+- **Artist** — Donato Giancola is an acclaimed oil-painting illustrator; his Sisay's Ring composition — multiple hands of different complexions meeting over a parchment chart, one hand wearing the ring — depicts Sisay's crew-building philosophy (the ring as a promise of solidarity across worlds) without depicting Sisay herself [Scryfall API: artist field].
+
+### Related cards
+- Sisay, Weatherlight Captain (Modern Horizons, no. 29) — legendary creature card for Sisay herself; five-color Commander archetype
+- Captain Sisay (Invasion, no. 257) — original Sisay legendary creature from the Weatherlight Saga culmination set
+- Weatherlight (Dominaria, no. 251) — the skyship as a legendary artifact
+- Legacy's Allure (Visions, no. 68) — same original Visions set; references the Legacy artifact collection Sisay sought
+

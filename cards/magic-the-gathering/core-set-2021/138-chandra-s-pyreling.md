@@ -83,3 +83,15 @@ A long, serpentine elemental lizard sweeps diagonally across a near-black backgr
 **Iconography:** flame, ember
 **Genre cues:** fantasy, elemental
 
+## Trivia
+
+- **Set context** — Chandra's Pyreling is original to Core Set 2021 (no prior printing), previewed by Wizards of the Coast on June 9, 2020. One of two named Chandra-companion creatures in M21 alongside Chandra's Magmutt (card 137). M21 has no story spotlights — Chandra's presence in the set is thematic and mechanical, not tied to a narrative chapter. `[Scryfall: previewed_at=2020-06-09, story_spotlight=false]`
+- **Mechanical reputation** — EDHREC rank 11,964. `[Scryfall: edhrec_rank]` A 1/3 Uncommon for {1}{R} that gains +1/+0 and double strike whenever any source you control deals noncombat damage to an opponent — the trigger fires on planeswalker pings, Guttersnipe-style damage, and burn spells, meaning a Lightning Bolt can grow and double-strike the Pyreling in the same turn. NOT legal in Pauper. `[Scryfall: legalities]`
+- **Flavor text** — `"I think Chandra just wanted something to blame random scorch marks on."` — Jace Beleren. `[Scryfall]` One of Jace's characteristic dry-wit observations on Chandra's casually destructive pyromancy. The Jace-Chandra antagonistic-turned-collegial dynamic is one of the most documented inter-planeswalker relationships in MTG lore.
+- **Community sentiment** — Community sentiment on TappedOut: the Pyreling is frequently compared to Chandra's Spitfire (M10), described as "equally devastating but lacking evasion." Break Through the Line is the most-cited evasion patch. Torbran, Thane of Red Fell and Guttersnipe are the top EDH synergy targets. `[TappedOut: chandras-pyreling card page]`
+
+### Related cards
+- Chandra's Magmutt (Core Set 2021, no. 137) — paired Chandra-companion common in M21
+- Chandra's Spitfire (Magic 2010) — direct mechanical predecessor; same noncombat-damage pump trigger; frequent community comparison point
+- Torbran, Thane of Red Fell (Throne of Eldraine) — strongest EDH synergy partner; his damage buff triggers Pyreling's condition
+- Guttersnipe (Return to Ravnica) — spell-damage engine that repeatedly triggers Pyreling in spell-heavy Commander builds

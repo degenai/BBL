@@ -73,3 +73,15 @@ A pair of weathered dark leather gloves with sharp metal-tipped claws is laid ou
 **Iconography:** gloves, claws, treasure
 **Genre cues:** fantasy, heist
 
+## Trivia
+
+- **Reprint history** — Rogue's Gloves has three printings: Magic 2015 (its debut, 2014), Core Set 2019 (this copy, 2018), and Jumpstart (2020). All three printings carry the same Cyril Van Der Haegen illustration. The card is not legal in Pauper (uncommon rarity across all printings) but is legal in Commander, Pioneer, and Modern. [Scryfall prints search; Scryfall legalities]
+- **Mechanical niche** — Rogue's Gloves triggers card draw whenever the equipped creature deals combat damage to a player — the same trigger pattern as the "ninjutsu" and "prowl" incentive mechanics, making it a budget option for Rogue-tribal or unblockable-creature Commander builds. EDHREC ranks it in approximately 3,968 Commander decks, a notably strong showing for a budget uncommon equipment. [EDHREC: edhrec.com/cards/rogues-gloves; Scryfall]
+- **Flavor text** — "Thievery requires subtlety, from the beginning of the heist to the end." — No attributed speaker. The unattributed maxim functions as a general criminal aphorism, which is consistent with how MTG equipment flavor text often omits a specific character to keep the item generic and equippable. [Scryfall]
+- **Artist** — Cyril Van Der Haegen is a Belgian illustrator whose MTG portfolio spans hundreds of cards. The chiaroscuro still-life composition on Rogue's Gloves — gloves on coins, no figure — is a recurring device in his equipment illustrations, where the absence of a wielder lets the gear carry the menace. No Hipsters of the Coast artist spotlight was found for Van Der Haegen. [Scryfall artist field]
+
+### Related cards
+- Thieving Magpie (Urza's Destiny) — earlier card with the identical trigger: deal combat damage to a player, draw a card; direct mechanical predecessor
+- Coastal Piracy (Mercadian Masques) — enchantment version of the same draw-on-damage effect for all your creatures
+- Mask of Memory (Mirrodin) — equipment with a similar draw trigger; frequently compared as a Pauper-legal alternative
+- Ninjutsu creatures (Betrayers of Kamigawa onward) — share the "combat damage to a player" incentive trigger

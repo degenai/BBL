@@ -1,0 +1,42 @@
+{
+  "card_name": "Sisay's Ring",
+  "game": "Magic: The Gathering",
+  "set": "Commander Legends",
+  "collector_number": "340",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "Sisay is an internal Wizards/MTG lore character — no external crossover IP risk. No suspected_ip flag present in frontmatter.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (confirmed Scryfall): \"With this ring, you have friends in worlds you've never heard of.\" —Sisay, Captain of the Weatherlight. The same flavor text appeared on the original Visions printing (1997) and carried through to Commander Legends unchanged [Scryfall API: flavor_text field].",
+      "sources": ["Scryfall API: Sisay's Ring (20c0e608-0208-408a-b473-1e54caa96cea) and (a08becd3-ca5e-4150-8d28-52436a3eaffd)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Captain Sisay was the Zhalfirin captain of the skyship Weatherlight and the central figure around whom the Weatherlight Saga (Mirage block through Invasion, 1996–2001) was built. She wore a gold ring as a personal keepsake of her village in Jamuraa. Sisay's family had been genetically selected in Urza's bloodline project to produce an ideal heir to the Legacy — an artifact collection serving as Urza's ultimate weapon against Phyrexia [MTG Wiki: Sisay, via WebSearch snippet; WebSearch: 'Sisay Captain of the Weatherlight MTG lore'].",
+      "sources": ["MTG Wiki: Sisay (mtg.fandom.com)", "WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Print history via Scryfall: Visions (VIS, no. 154, February 1997, common, artist Donato Giancola), Seventh Edition (7ED, no. 315, April 2001, uncommon, artist David Martin — rarity upgrade and new art), Commander Legends (CMR, no. 340, November 2020, common, artist Donato Giancola — reverts to original Giancola art). The CMR printing restored both the original common rarity and the original Giancola illustration. EDHREC rank of 4935 suggests moderate Commander inclusion, especially in colorless and Weatherlight-flavored builds [Scryfall API: prints list].",
+      "sources": ["Scryfall API: Sisay's Ring prints"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Donato Giancola is an acclaimed oil-painting illustrator known for figurative and narrative work. His Sisay's Ring art — hands over a map with a gold ring — is an example of his storytelling-through-detail approach, using diverse hands and a compass-rose chart to evoke Sisay's crew-building philosophy without depicting her directly [artist credit: Scryfall API; Donato Giancola's broader MTG illustration body of work is documented at donatoart.com].",
+      "sources": ["Scryfall API: artist field", "donatoart.com (Donato Giancola's official portfolio site)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sisay, Weatherlight Captain", "set": "Modern Horizons", "note": "Legendary creature card for Sisay herself; a 5-color Commander archetype"},
+    {"name": "Captain Sisay", "set": "Invasion", "note": "Original legendary creature card for Sisay from the Weatherlight Saga culmination set"},
+    {"name": "Weatherlight", "set": "Dominaria", "note": "The skyship itself as a legendary artifact card — core Weatherlight Saga object"},
+    {"name": "Legacy's Allure", "set": "Visions", "note": "Same Visions set as Sisay's Ring; references the Legacy artifact collection Sisay sought"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
