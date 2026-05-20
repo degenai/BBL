@@ -1,7 +1,7 @@
 {
   "subject": "Tirtouga, a sea turtle-like fossil creature swimming underwater",
   "subject_known_ip": false,
-  "suspected_ip": "Tirtouga (#564)",
+  "suspected_ip": "Tirtouga",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A dark-shelled turtle-like creature moves through an underwater scene. The figure has a hard shell with a dark blue-grey or teal coloring, four flipper-like limbs, and a small determined head. Around it, green seaweed or underwater vegetation sways, and blue-green water fills the background. The creature moves with steady purpose through the aquatic environment. The palette is cool blues, dark teals, and greens.",
@@ -10,23 +10,57 @@
   "mode": "action",
   "figure_count": "solo",
   "foreground": "dark-shelled turtle-creature with flipper limbs swimming",
-  "foreground_palette": ["dark-teal", "blue-grey", "black"],
+  "foreground_palette": [
+    "dark-teal",
+    "blue-grey",
+    "black"
+  ],
   "background": "underwater scene with seaweed and blue-green water",
-  "background_palette": ["blue-green", "teal", "green"],
+  "background_palette": [
+    "blue-green",
+    "teal",
+    "green"
+  ],
   "setting": "ocean",
   "architecture": "none",
   "time_of_day": "indeterminate",
   "weather": "none",
   "mood": "action",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "ambient",
-  "objects": ["seaweed"],
-  "animals_creatures": ["turtle-creature", "sea-creature", "fossil-creature"],
+  "objects": [
+    "seaweed"
+  ],
+  "animals_creatures": [
+    "turtle-creature",
+    "sea-creature",
+    "fossil-creature"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "determined, purposeful",
-  "tags_hub": ["turtle", "ocean", "underwater", "fossil", "sea", "nature", "ancient", "prehistoric", "swimming", "water"],
-  "tags_filter": ["solo", "mid-shot", "action", "faces-right", "water-type", "creature"],
+  "tags_hub": [
+    "turtle",
+    "ocean",
+    "underwater",
+    "fossil",
+    "sea",
+    "nature",
+    "ancient",
+    "prehistoric",
+    "swimming",
+    "water"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "action",
+    "faces-right",
+    "water-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

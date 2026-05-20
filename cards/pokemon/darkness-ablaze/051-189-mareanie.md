@@ -46,7 +46,7 @@ image_quality: high
 mood: other
 time_of_day: indeterminate
 setting: ocean
-suspected_ip: "Mareanie (#747)"
+suspected_ip: "Mareanie"
 ip_confidence: high
 ip_verified: false
 tags:

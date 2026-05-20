@@ -1,7 +1,7 @@
 {
   "subject": "Karrablast, a small round bug-like creature in a sunny meadow setting",
   "subject_known_ip": false,
-  "suspected_ip": "Karrablast (#588)",
+  "suspected_ip": "Karrablast",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A small, rounded blue bug-like creature stands in a bright, open meadow. The figure has a helmet-like hard shell on its head, small dark eyes, and a simple compact body. Behind it, a sunny landscape stretches out with pale sandy or grassy terrain, small indistinct shapes suggesting rocks or plants, and a warm sky. The creature's posture is straightforward and sturdy. The palette is soft blues, yellows, and natural tones.",
@@ -10,23 +10,54 @@
   "mode": "portrait",
   "figure_count": "solo",
   "foreground": "small round blue bug-creature with helmet-like head",
-  "foreground_palette": ["blue", "dark-blue", "yellow"],
+  "foreground_palette": [
+    "blue",
+    "dark-blue",
+    "yellow"
+  ],
   "background": "sunny open meadow with pale terrain and warm sky",
-  "background_palette": ["yellow", "pale-yellow", "sky-blue"],
+  "background_palette": [
+    "yellow",
+    "pale-yellow",
+    "sky-blue"
+  ],
   "setting": "forest",
   "architecture": "none",
   "time_of_day": "day",
   "weather": "clear",
   "mood": "peaceful",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
   "objects": [],
-  "animals_creatures": ["bug-creature", "insect"],
+  "animals_creatures": [
+    "bug-creature",
+    "insect"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "calm, neutral",
-  "tags_hub": ["bug", "insect", "helmet", "nature", "small-creature", "meadow", "blue", "shell", "beetle", "evolution"],
-  "tags_filter": ["solo", "mid-shot", "portrait", "three-quarter", "grass-type", "creature"],
+  "tags_hub": [
+    "bug",
+    "insect",
+    "helmet",
+    "nature",
+    "small-creature",
+    "meadow",
+    "blue",
+    "shell",
+    "beetle",
+    "evolution"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "portrait",
+    "three-quarter",
+    "grass-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

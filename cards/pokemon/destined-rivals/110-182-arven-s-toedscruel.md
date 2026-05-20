@@ -46,7 +46,7 @@ image_quality: high
 mood: other
 time_of_day: day
 setting: forest
-suspected_ip: "Toedscruel (#953)"
+suspected_ip: "Toedscruel"
 ip_confidence: high
 ip_verified: false
 tags:

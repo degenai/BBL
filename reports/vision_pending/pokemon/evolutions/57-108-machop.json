@@ -1,7 +1,7 @@
 {
   "subject": "Machop, a small grey humanoid creature in a flexed or ready fighting stance",
   "subject_known_ip": false,
-  "suspected_ip": "Machop (#066)",
+  "suspected_ip": "Machop",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A small, blue-grey humanoid creature stands in a martial pose, one arm raised. The figure has a muscular compact build, three ridge-like fins on its head, a simple face, and a short tail. The background suggests a warm outdoor setting — an open area with warm yellows and earth tones. The creature's raised arm and wide stance suggest a martial arts ready position. This is a classic original-series illustration style with clean flat linework.",
@@ -10,23 +10,54 @@
   "mode": "action",
   "figure_count": "solo",
   "foreground": "small grey humanoid creature with fins on head, arm raised in fighting stance",
-  "foreground_palette": ["grey-blue", "white", "tan"],
+  "foreground_palette": [
+    "grey-blue",
+    "white",
+    "tan"
+  ],
   "background": "warm outdoor setting with earth tones",
-  "background_palette": ["warm-yellow", "tan", "brown"],
+  "background_palette": [
+    "warm-yellow",
+    "tan",
+    "brown"
+  ],
   "setting": "other",
   "architecture": "none",
   "time_of_day": "day",
   "weather": "clear",
   "mood": "action",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
   "objects": [],
-  "animals_creatures": ["humanoid-creature", "fighter"],
+  "animals_creatures": [
+    "humanoid-creature",
+    "fighter"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "focused, ready, determined",
-  "tags_hub": ["martial-arts", "fighter", "training", "muscle", "strength", "blue", "warrior", "classic", "humanoid", "discipline"],
-  "tags_filter": ["solo", "mid-shot", "action", "three-quarter", "fighting-type", "creature"],
+  "tags_hub": [
+    "martial-arts",
+    "fighter",
+    "training",
+    "muscle",
+    "strength",
+    "blue",
+    "warrior",
+    "classic",
+    "humanoid",
+    "discipline"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "action",
+    "three-quarter",
+    "fighting-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

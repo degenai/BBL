@@ -1,7 +1,7 @@
 {
   "subject": "Toxapex, a large spiny dark sea urchin-like creature in deep water",
   "subject_known_ip": false,
-  "suspected_ip": "Toxapex (#748)",
+  "suspected_ip": "Toxapex",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A large, dark-bodied sea creature with numerous long, sharp spiny legs floats in a deep underwater scene. The figure has a domed central body with a cluster of spines folded around or beneath it, and multiple leg-like protrusions extending outward like an urchin or crab hybrid. The background is deep blue-green ocean water with rays of light filtering through, giving the scene a cold, murky depth. The creature's posture is hunched or dome-shaped, reinforcing its defensive or menacing nature.",
@@ -10,23 +10,55 @@
   "mode": "portrait",
   "figure_count": "solo",
   "foreground": "large dark spiny sea creature with domed body and multiple leg-spines",
-  "foreground_palette": ["dark-blue", "purple", "grey"],
+  "foreground_palette": [
+    "dark-blue",
+    "purple",
+    "grey"
+  ],
   "background": "deep blue-green ocean with filtered light",
-  "background_palette": ["deep-blue", "teal", "dark-green"],
+  "background_palette": [
+    "deep-blue",
+    "teal",
+    "dark-green"
+  ],
   "setting": "ocean",
   "architecture": "none",
   "time_of_day": "indeterminate",
   "weather": "none",
   "mood": "grim",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "ambient",
   "objects": [],
-  "animals_creatures": ["sea-urchin", "sea-creature", "crustacean-like"],
+  "animals_creatures": [
+    "sea-urchin",
+    "sea-creature",
+    "crustacean-like"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "threatening, cold, defensive",
-  "tags_hub": ["sea-urchin", "ocean", "underwater", "spiny", "poison", "darkness", "defense", "depth", "predator", "cold"],
-  "tags_filter": ["solo", "mid-shot", "portrait", "forward-facing", "water-type", "creature"],
+  "tags_hub": [
+    "sea-urchin",
+    "ocean",
+    "underwater",
+    "spiny",
+    "poison",
+    "darkness",
+    "defense",
+    "depth",
+    "predator",
+    "cold"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "portrait",
+    "forward-facing",
+    "water-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

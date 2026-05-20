@@ -46,7 +46,7 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: forest
-suspected_ip: "Ursaring (#217)"
+suspected_ip: "Ursaring"
 ip_confidence: high
 ip_verified: false
 tags:

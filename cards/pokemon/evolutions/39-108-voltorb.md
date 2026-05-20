@@ -46,7 +46,7 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: void
-suspected_ip: "Voltorb (#100)"
+suspected_ip: "Voltorb"
 ip_confidence: high
 ip_verified: false
 tags:

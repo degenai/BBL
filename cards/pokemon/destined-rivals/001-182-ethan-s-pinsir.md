@@ -46,7 +46,7 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: other
-suspected_ip: "Pinsir (#127)"
+suspected_ip: "Pinsir"
 ip_confidence: high
 ip_verified: false
 tags:

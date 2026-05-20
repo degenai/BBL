@@ -1,7 +1,7 @@
 {
   "subject": "N's Vanillish, an ice cream cone-shaped ice creature floating in a snowy forest scene",
   "subject_known_ip": false,
-  "suspected_ip": "Vanillish (#583)",
+  "suspected_ip": "Vanillish",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A small ice cream cone-shaped creature floats in a wintry forest environment. The creature has a rounded ice-cream scoop body topped with a pointed swirl, small eyes, and stick-like arms outstretched to its sides. Around it, pale blue ice crystals or snowflakes drift in the air. The background shows a soft snowy or icy forest with cool blue-white tones and indistinct tree forms. In the lower corner, a small humanoid figure (partially visible, rendered in a chibi or small-portrait style) appears to be associated with the trainer identity 'N'. The overall palette is pale blue, white, and icy teal.",
@@ -10,23 +10,59 @@
   "mode": "portrait",
   "figure_count": "duo",
   "foreground": "ice cream cone-shaped creature with outstretched arms, ice crystals floating around it",
-  "foreground_palette": ["white", "pale-blue", "teal"],
+  "foreground_palette": [
+    "white",
+    "pale-blue",
+    "teal"
+  ],
   "background": "wintry forest with snow and ice",
-  "background_palette": ["pale-blue", "white", "grey"],
+  "background_palette": [
+    "pale-blue",
+    "white",
+    "grey"
+  ],
   "setting": "forest",
   "architecture": "none",
   "time_of_day": "indeterminate",
   "weather": "snow",
   "mood": "peaceful",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
-  "objects": ["ice-crystals"],
-  "animals_creatures": ["ice-creature"],
-  "food_drink": ["ice-cream"],
+  "objects": [
+    "ice-crystals"
+  ],
+  "animals_creatures": [
+    "ice-creature"
+  ],
+  "food_drink": [
+    "ice-cream"
+  ],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "gentle, serene",
-  "tags_hub": ["ice", "winter", "snow", "forest", "food-creature", "ice-cream", "cold", "cute", "frozen", "nature"],
-  "tags_filter": ["duo", "mid-shot", "portrait", "forward-facing", "water-type", "creature"],
-  "vision_uncertainty": ["secondary-figures-unresolved"]
+  "tags_hub": [
+    "ice",
+    "winter",
+    "snow",
+    "forest",
+    "food-creature",
+    "ice-cream",
+    "cold",
+    "cute",
+    "frozen",
+    "nature"
+  ],
+  "tags_filter": [
+    "duo",
+    "mid-shot",
+    "portrait",
+    "forward-facing",
+    "water-type",
+    "creature"
+  ],
+  "vision_uncertainty": [
+    "secondary-figures-unresolved"
+  ]
 }

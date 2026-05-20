@@ -46,7 +46,7 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: forest
-suspected_ip: "Jigglypuff (#039)"
+suspected_ip: "Jigglypuff"
 ip_confidence: high
 ip_verified: false
 tags:

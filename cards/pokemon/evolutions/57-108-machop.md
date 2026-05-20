@@ -46,7 +46,7 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: other
-suspected_ip: "Machop (#066)"
+suspected_ip: "Machop"
 ip_confidence: high
 ip_verified: false
 tags:

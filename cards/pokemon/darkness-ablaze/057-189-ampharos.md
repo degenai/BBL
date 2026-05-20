@@ -46,7 +46,7 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: forest
-suspected_ip: "Ampharos (#181)"
+suspected_ip: "Ampharos"
 ip_confidence: high
 ip_verified: false
 tags:

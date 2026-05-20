@@ -46,7 +46,7 @@ image_quality: high
 mood: horror
 time_of_day: day
 setting: forest
-suspected_ip: "Espurr (#677)"
+suspected_ip: "Espurr"
 ip_confidence: high
 ip_verified: false
 tags:

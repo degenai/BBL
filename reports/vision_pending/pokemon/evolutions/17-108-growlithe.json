@@ -1,7 +1,7 @@
 {
   "subject": "Growlithe, a small orange-and-black striped puppy-like creature in a field",
   "subject_known_ip": false,
-  "suspected_ip": "Growlithe (#058)",
+  "suspected_ip": "Growlithe",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A small, sturdy puppy-like creature with an orange body and black stripe markings stands alert in a rocky, earthy outdoor setting. The figure has a fluffy cream mane around its neck, a round expressive face, and a short stubby tail. The background suggests a rocky or rugged natural terrain rendered in warm earthy tones. This is a classic original-series illustration style with flat, clean linework. The palette is warm oranges, creams, and earthy browns.",
@@ -10,23 +10,57 @@
   "mode": "portrait",
   "figure_count": "solo",
   "foreground": "small orange-and-black striped puppy-like creature with cream mane",
-  "foreground_palette": ["orange", "cream", "black"],
+  "foreground_palette": [
+    "orange",
+    "cream",
+    "black"
+  ],
   "background": "rocky natural terrain in warm earthy tones",
-  "background_palette": ["brown", "orange", "tan"],
+  "background_palette": [
+    "brown",
+    "orange",
+    "tan"
+  ],
   "setting": "mountain",
   "architecture": "none",
   "time_of_day": "day",
   "weather": "clear",
   "mood": "peaceful",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
-  "objects": ["rocks"],
-  "animals_creatures": ["dog", "puppy", "fire-creature"],
+  "objects": [
+    "rocks"
+  ],
+  "animals_creatures": [
+    "dog",
+    "puppy",
+    "fire-creature"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "loyal, alert, friendly",
-  "tags_hub": ["dog", "puppy", "fire", "loyalty", "companion", "nature", "warmth", "guard", "orange", "classic"],
-  "tags_filter": ["solo", "mid-shot", "portrait", "three-quarter", "fire-type", "creature"],
+  "tags_hub": [
+    "dog",
+    "puppy",
+    "fire",
+    "loyalty",
+    "companion",
+    "nature",
+    "warmth",
+    "guard",
+    "orange",
+    "classic"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "portrait",
+    "three-quarter",
+    "fire-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

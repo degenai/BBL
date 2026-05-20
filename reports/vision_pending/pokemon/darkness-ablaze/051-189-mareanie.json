@@ -1,7 +1,7 @@
 {
   "subject": "Mareanie, a purple spiny starfish-like sea creature in a colorful underwater scene",
   "subject_known_ip": false,
-  "suspected_ip": "Mareanie (#747)",
+  "suspected_ip": "Mareanie",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A purple, spiny starfish-like creature is depicted in an underwater environment rendered in vibrant, almost psychedelic blues, purples, and teals. The figure has a rounded central body with numerous spiny tentacles radiating outward, small eyes, and a pale underside. The background is awash in colorful underwater hues with wavy shapes suggesting coral or anemones. The overall visual is saturated and swirling, giving the scene a vivid, slightly disorienting quality.",
@@ -10,23 +10,55 @@
   "mode": "portrait",
   "figure_count": "solo",
   "foreground": "purple spiny starfish-like creature with radiating tentacles",
-  "foreground_palette": ["purple", "blue", "pale-cream"],
+  "foreground_palette": [
+    "purple",
+    "blue",
+    "pale-cream"
+  ],
   "background": "colorful vivid underwater environment with coral shapes",
-  "background_palette": ["teal", "purple", "blue"],
+  "background_palette": [
+    "teal",
+    "purple",
+    "blue"
+  ],
   "setting": "ocean",
   "architecture": "none",
   "time_of_day": "indeterminate",
   "weather": "none",
   "mood": "other",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "ambient",
   "objects": [],
-  "animals_creatures": ["starfish", "sea-creature", "spiny-creature"],
+  "animals_creatures": [
+    "starfish",
+    "sea-creature",
+    "spiny-creature"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "neutral, alien",
-  "tags_hub": ["starfish", "ocean", "underwater", "spiny", "purple", "poison", "sea", "coral", "vivid", "depth"],
-  "tags_filter": ["solo", "mid-shot", "portrait", "forward-facing", "water-type", "creature"],
+  "tags_hub": [
+    "starfish",
+    "ocean",
+    "underwater",
+    "spiny",
+    "purple",
+    "poison",
+    "sea",
+    "coral",
+    "vivid",
+    "depth"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "portrait",
+    "forward-facing",
+    "water-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

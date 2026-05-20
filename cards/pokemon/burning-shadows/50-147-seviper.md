@@ -46,7 +46,7 @@ image_quality: high
 mood: action
 time_of_day: night
 setting: void
-suspected_ip: "Seviper (#336)"
+suspected_ip: "Seviper"
 ip_confidence: high
 ip_verified: false
 tags:

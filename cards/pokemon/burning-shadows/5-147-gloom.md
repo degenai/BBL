@@ -46,7 +46,7 @@ image_quality: high
 mood: other
 time_of_day: day
 setting: forest
-suspected_ip: "Gloom (#044)"
+suspected_ip: "Gloom"
 ip_confidence: high
 ip_verified: false
 tags:

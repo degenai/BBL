@@ -46,7 +46,7 @@ image_quality: high
 mood: other
 time_of_day: day
 setting: desert
-suspected_ip: "Trapinch (#328)"
+suspected_ip: "Trapinch"
 ip_confidence: high
 ip_verified: false
 tags:

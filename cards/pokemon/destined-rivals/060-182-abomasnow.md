@@ -46,7 +46,7 @@ image_quality: high
 mood: peaceful
 time_of_day: indeterminate
 setting: mountain
-suspected_ip: "Abomasnow (#460)"
+suspected_ip: "Abomasnow"
 ip_confidence: high
 ip_verified: false
 tags:

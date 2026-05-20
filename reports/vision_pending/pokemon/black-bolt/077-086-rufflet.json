@@ -1,7 +1,7 @@
 {
   "subject": "Rufflet, a small eaglet-like bird creature perched with wings spread",
   "subject_known_ip": false,
-  "suspected_ip": "Rufflet (#627)",
+  "suspected_ip": "Rufflet",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A small fluffy eaglet-like bird creature perches with its wings spread wide in a lush forest setting. The figure has a round, fluffy body with pale feathers on its chest, darker wing feathers, and a small yellow beak. Its wings are fanned out in a bold display posture. The background shows dense green foliage and leafy trees. The creature's expression and open-wing pose convey boldness despite its small size.",
@@ -10,23 +10,56 @@
   "mode": "action",
   "figure_count": "solo",
   "foreground": "small eaglet-like bird with wings spread wide, fluffy feathers",
-  "foreground_palette": ["white", "tan", "brown", "yellow"],
+  "foreground_palette": [
+    "white",
+    "tan",
+    "brown",
+    "yellow"
+  ],
   "background": "dense green forest foliage",
-  "background_palette": ["green", "dark-green"],
+  "background_palette": [
+    "green",
+    "dark-green"
+  ],
   "setting": "forest",
   "architecture": "none",
   "time_of_day": "day",
   "weather": "clear",
   "mood": "action",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
   "objects": [],
-  "animals_creatures": ["bird", "eaglet", "raptor"],
+  "animals_creatures": [
+    "bird",
+    "eaglet",
+    "raptor"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "bold, defiant, energetic",
-  "tags_hub": ["bird", "eagle", "wings", "forest", "nature", "bravery", "raptor", "feathers", "small-creature", "freedom"],
-  "tags_filter": ["solo", "mid-shot", "action", "forward-facing", "colorless-type", "creature", "flying"],
+  "tags_hub": [
+    "bird",
+    "eagle",
+    "wings",
+    "forest",
+    "nature",
+    "bravery",
+    "raptor",
+    "feathers",
+    "small-creature",
+    "freedom"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "action",
+    "forward-facing",
+    "colorless-type",
+    "creature",
+    "flying"
+  ],
   "vision_uncertainty": []
 }

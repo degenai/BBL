@@ -1,7 +1,7 @@
 {
   "subject": "Dunsparce, a small pale worm-like creature with tiny wings in a cave or rocky setting",
   "subject_known_ip": false,
-  "suspected_ip": "Dunsparce (#206)",
+  "suspected_ip": "Dunsparce",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A small, pale yellow worm-like creature is depicted in what appears to be a dim cave or rocky underground setting. The figure has a striped body, a rounded head with small eyes, tiny vestigial wings near its head, and a pointed drill-like tail. The background is dark and rocky, suggesting an underground or cave environment. The creature's expression is modest or unassuming. The palette is pale yellows, creams, and dark rocky tones.",
@@ -10,23 +10,56 @@
   "mode": "portrait",
   "figure_count": "solo",
   "foreground": "small pale striped worm-like creature with tiny wings and drill tail",
-  "foreground_palette": ["pale-yellow", "cream", "light-brown"],
+  "foreground_palette": [
+    "pale-yellow",
+    "cream",
+    "light-brown"
+  ],
   "background": "dark rocky cave environment",
-  "background_palette": ["dark-grey", "brown", "black"],
+  "background_palette": [
+    "dark-grey",
+    "brown",
+    "black"
+  ],
   "setting": "dungeon",
   "architecture": "none",
   "time_of_day": "indeterminate",
   "weather": "none",
   "mood": "other",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
-  "objects": ["rocks"],
-  "animals_creatures": ["worm-creature", "serpentine-creature"],
+  "objects": [
+    "rocks"
+  ],
+  "animals_creatures": [
+    "worm-creature",
+    "serpentine-creature"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "unassuming, timid",
-  "tags_hub": ["cave", "underground", "hidden", "small-creature", "worm", "escape", "shy", "nature", "pale", "rare"],
-  "tags_filter": ["solo", "mid-shot", "portrait", "three-quarter", "colorless-type", "creature"],
+  "tags_hub": [
+    "cave",
+    "underground",
+    "hidden",
+    "small-creature",
+    "worm",
+    "escape",
+    "shy",
+    "nature",
+    "pale",
+    "rare"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "portrait",
+    "three-quarter",
+    "colorless-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

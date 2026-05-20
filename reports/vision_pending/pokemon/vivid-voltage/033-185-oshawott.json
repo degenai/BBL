@@ -1,7 +1,7 @@
 {
   "subject": "Oshawott, a small otter-like creature standing on a rocky shoreline",
   "subject_known_ip": false,
-  "suspected_ip": "Oshawott (#501)",
+  "suspected_ip": "Oshawott",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A small blue-and-white otter-like creature stands upright on a rocky coastal surface. The figure has large expressive eyes, a cream-colored oval marking on its chest, and small rounded ears. Behind it the scene opens onto a bright seaside view with blue water, distant green cliffs, and a blue sky with fluffy white clouds. The creature faces the viewer in a cheerful, upright stance with small arms at its sides. The overall palette is dominated by blues and creams, lending a fresh, breezy aquatic feel.",
@@ -10,23 +10,56 @@
   "mode": "portrait",
   "figure_count": "solo",
   "foreground": "small otter-like creature standing upright on rocky ground",
-  "foreground_palette": ["blue", "cream", "white"],
+  "foreground_palette": [
+    "blue",
+    "cream",
+    "white"
+  ],
   "background": "coastal seascape with water, cliffs, and sky",
-  "background_palette": ["blue", "green", "white"],
+  "background_palette": [
+    "blue",
+    "green",
+    "white"
+  ],
   "setting": "ocean",
   "architecture": "none",
   "time_of_day": "day",
   "weather": "clear",
   "mood": "peaceful",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
-  "objects": ["rocks"],
-  "animals_creatures": ["otter-creature", "water-creature"],
+  "objects": [
+    "rocks"
+  ],
+  "animals_creatures": [
+    "otter-creature",
+    "water-creature"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "cheerful, alert, friendly",
-  "tags_hub": ["otter", "water", "ocean", "shoreline", "cute", "nature", "coastal", "sea", "small-creature", "bright"],
-  "tags_filter": ["solo", "mid-shot", "portrait", "forward-facing", "water-type", "creature"],
+  "tags_hub": [
+    "otter",
+    "water",
+    "ocean",
+    "shoreline",
+    "cute",
+    "nature",
+    "coastal",
+    "sea",
+    "small-creature",
+    "bright"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "portrait",
+    "forward-facing",
+    "water-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

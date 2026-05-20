@@ -47,7 +47,7 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: forest
-suspected_ip: "Rufflet (#627)"
+suspected_ip: "Rufflet"
 ip_confidence: high
 ip_verified: false
 characters:

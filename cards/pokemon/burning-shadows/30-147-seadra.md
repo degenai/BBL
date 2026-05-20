@@ -46,7 +46,7 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: ocean
-suspected_ip: "Seadra (#117)"
+suspected_ip: "Seadra"
 ip_confidence: high
 ip_verified: false
 tags:

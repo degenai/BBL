@@ -46,7 +46,7 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: mountain
-suspected_ip: "Growlithe (#058)"
+suspected_ip: "Growlithe"
 ip_confidence: high
 ip_verified: true
 tags:

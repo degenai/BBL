@@ -1,7 +1,7 @@
 {
   "subject": "Woobat, a round bat-like creature floating in a misty sky",
   "subject_known_ip": false,
-  "suspected_ip": "Woobat (#527)",
+  "suspected_ip": "Woobat",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A round, fluffy bat-like creature hovers in a grey-blue misty sky. The figure is almost entirely spherical with large wing membranes spread to either side, a prominent heart-shaped nose visible on its face, and small closed or squinting eyes. The background is a soft, overcast sky with blue-grey tones and subtle cloud-like forms. The creature's fuzzy pale blue-grey fur blends into the misty atmosphere, giving the scene a dreamy, quiet quality.",
@@ -10,23 +10,57 @@
   "mode": "portrait",
   "figure_count": "solo",
   "foreground": "round fluffy bat-creature with spread wings and heart-shaped nose",
-  "foreground_palette": ["pale-blue", "grey", "white"],
+  "foreground_palette": [
+    "pale-blue",
+    "grey",
+    "white"
+  ],
   "background": "overcast misty sky",
-  "background_palette": ["blue-grey", "white", "grey"],
+  "background_palette": [
+    "blue-grey",
+    "white",
+    "grey"
+  ],
   "setting": "void",
   "architecture": "none",
   "time_of_day": "indeterminate",
   "weather": "fog",
   "mood": "peaceful",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
   "objects": [],
-  "animals_creatures": ["bat-creature", "flying-creature"],
+  "animals_creatures": [
+    "bat-creature",
+    "flying-creature"
+  ],
   "food_drink": [],
   "clothing_style": "none",
-  "iconography": ["heart-shape"],
+  "iconography": [
+    "heart-shape"
+  ],
   "emotion": "serene, quiet, floating",
-  "tags_hub": ["bat", "flight", "sky", "cave", "nocturnal", "heart", "fluffy", "cute", "dreamy", "mist"],
-  "tags_filter": ["solo", "mid-shot", "portrait", "forward-facing", "psychic-type", "creature", "flying"],
+  "tags_hub": [
+    "bat",
+    "flight",
+    "sky",
+    "cave",
+    "nocturnal",
+    "heart",
+    "fluffy",
+    "cute",
+    "dreamy",
+    "mist"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "portrait",
+    "forward-facing",
+    "psychic-type",
+    "creature",
+    "flying"
+  ],
   "vision_uncertainty": []
 }

@@ -1,7 +1,7 @@
 {
   "subject": "Porygon, a digital polygon-shaped creature in a bright abstract environment",
   "subject_known_ip": false,
-  "suspected_ip": "Porygon (#137)",
+  "suspected_ip": "Porygon",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A blocky, geometric duck-like creature rendered in pink and blue polygonal shapes floats in a bright, abstract space. The figure is composed of flat angular planes giving it a distinctly digital, early-3D aesthetic. Around it, glowing trails of light — white, blue, and pink — streak through the background, suggesting rapid digital movement or cyberspace. The composition has a dynamic quality with light lines radiating from behind the creature. The palette is bright pinks, blues, and white with high contrast.",
@@ -10,23 +10,55 @@
   "mode": "action",
   "figure_count": "solo",
   "foreground": "angular pink-and-blue polygon creature with flat geometric planes",
-  "foreground_palette": ["pink", "blue", "white"],
+  "foreground_palette": [
+    "pink",
+    "blue",
+    "white"
+  ],
   "background": "abstract bright space with streaking light trails",
-  "background_palette": ["white", "blue", "pink"],
+  "background_palette": [
+    "white",
+    "blue",
+    "pink"
+  ],
   "setting": "void",
   "architecture": "none",
   "time_of_day": "indeterminate",
   "weather": "none",
   "mood": "action",
-  "genre_cues": ["anime", "sci-fi"],
+  "genre_cues": [
+    "anime",
+    "sci-fi"
+  ],
   "lighting": "rim",
   "objects": [],
-  "animals_creatures": ["digital-creature", "artificial-creature"],
+  "animals_creatures": [
+    "digital-creature",
+    "artificial-creature"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "neutral, mechanical",
-  "tags_hub": ["digital", "technology", "artificial", "cyber", "polygon", "robot", "sci-fi", "geometry", "speed", "light"],
-  "tags_filter": ["solo", "mid-shot", "action", "three-quarter", "colorless-type", "creature"],
+  "tags_hub": [
+    "digital",
+    "technology",
+    "artificial",
+    "cyber",
+    "polygon",
+    "robot",
+    "sci-fi",
+    "geometry",
+    "speed",
+    "light"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "action",
+    "three-quarter",
+    "colorless-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

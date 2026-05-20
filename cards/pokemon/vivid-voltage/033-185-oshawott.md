@@ -48,7 +48,7 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: ocean
-suspected_ip: "Oshawott (#501)"
+suspected_ip: "Oshawott"
 ip_confidence: high
 ip_verified: false
 tags:

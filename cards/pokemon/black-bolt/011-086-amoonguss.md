@@ -46,7 +46,7 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: forest
-suspected_ip: "Amoonguss (#591)"
+suspected_ip: "Amoonguss"
 ip_confidence: high
 ip_verified: true
 tags:

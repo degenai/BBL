@@ -46,7 +46,7 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: forest
-suspected_ip: "Diglett (#050)"
+suspected_ip: "Diglett"
 ip_confidence: high
 ip_verified: false
 tags:

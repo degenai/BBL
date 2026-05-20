@@ -24,6 +24,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -61,6 +62,12 @@ def main() -> int:
     if not vision.get("tags_hub"):
         print("ERROR: vision JSON has empty tags_hub — refuse to apply.", file=sys.stderr)
         return 2
+
+    # Strip Pokedex hash-suffixes from suspected_ip ("Pikachu (#025)" -> "Pikachu").
+    # Defensive chokepoint (wave-157 triage): vision agents occasionally append the
+    # dex number as a disambiguator, which Obsidian then reads as a phantom #NNN tag node.
+    if isinstance(vision.get("suspected_ip"), str):
+        vision["suspected_ip"] = re.sub(r"\s*\(#\d+\)", "", vision["suspected_ip"]).strip()
 
     # Read frontmatter for the cached image path so the body embed survives the rewrite.
     fm = parse_frontmatter(args.card_md.read_text(encoding="utf-8"))

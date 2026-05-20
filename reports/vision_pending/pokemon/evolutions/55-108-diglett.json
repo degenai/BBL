@@ -1,7 +1,7 @@
 {
   "subject": "Diglett, a small brown mole-like creature poking out of the ground in a field with flowers",
   "subject_known_ip": false,
-  "suspected_ip": "Diglett (#050)",
+  "suspected_ip": "Diglett",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A small brown mole-like creature pokes up from a hole in the ground, only the top half of its body visible above earth level. The figure has a simple round head with a prominent pink nose and small dark eyes. Around it at ground level, small white daisy-like flowers bloom. The background is an open sky of white and light tones. This is a classic original-series illustration style with clean linework and flat tones. The palette is brown, cream, and white with small green and flower accents.",
@@ -10,23 +10,57 @@
   "mode": "portrait",
   "figure_count": "solo",
   "foreground": "small brown mole-like creature emerging from ground hole, surrounded by flowers",
-  "foreground_palette": ["brown", "tan", "pink"],
+  "foreground_palette": [
+    "brown",
+    "tan",
+    "pink"
+  ],
   "background": "open bright outdoor setting with white sky",
-  "background_palette": ["white", "pale-blue", "green"],
+  "background_palette": [
+    "white",
+    "pale-blue",
+    "green"
+  ],
   "setting": "forest",
   "architecture": "none",
   "time_of_day": "day",
   "weather": "clear",
   "mood": "peaceful",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
-  "objects": ["flowers", "hole"],
-  "animals_creatures": ["mole", "underground-creature"],
+  "objects": [
+    "flowers",
+    "hole"
+  ],
+  "animals_creatures": [
+    "mole",
+    "underground-creature"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "curious, peeking",
-  "tags_hub": ["mole", "underground", "garden", "flower", "emerging", "cute", "earth", "digging", "hiding", "classic"],
-  "tags_filter": ["solo", "mid-shot", "portrait", "forward-facing", "fighting-type", "creature"],
+  "tags_hub": [
+    "mole",
+    "underground",
+    "garden",
+    "flower",
+    "emerging",
+    "cute",
+    "earth",
+    "digging",
+    "hiding",
+    "classic"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "portrait",
+    "forward-facing",
+    "fighting-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

@@ -46,7 +46,7 @@ image_quality: high
 mood: peaceful
 time_of_day: indeterminate
 setting: forest
-suspected_ip: "Vanillish (#583)"
+suspected_ip: "Vanillish"
 ip_confidence: high
 ip_verified: false
 tags:

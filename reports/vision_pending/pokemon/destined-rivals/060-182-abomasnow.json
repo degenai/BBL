@@ -1,7 +1,7 @@
 {
   "subject": "Abomasnow, a large white yeti-like creature in a snowy mountain landscape",
   "subject_known_ip": false,
-  "suspected_ip": "Abomasnow (#460)",
+  "suspected_ip": "Abomasnow",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A tall, broad-shouldered yeti-like creature stands in a stark snowy landscape. The figure has a white, shaggy or layered body with a prominent round head, stubby dark features, and large arms at its sides. Snowflakes or ice particles drift around it. The background is white and grey — an open snowfield or mountainside with minimal detail, giving the scene a stark, isolated quality. The creature's stillness against the white expanse conveys a sense of cold solitude.",
@@ -10,23 +10,55 @@
   "mode": "portrait",
   "figure_count": "solo",
   "foreground": "large white shaggy yeti-like creature standing still",
-  "foreground_palette": ["white", "light-grey", "dark-grey"],
+  "foreground_palette": [
+    "white",
+    "light-grey",
+    "dark-grey"
+  ],
   "background": "stark white snowfield with minimal detail",
-  "background_palette": ["white", "grey", "pale-blue"],
+  "background_palette": [
+    "white",
+    "grey",
+    "pale-blue"
+  ],
   "setting": "mountain",
   "architecture": "none",
   "time_of_day": "indeterminate",
   "weather": "snow",
   "mood": "peaceful",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
   "objects": [],
-  "animals_creatures": ["yeti", "ice-creature", "tree-like-creature"],
+  "animals_creatures": [
+    "yeti",
+    "ice-creature",
+    "tree-like-creature"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "solitary, still, cold",
-  "tags_hub": ["yeti", "snow", "winter", "mountain", "ice", "solitude", "white", "cold", "nature", "guardian"],
-  "tags_filter": ["solo", "mid-shot", "portrait", "forward-facing", "grass-type", "creature"],
+  "tags_hub": [
+    "yeti",
+    "snow",
+    "winter",
+    "mountain",
+    "ice",
+    "solitude",
+    "white",
+    "cold",
+    "nature",
+    "guardian"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "portrait",
+    "forward-facing",
+    "grass-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

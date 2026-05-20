@@ -1,7 +1,7 @@
 {
   "subject": "Lopunny, a tall rabbit-like creature with long fluffy ears in an outdoor autumnal setting",
   "subject_known_ip": false,
-  "suspected_ip": "Lopunny (#428)",
+  "suspected_ip": "Lopunny",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A tall, slender rabbit-like creature stands in an outdoor setting with warm autumnal tones. The figure has long, floppy ears with fluffy white pom-pom tips, a sleek body, and a confident upright posture with one leg slightly raised. The background suggests a warm outdoor scene with soft orange and yellow tones, possibly fallen leaves or late-season foliage. The creature's elegant, slightly dynamic pose gives it a graceful quality.",
@@ -10,23 +10,55 @@
   "mode": "portrait",
   "figure_count": "solo",
   "foreground": "tall slender rabbit-like creature with long ears and fluffy pom-pom tips, leg raised",
-  "foreground_palette": ["tan", "cream", "white", "brown"],
+  "foreground_palette": [
+    "tan",
+    "cream",
+    "white",
+    "brown"
+  ],
   "background": "warm autumnal outdoor setting with orange and yellow tones",
-  "background_palette": ["orange", "yellow", "warm-tan"],
+  "background_palette": [
+    "orange",
+    "yellow",
+    "warm-tan"
+  ],
   "setting": "forest",
   "architecture": "none",
   "time_of_day": "day",
   "weather": "clear",
   "mood": "peaceful",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
   "objects": [],
-  "animals_creatures": ["rabbit", "bunny"],
+  "animals_creatures": [
+    "rabbit",
+    "bunny"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "graceful, confident, poised",
-  "tags_hub": ["rabbit", "bunny", "autumn", "graceful", "nature", "fluffy", "cute", "forest", "dancer", "elegant"],
-  "tags_filter": ["solo", "mid-shot", "portrait", "three-quarter", "colorless-type", "creature"],
+  "tags_hub": [
+    "rabbit",
+    "bunny",
+    "autumn",
+    "graceful",
+    "nature",
+    "fluffy",
+    "cute",
+    "forest",
+    "dancer",
+    "elegant"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "portrait",
+    "three-quarter",
+    "colorless-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

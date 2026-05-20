@@ -46,7 +46,7 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: ocean
-suspected_ip: "Ducklett (#580)"
+suspected_ip: "Ducklett"
 ip_confidence: high
 ip_verified: false
 tags:

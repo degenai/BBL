@@ -1,7 +1,7 @@
 {
   "subject": "Pikachu, the iconic yellow electric mouse-like creature in a forest clearing",
   "subject_known_ip": false,
-  "suspected_ip": "Pikachu (#025)",
+  "suspected_ip": "Pikachu",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A small, round yellow mouse-like creature sits in a warm, glowing forest clearing. The figure has rounded ears tipped with black, a small button nose, bright cheeks, and a zigzag tail. The background shows soft forest light with golden tones filtering through trees, giving the scene a warm, inviting quality. The creature sits in a relaxed or watchful pose. This is a classic original-series illustration with clean, simple linework. The palette is warm yellows and soft browns with golden forest ambience.",
@@ -10,23 +10,55 @@
   "mode": "portrait",
   "figure_count": "solo",
   "foreground": "small round yellow mouse-like creature with black-tipped ears and zigzag tail",
-  "foreground_palette": ["yellow", "brown", "black", "red"],
+  "foreground_palette": [
+    "yellow",
+    "brown",
+    "black",
+    "red"
+  ],
   "background": "warm golden forest clearing with soft light",
-  "background_palette": ["golden-yellow", "brown", "green"],
+  "background_palette": [
+    "golden-yellow",
+    "brown",
+    "green"
+  ],
   "setting": "forest",
   "architecture": "none",
   "time_of_day": "day",
   "weather": "clear",
   "mood": "peaceful",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
   "objects": [],
-  "animals_creatures": ["mouse", "electric-creature"],
+  "animals_creatures": [
+    "mouse",
+    "electric-creature"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "alert, cheerful",
-  "tags_hub": ["mouse", "lightning", "classic", "yellow", "forest", "mascot", "cute", "iconic", "nature", "electricity"],
-  "tags_filter": ["solo", "mid-shot", "portrait", "three-quarter", "lightning-type", "creature"],
+  "tags_hub": [
+    "mouse",
+    "lightning",
+    "classic",
+    "yellow",
+    "forest",
+    "mascot",
+    "cute",
+    "iconic",
+    "nature",
+    "electricity"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "portrait",
+    "three-quarter",
+    "lightning-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

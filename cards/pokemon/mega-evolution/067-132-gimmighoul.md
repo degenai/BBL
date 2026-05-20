@@ -44,7 +44,7 @@ image_quality: high
 mood: comedic
 time_of_day: indeterminate
 setting: indoor
-suspected_ip: "Gimmighoul (#999)"
+suspected_ip: "Gimmighoul"
 ip_confidence: high
 ip_verified: false
 tags:

@@ -46,7 +46,7 @@ image_quality: high
 mood: other
 time_of_day: indeterminate
 setting: dungeon
-suspected_ip: "Dunsparce (#206)"
+suspected_ip: "Dunsparce"
 ip_confidence: high
 ip_verified: false
 tags:

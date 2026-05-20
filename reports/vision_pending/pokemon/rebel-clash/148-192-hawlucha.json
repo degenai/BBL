@@ -1,7 +1,7 @@
 {
   "subject": "Hawlucha, a bird-like creature with white body, red-and-green wing markings, leaping or gliding in a dynamic pose",
   "subject_known_ip": false,
-  "suspected_ip": "Hawlucha (#701)",
+  "suspected_ip": "Hawlucha",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A small bird-like creature with a predominantly white body and vivid red and green wing-markings leaps across a bright outdoor scene. The figure is mid-air in a dynamic pose, wings spread wide with green leaf-like appendages trailing behind. Below and around it are white flower blossoms and green foliage, suggesting a lush natural environment. The background is a soft warm yellow-green, giving the composition an energetic, airy quality. The creature's rounded form and bold color-blocking gives it a cartoonish, animated aesthetic.",
@@ -10,23 +10,60 @@
   "mode": "action",
   "figure_count": "solo",
   "foreground": "bird-like creature mid-leap, white body with red and green wing markings, spread wings",
-  "foreground_palette": ["white", "red", "green", "yellow"],
+  "foreground_palette": [
+    "white",
+    "red",
+    "green",
+    "yellow"
+  ],
   "background": "floral outdoor scene with white blossoms and green foliage",
-  "background_palette": ["yellow-green", "white", "green"],
+  "background_palette": [
+    "yellow-green",
+    "white",
+    "green"
+  ],
   "setting": "forest",
   "architecture": "none",
   "time_of_day": "day",
   "weather": "clear",
   "mood": "action",
-  "genre_cues": ["anime", "fantasy"],
+  "genre_cues": [
+    "anime",
+    "fantasy"
+  ],
   "lighting": "soft",
-  "objects": ["flowers", "foliage"],
-  "animals_creatures": ["bird-creature", "winged-creature"],
+  "objects": [
+    "flowers",
+    "foliage"
+  ],
+  "animals_creatures": [
+    "bird-creature",
+    "winged-creature"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "energetic, exuberant, free",
-  "tags_hub": ["bird", "wings", "flight", "forest", "nature", "acrobat", "leaping", "martial-arts", "athlete", "vibrant", "freedom"],
-  "tags_filter": ["solo", "mid-shot", "action", "colorless-magic", "faces-right", "creature"],
+  "tags_hub": [
+    "bird",
+    "wings",
+    "flight",
+    "forest",
+    "nature",
+    "acrobat",
+    "leaping",
+    "martial-arts",
+    "athlete",
+    "vibrant",
+    "freedom"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "action",
+    "colorless-magic",
+    "faces-right",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

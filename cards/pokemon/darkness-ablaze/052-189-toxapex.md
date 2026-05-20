@@ -46,7 +46,7 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: ocean
-suspected_ip: "Toxapex (#748)"
+suspected_ip: "Toxapex"
 ip_confidence: high
 ip_verified: false
 tags:

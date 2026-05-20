@@ -46,7 +46,7 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: void
-suspected_ip: "Porygon (#137)"
+suspected_ip: "Porygon"
 ip_confidence: high
 ip_verified: false
 tags:

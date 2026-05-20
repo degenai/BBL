@@ -46,7 +46,7 @@ image_quality: high
 mood: comedic
 time_of_day: day
 setting: desert
-suspected_ip: "Darumaka (#554)"
+suspected_ip: "Darumaka"
 ip_confidence: high
 ip_verified: true
 tags:

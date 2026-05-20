@@ -1,7 +1,7 @@
 {
   "subject": "Trapinch, a small orange head-heavy ant larva-like creature in a sandy desert",
   "subject_known_ip": false,
-  "suspected_ip": "Trapinch (#328)",
+  "suspected_ip": "Trapinch",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A small, round-headed creature with an oversized jaw and tiny body sits in a sandy desert landscape. The figure is predominantly orange with a large blunt head and tiny legs, giving it a top-heavy, somewhat comical appearance. Behind it, a sandy desert scene stretches out with small cacti or desert plants, and a pale blue sky overhead. The creature's enormous head and small body emphasize its pit-trap nature. The palette is warm oranges, sandy yellows, and pale blue.",
@@ -10,23 +10,57 @@
   "mode": "portrait",
   "figure_count": "solo",
   "foreground": "small round-headed orange creature with oversized jaw and tiny body",
-  "foreground_palette": ["orange", "pale-yellow", "cream"],
+  "foreground_palette": [
+    "orange",
+    "pale-yellow",
+    "cream"
+  ],
   "background": "sandy desert with cacti and pale blue sky",
-  "background_palette": ["sandy-yellow", "pale-blue", "tan"],
+  "background_palette": [
+    "sandy-yellow",
+    "pale-blue",
+    "tan"
+  ],
   "setting": "desert",
   "architecture": "none",
   "time_of_day": "day",
   "weather": "clear",
   "mood": "other",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
-  "objects": ["cacti"],
-  "animals_creatures": ["insect-larva", "ant-lion", "desert-creature"],
+  "objects": [
+    "cacti"
+  ],
+  "animals_creatures": [
+    "insect-larva",
+    "ant-lion",
+    "desert-creature"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "watchful, neutral",
-  "tags_hub": ["desert", "sand", "trap", "predator", "insect", "larva", "orange", "pit", "small-creature", "nature"],
-  "tags_filter": ["solo", "mid-shot", "portrait", "three-quarter", "fighting-type", "creature"],
+  "tags_hub": [
+    "desert",
+    "sand",
+    "trap",
+    "predator",
+    "insect",
+    "larva",
+    "orange",
+    "pit",
+    "small-creature",
+    "nature"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "portrait",
+    "three-quarter",
+    "fighting-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

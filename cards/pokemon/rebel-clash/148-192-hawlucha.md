@@ -47,7 +47,7 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: forest
-suspected_ip: "Hawlucha (#701)"
+suspected_ip: "Hawlucha"
 ip_confidence: high
 ip_verified: false
 tags:

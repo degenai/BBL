@@ -1,7 +1,7 @@
 {
   "subject": "Jigglypuff, a round pink balloon-like creature in a flowery meadow",
   "subject_known_ip": false,
-  "suspected_ip": "Jigglypuff (#039)",
+  "suspected_ip": "Jigglypuff",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A round, pink, balloon-like creature stands in a bright flower-filled meadow. The figure has large blue eyes, small rounded ears with darker pink insides, stubby arms, and a curl of hair on its forehead. The creature is in a cheerful standing pose surrounded by colorful flowers — white daisies and small pink blooms — in the foreground. The background shows a sunny sky with white clouds. The overall scene is lively and cheerful with a soft, round aesthetic.",
@@ -10,23 +10,56 @@
   "mode": "portrait",
   "figure_count": "solo",
   "foreground": "round pink balloon-like creature surrounded by flowers in a meadow",
-  "foreground_palette": ["pink", "white", "green"],
+  "foreground_palette": [
+    "pink",
+    "white",
+    "green"
+  ],
   "background": "sunny meadow with white clouds and blue sky",
-  "background_palette": ["blue", "white", "green"],
+  "background_palette": [
+    "blue",
+    "white",
+    "green"
+  ],
   "setting": "forest",
   "architecture": "none",
   "time_of_day": "day",
   "weather": "clear",
   "mood": "peaceful",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
-  "objects": ["flowers"],
-  "animals_creatures": ["round-creature", "singer"],
+  "objects": [
+    "flowers"
+  ],
+  "animals_creatures": [
+    "round-creature",
+    "singer"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "cheerful, carefree, bright",
-  "tags_hub": ["singer", "music", "pink", "cute", "round", "meadow", "flower", "balloon", "joy", "song"],
-  "tags_filter": ["solo", "mid-shot", "portrait", "forward-facing", "psychic-type", "creature"],
+  "tags_hub": [
+    "singer",
+    "music",
+    "pink",
+    "cute",
+    "round",
+    "meadow",
+    "flower",
+    "balloon",
+    "joy",
+    "song"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "portrait",
+    "forward-facing",
+    "psychic-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

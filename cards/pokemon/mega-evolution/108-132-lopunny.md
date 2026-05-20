@@ -44,7 +44,7 @@ image_quality: high
 mood: peaceful
 time_of_day: day
 setting: forest
-suspected_ip: "Lopunny (#428)"
+suspected_ip: "Lopunny"
 ip_confidence: high
 ip_verified: false
 tags:

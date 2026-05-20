@@ -1,7 +1,7 @@
 {
   "subject": "Gloom, a drooping flower-headed creature in a meadow",
   "subject_known_ip": false,
-  "suspected_ip": "Gloom (#044)",
+  "suspected_ip": "Gloom",
   "ip_confidence": "high",
   "ip_verified": false,
   "description": "A small round blue-bodied creature with a large, wilting flower-like head stands in a bright meadow. The figure has large vacant or half-closed eyes, a perpetual downturned expression, and a red-and-white flower growing from its head with petals drooping around its face. Pink and red flowering plants surround it at ground level, and the background opens into a sunny blue sky with white clouds. The posture is listless or drowsy despite the cheerful surroundings. The palette is vivid with blues, pinks, reds, and white.",
@@ -10,23 +10,58 @@
   "mode": "portrait",
   "figure_count": "solo",
   "foreground": "blue round creature with drooping flower-head, surrounded by small pink flowers",
-  "foreground_palette": ["blue", "red", "white", "pink"],
+  "foreground_palette": [
+    "blue",
+    "red",
+    "white",
+    "pink"
+  ],
   "background": "sunny meadow with blue sky and white clouds",
-  "background_palette": ["blue", "white", "green", "pink"],
+  "background_palette": [
+    "blue",
+    "white",
+    "green",
+    "pink"
+  ],
   "setting": "forest",
   "architecture": "none",
   "time_of_day": "day",
   "weather": "clear",
   "mood": "other",
-  "genre_cues": ["anime"],
+  "genre_cues": [
+    "anime"
+  ],
   "lighting": "soft",
-  "objects": ["flowers"],
-  "animals_creatures": ["plant-creature", "flower-creature"],
+  "objects": [
+    "flowers"
+  ],
+  "animals_creatures": [
+    "plant-creature",
+    "flower-creature"
+  ],
   "food_drink": [],
   "clothing_style": "none",
   "iconography": [],
   "emotion": "drowsy, listless, melancholy",
-  "tags_hub": ["flower", "plant", "meadow", "melancholy", "sleepy", "nature", "bloom", "poison", "garden", "dreamy"],
-  "tags_filter": ["solo", "mid-shot", "portrait", "forward-facing", "grass-type", "creature"],
+  "tags_hub": [
+    "flower",
+    "plant",
+    "meadow",
+    "melancholy",
+    "sleepy",
+    "nature",
+    "bloom",
+    "poison",
+    "garden",
+    "dreamy"
+  ],
+  "tags_filter": [
+    "solo",
+    "mid-shot",
+    "portrait",
+    "forward-facing",
+    "grass-type",
+    "creature"
+  ],
   "vision_uncertainty": []
 }

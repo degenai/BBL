@@ -44,7 +44,7 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: urban
-suspected_ip: "Grafaiai (#952)"
+suspected_ip: "Grafaiai"
 ip_confidence: high
 ip_verified: false
 tags:
