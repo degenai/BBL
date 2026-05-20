@@ -76,3 +76,15 @@ A straight, double-edged short sword stands vertically with its point up, center
 **Iconography:** sword-as-icon, stained-glass, halo-of-light, chapel-window
 **Genre cues:** fantasy, medieval, sacred
 
+## Trivia
+
+- **Flavor text** — `"Sometimes the only difference between a martyr and a hero is a sword."` — Captain Sisay, *Memoirs* [Scryfall]. Captain Sisay is the Zhalfirin captain of the legendary skyship Weatherlight and a central figure in Dominaria's Weatherlight Saga. She was tasked with gathering the Legacy artifacts needed to defeat the Phyrexian god Yawgmoth, was captured by Volrath (the Phyrexian-controlled evincar of Rath), rescued, and survived the Invasion block. The *Memoirs* attribution frames the quote as retrospective — written after she lived through events that could have made her either. [Scryfall; MTG Wiki, via WebSearch]
+- **Set context** — Short Sword was first printed in Dominaria (April 2018) — a set built around Dominaria's legendary-creature-dense history. Reprinted in The List (2019) and Core Set 2021. The Sisay flavor text appears in both the Dominaria and M21 printings, anchoring the card's thematic identity to Dominaria's hero mythology across all appearances. Legal in Pauper and Pauper Commander. [Scryfall prints search]
+- **Mechanical reputation** — A one-mana Equipment granting +1/+1 for one-mana equip — among the most efficient stat-to-cost ratios for Equipment in the game. EDHREC rank 16,173 reflects modest Commander adoption, mainly in low-curve Voltron and creature-synergy builds where equip cost is the binding constraint. [Scryfall]
+- **Design** — Art by John Severin Brassell. The sacred-object framing — sword displayed point-up before a stained-glass chapel window — elevates a mechanically minimal +1/+1 Equipment into something closer to an icon or relic. The reverential treatment mirrors the flavor text's meditation on what separates a martyr from a hero. [Scryfall]
+
+### Related cards
+- Captain Sisay (Invasion, no. 237) — the flavor text speaker; legendary Weatherlight captain who tutors for legendary permanents in Commander
+- Sisay, Weatherlight Captain (Modern Horizons, no. 29) — updated five-color legendary-tutor version of the same character
+- Bonesplitter (Mirrodin, no. 148) — 1-mana Equipment granting +2/+0 for 1 equip; design-space peer trading toughness bonus for attack bonus
+

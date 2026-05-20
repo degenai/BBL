@@ -74,3 +74,15 @@ A heavy, leather-bound book with reinforced metallic edges hovers open in the ai
 **Iconography:** spiral vortex, arcane glyph implied, open book
 **Genre cues:** fantasy, arcane
 
+## Trivia
+
+- **Set context** — Mazemind Tome is a rare artifact from Core Set 2021 (M21), released July 3, 2020 — a standalone core set not tied to any specific plane or story arc. Its page-counter mechanic (free scry, paid draw, exile for 4 life after 4 counters) is a self-limiting card-advantage engine purpose-built for Standard-accessible play. [Scryfall]
+- **Design history** — Randy Gallegos originally painted Mazemind Tome in 2019 for M21. For The Brothers' War Retro Frame Artifacts release (November 2022), art director Sarah Wassell commissioned him to produce a schematic version. Gallegos described the project as "not so much a re-creation, but a pre-creation" — ghosting a mage figure into the composition and designing the art to evoke a page from an aged personal notebook, complete with creases and tears. The glowing maze on the cover was reproduced in 22k gold leaf for the schematic variant. [Randy Gallegos artist website gallegosart.com, via WebSearch]
+- **Mechanical reputation** — Mazemind Tome saw meaningful competitive play in Standard 2020–2021 as a colorless card-advantage engine in midrange and control shells. Its EDHREC rank of 6,465 places it among the more consistently-played colorless artifacts in Commander, valued for its low entry cost and self-replacing design. [Scryfall; TCGPlayer article "The Right Way to Build Around Mazemind Tome," via WebSearch]
+- **Reprint history** — Despite being less than five years old, Mazemind Tome has appeared in The List (2023), Commander Masters (2023), three schematic variants in The Brothers' War Retro Artifacts (2022), and Foundations (2024) — an unusually dense reprint cadence signaling Wizards treats it as a high-visibility evergreen artifact. [Scryfall prints search]
+
+### Related cards
+- Jayemdae Tome (Alpha) — the original tome-as-draw-engine in MTG; Mazemind Tome is widely read as a spiritual successor
+- The Celestus (Innistrad: Midnight Hunt, no. 253) — similar self-limiting counter-accumulation artifact with draw
+- Mazemind Tome Schematic (The Brothers' War Retro Artifacts, no. 30) — alternate-art schematic version with the ghosted-mage redesign Gallegos described
+

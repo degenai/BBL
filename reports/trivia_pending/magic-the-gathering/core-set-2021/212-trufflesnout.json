@@ -1,0 +1,41 @@
+{
+  "card_name": "Trufflesnout",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "212",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Previewed June 11, 2020, via a Wizards of the Coast article framing it as a Selesnya (green-white) signpost card for M21 Limited. Signals to drafters the Selesnya lifegain-and-go-wide strategy at common rarity.",
+      "sources": ["Scryfall preview field: source Wizards of the Coast, source_uri magic.wizards.com/en/articles/archive/card-preview/signpost-selesnya-2020-06-11"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Its exploits are the stuff of legends among local chefs and fuel for nightmares among the forest thallids.\" The thallid reference grounds the card in MTG Dominarian lore: thallids are sentient fungal creatures originating in Fallen Empires (1994), created by druid Thelon of Havenwood, who eventually revolted against their elvish creators and dominated Havenwood. A truffle-hunting boar is an ecological predator of thallid-kin.",
+      "sources": ["Scryfall", "MTGSalvation: 'A Brief History of Dominaria's Thallids' (WebSearch snippet via mtgsalvation.com)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "2/2 Boar for 3 mana, modal ETB: grow (3/3) or heal (gain 4 life). Clean draft role card. EDHREC rank 23,159. Legal in Pauper and Paupercommander.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Jason Kang. No Hipsters of the Coast artist spotlight found for Kang at time of research.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Thallid", "set": "Fallen Empires", "note": "The MTG fungus creature type name-dropped in Trufflesnout's flavor text"},
+    {"name": "Thelon of Havenwood", "set": "Time Spiral", "note": "The druid who created thallids in MTG lore; relevant to the flavor text reference"},
+    {"name": "Tusked Mammoth", "set": "Core Set 2021", "note": "Another M21 green common beast with naturalist aesthetic in same draft environment"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

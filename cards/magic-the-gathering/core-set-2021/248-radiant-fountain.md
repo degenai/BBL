@@ -75,3 +75,15 @@ A grand outdoor fountain occupies a sunlit stone plaza. A tall, slender obelisk-
 **Iconography:** light-rays, fountain, spire
 **Genre cues:** fantasy, classical
 
+## Trivia
+
+- **Card origin** — Radiant Fountain first appeared in Magic 2015 (M15, July 2014), illustrated by Adam Paquette. Unlike the ten gain lands of the Khans of Tarkir cycle, Radiant Fountain produces only colorless mana {C} — it enters untapped, yields no colored mana, but restores 2 life rather than 1. Its value proposition is purely life-based, not mana-fixing. `[Scryfall]`
+- **Flavor text** — "All peoples treasure a place where the weary traveler may drink in peace." — Ajani Goldmane. `[Scryfall flavor_text]` Ajani is a leonin (cat-person) planeswalker from Naya, one of the shards of Alara; he was among Magic's first planeswalker card designs (Lorwyn, 2007) and is associated with healing, unity, and white-aligned compassion. His quote was carried unchanged across all four printings of the card. `[CBR: "Magic: Ajani Goldmane, the Leonin Planeswalker of Justice, Explained," via WebSearch; Scryfall]`
+- **Reprint history** — Radiant Fountain has only 4 total printings: M15 (2014), Iconic Masters (2017), Core Set 2021 (2020), and Commander 2021 (2021) — all using Adam Paquette's original artwork. This makes it substantially less reprinted than the KTK-origin gain lands, which average 17-19 prints each. `[Scryfall prints search, oracle ID 6db442e5]`
+- **Mechanical role** — Legal in Pauper Commander, Historic, Modern, Legacy, Vintage, and Commander; not legal in Standard or Pioneer as of 2026. EDHREC rank: 1603, lower than the dual-producing gain lands — producing only colorless mana is a real cost in colored Commander decks, so Radiant Fountain typically finds a home only in colorless-matters builds or life-gain-specific strategies. `[Scryfall legalities; EDHREC rank 1603 via Scryfall API]`
+
+### Related cards
+- Blossoming Sands (Core Set 2021, no. 244) — cycle cousin: allied-pair gain land in same M21 block; in BBL corpus
+- Tranquil Cove (Core Set 2021, no. 258) — cycle cousin: White-Blue gain land in same M21 block; in BBL corpus
+- Kabira Crossroads (Zendikar) — earlier colorless-producing land with a life-gain ETB; ancestor design comparison
+- Ajani Goldmane (Lorwyn) — the speaker of the flavor text; first Ajani planeswalker card

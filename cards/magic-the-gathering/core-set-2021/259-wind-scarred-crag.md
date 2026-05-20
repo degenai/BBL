@@ -75,3 +75,16 @@ A wide landscape painting depicting a range of sharp, jagged mountain peaks in t
 **Iconography:** tattered-banner, wind-flag
 **Genre cues:** fantasy, landscape
 
+## Trivia
+
+- **Cycle origin and clan context** — Wind-Scarred Crag is the Red-White member of the ten-card gain-land cycle that debuted in Khans of Tarkir (September 2014). Red-White is the color identity of the Mardu Horde — aggressive nomadic warriors and raiders who cross Tarkir's open steppes and rocky crags by mount. The tattered banners in the art's foreground directly evoke Mardu imagery: traveling war-standards whipping in wind as the Horde moves across exposed terrain. `[Scryfall; MTG Wiki: Khans of Tarkir, via WebSearch snippet]`
+- **Two distinct artworks** — Wind-Scarred Crag has two separate Eytan Zana illustrations. The M21 copy (Scryfall illustration ID bc616a7c) is the original KTK sunset-and-banners piece, also used in Commander 2015 and Commander Anthology Volume II. A second Zana illustration (ID 145dafc8) debuted in Commander 2015 simultaneously and was used in Commander 2017, Eternal Masters, Commander 2019, and Core Set 2020. The M21 and Commander Legends (2020) printings reverted to the original KTK composition. `[Scryfall illustration_id data]`
+- **Zana's dual presence in this batch** — Wind-Scarred Crag and Rugged Highlands are the only two cards in the BBL M21 batch carrying original Eytan Zana KTK artwork. Both hold the KTK-original illustrations rather than the FRF-era alternates, placing the BBL copies in the earliest visual layer of the gain-land cycle. `[Scryfall illustration_id data]`
+- **Reprint history and format role** — 18 total printings as of Tarkir: Dragonstorm (2025), including Tales of Middle-earth Commander and Commander Legends. Legal in Standard, Pioneer, Modern, Legacy, Vintage, Pauper, Pauper Commander, and Commander. EDHREC rank: 989 — the highest adoption among the five M21 gain lands in this BBL batch, consistent with Boros (Red-White) being one of the most frequently built Commander color pairs. `[Scryfall prints search, oracle ID b0af0c54; EDHREC rank 989 via Scryfall API]`
+
+### Related cards
+- Blossoming Sands (Core Set 2021, no. 244) — cycle sibling: Green-White pair; in BBL corpus
+- Rugged Highlands (Core Set 2021, no. 249) — cycle sibling: Red-Green pair; also Eytan Zana art; in BBL corpus
+- Tranquil Cove (Core Set 2021, no. 258) — cycle sibling: White-Blue pair; in BBL corpus
+- Bloodfell Caves (Khans of Tarkir) — cycle sibling: Black-Red pair; completes the Mardu color cluster
+- Sacred Foundry (Ravnica) — the premium Red-White shockland; Wind-Scarred Crag is the budget Pauper-legal stand-in for the same color pair

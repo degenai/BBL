@@ -1,0 +1,45 @@
+{
+  "card_name": "Track Down",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "211",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Track Down is a core-set common from M21, released July 3, 2020. Core Set 2021 centered its Legendary character suite on Teferi, with Dominarian supporting cast (Barrin, Subira, Niambi, Radha, Jolrael, Mangara, Kaervek). Track Down is plane-agnostic, consistent with core set design philosophy.",
+      "sources": ["Scryfall", "WebSearch snippet: CardKingdom Blog Core Sets Retrospective"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Scry 3 then conditional draw (creature or land) on a 2-mana green sorcery. Legal in Pauper, Paupercommander, Pioneer, Modern, Legacy, Vintage, Commander. EDHREC rank 15,068 — moderate Commander inclusion, stronger Pauper utility where green's selection suite is shallow.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Scents fade and footprints wash away, but some trails can never be erased.\" — no speaker attributed. Frames scry as magical persistence of scent beyond the physical.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Scott Murphy has illustrated 92 MTG cards. His original paintings command high secondary-market prices: Basic Forest sold for $6,700 (2019), Expedition Map final painting for $6,100 (2020), Opposition Agent for $22,000 — a career record. Track Down is a first-printing common; his commons are recognized in the collector community as under-priced.",
+      "sources": [
+        "Hipsters of the Coast: Scott Murphy's Expedition Map Sells for $6,100 (hipstersofthecoast.com)",
+        "Hipsters of the Coast: Opposition Agent from Commander Legends by Scott Murphy Sells for $22,000 (hipstersofthecoast.com)",
+        "Gatherer: artist Scott Murphy 92 cards"
+      ]
+    }
+  ],
+  "related_cards": [
+    {"name": "Opt", "set": "multiple", "note": "Blue scry-1-then-draw at 1 mana; closest cross-color analog in card-draw economy"},
+    {"name": "Seek the Wilds", "set": "Battle for Zendikar", "note": "Green 2-mana sorcery, look at top 4 put creature or land into hand; direct functional predecessor"},
+    {"name": "Anticipate", "set": "Magic Origins", "note": "Blue instant, look at top 3 keep 1; same dig depth as Track Down without the draw"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

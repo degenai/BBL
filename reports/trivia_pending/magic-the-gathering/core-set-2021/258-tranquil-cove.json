@@ -1,0 +1,43 @@
+{
+  "card_name": "Tranquil Cove",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "258",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tranquil Cove is the White-Blue member of the ten-card gain-land cycle that debuted in Khans of Tarkir (September 2014). White-Blue is the color identity of the Ojutai clan (also called the Dragonlord Ojutai clan in Fate Reforged), scholarly monks devoted to knowledge and discipline — a thematic match for the quiet coastal composition of the card. [Scryfall; MTG Wiki: Khans of Tarkir via WebSearch snippet]",
+      "sources": ["Scryfall", "MTG Wiki: Khans of Tarkir (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "John Avon illustrated two distinct versions of Tranquil Cove. The original KTK artwork (illustration ID ff440765) — the coastal bluff and cove composition — is the version used on the M21 card. Fate Reforged (2015) introduced a second John Avon piece (illustration ID 7fefa068) with different coastal imagery. The KTK composition was reused verbatim for M21, while most other reprints (Ikoria, Kamigawa: Neon Dynasty, March of the Machine, etc.) commissioned new art from other artists. [Scryfall illustration_id data]",
+      "sources": ["Scryfall illustration_id data"]
+    },
+    {
+      "category": "design",
+      "text": "John Avon is one of Magic's most prolific and long-tenured artists. Per Hipsters of the Coast, as of Throne of Eldraine (2019) he had illustrated 323 different Magic cards, including more than 100 distinct basic lands, across a continuous 23-year relationship with Wizards of the Coast. His original painting for Lotus Field (Amonkhet) sold for $40,000 on the MTG Art Market (2019). He has received a dedicated Secret Lair Artist Series drop (October 2023). [Hipsters of the Coast: multiple John Avon articles via WebSearch; Scryfall]",
+      "sources": ["Hipsters of the Coast: John Avon Secret Lair article (September 2023)", "Hipsters of the Coast: 'Painting for Lotus Field by John Avon Sells for $40,000' (2019)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Tranquil Cove has 19 total printings as of Tarkir: Dragonstorm (2025) — the most among the five M21 gain lands in this BBL batch — including two Warhammer 40,000 Commander printings, Tales of Middle-earth Commander, and Kaldheim Commander. It is legal in Standard (still in rotation as of M21 window), Pioneer, Modern, Legacy, Vintage, Pauper, and Commander. EDHREC rank: 1069, reflecting high White-Blue Commander adoption. [Scryfall prints search, oracle ID 5d641bf6; EDHREC rank 1069 via Scryfall API]",
+      "sources": ["Scryfall prints search", "EDHREC rank 1069 via Scryfall API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Blossoming Sands", "set": "Core Set 2021", "note": "Cycle sibling: Green-White pair; in BBL corpus"},
+    {"name": "Rugged Highlands", "set": "Core Set 2021", "note": "Cycle sibling: Red-Green pair; in BBL corpus"},
+    {"name": "Wind-Scarred Crag", "set": "Core Set 2021", "note": "Cycle sibling: Red-White pair; in BBL corpus"},
+    {"name": "Thornwood Falls", "set": "Khans of Tarkir", "note": "Cycle sibling: Blue-Green pair, KTK debut set"},
+    {"name": "Dismal Backwater", "set": "Khans of Tarkir", "note": "Cycle sibling: Blue-Black pair, KTK debut set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

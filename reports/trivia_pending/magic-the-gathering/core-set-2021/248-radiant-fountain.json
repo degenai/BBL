@@ -1,0 +1,42 @@
+{
+  "card_name": "Radiant Fountain",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "248",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Radiant Fountain first appeared in Magic 2015 (M15, released July 2014), illustrated by Adam Paquette. It is a colorless-producing land with a 2-life enter trigger — unlike the ten gain lands in the Khans cycle, it produces only generic mana {C} rather than two colors, making it a mana-neutral land whose sole value is the life bonus. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "The flavor text reads: \"All peoples treasure a place where the weary traveler may drink in peace.\" — Ajani Goldmane. Ajani is a leonin (cat-person) planeswalker originating from Naya, the lush shard of Alara. He is one of Magic's earliest planeswalker card designs (Lorwyn, 2007) and a recurring figure associated with white-aligned healing, unity, and compassion. The quote fits a land that literally restores the player's life total. [Scryfall flavor_text field; CBR: 'Ajani Goldmane, the Leonin Planeswalker of Justice, Explained'; MTG Wiki: Ajani Goldmane via WebSearch snippet]",
+      "sources": ["Scryfall flavor_text", "CBR: Ajani Goldmane article (via WebSearch)", "MTG Wiki: Ajani Goldmane (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Radiant Fountain has only 4 total printings: Magic 2015 (M15, 2014), Iconic Masters (IMA, 2017), Core Set 2021 (M21, 2020), and Commander 2021 (C21, 2021). This makes it significantly less reprinted than the allied-pair gain lands from the KTK cycle, which have 17-19 printings each. All four printings use Adam Paquette's original art. [Scryfall prints search, oracle ID 6db442e5]",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Radiant Fountain is currently not legal in Standard (rotated out after M21 left the format) and not legal in Pioneer's base. It is legal in Historic, Modern, Legacy, Vintage, Commander, and Pauper Commander. EDHREC rank: 1603 — lower Commander adoption rate than the dual-producing gain lands, since producing only colorless mana is a real deck-building cost outside of colorless-matters strategies. [Scryfall legalities; EDHREC rank via Scryfall API]",
+      "sources": ["Scryfall legalities", "EDHREC rank 1603 via Scryfall API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Blossoming Sands", "set": "Core Set 2021", "note": "Cycle cousin: allied-pair gain land in same M21 printing block; in BBL corpus"},
+    {"name": "Tranquil Cove", "set": "Core Set 2021", "note": "Cycle cousin: White-Blue gain land in same M21 block; in BBL corpus"},
+    {"name": "Kabira Crossroads", "set": "Zendikar", "note": "Earlier colorless-producing gain land (produces White); ancestor design comparison"},
+    {"name": "Radiant Grove", "set": "Innistrad: Midnight Hunt Commander", "note": "Named 'Radiant' cycle member — possible loose thematic echo, different mechanic"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

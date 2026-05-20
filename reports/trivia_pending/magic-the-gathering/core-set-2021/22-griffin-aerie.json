@@ -1,0 +1,46 @@
+{
+  "card_name": "Griffin Aerie",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "22",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Uncommon enchantment from Core Set 2021 (released July 3, 2020), a Teferi-centered set. Plane-agnostic flavor text implies a generic fantasy setting, consistent with core set design convention.",
+      "sources": ["Scryfall", "WebSearch snippet: CardKingdom Blog Magic Core Sets Retrospective"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"When griffins started nesting atop the northern tower, the castellan worried they'd be a nuisance. Instead, they took the entire castle under their protection.\" — no speaker. Frames the mechanic as emergent mutualism: griffins get a roost, castle gets aerial defense.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "End-step trigger creates a 2/2 white Griffin flying token when you gained 3+ life that turn. EDHREC rank 5,015 — top-tier M21 uncommon Commander inclusion, appearing in ~25,100 decks across ~3.46M tracked Commander decks. Core in Ayli, Soul Sisters, and Lathiel lifegain strategies. Not legal in Pauper (uncommon, not common).",
+      "sources": ["Scryfall", "EDHREC: edhrec.com/cards/griffin-aerie (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rules clarification: the trigger checks gross life gained that turn, not net — life lost does not cancel life gained for the trigger. A player who gains 4 and loses 10 still triggers Griffin Aerie.",
+      "sources": ["Scryfall rulings / WebSearch snippet via mtgassist.com"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Milivoj Ćeran, Croatian professional fantasy illustrator based in Zaprešić with 93+ Magic cards to his credit (Gatherer). Maintains portfolio at mceran-art.com. No Hipsters of the Coast spotlight found for this card.",
+      "sources": ["Scryfall", "Gatherer artist listing", "WebSearch snippet via mceran-art.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Resplendent Angel", "set": "Core Set 2019", "note": "White flying token generator triggered by life gain — direct mechanical predecessor"},
+    {"name": "Righteous Valkyrie", "set": "Kaldheim", "note": "White Angel with life-gain payoff buff; shares lifegain-creates-flier design space"},
+    {"name": "Lathiel, the Bounteous Dawn", "set": "Commander Legends", "note": "Popular lifegain Commander that frequently runs Griffin Aerie as a token engine"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

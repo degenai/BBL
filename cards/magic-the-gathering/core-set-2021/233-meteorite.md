@@ -73,3 +73,15 @@ A large, irregularly shaped black-and-grey meteorite dominates the frame, sittin
 **Objects:** meteorite, crater, embers, rubble, scorched-earth
 **Genre cues:** fantasy, cosmic
 
+## Trivia
+
+- **Set context** — Meteorite was first printed in Magic 2015 (M15, July 2014) as an uncommon. By its Core Set 2021 appearance it had already been reprinted in Magic Origins (2015) and The List (2019). Rarity was later downgraded to common in Dominaria United (2022), making it legal in Pauper and Pauper Commander. [Scryfall prints search]
+- **Mechanical reputation** — At five mana, Meteorite is an expensive mana rock, but the enters-the-battlefield 2-damage shock gives it real limited-format relevance — two free damage to any target (creature or player) on arrival is a meaningful tempo lever. EDHREC rank of 15,098 reflects niche budget-Commander adoption as a five-color mana fixer with built-in upside. [Scryfall]
+- **Flavor text** — `"And if I'm lying," he began . . .` — [Scryfall]. The quote is deliberately incomplete, cut off by ellipsis. No speaker or context is identified on the card or in any Wizards story source. The implication reads as dark comedy: whatever catastrophe the unnamed figure was invoking as an oath of sincerity had apparently already occurred — the meteorite answered before the sentence could finish.
+- **Design** — Illustrated by Scott Murphy for M21. The art is a pure object study — smoldering crater, no figures — consistent with Meteorite's role as a game-plane-agnostic mana tool that needs no lore grounding to fit any set context. [Scryfall]
+
+### Related cards
+- Fellwar Stone (The Dark) — the 2-mana any-color rock that sets the efficiency bar Meteorite pays a premium over
+- Commander's Sphere (Commander 2013, no. 51) — same "mana fixer with a value exit" design space at 3 mana
+- Arcane Signet (Throne of Eldraine, no. 331) — the modern standard for 2-mana any-color fixing; context for why Meteorite's ETB damage justifies its higher cost
+

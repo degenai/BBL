@@ -1,0 +1,42 @@
+{
+  "card_name": "Watcher of the Spheres",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "227",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Uncommon Bird Wizard from Core Set 2021 (July 3, 2020). Previewed June 12, 2020, by Limited Resources host and commentator Marshall Sutcliffe via Twitter. No flavor text — mechanical complexity fills the text box.",
+      "sources": ["Scryfall preview field: source Marshall Sutcliffe, source_uri twitter.com/Marshall_LR/status/1271346641652420608"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Two-ability uncommon: reduces flying creature spell costs by {1} and gets +1/+1 until EOT whenever another creature with flying enters under your control. At {W}{U} for a 2/2 it scales fast in flying-heavy boards. EDHREC rank 4,303 — ~32,000 tracked Commander decks. Primary homes: Alela, Artful Provocateur; Kangee, Sky Warden; Choco, Seeker of Paradise.",
+      "sources": ["Scryfall", "EDHREC: edhrec.com/cards/watcher-of-the-spheres (via WebSearch snippet)", "WebSearch snippet: mtgbudgetcommander.com flying tribal guide"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pauper EDH (PDH) note: as a multicolor uncommon, Watcher of the Spheres is eligible as a PDH commander. A 'High Power PDH' build around it exists on Tappedout, positioning it as a flying-tribal cost-reducer at the helm.",
+      "sources": ["Tappedout.net: 'Watcher of the Spheres - High Power PDH' (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Art by G-host Lee, a digital artist with ~20 Magic cards (Gatherer). Work also includes Mu Yanling, Sky Dancer (Core Set 2020). No Hipsters of the Coast spotlight found for G-host Lee.",
+      "sources": ["Scryfall", "Gatherer artist listing", "WebSearch snippet via artofmtg.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Warden of Evos Isle", "set": "Magic 2014", "note": "Direct functional predecessor — white Bird that reduces flying creature costs"},
+    {"name": "Kangee, Sky Warden", "set": "Commander Legends: Battle for Baldur's Gate", "note": "Primary Bird tribal commander that runs Watcher of the Spheres"},
+    {"name": "Alela, Artful Provocateur", "set": "Throne of Eldraine", "note": "Esper flying commander; one of Watcher's most common EDH homes"},
+    {"name": "Favorable Winds", "set": "Ixalan / multiple", "note": "Flying anthem enchantment; frequent companion in flying tribal builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

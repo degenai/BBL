@@ -1,0 +1,42 @@
+{
+  "card_name": "Short Sword",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "236",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Sometimes the only difference between a martyr and a hero is a sword.\" — Captain Sisay, Memoirs [Scryfall]. Captain Sisay is a major figure in Dominaria's Weatherlight Saga — the Zhalfirin captain of the legendary skyship Weatherlight, tasked with gathering the Legacy artifacts needed to defeat the Phyrexian god Yawgmoth. She was captured by Volrath (the Phyrexian-controlled evincar of Rath) and later rescued. She survived the Invasion block storyline. The attribution to her 'Memoirs' implies the quote is retrospective — written after the events of the Weatherlight Saga. [Scryfall; MTG Wiki Sisay page, via WebSearch]",
+      "sources": ["Scryfall", "MTG Wiki (mtg.wiki/page/Sisay), via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Short Sword is a common Equipment first printed in Dominaria (April 2018) — a set built around the plane's legendary-creature-dense history. It was reprinted in The List (2019) and Core Set 2021. The Dominaria printing's flavor text and the M21 printing share the same Captain Sisay quote, grounding the card's thematic identity in Dominaria's hero mythology. Short Sword is pauper-legal and Pauper Commander-legal across all three printings. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Short Sword is a one-mana Equipment that grants +1/+1 for one mana equip cost — one of the most efficient stat-to-mana-cost ratios among Equipment in the game. EDHREC rank of 16,173 reflects modest but real Commander adoption, primarily in low-to-the-ground Voltron and creature-synergy builds where equip cost matters. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by John Severin Brassell — depicting the sword displayed point-up before a stained-glass window in a chapel setting. The sacred-object framing elevates a mechanically simple +1/+1 Equipment into something iconographic. Brassell is a recurring MTG artist known for atmospheric object studies and architectural interiors. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Captain Sisay", "set": "Invasion", "note": "The flavor text speaker; legendary Weatherlight captain and Commander-staple who tutors for legendary permanents"},
+    {"name": "Sisay, Weatherlight Captain", "set": "Modern Horizons", "note": "Updated version of Sisay with a five-color legendary tutor mechanic"},
+    {"name": "Bonesplitter", "set": "Mirrodin", "note": "1-mana Equipment that grants +2/+0 for 1 equip — the design-space peer that trades toughness for more attack"},
+    {"name": "Flayer Husk", "set": "Mirrodin Besieged", "note": "0-mana Equipment for 1 equip on a germ token — comparable bottom-of-curve Equipment design"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

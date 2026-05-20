@@ -77,3 +77,15 @@ A knight in gleaming golden plate armor sits astride a rearing white pegasus, it
 **Iconography:** lance, plate-armor, winged-mount
 **Genre cues:** fantasy, high-fantasy, chivalric
 
+## Trivia
+
+- **Flavor text** — `"My lance was once wielded by Venerable Tarrian. In his name and by his might, I cast you down!"` [Scryfall]. Venerable Tarrian is a historical figure in Ixalan lore — a traveler who accompanied Saint Elenda and wrote foundational texts later suppressed by the Church of Dusk for their reverent treatment of the vampire god Aclazotz. Declared a heretic by the church but venerated as a martyr by radical vampire sects, his lance passed to Vito Quijano de Pasamonte. The unnamed knight in the card art is invoking Tarrian's sacred lance as divine authority mid-charge. [Scryfall; MTG Wiki "List of secondary characters/Ixalan," via WebSearch]
+- **Set context** — First printed in Ixalan (September 2017), set on a Mesoamerican-inspired plane where the Sun Empire's dinosaur-riding warriors and the Church of Dusk's vampires were in open conflict. The destroy-power-4-or-greater mechanic fits the Sun Empire's tactical doctrine: cut down the largest threat first. Reprinted once, in Core Set 2021. [Scryfall prints search]
+- **Mechanical reputation** — Destroys any creature with power 4 or greater for 3 mana at sorcery speed. Deliberately misses small creatures — a limited-format design that rewards going wide. EDHREC rank of 21,706 reflects minimal Commander adoption; unconditional white removal (Swords to Plowshares, Path to Exile) is preferred there. Value is concentrated in limited and Pauper formats where the power-4 floor creates meaningful game states. [Scryfall]
+- **Design** — Art by Lucas Graciano. The knight-on-pegasus-vs-dragon composition follows a classical chivalric-charge convention with no terrain grounding the scene — both combatants hanging in open sky — which amplifies the mythic register of the Tarrian invocation. [Scryfall]
+
+### Related cards
+- Tarrian's Journal (The Lost Caverns of Ixalan, no. 126) — legendary artifact named for Venerable Tarrian, whose lance is the relic invoked in this card's flavor text
+- Vito, Thorn of the Dusk Rose (Core Set 2021, no. 127) — vampire cleric who in Ixalan lore carried Tarrian's lance and journal; shares this set
+- Swords to Plowshares (Alpha, no. 236) — the white removal benchmark; Legion's Judgment occupies the large-creature-specific slot below it
+

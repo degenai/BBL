@@ -72,3 +72,16 @@ A wide landscape painting: in the background, towering grey-blue mountain peaks 
 **Objects:** lake, river, mountain-peaks, evergreen-trees
 **Genre cues:** fantasy, naturalism, landscape
 
+## Trivia
+
+- **Cycle origin and clan context** — Rugged Highlands is the Red-Green member of the ten-card gain-land cycle that debuted in Khans of Tarkir (September 2014). In that set, Red-Green is the color identity of the Temur Frontier clan — nomadic shamans and warriors who inhabit the harsh highland wilderness of Tarkir — a direct thematic fit for the card's alpine lake composition. `[Scryfall; MTG Wiki: Khans of Tarkir, via WebSearch snippet]`
+- **Two distinct artworks** — Rugged Highlands has two separate Eytan Zana illustrations. The M21 copy carries the original KTK artwork (Scryfall illustration ID b3474e03 — the daytime alpine-lake composition). Fate Reforged (2015) introduced a second Zana piece (ID 4297b8ca) that became the basis for most subsequent reprints including Eternal Masters, Commander 2016 and 2019, Core Set 2020, and Duel Decks: Mind vs. Might. The original KTK composition reappeared in M21 (2020) and again in Foundations (2024). `[Scryfall illustration_id data]`
+- **Artist** — Eytan Zana is a digital concept artist who debuted in Magic with Innistrad (2011) and has approximately 47 card credits. He has contributed full-art basic Mountains and multiple Commander-product lands. No dedicated Hipsters of the Coast artist spotlight was found for Zana. `[MTG Artist Connection: Eytan Zana, via WebSearch; Gatherer]`
+- **Reprint history and format role** — 17 total printings as of Tarkir: Dragonstorm (2025), including Warhammer 40,000 Commander (2022) and March of the Machine (2023). Legal in Pauper, Pauper Commander, Pioneer, Modern, Legacy, Vintage, and Commander. EDHREC rank: 1343. `[Scryfall prints search, oracle ID 6c922206; EDHREC rank 1343 via Scryfall API]`
+
+### Related cards
+- Blossoming Sands (Core Set 2021, no. 244) — cycle sibling: Green-White pair; in BBL corpus
+- Tranquil Cove (Core Set 2021, no. 258) — cycle sibling: White-Blue pair; in BBL corpus
+- Wind-Scarred Crag (Core Set 2021, no. 259) — cycle sibling: Red-White pair; also Eytan Zana art; in BBL corpus
+- Swiftwater Cliffs (Khans of Tarkir) — cycle sibling: Blue-Red pair, KTK debut set
+- Jungle Hollow (Khans of Tarkir) — cycle sibling: Black-Green pair, KTK debut set

@@ -1,0 +1,41 @@
+{
+  "card_name": "Forgotten Sentinel",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "231",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Colorless common Artifact Creature — Golem from Core Set 2021 (July 3, 2020). Previewed June 16, 2020, by Wizards of the Coast directly. Fills the draft format's colorless splash slot — core sets historically include at least one colorless artifact creature common for this purpose.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It was built to withstand the ages, but no one remembers who built it or why it keeps its eternal watch.\" — no speaker. The amnesia theme mirrors the card's mechanical purpose: a generic draft body with no plane-specific identity, just as the golem has no known creator or mission.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "4/3 Golem for four colorless mana, enters tapped. Draft chassis: reasonable body any deck can splash, held back by enters-tapped to prevent aggressive use. EDHREC rank 29,136 — near bottom of tracked cards, consistent with draft filler that sees no meaningful Commander play. Legal in Pauper, Paupercommander, Pioneer, Modern, Legacy, Vintage.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Joe Slucher, freelance illustrator with Magic credits. Texture-heavy, naturalist creature style — the weathered rust-and-moss golem is characteristic of his approach. No Hipsters of the Coast spotlight found for this card or artist.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Stone Golem", "set": "Core Set 2019", "note": "Direct thematic predecessor — M19 draft-filler golem, white 4/4 for five mana"},
+    {"name": "Ornithopter", "set": "Alpha / multiple", "note": "Canonical colorless artifact creature benchmark; contextualizes the colorless-draft-slot spectrum"},
+    {"name": "Phyrexian Revoker", "set": "multiple", "note": "Colorless artifact creature with draft utility; comparable 'any deck can play this' slot"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

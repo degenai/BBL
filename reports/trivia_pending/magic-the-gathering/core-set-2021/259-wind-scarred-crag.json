@@ -1,0 +1,43 @@
+{
+  "card_name": "Wind-Scarred Crag",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "259",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Wind-Scarred Crag is the Red-White member of the ten-card gain-land cycle that debuted in Khans of Tarkir (September 2014). Red-White is the color identity of the Mardu Horde clan — aggressive warriors and raiders who travel by mount across the open steppes and rocky crags of Tarkir. The card's tattered banners in the foreground art directly evoke Mardu imagery: traveling war-standards whipping in wind as the Horde crosses exposed terrain. [Scryfall; MTG Wiki: Khans of Tarkir via WebSearch snippet]",
+      "sources": ["Scryfall", "MTG Wiki: Khans of Tarkir (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Wind-Scarred Crag has two distinct Eytan Zana artworks. The M21 copy (illustration ID bc616a7c) is the original KTK piece — the sunset mountain vista with tattered banners — also used in Commander 2015, Commander Anthology Volume II, and the Commander Legends (2020) printing. A second Zana illustration (ID 145dafc8) debuted in Commander 2015 concurrently and was used in Commander 2017, Eternal Masters, Commander 2019, and Core Set 2020. [Scryfall illustration_id data]",
+      "sources": ["Scryfall illustration_id data"]
+    },
+    {
+      "category": "design",
+      "text": "Wind-Scarred Crag and Rugged Highlands are the only two cards in this BBL batch illustrated by Eytan Zana in their M21 versions, and both carry the original KTK compositions. Together they suggest a consistent visual philosophy for Tarkir's Temur (RG) and Mardu (RW) territories: alpine wilderness vs. wind-scoured crags — environmental portrait-as-faction-identity, common in Tarkir's art direction. [Scryfall illustration_id data]",
+      "sources": ["Scryfall illustration_id data"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Wind-Scarred Crag has 18 total printings as of Tarkir: Dragonstorm (2025), including Tales of Middle-earth Commander, Commander Legends, and Throne of Eldraine. Legal in Standard, Pioneer, Modern, Legacy, Vintage, Pauper, Pauper Commander, and Commander. EDHREC rank: 989 — the highest EDHREC adoption among the five M21 gain lands in this BBL batch, reflecting that Boros (Red-White) is one of the most-built Commander color pairs. [Scryfall prints search, oracle ID b0af0c54; EDHREC rank 989 via Scryfall API]",
+      "sources": ["Scryfall prints search", "EDHREC rank 989 via Scryfall API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Blossoming Sands", "set": "Core Set 2021", "note": "Cycle sibling: Green-White pair; in BBL corpus"},
+    {"name": "Rugged Highlands", "set": "Core Set 2021", "note": "Cycle sibling: Red-Green pair; also Eytan Zana art; in BBL corpus"},
+    {"name": "Tranquil Cove", "set": "Core Set 2021", "note": "Cycle sibling: White-Blue pair; in BBL corpus"},
+    {"name": "Bloodfell Caves", "set": "Khans of Tarkir", "note": "Cycle sibling: Black-Red pair, KTK debut; completes the Mardu color cluster"},
+    {"name": "Sacred Foundry", "set": "Ravnica", "note": "The premium Red-White dual; Wind-Scarred Crag is the budget pauper-legal stand-in for the same pair"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

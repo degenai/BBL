@@ -1,0 +1,42 @@
+{
+  "card_name": "Mazemind Tome",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "232",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mazemind Tome is a rare artifact from Core Set 2021 (M21), released July 3, 2020 — a standalone core set not tied to any specific plane or story arc. Core sets in this era served as accessible entry points, featuring mechanically clean designs. The Tome's page-counter accumulation mechanic (scry 1 free, draw a card for 2 mana, exile for 4 life after 4 counters) is a self-limiting card-advantage engine purpose-built for Standard environments. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Mazemind Tome was Randy Gallegos's original design painted in 2019, released in M21 2020. For The Brothers' War Retro Frame Artifacts release (November 2022), art director Sarah Wassell commissioned Gallegos to re-illustrate it in schematic format. Gallegos described the challenge as creating something 'not so much a re-creation, but a pre-creation' — ghosting a mage figure into the composition and designing the art to look like a page from an aged personal notebook, complete with aged creases and tears. The glowing maze on the cover was reproduced in 22k gold leaf in the schematic version. [Randy Gallegos artist website, via WebSearch]",
+      "sources": ["Randy Gallegos artist website (gallegosart.com), via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mazemind Tome saw significant competitive play in Standard 2020-2021 and has accumulated an EDHREC rank of 6,465 — placing it among the more-played artifacts in Commander. Its combination of free scry and paid draw on the same permanent, with a life-gain exit clause, made it a go-to colorless card-advantage piece in midrange and control shells that lacked blue draw. [Scryfall EDHREC rank; TCGPlayer article 'The Right Way to Build Around Mazemind Tome', via WebSearch]",
+      "sources": ["Scryfall", "TCGPlayer article via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Mazemind Tome has been reprinted multiple times: The List (August 2023), Commander Masters (August 2023), The Brothers' War Retro Artifacts (November 2022, in three schematic variants), and Foundations (November 2024) — an unusually dense reprint schedule for a card less than five years old, indicating Wizards considers it a high-visibility evergreen artifact. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Jayemdae Tome", "set": "Alpha", "note": "The original tome-as-draw-engine in MTG history; Mazemind Tome is widely seen as a spiritual successor"},
+    {"name": "Scrying Sheets", "set": "Coldsnap", "note": "Another artifact built around scry/card filtering as its core loop"},
+    {"name": "The Celestus", "set": "Innistrad: Midnight Hunt", "note": "Similar self-limiting artifact with a counter-accumulation draw engine"},
+    {"name": "Mazemind Tome (Schematic)", "set": "The Brothers' War Retro Artifacts", "note": "Alternate-art schematic version with Randy Gallegos's commentary on the ghosted-mage redesign"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

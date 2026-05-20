@@ -77,3 +77,14 @@ A massive humanoid golem dominates the frame, its body a patchwork of grey stone
 **Creatures:** golem, goblin
 **Genre cues:** fantasy, high-fantasy, ruins
 
+## Trivia
+
+- **Set context** — Forgotten Sentinel is a colorless common Artifact Creature — Golem from Core Set 2021, released July 3, 2020. It was previewed June 16, 2020, by Wizards of the Coast directly (source_uri empty in Scryfall, indicating an internal WotC preview). Core sets historically include at least one colorless artifact creature at common to anchor the draft format's colorless-splash slot; Forgotten Sentinel fills that role in M21 alongside the rest of the artifact suite. `[Scryfall]`
+- **Flavor text** — `"It was built to withstand the ages, but no one remembers who built it or why it keeps its eternal watch."` — no speaker attributed. The line doubles as design intent: the card exists to be a generic draft body with no plane-specific identity, just as the golem itself exists with no known creator or mission. The flavor text's amnesia theme mirrors the golem's mechanical purpose — it is simply a 4/3 wall that enters tapped, nothing more and nothing less. `[Scryfall]`
+- **Mechanical profile** — A 4/3 Artifact Creature — Golem that costs four colorless mana and enters tapped. This is a well-established core-set draft chassis: a reasonable body for four mana that any deck can play, held back by the enters-tapped downside to prevent it from being aggressive. It is legal in Pauper, Paupercommander, Pioneer, Modern, Legacy, and Vintage. EDHREC rank is 29,136 — near the bottom of tracked Commander cards, consistent with a draft filler that sees no meaningful Commander play. `[Scryfall]`
+- **Artist** — Art by Joe Slucher, a freelance illustrator who has contributed to Magic and other games. Slucher's work tends toward creature and monster illustration with a texture-heavy, naturalist style; the weathered, rust-and-moss golem in this card is characteristic of his approach. No Hipsters of the Coast spotlight found for this card or artist. `[Scryfall]`
+
+### Related cards
+- Ornithopter (Alpha / multiple) — the canonical zero-cost colorless artifact creature benchmark; helps contextualize where Forgotten Sentinel sits in the colorless draft slot spectrum
+- Stone Golem (Core Set 2019) — white 4/4 Golem for five mana from the prior M19 core set; direct thematic predecessor as a draft-filler golem
+- Phyrexian Revoker (multiple) — colorless artifact creature with draft utility; comparable role in the "any deck can play this" colorless slot

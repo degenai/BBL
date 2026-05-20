@@ -1,0 +1,41 @@
+{
+  "card_name": "Meteorite",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "233",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Meteorite was first printed in Magic 2015 (M15, July 2014) as an uncommon artifact. By Core Set 2021 it had appeared in four separate sets: Magic 2015, Magic Origins (2015), The List (2019), and M21 — making it one of the more frequently reprinted mana-fixing artifacts in core set history. Its uncommon rarity in M21 was later downgraded to common in Dominaria United (2022). [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Meteorite functions as a five-mana artifact that combines an enters-the-battlefield 2-damage shock with a tap-for-any-color mana ability. At 5 mana it is expensive for a mana rock, but the ETB damage makes it relevant in limited formats where two free damage to any target — creature or player — has real utility. It is legal in Pauper and Pauper Commander (at common rarity in Dominaria United), and carries an EDHREC rank of 15,098, reflecting niche but real Commander adoption as a budget five-color mana fixer. [Scryfall; EDHREC via Scryfall link]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"And if I'm lying,\" he began . . . [Scryfall] — The quote is deliberately left incomplete, the ellipsis cutting off whatever oath or threat the unnamed speaker was swearing. The speaker and the context are not identified on the card or in any Wizards story article indexed by search. The truncated sentence is the joke: whatever catastrophe the speaker was about to invoke as proof of their sincerity has, apparently, already happened — the meteorite answered the oath before it could be finished.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Meteorite was illustrated by Scott Murphy for M21. The card has no Wizards-published design commentary available in indexed sources. The art depicts a pure object study — a smoldering impact crater with no figures — which is consistent with its role as a colorless, game-plane-agnostic mana-fixing tool that can slot into any set or story context without requiring lore grounding. [Scryfall; Vision pass]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fellwar Stone", "set": "The Dark", "note": "Classic 2-mana any-color rock; the high-efficiency comparator that makes Meteorite's 5-mana cost look steep"},
+    {"name": "Commander's Sphere", "set": "Commander 2013", "note": "3-mana any-color rock with a sacrifice-for-draw clause; same 'mana fixer with an exit valve' design space"},
+    {"name": "Pristine Talisman", "set": "New Phyrexia", "note": "5-mana artifact that adds colorless mana and gains 1 life on tap; design-space peer at the same slot"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

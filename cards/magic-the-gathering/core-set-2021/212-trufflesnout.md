@@ -77,3 +77,14 @@ A bristly, broad-shouldered wild boar with prominent curved tusks and a striped,
 **Food/drink:** mushrooms, truffles
 **Genre cues:** fantasy, naturalist
 
+## Trivia
+
+- **Set context** — Trufflesnout was previewed June 11, 2020, via a Wizards of the Coast article explicitly titled as a Selesnya signpost card for Core Set 2021 Limited — designating it as a marker that signals to drafters "you are in green-white." Core sets use signpost uncommons to orient draft, but Trufflesnout is a common, suggesting it was featured as a thematic anchor for the Selesnya color pair's life-gain-and-go-wide strategy at lower rarity. Released July 3, 2020. `[Scryfall preview field: source "Wizards of the Coast", source_uri magic.wizards.com/en/articles/archive/card-preview/signpost-selesnya-2020-06-11]`
+- **Flavor text** — `"Its exploits are the stuff of legends among local chefs and fuel for nightmares among the forest thallids."` — no speaker attributed. The "forest thallids" reference is notable: thallids are a fungus-based creature type originating in Fallen Empires (1994), created in MTG lore by the druid Thelon of Havenwood to feed the elves of Sarpadia. They eventually gained sentience, revolted against their elvish farmers, and came to dominate the ruins of Havenwood. A truffle-hunting boar is, in that context, a direct ecological threat — the boar roots up and eats the fungal organisms that are thallid ancestors or kin. `[Scryfall]` `[MTGSalvation: "A Brief History of Dominaria's Thallids"; WebSearch snippet via mtgsalvation.com]`
+- **Mechanical profile** — A 2/2 Boar for three mana with a modal enters-the-battlefield trigger: grow (put a +1/+1 counter on it, making it a 3/3) or heal (gain 4 life). The modal choice makes it clean draft fodder — it serves either an aggro deck needing a 3/3 body or a lifegain deck needing fuel. EDHREC rank is 23,159, consistent with a draft-role common that rarely escapes to 60-card or Commander play. Legal in Pauper and Paupercommander. `[Scryfall]`
+- **Artist** — Art by Jason Kang. Kang has contributed to multiple Magic sets; no Hipsters artist spotlight found for this card or artist at time of research. `[Scryfall]`
+
+### Related cards
+- Thallid (Fallen Empires) — the MTG fungus creature type name-dropped in Trufflesnout's flavor text; starting point for thallid lore
+- Thelon of Havenwood (Time Spiral) — the druid who created thallids in MTG canon; relevant lore figure for the flavor text reference
+- Tusked Mammoth (Core Set 2021) — another M21 green common beast; shares the naturalist creature-art aesthetic in the same set's draft environment

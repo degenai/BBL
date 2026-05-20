@@ -1,0 +1,43 @@
+{
+  "card_name": "Rugged Highlands",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "249",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rugged Highlands is the Red-Green member of the ten-card gain-land cycle that debuted in Khans of Tarkir (September 2014). In that set, the Red-Green color pair is associated with the Temur Frontier clan, nomadic shamans and warriors who live in the harsh highland terrain of Tarkir — a thematic match for the card's alpine landscape art. [Scryfall; MTG Wiki: Khans of Tarkir via WebSearch snippet]",
+      "sources": ["Scryfall", "MTG Wiki: Khans of Tarkir (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Rugged Highlands has two distinct Eytan Zana artworks. The KTK original (illustration ID b3474e03) is the 'daytime alpine lake' composition used on the M21 copy. The Fate Reforged printing (2015) used a different Zana illustration (ID 4297b8ca) — a separate piece also depicting mountain terrain — that became the basis for the majority of subsequent reprints including EMA, C16, M20, and C19. The M21 and Foundations (2024) printings are the only post-KTK prints to reuse the original KTK composition. [Scryfall illustration_id data]",
+      "sources": ["Scryfall illustration_id data"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Eytan Zana is a digital concept artist who, per MtgArtistConnection and Gatherer data, debuted in Magic with the Innistrad set (2011) and has credits on approximately 47 Magic cards. He has painted full-art basic Mountains and contributed to multiple Commander products. No Hipsters of the Coast artist spotlight was found for Zana. [MTG Artist Connection: Eytan Zana; Gatherer (via WebSearch snippet)]",
+      "sources": ["MTG Artist Connection: Eytan Zana (via WebSearch snippet)", "Gatherer"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rugged Highlands has 17 total printings, including Warhammer 40,000 Commander (2022), March of the Machine (2023), and Tarkir: Dragonstorm (2025). It is legal in Pauper, Pauper Commander, Pioneer, Modern, Legacy, Vintage, and Commander. EDHREC rank: 1343, higher adoption than Radiant Fountain but lower than the White-Blue Tranquil Cove, reflecting the relative Commander popularity of Gruul (Red-Green) strategies. [Scryfall prints search; EDHREC rank 1343 via Scryfall API]",
+      "sources": ["Scryfall prints search", "EDHREC rank 1343 via Scryfall API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Blossoming Sands", "set": "Core Set 2021", "note": "Cycle sibling: Green-White pair; in BBL corpus"},
+    {"name": "Tranquil Cove", "set": "Core Set 2021", "note": "Cycle sibling: White-Blue pair; in BBL corpus"},
+    {"name": "Wind-Scarred Crag", "set": "Core Set 2021", "note": "Cycle sibling: Red-White pair; also Eytan Zana art; in BBL corpus"},
+    {"name": "Swiftwater Cliffs", "set": "Khans of Tarkir", "note": "Cycle sibling: Blue-Red pair, KTK original cycle"},
+    {"name": "Jungle Hollow", "set": "Khans of Tarkir", "note": "Cycle sibling: Black-Green pair, KTK original cycle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

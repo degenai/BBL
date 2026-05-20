@@ -1,0 +1,43 @@
+{
+  "card_name": "Blossoming Sands",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "244",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Blossoming Sands is part of the ten-card 'gain land' cycle that debuted in Khans of Tarkir (2014), covering all five allied and five enemy color pairs. The cycle was a functional expansion of the earlier five-card 'Refuge' cycle from Zendikar (2009), which only covered allied color pairs. Khans was the first set to complete the full ten-land gain-land suite. [MTG Wiki: Tapland, via WebSearch snippet]",
+      "sources": ["MTG Wiki: Tapland (via WebSearch snippet)", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The M21 printing carries the original Khans of Tarkir artwork by Sam Burley (illustration ID 0e1ebbaa), the same illustration used for the Commander 2017 reprint. Burley served as Magic's in-house concept artist at Wizards of the Coast for roughly five years before leaving to freelance in 2018; over half of his roughly 80 Magic cards are basic or nonbasic lands. [Hipsters of the Coast: 'Sam Burley Talks About His Theros Beyond Death Lands', 2020]",
+      "sources": ["Hipsters of the Coast: Sam Burley THB Lands article (2020)", "Scryfall illustration_id data"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Blossoming Sands is legal in Pauper and Pauper Commander, where gain lands function as the primary budget dual-land option for two-color mana fixing. The 1-life bonus partially offsets the tempo loss from entering tapped, making the cycle more durable in attrition-heavy formats than simple taplands that gain nothing. EDHREC rank: 1059 (common), indicating broad Commander adoption. [Scryfall legalities; EDHREC rank via Scryfall API]",
+      "sources": ["Scryfall", "EDHREC rank 1059 via Scryfall API"]
+    },
+    {
+      "category": "design",
+      "text": "As of Tarkir: Dragonstorm (2025), Blossoming Sands has been printed 17 times across sets including Commander precons, Masters sets (Eternal Masters, 2016), Ikoria, Kamigawa: Neon Dynasty, March of the Machine, Bloomburrow, Foundations, and Aetherdrift. Its near-constant reprint cadence reflects Wizards' policy of seeding cheap mana-fixing into every format's accessible card pool. [Scryfall prints search]",
+      "sources": ["Scryfall prints search"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tranquil Cove", "set": "Core Set 2021", "note": "Same gain-land cycle; White-Blue pair; also in BBL corpus (M21 no. 258)"},
+    {"name": "Wind-Scarred Crag", "set": "Core Set 2021", "note": "Same gain-land cycle; Red-White pair; also in BBL corpus (M21 no. 259)"},
+    {"name": "Rugged Highlands", "set": "Core Set 2021", "note": "Same gain-land cycle; Red-Green pair; also in BBL corpus (M21 no. 249)"},
+    {"name": "Jungle Hollow", "set": "Khans of Tarkir", "note": "Cycle sibling: Black-Green gain land, debuted KTK"},
+    {"name": "Graypelt Refuge", "set": "Zendikar", "note": "The original Green-White gain land; the Refuge cycle that the KTK cycle expanded upon"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

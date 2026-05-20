@@ -1,0 +1,42 @@
+{
+  "card_name": "Legion's Judgment",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "24",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"My lance was once wielded by Venerable Tarrian. In his name and by his might, I cast you down!\" [Scryfall]. Venerable Tarrian is a historical figure in Ixalan's lore — a traveler who accompanied Saint Elenda and wrote the foundational texts later suppressed by the Church of Dusk on Ixalan. He was declared a heretic by the church for his writings on the vampire god Aclazotz, but venerated as a holy martyr by radical sects. His lance passed to Vito Quijano de Pasamonte, a vampire cleric who carried both the lance and Tarrian's journal. The unnamed knight in the card art is invoking Tarrian as a sacred forerunner. [Scryfall; MTG Wiki 'List of secondary characters/Ixalan', via WebSearch]",
+      "sources": ["Scryfall", "MTG Wiki List of secondary characters/Ixalan, via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Legion's Judgment was first printed in Ixalan (September 2017) — the Mesoamerican-inspired plane where the Sun Empire's dinosaur-riding knights and the Church of Dusk's vampires clashed. The card's mechanic (destroy creature with power 4 or greater) fits the Sun Empire's combat doctrine of cutting down the largest threats. It was reprinted in Core Set 2021 as a common white removal piece. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legion's Judgment destroys any creature with power 4 or greater for three mana (2W) at sorcery speed. It answers large threats cleanly but misses small creatures entirely — a deliberate limited-format design that rewards opponents for going wide with small creatures. EDHREC rank of 21,706 places it near the bottom of Commander adoption; in Commander, unconditional removal (Swords to Plowshares, Path to Exile) is preferred. Its value is concentrated in limited and Pauper formats where the power-4 floor is a real constraint. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Lucas Graciano — depicting a golden-armored knight on a rearing white pegasus charging with a couched lance toward a massive purple dragon-beast. Graciano is a prolific MTG artist with a strong portfolio of figurative heroic scenes. The composition follows a classical chivalric-charge convention, no terrain grounding the duel — knight and monster hanging in open sky — which emphasizes the elevated, almost mythic register of the Tarrian invocation in the flavor text. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tarrian's Journal", "set": "The Lost Caverns of Ixalan", "note": "Legendary artifact named directly for Venerable Tarrian, whose lance is invoked in Legion's Judgment flavor text"},
+    {"name": "Vito, Thorn of the Dusk Rose", "set": "Core Set 2021", "note": "Vampire cleric who in lore carries Tarrian's lance; shares the set with this card"},
+    {"name": "Swords to Plowshares", "set": "Alpha", "note": "The white removal benchmark; Legion's Judgment is a strictly conditional version addressing the large-creature slot"},
+    {"name": "Luminous Bonds", "set": "Rivals of Ixalan", "note": "Another white removal piece from the Ixalan block, same era and setting as the card's first printing"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

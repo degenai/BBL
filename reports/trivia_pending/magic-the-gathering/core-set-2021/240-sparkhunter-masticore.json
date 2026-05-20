@@ -1,0 +1,42 @@
+{
+  "card_name": "Sparkhunter Masticore",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "240",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Masticore is a creature type coined in Urza's Destiny (1999) for metallic lion-like artifact creatures — the name derives from 'masticate' (to chew). The original Masticore was a format-defining card in Standard-era Urza block. Sparkhunter Masticore is the fifth named variant in the lineage, following Masticore (Urza's Destiny), Razormane Masticore (Fifth Dawn), Molten-Tail Masticore (Scars of Mirrodin), and Lesser Masticore (Modern Horizons). All Masticores require a discard as part of their casting or upkeep cost — a design signature of the type. [MTG Wiki 'Masticore' page, via WebSearch; Scryfall]",
+      "sources": ["MTG Wiki via WebSearch", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Sparkhunter Masticore is the first Masticore designed as explicit planeswalker hate: it has protection from planeswalkers, can deal 1 damage to any planeswalker for 1 mana, and can gain indestructible for 3 mana. As a colorless 3/4 for three mana (with a discard cost), it fits into any deck as a sideboard piece against planeswalker-heavy strategies. Per coverage at Dot Esports (June 2020) and Star City Games, it was considered a solid sideboard card across nearly every archetype except aggressive decks where discarding a card mid-game is too steep a tempo loss. EDHREC rank of 24,516 indicates minimal Commander traction — in Commander, planeswalkers are less dominant, reducing the hate's value. [Scryfall; Dot Esports 'M21 spoiler Sparkhunter Masticore marks MTG planeswalkers as the enemy,' via WebSearch; SCG via WebSearch]",
+      "sources": ["Scryfall", "Dot Esports via WebSearch", "Star City Games via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Sparkhunter Masticore is a first printing — no reprints as of M21's release — introduced specifically for the M21 Standard environment in which Teferi, Time Raveler and other planeswalkers were defining the format. The card previewed via a Wizards of the Coast Twitch stream on June 5, 2020. Art by Randy Vargas — a prolific MTG artist whose work frequently depicts artifact creatures in dramatic environmental settings. [Scryfall; Scryfall preview source field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The discard-to-cast clause is the defining design constraint on all Masticores — a callback to the original 1999 card's upkeep discard. For Sparkhunter, discarding a card at cast-time means it can never be a turn-one or top-decked-from-an-empty-hand play; it requires the player to have a surplus card in hand, gating it behind a real resource cost. This makes it a sideboard piece rather than a main-deck stable even when planeswalkers are dominant. [Scryfall; MTG Wiki 'Masticore' via WebSearch]",
+      "sources": ["Scryfall", "MTG Wiki via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Masticore", "set": "Urza's Destiny", "note": "The original 1999 Masticore that coined the creature type; all subsequent Masticores carry its discard-cost design signature"},
+    {"name": "Razormane Masticore", "set": "Fifth Dawn", "note": "Second named Masticore; upkeep-triggered removal ability"},
+    {"name": "Lesser Masticore", "set": "Modern Horizons", "note": "Pauper-legal Masticore variant, lowest in the lineage by stat line"},
+    {"name": "Teferi, Time Raveler", "set": "War of the Spark", "note": "The dominant planeswalker in the M21 Standard environment that Sparkhunter was designed to answer"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
