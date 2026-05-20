@@ -267,9 +267,9 @@ def surgical_update_existing(path: Path, row: dict, price_col: str | None,
     text = path.read_text(encoding="utf-8")
 
     updates = {
-        "name": row.get(COL_NAME, "").strip(),
+        "name": yaml_safe_scalar(row.get(COL_NAME, "").strip()),
         "game": row.get(COL_CATEGORY, "").strip(),
-        "set": canonical_set_name(row.get(COL_SET, "")).strip(),
+        "set": yaml_safe_scalar(canonical_set_name(row.get(COL_SET, "")).strip()),
         "collector_number": row.get(COL_NUMBER, "").strip(),
         "rarity": row.get(COL_RARITY, "").strip(),
         "variance": row.get(COL_VARIANCE, "").strip() or DEFAULT_VARIANCE,

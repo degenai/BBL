@@ -1,0 +1,56 @@
+{
+  "triage_item_slug": "oracle-text-flavor-text-source-fix-pending",
+  "patient_files": [
+    "researchbot.py",
+    "csv2mdbot.py",
+    "bbl_schema.py",
+    "reports/_scratch/janny_yaml_repair_round2.py"
+  ],
+  "diagnosis": {
+    "whats_wrong": "Triage entry says source fix still pending but researchbot.py already has the fix in place. _flatten_for_frontmatter() at line 398 converts real newlines to literal backslash-n characters; update_frontmatter_field() at line 246 uses a lambda callable preventing re.sub from re-expanding those literals. Together they produce valid single-line YAML scalars on all future --prepare-only runs. Corpus was repaired wave 127 at 0 broken files. The entry is stale.",
+    "why_it_happened": "The wave-108 lambda callable fix to researchbot.update_frontmatter_field() was sufficient. The triage entry was written around the wave-127 corpus-repair event with a forward-looking note that was never revisited after the lambda approach was confirmed sufficient.",
+    "whats_at_risk": "Nothing from the primary item. Two latent risks: (1) csv2mdbot._update_fm_field() at line 246 uses old string-form re.sub without a lambda guard -- dormant since csv2mdbot does not write oracle_text or flavor_text. (2) csv2mdbot.surgical_update_existing() writes the name field at line 270 raw without yaml_safe_scalar(), re-breaking Weiss-Schwarz quoted-prefix names on every CSV ingest. bbl_schema._needs_quoting() does not trigger on a leading double-quote followed by non-quote text so the normalizer cannot catch this."
+  },
+  "prescription": {
+    "changes": [
+      {
+        "file": "reports/janitor_triage.md",
+        "action": "edit",
+        "detail": "Mark the oracle_text/flavor_text source-fix entry Status: done. Resolution: fix applied wave 108 via lambda callable in update_frontmatter_field() and _flatten_for_frontmatter() producing valid inline scalars. Corpus repaired wave 127 at 0 broken files. Confirmed by code inspection 2026-05-19."
+      },
+      {
+        "file": "csv2mdbot.py",
+        "action": "edit",
+        "detail": "In surgical_update_existing() wrap the name value at line 270 with yaml_safe_scalar(). Before: row.get(COL_NAME, '').strip(). After: yaml_safe_scalar(row.get(COL_NAME, '').strip()). Do the same for set at line 272: wrap canonical_set_name(row.get(COL_SET, '').strip()) with yaml_safe_scalar(). Mirrors what render_node() already does at lines 375 and 378. Permanently closes the WS quoted-prefix name regression."
+      },
+      {
+        "file": "csv2mdbot.py",
+        "action": "edit",
+        "detail": "Optional defensive hardening: in _update_fm_field() at line 246 change the string-form re.sub replacement to a lambda callable matching researchbot. Low urgency since csv2mdbot does not currently write newline-containing values, but aligns both write paths."
+      }
+    ],
+    "commands": [
+      "python reports/_scratch/janny_yaml_repair_round2.py --dry-run",
+      "python csv2mdbot.py --dry-run <latest-collectr-csv>"
+    ],
+    "order_of_operations": [
+      "1. Caller marks oracle_text/flavor_text triage entry Status: done in reports/janitor_triage.md.",
+      "2. Apply yaml_safe_scalar() to name and set in csv2mdbot.surgical_update_existing() lines 270 and 272.",
+      "3. Optionally apply lambda callable to csv2mdbot._update_fm_field() line 246.",
+      "4. Run janny_yaml_repair_round2.py --dry-run to confirm 0 Pattern-C targets remain.",
+      "5. After next CSV ingest verify no WS quoted-prefix names re-broken. Mark csv2mdbot WS regression entry done."
+    ],
+    "verification": [
+      "python reports/_scratch/janny_yaml_repair_round2.py --dry-run -- expect 0 Pattern-C fixes",
+      "grep -n 'lambda _m' researchbot.py -- expect lambda present in update_frontmatter_field at line 246"
+    ]
+  },
+  "estimates": {
+    "effort": "1-minute manual",
+    "risk": "low",
+    "blockers": []
+  },
+  "referrals": [],
+  "nurse_notes": "Patient presented with a source-fix-pending flag still waving in the chart, but on examination the wound is healed. The wave-108 lambda callable in update_frontmatter_field and the _flatten_for_frontmatter inline-scalar strategy together produce valid YAML for oracle_text and flavor_text on every new prep. The corpus is clean. The main treatment is administrative: close the entry. One genuine residual lesion is in csv2mdbot.surgical_update_existing -- the name field at line 270 bypasses yaml_safe_scalar(), which is why Weiss-Schwarz cards with Bushiroad-style quoted-prefix names get re-broken on every CSV ingest and require the repair script as a recurring workaround. That lesion has its own open triage entry (csv2mdbot WS regression surfaced wave 136) and its fix is a one-liner: add yaml_safe_scalar() to match what render_node() already does for new cards. Prognosis on both: excellent. Side observation: the artist-node candidates flagged by the wave-156 Edgelord pass -- John Avon approximately 9 credits, plus Scott Murphy, Donato Giancola, Greg Staples, Johannes Voss, Campbell White, Sam Burley, and Volkan Baga -- are not present in reports/janitor_triage.md. Recommend adding them as a future-node-candidate entry on the next triage housekeeping pass.",
+  "sidecar_written_by": "parent (Janny has no Write tool; prescription delivered inline, parent transcribed)"
+}
