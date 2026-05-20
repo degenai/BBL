@@ -75,3 +75,15 @@ A robed figure stands in dramatic silhouette at the lower-center of the frame, i
 **Iconography:** vortex, cyclone, arcane-sigils
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Reprint history** — Unsubstantiate originated in Eldritch Moon (EMN, no. 79, July 22, 2016), illustrated by Victor Adame Minguez. The M21 printing is a direct reprint carrying the same artist and oracle text. Subsequent appearances: The List (EMN-79 insert, August 2024) and Secret Lair Drop no. 2158 (December 2025, same Minguez art). A Svetlin Velinov alternate-art version exists from the 2016 MTGO promo release. `[Scryfall: all printings, reprint=true]`
+- **Mechanical reputation** — A {1}{U} instant returning target spell or creature to its owner's hand. The dual-mode flexibility (counters spells on the stack AND bounces permanents on the board) distinguishes it from narrow comparators: it outclasses Unsummon by hitting spells, and differs from Remand by lacking card draw but being able to hit creatures. EDHREC rank: 4,939 — the highest Commander adoption in this batch by a wide margin; a genuine utility role-player in blue EDH suites. Legal in Historic, Pioneer, Modern, Legacy, Commander, and Timeless. Not Pauper-legal (uncommon). `[Scryfall: edhrec_rank=4939, legalities]`
+- **Flavor text** — "Nicely done, Jace. You always were good at disappearing acts." — Liliana Vess. `[Scryfall]` Liliana is addressing Jace Beleren. The "disappearing act" reads on three levels: the literal spell (bouncing something away), Jace's canonical memory-loss arcs (he lost his identity on Ravnica and Innistrad), and Liliana's sardonic view of their long, contentious relationship. The flavor text was retained across all Minguez printings.
+- **Design** — Illustrated by Victor Adame Minguez, a Spanish artist who by 2022 had illustrated over 125 cards for Magic since debuting in Battle for Zendikar (2015). Hipsters of the Coast notes his work "is found in just about every set." His collector ceiling: the original painting for Grist, the Hunger Tide sold for $35,000 in May 2021. He has since launched playmat Kickstarters with Original Magic Art. `[Hipsters of the Coast: "Art for Grist, the Hunger Tide by Victor Adame Minguez Sells for $35,000", 2021]`
+
+### Related cards
+- Remand (Ravnica: City of Guilds) — canonical comparator; 1U bounce-on-stack that draws a card; format benchmark for Unsubstantiate's value
+- Unsummon (Alpha) — ancestral 1U bounce-a-creature; Unsubstantiate strictly outclasses it by also hitting spells
+- Jace, the Mind Sculptor (Worldwake) — named directly in the flavor text; his bounce-to-hand ability on the Brainstorm card is the mechanical echo
+- Liliana Vess (Magic 2010) — speaker of the flavor text; her Jace relationship is a recurring story thread across multiple blocks

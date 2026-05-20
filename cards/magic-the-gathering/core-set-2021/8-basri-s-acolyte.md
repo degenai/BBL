@@ -80,3 +80,15 @@ A humanoid feline cleric stands in three-quarter profile on a battlefield, weari
 **Iconography:** holy-light, halo-glow, battle-standards
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **IP note: companion-creature design** — "Basri's Acolyte" is one of Core Set 2021's possessive-named companion creatures — a design pattern used across M21 to tie low-rarity creatures to the set's five featured planeswalkers (Basri Ket, Liliana, Teferi, Chandra, Garruk). The depicted figure is NOT Basri Ket himself — Basri is human; this is a Leonin (cat-folk) cleric from his home plane of Amonkhet. The card is explicitly bound to Basri's IP via its name and flavor text, not through depicting him. `[Wizards: "Creating Basri Ket", 2020-06-08]` `[Scryfall: type_line=Creature — Cat Cleric]`
+- **Set context: Basri Ket** — Basri Ket is a human sand-mage and new planeswalker introduced in Core Set 2021 — his first Magic appearance. His spark ignited during Amonkhet's Trial of Solidarity. He returned home after the War of the Spark to find Amonkhet in ruins and Oketra dead, then took up one of Oketra's arrows as a weapon and vowed to spread her teachings across the Multiverse. `[Wizards: "Basri Ket Planeswalker", magic.wizards.com/en/story/basri-ket-planeswalker]` `[Wizards: "Creating Basri Ket", 2020-06-08]`
+- **Flavor text** — "Basri carries on his god's legacy, spreading her teachings throughout the Multiverse." — no speaker attributed. `[Scryfall]` The pronoun "her" refers to Oketra, goddess of solidarity on Amonkhet, who was slain during the Hour of Devastation. The flavor text encodes Oketra's death obliquely — Basri "carries on" because she cannot.
+- **Mechanical reputation** — 2/3 Lifelink for {2}{W}{W} with an enters-the-battlefield +1/+1 counter distribution to up to two other creatures. EDHREC rank: 14,179 — modest Commander adoption. Best fits +1/+1 counter-synergy or go-wide lifegain Commander builds. Legal in Pauper and Pauper Commander. `[Scryfall: edhrec_rank=14179]`
+
+### Related cards
+- Basri Ket (Core Set 2021, no. 1) — the named planeswalker this creature nominally serves; IP anchor of the possessive-name suite
+- Basri's Lieutenant (Core Set 2021) — fellow M21 companion creature in Basri's suite; uncommon
+- Basri's Solidarity (Core Set 2021) — instant distributing +1/+1 counters to all creatures; same suite
+- Oketra the True (Amonkhet) — the god referenced in this card's flavor text; her death drives Basri's story

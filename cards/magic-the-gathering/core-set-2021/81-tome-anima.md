@@ -76,3 +76,14 @@ A glowing, translucent blue spirit-figure rises from the center of a circular ar
 **Iconography:** floating-pages, glowing-runes, ethereal-form
 **Genre cues:** fantasy, arcane, scholarly
 
+## Trivia
+
+- **Design** — Illustrated by Johannes Voss, a Leipzig-based artist who has illustrated more than 150 pieces for Magic: The Gathering since 2010. Hipsters of the Coast describes him as "well known for his cornucopia of color and dramatic compositions." His collector-market presence is notable: two sell-out playmat Kickstarters with Original Magic Art, both exclusive to the campaign platform. Tome Anima shares M21 with another Voss piece, Sanctum of All — illustrating his output volume per set. `[Hipsters of the Coast: "Johannes Voss and Original Magic Art Launch New Playmat Kickstarter for 2023", 2023]`
+- **Mechanical reputation** — A 3/3 Spirit for {3}{U} whose evasion is conditioned on drawing two or more cards in the same turn. This ties the creature directly to blue's card-draw engine — it rewards spell-sequencing skill (cast a draw spell, then attack unblocked). EDHREC rank: 26,276 — among the lowest Commander adoption rates in the corpus. Functions primarily as a core-set Limited filler. Legal in Pauper and Pauper Commander. `[Scryfall: edhrec_rank=26276]`
+- **Flavor text** — "Sometimes knowledge takes on a life of its own." — no speaker attributed. `[Scryfall]` A double-meaning: literal (the Spirit is animated knowledge rising from a library) and figurative (ideas as autonomous forces). The flavor text mirrors the card's mechanical premise exactly: draw enough cards and the knowledge-spirit becomes unstoppable.
+- **Set context** — M21's blue-learning subtheme runs through its commons and uncommons, pairing Tome Anima's "animated knowledge" with the set's scholar/wizard iconography (see also Rousing Read, no. 67 in this set). The draw-synergy condition reflects M21's design goal of simple but skill-rewarding mechanics accessible to new players. `[Scryfall: set=m21]` `[Wizards: Odds & Ends Core Set 2021, 2020-06-29]`
+
+### Related cards
+- Sanctum of All (Core Set 2021) — another Johannes Voss illustration in M21; Shrine enchantment
+- Rousing Read (Core Set 2021, no. 67) — same set; shares tome/knowledge iconography; provides the draw triggers Tome Anima needs for evasion
+- Curious Homunculus (Eldritch Moon) — blue common with draw-dependent evasion mechanic; design-space predecessor

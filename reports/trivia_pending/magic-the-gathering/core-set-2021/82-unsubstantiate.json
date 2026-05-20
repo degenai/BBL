@@ -1,0 +1,43 @@
+{
+  "card_name": "Unsubstantiate",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "82",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "Flavor text names Jace and Liliana explicitly — both internal Wizards IP, no external crossover risk. No suspected_ip field was present in frontmatter; this is a trivia-harvest note, not an IP flag.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Unsubstantiate was originally printed in Eldritch Moon (EMN, collector number 79, released July 22, 2016), illustrated by Victor Adame Minguez. The M21 printing is a reprint of the original Eldritch Moon card, carrying the same artist and oracle text. It has since appeared in: The List (EMN-79 insert, August 2024), and Secret Lair Drop no. 2158 (December 2025, same Victor Adame Minguez art). Svetlin Velinov illustrated the Eldritch Moon MTGO promo version. [Scryfall: prints_search_uri, reprint=true]",
+      "sources": ["Scryfall: all printings"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Unsubstantiate is a {1}{U} instant that returns target spell or creature to its owner's hand — a hybrid counterspell and bounce spell. Unlike Remand, it has no card draw; unlike Unsummon, it can hit spells on the stack. The dual-mode flexibility has kept it competitive across multiple formats. EDHREC rank: 4,939 — by far the highest Commander adoption rate in this batch, with meaningful play across EDH removal suites. Not Pauper-legal (uncommon rarity). Legal in Historic, Pioneer, Modern, Legacy, Commander, and Timeless. [Scryfall: edhrec_rank=4939, legalities]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Nicely done, Jace. You always were good at disappearing acts.\" —Liliana Vess [Scryfall]. The quote is Liliana addressing Jace Beleren — a reference to the two characters' long history of tension and betrayal across Ravnica, Innistrad, and the War of the Spark arc. The 'disappearing act' functions on three levels: the literal spell (bouncing something), Jace's canonical mind-blank/amnesia arc (he lost his memory multiple times), and Liliana's sardonic commentary on their relationship. The flavor text was retained across all Victor Adame Minguez printings (EMN, M21, The List, Secret Lair 2025). [Wizards: MTG story continuity, Jace and Liliana arc]",
+      "sources": ["Scryfall", "MTG story continuity"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Victor Adame Minguez, a Spanish artist who by 2022 had eclipsed 125 cards for Magic since his debut in Battle for Zendikar (2015). Hipsters of the Coast notes his work 'is found in just about every set.' His collector-market ceiling is significant: the original painting for Grist, the Hunger Tide sold for $35,000 in May 2021. He has also offered traditional sketch commissions, with Disenchant (an oil-on-MDF work) tying a historical record for that card's illustration count. [Hipsters of the Coast: 'Art for Grist, the Hunger Tide by Victor Adame Minguez Sells for $35,000', 2021] [Hipsters of the Coast: 'Victor Adame Minguez & Original Magic Art Launch Playmat Kickstarter', 2022]",
+      "sources": ["Hipsters of the Coast: Grist sale 2021", "Hipsters of the Coast: Playmat Kickstarter 2022"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Remand", "set": "Ravnica: City of Guilds", "note": "The canonical comparator to Unsubstantiate — also 1U bounce-on-stack, but draws a card instead; format benchmark"},
+    {"name": "Unsummon", "set": "Alpha", "note": "The ancestral 1U bounce-a-creature spell; Unsubstantiate strictly outclasses it by also hitting spells"},
+    {"name": "Jace, the Mind Sculptor", "set": "Worldwake", "note": "Named directly in the flavor text; Jace's signature ability involves bouncing permanents"},
+    {"name": "Liliana Vess", "set": "Magic 2010", "note": "Speaker of the flavor text; her sardonic relationship with Jace runs through multiple sets"},
+    {"name": "Unsubstantiate", "set": "Eldritch Moon", "note": "Original printing (EMN no. 79, 2016); same oracle text and artist, different set symbol"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

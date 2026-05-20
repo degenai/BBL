@@ -1,0 +1,42 @@
+{
+  "card_name": "Spined Megalodon",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "72",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 was one of the first Magic sets to push Shark as a supported creature type. The set introduced multiple Shark cards (including Ominous Seas and Serpent of Yawning Depths) to build out the tribe, and community outlets noted that M21 reinforced 'recently introduced creature types like Noble, Shark, and Warlock.' Spined Megalodon is the tribe's common top-end within the set. [PureMTGO: 'Core Set 2021: The Tribal Evaluation', puremtgo.com]",
+      "sources": ["PureMTGO: Core Set 2021: The Tribal Evaluation"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Daniel Ljunggren, a Swedish artist with over 191 cards for Magic: The Gathering as of 2024. Ljunggren is best known for monumental creature and landscape illustrations; Gatherer lists 191 pieces from him across multiple sets. No Hipsters of the Coast artist spotlight was found for Ljunggren. [Gatherer: artistName=Daniel Ljunggren]",
+      "sources": ["Gatherer: Daniel Ljunggren"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At 5/7 Hexproof for {5}{U}{U} (CMC 7), Spined Megalodon is a resilient but expensive common. The Hexproof shields it from targeted removal; the Scry 1 on attack provides slow card-selection value. EDHREC rank: 20,386 — very low Commander adoption. The card is Pauper-legal (common rarity), though a 7-mana creature is essentially unplayable in that format's tempo-driven environment. Its primary home is casual Limited and shark-tribal Commander lists. [Scryfall: edhrec_rank=20386, legalities]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Spined Megalodon has no flavor text in its Core Set 2021 printing. [Scryfall: flavor_text field absent]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ominous Seas", "set": "Ikoria: Lair of Behemoths", "note": "Key shark-tribal enabler from the set preceding M21; creates Shark tokens tied to card draw"},
+    {"name": "Shark Typhoon", "set": "Ikoria: Lair of Behemoths", "note": "Flagship Shark token generator; the card that put Shark creature type on the map mechanically"},
+    {"name": "Serpent of Yawning Depths", "set": "Theros Beyond Death", "note": "Fellow blue sea-serpent with tribal-grant text; companion to M21's shark push"},
+    {"name": "Voracious Greatshark", "set": "Core Set 2021", "note": "Same set, same creature type; the rare counterpart Shark in M21"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

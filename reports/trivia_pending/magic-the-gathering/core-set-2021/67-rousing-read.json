@@ -1,0 +1,42 @@
+{
+  "card_name": "Rousing Read",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "67",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Core Set 2021 (M21) was released July 3, 2020, and was explicitly designed around the new-planeswalker-spotlight model — each of the five featured planeswalkers received a suite of \"companion creature\" commons and uncommons that bore their name in the card title, populating the set's lower rarities with characters from the walkers' stories. Rousing Read has no named connection but sits in the blue slot reinforcing M21's recurring book/knowledge subtheme. [Scryfall: set=m21, released_at=2020-07-03] [Wizards: Odds & Ends Core Set 2021, magic.wizards.com/en/news/making-magic/odds-ends-core-set-2021-2020-06-29]",
+      "sources": ["Scryfall", "Wizards: Odds & Ends Core Set 2021"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Campbell White, who by 2022 was approaching 100 total illustrations for Magic: The Gathering. White has attracted collector attention: sketches for their Commander Legends: Battle for Baldur's Gate card Displacer Kitten sold at auction for $13,000 and $5,000 respectively — a signal of the market premium on White's preparatory work. [Hipsters of the Coast: 'Campbell White Sketches for Displacer Kitten Fetch $18,000', 2022-06-xx]",
+      "sources": ["Hipsters of the Coast: 'Campbell White Sketches for Displacer Kitten Fetch $18,000'"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, Rousing Read is a cantrip-aura: it replaces itself plus one card on entry (draw 2, discard 1), then leaves a +1/+1 and flying bonus permanently on the enchanted creature. At 3 mana for a common, it sits in a crowded pauper-aura design space alongside cards like Arcane Flight and Cartouche of Knowledge. It is legal in Pauper, Pauper Commander, Modern, and Legacy. EDHREC rank: 18,832 — low adoption in Commander, consistent with its role as a Limited and Pauper tool rather than an EDH staple. [Scryfall: legalities, edhrec_rank=18832]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Great literature can transport the reader.\" — no speaker attributed. [Scryfall: flavor_text]. The pun is literal: the Aura grants flying, so the reader is transported upward. A clean piece of double-meaning design typical of core-set flavor writing.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Arcane Flight", "set": "Dominaria", "note": "Cantrip-aura blueprint Rousing Read iterates on — cheaper (1U) but no +1/+1"},
+    {"name": "Cartouche of Knowledge", "set": "Amonkhet", "note": "Parallel aura granting flying + card draw, from the plane Basri Ket originates from"},
+    {"name": "All That Glitters", "set": "Throne of Eldraine", "note": "Peer-era enchantment-matters aura, comparator for evaluating cantrip-auras in the same window"},
+    {"name": "Tome Anima", "set": "Core Set 2021", "note": "Same set; shares knowledge/book iconography; mechanical synergy as a flying spirit that benefits from card draw"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -75,3 +75,14 @@ A solitary hooded, robed figure stands at center holding an open book. The tome 
 **Iconography:** glowing book, rising light, lone reader
 **Genre cues:** fantasy, arcane
 
+## Trivia
+
+- **Set context** — Core Set 2021 (M21, released July 3, 2020) was structured around five featured planeswalkers, each supported by a suite of named "companion creature" cards at common and uncommon. Rousing Read is not a named companion card, but sits in M21's recurring blue subtheme of book-and-knowledge imagery that runs through the set's commons. `[Scryfall: set=m21]` `[Wizards: Odds & Ends Core Set 2021]`
+- **Design** — Illustrated by Campbell White, who by 2022 was approaching 100 total illustrations for Magic. White has attracted notable collector attention: graphite and colored-pencil preparatory sketches for their Commander Legends: Battle for Baldur's Gate card Displacer Kitten sold at auction for $13,000 and $5,000 respectively. `[Hipsters of the Coast: "Campbell White Sketches for Displacer Kitten Fetch $18,000", 2022]`
+- **Mechanical reputation** — Rousing Read is a cantrip-aura: it draws 2 then discards 1 on entry (net +1 card), then leaves +1/+1 and flying permanently on the enchanted creature. Legal in Pauper, Pauper Commander, Modern, and Legacy. EDHREC rank: 18,832 — low Commander adoption; the card functions primarily as a Limited and Pauper tool. `[Scryfall: legalities, edhrec_rank]`
+- **Flavor text** — "Great literature can transport the reader." — no speaker attributed. `[Scryfall]` The pun is literal: the Aura grants flying, so the reader is physically transported upward. Classic core-set double-meaning flavor writing.
+
+### Related cards
+- Arcane Flight (Dominaria) — cantrip-aura predecessor; cheaper (1U) but no +1/+1 bonus
+- Cartouche of Knowledge (Amonkhet) — parallel aura granting flying and card draw, from the plane of Basri Ket
+- Tome Anima (Core Set 2021, no. 81) — same set; shares book/knowledge iconography; mechanically synergistic as a creature that benefits from card draw triggers

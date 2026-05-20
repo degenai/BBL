@@ -1,0 +1,42 @@
+{
+  "card_name": "Tome Anima",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "81",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Illustrated by Johannes Voss, a Leipzig-based artist who has illustrated more than 150 pieces for Magic: The Gathering since he began working with the game in 2010. Hipsters of the Coast describes him as 'well known for his cornucopia of color and dramatic compositions.' His collector-market profile is significant: two playmat Kickstarters with Original Magic Art both sold out, with multiple exclusive designs. Tome Anima shares a set with another Voss piece, Sanctum of All (also M21), demonstrating his volume within a single set. [Hipsters of the Coast: 'Johannes Voss and Original Magic Art Launch New Playmat Kickstarter for 2023', hipstersofthecoast.com, 2023]",
+      "sources": ["Hipsters of the Coast: Johannes Voss and Original Magic Art Launch New Playmat Kickstarter for 2023, 2023"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Tome Anima is a 3/3 Spirit for {3}{U} with a conditional evasion ability: it can't be blocked as long as you've drawn two or more cards this turn. This connects it directly to blue's card-draw engine — the creature rewards proactive draw-spell sequencing with guaranteed damage. EDHREC rank: 26,276 — one of the lowest adoption rates in the corpus, consistent with its role as a core-set Limited filler rather than a Commander or Pauper staple. Legal in Pauper and Pauper Commander. [Scryfall: edhrec_rank=26276, legalities]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Sometimes knowledge takes on a life of its own.\" — no speaker attributed. [Scryfall] A tight double-meaning: literal (the Spirit is animated knowledge from a library) and figurative (ideas becoming autonomous forces). Sits well alongside the Vision's read of the art as 'the moment a piece of accumulated knowledge becomes self-aware.'",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Tome Anima's Spirit creature type and library setting situate it in M21's blue-learning subtheme, which runs alongside the set's planeswalker-companion suite. M21's design philosophy emphasized accessible keyword mechanics — Tome Anima's evasion condition (draw 2+ cards) is simple enough for new players to track while rewarding spell-sequencing skill. [Scryfall: set=m21, released_at=2020-07-03] [Wizards: Odds & Ends Core Set 2021, 2020-06-29]",
+      "sources": ["Scryfall", "Wizards: Odds & Ends Core Set 2021"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sanctum of All", "set": "Core Set 2021", "note": "Another Johannes Voss card in the same set; Shrine enchantment — same artist within M21"},
+    {"name": "Curious Homunculus", "set": "Eldritch Moon", "note": "Blue creature with a draw-dependent evasion/ability mechanic; design-space ancestor"},
+    {"name": "Rousing Read", "set": "Core Set 2021", "note": "Same set; shares knowledge/tome iconography; Rousing Read provides the draw triggers Tome Anima needs"},
+    {"name": "Riddlemaster Sphinx", "set": "Core Set 2019", "note": "Blue common flying spirit-adjacent beater in prior core set; illustrates the common blue-finisher slot M21 filled with Tome Anima"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
