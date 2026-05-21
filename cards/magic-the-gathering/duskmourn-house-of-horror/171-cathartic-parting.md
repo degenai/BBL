@@ -76,3 +76,15 @@ A rat-humanoid figure in a dark jacket with a pink-tipped mohawk crouches or sit
 **Iconography:** moth-motif, ghost-light, butterfly-pattern
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context / story spotlight** — Cathartic Parting is a story spotlight card in Duskmourn: House of Horror, marking it as depicting a key moment from the set's published fiction. The DSK story follows a rescue team entering a sentient haunted house to find Nashi — son of the Planeswalker Tamiyo — who had gone missing inside. `[Scryfall story_spotlight field; draftsim.com/mtg-duskmourn-house-of-horror-story/]`
+- **Lore context** — The art is consistent with the climactic farewell scene in Duskmourn Episode 6 ("Don't Die"): Nashi, a young Nezumi artificer (rat-humanoid) adopted by Tamiyo, discovers that Tamiyo's ghost cannot be freed because Duskmourn has been consuming her stories. She asks Nashi to release her, and the two say goodbye. The flavor text maps directly to this moment. The depicted figures are consistent with Nashi and Tamiyo's spirit as described in the story; the card's oracle and flavor text do not name the characters explicitly. `[magic.wizards.com/en/news/magic-story/episode-six-dont-die]`
+- **Flavor text** — "We got more than most people do. We got the chance to say goodbye." Speaker is unattributed on the card; in Episode 6 context, the sentiment belongs to the Nashi-Tamiyo farewell exchange. `[Scryfall]`
+- **Mechanical context** — At {1}{G}, the card offers a two-effect sorcery: it shuffles an opponent's artifact or enchantment into their library (harder to recover than bounce), and optionally shuffles up to four graveyard cards back into your own library. Not legal in Pauper. EDHREC rank 14,419. `[Scryfall; EDHREC]`
+- **Design** — Art is by Miranda Meeks, described by Hipsters of the Coast (Core Set 2021 Grand Art Tour) as an illustrator who makes "the mysterious and macabre brilliant and beautiful." The art received an Art Series treatment (ADSK no. 14), included in DSK collector boosters. `[hipstersofthecoast.com/2020/06/core-set-2021-grand-art-tour/; Scryfall ADSK set]`
+
+### Related cards
+- Nashi, Searcher in the Dark (DSK) — named card for the Nezumi protagonist whose farewell scene the art depicts
+- Tamiyo, Collector of Tales (WAR) — Tamiyo is Nashi's adoptive mother; her ghost appears in the scene
+- Coordinated Clobbering (DSK, 173) — another story spotlight from the same rescue party narrative

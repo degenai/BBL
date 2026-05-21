@@ -78,3 +78,14 @@ A dark-skinned elf with pointed ears, tied-back hair and a tense, alert expressi
 **Iconography:** red-record-light, camera-lens
 **Genre cues:** horror, found-footage, dark-fantasy, survival-horror
 
+## Trivia
+
+- **Set context** — Cautious Survivor is typed as Creature — Elf Survivor. The Survivor creature type was introduced alongside DSK's Survival ability word; every DSK Survivor carries a Survival trigger, mechanically embodying the horror-movie protagonist trope of enduring impossible odds. `[Scryfall type_line; magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics]`
+- **Mechanical context** — Survival is an ability word from Duskmourn: House of Horror that fires at the beginning of your second main phase if the creature is tapped. Cautious Survivor's trigger grants 2 life. The Wizards mechanics article describes the timing as deliberate: "it reduces them to one: survive" — the creature must outlast combat or be otherwise tapped before the reward triggers. Survival appears predominantly on white and green cards. Cautious Survivor is a 4/4 for {3}{G}, pauper-legal. EDHREC rank 18,854. `[magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics; Scryfall; EDHREC]`
+- **Flavor text** — "She came back alone, with her recorder broken and its footage scrambled. Whatever she had experienced, she never spoke of again." The text encodes a found-footage horror archetype: the traumatized witness who survives but cannot or will not report what she saw — a structural staple of the genre DSK explicitly references. `[Scryfall]`
+- **Design** — Art is by Jodie Muir. No reprint printings exist as of Scryfall data; this is a first printing. `[Scryfall]`
+
+### Related cards
+- Veteran Survivor (DSK) — the example card Wizards used in their mechanics article to explain the Survival ability word
+- Hauntwoods Shrieker (DSK) — green DSK creature with survival-adjacent combat mechanics
+- Overlord of the Hauntwoods (DSK) — green mythic centerpiece of the DSK green archetype that Cautious Survivor feeds into

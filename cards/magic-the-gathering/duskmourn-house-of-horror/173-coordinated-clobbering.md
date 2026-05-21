@@ -51,8 +51,8 @@ mood: action
 time_of_day: indeterminate
 setting: indoor
 suspected_ip: Zimone, Tyvar
-ip_confidence: med
-ip_verified: false
+ip_confidence: high
+ip_verified: true
 mana_cost: "{G}"
 tags:
   - card
@@ -65,8 +65,8 @@ tags:
 
 ![173-coordinated-clobbering](../../_images/magic-the-gathering/duskmourn-house-of-horror/173-coordinated-clobbering.png)
 
-> [!warning] Suspected IP: **Zimone, Tyvar** (confidence: med, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Zimone Wola and Tyvar Kell**
+> Confirmed via Scryfall story_spotlight field, flavor text naming both characters directly, and MTG Wiki character descriptions matching the depicted figures (Tyvar: Kaldheim wood elf, green-coded, auburn hair, pointed ears; Zimone: dark-skinned Strixhaven mage, teal-coded). Wizards-internal characters; no external IP risk.
 
 Two fighters leap through a corridor flanked by tall doorways emitting teal geometric light — hexagonal frames with atomic-style symbols. The figure on the left has pointed ears, a lean build, long flowing hair, and wears green clothing. The figure on the right is shorter, darker-skinned, and wears teal. Both are mid-leap, arms extended in striking poses. A small dark creature crouches at their feet. In the deep background, a large branching supernatural entity floats in a greenish haze. The atmosphere is teal-dominated with neon trim, suggesting a haunted futuristic interior.
 
@@ -83,3 +83,15 @@ Two fighters leap through a corridor flanked by tall doorways emitting teal geom
 **Iconography:** atomic-style emblem, geometric hex frame
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Story spotlight / IP verified** — Coordinated Clobbering is a story spotlight card (Scryfall `story_spotlight: true`) depicting Zimone Wola and Tyvar Kell — confirmed by the flavor text naming them directly. In the DSK story, Tyvar and Zimone burst into the Cult of Valgavoth's ceremonial chamber together to rescue their captured companions (Nashi, Niko, and the Wanderer). `[Scryfall story_spotlight field; mtg.fandom.com/wiki/Zimone_Wola; draftsim.com/mtg-duskmourn-house-of-horror-story/]`
+- **Flavor text** — "Zimone's theory was that the fractalization of atmospheric aether would increase kinetic energy. Tyvar's theory was that if you hit cultists in the face really hard, they would fall down. They were both right." The joke captures both characters' defining traits: Zimone as a methodical Strixhaven researcher (studying aether physics), Tyvar as an impulsive Kaldheim warrior-bard (seeking epic deeds). `[Scryfall]`
+- **Character context** — Tyvar Kell is a short, muscular Kaldheim wood elf with auburn hair and distinctive Koma-serpent tattoos who "rarely wears a shirt." In Duskmourn he filled the horror trope of the Jock; he was ultimately killed by a cellarspawn during these events — this card depicts him before that outcome. Zimone Wola is a dark-skinned mage-graduate student of Quandrix College at Strixhaven, sent as Niv-Mizzet's chosen representative. `[MTG Wiki: Tyvar Kell; MTG Wiki: Zimone Wola]`
+- **Mechanical context** — At one {G}, Coordinated Clobbering is among the most mana-efficient fight-adjacent spells in green: tap one or two untapped creatures; each deals damage equal to its power to one target opposing creature. Not pauper-legal. EDHREC rank 13,218; penny rank 6,718. `[Scryfall; EDHREC]`
+- **Design** — Art is by Fajareka Setiawan, an Indonesian illustrator and concept artist from Yogyakarta with 57+ cards credited in Magic across multiple sets. `[Gatherer artist search; artstation.com/fajareka]`
+
+### Related cards
+- Tyvar, the Pummeler (DSK, 202) — named planeswalker card for Tyvar Kell in this set
+- Zimone, All-Questioning (DSK, 241) — named planeswalker card for Zimone Wola in this set
+- Cathartic Parting (DSK, 171) — another story spotlight from the same rescue mission

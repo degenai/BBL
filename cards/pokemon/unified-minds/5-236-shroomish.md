@@ -48,6 +48,8 @@ subject_known_ip: true
 suspected_ip: Shroomish
 ip_confidence: high
 ip_verified: false
+characters:
+  - breloom-line
 tags:
   - card
   - pokemon
@@ -76,4 +78,3 @@ A small round creature with a mushroom cap covering its upper body stands in a s
 **Creatures:** shroomish, mushroom-creature
 **Iconography:** mushroom-cap, spots
 **Genre cues:** anime
-

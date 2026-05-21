@@ -1,0 +1,46 @@
+{
+  "card_name": "Bashful Beastie",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "169",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Bashful Beastie is from Duskmourn: House of Horror (set code DSK), released 2024-09-27 — a top-down horror set designed around a single sentient haunted house rather than a full plane, inspired by 1970s-1980s horror film aesthetics. The set's creative brief distinguished it from Innistrad by targeting modern pop-culture horror tropes rather than gothic literature. [Wizards of the Coast, Duskmourn Vision Design Handoff articles; Scryfall set data]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/making-magic/duskmourn-house-of-horror-vision-design-handoff-part-1"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"No one knows what hides beneath the beasties' masks.\" The line positions the beastie's mask as a mystery within the house — consistent with Duskmourn's design philosophy of suspense through partial information. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Bashful Beastie is a 5/4 common for {4}{G} whose death trigger activates manifest dread — a Duskmourn-exclusive evolution of the original Manifest mechanic from Fate Reforged (2015). Where original Manifest placed the top card of the library face-down blind, Manifest Dread lets you look at the top two and choose which to put on the battlefield face-down, sending the other to the graveyard. The graveyard-filling angle supports Duskmourn's delirium synergies. EDHREC records the card appearing in approximately 1,310 Commander decks as of 2024. [Scryfall; EDHREC; magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics; coolstuffinc.com/a/brandonashcraft-seo-11072024-the-mechanics-of-duskmourn-manifest-dread]",
+      "sources": ["Scryfall", "EDHREC", "magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics"]
+    },
+    {
+      "category": "design",
+      "text": "Art is by Aaron Miller, a freelance fantasy illustrator who has contributed to Magic since 2013 and is known within the community for a popular foil token series funded via Kickstarter and Patreon. Hipsters of the Coast covered two of his Kickstarter campaigns (2019, 2020) centered on original token art and custom sleeve collaborations. [Hipsters of the Coast; Gatherer artist search]",
+      "sources": ["hipstersofthecoast.com/tag/aaron-miller/", "Gatherer"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Manifest Dread", "set": "Duskmourn: House of Horror", "note": "Token/rules card explaining the mechanic Bashful Beastie triggers on death"},
+    {"name": "Growing Dread", "set": "Duskmourn: House of Horror", "note": "Flash creature that also manifests dread and grants +1/+1 counters when permanents turn face-up — noted synergy partner"},
+    {"name": "Hauntwoods Shrieker", "set": "Duskmourn: House of Horror", "note": "Repeatedly triggers manifest dread on attack; pairs with Beastie's death trigger in manifest-dread focused builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "color_magic_in_tags_filter": true,
+    "notes": "mana_cost: {4}{G} present in frontmatter. green-magic is in tags_filter. No triage issues."
+  }
+}

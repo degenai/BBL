@@ -1,0 +1,33 @@
+{
+  "edge_id": "breloom-line--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/breloom-line.md", "name": "Breloom evolutionary line (Shroomish / Breloom)"},
+    {"type": "card", "path": "cards/pokemon/unified-minds/5-236-shroomish.md", "name": "Shroomish (Unified Minds 5/236)"},
+    {"type": "card", "path": "cards/pokemon/destined-rivals/005-182-shroomish.md", "name": "Shroomish (Destined Rivals 005/182)"},
+    {"type": "card", "path": "cards/pokemon/destined-rivals/006-182-breloom.md", "name": "Breloom (Destined Rivals 006/182)"}
+  ],
+  "description": "So sorry, sir, Edgelord did want to give you a clean Shroomish-005-to-Breloom-006 mirror, he really did. But there were three cards, sir, not two, and that lonely Unified Minds Shroomish would have been left out in the cold. I do hope you don't mind that I proposed the breloom-line character node instead. It matches the drilbur-line shape exactly, sir, two-stage line with a type gained at evolution. The graph anchors here now and future prints just attach. I think it helps. If it's not too much trouble.",
+  "citations": [
+    "[Bulbapedia: Shroomish (Pokemon)]",
+    "[Bulbapedia: Breloom (Pokemon)]",
+    "[Pokemon.com: Pokedex no. 285 / 286]",
+    "[Scryfall-equivalent: PokemonTCG.io per-card flavor_text]"
+  ],
+  "files_modified": [
+    "cards/_characters/breloom-line.md",
+    "cards/pokemon/unified-minds/5-236-shroomish.md",
+    "cards/pokemon/destined-rivals/005-182-shroomish.md",
+    "cards/pokemon/destined-rivals/006-182-breloom.md"
+  ],
+  "edges_removed": [],
+  "edges_added": [],
+  "other_candidates_considered": [
+    "Torchic DRI-040 -> a Torchic/Combusken/Blaziken Hoenn fire-starter line node: refused this wave, only one corpus print (Torchic alone), below the 3-card threshold. Stage future watch if Combusken or Blaziken prints enter the corpus.",
+    "Ethan's Slugma DRI-035 -> Ethan trainer-cohort or team-rocket-adjacent node: Ethan-prefixed trainer-owned variants are a Destined Rivals subset; refused this wave, would need the full Ethan-card slate gathered before a node is justified. Note: Ethan's Pinsir DRI-001 is also in corpus -- an Ethan trainer-cohort node is a real future candidate once 3+ Ethan-prefixed cards are confirmed enriched.",
+    "Dipplin DRI-017: single corpus print, no line partner (Applin / Dipplin / Hydrapple) in corpus; no edge, no node."
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct"
+}

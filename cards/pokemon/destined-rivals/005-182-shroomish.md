@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - mushroom
+  - forest
+  - creature
+  - nature
+  - fungus
+  - undergrowth
+  - small-creature
+  - camouflage
+  - stillness
+  - damp
+  - tropical
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - no-face
+  - grass-type
+  - common
 reference_image: cards/_images/pokemon/destined-rivals/005-182-shroomish.png
 average_cost_paid: 0
 market_price: 0.06
@@ -27,6 +45,34 @@ oracle_text: Rolling Tackle (ColorlessColorless) 30
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: indeterminate
+setting: forest
+suspected_ip: Shroomish
+ip_confidence: high
+ip_verified: false
+characters:
+  - breloom-line
 ---
 
 # Shroomish (Destined Rivals)
+
+## Vision
+
+![005-182-shroomish](../../_images/pokemon/destined-rivals/005-182-shroomish.png)
+
+> [!warning] Suspected IP: **Shroomish** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+Shroomish sits low on a damp forest floor, its compact round body covered in a green bumpy texture. Large tropical leaves frame the scene above and around it, creating a sense of shelter in dense undergrowth. The lighting is soft and diffuse, consistent with filtered shade. The art style is painterly with clean outlines. The creature appears calm and still, consistent with the flavor text noting it remains motionless in forest shade by day.
+
+**Subject:** Shroomish, a small round mushroom-type creature with a green bumpy body, resting on the forest floor
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** forest, indeterminate, calm
+**Foreground:** Shroomish creature on a mossy forest floor surface  *(palette: green, tan, brown)*
+**Background:** Large tropical leaves filling the background, layered green foliage  *(palette: green, dark-green, olive)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** still, neutral, placid
+**Creatures:** mushroom-creature, shroomish
+**Genre cues:** anime, fantasy

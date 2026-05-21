@@ -1,0 +1,51 @@
+{
+  "card_name": "Coordinated Clobbering",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "173",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Flavor text explicitly names both Zimone and Tyvar. Scryfall confirms story_spotlight: true. The left figure (pointed ears, long flowing hair, green clothing) matches Tyvar Kell — a short, muscular Kaldheim wood elf with auburn hair — and the right figure (shorter, darker-skinned, teal clothing) matches Zimone Wola — a dark-skinned Strixhaven mage-student. Both are Wizards-internal characters; no external IP risk. ip_verified updated to true, ip_confidence updated to high. No ## IP block required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Coordinated Clobbering is a story spotlight card (Scryfall story_spotlight: true), meaning it depicts a key moment from the DSK narrative. The art shows Zimone Wola and Tyvar Kell — confirmed by the flavor text naming them directly — leaping through a corridor of the House to rescue their captured companions. In the DSK story, Tyvar and Zimone burst into the Cult of Valgavoth's ceremonial chamber together to free Nashi, Niko, and the Wanderer. [Scryfall story_spotlight field; draftsim.com/mtg-duskmourn-house-of-horror-story/; magic.wizards.com/en/news/magic-story/episode-six-dont-die]",
+      "sources": ["Scryfall", "Draftsim Duskmourn story summary"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Zimone's theory was that the fractalization of atmospheric aether would increase kinetic energy. Tyvar's theory was that if you hit cultists in the face really hard, they would fall down. They were both right.\" The text captures both characters' defining traits: Zimone as a methodical Strixhaven researcher, Tyvar as an impulsive Kaldheim warrior-bard. The joke structure ('they were both right') is characteristic of Duskmourn's blend of horror-comedy tonal shifts. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "IP verification: the depicted figures are confirmed as Zimone Wola (dark-skinned Strixhaven mage, teal-coded) and Tyvar Kell (Kaldheim wood elf, green-coded, auburn-haired, pointed ears, muscular build, rarely wears a shirt). Tyvar's character notes indicate he always seeks 'the next epic song that'll be sung about him.' In Duskmourn, Tyvar filled the horror-trope role of 'the Jock.' Tyvar was ultimately killed during DSK events by a cellarspawn — this card depicts him before that outcome. [MTG Wiki: Tyvar Kell; MTG Wiki: Zimone Wola; Scryfall; magic.wizards.com]",
+      "sources": ["MTG Wiki: Tyvar Kell (mtg.fandom.com/wiki/Tyvar_Kell)", "MTG Wiki: Zimone Wola (mtg.fandom.com/wiki/Zimone_Wola)", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Coordinated Clobbering costs a single {G} and functions as a two-creature tap-and-fight effect: each tapped creature deals damage equal to its power to one target opposing creature. At one mana it is among the most mana-efficient fight-adjacent spells in green, though it requires two untapped creatures and hits only one target. Not pauper-legal. EDHREC rank 13,218; penny rank 6,718. [Scryfall; EDHREC]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Art is by Fajareka Setiawan, an Indonesian illustrator and concept artist from Yogyakarta with 57+ cards credited in Magic. Setiawan has illustrated notable cards across multiple sets and maintains an active ArtStation presence. [Gatherer artist search; facebook.com/catstreetart — Fajareka profile note]",
+      "sources": ["Gatherer", "ArtStation: fajareka.artstation.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tyvar, the Pummeler", "set": "Duskmourn: House of Horror", "note": "Named planeswalker card for Tyvar Kell in this same set"},
+    {"name": "Zimone, All-Questioning", "set": "Duskmourn: House of Horror", "note": "Named planeswalker card for Zimone Wola in this same set"},
+    {"name": "Cathartic Parting", "set": "Duskmourn: House of Horror", "note": "Another DSK story spotlight from the same rescue mission narrative"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Zimone, Tyvar",
+    "ip_confidence": "high"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "color_magic_in_tags_filter": true,
+    "notes": "mana_cost: {G} present in frontmatter. green-magic in tags_filter. No triage issues."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "card_name": "Cryptid Inspector",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "174",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cryptid Inspector is an Elf Warrior from Duskmourn: House of Horror — a top-down horror expansion set inside a single sentient haunted house, released 2024-09-27. The 'cryptid' framing draws on the set's explicit references to modern pop-culture horror and paranormal investigation tropes (rather than Innistrad's gothic literature roots), using terms like 'cryptid' that come from 20th-century folklore and paranormal subculture rather than classic fantasy taxonomy. [Wizards of the Coast, Duskmourn Vision Design Handoff; Scryfall set data]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/making-magic/duskmourn-house-of-horror-vision-design-handoff-part-1"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Please be dead, please be dead, please be dead.\" The text is a first-person internal monologue, placing the card in the perspective of someone approaching something they need to confirm is dead — a recurring horror-genre beat (the survivor checking that the monster is neutralized). The anxious repetition is intentional tonal design. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cryptid Inspector is a 2/3 for {2}{G} with vigilance. Its trigger puts a +1/+1 counter on it whenever a face-down permanent enters or whenever this creature or another permanent you control is turned face up. The Card Kingdom blog on DSK manifest dread notes that Cryptid Inspector 'double triggers off a single manifest' (the manifest enters face-down for one trigger, then turning it face-up fires the second), making it 'pretty pushed' and capable of becoming a 4/5 vigilance after a single manifest cycle. It synergizes with manifest dread, morph, megamorph, manifest, and disguise mechanics. Pauper-legal. EDHREC rank 16,906. [blog.cardkingdom.com/manifesting-dread-in-duskmourn-house-of-horrors/; Scryfall; EDHREC]",
+      "sources": ["blog.cardkingdom.com/manifesting-dread-in-duskmourn-house-of-horrors/", "Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Art is by Kim Sokol. No prior MTG credits appear in Gatherer results tied to this artist by that name; this may be a newer or debut MTG commission. No reprint printings exist as of Scryfall data. [Scryfall artist field; Scryfall prints_search_uri]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bashful Beastie", "set": "Duskmourn: House of Horror", "note": "Also a green DSK common with manifest dread death trigger; direct synergy with Cryptid Inspector's face-up counter trigger"},
+    {"name": "Growing Dread", "set": "Duskmourn: House of Horror", "note": "Flash creature that manifests dread and buffs permanents when turned face-up; stacks with Inspector counters"},
+    {"name": "Hauntwoods Shrieker", "set": "Duskmourn: House of Horror", "note": "Repeatedly triggers manifest dread on attack; generates repeated counter triggers for Inspector"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "color_magic_in_tags_filter": true,
+    "notes": "mana_cost: {2}{G} present in frontmatter. green-magic in tags_filter. No triage issues."
+  }
+}

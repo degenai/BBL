@@ -1,0 +1,51 @@
+{
+  "card_name": "Cathartic Parting",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "171",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag. Art depicts a rat-humanoid and glowing child-ghost; story context strongly suggests this depicts Nashi (Nezumi son of Tamiyo) saying farewell to Tamiyo's ghost in DSK Episode 6. This connection is surfaced as lore-context trivia, not an IP flag, because Nashi is Wizards-internal and the card was not flagged for IP review.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cathartic Parting is a story spotlight card in Duskmourn: House of Horror, meaning it depicts a key narrative moment from the set's published fiction. Duskmourn's story centers on a rescue team — including Nashi, Tyvar, Zimone, Niko, Kaito, and the Wanderer — entering a sentient haunted house to retrieve Nashi, son of the Planeswalker Tamiyo, who had gone missing inside. [Scryfall story_spotlight: true; draftsim.com/mtg-duskmourn-house-of-horror-story/]",
+      "sources": ["Scryfall", "Draftsim Duskmourn story summary"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The art is consistent with the climactic farewell scene in Duskmourn Episode 6 (\"Don't Die\"): Nashi, a young Nezumi artificer (rat-humanoid) adopted by Tamiyo, discovers that Tamiyo's ghost cannot be freed because Duskmourn has been consuming her stories. Tamiyo tells Nashi she must be released, and the two say goodbye. The flavor text — \"We got more than most people do. We got the chance to say goodbye\" — maps directly to this moment. The depicted rat-humanoid figure and glowing child-ghost are consistent with Nashi and Tamiyo's spirit as described in the Wizards story fiction, though the card's oracle and flavor text do not name the characters explicitly. [magic.wizards.com/en/news/magic-story/episode-six-dont-die; Scryfall flavor_text]",
+      "sources": ["magic.wizards.com/en/news/magic-story/episode-six-dont-die", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"We got more than most people do. We got the chance to say goodbye.\" The speaker is unattributed on the card. In context of Episode 6, the sentiment is spoken in the narrative space of the Nashi-Tamiyo farewell. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At {1}{G}, Cathartic Parting offers a two-for-one effect: it bounces an opponent's artifact or enchantment by shuffling it into their library (hate that sticks around, unlike bounce or destroy), while also allowing you to shuffle up to four cards from your graveyard back into your library. It is not pauper-legal (uncommon). EDHREC rank 14,419 as of release data. [Scryfall legalities; EDHREC]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Art is by Miranda Meeks, described by Hipsters of the Coast (in their Core Set 2021 Grand Art Tour) as an illustrator who makes \"the mysterious and macabre brilliant and beautiful.\" Meeks made her return to Magic with Core Set 2021. Her Cathartic Parting art received an Art Series treatment (ADSK no. 14), indicating Wizards selected it for the premium art-card program included in collector boosters. [hipstersofthecoast.com/2020/06/core-set-2021-grand-art-tour/; Scryfall ADSK set]",
+      "sources": ["hipstersofthecoast.com/2020/06/core-set-2021-grand-art-tour/", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Nashi, Searcher in the Dark", "set": "Duskmourn: House of Horror", "note": "Named card for the Nezumi protagonist whose farewell scene Cathartic Parting depicts"},
+    {"name": "Tamiyo, Collector of Tales", "set": "War of the Spark", "note": "Tamiyo is Nashi's adoptive mother; her ghost appears in the scene the card depicts"},
+    {"name": "Coordinated Clobbering", "set": "Duskmourn: House of Horror", "note": "Another DSK story spotlight card from the same rescue party narrative"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "color_magic_in_tags_filter": true,
+    "notes": "mana_cost: {1}{G} present in frontmatter. green-magic in tags_filter. No triage issues. Note: tags_filter has 'graveyard' but not 'instant' — card type is Sorcery; the 'instant' tag in tags_filter does not appear to be present, which is correct."
+  }
+}

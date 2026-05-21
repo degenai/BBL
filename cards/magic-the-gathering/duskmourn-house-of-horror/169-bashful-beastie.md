@@ -76,3 +76,14 @@ A shaggy reddish-brown beast with oversized round eyes and tall fox-like ears hi
 **Creatures:** beast, furry-creature
 **Genre cues:** fantasy, storybook, folklore
 
+## Trivia
+
+- **Set context** — Bashful Beastie is from Duskmourn: House of Horror (DSK), released 2024-09-27, a top-down horror expansion set inside a single sentient haunted house rather than a full plane. The set's creative brief deliberately targeted 1970s-1980s film horror aesthetics to distinguish it from the gothic-literature framing of Innistrad. `[Wizards of the Coast, Duskmourn Vision Design Handoff; Scryfall]`
+- **Flavor text** — "No one knows what hides beneath the beasties' masks." The line positions the mask as a mystery intrinsic to the creature type, consistent with Duskmourn's design philosophy of building suspense through partial information rather than outright shock. `[Scryfall]`
+- **Mechanical context** — On death, Bashful Beastie triggers manifest dread, a Duskmourn-exclusive evolution of the original Manifest mechanic from Fate Reforged (2015). Where original Manifest placed the top card of the library face-down blind, Manifest Dread lets you look at the top two and choose which goes onto the battlefield face-down; the other goes to the graveyard, fueling Duskmourn's delirium subtheme. The card appears in approximately 1,310 Commander decks on EDHREC. `[magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics; EDHREC; coolstuffinc.com]`
+- **Design** — Art is by Aaron Miller, a freelance fantasy illustrator contributing to Magic since 2013. Miller is noted within the MTG community for a popular foil token series he funded via Kickstarter campaigns (2019 Treasure Skull Collection, 2020 Foil Token Packs), both covered by Hipsters of the Coast. `[hipstersofthecoast.com/tag/aaron-miller/; Gatherer]`
+
+### Related cards
+- Manifest Dread (DSK, 189) — rules card defining the mechanic Bashful Beastie triggers on death
+- Growing Dread (DSK) — flash creature that also manifests dread and buffs when permanents turn face-up; noted synergy partner
+- Hauntwoods Shrieker (DSK) — repeatedly triggers manifest dread on attack; pairs with Beastie's death trigger in manifest-dread builds

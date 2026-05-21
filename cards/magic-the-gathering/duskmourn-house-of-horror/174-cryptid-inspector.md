@@ -76,3 +76,14 @@ A pointy-eared elf figure stands at the center of the frame in a darkened, smoky
 **Iconography:** green-flame, investigator-lantern
 **Genre cues:** fantasy, gothic-horror, paranormal
 
+## Trivia
+
+- **Set context** — Cryptid Inspector is typed as Elf Warrior in Duskmourn: House of Horror (DSK). The "cryptid" naming draws on modern paranormal-investigation culture — a deliberate design choice; the Wizards creative brief for DSK targeted 1970s-1980s-to-present horror film and paranormal tropes rather than Innistrad's classic gothic-literature roots. `[magic.wizards.com/en/news/making-magic/duskmourn-house-of-horror-vision-design-handoff-part-1; Scryfall]`
+- **Flavor text** — "Please be dead, please be dead, please be dead." The text is a first-person internal monologue approaching something that needs to be confirmed dead — a recurring horror-genre beat. The anxious repetition is intentional tonal design. `[Scryfall]`
+- **Mechanical context** — Cryptid Inspector is a 2/3 for {2}{G} with vigilance. It puts a +1/+1 counter on itself whenever a face-down permanent enters and again whenever any permanent you control is turned face-up, meaning a single manifest cycle double-triggers it: the face-down enter fires once, the face-up flip fires again. The Card Kingdom blog noted this makes the card "pretty pushed," capable of becoming a 4/5 vigilance from one manifest cycle. Synergizes with manifest dread, morph, megamorph, and disguise mechanics. Pauper-legal. EDHREC rank 16,906. `[blog.cardkingdom.com/manifesting-dread-in-duskmourn-house-of-horrors/; Scryfall; EDHREC]`
+- **Design** — Art is by Kim Sokol. No prior MTG credits are linked to this artist by that name in Gatherer — this appears to be a debut or early MTG commission. `[Scryfall; Gatherer]`
+
+### Related cards
+- Bashful Beastie (DSK, 169) — green DSK common with manifest dread death trigger; direct synergy: Beastie dies, manifests, Inspector counters twice
+- Growing Dread (DSK) — flash manifest-dread creature that also buffs on face-up; stacks with Inspector's counters
+- Hauntwoods Shrieker (DSK) — repeatedly triggers manifest dread on attack; generates sustained counter triggers for Inspector

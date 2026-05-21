@@ -1,0 +1,46 @@
+{
+  "card_name": "Cautious Survivor",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "172",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cautious Survivor is a Creature — Elf Survivor from Duskmourn: House of Horror (DSK). The Survivor creature type is new to DSK, introduced alongside the Survival ability word. All DSK Survivors carry Survival triggers, mechanically reflecting the set's horror-movie trope of a protagonist enduring impossible odds. [Scryfall type_line; magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Survival is an ability word introduced in DSK that triggers at the beginning of your second main phase if the creature with the ability is tapped. Cautious Survivor's trigger grants 2 life. The Wizards mechanics article states: 'Survival feels very connected to Duskmourn's horror movie troping' and the second main phase timing is deliberate — the creature must have survived combat or been otherwise tapped first. Survival is predominantly a white and green mechanic. The card is a 4/4 for {3}{G} with pauper legality. EDHREC rank 18,854. [magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics; Scryfall; EDHREC]",
+      "sources": ["magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics", "Scryfall", "EDHREC"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"She came back alone, with her recorder broken and its footage scrambled. Whatever she had experienced, she never spoke of again.\" The text frames the card as a found-footage horror survivor: someone who witnessed something inside the House and chose (or was unable) to report it — a classic horror trope of the unreliable or traumatized witness. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art is by Jodie Muir. The card is a common with no reprint history as of the Scryfall prints search. [Scryfall artist field; Scryfall prints_search_uri]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Veteran Survivor", "set": "Duskmourn: House of Horror", "note": "The Wizards mechanics article uses Veteran Survivor as the example card to explain the Survival ability word"},
+    {"name": "Hauntwoods Shrieker", "set": "Duskmourn: House of Horror", "note": "Another green DSK creature with survival-adjacent mechanics"},
+    {"name": "Overlord of the Hauntwoods", "set": "Duskmourn: House of Horror", "note": "Green mythic centerpiece of the DSK green set archetype that Cautious Survivor feeds into"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "color_magic_in_tags_filter": true,
+    "notes": "mana_cost: {3}{G} present in frontmatter. green-magic in tags_filter. No triage issues."
+  }
+}
