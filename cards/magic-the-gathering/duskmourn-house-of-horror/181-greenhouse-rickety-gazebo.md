@@ -77,3 +77,16 @@ The image is divided into two distinct panels side by side, representing the Roo
 **Objects:** potted plants, worktable, white chair, rusted bench, ivy, arched glass windows, lantern
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context and mechanic** — Greenhouse // Rickety Gazebo is one of DSK's Room cards: split enchantments where each half is a "door" that unlocks separately. The Room mechanic was new to Duskmourn (released 2024-09-27) and represents the haunted house's rooms as persistent enchantments with dual states. Casting either half unlocks that door; the other door unlocks later as a sorcery by paying its cost. `[Scryfall layout: split]` `[magic.wizards.com: "Duskmourn: House of Horror Mechanics"]`
+- **Mechanical function** — Greenhouse (cost: 3 mana, {2}{G}) upgrades all your lands to produce any color of mana, a strong mana-fixing effect. Rickety Gazebo (cost: 4 mana, {3}{G}) mills four cards and returns up to two permanent cards among them to hand, enabling graveyard recursion. The two halves combine mana fixing with card selection, making it a popular Commander inclusion. `[Scryfall oracle_text, card_faces]`
+- **EDHREC** — Ranked 6,637 on EDHREC at time of Scryfall pull, the highest EDHREC rank of the five cards in this batch, reflecting strong Commander adoption. WebSearch results indicate approximately 19,584 tracked decks include it, with Marina Vendrell (the DSK Room-themed commander) running it in approximately 94% of her decks. `[Scryfall edhrec_rank]` `[edhrec.com: Greenhouse // Rickety Gazebo card page via WebSearch]`
+- **Preview** — The card was previewed on the Limited Resources Patreon (2024-09-06), suggesting Wizards selected it as a card of limited-format interest. `[Scryfall preview_source: Limited Resources]`
+- **Artist** — John Di Giovanni illustrated both halves of the card (the split-panel art is a single commission split across the Room card layout). He has contributed approximately 33-57 cards to MTG, with the wide range reflecting variant printings. `[Scryfall artist field]` `[artofmtg.com: John Di Giovanni artist page via WebSearch]`
+
+### Related cards
+- Marina Vendrell (DSK) — the DSK commander built around Room cards; Greenhouse // Rickety Gazebo appears in approximately 94% of her decks per EDHREC
+- Restless Cottage (WOE) — prior "haunted house" Room-adjacent location card; thematically related
+- Smothering Tithe (RNA) — frequently compared in Commander as a mana-advantage enchantment that changes what your lands do
+- Yedora, Grave Gardener (CMR) — commander that pairs with the Rickety Gazebo mill-and-return half

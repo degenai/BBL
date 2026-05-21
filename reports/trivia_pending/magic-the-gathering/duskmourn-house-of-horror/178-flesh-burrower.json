@@ -1,0 +1,52 @@
+{
+  "card_name": "Flesh Burrower",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "178",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag present.",
+  "triage_flags": {
+    "mana_cost_missing": false,
+    "color_magic_tag_missing": false,
+    "notes": "mana_cost: {1}{G} present in frontmatter; green-magic present in tags_filter."
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Flesh Burrower is a common in Duskmourn: House of Horror (DSK, released 2024-09-27), a set designed around 1980s-style horror as a conscious departure from Innistrad's gothic literary tradition. The plane is a single infinite haunted house.",
+      "sources": ["Scryfall", "magic.wizards.com: Duskmourn: House of Horror Mechanics"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Symptoms of a burrower bite include fevers, chills, gangrene, subcutaneous writhing, a growing urge to eat the flesh of the living, and if you're lucky, death.\" — written as a clinical medical list that escalates to horror; 'if you're lucky, death' inverts the medical convention of death as worst outcome.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pauper-legal and PauperCommander-legal, making it one of the few DSK commons with competitive traction outside draft. Its attack trigger shares deathtouch with a second attacker; draft analysis identified it as a useful common in GW Survival builds where attacking is already mechanically rewarded.",
+      "sources": ["Scryfall legalities", "draftsim.com: DSK draft guide"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 9,537 as of Scryfall data pull, considerably higher than the other DSK commons in this batch, reflecting Commander community adoption of the deathtouch-spreading trigger in go-wide deathtouch strategies.",
+      "sources": ["Scryfall edhrec_rank"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Maxime Minard, who has a presence on the Art of Magic the Gathering artist index. No Hipsters of the Coast artist profile was found.",
+      "sources": ["Scryfall artist field", "artofmtg.com: artist index"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Basilisk Collar", "set": "SOM", "note": "equipment that gives deathtouch; same deathtouch-spreading strategy vector"},
+    {"name": "Saryth, the Viper's Fang", "set": "MID", "note": "commander that grants deathtouch to tapped creatures; strong synergy with Flesh Burrower's attack trigger"},
+    {"name": "Skullclamp", "set": "DST", "note": "pairs with deathtouch 2/2s that trade favorably in combat"},
+    {"name": "Vorinclex, Monstrous Raider", "set": "KHM", "note": "high-end green creature sometimes paired in deathtouch Commander builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -74,3 +74,16 @@ A close-up body-horror composition: a dark, segmented insect-like burrower force
 **Iconography:** wound, glow, tendril
 **Genre cues:** body-horror, horror, fantasy
 
+## Trivia
+
+- **Set context** — Flesh Burrower is a common in Duskmourn: House of Horror (DSK, released 2024-09-27), a set designed around modern 1980s-style horror as a conscious departure from Innistrad's gothic literary tradition. The plane is a single infinite haunted house. `[Scryfall]` `[magic.wizards.com: "Duskmourn: House of Horror Mechanics"]`
+- **Flavor text** — "Symptoms of a burrower bite include fevers, chills, gangrene, subcutaneous writhing, a growing urge to eat the flesh of the living, and if you're lucky, death." `[Scryfall flavor_text]` The flavor text is written as a clinical list that escalates to horror; the phrase "if you're lucky, death" inverts medical convention (death as the worst outcome) to frame it as mercy.
+- **Mechanic** — The card is pauper-legal and paupercommander-legal, making it one of the few DSK commons with competitive traction outside draft. Its combat trigger shares deathtouch with a second attacker, turning any team attack into a double deathtouch threat; draft analysis identified it as a useful common in green aggressive builds and GW Survival where attacking is already rewarded. `[Scryfall legalities]` `[draftsim.com: DSK draft guide]`
+- **EDHREC** — Ranked 9,537 on EDHREC as of Scryfall data, considerably higher than the other DSK commons in this batch, reflecting Commander community adoption of the deathtouch-spreading trigger in go-wide deathtouch strategies. `[Scryfall edhrec_rank]`
+- **Artist** — Maxime Minard illustrated Flesh Burrower. No Hipsters of the Coast artist profile was found; the artist has a presence on Art of Magic the Gathering's artist index. `[artofmtg.com: artist index]`
+
+### Related cards
+- Basilisk Collar (SOM) — equip that gives deathtouch; shares the deathtouch-spreading strategy vector
+- Saryth, the Viper's Fang (MID) — commander that grants deathtouch to tapped creatures; strong synergy with Flesh Burrower's attack trigger
+- Vorinclex, Monstrous Raider (KHM) — high-end green creature sometimes paired in deathtouch Commander builds
+- Skullclamp (DST) — pairs with deathtouch 2/2s that trade favorably

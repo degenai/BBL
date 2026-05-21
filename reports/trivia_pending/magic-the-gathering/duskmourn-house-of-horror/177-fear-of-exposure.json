@@ -1,0 +1,52 @@
+{
+  "card_name": "Fear of Exposure",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "177",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag present.",
+  "triage_flags": {
+    "mana_cost_missing": false,
+    "color_magic_tag_missing": false,
+    "notes": "mana_cost: {2}{G} present in frontmatter; green-magic present in tags_filter."
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fear of Exposure is part of the 'Fear of' cycle in DSK: a large cycle of Enchantment Creature — Nightmare cards distributed across all five colors at various rarities, each named after a real-world phobia or social anxiety concept. The Gatherer search for 'Fear of' in DSK and its Commander supplement returns 20 cards.",
+      "sources": ["Scryfall", "gatherer.wizards.com: Fear of search in DSK"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As an Enchantment Creature, Fear of Exposure carries DSK's dual enchantment/creature frame. The additional cost of tapping two untapped creatures or lands is oracle text (not a keyword), functioning as a mana-efficiency tax partially offset by a 5/4 Trample body at three mana. Previewed by Indonesian gaming site Duniaku (IDN Times), 2024-09-11.",
+      "sources": ["Scryfall oracle_text", "Scryfall preview_source: Duniaku / IDN Times"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"A mouth like that can never keep secrets.\" — the line plays on the psychological concept of exposure (secrets forced into the open) literalized by the creature's gaping maw with trapped faces visible inside.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Josu Hernaiz, a prolific MTG illustrator with over 100 cards across multiple sets. No Hipsters of the Coast artist profile was found for him.",
+      "sources": ["Scryfall artist field", "gatherer.wizards.com: artist search Josu Hernaiz"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 16,811 as of Scryfall data pull, placing it in the lower-frequency Commander inclusions from DSK. Its additional cost makes it less appealing in Commander's singleton context where reliably tapping two permanents as early plays is not guaranteed.",
+      "sources": ["Scryfall edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fear of Missing Out", "set": "DSK", "note": "same Nightmare enchantment-creature cycle, red variant, most discussed card of the cycle"},
+    {"name": "Fear of Abduction", "set": "DSK", "note": "white variant of the Fear of cycle"},
+    {"name": "Fear of the Dark", "set": "DSK", "note": "black variant, menace and deathtouch"},
+    {"name": "Valgavoth, Terror Eater", "set": "DSK", "note": "major DSK horror creature with similar mouth/consumption imagery"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

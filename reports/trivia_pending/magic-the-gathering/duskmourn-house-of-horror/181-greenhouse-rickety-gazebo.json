@@ -1,0 +1,52 @@
+{
+  "card_name": "Greenhouse // Rickety Gazebo",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "181",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag present.",
+  "triage_flags": {
+    "mana_cost_missing": false,
+    "color_magic_tag_missing": false,
+    "notes": "mana_cost: {2}{G} // {3}{G} present in frontmatter; green-magic present in tags_filter."
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Greenhouse // Rickety Gazebo is one of DSK's Room cards: split enchantments where each half is a 'door' that unlocks separately. The Room mechanic was new to Duskmourn (released 2024-09-27) and represents the haunted house's rooms as persistent enchantments with dual states.",
+      "sources": ["Scryfall layout: split", "magic.wizards.com: Duskmourn: House of Horror Mechanics"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Greenhouse (cost {2}{G}) upgrades all lands to produce any color of mana — strong mana-fixing. Rickety Gazebo (cost {3}{G}) mills four cards and returns up to two permanent cards among them to hand — enabling graveyard recursion. The two halves combine mana fixing with card selection.",
+      "sources": ["Scryfall oracle_text, card_faces"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 6,637 at time of Scryfall pull, highest of the five cards in this batch. Approximately 19,584 tracked Commander decks include it per EDHREC. Marina Vendrell (DSK's Room-themed commander) runs it in approximately 94% of her decks tracked on EDHREC.",
+      "sources": ["Scryfall edhrec_rank", "edhrec.com: Greenhouse // Rickety Gazebo card page via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Previewed on the Limited Resources Patreon (2024-09-06), indicating Wizards selected it as a card of limited-format interest. Illustrated by John Di Giovanni, who illustrated both halves of the card; the split-panel art is a single commission divided across the Room card layout.",
+      "sources": ["Scryfall preview_source: Limited Resources", "Scryfall artist field"]
+    },
+    {
+      "category": "design",
+      "text": "John Di Giovanni has approximately 33-57 card credits in MTG (range reflects variant printings). No Hipsters of the Coast artist profile found.",
+      "sources": ["artofmtg.com: John Di Giovanni artist page via WebSearch", "gatherer.wizards.com: artist search John Di Giovanni"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Marina Vendrell", "set": "DSK", "note": "DSK commander built around Room cards; this card appears in approximately 94% of her EDHREC decks"},
+    {"name": "Restless Cottage", "set": "WOE", "note": "prior haunted-house Room-adjacent location card, thematically related"},
+    {"name": "Smothering Tithe", "set": "RNA", "note": "frequently compared in Commander as a mana-advantage enchantment that changes what your lands do"},
+    {"name": "Yedora, Grave Gardener", "set": "CMR", "note": "commander that pairs well with the Rickety Gazebo mill-and-return half"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

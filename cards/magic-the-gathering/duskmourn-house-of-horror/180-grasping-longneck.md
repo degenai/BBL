@@ -76,3 +76,16 @@ A massive teal-and-green nightmare creature dominates the frame: a serpentine ne
 **Iconography:** glowing-eyes, fangs, writhing-limbs
 **Genre cues:** horror, survival-horror, cosmic-horror, monster-movie, fantasy
 
+## Trivia
+
+- **Set context** — Grasping Longneck is a common in Duskmourn: House of Horror (DSK, released 2024-09-27). Like all Enchantment Creature — Horror cards in DSK, it carries the enchantment frame to signal that the horrors of Duskmourn are semi-supernatural in nature: the house generates monsters from fear itself. `[Scryfall type_line, set_name]`
+- **Flavor text** — "We ran, but it was all around us — like a writhing, flailing forest of rubbery limbs and stabbing talons." — Survivor's journal `[Scryfall flavor_text]` The flavor text source is unnamed, attributed only to a survivor's journal, consistent with DSK's recurring motif of anonymous survivors documenting horrors they barely escaped. The description "forest of rubbery limbs" maps directly to what the art depicts.
+- **Mechanic** — A 4/2 with Reach and a death trigger that gains 2 life. The Reach keyword is mechanically consistent with the creature's physical form: an extremely long-necked, many-limbed horror that can threaten the air. The death trigger makes it a reluctant blocker as well as an attacker, providing a small life-gain buffer when it dies. `[Scryfall oracle_text]`
+- **Artist** — Mathias Kollros has illustrated over 380 Magic cards and also contributed to Warhammer 40,000 gaming art. His portfolio is concentrated in horror and fantasy creature work. Grasping Longneck is consistent with his darker creature illustration style. `[artofmtg.com: Mathias Kollros artist page]` `[Scryfall artist field]`
+- **Mechanical reputation** — EDHREC rank 18,181 as of Scryfall data pull, among the lowest-inclusion DSK commons in this batch, consistent with its role as a format-filler common without a dedicated Commander strategy requiring it. `[Scryfall edhrec_rank]`
+
+### Related cards
+- Defiant Survivor (DSK no. 175) — shares the Survivor subtype and appears in the same card set; both involve a human facing off against DSK's horrors
+- Valgavoth, Terror Eater (DSK) — major DSK horror creature with similar many-limbed body horror aesthetic
+- Colossal Dreadmaw (various) — archetypal Reach creature it narratively echoes, as a horror-plane creature filling the same "big green reach body" role
+- Strangleroot Geist (DKA) — common death-trigger green creature of similar format utility

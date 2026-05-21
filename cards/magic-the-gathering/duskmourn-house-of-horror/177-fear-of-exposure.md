@@ -79,3 +79,16 @@ A pale, fleshy creature moves down a spiral staircase in what appears to be a go
 **Creatures:** nightmare creature with gaping maw, trapped human faces inside creature
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context and cycle** — Fear of Exposure is part of the "Fear of" cycle in Duskmourn: House of Horror (DSK, released 2024-09-27): a large named cycle of Enchantment Creature — Nightmare cards distributed across all five colors at various rarities, each named after a real-world phobia or social anxiety concept. The Gatherer search for "Fear of" in DSK and its Commander supplement returns 20 cards. `[Scryfall]` `[gatherer.wizards.com: Fear of search in DSK]`
+- **Mechanic** — As an Enchantment Creature, Fear of Exposure carries DSK's signature dual enchantment/creature frame. The additional cost of tapping two untapped creatures or lands is printed in the oracle text, not as a keyword; it functions as a mana-efficiency tax that is partially offset by the 5/4 Trample body at three mana. Previewed by Indonesian gaming site Duniaku (IDN Times), 2024-09-11. `[Scryfall]` `[Scryfall preview_source: Duniaku]`
+- **Flavor text** — "A mouth like that can never keep secrets." `[Scryfall flavor_text]` The line plays on the psychological concept of exposure (secrets forced into the open) literalized by the creature's gaping maw with trapped faces visible inside it.
+- **Artist** — Josu Hernaiz is a prolific MTG illustrator with over 100 cards across multiple sets. `[gatherer.wizards.com: artist search Josu Hernaiz]` No Hipsters of the Coast artist profile was found for him.
+- **Mechanical reputation** — EDHREC rank 16,811 as of Scryfall data pull, placing it in the lower-frequency Commander inclusions from DSK. Its additional cost makes it less appealing in Commander's singleton context where it can't reliably tap two permanents as early plays. `[Scryfall edhrec_rank]`
+
+### Related cards
+- Fear of Missing Out (DSK) — same Nightmare enchantment-creature cycle, red variant, the most discussed card of the cycle due to its combat phase manipulation
+- Fear of Abduction (DSK) — white variant of the Fear of cycle, higher rarity
+- Fear of the Dark (DSK) — black variant, menace and deathtouch
+- Valgavoth, Terror Eater (DSK) — major DSK horror creature with similar mouth/consumption imagery

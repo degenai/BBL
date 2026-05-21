@@ -1,0 +1,20 @@
+{
+  "edge_id": "wave161-fresh-slate-refusal",
+  "shape": "refusal",
+  "category": "n/a",
+  "endpoints": [],
+  "description": "No edge, node, dissolution, or replacement warranted this wave. The 5 fresh MTG cards (DSK 175/177/178/180/181) are all fully enriched AND already structurally wired: Fear of Exposure 177 carries characters:[fear-of-cycle] and the fear-of-cycle node's appears_on already lists it on both ends; Greenhouse//Rickety Gazebo 181 carries symbols:[rooms] and rooms.appears_on already lists it; Defiant Survivor 175 carries characters:[dsk-survival-archetype] + symbols:[manifest-dread,survival]. The 5 fresh Pokemon cards (Destined Rivals 058/062/064/072/077) are vision-only -- no ## Trivia section, ip_verified:false, no tags field -- so they are not on the trivia-passed slate Edgelord works (bbl-edgelord-target-enriched-not-random). Team Rocket's Mareep DSK-072 is the one tempting candidate (a 6th Mareep print the mareep-line node does not yet anchor), but wiring it now is premature on two counts: (1) the card is not trivia-passed and ip_verified is false, and (2) 'Team Rocket's Mareep' is a distinct Destined Rivals designer-coordinated subset entity that may belong to the team-rocket cohort rather than -- or in addition to -- the species line; that disambiguation is the trivia pass's job, not a guess Edgelord should make. Worst proposed edge ever would be guessing the cohort attachment before the trivia pass confirms IP. Refusal is the discipline working.",
+  "citations": [
+    "[fear-of-cycle.md appears_on -- 177-fear-of-exposure already listed]",
+    "[rooms.md appears_on -- 181-greenhouse-rickety-gazebo already listed]",
+    "[177-fear-of-exposure.md frontmatter characters:[fear-of-cycle]]",
+    "[memory: bbl-edgelord-target-enriched-not-random -- slate is vision+trivia both done]",
+    "[memory: bbl-triviabot-no-role-identity-conflation -- no cohort attach before evidence]"
+  ],
+  "files_modified": [],
+  "edgelord_mood": "refused-with-receipts",
+  "next_pass_suggestions": [
+    "When Team Rocket's Mareep DSK-072 is trivia-passed and ip_verified, re-evaluate: it is a candidate 6th member for mareep-line (appears_on currently 4, body caveat says 'five corpus prints' so the Flaaffy DAA-056 vision-only print is also pending) -- BUT first confirm via trivia whether the 'Team Rocket's [Pokemon]' Destined Rivals subset routes these prints to the team-rocket character node as primary cohort. Team Rocket's Venture Bomb DSK-179 is a sibling 'Team Rocket's' card already in corpus; if 3+ 'Team Rocket's' cards land enriched, a team-rocket-subset stack edge or node may be the higher-yield move than a species-line attach.",
+    "STALE-PROSE TODO (not an edge -- node-body maintenance for a janitor/Nodeley pass): fear-of-cycle.md has sync drift. Its roster table (line 57) marks Fear of Exposure DSK-177 as NOT in corpus, line 83 calls it 'previously unsurveyed in the corpus', and line 86 states '5 of 14' coverage -- but appears_on (line 21) and the auto-generated Appears-on list (line 104) both already include 177, and the card is fully enriched. Actual corpus coverage is 6 of 14. The card-to-node edge is structurally complete on both ends; only the node's descriptive prose is stale. Surface for a fear-of-cycle body-refresh pass."
+  ]
+}

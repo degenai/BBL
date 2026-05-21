@@ -79,3 +79,16 @@ A young figure in green short-sleeved clothing stands in a low fighting stance, 
 **Objects:** staff, mechanical device or gadget
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** — Defiant Survivor is part of Duskmourn: House of Horror (DSK), released 2024-09-27. The set is a top-down horror design set on a plane that is literally a single infinite haunted house, consciously distinct from Innistrad by drawing on modern 1980s-style horror rather than gothic literary tradition. `[Scryfall]` `[magic.wizards.com: "Duskmourn: House of Horror Mechanics"]`
+- **Mechanic** — The card carries two of DSK's signature mechanics in one package: Survival (a triggered ability requiring the creature to be tapped at the start of your second main phase) and Manifest Dread (look at the top two library cards, put one face-down as a 2/2, the other to the graveyard). Survival deliberately rewards aggressive play by triggering off the same state that proves a creature survived combat. `[Scryfall oracle_text]` `[magic.wizards.com: "Duskmourn: House of Horror Mechanics"]`
+- **Flavor text** — "The dark should be scared of me!" `[Scryfall flavor_text]` The quote is unattributed, voiced in first person by the depicted figure, functioning as a battle cry that inverts the horror genre's power dynamic: the survivor threatens the darkness rather than fearing it.
+- **Artist** — Jessica Fong (online handle: anireal) is a Bay Area illustrator with credits in DC Comics' GLAAD Award-winning Poison Ivy series alongside Wizards of the Coast's Dungeons and Dragons and MTG work. She had 9 MTG cards as of late 2024. `[gatherer.wizards.com artist search]` `[leagueofcomicgeeks.com: Jessica Fong profile]`
+- **Limited context** — The GW Survival archetype in DSK draft relies on creatures triggering Survival abilities by attacking; Defiant Survivor's combined Survival + Manifest Dread package made it a notable value engine for that color pair, generating a free face-down creature each turn it attacked and tapped. `[draftsim.com: "The Ultimate Guide to Duskmourn: House of Horror Draft"]`
+
+### Related cards
+- Defiant Strike (various) — shares the "defiant" naming motif in white-red but no mechanical link; purely nominal
+- Oblivious Bookworm (DSK) — another Survival creature in green, shares the manifest dread trigger package
+- Paranormal Analyst (DSK) — UG manifest dread payoff, pairs with Defiant Survivor in ramp-into-manifest builds
+- Horrors of the Deep (DSK) — Manifest Dread is a cross-set mechanical thread across many DSK green cards
