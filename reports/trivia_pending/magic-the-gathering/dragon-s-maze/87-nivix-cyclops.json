@@ -1,0 +1,42 @@
+{
+  "card_name": "Nivix Cyclops",
+  "game": "Magic: The Gathering",
+  "set": "Dragon's Maze",
+  "collector_number": "87",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Nivix is the Izzet guildhall on Ravnica — the 'Aerie of the Firemind,' home of Niv-Mizzet — an immense tower housing alchemists, mages, and the Laboratory of Pyrology. A cyclops stationed there fits the Izzet pattern of pressing large creatures into experimental service.",
+      "sources": ["MTG Wiki: Nivix, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 1/4 Defender for {1}{U}{R} that gains +3/+0 and loses Defender on any instant or sorcery cast. Enables Pauper combo kills: Artful Dodge + Assault Strobe lets it attack as a 7/4 double striker with evasion as early as turn 3. EDHREC rank 21463.",
+      "sources": ["Scryfall: oracle_text, edhrec_rank", "TappedOut Pauper decklists, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "No flavor text on this printing. Izzet guild watermark confirmed. Art by Wayne Reynolds. Legal in Historic, Timeless, Pioneer, Modern, Legacy, Vintage, Pauper, and Commander.",
+      "sources": ["Scryfall: flavor_text, watermark, artist, legalities"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on TappedOut Pauper forums: Nivix Cyclops is the secondary threat in Izzet spell-pump combo decks alongside Kiln Fiend, offering redundancy since multiple copies attack independently. Some players note a flavor-mechanical joke: its Defender keyword suggests it 'defends the Izzet labs' until spells start flying.",
+      "sources": ["TappedOut 'Everyone's a Critic: Nivix Cyclops' thread, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kiln Fiend", "set": "Rise of the Eldrazi", "note": "Primary companion in Pauper spell-pump combo, same +3/+0 trigger"},
+    {"name": "Artful Dodge", "set": "Dark Ascension", "note": "Evasion piece enabling Cyclops lethal combo lines"},
+    {"name": "Assault Strobe", "set": "Scars of Mirrodin", "note": "Double strike enabler in Pauper Cyclops combo"},
+    {"name": "Niv-Mizzet, Parun", "set": "Guilds of Ravnica", "note": "Izzet guild leader, master of Nivix tower"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

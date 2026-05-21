@@ -1,0 +1,46 @@
+{
+  "card_name": "Miasma Demon",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "109",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (DSK) released September 27, 2024. The set is a top-down horror design centered on a single haunted mansion — the plane of Duskmourn itself — ruled by the moth demon Valgavoth. First premier MTG set built around modern interior horror rather than an open-world plane.",
+      "sources": ["Wizards of the Coast: Duskmourn Vision Design Handoff Part 1", "Scryfall: set DSK"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Hush, little ants. I can rid you of your troubles with a breath. All I ask in return is a drop of blood... and a promise.\" — unnamed demon speaker; predatory bargainer framing.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "design",
+      "text": "Uses a reflexive trigger structure: discarding is self-initiated, a second ability triggers when you do, and you choose targets then — not in advance. Scales with hand size; emptying hand clears up to six creatures simultaneously.",
+      "sources": ["Scryfall: oracle_text", "MTGSalvation: DSK card entry"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Mathias Kollros has contributed 161+ cards to MTG since his 2012 debut in Return to Ravnica across 17+ sets, including multiple pieces in DSK (Waltz of Rage, Decree of Pain).",
+      "sources": ["Gatherer: artist search Mathias Kollros", "Scryfall: DSK artist filter"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 19,138 as of 2026-05-19 — among the less-adopted DSK uncommons in commander formats; treated as a budget role-filler at 6 mana.",
+      "sources": ["Scryfall: edhrec_rank field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Arabella, Abandoned Doll", "set": "DSK", "note": "Mythic Toy creature from same set; thematic parallel as Valgavoth-warped sentient object"},
+    {"name": "Decree of Pain", "set": "DSC", "note": "Mathias Kollros art in Duskmourn Commander precon; same artist cohort"},
+    {"name": "Waltz of Rage", "set": "DSK", "note": "Mathias Kollros illustration in DSK mainset; same artist cohort"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

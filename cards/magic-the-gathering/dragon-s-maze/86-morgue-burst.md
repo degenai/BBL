@@ -75,3 +75,14 @@ A vertical eruption of orange-red flame, sparks, and pulverized debris bursts up
 **Iconography:** rakdos-guild-symbol
 **Genre cues:** fantasy, dark-fantasy, horror
 
+## Trivia
+
+- **Set context** — Morgue Burst is a common from Dragon's Maze (DGM), released 2013-05-03, carrying a Rakdos guild watermark [Scryfall: `watermark: rakdos`]. It is a Grixis-adjacent sorcery (black-red) representing the Rakdos Cult's theatrical violence: returning a creature from the grave while dealing damage equal to its power, collapsing reanimation and burn into a single six-mana package [Scryfall: oracle_text].
+- **Flavor text** — `"Let him in. He's on the list." —Olrich, Rakdos club owner` [Scryfall]. The speaker, Olrich, is a named Rakdos club owner — the flavor frames the Rakdos Carnarium as a performance venue with a guest list, treating violent spectacle as nightlife. The deadpan delivery makes the erupting body the featured act.
+- **Mechanical profile** — At {4}{B}{R} (CMC 6) it is considered a casual-format utility card at best. EDHREC rank 22188 [Scryfall] reflects its fringe Commander presence; the mana cost is too steep for competitive formats. It is Pauper-legal [Scryfall: legalities], though it rarely sees Pauper play due to cost.
+- **Artist** — Illustrated by Raymond Swanland, a prolific MTG artist with over 170 cards credited [Gatherer, via WebSearch snippet]. Swanland is known for high-contrast dramatic action scenes; the chiaroscuro fireball eruption here is characteristic of his style.
+
+### Related cards
+- Dreadbore (Return to Ravnica) — same Rakdos watermark, iconic Rakdos removal
+- Terminate (Planeshift) — Rakdos-colored instant removal, often paired with Morgue Burst effects in Pauper
+- Faithless Looting (Dark Ascension) — common graveyard-setup card frequently paired in Pauper recursive strategies

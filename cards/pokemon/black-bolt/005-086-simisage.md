@@ -50,6 +50,8 @@ setting: forest
 suspected_ip: Simisage
 ip_confidence: high
 ip_verified: false
+characters:
+  - elemental-monkey-trio
 ---
 
 # Simisage (Black Bolt)
@@ -75,3 +77,6 @@ A bipedal monkey creature stands upright in a lush green environment, its body p
 **Creatures:** monkey, primate, plant-creature
 **Genre cues:** anime, fantasy
 
+## Connections
+
+- [[elemental-monkey-trio]] — Grass-arm evolved-form representative of the elemental monkey trio (Pansage / Pansear / Panpour and their Simi- evolved forms), the designer-coordinated Generation V Unova cohort of three paired Pokemon species mapped onto the three wise monkeys of Japanese cultural iconography (Pansage / *iwazaru* / speak no evil; Pansear / *kikazaru* / hear no evil; Panpour / *mizaru* / see no evil), each pair evolving via an elemental Stone rather than by level-up. This Black Bolt Simisage 005/086 is the corpus's second Simisage print (after Darkness Ablaze 007/189) and the cohort's first Black Bolt evolved-form member. Printed flavor *"Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter"* — the species' canonical aggressive-counterpoint-to-Pansage register, the deliberate designer-coordinated tonal inversion where the Grass arm's evolved form reverses the base form's docile leaf-as-soothing-remedy framing into a barbed-tail bitter-leaf temperament. Sits within the within-BLB adjacent-collector slot 005 immediately following Pansage 004/086, its base form — both Black Bolt prints illustrated by **kurumitsu**, a within-set single-artist-coordinated base-and-evolved pair-placement parallel to the Darkness Ablaze 006-007 Pansage/Simisage adjacency and the Black Bolt 017-018 Panpour/Simipour adjacency already in corpus. With this attachment the elemental-monkey-trio cohort node points to 13 corpus prints across 6 canonical species and 4 sets, and the Black Bolt Unova-retrospective coverage reaches four members (Pansage BB-004, Simisage BB-005, Panpour BB-017, Simipour BB-018). `[PokemonTCG.io: zsv10pt5-5 — flavor_text + artist; Bulbapedia: Simisage (Pokemon), Elemental monkeys design page]`

@@ -75,3 +75,15 @@ A figure with long light hair runs directly toward the viewer in the foreground,
 **Creatures:** shadowed monsters
 **Genre cues:** horror, fantasy
 
+## Trivia
+
+- **Set context** — Popular Egotist is from Duskmourn: House of Horror (DSK), a top-down modern-horror set released September 27, 2024. The set's plane is an infinite haunted mansion ruled by Valgavoth; Human Survivors are a named creature-type subgroup across DSK, reflecting the survival-horror genre conceit of characters who make selfish or desperate choices to stay alive `[Scryfall: set DSK]` `[Wizards of the Coast: Duskmourn mechanics article]`.
+- **Flavor text** — `"I know you'd want me to live, bestie!"` — spoken by the depicted figure, presumably as she sacrifices her companion. The callousness is the mechanic: the card rewards sacrifice with life drain `[Scryfall]`.
+- **Design / mechanical reputation** — EDHREC rank 12,283 as of 2026-05-19, placing it in the middle tier of DSK black uncommons for commander adoption. The EDHREC set review describes it as "a slightly downgraded Mayhem Devil" that fits sacrifice decks, Treasure/artifact token strategies, and enchantment decks with graveyard subthemes, and notes it can gain life off Treasure token sacrifices in ways Mayhem Devil cannot `[EDHREC: Duskmourn Set Review — Black]`.
+- **Mechanical note** — The sacrifice-triggered life-drain fires even when you sacrifice Popular Egotist itself, and fires individually for each permanent sacrificed at once. The indestructible activation requires sacrificing another permanent first, creating a meaningful cost — but the drain trigger cushions it every time `[Scryfall: oracle_text]`.
+- **Artist** — Julia Metzger is the illustrator. This is a first print with no prior reprint history `[Scryfall]`.
+
+### Related cards
+- Mayhem Devil (WAR, 204) — the direct design comparison cited by EDHREC; sacrifice-matters drain with broader reach but no self-protection
+- Arabella, Abandoned Doll (DSK, 208) — fellow DSK sacrifice payoff in the same horror-survival aesthetic
+- Immersturm Predator (STX, 93) — precedent for indestructible-via-sacrifice on a black creature

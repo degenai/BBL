@@ -75,3 +75,15 @@ The viewer looks down a long, vaulted stone hall into the depths of a massive un
 **Iconography:** rakdos-cult, blood-altar, pit-arena
 **Genre cues:** fantasy, dark-fantasy, gothic-horror
 
+## Trivia
+
+- **Original printing and reprint history** — Rakdos Carnarium was first printed in Dissension (DIS, 2006) as part of the ten-card cycle of Ravnica bounce lands — dual-colored lands that enter tapped and return another land to hand, one per two-color guild pairing. This copy is from Duel Decks: Sorin vs. Tibalt (DDK), released 2013-03-15. The card has been reprinted more than 20 times across Commander precons, Iconic Masters, Modern Masters 2015, Double Masters 2022 (including a borderless variant), Commander Anthology, Archenemy, and multiple other products [Scryfall: released_at, reprint: true; Deckbox.org listing, via WebSearch snippet].
+- **Artist profile** — Art by John Avon, one of MTG's most celebrated landscape illustrators. Avon began his career painting book covers — including work for Stephen King's *The Dark Tower* and covers for Arthur C. Clarke and Terry Pratchett — before MTG became his longest-running client over nearly 30 years. His original paintings sell for significant sums: the Unstable full-art Island sold for $20,000 (2018) and the Lotus Field painting sold for $40,000 (2019). In 2023 Wizards released a Secret Lair Artist Series for Avon. Avon maintains a personal portfolio page for this specific painting at johnavonart.com [Hipsters of the Coast: "Secret Lair Artist Series: John Avon," 2023-09-xx; "John Avon's Unstable Full-Art Island Painting Sells for $20,000," 2018; johnavonart.com/scenes/rakdos-carnarium/ via WebSearch snippet].
+- **Mechanical profile and EDHREC standing** — EDHREC rank 469 [Scryfall] makes Rakdos Carnarium one of the most-played black-red lands in Commander. It is a format staple for Rakdos, Jund, Mardu, and four/five-color Commander lists, where free mana fixing at no mana cost outweighs the bounce-land tempo loss. No flavor text on any printing of this card [Scryfall]. Legal in Modern, Legacy, Pauper, Commander, and Vintage [Scryfall: legalities].
+- **No flavor text** — Scryfall confirms no flavor text on this printing [Scryfall].
+
+### Related cards
+- Dimir Aqueduct (Ravnica: City of Guilds) — same bounce land cycle, Dimir colors
+- Gruul Turf (Dissension) — bounce land cycle peer, Gruul colors
+- Blood Crypt (Return to Ravnica) — the premium Rakdos shock land; frequent Commander pairing with Rakdos Carnarium
+- Cabal Stronghold (Dominaria) — another black mana utility land often discussed alongside Carnarium in mono-black-touching builds

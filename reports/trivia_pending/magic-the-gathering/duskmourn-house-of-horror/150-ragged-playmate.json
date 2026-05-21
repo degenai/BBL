@@ -1,0 +1,46 @@
+{
+  "card_name": "Ragged Playmate",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "150",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Toy artifact creature subtype was introduced for the first time in MTG history in Duskmourn: House of Horror (2024). Duskmourn lore frames Toys as previously inanimate objects that gained sentience and an appetite for death through Valgavoth's warping influence. 11 Toy artifact creatures exist in DSK.",
+      "sources": ["Gatherer: DSK Artifact Creature — Toy search", "MTG Wiki: Toy subtype, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"You tried to throw me away, Henry. I don't like that at all.\" — the ragdoll speaks to its former owner; past tense implies Henry's disposal attempt has already failed.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "design",
+      "text": "Despite its horror-black art, Ragged Playmate is a red card ({1}{R}), consistent with red's aggro/evasion identity in Duskmourn. It is Pauper legal.",
+      "sources": ["Scryfall: mana_cost, color_identity, legalities"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 9,802 as of 2026-05-19 — highest commander adoption among the 5 DSK cards in this batch. Appears in ~48% of Arabella, Abandoned Doll commander decks; evasion ability (power-2-or-less can't be blocked) synergizes directly with Arabella's attack trigger.",
+      "sources": ["Scryfall: edhrec_rank field", "EDHREC: Ragged Playmate card page, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Kaitlyn McCulley graduated from the Pennsylvania College of Art & Design with a BFA in Illustration in 2021, freelance illustrator from York, Pennsylvania. Ragged Playmate is among her first significant MTG pieces.",
+      "sources": ["Substack: 'An Interview with Artist Kaitlyn McCulley,' donnycaltrider.substack.com, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Arabella, Abandoned Doll", "set": "DSK", "note": "Primary Toy commander; Ragged Playmate appears in ~48% of Arabella decks"},
+    {"name": "Twitching Doll", "set": "DSK", "note": "Fellow DSK Toy creature; mana-dork and token-producer in the Toy archetype"},
+    {"name": "Piggy Bank", "set": "DSK", "note": "Fellow DSK Toy creature; Treasure-producing Toy"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Thrashing Mossdog",
+  "game": "Magic: The Gathering",
+  "set": "Dragon's Maze",
+  "collector_number": "50",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Dragon's Maze (DGM), released 2013-05-03, attempted to feature all ten Ravnica guilds in a single 156-card small set. Mark Rosewater acknowledged in 'State of Design 2013' that the set didn't succeed as well as hoped, placing root cause on block structure rather than individual card design.",
+      "sources": ["Scryfall", "Wizards of the Coast, State of Design 2013, magic.wizards.com, 2013-08-23"]
+    },
+    {
+      "category": "design",
+      "text": "Thrashing Mossdog carries the type line 'Creature — Plant Dog,' a notably rare creature-type combination in Magic. Scryfall confirms Golgari guild watermark. Artist is Ryan Barger.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Scavenge is a Golgari-exclusive keyword from the Return to Ravnica block allowing exile from graveyard to distribute +1/+1 counters. EDHREC rank 25105 indicates low Commander adoption. Pauper-legal.",
+      "sources": ["Scryfall: legalities, edhrec_rank"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "No flavor text on this printing.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Golgari Germination", "set": "Ravnica: City of Guilds", "note": "Same Golgari death-cycle theme"},
+    {"name": "Jarad, Golgari Lich Lord", "set": "Return to Ravnica", "note": "Guild leader scavenge payoff context"},
+    {"name": "Devkarin Dissident", "set": "March of the Machine", "note": "Plant creature with Golgari identity"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

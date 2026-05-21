@@ -1,0 +1,42 @@
+{
+  "card_name": "Rakdos Carnarium",
+  "game": "Magic: The Gathering",
+  "set": "Duel Decks: Sorin vs. Tibalt",
+  "collector_number": "74",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Originally printed in Dissension (DIS, 2006) as part of the ten-card Ravnica bounce land cycle — one per two-color guild pairing. This copy is from Duel Decks: Sorin vs. Tibalt (DDK, 2013-03-15). Reprinted 20+ times: Commander precons, Iconic Masters, Modern Masters 2015, Double Masters 2022 (including borderless variant), Commander Anthology, Archenemy, and others.",
+      "sources": ["Scryfall: released_at, reprint:true", "Deckbox.org listing, via WebSearch snippet", "Draftsim bounce lands article, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Art by John Avon, MTG's most celebrated landscape painter. Career began on book covers including Stephen King's The Dark Tower, Arthur C. Clarke, and Terry Pratchett. MTG has been his longest client for ~30 years. Original Unstable full-art Island sold $20,000 (2018); Lotus Field painting sold $40,000 (2019). 2023 Secret Lair Artist Series released. Avon maintains a personal portfolio page for this specific painting.",
+      "sources": ["Hipsters of the Coast: 'Secret Lair Artist Series: John Avon' 2023", "Hipsters of the Coast: 'John Avon Unstable Island Painting Sells for $20,000' 2018", "johnavonart.com/scenes/rakdos-carnarium/, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 469 — one of the most-played black-red lands in Commander. A format staple across Rakdos, Jund, Mardu, and four/five-color lists where free mana fixing outweighs the enter-tapped tempo cost. Legal in Modern, Legacy, Pauper, Commander, and Vintage.",
+      "sources": ["Scryfall: edhrec_rank, legalities"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "No flavor text on this printing.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dimir Aqueduct", "set": "Ravnica: City of Guilds", "note": "Same bounce land cycle, Dimir colors"},
+    {"name": "Gruul Turf", "set": "Dissension", "note": "Bounce land cycle peer, Gruul colors"},
+    {"name": "Blood Crypt", "set": "Return to Ravnica", "note": "Premium Rakdos shock land, frequent Commander pairing"},
+    {"name": "Cabal Stronghold", "set": "Dominaria", "note": "Black mana utility land discussed alongside Carnarium in black-heavy builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

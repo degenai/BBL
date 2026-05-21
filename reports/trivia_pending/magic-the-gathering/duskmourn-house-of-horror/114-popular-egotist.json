@@ -1,0 +1,46 @@
+{
+  "card_name": "Popular Egotist",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "114",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn's plane is an infinite haunted mansion ruled by Valgavoth. Human Survivors are a named creature-type subgroup in DSK reflecting survival-horror genre tropes — characters making selfish or desperate choices to stay alive.",
+      "sources": ["Scryfall: set DSK", "Wizards of the Coast: Duskmourn mechanics article"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"I know you'd want me to live, bestie!\" — spoken by the depicted figure as she sacrifices a companion. The callousness is the mechanic: the card rewards sacrifice with life drain.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 12,283 as of 2026-05-19. EDHREC set review describes it as 'a slightly downgraded Mayhem Devil' fitting sacrifice, Treasure, and enchantment-graveyard commander shells; can gain life off Treasure sacrifices in ways Mayhem Devil cannot.",
+      "sources": ["Scryfall: edhrec_rank field", "EDHREC: Duskmourn Set Review — Black"]
+    },
+    {
+      "category": "design",
+      "text": "The drain trigger fires when you sacrifice Popular Egotist itself, and fires individually per permanent when multiple permanents are sacrificed at once. The indestructible activation costs a sacrifice first — the drain cushions the cost.",
+      "sources": ["Scryfall: oracle_text"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Julia Metzger; first printing with no reprint history.",
+      "sources": ["Scryfall: artist field, reprint field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mayhem Devil", "set": "WAR", "note": "Direct design comparison cited by EDHREC — sacrifice-drain precedent, broader reach, no self-protection"},
+    {"name": "Arabella, Abandoned Doll", "set": "DSK", "note": "Fellow DSK sacrifice payoff in the same horror-survival aesthetic"},
+    {"name": "Immersturm Predator", "set": "STX", "note": "Precedent for indestructible-via-sacrifice on a black creature"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

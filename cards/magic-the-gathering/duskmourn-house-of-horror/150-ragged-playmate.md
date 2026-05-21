@@ -75,3 +75,15 @@ At center frame stands a roughly humanoid ragdoll figure, clearly constructed of
 **Iconography:** button-eyes, stitching, reaching-hand
 **Genre cues:** horror, dark-fantasy
 
+## Trivia
+
+- **Set context / Toy subtype** — Ragged Playmate is part of the Toy artifact creature subtype, introduced for the first time in MTG history in Duskmourn: House of Horror (DSK, September 27, 2024). Duskmourn's lore frames Toys as previously inanimate objects that gained sentience and an appetite for death through Valgavoth's warping influence on the House. There are 11 Toy artifact creatures in DSK `[Gatherer: DSK Artifact Creature — Toy search]` `[MTG Wiki: Toy subtype page, via WebSearch snippet]`.
+- **Flavor text** — `"You tried to throw me away, Henry. I don't like that at all."` — spoken by the ragdoll to its former owner. The name "Henry" is the only named human in the card's implied narrative; the doll's patient menace (past tense: "tried") suggests Henry's disposal attempt has already failed `[Scryfall]`.
+- **Mana color note** — Despite appearing in black-bordered horror art, Ragged Playmate is a red card ({1}{R}), consistent with red's aggro/evasion identity in Duskmourn. It is Pauper legal `[Scryfall: mana_cost, legalities]`.
+- **Commander adoption** — EDHREC rank 9,802 as of 2026-05-19 — the highest commander adoption of the 5 cards in this batch. It appears in approximately 48% of Arabella, Abandoned Doll commander decks, the DSK Legendary Toy that leads the Toy tribal archetype `[EDHREC: Ragged Playmate card page, via WebSearch]`. The evasion ability (power-2-or-less creature can't be blocked) synergizes directly with Arabella's attack trigger.
+- **Artist** — Kaitlyn McCulley graduated from the Pennsylvania College of Art & Design with a BFA in Illustration in 2021 and is a freelance illustrator from York, Pennsylvania specializing in fantasy. Ragged Playmate is among her first significant MTG pieces `[Substack interview: "An Interview with Artist Kaitlyn McCulley," donnycaltrider.substack.com, via WebSearch snippet]`.
+
+### Related cards
+- Arabella, Abandoned Doll (DSK, 208) — the primary Toy commander; Ragged Playmate appears in ~48% of Arabella decks
+- Twitching Doll (DSK) — fellow DSK Toy creature; mana-dork and token-producer in the Toy archetype
+- Piggy Bank (DSK) — fellow DSK Toy creature; Treasure-producing Toy

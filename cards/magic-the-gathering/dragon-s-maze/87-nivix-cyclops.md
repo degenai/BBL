@@ -77,3 +77,15 @@ A hulking cyclops dominates the frame in a tight mid-shot, its single central ey
 **Iconography:** single-eye
 **Genre cues:** fantasy, industrial-fantasy, steampunk-adjacent
 
+## Trivia
+
+- **Lore context** — "Nivix" in the card's name refers to the Izzet guildhall on Ravnica — an immense tower known as the "Aerie of the Firemind," home to Niv-Mizzet and center of Izzet League operations. Each floor houses alchemists and mages running experiments, with the Laboratory of Pyrology prominent on its lower levels [MTG Wiki: Nivix, via WebSearch snippet]. A cyclops stationed at or created by Nivix fits the Izzet pattern of press-ganging large creatures into service as experimental labor.
+- **Mechanical profile** — Nivix Cyclops is a 1/4 Defender for {1}{U}{R} that gets +3/+0 and loses its defender restriction whenever its controller casts an instant or sorcery, enabling attacks. This makes it a combo threat in Pauper "Cyclops" or "Kiln Fiend" decks: pairing it with Artful Dodge plus Assault Strobe lets it attack as a 7/4 with double strike and evasion on turn 3 for lethal damage [TappedOut.net Pauper decklists, via WebSearch snippet]. EDHREC rank 21463 [Scryfall].
+- **Set context** — No flavor text on this printing [Scryfall]. Artist: Wayne Reynolds, who has over 170 MTG cards credited [Scryfall: artist]. The Izzet watermark is confirmed [Scryfall: `watermark: izzet`]. The card is legal in Historic, Timeless, Pioneer, Modern, Legacy, and Vintage in addition to Pauper and Commander [Scryfall: legalities].
+- **Community resonance** — Community sentiment on TappedOut (Pauper forums): Nivix Cyclops is paired with Kiln Fiend as the secondary threat in Pauper Izzet spell-pump combo decks, offering redundancy because multiple copies can each attack independently on the same spell chain [TappedOut "Everyone's a Critic: Nivix Cyclops" thread, via WebSearch snippet]. Its Defender keyword is considered a flavor-mechanical joke by some players: it "defends" the Izzet labs until spells start flying, then it stops defending anything.
+
+### Related cards
+- Kiln Fiend (Rise of the Eldrazi) — primary companion in Pauper spell-pump combo; same +3/+0 on instant/sorcery trigger
+- Artful Dodge (Dark Ascension) — evasion piece enabling Cyclops lethal combos
+- Assault Strobe (Scars of Mirrodin) — double strike enabler in Pauper Cyclops combo
+- Niv-Mizzet, Parun (Guilds of Ravnica) — Izzet guild leader, master of Nivix tower

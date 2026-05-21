@@ -71,3 +71,15 @@ A close-up portrait of a figure in modern casual clothing — a blue jacket over
 **Iconography:** mushrooms, mycelium
 **Genre cues:** horror, fantasy
 
+## Trivia
+
+- **Set context** — Sporogenic Infection is from Duskmourn: House of Horror (DSK), released September 27, 2024. The set uses body-horror and fungal-infection imagery as part of its modern-horror toolkit; Duskmourn's haunted mansion warps and corrupts those trapped inside it under Valgavoth's influence. The fungal body-horror archetype in the art aligns with an increasingly common thread in MTG's horror sets (Innistrad delirium, Phyrexian contagion) `[Scryfall: set DSK]`.
+- **No flavor text** — Sporogenic Infection has no flavor text on the printed card; the art carries the narrative weight `[Scryfall: no flavor_text field]`.
+- **Mechanical profile** — A {1}{B} Aura with a double ETB effect: on entry, an opponent sacrifices a creature of their choice (not the enchanted creature); then whenever the enchanted creature is dealt any damage, it is destroyed outright — turning any combat into a kill shot regardless of toughness. EDHREC rank 12,120 as of 2026-05-19, slightly higher adoption than Popular Egotist despite being the same rarity `[Scryfall: oracle_text, edhrec_rank]`.
+- **Penny Dreadful** — Penny Dreadful legal with a penny rank of 347, indicating it sees genuine rotational Penny Dreadful play — an unusually high engagement figure for a set-specific uncommon Aura `[Scryfall: legalities, penny_rank]`.
+- **Artist** — Warren Mahy is a New Zealand-born illustrator who worked as a concept designer at Weta Workshop on the Lord of the Rings and King Kong film productions before transitioning into game illustration via a LoTR RPG commission that led to his first Wizards of the Coast contact. He has 124+ MTG cards across his career and is particularly noted for Goblin illustrations including Goblin Guide `[Wikipedia: Warren Mahy]` `[Gatherer: artist search Warren Mahy]`.
+
+### Related cards
+- Phyrexian Unlife (NPH, 18) — fungal/infection body-horror Aura precedent; thematic parallel
+- Spore Frog (MMQ, 138) — fungal creature type; shared decay/spore aesthetic in black-green
+- Dread Fungus (DSK) — any DSK fungal creature; same set fungus subtype (`[Gatherer: DSK Fungus type — 1 card]`)

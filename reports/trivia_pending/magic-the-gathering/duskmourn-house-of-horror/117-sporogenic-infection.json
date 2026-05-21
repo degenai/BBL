@@ -1,0 +1,46 @@
+{
+  "card_name": "Sporogenic Infection",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "117",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn's haunted mansion warps and corrupts those trapped inside under Valgavoth's influence. The fungal body-horror archetype in the art continues an MTG tradition across horror sets (Innistrad delirium, Phyrexian contagion).",
+      "sources": ["Scryfall: set DSK"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "No flavor text on the printed card; the art carries the narrative weight.",
+      "sources": ["Scryfall: no flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A {1}{B} Aura with dual ETB removal: on entry an opponent sacrifices a creature (not the enchanted one); then whenever the enchanted creature is dealt any damage, it is destroyed regardless of toughness — turning any combat into a kill shot. EDHREC rank 12,120 as of 2026-05-19.",
+      "sources": ["Scryfall: oracle_text, edhrec_rank"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Penny Dreadful legal with penny rank 347 — indicating genuine rotational Penny Dreadful play, unusually high for a set-specific uncommon Aura.",
+      "sources": ["Scryfall: legalities, penny_rank"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Warren Mahy is a New Zealand-born illustrator who worked as a concept designer at Weta Workshop on Lord of the Rings and King Kong before transitioning to game illustration. His MTG career spans 124+ cards and includes celebrated Goblin art (Goblin Guide).",
+      "sources": ["Wikipedia: Warren Mahy", "Gatherer: artist search Warren Mahy"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Phyrexian Unlife", "set": "NPH", "note": "Fungal/infection body-horror Aura precedent; thematic parallel"},
+    {"name": "Spore Frog", "set": "MMQ", "note": "Fungal creature type; shared decay/spore aesthetic"},
+    {"name": "Dread Fungus", "set": "DSK", "note": "Only DSK Fungus subtype card — same set fungal archetype anchor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -78,3 +78,15 @@ A pale, skull-shaped mask dominates the center of the frame, mounted as if on di
 **Iconography:** skull, knife, chain, trophy-wall
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** — Killer's Mask is an uncommon Equipment from Duskmourn: House of Horror (DSK), released 2024-09-27. Duskmourn is a top-down horror set set inside a single haunted mansion plane ruled by the demon Valgavoth. The set explicitly draws on 1970s-90s slasher film tropes — references include Chainsaw (Texas Chain Saw Massacre), Break Down the Door (The Shining), and Found Footage (The Blair Witch Project). A spiked skull mask with knife and chain as trophy-wall implements fits squarely in the slasher-killer archetype the set was designed to evoke [Wizards of the Coast, "First Look at Duskmourn: House of Horror," magic.wizards.com, via WebSearch snippet].
+- **Manifest Dread mechanic** — Killer's Mask introduces itself with "manifest dread" on entry: look at the top two cards of your library, put one face down as a 2/2 creature and the other into your graveyard, then attach the Equipment to that manifested creature. The design team described manifest dread as creating "the threat of the unknown" and "suspense" in the Hitchcockian sense — the opponent doesn't know what's hiding under the mask [Wizards of the Coast, "Duskmourn: House of Horror Mechanics," magic.wizards.com, 2024, via WebSearch snippet]. The Equipment-plus-manifest-on-entry means Killer's Mask immediately creates both a body and an armed threat from a single card.
+- **Mechanical profile** — {2}{B} for an uncommon Equipment that produces a self-equipping menace creature on entry. EDHREC rank 19142 [Scryfall] reflects moderate Commander adoption; the self-arming manifest dread entry trigger provides card advantage and immediate board presence that pure Equipment cards rarely offer. Legal in Standard, Historic, Pioneer, Modern, Legacy, Vintage, and Commander [Scryfall: legalities]. Previewed via a TikTok from Good Games Morley on 2024-09-11 [Scryfall: preview].
+- **Artist** — Art by Wero Gallo [Scryfall: artist]. This appears to be one of Gallo's earlier MTG credits; the Scryfall artist search for "Wero Gallo" returns a small number of results [Scryfall artist search, via WebSearch snippet].
+
+### Related cards
+- Chainsaw (Duskmourn: House of Horror) — same set; another Equipment in the slasher-implements subtheme
+- Torch the Tower (Wilds of Eldraine) — menace-granting Equipment for comparison
+- Screaming Nemesis (Duskmourn: House of Horror) — same set; slasher-horror archetype creature
+- Manifest (helper token card, Scryfall all_parts) — the manifest dread mechanic token helper

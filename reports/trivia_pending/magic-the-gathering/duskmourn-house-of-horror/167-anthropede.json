@@ -1,0 +1,46 @@
+{
+  "card_name": "Anthropede",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "167",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "'Anthropede' is a portmanteau of 'anthropo-' (Greek for human) and 'centipede,' describing a centipede whose legs are human arms. Consistent with Duskmourn's body-horror design philosophy fusing mundane human form with monstrous anatomy to maximize unease.",
+      "sources": ["Scryfall: name, type_line", "Wizards of the Coast: Duskmourn vision design handoffs, via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The touch of its many hands is almost gentle, at first. But then the grip tightens, and the mandibles dig in.\" — no named speaker; mirrors the creature's visual of deceptive softness turning to lethal force.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "design",
+      "text": "ETB can destroy a target Room (Duskmourn's new dual-door enchantment split card subtype representing haunted-house areas). Discard-or-pay-{2} cost makes it a flexible answer to opponent Room strategies; on-flavor as a creature that literally dismantles the House's architecture.",
+      "sources": ["Scryfall: oracle_text", "Wizards of the Coast: Duskmourn mechanics article — Room design"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 24,723 as of 2026-05-19 — lower-adoption DSK common in commander formats. Room-hate is context-dependent; outside Room-heavy metagames, a 3/4 Reach for {3}{G} is unremarkable.",
+      "sources": ["Scryfall: edhrec_rank, power/toughness, keywords"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Loïc Canavaggia is a French freelance illustrator based in Cuq-Toulza, France, with 45+ MTG card credits including Universe Beyond Fallout, Murders at Karlov Manor, Modern Horizons III, and Lost Caverns of Ixalan (where he served as digital artist lead). Also works on Paizo/Pathfinder projects.",
+      "sources": ["Gatherer: artist search Loïc Canavaggia", "ArtStation: canavaggia.artstation.com, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dread Fungus", "set": "DSK", "note": "Fellow DSK body-horror creature; same set, shared decay-and-infestation aesthetic"},
+    {"name": "Arabella, Abandoned Doll", "set": "DSK", "note": "Room-synergy commander; Rooms are what Anthropede destroys"},
+    {"name": "Dollmaker's Shop", "set": "DSK", "note": "Example DSK Room card; directly relevant to Anthropede's anti-Room utility"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

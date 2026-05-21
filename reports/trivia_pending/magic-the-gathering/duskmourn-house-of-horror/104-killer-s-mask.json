@@ -1,0 +1,42 @@
+{
+  "card_name": "Killer's Mask",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "104",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (DSK, 2024-09-27) is a top-down horror set inside a single haunted mansion plane ruled by demon Valgavoth. Set explicitly draws on 1970s-90s slasher film tropes — Chainsaw (Texas Chain Saw Massacre), Break Down the Door (The Shining), Found Footage (The Blair Witch Project). Killer's Mask fits squarely in the slasher-killer archetype the set was designed to evoke.",
+      "sources": ["Wizards of the Coast, 'First Look at Duskmourn: House of Horror,' magic.wizards.com, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Manifest Dread on entry creates a face-down 2/2 creature (opponent doesn't know what's under the mask), then self-equips. Design team described manifest dread as Hitchcockian suspense — 'threat of the unknown' rather than shock. The Equipment-plus-manifest-on-entry delivers both a body and an armed menace threat from one card. Previewed via TikTok from Good Games Morley on 2024-09-11.",
+      "sources": ["Wizards of the Coast, 'Duskmourn: House of Horror Mechanics,' magic.wizards.com, 2024, via WebSearch snippet", "Scryfall: preview, oracle_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 19142. Uncommon at {2}{B}; self-equipping on entry provides immediate board presence rare in Equipment cards. Legal in Standard, Historic, Pioneer, Modern, Legacy, Vintage, and Commander.",
+      "sources": ["Scryfall: edhrec_rank, legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Wero Gallo. The Scryfall artist search for Wero Gallo returns a small number of MTG credits, suggesting this is an earlier or less common MTG commission for the artist.",
+      "sources": ["Scryfall: artist", "Scryfall artist search a:\"wero gallo\", via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Chainsaw", "set": "Duskmourn: House of Horror", "note": "Same set Equipment in the slasher-implements subtheme"},
+    {"name": "Screaming Nemesis", "set": "Duskmourn: House of Horror", "note": "Same set slasher-horror archetype creature"},
+    {"name": "Manifest", "set": "Duskmourn: House of Horror", "note": "Manifest dread helper token card (Scryfall all_parts)"},
+    {"name": "Torch the Tower", "set": "Wilds of Eldraine", "note": "Menace-granting Equipment for comparative context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

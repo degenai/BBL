@@ -1,0 +1,41 @@
+{
+  "card_name": "Morgue Burst",
+  "game": "Magic: The Gathering",
+  "set": "Dragon's Maze",
+  "collector_number": "86",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Dragon's Maze common with Rakdos guild watermark. The card collapses reanimation and burn into a single six-mana Rakdos sorcery, directly expressing the Rakdos Cult's philosophy of violent theatrical spectacle.",
+      "sources": ["Scryfall: watermark, oracle_text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Let him in. He's on the list.\" —Olrich, Rakdos club owner. Speaker Olrich is a named Rakdos club owner; the flavor frames a carnarium performance venue with a guest list, treating an erupting body as the headlining act.",
+      "sources": ["Scryfall: flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "CMC 6 at {4}{B}{R}. EDHREC rank 22188 — fringe Commander presence. Pauper-legal but rarely played due to mana cost.",
+      "sources": ["Scryfall: edhrec_rank, legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Raymond Swanland, who has over 170 MTG cards credited. Known for high-contrast dramatic action compositions; the fireball eruption with silhouetted crowd is characteristic of his style.",
+      "sources": ["Scryfall: artist", "Gatherer artist search, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dreadbore", "set": "Return to Ravnica", "note": "Same Rakdos watermark, iconic Rakdos removal"},
+    {"name": "Terminate", "set": "Planeshift", "note": "Rakdos-colored instant, often paired in Pauper recursive strategies"},
+    {"name": "Faithless Looting", "set": "Dark Ascension", "note": "Common graveyard-setup card for Pauper recursive shells"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

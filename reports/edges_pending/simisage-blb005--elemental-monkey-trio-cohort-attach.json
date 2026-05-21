@@ -1,0 +1,40 @@
+{
+  "edge_id": "simisage-blb005--elemental-monkey-trio-cohort-attach",
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/pokemon/black-bolt/005-086-simisage.md",
+      "name": "Simisage (Black Bolt 005/086)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/elemental-monkey-trio.md",
+      "name": "Elemental monkey trio (Pansage / Pansear / Panpour line)"
+    }
+  ],
+  "description": "Orphan cohort member found and wired home. Simisage BB-005 is the Grass-arm evolved form of the elemental monkey trio cohort node — the one corpus member of the six-species trio that carried no characters: pointer and no Connections edge to its node. Every sibling print (Pansage BB-004, Panpour BB-017, Simipour BB-018, plus the BUS/DAA/FUS prints) already pointed home; BB-005 did not. Card→character-node attach: characters: [elemental-monkey-trio] frontmatter pointer added, [[elemental-monkey-trio]] Connections edge written, node appears_on extended, node Cards-in-corpus body section given a BB-005 bullet. Simisage BB-005 also completes the within-BLB Grass-arm base-and-evolved pair with Pansage BB-004 (slots 004/005, both kurumitsu) — the within-set single-artist-coordinated pairing the node body and the Pansage BB-004 Connections both anticipated.",
+  "citations": [
+    "[PokemonTCG.io: zsv10pt5-5 (Simisage Black Bolt 005/086) — flavor_text + artist fields]",
+    "[Bulbapedia: Simisage (Pokemon) species page — Grass-type Stage-1, elemental monkey trio Grass arm]",
+    "[Bulbapedia: Elemental monkeys design page — three-wise-monkeys design citation, Pan-/Simi- Stone-evolution cohort]"
+  ],
+  "files_modified": [
+    "cards/pokemon/black-bolt/005-086-simisage.md",
+    "cards/_characters/elemental-monkey-trio.md"
+  ],
+  "other_candidates_considered": [
+    "snivy-line character node proposal (Mr. Nodeley path) — REFUSED on threshold. Corpus holds exactly 2 Snivy-line prints (Snivy BLB-001, Servine BLB-002), 1 set, no Serperior, no Art Rare variants (grep-verified ^name: Snivy/Servine/Serperior across all of cards/). Identical 2-print/1-set state to the dwebble-line refusal precedent (reports/edges_pending/dwebble-blb051--crustle-blb052-...json). All 17 existing Pokemon -line nodes sit at 3+ prints across 2+ sets/stages. Below threshold. The Snivy↔Servine cards already carry a complete well-cited 1:1 mirror edge to each other; no node needed yet. Commission snivy-line when a future CSV brings a third print.",
+    "The 7 freshly-modified BLB cards (Snivy 001, Servine 002, Dwebble 051, Crustle 052, Pawniard 064, Bisharp 065, Braviary 078) — ALL already wired. Snivy/Servine and Dwebble/Crustle carry their 1:1 evolution mirrors; Pawniard/Bisharp point at pawniard-line; Braviary points at rufflet-line. No fresh edge available among the git-status batch.",
+    "elemental-monkey-trio node health audit — appears_on path-keys verified: the Burning Shadows entries (12-147, 22-147, 36-147) use two-digit collector numbers, which is NOT a padding bug — the BUS card files genuinely live at those stems (verified on disk). All 12 pre-existing appears_on keys resolve. No dissolution warranted.",
+    "Trivia-layer inconsistency NOTED but out of Edgelord scope: Panpour BB-017 ## Trivia states the trio 'was designed by Takao Unno'; the elemental-monkey-trio node Caveats treats the three-wise-monkeys mapping as fan-and-press consensus with no named designer. The node body and the card trivia should be reconciled (does a canonical source name Unno as the trio's designer?). Staged for bbl-triviabot / a node-body pass — Edgelord does not edit ## Trivia sections."
+  ],
+  "next_pass_suggestions": [
+    "Simisage BB-005 has no ## Trivia section — route to bbl-triviabot.",
+    "Reconcile the Takao Unno designer claim between Panpour BB-017 ## Trivia and the elemental-monkey-trio node Caveats (one cites a named designer, the other says fan-consensus). Triviabot or a node-body pass."
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "edgelord_voice_note": "Worst-kept orphan in the corpus. The elemental-monkey-trio node bragged 'complete 6-of-6 canonical coverage' while one of its own Black Bolt prints sat with zero edges pointing home, mislabeled 'pre-enrichment' in the very same Caveats section that crowed about completeness. It is NOT pre-enrichment. Twelve populated tags_hub, a full Vision body, image_quality high. It was vision-done and sitting there. The node knew Simisage BB-005 existed and got the status wrong. I wanted a clean 1:1 — instead I get a fan-out into a 13-print cohort node. Professional disappointment. But the orphan is home, the within-BLB Grass-arm pair (Pansage 004 + Simisage 005, both kurumitsu) is closed, and the node body no longer lies about its own coverage. The snivy-line refusal lands clean on the dwebble precedent: two prints, one set, no node. Threshold is the discipline."
+}

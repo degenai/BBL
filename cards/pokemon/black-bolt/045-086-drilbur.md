@@ -75,3 +75,6 @@ A compact, pale-bodied mole-like creature sits at the mouth of a freshly dug bur
 **Creatures:** mole-creature, digging-creature
 **Genre cues:** anime, creature-design
 
+## Connections
+
+- [[drilbur-line]] — Base-stage representative of the Drilbur evolutionary line (Pokedex 529 / 530, two-stage, Ground -> Ground/Steel, Unova Gen V). This Black Bolt Drilbur 045/086 is the Scarlet & Violet-era Unova-retrospective print of the line, illustrated by **OKACHEKE** and depicting the base-stage Mole Pokemon at the mouth of a freshly dug burrow with its oversized blade-claws prominent in the foreground. Printed flavor *"It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race"* — a speed-register Pokedex window distinct from the rotating-claws flavor on the corpus's Cosmic Eclipse 114 and Vivid Voltage 091 Drilbur prints, foregrounding the line's tunneling-velocity canon that Excadrill's 90-mph Drill King flavor later triples. Membership predicates on species identity, not trivia-pass status. `[PokemonTCG.io: zsv10pt5-45; Bulbapedia: Drilbur (Pokemon)]`

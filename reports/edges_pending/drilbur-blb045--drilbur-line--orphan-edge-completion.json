@@ -1,0 +1,26 @@
+{
+  "edge_id": "drilbur-blb045--drilbur-line--orphan-edge-completion",
+  "shape": "stack",
+  "category": "named-character-identity",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/black-bolt/045-086-drilbur.md", "name": "Drilbur (Black Bolt 045/086)"},
+    {"type": "character", "path": "cards/_characters/drilbur-line.md", "name": "Drilbur evolutionary line (Drilbur / Excadrill)"}
+  ],
+  "description": "Sync-drift orphan, fixed. Black Bolt Drilbur 045/086 already carried characters: [drilbur-line] in frontmatter AND was already listed in the node's appears_on plus given a full body bullet -- but the card had no ## Connections section at all, so the card-to-node half of the edge was never written. Classic one-sided edge: node knows the card, card doesn't know the node. Completed the back-edge with a Connections bullet drawn faithfully from the node's own body language (drilbur-line.md line 47), in the same register as the card's three sibling Black Bolt evolution-pair connections. No new claim invented -- this is mirror-completion, not edge-creation. Worst kind of bug, the silent kind. Now it traverses from both ends.",
+  "citations": ["[PokemonTCG.io: zsv10pt5-45]", "[Bulbapedia: Drilbur (Pokemon)]"],
+  "files_modified": ["cards/pokemon/black-bolt/045-086-drilbur.md"],
+  "edges_removed": [],
+  "edges_added": ["045-086-drilbur -> drilbur-line (## Connections back-edge)"],
+  "other_candidates_considered": [
+    "Snivy/Servine + Dwebble/Crustle Black Bolt 1:1 mirrors -- no Mr. Nodeley node: corpus is 2 prints, 1 set each; the Snivy connection text itself stages the snivy-line node threshold at 3+ prints across 2+ sets, NOT met. 1:1 mirror is correctly the terminal state.",
+    "Rufflet-XY11-92 <-> Braviary-SV8-153 enlightened snip -- already done in a prior pass; both cards now carry clean [[rufflet-line]] connections that explicitly note the prior 1:1 mirror is subsumed. No bullet left to remove.",
+    "Drilbur CEC-114 <-> Excadrill FUS-183 wave-27 mirror dissolution -- drilbur-line.md caveat (line 83) explicitly stages this as a separate single-operation enlightened-Edgelord decision; not bundled here per one-op-per-invocation. Staged for a future pass.",
+    "~23 cards corpus-wide have a characters: pointer but no ## Connections section (132 vs 109) -- this Drilbur is one of them. The remaining ~22 are a sync-drift sweep worth a dedicated wave; surfaced here, not executed."
+  ],
+  "next_pass_suggestions": [
+    "Sweep the ~22 other characters-pointer-but-no-Connections orphan cards (grep characters: minus grep '## Connections' across cards/pokemon/). Each is a one-sided edge needing the same back-edge completion.",
+    "Dissolve-and-replace the wave-27 Drilbur CEC-114 <-> Excadrill FUS-183 1:1 mirror, subsumed by drilbur-line per that node's line-83 caveat."
+  ],
+  "edgelord_mood": "enlightened-corrective"
+}
