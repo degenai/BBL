@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - donkey
+  - equine
+  - mud
+  - earth
+  - running
+  - beast
+  - outdoor
+  - grassland
+  - charging
+  - sturdy
+tags_filter:
+  - solo
+  - mid-shot
+  - faces-right
+  - action
+  - creature-fighting
+  - pokemon-card
 reference_image: cards/_images/pokemon/destined-rivals/107-182-mudbray.png
 average_cost_paid: 0
 market_price: 0.06
@@ -27,6 +43,34 @@ oracle_text: "Running Charge (FightingColorless) 40×: Flip a coin until you get
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: day
+setting: other
+suspected_ip: Mudbray
+ip_confidence: high
+ip_verified: false
+characters:
+  - mudbray-line
 ---
 
 # Mudbray (Destined Rivals)
+
+## Vision
+
+![107-182-mudbray](../../_images/pokemon/destined-rivals/107-182-mudbray.png)
+
+> [!warning] Suspected IP: **Mudbray** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+Mudbray is shown in a dynamic running or charging pose, its compact body leaning into motion with legs extended. The creature has a rounded head with prominent ears and a sturdy build. Its body shows a muddy or earthy coating consistent with the flavor text describing regurgitated mud. The setting is a sunny outdoor grassy area, with warm golden light suggesting midday. The creature's posture and direction convey forward momentum and energetic movement.
+
+**Subject:** Mudbray, a small stocky donkey-like creature with large ears and a mud-coated body in a running pose
+
+**Composition:** mid-shot, action, figures: solo, facing: right
+**Setting:** other, day, clear
+**Foreground:** Mudbray in running pose, mud-coated body  *(palette: brown, tan, orange)*
+**Background:** grassy outdoor setting with warm golden light  *(palette: green, yellow-green, gold)*
+**Mood / lighting:** action, soft
+**Emotion read:** energetic, forward momentum, determined charge
+**Creatures:** donkey, equine, small-beast
+**Genre cues:** anime, fantasy

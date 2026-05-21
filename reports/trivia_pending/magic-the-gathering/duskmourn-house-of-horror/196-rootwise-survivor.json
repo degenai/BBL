@@ -1,0 +1,47 @@
+{
+  "card_name": "Rootwise Survivor",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "196",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "triage_flags": {
+    "mana_cost_present": true,
+    "color_magic_in_tags_filter": true,
+    "note": "mana_cost '{3}{G}{G}' present. green-magic already in tags_filter. No triage issues."
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Survival is an ability word introduced in Duskmourn: House of Horror, attached to the set's Survivor creature type. Survival abilities trigger at the beginning of the controller's second main phase if the creature is tapped — making it notable as the first keyword mechanic in MTG history to explicitly reference the second main phase. Design intent: the mechanic reflects survivors enduring both the opponent's actions and the combat phase before getting their reward. [Wizards of the Coast: Duskmourn Mechanics article, via WebSearch snippet]",
+      "sources": ["Wizards of the Coast: Duskmourn House of Horror Mechanics article (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rootwise Survivor's Survival ability places three +1/+1 counters on a target land, which then becomes a 0/0 Elemental creature in addition to its other types and gains haste — permanently. Unlike many land-animation effects, the creature status has no duration limit, meaning the land remains a creature until it leaves the battlefield or loses the counter-based power/toughness entirely. [MTGNexus: Rootwise Survivor, via WebSearch snippet]",
+      "sources": ["MTGNexus: Rootwise Survivor (via WebSearch snippet)", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rootwise Survivor appears in only 699 Commander decks on EDHREC (0.03% inclusion) — making it one of the lower-traction Survivor cards from the set. Its highest-synergy home is Rip, Spawn Hunter decks, where it appears in 16% of lists — reflecting a niche interest in land-animation strategies that can tap creatures for secondary effects. [EDHREC: Rootwise Survivor, via WebSearch snippet]",
+      "sources": ["EDHREC: Rootwise Survivor (via WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Rootwise Survivor belongs to the Human Survivor subtype, one of Duskmourn's mechanical and flavor throughlines: characters who have survived the House long enough to learn its rules and adapt. The Survivor creature type appears on multiple Duskmourn cards. The card is illustrated by Joseph Weston, an MTG artist whose credits span several recent sets. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Overlord's Huntmaster", "set": "Duskmourn: House of Horror", "note": "Another Survival-mechanic creature from the same set; same creature type throughline"},
+    {"name": "Wandering Mind", "set": "Duskmourn: House of Horror", "note": "Survivor creature type within DSK; part of the same Survivor identity"},
+    {"name": "Awakening of Vitu-Ghazi", "set": "War of the Spark", "note": "Prior land-animation effect that creates a permanent creature — mechanical predecessor for comparison"},
+    {"name": "Rip, Spawn Hunter", "set": "Duskmourn: House of Horror", "note": "Top commander synergy partner per EDHREC; highest-concentration Rootwise Survivor deck"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

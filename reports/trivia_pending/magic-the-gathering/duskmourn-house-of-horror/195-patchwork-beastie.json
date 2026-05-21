@@ -1,0 +1,47 @@
+{
+  "card_name": "Patchwork Beastie",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "195",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "triage_flags": {
+    "mana_cost_present": true,
+    "color_magic_in_tags_filter": true,
+    "note": "mana_cost '{G}' present. green-magic already in tags_filter. No triage issues."
+  },
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "Patchwork Beastie is a 3/3 Artifact Creature for a single {G} mana — but its Delirium restriction (cannot attack or block unless four or more card types are in the graveyard) is the price for that rate. It is also one of the few green artifact creatures in recent sets, a color combination that appears primarily in sets that blur the line between organic and constructed. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Delirium was originally introduced in Shadows over Innistrad (2016), designed to reflect Emrakul's corruption of Innistrad's inhabitants. It returned in Duskmourn: House of Horror (2024), where enchantments serve as the focus type enabling the condition alongside the set's Manifest Dread mechanic. Its reuse in a horror-adjacent set is thematically consistent — both planes deal with reality-warping, mind-corrupting horror entities. [MTG Wiki: Delirium, via WebSearch snippet]",
+      "sources": ["MTG Wiki: Delirium (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It doesn't know it isn't real.\" — no named speaker. The line is one of the most discussed flavor texts in Duskmourn for its unsettling existential weight: the creature is a patchwork construct, not a living thing, but is unaware of its own unreality — which makes it more dangerous, not less. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Patchwork Beastie appears in approximately 6,590 Commander decks on EDHREC (0.21% inclusion). Its self-mill upkeep trigger makes it a slow but reliable engine for filling the graveyard to enable its own Delirium condition — an unusual design where the card helps unlock itself over multiple turns. [EDHREC: Patchwork Beastie, via WebSearch snippet]",
+      "sources": ["EDHREC: Patchwork Beastie (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Inexorable Blob", "set": "Shadows over Innistrad", "note": "Original Shadows over Innistrad Delirium green creature; same mechanic lineage"},
+    {"name": "Grim Flayer", "set": "Eldritch Moon", "note": "Top-tier competitive Delirium card; benchmark for what Delirium enablers can do at low mana cost"},
+    {"name": "Stitcher's Supplier", "set": "Core Set 2019", "note": "Self-mill artifact creature; frequent Patchwork Beastie deckmate for fueling graveyard"},
+    {"name": "Glowspore Shaman", "set": "Guilds of Ravnica", "note": "Graveyard-fill enabler; Golgari pairing with Patchwork Beastie in delirium-focused EDH lists"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

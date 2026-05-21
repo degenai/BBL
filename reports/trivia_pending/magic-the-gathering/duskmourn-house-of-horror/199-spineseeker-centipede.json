@@ -1,0 +1,47 @@
+{
+  "card_name": "Spineseeker Centipede",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "199",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "triage_flags": {
+    "mana_cost_present": true,
+    "color_magic_in_tags_filter": true,
+    "note": "mana_cost '{2}{G}' present. green-magic and mono-green already in tags_filter. No triage issues."
+  },
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "Spineseeker Centipede functions as a dual-role common: an enters-the-battlefield land-tutor (searches library for a basic land, puts it into hand) combined with a Delirium pump that grows it to a 3/3 with vigilance when four or more card types are in the graveyard. This makes it unusually efficient for lower-powered formats as both a mana fixer and a late-game threat. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Spineseeker Centipede appears in approximately 5,413 Commander decks on EDHREC — notably high for a common creature. Its top commander homes include Grist, the Hunger Tide; Zask, Skittering Swarmlord; and The Swarmweaver — all Insect-tribal or graveyard-value commanders where both the ramp ETB and Delirium body are relevant. [EDHREC: Spineseeker Centipede, via WebSearch snippet]",
+      "sources": ["EDHREC: Spineseeker Centipede (via WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror was released September 27, 2024, as the 102nd Magic expansion. The set is set entirely within a single demonic haunted mansion ruled by Valgavoth, inspired by 1970s-1990s horror cinema including slasher films, The Amityville Horror, and found-footage films. The Insect creature type here reflects the house's undergrowth and biological decay horror subgenre — vermin and centipedes as natural horror imagery. [Wizards of the Coast: First Look at Duskmourn, via WebSearch snippet]",
+      "sources": ["Wizards of the Coast: First Look at Duskmourn (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Spineseeker Centipede was illustrated by Dave Kendall, a British illustrator whose MTG portfolio spans over 154 card credits. Kendall is known for visceral, horror-oriented MTG art — prior credits include Abhorrent Overlord, Bladestitched Skaab, and Diregraf Ghoul. His personal statement identifies horror as his primary artistic passion. The centipede's iridescent pink-magenta palette is unusual for green Insect creatures and gives the card an immediately recognizable visual identity. [artofmtg.com: Dave Kendall, via WebSearch snippet]",
+      "sources": ["artofmtg.com: Dave Kendall (via WebSearch snippet)", "Gatherer: Dave Kendall artist page (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Grist, the Hunger Tide", "set": "Modern Horizons 2", "note": "Top EDHREC commander home for Spineseeker Centipede; Insect tribal synergy"},
+    {"name": "Zask, Skittering Swarmlord", "set": "Commander: Dominaria United", "note": "Second top commander; Insect tribal payoff"},
+    {"name": "Winding Way", "set": "Modern Horizons", "note": "Green common ramp/filter used in similar delirium-adjacent lists as a comparison piece"},
+    {"name": "Caustic Caterpillar", "set": "Magic Origins", "note": "Green common Insect creature — frequent Insect tribal companion in same Commander shells"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

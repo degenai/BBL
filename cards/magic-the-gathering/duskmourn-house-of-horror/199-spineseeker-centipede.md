@@ -74,3 +74,15 @@ A long, sinuous centipede dominates the frame, its segmented body shimmering in 
 **Iconography:** segmented-body, spines, many-legs
 **Genre cues:** fantasy, horror, body-horror
 
+## Trivia
+
+- **Mechanical reputation** — Spineseeker Centipede appears in approximately 5,413 Commander decks on EDHREC — notably high for a common creature. It functions as a dual-role piece: an ETB land-tutor (basic land to hand) and a Delirium pump that upgrades it to a 3/3 with vigilance. Top commander homes include Grist, the Hunger Tide; Zask, Skittering Swarmlord; and The Swarmweaver — all Insect-tribal or graveyard-value commanders. `[EDHREC: Spineseeker Centipede, via WebSearch snippet]`
+- **Design** — Art by Dave Kendall, a British illustrator with over 154 MTG card credits and a stated specialty in horror illustration. Prior Kendall credits include Abhorrent Overlord, Bladestitched Skaab, and Diregraf Ghoul — a consistent pattern of horror-adjacent creature work. The centipede's iridescent pink-magenta and teal palette is atypical for green Insect creatures, giving this card an immediately distinctive visual identity within the color. `[artofmtg.com: Dave Kendall, via WebSearch snippet]`
+- **Set / lore context** — Duskmourn: House of Horror was released September 27, 2024, as the 102nd Magic expansion, set entirely within a single demonic haunted mansion ruled by Valgavoth. The set drew horror inspiration from 1970s-1990s cinema. Insects and arthropods in horror are a well-established subgenre trope — vermin as physical manifestation of a location's decay — making Spineseeker Centipede thematically coherent as a green common in the set's undergrowth-horror register. `[Wizards of the Coast: First Look at Duskmourn, via WebSearch snippet]`
+- **Mechanical reputation** — Delirium in Duskmourn was designed with enchantments as the focus type all colors share, with Manifest Dread as the secondary fill mechanism. Spineseeker Centipede pairs the ETB ramp with the Delirium upside, letting it contribute to graveyard diversity (as a creature card) while also accelerating the land base — a clean two-for-one value structure for common rarity. `[MTG Wiki: Delirium, via WebSearch snippet]`
+
+### Related cards
+- Grist, the Hunger Tide (Modern Horizons 2) — top EDHREC commander for Spineseeker Centipede; Insect tribal payoff
+- Zask, Skittering Swarmlord (Commander: Dominaria United) — second top commander home; Insect tribal
+- The Swarmweaver (Bloomburrow) — third top EDHREC commander; Insect tribal synergy
+- Caustic Caterpillar (Magic Origins, no. 160) — green common Insect creature; frequent companion in same Commander shells

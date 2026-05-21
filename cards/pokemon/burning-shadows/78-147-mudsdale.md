@@ -50,6 +50,8 @@ subject_known_ip: true
 suspected_ip: Mudsdale
 ip_confidence: high
 ip_verified: false
+characters:
+  - mudbray-line
 tags:
   - card
   - pokemon
@@ -75,4 +77,3 @@ A large, powerfully built horse Pokemon dominates the frame in a dynamic stance.
 **Emotion read:** powerful and unstoppable; braced strength with forward momentum
 **Creatures:** Mudsdale, horse, draft horse
 **Genre cues:** anime, fantasy
-

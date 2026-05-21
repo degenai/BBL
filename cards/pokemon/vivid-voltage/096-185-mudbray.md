@@ -56,6 +56,8 @@ ip_verified: true
 image_width: 734
 image_height: 1024
 image_quality: high
+characters:
+  - mudbray-line
 tags:
   - card
   - pokemon
@@ -96,4 +98,3 @@ Mudbray is depicted in a dynamic low pose — legs spread or tucked, body close 
 ### Related cards
 - Mudsdale (various sets) — Stage 1 evolution; the Draft Horse Pokemon (no. 750); the evolved form that carries the line's labor-anchor to full expression
 - Mudsdale GX (Sun & Moon era) — GX-tier print of the evolution; the strongest TCG representation of the draft-animal design
-

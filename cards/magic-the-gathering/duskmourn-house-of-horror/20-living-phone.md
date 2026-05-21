@@ -51,6 +51,7 @@ time_of_day: indeterminate
 setting: indoor
 tags:
   - card
+  - vision-passed
 ---
 # Living Phone (Duskmourn: House of Horror)
 
@@ -72,3 +73,15 @@ A heavy, squat rotary-dial telephone sits on a worn wooden shelf, its body mottl
 **Iconography:** glowing-eyes, face-in-object, electricity
 **Genre cues:** horror, dark-fantasy, cute-horror
 
+## Trivia
+
+- **Set / lore context** — Living Phone belongs to the Toy creature subtype introduced in Duskmourn: House of Horror. On Duskmourn, Toys are previously inanimate objects given murderous sentience by Valgavoth's warping influence. Per Duskmourn lore, quickened Toys allow themselves to be picked up by survivors, feigning harmlessness before striking when the group's guard drops. The Toy subtype debuted in Duskmourn and encompasses 14 card entries in the set. `[Duskmourn lore via WebSearch snippet; Draftsim: All 14 Toy Creatures in Magic Ranked, via WebSearch snippet]`
+- **Design** — Living Phone is typed as an Artifact Creature — Toy, placing it in Duskmourn's horror-of-the-mundane design space: everyday objects (phones, appliances, toys) animated by the House's evil. White-mana artifact creatures are comparatively rare — white's artifact-creature synergies have been a growing design focus in recent Commander sets, making this a small piece of that ongoing color-pie expansion. `[Scryfall]`
+- **Mechanical reputation** — Living Phone's death trigger (look at top five, may reveal a creature with power 2 or less into hand) is a standard cantrip-body structure for white Limited formats: a two-mana body that replaces itself with another small creature on death. The effect scales well in white creature strategies that cycle through small bodies. No flavor text printed. `[Scryfall]`
+- **Design** — Art by Domenico Cava, an Italian illustrator and concept artist with approximately 31 MTG card credits across Duskmourn: House of Horror, Modern Horizons 3, and the Final Fantasy Universes Beyond set. Cava maintains a professional portfolio site at domenicocava.com with a dedicated MTG section. `[Gatherer: Domenico Cava artist page, via WebSearch snippet]`
+
+### Related cards
+- Dollmaker's Shop (Duskmourn: House of Horror) — Toy-generating card; same creature subtype
+- Chainsaw (Duskmourn: House of Horror) — another Duskmourn animated-object card; same mundane-horror object design theme
+- Imodane's Recruiter (Wilds of Eldraine) — white creature with similar death-trigger tutoring for small creatures
+- Attack-in-the-Box (Duskmourn: House of Horror) — Domenico Cava also illustrated this card in the same set; same artist

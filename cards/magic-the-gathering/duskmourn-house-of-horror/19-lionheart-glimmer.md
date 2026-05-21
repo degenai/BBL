@@ -22,6 +22,7 @@ tags_hub:
   - supernatural
   - courage
 tags_filter:
+  - white-magic
   - group
   - wide
   - narrative
@@ -72,3 +73,15 @@ A large lion composed entirely of golden fire and light dominates the center of 
 **Creatures:** fire-lion
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set / lore context** — Glimmer is a creature type introduced exclusively in Duskmourn: House of Horror. Glimmers are enchantment creatures representing light manifestations of the hopes and persistence of Duskmourn's survivors, taking the form of treasured childhood objects, fondly remembered pets, or other comforts held onto to resist the demonic Valgavoth's influence. `[MTG Wiki: Glimmer, via WebSearch snippet]`
+- **Design** — Lionheart Glimmer carries the dual type Enchantment Creature — Cat Glimmer, making it mechanically relevant for both Cat tribal synergies and Glimmer-specific payoffs. It was previewed on September 6, 2024 by Shivam Bhatt (@ghirapurigears), a Wizards community manager; art by Josu Hernaiz, a Spanish illustrator with over 113 MTG card credits. `[Scryfall preview metadata]`
+- **Mechanical reputation** — According to EDHREC, the card appears in approximately 6,200 Commander decks (0.24% inclusion). Its highest-concentration home is Arahbo, the First Fang lists at 48% inclusion, where the attack-wide +1/+1 pump stacks with Arahbo's own attack-doubling effects. `[EDHREC: Lionheart Glimmer, via WebSearch snippet]`
+- **Flavor text** — "The survivors would no longer be picked off one by one. It was their turn to hunt." — no named speaker. The line captures Duskmourn's recurring survivor-arc pivot from prey to predator. `[Scryfall]`
+
+### Related cards
+- Enduring Curiosity (Duskmourn: House of Horror, no. 51) — another Glimmer enchantment creature from the same set
+- Arahbo, the First Fang (Commander: Bloomburrow) — top Commander home per EDHREC; Cat tribal synergy
+- Leonin Warleader (Core Set 2019, no. 23) — similar attack-trigger pump in Cat tribal; frequent predecessor comparison
+- Brimaz, King of Oreskos (Born of the Gods, no. 5) — flagship white Cat creature; common deckmate in Arahbo lists

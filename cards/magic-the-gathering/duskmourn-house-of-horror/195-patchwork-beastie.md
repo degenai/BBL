@@ -78,3 +78,15 @@ A hulking creature faces the viewer in a misty grey forest. Its face is a grinni
 **Iconography:** glowing eyes
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Design** — Patchwork Beastie is a 3/3 Artifact Creature for a single {G} — an extremely efficient rate locked behind the Delirium condition (four or more card types in graveyard required to attack or block). Green artifact creatures are rare; the type combination appears primarily in sets where the boundary between organic and constructed matter is a thematic concern, which fits Duskmourn's animated-construct horror register. `[Scryfall]`
+- **Set / lore context** — Delirium was originally designed for Shadows over Innistrad (2016) to reflect Emrakul's corruption of Innistrad's inhabitants. It returned in Duskmourn: House of Horror (2024), where enchantments serve as the primary graveyard-fill type alongside the Manifest Dread mechanic. Both planes where Delirium has appeared center on a reality-warping, mind-corrupting horror entity — Emrakul on Innistrad, Valgavoth on Duskmourn. `[MTG Wiki: Delirium, via WebSearch snippet]`
+- **Flavor text** — "It doesn't know it isn't real." — no named speaker. The line is among the most discussed flavor texts in Duskmourn for its existential weight: the creature is an assembled construct with no true life, unaware of its own unreality — which makes it more unsettling, not less. `[Scryfall]`
+- **Mechanical reputation** — Patchwork Beastie appears in approximately 6,590 Commander decks on EDHREC (0.21% inclusion). Its self-mill upkeep trigger is unusual in that the card slowly enables its own Delirium condition over multiple turns. `[EDHREC: Patchwork Beastie, via WebSearch snippet]`
+
+### Related cards
+- Inexorable Blob (Shadows over Innistrad, no. 222) — original Delirium green creature; same mechanic lineage
+- Grim Flayer (Eldritch Moon, no. 179) — benchmark competitive Delirium card; context for what the mechanic enables
+- Stitcher's Supplier (Core Set 2019, no. 121) — self-mill artifact creature; common deckmate for graveyard-type diversity
+- Glowspore Shaman (Guilds of Ravnica, no. 173) — graveyard-fill enabler; Golgari pairing in Delirium EDH lists

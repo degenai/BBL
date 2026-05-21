@@ -31,6 +31,8 @@ oracle_text: Stampede (Colorless) 10\nRear Kick (FightingColorless) 30
 image_width: 734
 image_height: 1024
 image_quality: high
+characters:
+  - mudbray-line
 tags:
   - card
   - pokemon
@@ -50,4 +52,3 @@ tags:
 **Composition:** figures: , facing: 
 **Setting:** 
 **Mood / lighting:**
-

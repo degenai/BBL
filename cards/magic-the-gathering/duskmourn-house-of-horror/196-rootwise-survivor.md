@@ -79,3 +79,15 @@ A broad-shouldered, bearded figure stands in a defensive crouch in a dark forest
 **Iconography:** green electricity on weapon
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set / lore context** — Survival is an ability word introduced in Duskmourn: House of Horror, tied to the set's Survivor creature type. It is the first MTG keyword mechanic to explicitly reference the second main phase: abilities trigger at the beginning of the controller's second main phase if the creature is tapped, reflecting survivors enduring both the opponent's response and the combat phase before receiving their reward. `[Wizards of the Coast: Duskmourn House of Horror Mechanics article, via WebSearch snippet]`
+- **Mechanical reputation** — Rootwise Survivor appears in only 699 Commander decks on EDHREC (0.03% inclusion), placing it among the lower-traction Survivor cards from the set. Its highest synergy concentration is in Rip, Spawn Hunter decks (16% inclusion in 263 lists), a niche that benefits from land-animation strategies and repeated tapping effects. `[EDHREC: Rootwise Survivor, via WebSearch snippet]`
+- **Design** — The Survival trigger permanently animates a target land into a 0/0 Elemental creature with haste, adding +1/+1 counters to keep it alive. Unlike most land-animation effects, there is no duration limit — the land remains a creature indefinitely unless the counters are removed or the land leaves the battlefield. Rootwise Survivor is illustrated by Joseph Weston. `[Scryfall; MTGNexus: Rootwise Survivor, via WebSearch snippet]`
+- **Set / lore context** — The Human Survivor subtype is a Duskmourn design throughline: characters who have survived the House long enough to adapt to its rules. The Survivor type appears across multiple DSK cards, encoding the theme of learning the mansion's logic as a survival strategy. `[Scryfall]`
+
+### Related cards
+- Rip, Spawn Hunter (Duskmourn: House of Horror) — top EDHREC synergy commander; tapping-based strategy maximizes Survival trigger
+- Wandering Mind (Duskmourn: House of Horror) — Survivor creature type within DSK; same thematic creature class
+- Awakening of Vitu-Ghazi (War of the Spark, no. 148) — prior permanent land-animation effect; mechanical comparison point
+- Overlord's Huntmaster (Duskmourn: House of Horror) — another Survival-mechanic creature from the same set

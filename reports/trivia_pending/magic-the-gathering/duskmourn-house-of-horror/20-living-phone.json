@@ -1,0 +1,48 @@
+{
+  "card_name": "Living Phone",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "20",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "triage_flags": {
+    "mana_cost_present": true,
+    "color_magic_in_tags_filter": true,
+    "note": "mana_cost '{2}{W}' present. white-magic in tags_filter. Vision-pass 'vision-passed' tag is ABSENT from the 'tags:' field — card has tags_hub and Vision section but tags: field only shows 'card'. Flag for janitor review.",
+    "missing_vision_passed_tag": true
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Living Phone belongs to the Toy creature subtype introduced in Duskmourn: House of Horror. Toys on Duskmourn are previously inanimate objects given murderous sentience by Valgavoth's warping influence. According to Duskmourn lore, quickened Toys allow themselves to be picked up by survivors, feigning harmlessness before striking when the group's guard drops. The Toy subtype debuted in Duskmourn and includes 14 cards total as of the set's release. [MTG Duskmourn Toy lore, via WebSearch snippet; Draftsim: All 14 Toy Creatures in Magic Ranked, via WebSearch snippet]",
+      "sources": ["Duskmourn lore via WebSearch snippet", "Draftsim: All 14 Toy Creatures in Magic Ranked (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Living Phone is typed as an Artifact Creature — Toy, placing it in Duskmourn's horror-of-the-mundane design space: everyday objects (phones, toys, appliances) animated by the House's evil and turned into tools of predation. Its white mana identity is unusual for an artifact creature in recent sets, where white-artifact synergies have become increasingly supported in Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Living Phone's death trigger — look at the top five cards of your library, may reveal a creature with power 2 or less and put it into hand — positions it as a white cantrip creature that replaces itself with a small creature on death. This is a common structural role in Limited formats (a body that cantrips into another body) and makes it a reliable two-drop for white creature-based strategies in Duskmourn draft. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Living Phone was illustrated by Domenico Cava, an Italian illustrator and concept artist with approximately 31 MTG card credits. Cava has worked across Duskmourn: House of Horror, Modern Horizons 3, and the Final Fantasy Universes Beyond set, among others. His portfolio site (domenicocava.com) includes an MTG section. [Gatherer: Domenico Cava artist page, via WebSearch snippet]",
+      "sources": ["Gatherer: Domenico Cava artist page (via WebSearch snippet)", "domenicocava.com (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Imodane's Recruiter", "set": "Wilds of Eldraine", "note": "White creature with similar death-trigger tutoring for small creatures — mechanical comparison"},
+    {"name": "Phyrexian Walker", "set": "Visions", "note": "Artifact Creature with zero-mana cost — historical context for artifact creatures in white-adjacent strategies"},
+    {"name": "Chainsaw", "set": "Duskmourn: House of Horror", "note": "Another Duskmourn artifact animated object card — part of the same mundane-horror object design theme"},
+    {"name": "Dollmaker's Shop", "set": "Duskmourn: House of Horror", "note": "Duskmourn Toy-generating card; same creature subtype as Living Phone"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

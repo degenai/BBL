@@ -1,0 +1,52 @@
+{
+  "card_name": "Lionheart Glimmer",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "19",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "triage_flags": {
+    "mana_cost_present": true,
+    "color_magic_in_tags_filter": false,
+    "note": "mana_cost '{3}{W}{W}' is present. No white-magic tag in tags_filter — recommend adding 'white-magic' to tags_filter."
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Glimmer is a creature type introduced exclusively in Duskmourn: House of Horror. Glimmers are enchantment creatures that represent light manifestations of the hopes and persistence of Duskmourn's survivors — taking the form of treasured childhood objects, fondly remembered pets, or other comforts a survivor holds onto to resist the House's corrupting influence. They offer magical protection against the demonic Valgavoth. [MTG Wiki: Glimmer, via WebSearch snippet]",
+      "sources": ["MTG Wiki: Glimmer (via WebSearch snippet)", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Lionheart Glimmer is typed as an Enchantment Creature — Cat Glimmer, making it one of the few cards that carries both the Cat and Glimmer creature types simultaneously. Its dual typing makes it relevant for both Cat tribal synergies and Glimmer-specific payoffs within Duskmourn. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "According to EDHREC, Lionheart Glimmer appears in approximately 6,200 Commander decks (0.24% inclusion). Its highest-concentration commander is Arahbo, the First Fang, where it reaches 48% inclusion — reflecting the card's natural home in Cat tribal strategies where the attack-wide +1/+1 pump compounds with Arahbo's doubling effects. [EDHREC: Lionheart Glimmer, via WebSearch snippet]",
+      "sources": ["EDHREC: Lionheart Glimmer (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The survivors would no longer be picked off one by one. It was their turn to hunt.\" — no named speaker. The line captures the thematic pivot of Duskmourn's survivor characters from prey to predator — a recurring arc across the set's narrative. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Lionheart Glimmer was previewed on September 6, 2024, by Shivam Bhatt (@ghirapurigears on Twitter/X), a Wizards community manager known for championing Commander and inclusive MTG community spaces. Card art by Josu Hernaiz, a Spanish illustrator with over 113 MTG card credits. [Scryfall preview metadata]",
+      "sources": ["Scryfall preview metadata"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Enduring Curiosity", "set": "Duskmourn: House of Horror", "note": "Another Glimmer enchantment creature from the same set — represents the blue color of the Glimmer cycle"},
+    {"name": "Arahbo, the First Fang", "set": "Commander: Bloomburrow", "note": "Top commander for Lionheart Glimmer according to EDHREC; Cat tribal synergy"},
+    {"name": "Leonin Warleader", "set": "Core Set 2019", "note": "Similar attack-trigger pump role in Cat tribal builds; often compared as a predecessor effect"},
+    {"name": "Brimaz, King of Oreskos", "set": "Born of the Gods", "note": "Flagship Cat creature for white Cat tribal; frequent deckmate in Arahbo lists"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

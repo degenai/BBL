@@ -1,0 +1,47 @@
+{
+  "edge_id": "mudbray-line--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/mudbray-line.md", "name": "Mudbray evolutionary line (Mudbray / Mudsdale)"},
+    {"type": "card", "path": "cards/pokemon/destined-rivals/107-182-mudbray.md", "name": "Mudbray (Destined Rivals 107/182)"},
+    {"type": "card", "path": "cards/pokemon/destined-rivals/108-182-mudsdale.md", "name": "Mudsdale (Destined Rivals 108/182)"},
+    {"type": "card", "path": "cards/pokemon/vivid-voltage/096-185-mudbray.md", "name": "Mudbray (Vivid Voltage 096/185)"},
+    {"type": "card", "path": "cards/pokemon/burning-shadows/78-147-mudsdale.md", "name": "Mudsdale (Burning Shadows 78/147)"},
+    {"type": "card", "path": "cards/pokemon/sword-shield-base-set/105-202-mudbray.md", "name": "Mudbray (Sword & Shield Base Set 105/202)"}
+  ],
+  "description": "Sorry to step in, sir, Edgelord did want the clean little Mudbray-to-Mudsdale mirror, he really did. But there are five prints, you see — three Mudbray and two Mudsdale across four sets — and a 1:1 edge would have orphaned three of them, and then the whole thing would have wanted re-anchoring the moment a sixth print landed. So I have, if it's not too much trouble, proposed the mudbray-line character node instead. It is the exact 3+2 twin of the drilbur-line node and follows the breloom-line precedent (commissioned when its two-stage line went fresh in the very same Destined Rivals set). I do hope it helps.",
+  "citations": [
+    "[Bulbapedia: Mudbray (Pokemon), Mudsdale (Pokemon)]",
+    "[Pokemon.com: Pokedex no. 749 / 750]",
+    "[Pokemon Sun and Moon, Game Freak / Creatures Inc. / Nintendo, 2016]",
+    "[PokemonTCG.io API: swsh4-96 — Mudbray Vivid Voltage trivia pass, IP-verified]",
+    "[Scryfall-equivalent: PokemonTCG.io per-card flavor_text / oracle_text strings]"
+  ],
+  "files_modified": [
+    "cards/_characters/mudbray-line.md",
+    "cards/pokemon/destined-rivals/107-182-mudbray.md",
+    "cards/pokemon/destined-rivals/108-182-mudsdale.md",
+    "cards/pokemon/vivid-voltage/096-185-mudbray.md",
+    "cards/pokemon/burning-shadows/78-147-mudsdale.md",
+    "cards/pokemon/sword-shield-base-set/105-202-mudbray.md"
+  ],
+  "node_proposed": {
+    "path": "cards/_characters/mudbray-line.md",
+    "type": "character",
+    "slug": "mudbray-line",
+    "cards_now_pointing_here": 5,
+    "members": "3 Mudbray (SS Base 105, Vivid Voltage 096, Destined Rivals 107) + 2 Mudsdale (Burning Shadows 78, Destined Rivals 108)"
+  },
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Primeape DRI-091, Hippowdon DRI-106, Arven's Maschiff DRI-138 — no shared load-bearing edge among the remaining fresh Destined Rivals Pokemon; Hippowdon is a single-print Ground-type with no in-corpus Hippopotas, no line-node threshold met. Arven's Maschiff is a Trainer's-Pokemon card (Arven ownership prefix) — a future arven-cohort character-node candidate IF more Arven's-prefixed cards accumulate (Arven's Toedscruel DRI-110 already in corpus = 2 prints; one short of the 3-print threshold; stage as future-watch).",
+    "Five Duskmourn MTG trivia-passed cards (Lionheart Glimmer 19, Patchwork Beastie 195, Rootwise Survivor 196, Spineseeker Centipede 199, Living Phone 20) — not examined for an edge this wave; the Mudbray-line node was the higher-yield single operation. Stage for a future Edgelord pass."
+  ],
+  "next_pass_suggestions": [
+    "Arven's-Pokemon cohort: Arven's Maschiff DRI-138 + Arven's Toedscruel DRI-110 are in corpus (2 prints). If a third Arven's-prefixed card lands, commission an arven-trainer-cohort character node (precedent: Ethan's Pinsir / Ethan's Slugma, Team Rocket's Mareep / Team Rocket's Venture Bomb — trainer-ownership cohorts already present in Destined Rivals).",
+    "Mudbray SS-Base 105 needs its manual-review + vision pass resolved; its mudbray-line membership stands regardless but its body and tags_hub are currently empty.",
+    "Duskmourn trivia-passed batch (cards 19, 195, 196, 199, 20) is unswept for edges."
+  ]
+}
