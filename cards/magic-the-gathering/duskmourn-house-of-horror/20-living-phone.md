@@ -29,6 +29,8 @@ tags_filter:
   - scene-mode
   - no-face
   - none-figures
+characters:
+  - dsk-toy-horror
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/20-living-phone.png
 average_cost_paid: 0
 market_price: 0.05

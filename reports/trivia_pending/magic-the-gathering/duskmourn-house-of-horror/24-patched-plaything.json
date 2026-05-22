@@ -1,0 +1,48 @@
+{
+  "card_name": "Patched Plaything",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "24",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "One of 11 Artifact Creature -- Toy cards in DSK. The Toy creature subtype was introduced with this set; it had not appeared in black-border Magic prior to DSK. In Duskmourn lore, quickened toys are inanimate objects granted deadly sentience by Valgavoth's warping influence on the house.",
+      "sources": ["Draftsim: All 14 Toy Creatures in Magic Ranked", "Scryfall: type_line", "MTG Wiki (mtg.wiki): Toy page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Prints as a 4/3 double strike but enters with two -1/-1 counters if cast from hand, making effective stats 2/1 double strike for three mana. Counter-removal cards (Hapatra, Vizier of Poisons; The Ozolith) can restore the full 4/3 statline. EDHREC rank: 20,574.",
+      "sources": ["Scryfall: oracle_text, power, toughness, edhrec_rank"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"When it ripped, its owner attempted to fix it. Something went... wrong.\" The word 'Patched' in the card name mirrors both the repair attempt in the flavor text and the visible patchwork stitching in the art. The oracle text's -1/-1 counters literalize the 'something went wrong' as a corrupted repair.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Domenico Cava also illustrated Attack-in-the-Box (DSK no. 242); both corrupted-toy Artifact Creatures in this inventory share an artist. No Hipsters of the Coast coverage found for Cava at time of research.",
+      "sources": ["Scryfall: artist field on DSK/24 and DSK/242"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Attack-in-the-Box", "set": "DSK", "note": "Same artist (Domenico Cava), same Toy subtype"},
+    {"name": "Arabella, Abandoned Doll", "set": "DSK", "note": "Named Legendary Toy creature; Annabelle reference"},
+    {"name": "Vicious Clown", "set": "DSK", "note": "Toy-adjacent horror cluster; Chucky reference"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{2}{W}",
+    "color_magic_in_tags_filter": true,
+    "color_magic_value": "white-magic",
+    "needs_sweep": false
+  }
+}

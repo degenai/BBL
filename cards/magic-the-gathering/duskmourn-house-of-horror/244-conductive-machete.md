@@ -79,3 +79,15 @@ A figure in the lower portion of the frame raises a large flat-bladed machete ov
 **Iconography:** green electricity
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context / mechanic** -- Conductive Machete is an uncommon Equipment artifact from Duskmourn: House of Horror (DSK, released 2024-09-27) and one of the set's "common horror objects" -- everyday implements elevated to weapons in a survival horror register `[CoolStuffInc: "The Flavor Gems of Duskmourn: House of Horrors," Jay Annelli, 2024]`. Its mechanical hook is Manifest Dread, a DSK-specific variant of the Manifest keyword originally introduced in Fate Reforged (2015). The upgrade: Manifest Dread looks at the top two cards and lets you choose which to put face-down on the battlefield as a 2/2 (the other goes to the graveyard), adding card selection that the original Manifest lacked, and feeding DSK's graveyard-synergy theme `[Wizards of the Coast: "Duskmourn: House of Horror Mechanics," Matt Tabak; DotEsports: "MTG manifest dread mechanic in Duskmourn explained"]`.
+- **Mechanical design** -- The Equipment enters, manifests dread, then auto-attaches to the manifested creature -- so you get a surprise 2/2 bearer immediately on resolution, with no equip payment needed for that first attachment. The equipped bonus is +2/+1, and subsequent equip is {4} -- expensive for a small static bonus, but the entry manifest and auto-attach often make the first attachment free value. The card has no flavor text (confirmed via Scryfall API) `[Scryfall]`. EDHREC rank: 18,037 `[Scryfall]`.
+- **Artist** -- Steven Russell Black's personal portfolio site lists six other MTG cards (Jolted Awake, Snail token, Bat Token, My Followers Ascend, Deem Inferior, Devour Intellect, Last Gasp) `[stevenrussellblack.com/mtg]`; Conductive Machete appears to be among his more recent commissions. His card count on Scryfall under the name "Steven Russell Black" confirms a small but growing MTG body of work `[Scryfall: artist search]`. No Hipsters of the Coast coverage found at time of research.
+- **Manifest Dread in the set** -- Manifest Dread is one of five mechanics in DSK (alongside Rooms, Eerie, Impending, and Survival). Its design intent is to create suspense through partial information for the opponent -- they see a face-down 2/2 and do not know what it contains, which aligns with the set's stated design goal of "suspense over shock" `[Wizards: "Duskmourn: House of Horror Mechanics"]`. The card Manifest Dread (DSK no. 189) is the keyword token / reminder card for the mechanic in the set `[Scryfall]`.
+
+### Related cards
+- Manifest Dread (DSK, no. 189) -- the mechanic's named token/reminder card in the same set
+- Bear Trap (DSK, no. 243) -- common-object horror weapon in same set, same design register
+- Baseball Bat (DSK, no. 209) -- another DSK common-object horror weapon
+- Whisperwood Elemental (FRF) -- key Manifest card from Fate Reforged, the mechanic's original home

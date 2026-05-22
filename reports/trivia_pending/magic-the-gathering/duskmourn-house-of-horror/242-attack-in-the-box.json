@@ -1,0 +1,48 @@
+{
+  "card_name": "Attack-in-the-Box",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "242",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The card name is a portmanteau pun on 'jack-in-the-box' and 'attack.' The flavor text 'Pop goes the evil.' directly parodies the Pop Goes the Weasel nursery rhyme that accompanies most jack-in-the-box toys.",
+      "sources": ["Scryfall: flavor_text field", "CoolStuffInc: The Flavor Gems of Duskmourn: House of Horrors, Jay Annelli, 2024"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Colorless {3} Artifact Creature -- Toy; base 2/4. Attack trigger optionally pumps to 6/4 but auto-sacrifices at the NEXT end step if the buff is taken -- not at end of turn, meaning the creature survives through the opponent's cleanup phase. EDHREC rank: 18,088.",
+      "sources": ["Scryfall: oracle_text, edhrec_rank"]
+    },
+    {
+      "category": "design",
+      "text": "Attack-in-the-Box is the first tournament-legal jack-in-the-box creature in Magic. The closest prior card is Jack-in-the-Mox (Unglued / Unsanctioned, silver-border), a comedic {0} artifact with a random die-roll effect including a 1-in-6 chance to lose 5 life and sacrifice itself -- the same horror-toy premise but entirely silver-border and tournament-illegal.",
+      "sources": ["Scryfall: Jack-in-the-Mox, UND no. 78; Scryfall: reprint field on DSK/242 = false"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Domenico Cava also illustrated Patched Plaything (DSK no. 24); both DSK Toy Artifact Creatures in this inventory share an artist. No Hipsters of the Coast coverage found for Cava at time of research.",
+      "sources": ["Scryfall: artist fields on DSK/242 and DSK/24"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Patched Plaything", "set": "DSK", "note": "Same artist, same Toy subtype, same batch"},
+    {"name": "Jack-in-the-Mox", "set": "UND/UGL", "note": "Prior silver-border jack-in-the-box card; thematic predecessor"},
+    {"name": "Arabella, Abandoned Doll", "set": "DSK", "note": "Legendary Toy anchor for the DSK Toy cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{3}",
+    "color_magic_in_tags_filter": true,
+    "color_magic_value": "colorless",
+    "needs_sweep": false
+  }
+}

@@ -43,7 +43,12 @@
       "Bash(Select-Object Path, LineNumber)",
       "Bash(powershell *)",
       "Bash(git add *)",
-      "Bash(git commit -q -m ' *)"
+      "Bash(git commit -q -m ' *)",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(json.dumps\\({k:d.get\\(k\\) for k in ['name','set','set_name','collector_number','mana_cost','type_line','oracle_text','flavor_text','artist','rarity','edhrec_rank','keywords','legalities','released_at','story_spotlight']}, indent=2\\)\\)\")",
+      "WebFetch(domain:www.mtgsalvation.com)",
+      "WebFetch(domain:www.stevenrussellblack.com)",
+      "WebFetch(domain:www.dicetry.com)",
+      "WebFetch(domain:www.coolstuffinc.com)"
     ]
   }
 }

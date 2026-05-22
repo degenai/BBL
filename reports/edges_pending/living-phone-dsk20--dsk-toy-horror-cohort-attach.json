@@ -1,0 +1,27 @@
+{
+  "edge_id": "living-phone-dsk20--dsk-toy-horror-cohort-attach",
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/20-living-phone.md", "name": "Living Phone (DSK-20)"},
+    {"type": "character", "path": "cards/_characters/dsk-toy-horror.md", "name": "Toy horror cohort (Duskmourn corrupted-childhood artifact-creatures)"}
+  ],
+  "description": "The lead said 'may be a symbol-or-character cohort candidate' for the Toy subtype. It already IS one. dsk-toy-horror has existed since wave 59 with three members. The actual missing wire: Living Phone DSK-20, an already-enriched corpus card whose own trivia states verbatim it belongs to the DSK Toy creature subtype, was sitting unpointered to the node it canonically belongs in. Orphan-edge completion. Fourth member, fourth distinct object-archetype (corrupted-household-appliance), and it makes the within-cohort artist anchor a Domenico Cava trio rather than a pair. Patched Plaything and Attack-in-the-Box were already wired; nothing to do there. Bear Trap and Conductive Machete belong to the OPPOSING survivor-tools cohort, not Toy. Orphans of the Wheat is Creature-Human per its own type_line trivia, not Toy, despite the 'toys' wordplay in its flavor text. One real wire this wave.",
+  "citations": ["[Scryfall: type_line Artifact Creature - Toy]", "[Living Phone DSK-20 trivia: 'Living Phone belongs to the Toy creature subtype introduced in Duskmourn']", "[Draftsim: All 14 Toy Creatures in Magic Ranked]", "[Scryfall: artist field — Domenico Cava on DSK-20, DSK-24, DSK-242]"],
+  "files_modified": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/20-living-phone.md",
+    "cards/_characters/dsk-toy-horror.md"
+  ],
+  "edges_removed": [],
+  "edges_added": ["20-living-phone -> dsk-toy-horror (characters frontmatter pointer + appears_on + body member-bullet)"],
+  "other_candidates_considered": [
+    "Bear Trap DSK-243 + Conductive Machete DSK-244 -> a dsk-survival-archetype / survivor-tools cohort. The dsk-survival-archetype character node exists and Conductive Machete already points at it; Bear Trap does not yet. Bear Trap is an artifact removal spell, not an Equipment/creature, so its fit to a 'survivor wields improvised weapon' character cohort is weaker than Conductive Machete's. Staged, not drawn this wave.",
+    "Patchwork Beastie / Patched Plaything 1:1 'stitched-construct' mirror — redundant once both already stack on dsk-toy-horror. Correctly not drawn; the cohort node already carries the connection."
+  ],
+  "next_pass_suggestions": [
+    "Evaluate Bear Trap DSK-243 against the dsk-survival-archetype cohort node — verify whether a non-creature non-Equipment artifact (the trap as removal spell) meets that cohort's membership predicate before wiring.",
+    "Scryfall sweep s:dsk t:toy to enumerate the full ~14-card Toy roster and flag any other in-corpus Toy-subtyped cards still unwired (the node caveat already requests this)."
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

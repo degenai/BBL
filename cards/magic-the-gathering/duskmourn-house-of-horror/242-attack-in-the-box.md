@@ -77,3 +77,14 @@ A pale, gaunt figure with clown or jester aesthetics stands in a darkened interi
 **Iconography:** jester bells, ruffled collar
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context / name pun** -- Attack-in-the-Box is a portmanteau pun on "jack-in-the-box," the spring-loaded clown toy, and "attack." The flavor text -- "Pop goes the evil." -- directly parodies the *Pop Goes the Weasel* nursery rhyme that accompanies most jack-in-the-box toys `[CoolStuffInc: "The Flavor Gems of Duskmourn: House of Horrors," Jay Annelli, 2024; Scryfall: flavor_text]`. This makes it one of the more overtly punning card names in DSK's horror-reference toolkit.
+- **Mechanical design** -- Attack-in-the-Box is a colorless {3} Artifact Creature -- Toy with base stats 2/4. Its attack trigger optionally pumps it to 6/4 (a 4-power swing) but auto-sacrifices it at the next end step if you take the buff -- a high-risk, high-reward play pattern that mirrors the jack-in-the-box's surprise-and-release motion in game design terms. Because the sacrifice is "at the beginning of the next end step," not "until end of turn," attacking with the pump on your turn means it survives until your opponent's end step, giving it a full combat and a cleanup phase before it disappears `[Scryfall: oracle_text]`. EDHREC rank: 18,088 `[Scryfall]`.
+- **Toy type and prior precedent** -- The Toy creature type was introduced with DSK. The closest prior jack-in-the-box card in Magic is Jack-in-the-Mox (Unglued, silver-border), a comedic {0} artifact with a random die-roll effect including a chance to lose 5 life and sacrifice itself -- a different mechanical take on the same horror-toy aesthetic but entirely silver-border and tournament-illegal `[Scryfall: Jack-in-the-Mox, UND no. 78]`. Attack-in-the-Box is the first tournament-legal jack-in-the-box creature in the game.
+- **Artist** -- Domenico Cava also illustrated Patched Plaything (DSK no. 24), making both corrupted-toy Artifact Creatures in this collection share an artist. No Hipsters of the Coast coverage found for Cava at time of research `[Scryfall: artist fields]`.
+
+### Related cards
+- Patched Plaything (DSK, no. 24) -- same artist, same Toy subtype, same batch
+- Jack-in-the-Mox (Unglued / Unsanctioned) -- prior silver-border jack-in-the-box card; mechanical predecessor in theme
+- Arabella, Abandoned Doll (DSK, no. 208) -- Legendary Toy anchor for the DSK Toy cluster

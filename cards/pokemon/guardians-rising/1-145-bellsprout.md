@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - plant
+  - jungle
+  - forest
+  - leaf
+  - creature
+  - expressive
+  - nature
+  - tiny-creature
+  - open-mouth
+  - foliage
+  - grass-type
+tags_filter:
+  - solo
+  - close-up
+  - portrait-mode
+  - forward-facing
+  - no-face-occluded
+  - creature-pokemon
 reference_image: cards/_images/pokemon/guardians-rising/1-145-bellsprout.png
 average_cost_paid: 0
 market_price: 0.2
@@ -27,6 +44,32 @@ oracle_text: Vine Whip (GrassColorless) 30
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: comedic
+time_of_day: indeterminate
+setting: forest
+suspected_ip: Bellsprout
+ip_confidence: high
+ip_verified: false
 ---
 
 # Bellsprout (Guardians Rising)
+
+## Vision
+
+![1-145-bellsprout](../../_images/pokemon/guardians-rising/1-145-bellsprout.png)
+
+> [!warning] Suspected IP: **Bellsprout** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+Bellsprout is shown in a close mid-shot amid lush green foliage. The creature's thin yellow stem-body curves upward and its round head is tilted open-mouthed as if calling or crying out. Large broad leaves fill the frame behind it in deep greens and yellows. The overall composition is dense with plant matter, with the creature nestled in the foliage as both subject and environmental inhabitant. The mood is lively and slightly comedic.
+
+**Subject:** Bellsprout, a yellow plant creature with a thin stem-body, round head, petal-like ear-lobes, and a wide open mouth, surrounded by large green jungle leaves
+
+**Composition:** close-up, portrait, figures: solo, facing: forward
+**Setting:** forest, indeterminate, calm
+**Foreground:** Bellsprout with open mouth, thin yellow stem body, petal ears, surrounded by leaf clusters  *(palette: yellow, green, light-green)*
+**Background:** Dense layered jungle foliage, large broad leaves  *(palette: dark-green, medium-green, olive)*
+**Mood / lighting:** comedic, soft
+**Emotion read:** open-mouthed exclamation, expressive cry or call, energetic
+**Creatures:** bellsprout, plant-creature, grass-type-pokemon
+**Genre cues:** anime, creature-design

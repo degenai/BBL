@@ -1,0 +1,49 @@
+{
+  "card_name": "Orphans of the Wheat",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "22",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror is a top-down modern horror set (released 2024-09-27) centered on a single enormous haunted mansion ruled by the demon Valgavoth, drawing from 1970s-1990s slasher and supernatural film. Orphans of the Wheat's name is a direct Children of the Corn reference (1984 film / Stephen King 1977 short story); one community source notes the art reads more as Village of the Damned / Midwich Cuckoos in execution -- pale, glowing-eyed children with uniform supernatural intent -- than the corn-field slasher framing of the film.",
+      "sources": ["Wizards of the Coast: Duskmourn Vision Design Handoff Part 1", "Card Kingdom Blog: The 7 Best Horror References in Duskmourn", "Wargamer: Every single horror reference in MTG Duskmourn"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Attack trigger scales with untapped creatures at resolution. Per Scryfall rulings, if Orphans of the Wheat itself is untapped at resolution (e.g. via vigilance), it can be included in the tap count for its own ability. EDHREC rank 21,714 -- niche Commander uptake.",
+      "sources": ["Scryfall: rulings and edhrec_rank field"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Julie Dillon is a three-time Hugo Award winner for Best Professional Artist (2014, 2015, 2017), one of the most decorated artists working in science fiction and fantasy illustration; she has worked with Wizards of the Coast, Tor Books, Simon & Schuster, and Oxford University Press. She has published three art books: Imagined Realms (2014), Imagined Realms Book 2: Earth and Sky (2015), and Daydreamer's Journey (2018).",
+      "sources": ["Wikipedia: Julie Dillon"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Their only family is each other, and their only toys are those who wander too far into the fields.\" The word 'toys' does double work: it ties to the Toy creature type cluster in DSK while connoting the predatory sense of children treating victims as playthings.",
+      "sources": ["Scryfall: flavor_text field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Arabella, Abandoned Doll", "set": "DSK", "note": "Legendary Toy creature; named high-rarity anchor for the possessed-toy horror cluster"},
+    {"name": "Patched Plaything", "set": "DSK", "note": "Toy Artifact Creature; same corrupted-childhood aesthetic"},
+    {"name": "Attack-in-the-Box", "set": "DSK", "note": "Toy Artifact Creature; haunted playroom aesthetic cluster"},
+    {"name": "Vicious Clown", "set": "DSK", "note": "Child's Play / Chucky reference in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{1}{W}",
+    "color_magic_in_tags_filter": true,
+    "color_magic_value": "white-magic",
+    "needs_sweep": false
+  }
+}

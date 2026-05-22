@@ -57,6 +57,7 @@ time_of_day: indeterminate
 setting: dungeon
 tags:
   - card
+  - vision-passed
 ---
 # Bear Trap (Duskmourn: House of Horror)
 
@@ -78,3 +79,14 @@ A massive bear trap dominates the frame, its two serrated semicircular jaws stud
 **Iconography:** embossed-circles, teal-smoke
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** -- Bear Trap is a common artifact from Duskmourn: House of Horror (DSK, released 2024-09-27), one of the set's "common horror objects" alongside cards like Conductive Machete and Baseball Bat -- everyday implements recontextualized as weapons in a survival horror setting `[CoolStuffInc: "The Flavor Gems of Duskmourn: House of Horrors," Jay Annelli, 2024]`. It is the only printing of this card; no prior Bear Trap with this oracle text exists in Magic's history `[Scryfall: prints search returning 1 result]`.
+- **Mechanical design** -- At {1} with Flash, Bear Trap enters cheaply and at instant speed; its activated ability ({3}, {T}, Sacrifice: deal 3 damage to target creature) represents a delayed kill shot -- you hold the trap until the moment you need creature removal. Flash on a 1-mana artifact allows it to be played at the end of the opponent's turn, effectively giving it haste-like timing. The card is Pauper-legal and PauperCommander-legal, expanding its reach beyond Standard and Commander into Magic's common-only constructed formats `[Scryfall: legalities]`. EDHREC rank: 18,403 `[Scryfall]`.
+- **Flavor text** -- "Every time its teeth tasted blood, its hunger grew, until one day it was no longer a trap but a hunter." `[Scryfall]` -- This is consistent with Duskmourn's design ethos that inanimate objects in the house become sentient and predatory through Valgavoth's influence; the flavor text literalizes the oracle text's damage output as a "tasting," mapping the trap's mechanical function onto a transformation narrative in just two clauses `[Wizards: "Duskmourn: House of Horror Vision Design Handoff, Part 1"]`.
+- **Artist** -- Michele Giorgi is the illustrator. No Hipsters of the Coast coverage for Giorgi found at time of research. The card was previewed directly by Wizards of the Coast on 2024-09-06 `[Scryfall: preview field]`.
+
+### Related cards
+- Conductive Machete (DSK, no. 244) -- common-object horror weapon in the same set; same "everyday tool as horror prop" design register
+- Baseball Bat (DSK, no. 209) -- another DSK common-object horror artifact in the same cluster
+- Contagion Clasp (SOM) -- prior {2} artifact with sacrifice-for-removal pattern for design-lineage comparison

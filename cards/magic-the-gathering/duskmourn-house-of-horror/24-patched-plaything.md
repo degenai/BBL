@@ -79,3 +79,14 @@ A large stuffed bear, tattered and tan-colored, looms with its mouth open wide t
 **Iconography:** stitching, doll-face motif
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context / Toy type** -- Patched Plaything is one of 11 Artifact Creature -- Toy cards printed in Duskmourn: House of Horror (DSK, released 2024-09-27). The Toy creature subtype was introduced with this set; per the non-Fandom MTG Wiki, "Toy" had not appeared as a creature subtype in black-border Magic prior to DSK (earlier appearances were in the Unglued/Unsanctioned silver-border space). In Duskmourn lore, "quickened toys" are inanimate objects granted deadly sentience by Valgavoth's warping influence on the house `[Draftsim: "All 14 Toy Creatures in Magic Ranked"; Scryfall type_line]`.
+- **Mechanical design** -- Patched Plaything prints as a 4/3 with double strike but enters with two -1/-1 counters if cast from hand, making its effective stats 2/1 double strike for three mana -- front-loaded power traded against a counter penalty. The -1/-1 counter drawback is consistent with DSK's use of counters as a horror-adjacent "corruption" signal across the set. EDHREC rank: 20,574, indicating limited Commander uptake `[Scryfall]`. Notable interaction: cards that remove -1/-1 counters (Hapatra, Vizier of Poisons; The Ozolith) can strip the penalty and restore the full 4/3 statline.
+- **Flavor text** -- "When it ripped, its owner attempted to fix it. Something went... wrong." `[Scryfall]` -- The flavor text gestures at the card's name and oracle text simultaneously: "Patched" is both the repair attempt and the patchwork stitching visible in the art, and "something went wrong" literalizes in the oracle text as the -1/-1 counters that flag the repair as corrupted. The doll-face stitched onto the bear's chest -- visible in the art -- may be the "wrong" element added during the failed mending attempt.
+- **Artist** -- Domenico Cava also illustrated Attack-in-the-Box (DSK no. 242) in the same set, meaning both corrupted-toy Artifact Creatures in this collection share an artist `[Scryfall: artist field on both cards]`. No Hipsters of the Coast coverage found for Cava at time of research.
+
+### Related cards
+- Attack-in-the-Box (DSK, no. 242) -- same artist (Domenico Cava), same Toy subtype, same "haunted playroom" aesthetic cluster
+- Arabella, Abandoned Doll (DSK, no. 208) -- named Legendary Toy creature; Annabelle / possessed-doll horror reference in the same set
+- Vicious Clown (DSK) -- Toy-adjacent in set horror cluster; Chucky / Child's Play reference
