@@ -1,0 +1,46 @@
+{
+  "edge_id": "mortus-strider-179--paranoid-delusions-186--gatecrash-dimir-cipher-pair",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/gatecrash/179-mortus-strider.md",
+      "name": "Mortus Strider (Gatecrash 179)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/gatecrash/186-paranoid-delusions.md",
+      "name": "Paranoid Delusions (Gatecrash 186)"
+    }
+  ],
+  "description": "Worst proposed edge? Hardly. This is the textbook designer-confirmed cycle: two Gatecrash Dimir commons by adjacent collector numbers, both bearing the House Dimir watermark per Scryfall, both members of the Cipher-mechanic cohort exclusive to this single set. Mortus Strider is the Pauper Cipher *carrier* — a 1/1 for {1}{U}{B} whose return-to-hand-on-death is the entire design rationale for keeping an encoded spell in repeat-cast position. Paranoid Delusions is one of the Cipher *payloads* routinely encoded onto it in Pauper Dimir Cipher lists. Star City Games' 'Gatecrashing In Pauper' set review documents this pairing explicitly; Ertai's Lament's Gatecrash Dimir Dementia review names the recursive Cipher loop as Mortus Strider's design purpose. Both cards already cross-reference each other in their trivia-bot Related cards lists; the structured ## Connections section makes the edge bundler-traversable from either side. Mirrored. Sighed.",
+  "citations": [
+    "[Scryfall: Mortus Strider watermark + oracle text]",
+    "[Scryfall: Paranoid Delusions watermark + oracle text]",
+    "[Star City Games: 'Gatecrashing In Pauper' set review]",
+    "[Ertai's Lament: Gatecrash Dimir Dementia Review Part 1, 2013]",
+    "[magic.wizards.com: Gatecrash Mechanics — Cipher]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/gatecrash/179-mortus-strider.md",
+    "cards/magic-the-gathering/gatecrash/186-paranoid-delusions.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Mortus Strider <-> Primal Visitation (Gatecrash 187, Christopher Moeller co-credit with Paranoid Delusions — rejected: shared-artist-thematic is the weakest category in the table and Primal Visitation is Gruul not Dimir; the Moeller co-credit is an interesting trivia footnote, not narrative-weight edge).",
+    "Paranoid Delusions <-> Primal Visitation (same shared-artist concern; Moeller's cross-guild assignment within Gatecrash is set-curation trivia, not a narrative connection; bundler does not need the edge to query Moeller's appears_on if/when an artist node is commissioned for him).",
+    "Galarian Yamask RBC-101 <-> tsukumogami-pokemon cohort (rejected: caveat-flagged. Galarian Yamask is canonically a possession-direction-reversal — clay slab takes possession of an already-living Yamask — which is structurally distinct from the cohort's predicate of object's-own-latent-spirit-awakening. The caveat already stages this for a future possessed-pokemon sibling cohort. Forcing it into tsukumogami-pokemon would corrupt the cohort predicate. Not the wave-158 move.).",
+    "Bronzong RBC-130 <-> Bronzong PHF-072 (second corpus print; potentially a future intra-species sigh-mirror once BOTH have trivia — both currently vision-only. Stage as a future Edgelord pass when at least one is trivia-passed; bronze-bell tsukumogami design-candidate flag stands but is too thin for an edge yet)."
+  ],
+  "future_watch": [
+    "If a third Cipher card enters the corpus (Hands of Binding, Last Thoughts, Stolen Identity, Whispering Madness, Shadow Slice, Trait Doctoring, or Call of the Nightwing all qualify), promote this 1:1 to a cipher symbol node under cards/_symbols/ per the bbl-symbols-mechanical-primitives precedent (suspect, manifest-dread, disguise, eerie, survival are the existing keyword cohort nodes). With only 2 Cipher cards corpus-wide, the node would be under-populated; the 1:1 edge is sufficient until that threshold is cleared.",
+    "Galarian Yamask RBC-101 enrichment — when trivia-passed, the per-species canonical-attribution review the tsukumogami-pokemon caveat already flagged becomes actionable. Likely outcome: stage a possessed-pokemon sibling cohort node if 3+ canonical possession-Pokemon prints land (Generation V Yamask, Cofagrigus, Galarian Yamask, possibly Banette). Dispatch Mr. Nodeley when threshold lands; not this wave.",
+    "Bronzong PHF-072 + RBC-130 trivia pass — when at least one is trivia-passed, evaluate intra-species edge (sigh-mirror or 1:N attach to a future bronze-bell tsukumogami candidate node if Bulbapedia's bronze-bell folkloric design-source citation materializes). Currently both vision-only; flag-only per parent brief."
+  ],
+  "next_pass_suggestions": [
+    "Edgelord pass once a third Cipher card enters corpus -> dispatch Mr. Nodeley to propose cards/_symbols/cipher.md (mechanical-primitive symbol node, sibling to suspect/manifest-dread/disguise/eerie/survival).",
+    "Edgelord pass on Bronzong PHF-072 / RBC-130 once trivia-passed -> intra-species sigh-mirror, or attach to a bronze-bell design-source node if the citation materializes."
+  ]
+}

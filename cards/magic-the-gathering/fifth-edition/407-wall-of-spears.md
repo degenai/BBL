@@ -76,3 +76,15 @@ A grim, dimly lit scene shows a heavily armored, bearded warrior standing watch 
 **Iconography:** spears, wall, guard
 **Genre cues:** fantasy, medieval, military
 
+## Trivia
+
+- **Set context** — Wall of Spears originated in Antiquities (March 1994), Magic's second expansion, built entirely around an artifact theme to tell the Brothers' War story between Urza and Mishra. The Fifth Edition printing (March 1997) is one of eleven known printings across the card's history, making it one of the most reprinted early Walls. `[Scryfall prints list; MTG Wiki: Antiquities]`
+- **Design** — The Fifth Edition art by Zak Plucinski is one of only eight illustration credits in his entire Wizards of the Coast career, a notably small portfolio concentrated in Fifth Edition and Mirage-block sets (Alliances, Mirage). Earlier printings through Fourth Edition used different art; the Plucinski illustration was newly commissioned for 1997. `[Scryfall artist search]`
+- **Flavor text** — "Even the most conservative generals revised their tactics after the Battle of Sarinth, during which a handful of peasant-pikemen held off a trio of rampaging craw wurms." The Craw Wurm is one of Magic's oldest green creatures, present since Alpha, making the flavor text a cross-reference to core MTG beast-lore. `[Scryfall]`
+- **Mechanical reputation** — Pauper-, Modern-, Legacy-, Commander-, and Premodern-legal, but the EDHREC rank of 23117 puts it near the floor of Commander inclusion. A 2/3 Defender with First Strike was a meaningful defensive body in early Magic's power-level context; in contemporary formats it rarely makes the cut. `[Scryfall legalities; Scryfall EDHREC rank]`
+
+### Related cards
+- Craw Wurm (Alpha/reprints) — named in the Battle of Sarinth flavor text as the creature the peasant-pikemen repelled
+- Wall of Swords (Alpha/reprints) — contemporary artifact Wall from early Magic with similar defensive design
+- Wall of Spikes (Fallen Empires) — another first-strike Wall from the same era, mechanical parallel
+- Triskelion (Antiquities) — fellow Antiquities artifact creature sharing the same set origin

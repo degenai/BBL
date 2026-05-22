@@ -1,0 +1,53 @@
+{
+  "card_name": "Paranoid Delusions",
+  "game": "Magic: The Gathering",
+  "set": "Gatecrash",
+  "collector_number": "186",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Paranoid Delusions is a House Dimir card (Dimir watermark confirmed via Scryfall). Gatecrash's Dimir guild theme centers on mind control, secrecy, and information warfare — 'the blue-black manipulators' per the Wizards mechanics article. The card's name alludes to the psychological damage Dimir operatives inflict: eroding a target's trust in their own perceptions. Cipher as a mechanic is Dimir-exclusive in Gatecrash. [Scryfall; magic.wizards.com: Gatecrash Mechanics via WebSearch snippet]",
+      "sources": ["Scryfall", "magic.wizards.com: Gatecrash Mechanics (WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cipher is Gatecrash's Dimir mechanic, introduced February 2013. When a Cipher spell resolves, you may exile it encoded on a creature you control; whenever that creature deals combat damage to a player, you may cast a free copy of the encoded spell. Paranoid Delusions as a Cipher mill card — 3 cards milled per hit — was assessed in the 2013 limited community as the less powerful end of the Cipher spectrum. The MTGSalvation Gatecrash forum thread 'Thoughts on Gatecrash' noted Cipher's overall limited impact was constrained by the difficulty of consistently connecting with an encoded creature. [magic.wizards.com: Gatecrash Mechanics via WebSearch snippet; MTGSalvation: 'Thoughts on Gatecrash' thread via WebSearch snippet]",
+      "sources": ["magic.wizards.com: Gatecrash Mechanics (WebSearch snippet)", "MTGSalvation: Thoughts on Gatecrash thread (WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "No flavor text on this card. [Scryfall — confirmed no flavor_text field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Christopher Moeller, an American painter and graphic novelist who contributed over 257 MTG card illustrations before retiring from illustration in 2017. The Dimir Dementia intro pack review (Ertai's Lament, February 2013) noted the Dimir deck's cipher density was unusually low — only five cipher cards total — a 'sparing use' that diluted the mechanic's impact relative to other Gatecrash guild intro packs. [Ertai's Lament: Gatecrash Dimir Dementia Review Part 1, 2013; WebSearch snippet on Christopher Moeller]",
+      "sources": ["Ertai's Lament: Gatecrash Dimir Dementia Review Part 1 (2013)", "WebSearch: Christopher Moeller career summary"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment (MTGSalvation forums, 2013 Gatecrash limited threads): Cipher as a mechanic was described as 'a bit durdly and underwhelming' by limited players, with only a handful of Cipher cards (Hands of Binding, Last Thoughts, Stolen Identity) considered legitimately powerful in draft. Paranoid Delusions, at common with a 3-mill payoff, was viewed as a marginal enabler rather than a bomb. [MTGSalvation: Gatecrash limited discussion threads via WebSearch snippet; CoolStuffInc: Gatecrash Limited article via WebSearch snippet]",
+      "sources": ["MTGSalvation Gatecrash limited threads (WebSearch snippet)", "CoolStuffInc: Gatecrash Limited (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hands of Binding", "set": "Gatecrash", "note": "The Cipher spell most praised in limited — tap-lock on damage, a benchmark comparison for Paranoid Delusions"},
+    {"name": "Stolen Identity", "set": "Gatecrash", "note": "Rare Cipher bomb that copies creatures — the high-end of the same mechanic"},
+    {"name": "Mortus Strider", "set": "Gatecrash", "note": "Natural Cipher carrier; the other Dimir common in inventory with direct synergy"},
+    {"name": "Lazav, Dimir Mastermind", "set": "Gatecrash", "note": "Dimir guild leader — the ideological source of the guild's paranoia-as-weapon doctrine"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check_flags": {
+    "collector_number_missing": false,
+    "color_magic_tag_present": true,
+    "color_magic_tag_value": "multicolor-blue-black (in tags_filter)",
+    "flavor_text_note": "Card has no flavor text — confirmed via Scryfall API response (no flavor_text field)"
+  }
+}

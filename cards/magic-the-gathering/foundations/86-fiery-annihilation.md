@@ -73,3 +73,15 @@ A massive dark-scaled dragon occupies the left and upper portion of the frame, i
 **Iconography:** fire-breath, dragon attack, immolation
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Foundations (November 15, 2024) is designed as an evergreen core-set replacement: roughly 50% reprints and 50% new cards, intended to give new players a stable entry point. Mark Rosewater described it as functioning "similarly to an evergreen Core set." `[Wizards.com: 'Starting with a Good Foundations, Part 1' via WebSearch snippet; Draftsim Foundations set overview]`
+- **Design** — Fiery Annihilation is a new card (not a reprint) in Foundations, illustrated by Warren Mahy, a New Zealand artist who joined Weta Workshop circa 1999 to work on Peter Jackson's Lord of the Rings trilogy as a concept designer. He transitioned to MTG illustration via Wizards of the Coast contacts and has illustrated over 245 Magic cards. The card was previewed October 28, 2024 by ChannelFireball. `[Wikipedia: Warren Mahy via WebSearch snippet; Scryfall preview data]`
+- **Beginner Box placement** — Fiery Annihilation appears in the Foundations Beginner Box "Inferno" deck, a mono-red Dragon-themed introductory product designed to teach new players how mono-red aggro operates. It is called out in Wizards' official Beginner Box contents announcement alongside Rapacious Dragon and Dragonlord's Servant. `[magic.wizards.com: Foundations Beginner Box Contents via WebSearch snippet; MMORPG.com Inferno deck exclusive]`
+- **Flavor text** — "\"Fireproof or your money back!\" —Jornald's Arms and Armor (out of business)". The parenthetical delivers the punchline: the armor did not survive the dragon. No lore figure named Jornald appears elsewhere in Scryfall's corpus; the name exists only to carry the joke. `[Scryfall]`
+- **Mechanical reputation** — Standard-, Pioneer-, Modern-, and Commander-legal at release. The combined effect of 5 damage, Equipment exile, and death-replacement exile is an unusually dense interaction suite for a 3-mana instant. EDHREC rank of 11955 reflects moderate Commander adoption. `[Scryfall legalities; Scryfall EDHREC rank]`
+
+### Related cards
+- Lightning Bolt (Alpha/reprints/FDN) — core red damage instant also in Foundations; useful comparison point for Fiery Annihilation's higher-cost deeper effect
+- Dragonlord's Servant (Dragons of Tarkir/FDN) — also in the Inferno Beginner Box deck alongside this card
+- Goblin Guide (Zendikar/reprints) — another notable Warren Mahy illustration, one of his best-known MTG works

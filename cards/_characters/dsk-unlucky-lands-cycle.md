@@ -68,6 +68,6 @@ The unlucky-lands cycle's most BBL-relevant property is that its mechanical text
 ## See also
 
 - [[fear-of-cycle]] — sibling DSK cycle node, same layer, same shape. Both nodes anchor a Duskmourn designer-coordinated cohort: Fear-of cycle by name pattern + creature type + phobia-personification flavor; this cycle by rules-text + flavor register + place-subject. The two cycles together are the DSK set's two strongest BBL-side cycle anchors.
-- [[endriders]] — sibling collective-entity character node from MTG/Aetherdrift; the foundational precedent for hosting collective conceptual entities under `_characters/`.
+- `endriders` — sibling collective-entity character node from MTG/Aetherdrift; the foundational precedent for hosting collective conceptual entities under `_characters/`.
 - [[rebellion]] — the BBL hub most thematically near-but-not-coextensive with this cycle. The urban-legend-as-vernacular-knowledge register ("They say...") is a folk-rebellion-against-the-haunted-house posture; the haunted vernacular places (the carnival, the cornfield, the sewer, the cemetery) are working-class horror locations rather than estate-horror locations. The hub edge is potential, not yet load-bearing — when triviabot enriches more cycle members and the bbl-bundler agent considers a Discrete Lair, the rebellion-as-folk-knowledge angle may activate.
 - `Bulk Graph Bundler` — the project this character node serves.

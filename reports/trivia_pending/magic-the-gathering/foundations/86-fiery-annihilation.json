@@ -1,0 +1,51 @@
+{
+  "card_name": "Fiery Annihilation",
+  "game": "Magic: The Gathering",
+  "set": "Foundations",
+  "collector_number": "86",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "suspected_ip field is empty string; no IP verification needed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Foundations (November 15, 2024) is designed as an evergreen core-set replacement: approximately 50% reprints and 50% new cards, intended to give new players a stable entry point. Mark Rosewater described it as functioning 'similarly to an evergreen Core set.' [Wizards.com: 'Starting with a Good Foundations, Part 1' — WebSearch snippet; Draftsim Foundations overview]",
+      "sources": ["magic.wizards.com 'Starting with a Good Foundations Part 1' (WebSearch snippet)", "Draftsim: MTG Foundations"]
+    },
+    {
+      "category": "design",
+      "text": "Fiery Annihilation is a new card (not a reprint) in Foundations, illustrated by Warren Mahy — a New Zealand artist who joined Weta Workshop circa 1999 to work on Peter Jackson's Lord of the Rings trilogy as a concept designer before transitioning to MTG illustration via Wizards of the Coast contacts. He has illustrated over 245 Magic cards. [Wikipedia: Warren Mahy; WebSearch snippet]",
+      "sources": ["Wikipedia: Warren Mahy (WebSearch snippet)", "Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Fiery Annihilation was previewed on October 28, 2024, by ChannelFireball as part of Foundations spoiler season, and is included in the Foundations Beginner Box 'Inferno' deck — a mono-red Dragon-themed introductory product designed to teach new players how mono-red aggro works. [Scryfall preview data; magic.wizards.com: Foundations Beginner Box Contents; MMORPG.com exclusive Inferno deck reveal]",
+      "sources": ["Scryfall preview_source field", "magic.wizards.com: Foundations Beginner Box Contents (WebSearch snippet)", "MMORPG.com Inferno deck exclusive (WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"'Fireproof or your money back!' —Jornald's Arms and Armor (out of business)\" The joke trades on the obvious: armor described as fireproof met a dragon. The parenthetical '(out of business)' is the punchline. No lore figure named Jornald appears elsewhere in Scryfall's MTG corpus; the name exists only to carry the gag. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Standard-, Pioneer-, Modern-, and Commander-legal as of release. The oracle text — 5 damage plus the ability to exile an attached Equipment and exile the creature on death — combines removal and graveyard-hate in a single card slot, an unusually dense interaction suite for a 3-mana instant. EDHREC rank of 11955 reflects moderate Commander adoption. [Scryfall legalities; Scryfall EDHREC rank]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lightning Bolt", "set": "Alpha/reprints/FDN", "note": "Core damage spell also in Foundations; comparison point for Fiery Annihilation's higher-cost deeper effect"},
+    {"name": "Shatter", "set": "multiple", "note": "Equipment exile on Fiery Annihilation echoes artifact-removal spells like Shatter"},
+    {"name": "Dragonlord's Servant", "set": "Dragons of Tarkir/FDN", "note": "Also in the Inferno Beginner Box deck alongside Fiery Annihilation"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check_flags": {
+    "collector_number_missing": false,
+    "color_magic_tag_present": true,
+    "color_magic_tag_value": "red-magic (in tags_filter)"
+  }
+}

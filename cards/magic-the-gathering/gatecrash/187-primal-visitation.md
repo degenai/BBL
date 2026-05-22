@@ -75,3 +75,15 @@ A muscular, massive humanoid figure fills the frame, its body partially transfor
 **Iconography:** medallion
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Primal Visitation carries the Gruul Clans watermark (confirmed via Scryfall). Gatecrash's Gruul guild mechanic is Bloodrush, which reflects the guild's all-in aggression through discarding cards to pump attackers. Primal Visitation is an Enchantment Aura rather than a Bloodrush card, offering a different mechanical expression of the same Gruul philosophy. The Gruul Clans in Ravnica lore are a collection of feuding warrior clans dispossessed by urban expansion, who retreated to a doctrine of primal nature worship. `[Scryfall; magic.wizards.com: Gatecrash Mechanics via WebSearch snippet; CBR: MTG Gruul Clans Explained via WebSearch snippet]`
+- **Flavor text** — "Gruul shamans believe all sentient beings have the soul of savagery inside them, an animal form clawing to escape." A direct statement of Gruul animist doctrine: civilization is a false skin over a feral core. The card's +3/+3 and haste effect literalizes this belief — the enchantment releases the inner savage. `[Scryfall; MTG Wiki: Gruul Clans via WebSearch snippet]`
+- **Design** — Art by Christopher Moeller, who also illustrated Paranoid Delusions in the same Gatecrash set. Having both a Dimir and a Gruul card from the same artist in one expansion demonstrates Wizards' practice of assigning prolific illustrators across guild lines. Moeller contributed over 257 MTG illustrations before retiring from illustration in 2017. `[Scryfall; WebSearch: Christopher Moeller career summary]`
+- **Mechanical reputation** — At five mana ({3}{R}{G}), Primal Visitation is a late-game finisher Aura that risks the standard Aura two-for-one vulnerability. EDHREC rank of 26718 reflects very low Commander adoption. Pauper-legal. `[Scryfall legalities; Scryfall EDHREC rank]`
+
+### Related cards
+- Borborygmos Enraged (Gatecrash) — Gruul guild leader; the apex figure of the primal savagery doctrine the flavor text articulates
+- Rancor (Urza's Legacy/reprints) — the canonical Aura comparison: haste plus pump at a lower cost; Primal Visitation is the heavier, riskier analog
+- Hands of Binding (Gatecrash) — Christopher Moeller also worked in Gatecrash; Paranoid Delusions (no. 186) is the other Moeller card in this inventory from the same set
+- Gruul War Chant (Magic 2015) — another Gruul Enchantment pushing the same red-green primal aggression

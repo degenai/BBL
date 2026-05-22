@@ -1,0 +1,48 @@
+{
+  "card_name": "Wall of Spears",
+  "game": "Magic: The Gathering",
+  "set": "Fifth Edition",
+  "collector_number": "407",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Wall of Spears originated in Antiquities (March 1994), Magic's second expansion, whose 100-card set was built entirely around an artifact theme and told the story of the Brothers' War between Urza and Mishra. The Fifth Edition printing (March 1997) is one of eleven known printings, making it one of the most reprinted early artifact walls. [Scryfall prints list; MTG Wiki: Antiquities via WebSearch snippet]",
+      "sources": ["Scryfall", "MTG Wiki: Antiquities (WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "The Fifth Edition art by Zak Plucinski is one of only eight illustration credits across Plucinski's entire Wizards of the Coast career — a notably small portfolio concentrated in Fifth Edition and Mirage-block sets (Alliances, Mirage). The art was newly commissioned for Fifth Edition's 1997 printing; earlier printings (Antiquities through Fourth Edition) used different art. [Scryfall artist search]",
+      "sources": ["Scryfall artist search for Zak Plucinski"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (Fifth Edition): \"Even the most conservative generals revised their tactics after the Battle of Sarinth, during which a handful of peasant-pikemen held off a trio of rampaging craw wurms.\" The Battle of Sarinth and craw wurms are part of early MTG's flavor-text worldbuilding; the Craw Wurm is itself one of Magic's most iconic early green creatures, appearing in Alpha. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Wall of Spears is legal in Pauper, Modern, Legacy, Vintage, Commander, and Premodern formats. Its EDHREC rank of 23117 places it near the bottom of Commander inclusion — the 2/3 Defender body and First Strike rarely justify a slot in a format where attackers dominate. [Scryfall legalities; EDHREC rank via Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Craw Wurm", "set": "Alpha / many reprints", "note": "Named in the Battle of Sarinth flavor text as the creature the peasant-pikemen repelled"},
+    {"name": "Wall of Swords", "set": "Alpha / reprints", "note": "Contemporary artifact Wall from early Magic with similar defensive design"},
+    {"name": "Wall of Spikes", "set": "Fallen Empires", "note": "Another first-strike Wall from the same era, mechanical parallel"},
+    {"name": "Triskelion", "set": "Antiquities", "note": "Fellow Antiquities artifact creature — same set origin as Wall of Spears"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check_flags": {
+    "collector_number_missing": true,
+    "collector_number_correct_value": "407",
+    "color_magic_tag_present": true,
+    "color_magic_tag_value": "colorless-magic (in tags_filter)"
+  }
+}

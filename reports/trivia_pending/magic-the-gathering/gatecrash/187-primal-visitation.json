@@ -1,0 +1,47 @@
+{
+  "card_name": "Primal Visitation",
+  "game": "Magic: The Gathering",
+  "set": "Gatecrash",
+  "collector_number": "187",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Primal Visitation carries the Gruul Clans watermark (confirmed via Scryfall). Gatecrash's Gruul guild mechanic is Bloodrush — discarding the card to pump an attacking creature — which reflects the guild's all-in aggression philosophy. Primal Visitation is instead an Enchantment Aura, giving it a different mechanical angle than Bloodrush while still articulating the Gruul animist belief system through its flavor text. [Scryfall; magic.wizards.com: Gatecrash Mechanics via WebSearch snippet; CBR: 'MTG The Gruul Clans Guild, Explained' via WebSearch snippet]",
+      "sources": ["Scryfall", "magic.wizards.com: Gatecrash Mechanics (WebSearch snippet)", "CBR: MTG Gruul Clans Guild Explained (WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Gruul shamans believe all sentient beings have the soul of savagery inside them, an animal form clawing to escape.\" This is a direct statement of Gruul animist doctrine — the belief that civilization is a false skin over a feral core. It aligns with the Gruul Clans' lore as ex-city-keepers who were dispossessed by urban Ravnica's expansion and retreated to a philosophy of primal nature worship. [Scryfall; MTG Wiki: Gruul Clans via WebSearch snippet]",
+      "sources": ["Scryfall", "MTG Wiki: Gruul Clans (WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Christopher Moeller, who also illustrated Paranoid Delusions in the same Gatecrash set. Having both a Dimir and a Gruul card illustrated by the same artist in one set demonstrates Wizards' practice of assigning prolific illustrators across guild lines within a single expansion. Moeller contributed over 257 MTG illustrations before retiring from illustration in 2017. [Scryfall; WebSearch: Christopher Moeller career summary]",
+      "sources": ["Scryfall", "WebSearch: Christopher Moeller career summary"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Primal Visitation gives enchanted creature +3/+3 and haste for {3}{R}{G} — a five-mana Aura. The EDHREC rank of 26718 reflects very low Commander adoption; five-mana Auras face the inherent card-disadvantage risk of Aura spells (two-for-one vulnerability). In Gatecrash limited it functioned as a late-game finisher Aura on an already-dangerous Gruul creature. Pauper-legal. [Scryfall legalities; Scryfall EDHREC rank]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Borborygmos Enraged", "set": "Gatecrash", "note": "Gruul guild leader introduced in Gatecrash — the figure embodying the Gruul's primal savagery at the top of the power scale"},
+    {"name": "Rancor", "set": "Urza's Legacy/reprints", "note": "The canonical Aura comparison point — haste plus a pump on a cheaper body; Primal Visitation is the larger, more expensive analog"},
+    {"name": "Bloodrush commons", "set": "Gatecrash", "note": "Gruul's primary Gatecrash mechanic; Primal Visitation sits in the same guild slot as an alternative finisher path"},
+    {"name": "Gruul War Chant", "set": "Magic 2015", "note": "Another Gruul-themed Enchantment that pushes the same primal aggression through the red-green combination"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check_flags": {
+    "collector_number_missing": false,
+    "color_magic_tag_present": true,
+    "color_magic_tag_value": "multicolor-red-green (in tags_filter)"
+  }
+}

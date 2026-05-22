@@ -78,6 +78,6 @@ The refuges cycle's most BBL-relevant property is that its mechanical text and i
 ## See also
 
 - [[dsk-unlucky-lands-cycle]] — sibling MTG cycle node, same layer, same shape. Both nodes anchor a designer-coordinated dual-land cycle that combines a shared mechanic with a shared flavor register; the unlucky-lands cycle uses the 13-life trigger and the "They say..." urban-legend flavor convention, the refuges cycle uses the 1-life-gain trigger and the paired-printing same-location-1280-years-apart conceit.
-- [[endriders]] — sibling collective-entity character node. Houses the Aetherdrift card also named Bloodfell Caves (DFT-251); the disambiguation is explicit in the caveats above.
+- `endriders` — sibling collective-entity character node. Houses the Aetherdrift card also named Bloodfell Caves (DFT-251); the disambiguation is explicit in the caveats above.
 - [[stewardship]] — related hub. The cycle's stewardship-comparison-across-timelines reading is from external critical reception (Scent of a Gamer 2015), not Wizards-stated thesis; treat the hub edge as bundle-eligible but not Wizards-canon when copywriting.
 - `Bulk Graph Bundler` — the project this character node serves.

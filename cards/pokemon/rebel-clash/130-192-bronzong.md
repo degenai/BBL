@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - bell
+  - metal
+  - ancient
+  - artifact
+  - deity
+  - ritual
+  - rain
+  - floating
+  - bronze
+  - sky
+  - relic
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait
+  - metal-type
+  - uncommon
 reference_image: cards/_images/pokemon/rebel-clash/130-192-bronzong.png
 average_cost_paid: 0
 market_price: 0.03
@@ -27,8 +44,36 @@ oracle_text: "Smack (Metal) 30\\nGyro Ball (MetalColorlessColorless) 70: Switch 
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: sublime
+time_of_day: indeterminate
+setting: other
+suspected_ip: Bronzong
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
 ---
 # Bronzong (Rebel Clash)
+
+## Vision
+
+![130-192-bronzong](../../_images/pokemon/rebel-clash/130-192-bronzong.png)
+
+> [!warning] Suspected IP: **Bronzong** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A large bronze-colored bell-shaped Pokemon hovers against a grey-blue cloudy sky. Its body is roughly cylindrical with a flat top, adorned with circular ridged bands and a prominent red jewel at its center. Short arm-like protrusions extend from its sides. The coloring is metallic bronze and teal-green with oxidized detailing, giving it an ancient artifact quality. The creature floats weightlessly, and the surrounding cloud and sky background evokes a deity invoked from ancient times.
+
+**Subject:** Bronzong, a large bronze bell-shaped Pokemon with a prominent central jewel and ringed metallic detailing, floating against a cloudy sky
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, indeterminate, calm
+**Foreground:** Bronzong floating, bronze bell body with red jewel  *(palette: bronze, teal, red)*
+**Background:** overcast sky with clouds  *(palette: grey-blue, white, pale)*
+**Mood / lighting:** sublime, soft
+**Emotion read:** imposing, otherworldly, ancient authority
+**Objects:** bell form, metallic artifact
+**Creatures:** bell creature, metal creature
+**Iconography:** circular jewel, ringed bands, ancient bell design
+**Genre cues:** anime, fantasy

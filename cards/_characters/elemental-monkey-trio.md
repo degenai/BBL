@@ -100,5 +100,5 @@ The trio's most BBL-relevant property is that three layers of designer coordinat
 
 - `fear-of-cycle` — sibling designer-coordinated cohort character node, same layer, same shape. Both nodes anchor a multi-card cohort whose membership predicates on a thematic-and-mechanical conjunction (Fear-of cycle by name pattern + Nightmare creature type + phobia-personification flavor; this trio by name pattern + Stone-evolution mechanic + wise-monkey mapping).
 - `dsk-unlucky-lands-cycle` — second sibling designer-coordinated cohort character node; the canonical precedent for cycle-style framing on the character layer.
-- [[endriders]] — foundational precedent for hosting collective entities under `_characters/`.
+- `endriders` — foundational precedent for hosting collective entities under `_characters/`.
 - `Bulk Graph Bundler` — the project this character node serves.

@@ -1,0 +1,47 @@
+{
+  "card_name": "Mortus Strider",
+  "game": "Magic: The Gathering",
+  "set": "Gatecrash",
+  "collector_number": "179",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Gatecrash (February 1, 2013) is the second set of the Return to Ravnica block and the sixtieth Magic expansion. It introduced the remaining five Ravnica guilds not covered in Return to Ravnica, including House Dimir (blue-black), whose guild mechanic is Cipher. Mortus Strider carries the Dimir watermark and the guild flavor line 'Dimir's best agents hide from death itself.' [Scryfall; magic.wizards.com: Gatecrash Mechanics]",
+      "sources": ["Scryfall", "magic.wizards.com: Gatecrash Mechanics (WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mortus Strider is a 1/1 for {1}{U}{B} that returns to its owner's hand when it dies rather than going to the graveyard. This 'can't be permanently removed' loop made it the design centerpiece of the Dimir Cipher strategy: a creature that survives board sweepers in a functional sense and can reliably re-enable Cipher spells encoded on it each turn. The Ertai's Lament review of the Dimir Dementia intro pack (February 2013) noted it as 'a terrible deal' on raw stats but praised its looping synergy with Sage's Row Denizen's mill trigger. [Ertai's Lament: 'Gatecrash: Dimir Dementia Review Part 1', February 2013]",
+      "sources": ["Ertai's Lament: Gatecrash Dimir Dementia Review Part 1 (2013)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Dimir's best agents hide from death itself.\" The one-line reads as both gameplay literal (the creature returns to hand on death) and guild-ideology: House Dimir under Lazav, the Gatecrash guild leader, operates entirely on secrecy, manipulation, and the erasure of evidence — including the erasure of its own agents' deaths. [Scryfall; Wizards.com: Gatecrash Mechanics — Dimir section via WebSearch snippet]",
+      "sources": ["Scryfall", "magic.wizards.com: Gatecrash Mechanics (WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mortus Strider is Pauper-legal and appeared in Pauper Cipher deck lists after Gatecrash release, where it was paired with Hands of Binding and Last Thoughts as a reliable Cipher carrier. A Star City Games Pauper set review ('Gatecrashing In Pauper') noted the Dimir Cipher shell in the Pauper metagame context. EDHREC rank 21354. [Star City Games: 'Gatecrashing In Pauper' via WebSearch snippet; Scryfall legalities]",
+      "sources": ["Star City Games: Gatecrashing In Pauper (WebSearch snippet)", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hands of Binding", "set": "Gatecrash", "note": "Cipher spell that pairs naturally with Mortus Strider as a repeatable tap-lock"},
+    {"name": "Last Thoughts", "set": "Gatecrash", "note": "Cipher card-draw spell; another natural Mortus Strider pairing in Pauper Cipher lists"},
+    {"name": "Lazav, Dimir Mastermind", "set": "Gatecrash", "note": "Dimir guild leader introduced in Gatecrash — the figure behind Dimir's 'hide from death' doctrine"},
+    {"name": "Reassembling Skeleton", "set": "Magic 2011/reprints", "note": "Mechanical cousin — a creature that loops back from the graveyard rather than to hand, similar recursive design role"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check_flags": {
+    "collector_number_missing": false,
+    "color_magic_tag_present": true,
+    "color_magic_tag_value": "multicolor-blue-black (in tags_filter)"
+  }
+}
