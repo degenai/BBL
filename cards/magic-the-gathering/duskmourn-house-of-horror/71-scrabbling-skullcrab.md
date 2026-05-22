@@ -77,3 +77,15 @@ A grotesque crustacean creature fills the frame, its carapace formed entirely fr
 **Iconography:** skull, claws, doorway
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** — Scrabbling Skullcrab belongs to Duskmourn's blue creature suite oriented around the Eerie mechanic, a keyword that triggers "whenever an enchantment you control enters and whenever you fully unlock a Room." The mechanic was internally called "Afraid" during Vision Design before being renamed to Eerie; Set Design removed its earlier caring about Horrors and Nightmares, narrowing it to enchantments and Rooms. [Wizards of the Coast, "Top of the Duskmourning, Part 1"]
+- **Flavor text** — `"With sandy beaches in short supply, Duskmourn's crabs have adapted to burrow into everything from carpet to flesh."` [Scryfall] A rare moment of black comedy in the DSK set — the flavor grounds the creature in the House's interior logic (no beaches inside an infinite house) while the payoff ("carpet to flesh") pivots to horror.
+- **Mechanical profile** — Costs {U}, 0/3 Crab Skeleton. One of the most mana-efficient Eerie payoffs in DSK: a single blue mana for a recurring two-card mill trigger on every enchantment or Room-unlock event. Because Rooms are themselves enchantments, a single Room can trigger Eerie twice (enter + fully unlock), yielding four mills. EDHREC rank 11,849 — the best Commander adoption of this batch of five cards, reflecting its use in mill and enchantment-matters decks. [Scryfall; Wizards of the Coast, "Duskmourn: House of Horror Mechanics"]
+- **Design** — Art by John Tedrick. The skull-carapace visual is a literal biological horror — the crab's body IS a skull, not merely skull-patterned, leaning into Duskmourn's body-horror and haunted-house aesthetic simultaneously.
+
+### Related cards
+- Scrabbling Claws (various sets) — unrelated mechanically but the name echoes; worth noting as a false cognate
+- Bitter Reunion (BRO) — another Eerie-adjacent mill card for comparison in graveyard-matters strategies
+- Restless Ridgeline (DSK) — example Room card; each full unlock triggers the Skullcrab twice
+- Valgavoth, Terror Eater (DSK) — the House's animating demon; the Skullcrab's terrain adaptation flavor gestures at Valgavoth's domain

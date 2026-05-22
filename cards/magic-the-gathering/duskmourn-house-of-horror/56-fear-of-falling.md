@@ -47,6 +47,7 @@ art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/56-f
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/e/0e814e48-cd9d-428f-90e2-74d97cb9c8f1.jpg?1726286065
 flavor_text: It had been months since Jakob had started falling but only a few weeks since he'd run out of breath to scream.
 oracle_text: Flying\nWhenever this creature attacks, target creature defending player controls gets -2/-0 and loses flying until your next turn.
+mana_cost: "{3}{U}{U}"
 mood: horror
 time_of_day: indeterminate
 setting: void
@@ -75,3 +76,15 @@ A scrawny demonic-bird-like creature is captured mid-plunge against a vast pale-
 **Iconography:** plummet, chains, screaming-faces, tattered-wings
 **Genre cues:** fantasy, gothic-horror, psychological-horror
 
+## Trivia
+
+- **Set context** — One of 20 Enchantment Creature — Nightmare cards in the Fear of cycle spanning DSK and DSC, each literalizing a distinct human fear as a plane-native monster. The entire cycle emerged from a top-down design directive: Duskmourn's creative team built the set around Modern Horror tropes and a haunted house framework. [Wizards of the Coast, "Top of the Duskmourning, Part 1"; Wizards of the Coast, "Duskmourn: House of Horror Mechanics"]
+- **Flavor text** — `"It had been months since Jakob had started falling but only a few weeks since he'd run out of breath to scream."` [Scryfall] Jakob is not a named major Duskmourn story character; the flavor text presents him as one of the House's anonymous victims caught in an impossible, endless descent — a nightmare scenario with no floor and no escape. The detail that he "ran out of breath to scream" implies the fall has normalized into a new, horrifying routine.
+- **Mechanical profile** — Costs {3}{U}{U}, 4/4 with Flying. On each attack, it strips -2/-0 and removes flying from a defending creature until your next turn, creating persistent aerial dominance by grounding threats. EDHREC rank 18,564 indicates low Commander adoption — the double-blue cost and conditional effect narrow its home. Limited analysts noted it "looks really good" and is hard to block without two fliers capable of trading with it. [Scryfall; Draftsim DSK Limited Review, via WebSearch snippet]
+- **Design** — Art by Maxime Minard, who was noted by Hipsters of the Coast as a newer Magic illustrator, with Phyrexia: All Will Be One being a notable early multi-card showcase. [Hipstersofthecoast.com, "Phyrexia: All Will Be One Grand Art Tour," via WebSearch snippet] Fear of Falling is among Minard's contributions to DSK.
+
+### Related cards
+- Fear of Failed Tests (DSK, no. 55) — fellow blue Nightmare in the Fear of cycle; shares screaming-faces motif
+- Fear of Impostors (DSK, no. 57) — blue Nightmare in cycle, flash + counterspell
+- Fear of Abduction (DSK, no. 9) — white Nightmare in cycle
+- Fear of Missing Out (DSK, no. 136) — red Nightmare; MaRo's design-article example card for the Nightmare creature type

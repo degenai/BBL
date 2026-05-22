@@ -1,0 +1,43 @@
+{
+  "card_name": "Fear of Falling",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "56",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "One of 20 Enchantment Creature — Nightmare cards in the Fear of cycle spanning DSK+DSC, each literalizing a distinct human fear. Top-down design: the creative team built around Modern Horror / haunted house tropes.",
+      "sources": ["Wizards of the Coast: 'Top of the Duskmourning, Part 1'", "Wizards of the Coast: 'Duskmourn: House of Horror Mechanics'"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text names Jakob, an unnamed House victim caught in an endless fall — months in, he has run out of breath to scream. Not a named major Duskmourn story character; a flavor-vignette victim.",
+      "sources": ["Scryfall flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Costs {3}{U}{U}, 4/4 Flying. Attack trigger strips -2/-0 and removes flying from a defending creature. Hard to block without two fliers; double-blue cost narrows it to dedicated blue decks. EDHREC rank 18,564 — low Commander adoption. Limited analysts rated it highly for evasive top-end power.",
+      "sources": ["Scryfall", "Draftsim DSK Limited Set Review (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Maxime Minard. Hipsters of the Coast noted Minard as a newer Magic illustrator with Phyrexia: All Will Be One as an early multi-card showcase set.",
+      "sources": ["Scryfall artist field", "Hipstersofthecoast.com: 'Phyrexia: All Will Be One Grand Art Tour' (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fear of Failed Tests", "set": "DSK", "note": "Fellow blue Nightmare in the cycle"},
+    {"name": "Fear of Impostors", "set": "DSK", "note": "Blue Nightmare with flash/counterspell"},
+    {"name": "Fear of Abduction", "set": "DSK", "note": "White Nightmare in the cycle"},
+    {"name": "Fear of Missing Out", "set": "DSK", "note": "Red Nightmare; MaRo's design-article example card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged",
+    "mana_cost_added": "{3}{U}{U} (was missing from frontmatter; confirmed via Scryfall API)"
+  }
+}

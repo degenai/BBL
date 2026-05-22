@@ -26,6 +26,9 @@ CARDS = [
     ("210-beastie-beatdown.md",     "{R}{G}", ["multicolor-red-green"],   ["green-magic", "red-magic"]),
     ("159-trial-of-agony.md",       "{R}",    ["red-magic"],            ["black-magic", "enchantment"]),
     ("152-razorkin-hordecaller.md", "{4}{R}", [],                                       []),
+    # wave 169: caught by a parent re-scan after Nurse Joy's diagnosis under-counted.
+    # 55 + 56 were fixed inline by triviabot the same wave; 126 added here.
+    ("126-betrayer-s-bargain.md",   "{1}{R}", [],                                       []),
 ]
 
 for fn, mana, add, remove in CARDS:

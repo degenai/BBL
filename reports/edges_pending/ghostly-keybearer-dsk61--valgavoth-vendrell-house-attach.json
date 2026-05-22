@@ -1,0 +1,28 @@
+{
+  "edge_id": "ghostly-keybearer-dsk61--valgavoth-vendrell-house-attach",
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "story-spotlight",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/61-ghostly-keybearer.md", "name": "Ghostly Keybearer (DSK-61)"},
+    {"type": "character", "path": "cards/_characters/valgavoth.md", "name": "Valgavoth"}
+  ],
+  "description": "Ghostly Keybearer's flavor text and trivia are load-bearing on Valgavoth specifically, not generic plane-ruler boilerplate: the card renders the House-growth-IS-Valgavoth's-body cosmology directly. Flavor text -- 'Once charged with watching over every room in the original Vendrell house, it doggedly surveys the endless, ever-expanding labyrinth' -- and the trivia set-context bullet name the demon Valgavoth consuming the ordinary Vendrell family home into a plane-spanning labyrinth. That clears the node's stated wiring criterion (set-context citation with load-bearing Valgavoth-specific detail) per the appears_on subset-of-body-roster rule on line 42. The Keybearer was already pointing at Valgavoth, Terror Eater in its Related cards block; this wires the traversable graph edge that the body prose anticipated. Satisfying find -- the one ghost in the fresh trio whose entire identity is the demon's House, sitting completely unwired to the layer graph.",
+  "citations": ["[Scryfall: flavor_text DSK-61]", "[Wizards of the Coast: Duskmourn: House of Horror Mechanics]", "[MTG Wiki: Valgavoth]"],
+  "files_modified": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/61-ghostly-keybearer.md",
+    "cards/_characters/valgavoth.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "next_pass_suggestions": [
+    "JANITOR/NODELEY: valgavoth.md body 'Corpus references' prose roster does not yet list Ghostly Keybearer -- the appears_on frontmatter is now wired but the authored body roster (a strict superset per line 42) needs a prose bullet added under 'Set-context citation' or a new 'Vendrell-house-cosmology' sub-vector. Authored prose, out of Edgelord surgical-edit scope.",
+    "JANITOR: eerie.md line 45 mis-states Scrabbling Skullcrab as '(DSK-71, common, blue, Aaron Miller art)' -- card frontmatter is rarity:U and artist:John Tedrick. Node-body factual error, two fields wrong.",
+    "JANITOR (known item, do-not-propagate): fear-of-cycle.md body uses a stale 14-card cycle denominator throughout (heading line 39, table, color-distribution prose) while the canonical scope is the 20-card DSK+DSC family. Cards 55/56 were already wired; the 14-figure correction is a separate node-body pass."
+  ],
+  "other_candidates_considered": [
+    "Fear of Failed Tests (55) / Fear of Falling (56) -> fear-of-cycle: ALREADY WIRED both ends (frontmatter characters: + appears_on: + auto-gen block). No-op. The parent's lead was already resolved.",
+    "Scrabbling Skullcrab (71) -> eerie symbol: ALREADY WIRED both ends. Stay Hidden Stay Silent (74) -> manifest-dread symbol: ALREADY WIRED both ends. Both no-ops.",
+    "Ghostly Keybearer -> dsk-animate-house cohort: REJECTED. That cohort's predicate is possessed household furnishings/appliances with an Artifact-family type-line and no Toy subtype. The Keybearer is a Spirit creature (a ghost), not a possessed object. Subject mismatch, not an edge.",
+    "Pokemon fresh quintet (swinub/snubbull/paldean-tauros/sandile/eternatus, phantasmal-flames) not surveyed for edges this wave -- single-operation rule. Snubbull is a known evolution-line case (Granbull node already exists in corpus per git status); worth a future Edgelord look at whether a snubbull-line attach is unwired."
+  ]
+}

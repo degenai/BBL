@@ -1,0 +1,44 @@
+{
+  "card_name": "Fear of Failed Tests",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "55",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Part of a 20-card cycle of Enchantment Creature — Nightmare cards spanning DSK and DSC, each representing a distinct human fear. Mark Rosewater: \"Set Design, working with Creative, made a series of creatures that represent different types of fears, all with the creature type Nightmare.\"",
+      "sources": ["Wizards of the Coast: 'Top of the Duskmourning, Part 1'", "Gatherer DSK+DSC Fear of search (20 results confirmed)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text speaker is Zimone Wola — Quandrix College prodigy from Strixhaven, trapped in Duskmourn's vast shifting library during the set's story. Her academic anxiety literalized as a nightmare creature.",
+      "sources": ["Scryfall flavor_text field", "MTG Wiki: Zimone Wola (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Costs {4}{U}, 2/7 Enchantment Creature. The 7 toughness provides exceptional blocking; combat damage trigger draws cards equal to damage dealt. EDHREC rank 12,076 indicating modest Commander adoption.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Jana Heidersdorf. Hipsters of the Coast described Heidersdorf as having \"enchanting and ethereal\" work in a 2022 artist spotlight context. This is among her DSK contributions.",
+      "sources": ["Scryfall artist field", "Hipstersofthecoast.com: 'My 2022 Magic Artist Wishlist, Part I' (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fear of Falling", "set": "DSK", "note": "Fellow blue Nightmare in same Fear of cycle"},
+    {"name": "Fear of Impostors", "set": "DSK", "note": "Blue Nightmare in cycle with flash/counterspell"},
+    {"name": "Fear of Missing Out", "set": "DSK", "note": "Red Nightmare; MaRo's named example card for the Nightmare type in design article"},
+    {"name": "Zimone, All-Questioning", "set": "DSK", "note": "Zimone's planeswalker card; the flavor-text speaker made legend"},
+    {"name": "Zimone, Mystery Unraveler", "set": "DSC", "note": "Zimone's Commander product card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged",
+    "mana_cost_added": "{4}{U} (was missing from frontmatter; confirmed via Scryfall API)"
+  }
+}

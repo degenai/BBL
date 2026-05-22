@@ -10,6 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+characters:
+  - valgavoth
 tags_hub:
   - ghost
   - spirit
@@ -24,6 +26,7 @@ tags_hub:
   - phantom
   - corridor
 tags_filter:
+  - blue-magic
   - group
   - mid-shot
   - forward-facing
@@ -73,3 +76,15 @@ A luminous, mist-shrouded scene rendered almost entirely in cold blue tones. The
 **Iconography:** doorway, threshold
 **Genre cues:** fantasy, gothic-horror, haunted-house
 
+## Trivia
+
+- **Set context** — Duskmourn's central design mechanic is Room: a new enchantment subtype on split-card permanents where each half is a "door" — one unlocked when cast, one unlocked later as a sorcery by paying its mana cost. The Rooms mechanic is explicitly a top-down design for the plane, reflecting the ever-expanding, ever-shifting House that was once the ordinary Vendrell family home before the demon Valgavoth consumed it into a plane-spanning labyrinth. [Wizards of the Coast, "Duskmourn: House of Horror Mechanics"]
+- **Flavor text** — `"Once charged with watching over every room in the original Vendrell house, it doggedly surveys the endless, ever-expanding labyrinth."` [Scryfall] This directly invokes the Vendrell house's origin: once a normal suburban home, now an infinite plane. The ghost's original role was finite (one house, finite rooms); its current role is infinite and inescapable — a detail that grounds the card in Duskmourn's core tragedy of ordinary things twisted into endless horror.
+- **Mechanical profile** — Costs {3}{U}, 3/3 Flying Spirit. On combat damage, it unlocks a locked door on a Room you control — an efficient Room-deck payoff that does not require paying the door's mana cost. Identified by community analysts as a key payoff for limited Room-based strategies, described as "not unreasonable as a simple Phantom Monster" even without the Room trigger. EDHREC rank 13,097 reflects moderate Commander interest, primarily in Room-centric enchantment decks. [Scryfall; WebSearch: EDHREC article "Examining Duskmourn" + search snippet]
+- **Design** — Art by Marco Gorlei, rendering the ghost in the set's signature cold blue-and-fog palette. No public artist commentary found for this card.
+
+### Related cards
+- Marina Vendrell (DSK, no. 221) — the last surviving Vendrell family member; the house the Keybearer guards was originally hers
+- Valgavoth, Terror Eater (DSK) — the demon whose consumption of the Vendrell house expanded it into a plane
+- Restless Ridgeline (DSK) — example Room card the Keybearer interacts with mechanically
+- Eerie Interference (DSK) — exemplifies the Eerie mechanic that shares trigger conditions with Room unlocking

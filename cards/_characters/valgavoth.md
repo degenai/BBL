@@ -15,6 +15,7 @@ canonical_source: "MTG Wiki — Valgavoth (character page); MTG Wiki — Duskmou
 confidence: canonical
 appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/50-duskmourn-s-domination
+  - magic-the-gathering/duskmourn-house-of-horror/61-ghostly-keybearer
   - magic-the-gathering/duskmourn-house-of-horror/126-betrayer-s-bargain
   - magic-the-gathering/duskmourn-house-of-horror/141-infernal-phantom
   - magic-the-gathering/duskmourn-house-of-horror/197-say-its-name
@@ -75,6 +76,7 @@ Cards that reference Valgavoth by name in flavor text, depict the consequences o
 <!-- auto-generated from appears_on; do not edit by hand -->
 
 - [[50-duskmourn-s-domination]]
+- [[61-ghostly-keybearer]]
 - [[126-betrayer-s-bargain]]
 - [[141-infernal-phantom]]
 - [[197-say-its-name]]

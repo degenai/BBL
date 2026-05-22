@@ -52,6 +52,7 @@ art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/126-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/9/7956ae00-8f0c-48f0-8110-19ff53863876.jpg?1726286318
 flavor_text: \"This is my way out. You'll have to find your own.\"\n—Winter, to Niko
 oracle_text: As an additional cost to cast this spell, sacrifice a creature or enchantment or pay {2}.\nBetrayer's Bargain deals 5 damage to target creature. If that creature would die this turn, exile it instead.
+mana_cost: "{1}{R}"
 mood: grim
 time_of_day: indeterminate
 setting: indoor
@@ -100,4 +101,3 @@ A dim, smoky chamber painted in deep red-browns and muted teals. The central fig
 - Niko Aris (KHM, no. 225) — the planeswalker being abandoned; mythic `{X}{W}{U}{U}` whose Shard tokens are the mechanical version of the mirror-shard magic Niko ultimately uses to trap Winter at the end of the Duskmourn arc.
 - Valgavoth, Terror Eater (DSK) — the demon Winter is bargaining with; the cherry-wood-door, moth-motif antagonist behind every Duskmourn bargain card.
 - The Wanderer (DSK story cycle) — recurring planeswalker traveling with Niko and Nashi when Winter betrays them.
-

@@ -74,3 +74,15 @@ A humanoid figure is pressed back against what appears to be a dark purple uphol
 **Iconography:** restraint, gauntlet, window
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** — Stay Hidden, Stay Silent is a blue Aura in the enchantment-matters shell of Duskmourn: House of Horror (DSK, 2024-09-27). The set is built around the horror trope of survival in a haunted house; the card's name echoes classic horror-movie audience instructions and the "Survival" archetype that Duskmourn's designers explicitly tracked — the idea that the fragile inhabitants of the House must avoid detection to stay alive. [Wizards of the Coast, "Duskmourn: House of Horror Mechanics"; Wizards of the Coast, "Top of the Duskmourning, Part 1"]
+- **Mechanical profile** — Costs {1}{U}, Enchantment — Aura. Enters tapping the enchanted creature and permanently prevents its untap, functioning as a soft tap-lock. The activated ability at {4}{U}{U} shuffles the creature into its owner's library and then manifests dread — removing a threat while generating a 2/2 face-down body with potential to flip into a bomb. Manifest dread looks at the top two cards and puts one face-down, one into the graveyard, providing selection and graveyard synergy. EDHREC rank 17,079 indicates limited Commander adoption. [Scryfall; Wizards of the Coast, "Duskmourn: House of Horror Mechanics"]
+- **Design** — No flavor text. Art by Josu Hernaiz. The card has a showcase/extended alternate print at collector number 291 in the same DSK set, same artist. [Scryfall collector numbers 74 and 291]
+- **Manifest Dread context** — Manifest Dread is Duskmourn's revival and upgrade of the original Manifest keyword from Fate Reforged (2015). The upgrade: instead of simply topping your library face-down, you look at the top two cards and choose one to manifest, putting the other in the graveyard. The graveyard placement provides deliberate synergy with Duskmourn's delirium and graveyard themes. [Wizards of the Coast, "Duskmourn: House of Horror Mechanics"; CoolStuffInc, "The Mechanics of Duskmourn: Manifest Dread," via WebSearch snippet]
+
+### Related cards
+- Manifest Dread (DSK, no. 189) — the standalone spell version of the keyword; shares the same activation pattern
+- Growing Dread (DSK) — another manifest dread payoff card
+- Hauntwoods Shrieker (DSK) — synergizes with manifest dread by flipping face-down permanents without paying mana cost
+- Fate Reforged's original Manifest cards (FRF, 2015) — mechanical ancestor; Stay Hidden's activated ability upgrades the original mechanism

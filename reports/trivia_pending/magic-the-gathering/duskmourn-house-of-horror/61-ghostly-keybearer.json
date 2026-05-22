@@ -1,0 +1,42 @@
+{
+  "card_name": "Ghostly Keybearer",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "61",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Room mechanic is top-down design for Duskmourn: each Room card is a split enchantment where one door unlocks on cast and the other unlocks later by paying its mana cost. The House itself was once the ordinary Vendrell family home before the demon Valgavoth consumed it into a plane-spanning labyrinth.",
+      "sources": ["Wizards of the Coast: 'Duskmourn: House of Horror Mechanics'", "WebSearch: Duskmourn lore summary via Draftsim + Card Kingdom Blog"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text ties the ghost directly to the Vendrell origin: 'Once charged with watching over every room in the original Vendrell house, it doggedly surveys the endless, ever-expanding labyrinth.' A finite duty become infinite torment.",
+      "sources": ["Scryfall flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Costs {3}{U}, 3/3 Flying Spirit. Combat damage trigger unlocks a locked Room door without paying the door's mana cost — a significant efficiency bonus for Room-based decks. Identified as a key limited payoff for Room archetypes. EDHREC rank 13,097 — moderate Commander adoption in enchantment/Room strategies.",
+      "sources": ["Scryfall", "WebSearch: EDHREC 'Examining Duskmourn: House of Horror, One Year Later' snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Marco Gorlei. No public artist commentary found for this card.",
+      "sources": ["Scryfall artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Marina Vendrell", "set": "DSK", "note": "Last Vendrell family member; the house the Keybearer guards was originally hers"},
+    {"name": "Valgavoth, Terror Eater", "set": "DSK", "note": "Demon whose consumption of the Vendrell house expanded it into the plane"},
+    {"name": "Eerie Interference", "set": "DSK", "note": "Exemplifies the Eerie mechanic sharing trigger conditions with Room unlocking"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged",
+    "tags_filter_fix": "blue-magic added (was absent; Scryfall color_identity confirms [U])"
+  }
+}

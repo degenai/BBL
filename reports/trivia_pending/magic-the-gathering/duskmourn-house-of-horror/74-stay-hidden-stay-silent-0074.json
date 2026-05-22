@@ -1,0 +1,42 @@
+{
+  "card_name": "Stay Hidden, Stay Silent",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "74",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "suspected_ip was empty string — no IP verification task.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Card name echoes classic horror-movie audience instructions and Duskmourn's explicit 'Survival' archetype — fragile House inhabitants who must avoid detection. The set tracks Survivor as a named creature type and design theme.",
+      "sources": ["Wizards of the Coast: 'Duskmourn: House of Horror Mechanics'", "Wizards of the Coast: 'Top of the Duskmourning, Part 1'"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Costs {1}{U}, Aura. Tap-locks the enchanted creature permanently (no untap step). Activated ability {4}{U}{U} shuffles the creature away and manifests dread — removal plus a 2/2 body with flip potential. EDHREC rank 17,079; limited Commander adoption.",
+      "sources": ["Scryfall", "Wizards of the Coast: 'Duskmourn: House of Horror Mechanics'"]
+    },
+    {
+      "category": "design",
+      "text": "No flavor text. Art by Josu Hernaiz. Has a showcase/extended alternate art print at collector number 291 in DSK, same artist.",
+      "sources": ["Scryfall (both collector numbers 74 and 291 confirmed)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Manifest Dread is Duskmourn's upgrade to the original Manifest keyword from Fate Reforged (2015). Key improvement: you look at the top two cards, choose one to manifest, put the other in the graveyard — adding selection and graveyard synergy absent from the original.",
+      "sources": ["Wizards of the Coast: 'Duskmourn: House of Horror Mechanics'", "CoolStuffInc: 'The Mechanics of Duskmourn: Manifest Dread' (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Manifest Dread", "set": "DSK", "note": "Standalone spell version of the keyword in the activated ability"},
+    {"name": "Growing Dread", "set": "DSK", "note": "Another manifest dread payoff"},
+    {"name": "Hauntwoods Shrieker", "set": "DSK", "note": "Flips face-down permanents without paying mana cost — synergizes with manifested creatures"},
+    {"name": "Silumgar's Command", "set": "DTK", "note": "Fate Reforged era — original Manifest keyword ancestor sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

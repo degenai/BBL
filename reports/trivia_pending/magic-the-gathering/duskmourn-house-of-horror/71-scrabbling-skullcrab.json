@@ -1,0 +1,41 @@
+{
+  "card_name": "Scrabbling Skullcrab",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "71",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "suspected_ip was empty string — no IP verification task.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Eerie mechanic was internally called 'Afraid' during Vision Design before being renamed. Set Design removed its earlier caring about Horrors and Nightmares, narrowing it to enchantments and Rooms unlocking.",
+      "sources": ["Wizards of the Coast: 'Top of the Duskmourning, Part 1'"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text delivers black comedy: Duskmourn's crabs have adapted to burrow 'into everything from carpet to flesh' since the House has no beaches. One of the few comedic flavor texts in the DSK set.",
+      "sources": ["Scryfall flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Costs {U}, 0/3. One of DSK's most mana-efficient Eerie payoffs: mills 2 on every enchantment entry or Room unlock. A single Room can trigger it twice (enter + fully unlock) = 4 mills. EDHREC rank 11,849, best Commander adoption among these five cards. Also legal in The Lord of the Rings Commander format (tlr).",
+      "sources": ["Scryfall", "Wizards of the Coast: 'Duskmourn: House of Horror Mechanics'"]
+    },
+    {
+      "category": "design",
+      "text": "Art by John Tedrick. The skull-carapace reads as biological horror: the crab's body IS a skull rather than merely skull-patterned, merging the haunted-house and body-horror registers that define DSK's two core horror modes.",
+      "sources": ["Scryfall artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Restless Ridgeline", "set": "DSK", "note": "Example Room card; each full unlock triggers Skullcrab twice"},
+    {"name": "Valgavoth, Terror Eater", "set": "DSK", "note": "Animating demon of the House; Skullcrab flavor gestures at his domain"},
+    {"name": "Ghostly Keybearer", "set": "DSK", "note": "Another blue uncommon that synergizes with Room mechanics"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
