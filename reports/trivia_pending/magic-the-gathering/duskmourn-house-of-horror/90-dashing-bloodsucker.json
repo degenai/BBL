@@ -1,0 +1,49 @@
+{
+  "card_name": "Dashing Bloodsucker",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "90",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (DSK, released September 27, 2024) presents a plane entirely consumed by a sentient haunted mansion under the domain of Valgavoth. Vampires are among the horror archetypes represented in the set — existing alongside ghosts, monsters, and supernatural threats rather than occupying a dominant position as in Innistrad. Dashing Bloodsucker's flavor text acknowledges this directly. [Scryfall], [Wizards Planeswalker's Guide to Duskmourn]",
+      "sources": ["Scryfall", "Wizards Planeswalker's Guide to Duskmourn"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim): \"There are worse things here than vampires.\" No speaker is attributed. The line positions vampires as a known horror — but a lesser one — within Duskmourn's hierarchy of terrors, implicitly pointing toward Valgavoth and the House's deeper evils. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Dashing Bloodsucker (2/5 Vampire Warrior, {3}{B}) uses Eerie — triggering whenever an enchantment enters or a Room is fully unlocked — to gain +2/+0 and lifelink until end of turn. The base 2/5 body provides a defensive threat that turns into a wide life-swing on enchantment triggers. Its EDHREC rank of 21,689 is the lowest of the five cards in this batch, indicating limited Commander traction. Notably, it is not legal in The Lord of the Rings: Tales format (tlr: not_legal). [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Randy Gallegos has illustrated approximately 214 MTG cards since his debut in the 1995 Ice Age set — one of the longer active rosters in the game's history. His notable prior works include Giant Spider (frequently reprinted), Shock, Dance of the Dead, Soul Warden, and Balance. In a 2019 interview he described red cards as underrepresented in his portfolio because aggressive energy is 'not where I live in my art most of the time.' Dashing Bloodsucker represents one of his forays into the vampire/horror space. [Magic Untapped interview with Randy Gallegos, 2019]",
+      "sources": ["Magic Untapped: An interview with Magic artist Randy Gallegos (magicuntapped.com)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bloodtithe Harvester", "set": "Innistrad: Crimson Vow", "note": "Another black Vampire Warrior with similar stat profile"},
+    {"name": "Valgavoth, Terror Eater", "set": "Duskmourn: House of Horror", "note": "The demon ruling Duskmourn; worse thing referred to in flavor text"},
+    {"name": "Errant Doomsayer", "set": "Duskmourn: House of Horror", "note": "Another Eerie-trigger black creature in DSK"},
+    {"name": "Food Token (Throne of Eldraine)", "set": "Throne of Eldraine", "note": "Randy Gallegos original art for this token sold for $3,000 in September 2019 (Hipsters of the Coast)"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{3}{B}",
+    "color_magic_in_tags_filter": true,
+    "color_magic_value": "black-magic",
+    "notes": "All frontmatter fields present and correct."
+  }
+}

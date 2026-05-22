@@ -32,6 +32,8 @@ tags_filter:
   - female-figure
 symbols:
   - survival
+characters:
+  - dsk-survival-archetype
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/89-cynical-loner.png
 average_cost_paid: 0
 market_price: 0.24
@@ -78,3 +80,15 @@ A figure wearing a black hooded cloak stands at roughly center-frame in a three-
 **Iconography:** golden spirit animals, glowing wristband
 **Genre cues:** fantasy, horror, sci-fi
 
+## Trivia
+
+- **Set context / creature type** — Cynical Loner is typed Human Survivor, a subtype unique to Duskmourn representing ordinary people still alive inside Valgavoth's mansion-plane. The Survival mechanic — triggering at the beginning of the second main phase if the creature is tapped — reflects survivors acting first and reaping the benefit afterward. An important timing rule: if the creature is not already tapped when the second main phase begins, the ability does not trigger at all. `[Scryfall]` `[Wizards Duskmourn Mechanics article]`
+- **Flavor text** — "Thanks, but no thanks. I'm done with hope." No speaker attribution appears on the card. The unnamed voice is consistent with the Survivor archetype: someone who has persisted inside the House long enough to abandon optimism entirely. `[Scryfall]`
+- **Mechanical profile** — Cynical Loner (3/1 for {1}{B}) cannot be blocked by Glimmers — DSK's enchantment creature type that persists as spirit-like presences after death, primarily white. Its Survival ability lets a tapped Cynical Loner search the library for any card and put it into the graveyard: functionally a free Entomb each turn, with strong reanimation synergy. EDHREC rank 9,150, the highest among the five cards in this batch. Community limited analysis rated it powerful in dedicated reanimator builds but fragile (3/1 body) in generic black decks. `[Scryfall]` `[Draftsim Duskmourn draft guide via WebSearch snippet]`
+- **Artist** — Miranda Meeks has illustrated 26 MTG cards across sets including Wilds of Eldraine, Outlaws of Thunder Junction, The Lord of the Rings: Tales of Middle-earth, and multiple DSK cards including Erratic Apparition and Cathartic Parting. `[Gatherer artist search via WebSearch snippet]`
+
+### Related cards
+- Entomb (Odyssey) — classic graveyard tutor that Cynical Loner's Survival ability replicates on a tapped trigger
+- Glimmer Seeker (DSK, 14) — another Human Survivor with Survival mechanic; illustrates the Glimmer/Survivor axis
+- Vile Mutilator (DSK) — noted alongside Cynical Loner in limited analysis as another high-ceiling conditional black card
+- Erratic Apparition (DSK) — another Miranda Meeks DSK illustration

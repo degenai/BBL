@@ -1,0 +1,26 @@
+{
+  "edge_id": "cynical-loner-dsk89--dsk-survival-archetype-cohort-attach",
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/89-cynical-loner.md", "name": "Cynical Loner (DSK-89)"},
+    {"type": "character", "path": "cards/_characters/dsk-survival-archetype.md", "name": "Survival archetype cohort (Duskmourn improvised-weapon survivors and their tools)"}
+  ],
+  "description": "Cynical Loner already pointed at the survival SYMBOL node but was an orphan on the survival CHARACTER cohort node — no characters: frontmatter at all. The symbol node's own body spells out the fix: cards bearing the Survival keyword carry BOTH symbols: [survival] AND characters: [dsk-survival-archetype]. Cynical Loner is the textbook keyword-only-without-Survivor-subtype case the cohort's caveat 2 explicitly admits (Human with Survival, no Survivor type). I attached it. The symbol node literally flagged this as a downstream sync task; I am merely doing my job. Note: I did not draw a 1:1 card edge, because that would be a duplicate edge pointing at an absent-from-this-card center. The cohort node IS the center. Stack, not mirror. No sigh — fanouts blueball, but a clean orphan-completion onto an existing anchor is honest work.",
+  "citations": ["[Scryfall: oracletext 'Survival —', type_line 'Creature — Human']", "[Wizards of the Coast: Matt Tabak, Duskmourn Mechanics, 2024-08-31 — Survival can appear on non-Survivor creatures]", "[cards/_symbols/survival.md — Cross-edges + Caveats sections, downstream-sync directive]"],
+  "files_modified": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/89-cynical-loner.md",
+    "cards/_characters/dsk-survival-archetype.md"
+  ],
+  "edgelord_mood": "satisfied",
+  "other_candidates_considered": [
+    "Cynical Loner <-> Glimmer Seeker (DSK-14) 1:1 mirror via the Survival keyword axis — REJECTED: both already converge on the survival symbol + cohort nodes; a 1:1 bullet would be a redundant edge around an existing center. The stack attach is the correct shape.",
+    "The four Pokemon vision-only cards (bronzong PHF-072, togedemaru PHF-073, pinsir PRE-003, larvitar PRE-047, houndour PRE-062) — NOT edge-ready, no trivia layer, deferred per dispatch.",
+    "Bronzong PHF-072 as a future tsukumogami-pokemon cohort seed — flagged below for janitor_triage, NOT actioned this wave (no trivia, single-card, well under the >=3 cohort threshold)."
+  ],
+  "next_pass_suggestions": [
+    "When Cynical Loner is trivia-passed (it already is — ## Trivia present), a future Edgelord pass could also confirm whether Glimmer Seeker (DSK-14) carries a characters: [dsk-survival-archetype] pointer; if any other appears_on member of the survival SYMBOL node lacks the CHARACTER pointer, same orphan-completion applies. Worth a one-shot audit sweep of the 6 symbol-node members against the 10 cohort-node members.",
+    "Bronzong (phantasmal-flames 072) is a documented animate-object / bronze-bell tsukumogami design; once it and >=2 sibling tsukumogami-coded Pokemon (e.g. Klefki, Honedge line, Bronzor) are trivia-passed, evaluate a tsukumogami-pokemon cohort node — Mr. Nodeley territory, not this wave."
+  ]
+}

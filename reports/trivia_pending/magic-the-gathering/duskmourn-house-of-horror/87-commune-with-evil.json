@@ -1,0 +1,49 @@
+{
+  "card_name": "Commune with Evil",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "87",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (DSK, released September 27, 2024) is set inside a sentient mansion-plane ruled by the demon Valgavoth, who expanded his prison to swallow an entire plane. The set is top-down inspired by 1970s-1990s horror tropes: slasher films, haunted houses, demonic pacts. [Scryfall], [Wizards Planeswalker's Guide to Duskmourn]",
+      "sources": ["Scryfall", "Wizards Planeswalker's Guide to Duskmourn (magic.wizards.com/en/news/feature/planeswalkers-guide-to-duskmourn)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim): \"Elsa swelled with euphoria and power as she stepped over her friends' corpses. She should have bargained with a demon a lot sooner.\" The named character Elsa is an original Duskmourn survivor NPC — not a named recurring planeswalker — whose arc of crossing a moral threshold for power mirrors the card's mechanical function (digging for the card you need at the cost of milling the rest). [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Commune with Evil ({2}{B}) is a {3} CMC black sorcery that impulse-draws from four cards (pick one, mill three) while gaining 3 life. Functionally similar to Read the Bones and Blood Pact but without the scry; the life gain offsets the card disadvantage. EDHREC rank 10,968 among DSK cards — mid-tier Commander adoption, likely used in self-mill and reanimator shells. [Scryfall], [EDHREC via WebSearch snippet]",
+      "sources": ["Scryfall", "EDHREC via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Ovidio Cartagena illustrated this card. Cartagena is a Colombian illustrator who has worked on multiple DSK cards; no specific designer commentary on this card's commission was located in available sources. [Scryfall artist field]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Read the Bones", "set": "Theros", "note": "Comparable black card-selection sorcery with scry instead of life gain"},
+    {"name": "Blood Pact", "set": "Innistrad: Midnight Hunt", "note": "Another 3-CMC black impulse-draw variant with life loss"},
+    {"name": "Diabolic Vision", "set": "Ice Age", "note": "Early black library-dig template comparison"},
+    {"name": "Valgavoth, Terror Eater", "set": "Duskmourn: House of Horror", "note": "The demon who rules Duskmourn referenced by card's flavor-text context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{2}{B}",
+    "color_magic_in_tags_filter": true,
+    "color_magic_value": "black-magic",
+    "notes": "All frontmatter fields present and correct."
+  }
+}

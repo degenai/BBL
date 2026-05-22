@@ -1,0 +1,54 @@
+{
+  "card_name": "Cynical Loner",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "89",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cynical Loner is typed Human Survivor, a creature subtype unique to Duskmourn. The Survivor type represents ordinary people still alive inside Valgavoth's mansion-plane, who rely on wit and tenacity rather than magic power. The Survival mechanic — triggering at the beginning of the second main phase if the creature is tapped — reflects the idea that survivors act and then reap the benefit of their actions. [Scryfall type_line], [Wizards Duskmourn Mechanics article]",
+      "sources": ["Scryfall", "Wizards Duskmourn Mechanics (magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cynical Loner (2/1 for {1}{B}) cannot be blocked by Glimmers — a new DSK enchantment creature type that persists after death as a spirit-like presence. Glimmers are primarily white creatures, making Cynical Loner's evasion most relevant in white-black matchups. Its Survival ability lets a tapped Cynical Loner search the library for any card and put it directly into the graveyard — effectively a free Entomb trigger, with strong reanimation synergy. [Scryfall]",
+      "sources": ["Scryfall", "Draftsim Duskmourn draft guide via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim): \"Thanks, but no thanks. I'm done with hope.\" No speaker attribution is given on the card; the unnamed speaker is consistent with the Survivor archetype — an ordinary person who has survived long enough in the House to abandon optimism entirely. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Miranda Meeks has illustrated 26 MTG cards as of available records, with work spanning Wilds of Eldraine, Outlaws of Thunder Junction, The Lord of the Rings: Tales of Middle-earth, and multiple DSK cards including Erratic Apparition and Cathartic Parting. No designer commentary on Cynical Loner specifically was located. [Scryfall artist field], [Gatherer artist search via WebSearch snippet]",
+      "sources": ["Scryfall", "Gatherer artist search via WebSearch snippet"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment in limited analysis: Cynical Loner was assessed as powerful in dedicated reanimator builds but a mediocre inclusion in generic black decks due to its fragile 3/1 body. The Survival free-Entomb is the payoff; the creature rarely survives to block. [Draftsim Duskmourn draft guide via WebSearch snippet]",
+      "sources": ["Draftsim Duskmourn draft guide via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Entomb", "set": "Odyssey", "note": "Classic graveyard-tutor that Cynical Loner's Survival ability replicates each turn"},
+    {"name": "Glimmer Seeker", "set": "Duskmourn: House of Horror", "note": "Another Human Survivor with Survival mechanic; illustrates the Glimmer/Survivor axis"},
+    {"name": "Vile Mutilator", "set": "Duskmourn: House of Horror", "note": "Noted alongside Cynical Loner in limited analysis as another high-ceiling conditional black card"},
+    {"name": "Erratic Apparition", "set": "Duskmourn: House of Horror", "note": "Another Miranda Meeks DSK card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{1}{B}",
+    "color_magic_in_tags_filter": true,
+    "color_magic_value": "black-magic",
+    "notes": "All frontmatter fields present and correct."
+  }
+}

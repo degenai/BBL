@@ -1,0 +1,49 @@
+{
+  "card_name": "Unnerving Grasp",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "80",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (set code DSK) released September 27, 2024, is a top-down horror set depicting a single sentient mansion-plane ruled by the demon Valgavoth, whose consciousness is threaded through the entire structure. The House swallowed the original plane during an event called the Ascension, and now draws victims from other planes through Omenpaths. [Scryfall], [Wizards Planeswalker's Guide to Duskmourn]",
+      "sources": ["Scryfall", "Wizards Planeswalker's Guide to Duskmourn (magic.wizards.com/en/news/feature/planeswalkers-guide-to-duskmourn)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Unnerving Grasp combines a bounce effect (return a nonland permanent to its owner's hand) with Manifest dread — a new keyword action in DSK that lets you look at the top two cards of your library, put one onto the battlefield face down as a 2/2 creature, and the other into the graveyard. This pairing was noted by community spoiler discussion as a 'Manifest-o'-War' riff on the classic Man-o'-War, adding graveyard selection on top of the bounce. [MTGSalvation spoiler thread: DSK Unnerving Grasp and Waltz of Rage — QueerPhyrexia previews]",
+      "sources": ["Scryfall", "MTGSalvation forums spoiler thread 833662"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a Sorcery, Unnerving Grasp is legal in Standard, Pioneer, Modern, Legacy, Vintage, and Commander as of release, but is not legal in Pauper or Pauper Commander (uncommon). Its EDHREC rank of 15,543 places it in the lower tier of Commander inclusion for DSK. The card has no flavor text. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Manifest dread was designed to create suspense via partial information: the player sees two cards but only one enters the battlefield face-down, creating an unknown threat. Wizards' mechanics article framed this as 'doubling the odds of finding a creature' compared to original Manifest, while giving the player a sense of agency over which card is buried. [Wizards Duskmourn Mechanics article]",
+      "sources": ["Wizards Duskmourn Mechanics (magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Man-o'-War", "set": "Visions", "note": "Original bounce-plus-body template that Unnerving Grasp iterates on"},
+    {"name": "Manifest Dread", "set": "Duskmourn: House of Horror", "note": "Keyword token/rules card for the mechanic Unnerving Grasp uses"},
+    {"name": "Blink of an Eye", "set": "Dominaria", "note": "Blue bounce sorcery comparison point in cube discussions"},
+    {"name": "Waltz of Rage", "set": "Duskmourn: House of Horror", "note": "Spoiled alongside Unnerving Grasp in the same preview reveal"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{2}{U}",
+    "color_magic_in_tags_filter": true,
+    "color_magic_value": "blue-magic",
+    "notes": "tags_filter has 'instant' but Scryfall type_line is 'Sorcery' — should be 'sorcery', not 'instant'. Flag for janitor."
+  }
+}

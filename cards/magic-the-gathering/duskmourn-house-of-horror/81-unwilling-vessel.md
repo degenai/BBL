@@ -76,3 +76,14 @@ A humanoid figure in casual layered clothing lunges forward with an open-mouthed
 **Iconography:** ghost, possession, electricity, open mouth
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** — Duskmourn: House of Horror (DSK, released September 27, 2024) is set inside a sentient mansion-plane ruled by Valgavoth. The plane draws victims from across the Multiverse via Omenpaths; Unwilling Vessel depicts possession within that context. `[Scryfall]` `[Wizards Planeswalker's Guide to Duskmourn]`
+- **Eerie mechanic** — Eerie is DSK's enchantmentfall variant, triggering whenever an enchantment you control enters OR whenever you fully unlock a Room. Rooms are the set's signature double-faced enchantments; because a Room is itself an enchantment, a single Room card can trigger an Eerie ability twice. Wizards explicitly designed this double-trigger to reward enchantment-dense builds. `[Wizards Duskmourn Mechanics article]`
+- **Mechanical profile** — Unwilling Vessel (3/2 Vigilance Human Wizard, {2}{U}) accumulates possession counters via Eerie triggers and converts them into an X/X blue Spirit token with flying on death. "Possession counter" is a named counter type specific to this card, tying the mechanic directly to the horror-possession flavor. EDHREC rank 16,282. No flavor text. `[Scryfall]`
+- **Design** — The possession counter name is not a generic counter type but a specifically named one in Scryfall's oracle text, consistent with DSK's practice of using counter names to reinforce horror-flavor identity on individual cards. `[Scryfall oracle_text]`
+
+### Related cards
+- Spirit token (X/X blue flying, DSK) — token created by Unwilling Vessel on death
+- Erratic Apparition (DSK) — another Eerie-mechanic blue creature in the same set
+- Hallowed Haunting (Innistrad: Crimson Vow) — earlier enchantment-density Spirit token payoff in blue-white

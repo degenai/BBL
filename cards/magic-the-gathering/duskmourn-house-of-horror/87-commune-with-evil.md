@@ -75,3 +75,14 @@ A young woman with braided hair and a yellow garment extends her arm toward the 
 **Iconography:** reaching hands, burst energy
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** — Duskmourn: House of Horror (DSK, released September 27, 2024) is top-down inspired by 1970s-1990s horror tropes: slasher films, haunted houses, demonic pacts. The set is set inside a sentient mansion-plane ruled by Valgavoth, a demon who expanded his prison to swallow an entire plane. `[Scryfall]` `[Wizards Planeswalker's Guide to Duskmourn]`
+- **Flavor text** — "Elsa swelled with euphoria and power as she stepped over her friends' corpses. She should have bargained with a demon a lot sooner." The named character Elsa is an original Duskmourn NPC survivor, not a recurring planeswalker. Her arc of crossing a moral threshold for power mirrors the card's function: look at four, keep one, mill three, gain 3 life — you take what you need and sacrifice the rest. `[Scryfall]`
+- **Mechanical profile** — Commune with Evil ({2}{B}) is a 3-CMC black sorcery that impulse-draws from four cards (select one, mill three) while gaining 3 life. Functionally adjacent to Read the Bones and Blood Pact but without scry; the life gain partially offsets card disadvantage. EDHREC rank 10,968 among DSK cards, suggesting mid-tier Commander adoption in self-mill and reanimator shells. `[Scryfall]`
+- **Artist** — Ovidio Cartagena illustrated this card. Cartagena is a Colombian illustrator with multiple credits across DSK. No published designer or artist commentary on this specific commission was located. `[Scryfall artist field]`
+
+### Related cards
+- Read the Bones (Theros) — comparable black card-selection sorcery with scry instead of life gain
+- Blood Pact (Innistrad: Midnight Hunt) — another 3-CMC black impulse-draw variant
+- Valgavoth, Terror Eater (DSK) — the demon who rules Duskmourn; the flavor text's implied bargaining partner

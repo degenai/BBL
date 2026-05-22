@@ -27,7 +27,7 @@ tags_filter:
   - mid-shot
   - three-quarter
   - blue-magic
-  - instant
+  - sorcery
   - scene-mode
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/80-unnerving-grasp.png
 average_cost_paid: 0
@@ -73,3 +73,17 @@ A figure in dark clothing sits partially collapsed on a floor that radiates inte
 **Iconography:** debris, light from below, collapse
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** — Duskmourn: House of Horror (DSK) released September 27, 2024, is a top-down horror expansion set inside a single sentient mansion-plane ruled by the demon Valgavoth, whose consciousness is threaded through the entire structure. Valgavoth swallowed the original plane during an event called the Ascension and now draws victims from other planes through Omenpaths. `[Scryfall]` `[Wizards Planeswalker's Guide to Duskmourn]`
+- **Mechanics** — Unnerving Grasp combines a bounce effect with Manifest dread, DSK's new keyword action: look at the top two cards of your library, put one onto the battlefield face down as a 2/2 creature, and put the other into your graveyard. The spoiler community dubbed it a "Manifest-o'-War" — a riff on the classic Man-o'-War that staples graveyard selection onto the bounce. `[MTGSalvation spoiler thread 833662: DSK Unnerving Grasp and Waltz of Rage]`
+- **Design** — Manifest dread was designed to create suspense via partial information: the player sees two cards but only one enters the battlefield face-down. Wizards framed this as doubling the odds of finding a creature compared to original Manifest, while giving the player agency over which card is buried. `[Wizards Duskmourn Mechanics article]`
+- **Format legality** — Legal in Standard, Pioneer, Modern, Legacy, Vintage, and Commander at release; not legal in Pauper or Pauper Commander (uncommon rarity). EDHREC rank 15,543 among DSK cards. No flavor text. `[Scryfall]`
+
+> **Spot check flag:** `tags_filter` lists `instant` but Scryfall type_line is `Sorcery`. Should be `sorcery`. Janitor correction needed.
+
+### Related cards
+- Man-o'-War (Visions) — original bounce-plus-body template that Unnerving Grasp iterates on
+- Manifest Dread (DSK, 189) — keyword rules card for the mechanic this card uses
+- Blink of an Eye (Dominaria) — blue bounce sorcery comparison point in cube discussions
+- Waltz of Rage (DSK) — spoiled alongside Unnerving Grasp in the same preview reveal by QueerPhyrexia

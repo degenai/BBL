@@ -1,0 +1,48 @@
+{
+  "card_name": "Unwilling Vessel",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "81",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (DSK, released September 27, 2024) is a top-down horror expansion set inside a sentient mansion-plane ruled by the demon Valgavoth. The House draws victims from across the Multiverse via Omenpaths; Unwilling Vessel depicts the horror of possession within that context. [Scryfall], [Wizards Planeswalker's Guide to Duskmourn]",
+      "sources": ["Scryfall", "Wizards Planeswalker's Guide to Duskmourn"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Eerie is DSK's enchantmentfall variant: an ability word on creatures that triggers whenever an enchantment you control enters OR whenever you fully unlock a Room. Rooms are double-faced enchantment permanents unique to DSK; one card can trigger an Eerie ability twice. Wizards noted Eerie was deliberately designed so a single Room card could trigger it twice, rewarding players who build around enchantment density. [Wizards Duskmourn Mechanics article]",
+      "sources": ["Wizards Duskmourn Mechanics (magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Unwilling Vessel (3/2 Vigilance Human Wizard, {2}{U}) accumulates possession counters via Eerie triggers and converts them into an X/X blue Spirit token with flying on death — a delayed payoff structure that rewards enchantment-heavy builds. Its EDHREC rank of 16,282 among DSK cards reflects modest Commander adoption. The card has no flavor text. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The 'possession counter' counter name on Unwilling Vessel is a named counter type introduced in DSK — Scryfall confirms the counter is specifically named 'possession' not a generic +1/+1 counter, tying the mechanic directly to the horror-possession flavor of the plane. [Scryfall oracle_text]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Spirit token (X/X blue flying)", "set": "Duskmourn: House of Horror", "note": "Token created by Unwilling Vessel on death"},
+    {"name": "Erratic Apparition", "set": "Duskmourn: House of Horror", "note": "Another Eerie-mechanic blue creature in DSK"},
+    {"name": "Hallowed Haunting", "set": "Innistrad: Crimson Vow", "note": "Earlier enchantment-density Spirit token payoff in blue-white"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{2}{U}",
+    "color_magic_in_tags_filter": true,
+    "color_magic_value": "blue-magic",
+    "notes": "All frontmatter fields present and correct."
+  }
+}
