@@ -19,7 +19,8 @@ appears_on:
   - pokemon/darkness-ablaze/083-189-polteageist
   - pokemon/unified-minds/94-236-doublade
   - pokemon/team-up/107-honedge
-related_hubs: []
+related_hubs:
+  - tsukumogami
 related_symbols: []
 related_characters:
   - phantump-line
@@ -57,7 +58,9 @@ The cohort also dual-codes the franchise's broader **ghost-Pokemon-as-cultural-a
 
 ## Sibling and parent placement
 
-- **[[phantump-line]]** — sibling Japanese-folkloric design-source cohort character node. The Phantump line cites **kodama** (Shinto tree-spirit folklore) as its primary design source; this node cites **tsukumogami** (object-becomes-spirit folklore) as its primary design source. Both are Japanese-folkloric design-source threads documented at the per-species Bulbapedia level; both are cross-generational in scope (kodama spanning Sudowoodo, Trevenant, Celebi, and others; tsukumogami spanning Voltorb, Shuppet, Honedge-line, Sinistea-line, Yamask). Together the two nodes anchor the corpus's **Japanese-folkloric Pokemon design-source axis** at the cohort scope. A future `japanese-folkloric-design-source-pokemon` parent cohort node could host both as sibling children when 3+ such cohorts are in graph.
+- **[[tsukumogami]]** — **parent hub.** This cohort is a child of the foundational `tsukumogami` hub, which gathers the animate-object / object-becomes-spirit concept across IPs and routes hub → cohort → card (never hub → card). The hub designates this node's Voltorb / Sinistea-line / Honedge-line members as **true tsukumogami** — the genuine folkloric case of an aged object's own spirit awakening from within. The hub is the direct parent; there is no intermediate design-source-cohort tier (the simpler structure, chosen 2026-05-22).
+
+- **[[phantump-line]]** — sibling Japanese-folkloric design-source cohort character node. The Phantump line cites **kodama** (Shinto tree-spirit folklore) as its primary design source; this node cites **tsukumogami** (object-becomes-spirit folklore) as its primary design source. Both are Japanese-folkloric design-source threads documented at the per-species Bulbapedia level; both are cross-generational in scope (kodama spanning Sudowoodo, Trevenant, Celebi, and others; tsukumogami spanning Voltorb, Shuppet, Honedge-line, Sinistea-line, Yamask). Together the two nodes anchor the corpus's **Japanese-folkloric Pokemon design-source axis** at the cohort scope. They are **lateral siblings** — no intermediate `japanese-folkloric-design-source` parent-cohort tier is planned; this node's parent is the [[tsukumogami]] hub directly (see above).
 
 - **[[dsk-toy-horror]]** — sibling cross-universe cohort character node; the *Magic: The Gathering* corpus's structural analog for **animated childhood objects given hostile sentience**. Where the tsukumogami-Pokemon cohort frames the object-becomes-spirit transition within Japanese-folkloric design-source tradition (the awakening is canonical, often centuries-old, sometimes neutral or benevolent), the Duskmourn toy-horror cohort frames the same structural concept within *American slasher-horror tradition* (the awakening is corruption, recent, hostile, mediated through the Annabelle / Chucky / killer-doll register). Both cohorts depict objects-given-sentience as a designer-coordinated thematic substrate, with per-card flavor or oracle confirming the awakening mechanism. Cross-universe sibling cohort with shared structural predicate and divergent cultural-source registers — the kind of cross-IP pairing that bundle copy at the design-canon scope can deploy as a comparative thesis (Japanese folkloric vs American slasher renderings of the same animated-object trope).
 
@@ -111,7 +114,7 @@ The cohort also dual-codes the franchise's broader **ghost-Pokemon-as-cultural-a
 - [[dsk-toy-horror]] — sibling cross-IP cohort character node; the *Magic: The Gathering* corpus's structural analog for animated childhood objects given hostile sentience. Cross-IP sibling with shared structural predicate (objects given sentience as designer-coordinated thematic substrate) and divergent cultural-source registers (Japanese-folkloric tsukumogami vs American slasher-horror).
 - [[alolan-regional-forms]] / [[galarian-regional-forms]] — sibling Pokemon cohort character nodes; structurally distinct cohort predicate (regional-variant-program vs design-source-citation) at the same character-layer scope.
 - `fear-of-cycle` / `dsk-unlucky-lands-cycle` — sibling MTG cohort character nodes; structurally parallel at the designer-coordinated-cohort scope; cross-IP precedent for hosting design-source cohorts at the character layer.
-- `japanese-folkloric-design-source-pokemon` (future parent) — pending parent-cohort node analogous to a future Pokemon-design-canon parent layer; would host this node and [[phantump-line]] as sibling Japanese-folkloric design-source cohorts; commissioned when 3+ such cohort nodes are in graph (currently 2: this node and [[phantump-line]]).
+- [[tsukumogami]] — **parent hub** (foundational layer); gathers the cross-IP animate-object concept and routes hub → cohort → card. This node is its Pokémon child cohort. Supersedes the previously-speculated `japanese-folkloric-design-source-pokemon` parent-cohort node — hub-as-parent is the simpler structure (chosen 2026-05-22).
 - `possessed-pokemon` (future sibling) — pending sibling cohort node; would host external-spirit-possession-of-object species (Banette, Generation V Yamask / Cofagrigus, potentially Galarian Yamask) distinct from this node's awakened-object-spirit predicate. Commissioned when 3+ canonical possession-Pokemon prints are in corpus and per-species attribution review confirms the distinction.
 - `endriders` — foundational precedent for hosting collective designer-coordinated entities under `_characters/`.
 - `Bulk Graph Bundler` — the project this character node serves.

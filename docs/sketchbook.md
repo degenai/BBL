@@ -38,6 +38,18 @@ Catch-all for half-baked concepts, future work, and "wouldn't it be cool if" not
 
 ---
 
+## The pigeon and the pidgey
+
+**The idea (Alex 2026-05-22, surfaced in the tsukumogami council session):** the Pokémon world canonically contains *normal animals* — the anime has ordinary birds and fish, early Pokédex copy talked about Pokémon being eaten. So a pigeon and a Pidgey coexist. Which means **"Pokémon" is not a kind of creature. It is a status a creature can be in.** Something happened to the pigeon. It got Pokémon'd.
+
+The sharp version: the transformation is **not the catch.** A pigeon doesn't become a Pidgey when the ball connects — capture is just bookkeeping. It becomes a Pidgey the moment the apparatus exists that *could* hold an entry for it: the Pokédex, the category, the number. **Capturability is the ontological event; capture is the paperwork.** And it is something *undergone*, never chosen — the pigeon doesn't turn around when hailed, the Dex turns around for it — which is also why it can go wrong. A thing made capturable under bad conditions comes out crooked.
+
+The normal animals are simply the remainder — the un-indexed, the not-yet-noticed.
+
+**Why it's logged here and not in the hub:** this is ontology, not a curatorial node. It was a council tangent, not the tsukumogami hub's thesis (the hub is about objects, plainly — see `cards/_hubs/tsukumogami.md` once authored). But it implicates BBL directly and that's worth keeping. A bulk card in a box is a pigeon. The enrichment pass — vision read, tags, node, price — is the pidgey-ing: the card becomes *bundle-able* before it is ever bundled. The graph is a Dex. BBL is an apparatus of capturability, and it should probably know that about itself. Candidate framing for an about-page or a manifesto voice someday; not a spec, not a feature. A thing the project now knows.
+
+---
+
 ## Collection timeline HTML
 
 **The idea:** the git commit log of this repo IS a story — when each card got enriched, what prompts were active, when bugs got fixed, what insights surfaced. Render that as an HTML page: a scrolling visual timeline of the curation work itself.

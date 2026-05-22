@@ -18,7 +18,8 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/195-patchwork-beastie
   - magic-the-gathering/duskmourn-house-of-horror/24-patched-plaything
   - magic-the-gathering/duskmourn-house-of-horror/242-attack-in-the-box
-related_hubs: []
+related_hubs:
+  - tsukumogami
 related_symbols: []
 related_characters:
   - valgavoth
