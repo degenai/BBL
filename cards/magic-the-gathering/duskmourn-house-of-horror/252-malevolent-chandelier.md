@@ -30,6 +30,8 @@ tags_filter:
   - scene-mode
   - group
   - faces-left
+characters:
+  - dsk-animate-house
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/252-malevolent-chandelier.png
 average_cost_paid: 0
 market_price: 0.04
@@ -74,3 +76,14 @@ A large ornate chandelier dominates the composition, its candle-arms terminating
 **Iconography:** skull-face, glowing-eyes
 **Genre cues:** fantasy, horror, dark-fantasy
 
+## Trivia
+
+- **Set context** -- Malevolent Chandelier is a common Artifact Creature -- Construct from *Duskmourn: House of Horror* (DSK), released September 27, 2024. Duskmourn's design brief called for household objects turned hostile -- the mansion itself is alive and its furnishings animate as threats. The chandelier is among the set's most literal expressions of that premise. `[Scryfall]` `[magic.wizards.com/en/news/announcements/first-look-at-duskmourn-house-of-horror]`
+- **Flavor text and speaker** -- "If you see a light moving toward you in the darkness, don't assume it's coming to help." -- Winter `[Scryfall]` Winter is a human survivor of Duskmourn who entered the House as a teenager over a decade before the story's present (circa 4564 AR). He serves as a guide to Niko Aris and the Wanderer during DSK's narrative. His story ends in betrayal: Valgavoth offered Winter freedom in exchange for four lives, and Winter ultimately sacrificed his companions -- sealing Niko, the Wanderer, and Nashi with cultists -- to earn his escape to Innistrad. `[Draftsim Duskmourn Story Summary]` `[WebSearch: Winter MTG Duskmourn character lore]`
+- **Mechanical profile** -- Malevolent Chandelier is a 4/4 flying Construct for {6} with a repeatable {2} activated ability (sorcery speed) that puts a target card from any graveyard to the bottom of its owner's library. This positions it as a late-game graveyard-hate body in Pauper and Pauper Commander where dedicated graveyard-hate creatures at common rarity are limited. Legal in Pauper. `[Scryfall type_line, oracle_text, legalities]`
+- **EDHREC standing** -- Malevolent Chandelier has an EDHREC rank of 18,598 among all Commander-legal cards, placing it among the least-played of this batch. The high mana cost (6) likely limits it to thematic Duskmourn-tribal builds rather than competitive graveyard-hate slots. `[Scryfall edhrec_rank]`
+
+### Related cards
+- Winter, Misanthropic Guide (DSK) -- the flavor-text speaker; a Duskmourn survivor and guide character
+- Haunted Screen (DSK, no. 250) -- shares the same set and retro-appliance-horror aesthetic
+- Creeping Chill (Guilds of Ravnica) -- comparable common-rarity graveyard-care Pauper piece for context

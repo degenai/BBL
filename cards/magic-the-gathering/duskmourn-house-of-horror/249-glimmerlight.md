@@ -22,6 +22,7 @@ tags_hub:
   - horror
   - artifact
 tags_filter:
+  - colorless-magic
   - no-face
   - close-up
   - artifact
@@ -70,3 +71,14 @@ A single forearm and hand rise from the lower frame, gripping a cylindrical meta
 **Iconography:** energy-blade, green-light, lantern-device
 **Genre cues:** fantasy, horror, steampunk-adjacent
 
+## Trivia
+
+- **Set context** -- Glimmerlight is a common Equipment from *Duskmourn: House of Horror* (DSK), released September 27, 2024. `[Scryfall]`
+- **Flavor text** -- "Hope and reliable lighting are in short supply in the House. Glimmers provide both." `[Scryfall]` The unsourced line is flavor text on the card itself; no named speaker is attributed.
+- **Glimmer creature type** -- The Glimmer enchantment creature token Glimmerlight creates is a 1/1 white Glimmer. Glimmer is a creature type introduced in Duskmourn. Per Wizards' *Planeswalker's Guide to Duskmourn*, Glimmers are manifestations of survivors' "hopes and persistence," taking forms of cherished objects or friends, depicted in golden colors, and offering magical protection against Valgavoth's malice. The token is simultaneously an enchantment and a creature -- both types are relevant for "enchantments matter" strategies. `[magic.wizards.com/en/news/feature/planeswalkers-guide-to-duskmourn]` `[Scryfall token data]`
+- **Commander synergy** -- The EDHREC Duskmourn artifacts review flags Glimmerlight for niche multi-type synergy: because it enters and immediately creates a creature, an artifact, and an enchantment creature on the battlefield in one action, it satisfies Baba Lysaga's ability (requiring three different permanent types among your permanents) and may trigger Amareth's card draw ability. The Equipment's {1} equip cost is also among the cheapest in the set. `[EDHREC: Duskmourn Set Review -- Artifacts and Lands]`
+
+### Related cards
+- Glimmer token (TDSK, no. 4) -- the 1/1 white Glimmer enchantment creature token Glimmerlight creates
+- Baba Lysaga, Night Witch (Baldur's Gate) -- Commander synergy: requires three permanent types simultaneously
+- Surveilling Sprite (DSK) -- another common Duskmourn enchantment creature in the Glimmer design space

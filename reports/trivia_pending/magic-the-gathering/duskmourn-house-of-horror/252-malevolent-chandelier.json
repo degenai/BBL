@@ -1,0 +1,48 @@
+{
+  "card_name": "Malevolent Chandelier",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "252",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Malevolent Chandelier is a common Artifact Creature -- Construct from Duskmourn: House of Horror (DSK), released September 27, 2024. The set's design brief called for household objects turned hostile; Malevolent Chandelier is a literal expression of that premise.",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/announcements/first-look-at-duskmourn-house-of-horror"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"If you see a light moving toward you in the darkness, don't assume it's coming to help.\" -- Winter. Winter is a human survivor of Duskmourn who entered the House as a teenager over a decade before the story's present. He guides Niko Aris and the Wanderer, but ultimately betrays them -- sacrificing his companions to Valgavoth in exchange for his own escape to Innistrad.",
+      "sources": ["Scryfall flavor_text", "Draftsim Duskmourn Story Summary (draftsim.com/mtg-duskmourn-house-of-horror-story)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 4/4 flying Construct for {6} with repeatable {2} sorcery-speed graveyard removal (bottom of library). Legal in Pauper where dedicated common graveyard-hate creatures are limited.",
+      "sources": ["Scryfall type_line, oracle_text, legalities"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 18,598 -- among the least-played of the five cards in this batch in Commander. High mana cost likely limits it to thematic Duskmourn-tribal builds rather than competitive graveyard-hate slots.",
+      "sources": ["Scryfall edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Winter, Misanthropic Guide", "set": "Duskmourn: House of Horror", "note": "the flavor-text speaker; a Duskmourn survivor and traitor character"},
+    {"name": "Haunted Screen", "set": "Duskmourn: House of Horror", "note": "shares set and retro-appliance-horror aesthetic"},
+    {"name": "Creeping Chill", "set": "Guilds of Ravnica", "note": "comparable common-rarity graveyard-care Pauper card for context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{6}",
+    "color_magic_tag_present": true,
+    "color_magic_tag_value": "colorless-magic",
+    "needs_sweep": false
+  }
+}

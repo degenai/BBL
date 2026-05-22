@@ -1,0 +1,49 @@
+{
+  "card_name": "Haunted Screen",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "250",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Haunted Screen is an uncommon artifact from Duskmourn: House of Horror (DSK), released September 27, 2024. Televisions, VHS tapes, and CRT screens appear throughout the set as horror-delivery vectors in keeping with the retro consumer-electronics dread theme.",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/announcements/first-look-at-duskmourn-house-of-horror"]
+    },
+    {
+      "category": "design",
+      "text": "Haunted Screen is a five-color mana rock designed as a visual joke: it produces white or black mana for free (like a black-and-white TV), but requires paying 1 life to add green, blue, or red (like paying to upgrade to color). Surfaced by the EDHREC Duskmourn artifacts review.",
+      "sources": ["EDHREC: Duskmourn Set Review -- Artifacts and Lands"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Because Haunted Screen's oracle text contains all five mana symbols, its Commander color identity is WUBRG, restricting it to five-color decks only. It cannot appear in two-color Commander decks despite being a colorless artifact. Competes with Timeless Lotus and Mox Amber in five-color mana-rock slots.",
+      "sources": ["Scryfall color_identity", "EDHREC: Duskmourn Set Review -- Artifacts and Lands"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The {7} activation puts seven +1/+1 counters on Haunted Screen and makes it a 0/0 Spirit creature in addition to its other types (once only), yielding a 7/7 Spirit. EDHREC describes this as a secondary lategame payoff for five-color brewers.",
+      "sources": ["Scryfall oracle_text", "EDHREC: Duskmourn Set Review -- Artifacts and Lands"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Timeless Lotus", "set": "Dominaria United", "note": "five-color mana rock Haunted Screen competes with in Commander"},
+    {"name": "Coveted Jewel", "set": "Commander 2018", "note": "another high-cost artifact with a lategame payoff"},
+    {"name": "Glitch Surgeon", "set": "Duskmourn: House of Horror", "note": "another Duskmourn retro-electronics horror artifact"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{3}",
+    "color_magic_tag_present": true,
+    "color_magic_tag_value": "colorless",
+    "needs_sweep": false,
+    "sweep_note": "tags_filter has 'colorless' (not 'colorless-magic') -- functionally equivalent but corpus convention should be verified. Low severity."
+  }
+}

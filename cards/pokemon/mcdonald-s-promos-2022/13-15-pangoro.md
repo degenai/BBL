@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - bear
+  - martial-arts
+  - punch
+  - darkness
+  - bamboo
+  - muscle
+  - warrior
+  - brute
+  - aggression
+  - shadow
+tags_filter:
+  - solo
+  - forward-facing
+  - mid-shot
+  - action-mode
+  - creature-darkness
 reference_image: cards/_images/pokemon/mcdonald-s-promos-2022/13-15-pangoro.png
 average_cost_paid: 0
 market_price: 0.2
@@ -33,6 +48,12 @@ artist: HYOGONOSUKE
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: void
+suspected_ip: Pangoro
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -44,12 +65,19 @@ tags:
 
 ![13-15-pangoro](../../_images/pokemon/mcdonald-s-promos-2022/13-15-pangoro.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Pangoro** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+A large, powerful bipedal bear-like creature fills the frame in a dramatic forward-punching action pose. The creature is predominantly dark with a lighter face and chest area, and a bamboo leaf or stem is visible near its mouth. Its fist is thrust toward the viewer in a forceful, dominant stance. The background is dark and atmospheric, suggesting a shadowy or smoky environment. The composition emphasizes the creature's bulk and aggressive energy. Lighting is dramatic with a hint of rim light picking out the creature's silhouette against the dark background.
 
-**Subject:** 
+**Subject:** Pangoro, a large bipedal bear-like creature, in a dynamic punching pose
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** void, indeterminate, smoke
+**Foreground:** Pangoro in punching stance, fist extended toward viewer  *(palette: black, dark-gray, white, cream)*
+**Background:** dark smoky atmospheric void  *(palette: dark-gray, black, deep-brown)*
+**Mood / lighting:** action, rim
+**Emotion read:** aggressive, dominant, forward-charging energy
+**Objects:** bamboo leaf
+**Creatures:** bear-like creature, bipedal mammal
+**Genre cues:** anime, fantasy

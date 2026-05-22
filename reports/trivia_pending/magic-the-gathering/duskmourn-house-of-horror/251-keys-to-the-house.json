@@ -1,0 +1,48 @@
+{
+  "card_name": "Keys to the House",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "251",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Keys to the House is an uncommon artifact from Duskmourn: House of Horror (DSK), released September 27, 2024. The Room mechanic -- an enchantment subtype introduced in DSK -- represents exploring and unlocking the shifting rooms of the House; Keys to the House is one of the few non-Room cards directly engaging that system.",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The second ability ({3}, {T}, Sacrifice: lock or unlock a door of a target Room you control) interacts with the Room mechanic's lock/unlock system without paying a door's mana cost, making it a mana-efficient way to access the second half of a Room card.",
+      "sources": ["Scryfall oracle_text", "magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"If you find them, they wanted to be found.\" -- no speaker named. Resonates with Duskmourn lore: Valgavoth's will extends throughout the mansion, and the House actively lures survivors to their doom.",
+      "sources": ["Scryfall flavor_text", "magic.wizards.com/en/news/feature/planeswalkers-guide-to-duskmourn"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The first ability is a one-mana basic land tutor ({1}, {T}, Sacrifice), unusual cost efficiency for non-green colors. EDHREC rank 10,741 makes it the most-played of the five cards in this batch among Commander players.",
+      "sources": ["Scryfall edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Restless Rotisserie", "set": "Duskmourn: House of Horror", "note": "example Room card whose doors Keys to the House can lock or unlock"},
+    {"name": "Dread Whispers", "set": "Duskmourn: House of Horror", "note": "another DSK artifact interacting with the Room mechanic"},
+    {"name": "Elvish Reclaimer", "set": "Modern Horizons", "note": "comparable one-mana land-tutor for competitive reference"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{1}",
+    "color_magic_tag_present": true,
+    "color_magic_tag_value": "colorless-magic",
+    "needs_sweep": false
+  }
+}

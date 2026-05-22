@@ -1,0 +1,43 @@
+{
+  "card_name": "Found Footage",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "246",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Found Footage is a common from Duskmourn: House of Horror (DSK), MTG's 102nd expansion released September 27, 2024. The set is a top-down horror design set entirely within a haunted mansion ruled by demon Valgavoth, inspired by 1970s-90s slasher and haunted-house films.",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/announcements/first-look-at-duskmourn-house-of-horror"]
+    },
+    {
+      "category": "design",
+      "text": "Found Footage is a named, castable Artifact -- Clue (not a token). Clue tokens debuted in Shadows over Innistrad (2016); Duskmourn marks one of the first instances of a named, castable Clue in the main set. Its face-down-inspection ability synergizes with the set's Disguise and Manifest Dread mechanics.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The face-down inspection ability applies to any face-down creature an opponent controls -- including Manifest Dread permanents -- and does not use the stack. Legal in Pauper at {1} mana with a surveil-2-plus-draw payoff.",
+      "sources": ["Scryfall oracle_text", "magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics", "Scryfall legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Manifest Dread", "set": "Duskmourn: House of Horror", "note": "introduces face-down permanents in the same set; Found Footage's inspection ability applies"},
+    {"name": "Clue token", "set": "Shadows over Innistrad", "note": "predecessor artifact subtype Found Footage names directly"},
+    {"name": "Unidentified Hovership", "set": "Duskmourn: House of Horror", "note": "another Duskmourn Clue-producing artifact in the retro-tech vein"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{1}",
+    "color_magic_tag_present": true,
+    "color_magic_tag_value": "colorless-magic",
+    "needs_sweep": false
+  }
+}

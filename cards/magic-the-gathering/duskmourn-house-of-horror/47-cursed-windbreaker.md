@@ -33,6 +33,8 @@ tags_filter:
   - blue-magic
 symbols:
   - manifest-dread
+characters:
+  - dsk-animate-house
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/47-cursed-windbreaker.png
 average_cost_paid: 0
 market_price: 0.16
@@ -76,4 +78,3 @@ A windbreaker jacket hovers in mid-air with no visible wearer inside it, arms ex
 **Objects:** jacket, windbreaker, lanterns, towers
 **Iconography:** electricity, cursed-object
 **Genre cues:** fantasy, horror
-

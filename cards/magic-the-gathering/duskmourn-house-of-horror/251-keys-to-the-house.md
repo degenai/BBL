@@ -76,3 +76,14 @@ Two old, corroded iron keys share a bent and looped key ring, resting flat on a 
 **Iconography:** key, eye-motif
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** -- Keys to the House is an uncommon artifact from *Duskmourn: House of Horror* (DSK), released September 27, 2024. The Duskmourn plane is entirely structured as a single vast haunted mansion whose rooms shift and rearrange; the Room mechanic -- an enchantment subtype introduced in DSK -- represents exploring and unlocking the House's spaces. `[Scryfall]` `[magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics]`
+- **Room mechanic interaction** -- Keys to the House is one of the few non-Room cards in the set that directly interacts with the Room mechanic's lock/unlock system. Its second ability ({3}, {T}, Sacrifice: lock or unlock a door of a target Room you control) can trigger a locked door's effect without paying that door's mana cost, making it a mana-efficient way to access the second half of a Room. `[Scryfall oracle_text]` `[magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics]`
+- **Flavor text** -- "If you find them, they wanted to be found." `[Scryfall]` The line is unsourced on the card; no speaker is named. The implication is that the House controls what its inhabitants discover -- a recurring theme in Duskmourn lore, where Valgavoth's will extends throughout the structure and the mansion actively lures and traps survivors. `[magic.wizards.com/en/news/feature/planeswalkers-guide-to-duskmourn]`
+- **Dual function** -- The first ability (basic land tutor at {1}, {T}, Sacrifice) makes Keys to the House a one-drop land-ramp piece, unusual at that cost in non-green colors. Its EDHREC rank of 10,741 places it as one of the more-played DSK uncommons in Commander relative to the other four cards in this batch. `[Scryfall edhrec_rank]`
+
+### Related cards
+- Restless Rotisserie (DSK) -- an example Room card whose doors Keys to the House can lock/unlock
+- Dread Whispers (DSK) -- another DSK artifact interacting with the Room mechanic's sorcery restrictions
+- Elvish Reclaimer (Modern Horizons) -- comparable one-mana land-tutor artifact for competitive reference

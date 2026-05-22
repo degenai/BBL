@@ -70,3 +70,14 @@ The art crop shows a close-up of a VHS cassette tape seated in what appears to b
 **Iconography:** glowing-screen, cassette-tape
 **Genre cues:** horror, sci-fi
 
+## Trivia
+
+- **Set context** -- Found Footage is a common from *Duskmourn: House of Horror* (set code DSK), MTG's 102nd expansion, released September 27, 2024. The set is a top-down horror design set entirely within Duskmourn, a plane consisting of one vast haunted mansion ruled by the demon Valgavoth. The set was inspired by 1970s-90s slasher films, haunted house films like *The Amityville Horror*, and retro consumer-electronics horror. `[Scryfall]` `[magic.wizards.com/en/news/announcements/first-look-at-duskmourn-house-of-horror]`
+- **Type line** -- Found Footage is typed as an Artifact -- Clue. Clue tokens were introduced in Shadows over Innistrad (2016) as sacrificeable draw engines; Duskmourn marks one of the first instances of a named, castable Clue card (rather than a token) appearing in the main set. The card's face-down-creature-inspection ability gives it thematic weight alongside Duskmourn's Disguise creatures -- you can always see what hides beneath a face-down permanent your opponent controls, turning paranoia into information. `[Scryfall]`
+- **Mechanical note** -- The face-down inspection ability applies to *any* face-down creature an opponent controls, not only Disguised ones -- this includes Manifest Dread permanents introduced in the same set. The ability explicitly does not use the stack. `[Scryfall oracle_text]` `[magic.wizards.com/en/news/feature/duskmourn-house-of-horror-mechanics]`
+- **Format reach** -- Found Footage is legal in Pauper, making it one of the few castable Clue artifacts available in that format. Its {1} casting cost plus a surveil-2-and-draw payoff at {2} sacrifice is meaningfully efficient for a format where card advantage at low mana is contested. `[Scryfall legalities]`
+
+### Related cards
+- Manifest Dread (DSK) -- introduces face-down permanents in the same set; Found Footage's inspection ability applies to manifested cards
+- Clue token (Shadows over Innistrad, 2016) -- predecessor artifact subtype that Found Footage names directly
+- Unidentified Hovership (DSK) -- another Duskmourn Clue-producing artifact in the set's retro-tech vein

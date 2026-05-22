@@ -1,0 +1,49 @@
+{
+  "card_name": "Glimmerlight",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "249",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Glimmerlight is a common Equipment from Duskmourn: House of Horror (DSK), released September 27, 2024.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Hope and reliable lighting are in short supply in the House. Glimmers provide both.\" -- no speaker attributed.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Glimmer creature type was introduced in Duskmourn. Per Wizards' Planeswalker's Guide to Duskmourn, Glimmers are manifestations of survivors' hopes and persistence, offering magical protection against Valgavoth's malice. The token is simultaneously an enchantment and a creature -- both types matter for enchantment-synergy strategies.",
+      "sources": ["magic.wizards.com/en/news/feature/planeswalkers-guide-to-duskmourn", "Scryfall token data"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC Duskmourn artifacts review notes Glimmerlight's niche multi-type synergy: it creates a creature, an artifact, and an enchantment in one action, satisfying Baba Lysaga's three-permanent-type requirement and potentially triggering Amareth's card draw.",
+      "sources": ["EDHREC: Duskmourn Set Review -- Artifacts and Lands"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Glimmer token", "set": "Duskmourn: House of Horror Tokens (TDSK)", "note": "the 1/1 white Glimmer enchantment creature token Glimmerlight creates"},
+    {"name": "Baba Lysaga, Night Witch", "set": "Commander Legends: Battle for Baldur's Gate", "note": "Commander synergy: requires three different permanent types"},
+    {"name": "Surveilling Sprite", "set": "Duskmourn: House of Horror", "note": "another Duskmourn enchantment creature in the Glimmer design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{2}",
+    "color_magic_tag_present": false,
+    "color_magic_tag_value": null,
+    "needs_sweep": true,
+    "sweep_note": "tags_filter is missing a color-magic tag. Card has color_identity: [] (colorless). Should add colorless-magic to tags_filter."
+  }
+}

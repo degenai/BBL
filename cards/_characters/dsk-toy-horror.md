@@ -84,6 +84,7 @@ Note: the corpus also includes a sibling **DSK improvised-survival-grammar cohor
 ## See also
 
 - [[fear-of-cycle]] — sibling DSK cohort character node; phobia-personification axis of the same horror cosmology. The strongest sibling cohort in the corpus.
+- [[dsk-animate-house]] — sibling DSK cohort character node; the non-Toy possessed-household-furnishing axis of the same possessed-object cosmology. Partitioned from this node by the Toy creature subtype: Toy-subtyped corrupted playthings route here, non-Toy possessed furnishings (television, chandelier, jacket) route to dsk-animate-house. Living Phone is the boundary case — a corrupted appliance that sits at *this* node because it carries the Toy subtype.
 - [[valgavoth]] — character node for the demon whose plane animates both cohorts; the proximate-cause antagonist.
 - [[dsk-unlucky-lands-cycle]] — sibling DSK designer-coordinated cohort; haunted-vernacular-place axis. The third DSK character-layer cohort in current corpus.
 - [[manifest-dread]] — sibling DSK signature mechanic at the symbol layer; the mechanical-thematic bridge through the set's graveyard / Delirium subtheme. Patchwork Beastie's Delirium engagement edges this node mechanically toward the manifest-dread mechanical primitive.

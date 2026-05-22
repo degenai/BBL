@@ -87,9 +87,10 @@ This hub is NOT:
 
 This hub is **deliberately card-edge disconnected** in Obsidian's graph view. The node is visible in the layer-node clique — linked to other layer nodes via body wikilinks — but **no edges connect this hub to any individual card.** The wire flows hub → character-cohort node → card, never hub → card.
 
-Routing is to two existing character-layer cohort nodes:
+Routing is to three existing character-layer cohort nodes:
 - [[tsukumogami-pokemon]] — the Pokémon object-becomes-spirit design-source cohort (Voltorb, Sinistea / Polteageist, Honedge line, Shuppet). Holds the franchise's true-tsukumogami cases.
-- [[dsk-toy-horror]] — the *Duskmourn* corrupted-childhood artifact-creature cohort. Holds the externally-possessed Western-horror register.
+- [[dsk-toy-horror]] — the *Duskmourn* corrupted-childhood artifact-creature cohort. Holds the externally-possessed Western-horror register **for the Toy-subtyped corrupted playthings** — the killer-doll / cursed-toy roster marked at the type-line by the Toy creature subtype.
+- [[dsk-animate-house]] — the *Duskmourn* non-Toy possessed-furnishing cohort. Holds the externally-possessed register **for household furnishings, fixtures, and appliances** that carry no Toy subtype (Haunted Screen, Malevolent Chandelier, Cursed Windbreaker). The two Duskmourn cohorts partition the set's possessed-object register by the Toy creature subtype: Toy-subtyped playthings route to `dsk-toy-horror`, non-Toy possessed furnishings route here. This node holds the "The House Was Awake" narrative seed's TV and chandelier.
 
 The aged / modern / externally-possessed *texture* lives down in those cohort nodes, where the `tsukumogami-pokemon` node already codifies it. The hub does not inherit the mess: the hub is one clean concept, the cohorts carry the roster. There is no `appears_on:` or `anchored_cards:` field on this node and there will not be — cards are inventory, bundles are destructive, and `anchored_lairs:` is the only card-adjacent relationship that survives the inventory churn (see `bbl-bundles-are-destructive-on-graph.md`).
 
@@ -98,7 +99,8 @@ An Eldraine fairy-tale-animate-object cohort node is a natural future third rout
 ## See Also
 
 - [[tsukumogami-pokemon]] — child cohort node; the Pokémon true-tsukumogami design-source cohort
-- [[dsk-toy-horror]] — child cohort node; the *Duskmourn* externally-possessed Western-horror cohort
+- [[dsk-toy-horror]] — child cohort node; the *Duskmourn* Toy-subtyped corrupted-childhood-toy cohort
+- [[dsk-animate-house]] — child cohort node; the *Duskmourn* non-Toy possessed-household-furnishing cohort
 - [[chinese-zodiac]] — sibling foundational hub; the other cultural-framework hub, folklore-and-design-history rather than political-economy verb
 - [[labor]] / [[rebellion]] / [[stewardship]] — the triple-thesis foundational hubs; tsukumogami sits beside them as a framework hub, not among them as a work-verb
 - repo `docs/sketchbook.md` — "The pigeon and the pidgey" note; the ontology of capturability that surfaced authoring this hub, kept as margin-thinking, deliberately not this hub's thesis

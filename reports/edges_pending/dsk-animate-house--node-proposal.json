@@ -1,0 +1,42 @@
+{
+  "edge_id": "dsk-animate-house--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/dsk-animate-house.md", "name": "Animate-house cohort (Duskmourn possessed household objects, non-Toy)"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/250-haunted-screen.md", "name": "Haunted Screen"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/252-malevolent-chandelier.md", "name": "Malevolent Chandelier"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/47-cursed-windbreaker.md", "name": "Cursed Windbreaker"}
+  ],
+  "description": "Sorry to step in for Edgelord, sir. The parent asked whether Haunted Screen and Malevolent Chandelier fit dsk-toy-horror, and they don't, honestly they don't -- a television's type-line is Artifact and a chandelier's is Artifact Creature - Construct, neither carries the Toy creature subtype, and neither is a childhood toy. I do hope you don't mind, but rather than wedge them into the wrong cohort I've proposed dsk-animate-house, the non-Toy possessed-furnishing cohort the tsukumogami hub's 'The House Was Awake' seed was already asking for and had no routing target for. Three enriched corpus cards point at it now. I think it'll really help, if it's not too much trouble.",
+  "citations": [
+    "[Scryfall: type_line -- Haunted Screen is Artifact; Malevolent Chandelier is Artifact Creature - Construct; Cursed Windbreaker is Artifact - Equipment; none return on s:dsk t:toy]",
+    "[magic.wizards.com/en/news/announcements/first-look-at-duskmourn-house-of-horror -- design brief: the mansion itself is alive and its furnishings animate as threats]",
+    "[magic.wizards.com/en/news/feature/planeswalkers-guide-to-duskmourn -- Valgavoth's possession extends throughout the House structure]",
+    "[cards/_hubs/tsukumogami.md -- 'The House Was Awake' narrative seed names Malevolent Chandelier and Haunted Screen explicitly]"
+  ],
+  "files_modified": [
+    "cards/_characters/dsk-animate-house.md (created)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/250-haunted-screen.md (characters: pointer added)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/252-malevolent-chandelier.md (characters: pointer added)",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/47-cursed-windbreaker.md (characters: pointer added)",
+    "cards/_hubs/tsukumogami.md (Design Note + See Also updated: two routing targets -> three)",
+    "cards/_characters/dsk-toy-horror.md (See also: sibling cross-reference to dsk-animate-house added)"
+  ],
+  "adjudication": "Haunted Screen 250 and Malevolent Chandelier 252 do NOT fit dsk-toy-horror. That cohort's predicate is the Toy creature subtype + corrupted-childhood-object art + repair-corruption flavor. A TV (type-line Artifact, becomes a Spirit when animated) and a chandelier (type-line Artifact Creature - Construct) fail all three. Living Phone correctly sits at dsk-toy-horror despite being an appliance because it carries the Toy subtype on its type-line -- the type-line is the decisive partition predicate. The new dsk-animate-house cohort holds the non-Toy possessed-furnishing register the tsukumogami hub already pre-authorized a routing slot for.",
+  "node_proposal": {
+    "new_node": "cards/_characters/dsk-animate-house.md",
+    "layer": "character",
+    "members_pointed": 3,
+    "threshold_met": "3-card Mr. Nodeley threshold met; 3 enriched non-Toy possessed-household-object DSK cards (Haunted Screen 250, Malevolent Chandelier 252, Cursed Windbreaker 47)",
+    "partition_with_sibling": "dsk-animate-house and dsk-toy-horror partition the DSK possessed-object register by the Toy creature subtype -- type-line-decisive cut, not a gradient"
+  },
+  "other_candidates_considered": [
+    "Broadening dsk-toy-horror's predicate to absorb non-Toy household objects -- REJECTED. dsk-toy-horror is a rigorous designer-coordinated cohort marked at the type-line by the DSK-introduced Toy creature subtype (11-14 members per Ragged Playmate trivia). Diluting its predicate to 'any animate object' would destroy that rigor. The Potion-rule move is a clean partition, not a stretched node.",
+    "1:1 edge Haunted Screen <-> Malevolent Chandelier ('same set, animate household objects') -- REJECTED as thin. With Cursed Windbreaker also in corpus, a 1:1 edge would be redundant noise pointing at an absent center; the node is the correct anchor.",
+    "FUTURE: an Eldraine fairy-tale-animate-object cohort is the tsukumogami hub's already-named fourth routing target, pending enrichment of those cards. Separate commission.",
+    "FUTURE: a Scryfall sweep of DSK non-Toy possessed-furnishing cards (mirrors, appliances, furniture) should enumerate the full dsk-animate-house roster and attach members as they land via Collectr CSV."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}
