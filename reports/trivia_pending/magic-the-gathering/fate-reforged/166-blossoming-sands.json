@@ -1,0 +1,45 @@
+{
+  "card_name": "Blossoming Sands",
+  "game": "Magic: The Gathering",
+  "set": "Fate Reforged",
+  "collector_number": "166",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Blossoming Sands originates in Khans of Tarkir (no. 231) and was reprinted in Fate Reforged with new art by Sam Burley depicting the same Tarkir location 1,280 years in the past. The Fate Reforged timeline represents Tarkir before the human clans' full ascendance. A 2015 art review by Scent of a Gamer noted that across the dual-land cycle, the Khans versions show the same locations as more developed and managed than the Fate Reforged past versions. [Scent of a Gamer: 'Fate Reforged art review', 2015-01-17; MTG Wiki: Fate Reforged]",
+      "sources": ["Scent of a Gamer: Fate Reforged art review (2015-01-17)", "MTG Wiki: Fate Reforged (mtg.wiki)"]
+    },
+    {
+      "category": "design",
+      "text": "Sam Burley illustrated Blossoming Sands for both Khans of Tarkir and Fate Reforged, and continued as the card's artist through Core Set 2019, Core Set 2020, Core Set 2021, Commander 2017, Commander 2018, Commander 2019, Eternal Masters, and Foundations. Burley also painted Dismal Backwater and most of the green-white and blue-black entries in this tapland cycle across multiple printings. [Scryfall prints search]",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Blossoming Sands has an EDHREC rank of 1,059 and is legal in all currently active formats including Pauper and Standard. It is among the most-used common green-white mana fixers in Commander. Scryfall records 17 printings as of 2026, making it one of the most-reprinted entries in this tapland cycle. [Scryfall]",
+      "sources": ["Scryfall (EDHREC rank, legalities, prints count)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Blossoming Sands", "set": "Khans of Tarkir", "note": "Original printing (no. 231); same oracle text, different art showing same location in present timeline"},
+    {"name": "Bloodfell Caves", "set": "Fate Reforged", "note": "Same tapland cycle; black-red equivalent"},
+    {"name": "Dismal Backwater", "set": "Fate Reforged", "note": "Same cycle; blue-black equivalent"},
+    {"name": "Rugged Highlands", "set": "Fate Reforged", "note": "Same cycle; red-green equivalent"},
+    {"name": "Tranquil Cove", "set": "Fate Reforged", "note": "Same cycle; white-blue equivalent; the cycle entry that Scent of a Gamer used to illustrate the timeline art-direction shift"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "metadata_flags": {
+    "mana_cost_present": false,
+    "mana_cost_value": "empty string (correct for Land type)",
+    "color_magic_tags_in_filter": false,
+    "color_magic_tag_value": "n/a — dual-color land uses multicolor-green-white tag; no individual color-magic tags expected",
+    "notes": "mana_cost absent is correct for lands. multicolor-green-white tag correctly present."
+  }
+}

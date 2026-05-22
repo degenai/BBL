@@ -1,0 +1,62 @@
+{
+  "edge_id": "refuges-cycle--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "node_proposed": {
+    "type": "character",
+    "path": "cards/_characters/refuges-cycle.md",
+    "name": "Refuges (Khans-block common gain-land cycle)",
+    "slug": "refuges-cycle"
+  },
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/fate-reforged/165-bloodfell-caves.md", "name": "Bloodfell Caves (FRF)"},
+    {"type": "card", "path": "cards/magic-the-gathering/fate-reforged/166-blossoming-sands.md", "name": "Blossoming Sands (FRF)"},
+    {"type": "card", "path": "cards/magic-the-gathering/fate-reforged/168-dismal-backwater.md", "name": "Dismal Backwater (FRF)"},
+    {"type": "card", "path": "cards/magic-the-gathering/fate-reforged/170-rugged-highlands.md", "name": "Rugged Highlands (FRF)"}
+  ],
+  "description": "Oh, hello sir, Mr. Nodeley here, Edgelord asked me to step in. I'm so sorry. The four Fate Reforged refuges just got trivia-passed and their Related-cards sections all manually fan to the other cycle members — that's the duplicate-edges-all-pointing-at-an-absent-center pattern you have me watch for. Drawing one-on-one Edgelord mirrors between two of them would be redundant the moment the cycle node lands. There's already a sibling node at `dsk-unlucky-lands-cycle.md` shaped exactly the same way, so I followed that precedent. The Wizards.com Stoddard piece confirms the FRF reprint as deliberate; the 2015 Scent of a Gamer art review reads the FRF-vs-KTK paintings as a stewardship-comparison across 1,280 years. Both citations are external to BBL — the stewardship hub-edge is from a critic's articulation in 2015, not BBL squinting, so it survives the Potion-rule check. Six future-watch attachments are documented in the node's Caveats so the seventh-through-tenth FRF refuges (and any KTK printings) snap in cleanly when acquired. I hope this helps. I'll go now.",
+  "citations": [
+    "[Wizards.com: 'A Fetching Look at Fate Reforged' — Sam Stoddard, 2014-12-24]",
+    "[MTG Wiki: Refuge (cycle page)]",
+    "[MTG Wiki: Fate Reforged set page — Cycles section]",
+    "[Scryfall: s:ktk t:land r:common; s:frf t:land r:common]",
+    "[Scent of a Gamer: 'Fate Reforged art review' — 2015-01-17]",
+    "[Hipsters of the Coast: 'Promised Lands with Adam Paquette, Part I' — 2019]"
+  ],
+  "files_modified": [
+    "cards/_characters/refuges-cycle.md",
+    "cards/magic-the-gathering/fate-reforged/165-bloodfell-caves.md",
+    "cards/magic-the-gathering/fate-reforged/166-blossoming-sands.md",
+    "cards/magic-the-gathering/fate-reforged/168-dismal-backwater.md",
+    "cards/magic-the-gathering/fate-reforged/170-rugged-highlands.md"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    {
+      "candidate": "houndour-line cohort (Pokemon)",
+      "members_in_corpus": ["pokemon/crimson-invasion/58-111-houndour.md (CIN-58)", "pokemon/prismatic-evolutions/063-131-houndoom.md (PRE-063)"],
+      "verdict": "below 3-card Nodeley threshold (N=2 across two sets); Edgelord 1:1 mirror is the right move if a future enrichment doesn't add a third member. Houndour PRE-062 (just trivia-passed last wave) is the obvious third anchor — IF its enrichment is complete on both axes, a houndour-line node becomes proposable on a future pass. Refused this wave on threshold."
+    },
+    {
+      "candidate": "Electrode REB-057 attach to tsukumogami-pokemon",
+      "verdict": "parent brief flagged as vision-only (no trivia this wave); attach is correct mechanically (Voltorb-line evolution; Voltorb is canonically a Poke-Ball-mimic tsukumogami) but the trivia layer should confirm the design-intent citation before the frontmatter pointer is added. Flag-only this wave per parent instruction."
+    },
+    {
+      "candidate": "Refuges-cycle related to Endriders via Aetherdrift's Bloodfell Caves reuse (DFT-251)",
+      "verdict": "name collision is interesting trivia but NOT a cycle-membership edge; DFT-251 belongs to Endriders, has different oracle text, is set on Gastal not Tarkir, and is correctly partitioned in the refuges-cycle node's Caveats. No cross-node edge needed."
+    },
+    {
+      "candidate": "vexing-scuttler EMN-11 edges",
+      "verdict": "Eldritch Moon Eldrazi; trivia just landed but no obvious 1:1 partner in the fresh slate or recent corpus given the Eldrazi node already exists. Future pass after more EMN cards enrich."
+    },
+    {
+      "candidate": "5th FRF refuge Thornwood Falls (FRF-169) — if acquired",
+      "verdict": "future-watch; documented in the node's Caveats. Will attach via simple appears_on append + characters frontmatter pointer when the card lands."
+    }
+  ],
+  "next_pass_suggestions": [
+    "When houndour-line reaches 3 enriched members across the corpus (Houndour CIN-58 + Houndour PRE-062 + Houndoom PRE-063 all trivia-passed), commission a houndour-line cohort node — same shape as drilbur-line / breloom-line / mareep-line.",
+    "When Electrode REB-057 gets trivia-passed, evaluate adding it to tsukumogami-pokemon appears_on (Voltorb-line is design-intent Poke-Ball mimic; the design-intent citation should be in the trivia before the attach)."
+  ]
+}

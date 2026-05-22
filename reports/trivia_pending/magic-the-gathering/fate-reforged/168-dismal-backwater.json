@@ -1,0 +1,45 @@
+{
+  "card_name": "Dismal Backwater",
+  "game": "Magic: The Gathering",
+  "set": "Fate Reforged",
+  "collector_number": "168",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Dismal Backwater originates in Khans of Tarkir (no. 232) and was reprinted in Fate Reforged with new art by Sam Burley depicting the same waterway location 1,280 years in the past. The Tarkir timeline conceit applies across all ten taplands in this cycle: Fate Reforged versions show the same places before the clans' full influence. [MTG Wiki: Fate Reforged; Wizards.com: 'A Fetching Look at Fate Reforged', 2014-12-24]",
+      "sources": ["MTG Wiki: Fate Reforged (mtg.wiki)", "Wizards.com: A Fetching Look at Fate Reforged (2014-12-24)", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Dismal Backwater has an EDHREC rank of 949 and is legal in all currently active formats including Pauper and Standard. Scryfall records 20 printings as of 2026, including appearances in Duel Decks: Blessed vs. Cursed, Warhammer 40,000 Commander, and Tarkir: Dragonstorm. It is the most-reprinted of the four taplands in this batch, reflecting the ongoing demand for blue-black mana fixing. [Scryfall]",
+      "sources": ["Scryfall (EDHREC rank, legalities, prints count)"]
+    },
+    {
+      "category": "design",
+      "text": "Sam Burley illustrated Dismal Backwater for both Khans of Tarkir and Fate Reforged, and returned as artist for Core Set 2019, Core Set 2020, Core Set 2021, Commander 2016, Commander 2017, Commander 2018, Eternal Masters, and Foundations. Sam Burley has also posted print-sale reproductions of both the KTK and FRF versions of this card on his INPRNT storefront. [Scryfall prints; INPRNT: samburley/dismal-backwater-frf]",
+      "sources": ["Scryfall prints search", "INPRNT: samburley/dismal-backwater-frf"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dismal Backwater", "set": "Khans of Tarkir", "note": "Original printing (no. 232); same oracle text, different art showing same location in present timeline"},
+    {"name": "Bloodfell Caves", "set": "Fate Reforged", "note": "Same tapland cycle; black-red equivalent"},
+    {"name": "Blossoming Sands", "set": "Fate Reforged", "note": "Same cycle; green-white equivalent"},
+    {"name": "Rugged Highlands", "set": "Fate Reforged", "note": "Same cycle; red-green equivalent"},
+    {"name": "Dimir Aqueduct", "set": "Ravnica: City of Guilds", "note": "Older blue-black dual land; enter-tapped bounce mechanic vs. life-gain; predecessor in the budget blue-black mana-fixing lineage"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "metadata_flags": {
+    "mana_cost_present": false,
+    "mana_cost_value": "empty string (correct for Land type)",
+    "color_magic_tags_in_filter": false,
+    "color_magic_tag_value": "n/a — dual-color land uses multicolor-blue-black tag; no individual color-magic tags expected",
+    "notes": "mana_cost absent is correct for lands. multicolor-blue-black tag correctly present."
+  }
+}

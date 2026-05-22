@@ -73,3 +73,15 @@ A massive crab or crustacean-like creature with multiple fin-like appendages ris
 **Iconography:** full moon, ship wreck
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Vexing Scuttler is typed Eldrazi Crab, a creature class introduced in Eldritch Moon (July 2016) to represent Emrakul's corruption of Innistrad's native fauna. Per Mark Rosewater's design column, Emrakul does not spawn new Eldrazi but mutates existing creatures into her image; crabs, herons, and other Innistrad wildlife become hosts for Eldrazi transformation. `[Wizards.com: "Over the Moon, Part 2," 2016-07-04]`
+- **Design** — The emerge mechanic was designed by Rosewater, explicitly modeled on ninjutsu from Betrayers of Kamigawa. Adding a sacrifice cost was intentional: Rosewater described the design goal as capturing an "Alien chestburster feel, that the mutated creature came forth out of the original creature." The colored mana component of the emerge cost cannot be reduced by the sacrificed creature's mana value, which anchors emerge creatures to their color identity despite being colorless permanents. `[Wizards.com: "Over the Moon, Part 2," 2016-07-04]`
+- **Mechanical reputation** — EDHREC rank of 16,726 `[Scryfall]`, reflecting minimal Commander adoption. The card is legal in Pioneer, Modern, Legacy, and Vintage. As an 8-mana 4/5 with a one-time instant-or-sorcery recursion trigger, it is generally regarded as underpowered relative to what Commander decks can access, though it sees occasional inclusion in emerge-tribal lists.
+- **Artist** — Art by James Paick, who has illustrated approximately 345 Magic cards and works as a concept artist for games and film. Scryfall records only one printing of Vexing Scuttler (Eldritch Moon no. 11), making the James Paick art the sole version of this card. `[artofmtg.com: James Paick artist page; Scryfall prints]`
+
+### Related cards
+- Elder Deep-Fiend (Eldritch Moon) — the marquee uncommon/rare emerge creature from the same set; 5/6 Eldrazi Octopus that taps opponents' permanents on cast
+- Wretched Gryff (Eldritch Moon) — common emerge creature in white-blue; same emerge-plus-draw-trigger design pattern
+- Distended Mindbender (Eldritch Moon) — black emerge creature; forces opponent to discard on cast; rounds out the emerge cycle
+- Emrakul, the Promised End (Eldritch Moon) — the Eldrazi titan whose presence on Innistrad drives the entire set's mutation and emerge theme

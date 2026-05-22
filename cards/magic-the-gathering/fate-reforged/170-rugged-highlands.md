@@ -50,6 +50,8 @@ image_quality: high
 mood: sublime
 time_of_day: twilight
 setting: mountain
+characters:
+  - refuges-cycle
 tags:
   - card
   - vision-passed
@@ -72,3 +74,15 @@ A sweeping mountain landscape painting. Two massive rocky peaks dominate the upp
 **Emotion read:** grand, vast, imposing silence
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Rugged Highlands originates in Khans of Tarkir (no. 240) as part of the ten-card common gain land cycle. The Fate Reforged reprint features new art by Eytan Zana depicting the same Tarkir mountain region 1,280 years in the past, the era before the clans defeated the dragon warlords. `[MTG Wiki: Fate Reforged (mtg.wiki); Scryfall]`
+- **Design** — Eytan Zana has illustrated Rugged Highlands across at least 10 of the card's 17 total printings (Khans of Tarkir, Fate Reforged, Eternal Masters, Commander 2016, Commander 2019, Core Set 2019, Core Set 2020, Duel Decks: Mind vs. Might, Ikoria, Zendikar Rising Commander, and Foundations), making him effectively the definitive artist for this card across a decade. `[Scryfall prints]`
+- **Mechanical reputation** — EDHREC rank of 1,345 `[Scryfall]`; legal in all currently active formats including Pauper and Standard. Scryfall records 17 printings as of 2026, including Warhammer 40,000 Commander and Tarkir: Dragonstorm. Red-green (Gruul) mana fixing at common is perpetually in demand for creature-heavy Commander lists. `[Scryfall]`
+
+### Related cards
+- Rugged Highlands (Khans of Tarkir, no. 240) — original printing; same oracle text, Zana art showing the same location in the present Khans timeline
+- Bloodfell Caves (Fate Reforged) — same tapland cycle; black-red equivalent
+- Blossoming Sands (Fate Reforged) — same cycle; green-white equivalent
+- Dismal Backwater (Fate Reforged) — same cycle; blue-black equivalent
+- Gruul Turf (Ravnica: City of Guilds) — older red-green dual land; enter-tapped bounce mechanic vs. life-gain; earlier entry in the budget red-green mana-fixing lineage

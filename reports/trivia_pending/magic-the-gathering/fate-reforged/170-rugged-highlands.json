@@ -1,0 +1,45 @@
+{
+  "card_name": "Rugged Highlands",
+  "game": "Magic: The Gathering",
+  "set": "Fate Reforged",
+  "collector_number": "170",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rugged Highlands originates in Khans of Tarkir (no. 240) and was reprinted in Fate Reforged with new art by Eytan Zana depicting the same mountain location 1,280 years in the past. Eytan Zana also illustrated the Ikoria, Commander 2016, Commander 2019, Core Set 2019, Core Set 2020, Duel Decks: Mind vs. Might, Eternal Masters, and Zendikar Rising Commander versions. [Scryfall prints; MTG Wiki: Fate Reforged]",
+      "sources": ["Scryfall prints search", "MTG Wiki: Fate Reforged (mtg.wiki)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rugged Highlands has an EDHREC rank of 1,345 and is legal in all currently active formats including Pauper and Standard. Scryfall records 17 printings as of 2026, including Warhammer 40,000 Commander and Tarkir: Dragonstorm. Red-green is the Gruul color pair; this is among the cheapest legal mana fixers for Gruul Commander lists. [Scryfall]",
+      "sources": ["Scryfall (EDHREC rank, legalities, prints count)"]
+    },
+    {
+      "category": "design",
+      "text": "Eytan Zana has illustrated Rugged Highlands across more printings than any other artist on this card (10 of 17 total), making it effectively his signature card in the tapland cycle. Zana's other Fate Reforged-and-adjacent work includes Foundations (no. 265). [Scryfall prints search]",
+      "sources": ["Scryfall prints search"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rugged Highlands", "set": "Khans of Tarkir", "note": "Original printing (no. 240); same oracle text, different art showing same location in present timeline"},
+    {"name": "Bloodfell Caves", "set": "Fate Reforged", "note": "Same tapland cycle; black-red equivalent"},
+    {"name": "Blossoming Sands", "set": "Fate Reforged", "note": "Same cycle; green-white equivalent"},
+    {"name": "Dismal Backwater", "set": "Fate Reforged", "note": "Same cycle; blue-black equivalent"},
+    {"name": "Gruul Turf", "set": "Ravnica: City of Guilds", "note": "Older red-green dual land; enter-tapped bounce mechanic vs. life-gain; predecessor in the budget red-green mana-fixing lineage"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "metadata_flags": {
+    "mana_cost_present": false,
+    "mana_cost_value": "empty string (correct for Land type)",
+    "color_magic_tags_in_filter": false,
+    "color_magic_tag_value": "n/a — dual-color land uses multicolor-red-green tag; no individual color-magic tags expected",
+    "notes": "mana_cost absent is correct for lands. multicolor-red-green tag correctly present."
+  }
+}

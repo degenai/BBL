@@ -1,0 +1,50 @@
+{
+  "card_name": "Bloodfell Caves",
+  "game": "Magic: The Gathering",
+  "set": "Fate Reforged",
+  "collector_number": "165",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Bloodfell Caves originates in Khans of Tarkir (no. 229), where it was part of a ten-land dual-color cycle of common gain lands introduced for the multicolor block's mana-fixing needs. It was reprinted in Fate Reforged with new artwork by the same artist, Adam Paquette, depicting the same Tarkir location 1,280 years in the past (the Fate Reforged timeline). [MTG Wiki: Fate Reforged; Wizards.com: 'A Fetching Look at Fate Reforged', 2014-12-24]",
+      "sources": ["MTG Wiki: Fate Reforged (mtg.wiki)", "Wizards.com: A Fetching Look at Fate Reforged (2014-12-24)", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "In Fate Reforged boosters, the basic land slot was replaced by reprints of the ten Khans of Tarkir dual lands, all with new artwork. This was a deliberate design decision to maintain mana fixing for a block drafted with both Khans of Tarkir and Dragons of Tarkir, similar to how Return to Ravnica dual lands appeared in Dragon's Maze boosters. [Wizards.com: 'A Fetching Look at Fate Reforged', 2014-12-24]",
+      "sources": ["Wizards.com: A Fetching Look at Fate Reforged (2014-12-24)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Bloodfell Caves has an EDHREC rank of 890, placing it among the most-used common lands in Commander. It is legal in every currently active format (Standard, Pioneer, Modern, Legacy, Vintage, Commander, Pauper). As of 2026, Scryfall records 15 printings across sets including Foundations, Core Set 2021, Commander precons, and Eternal Masters. [Scryfall]",
+      "sources": ["Scryfall (EDHREC rank, legalities, prints)"]
+    },
+    {
+      "category": "design",
+      "text": "Adam Paquette illustrated Bloodfell Caves for both Khans of Tarkir and Fate Reforged, as well as for Core Set 2019, Core Set 2020, Core Set 2021, Commander 2017, Commander 2019, and Eternal Masters. Paquette has been a consistent MTG landscape contributor since 2011. Hipsters of the Coast ran a multi-part interview series with him in 2019 and 2020, noting his background in fine arts and oil painting. [Hipsters of the Coast: 'Promised Lands with Adam Paquette, Part I', 2019-06-xx; Scryfall prints]",
+      "sources": ["Hipsters of the Coast: Promised Lands with Adam Paquette Part I (2019)", "Scryfall prints search"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bloodfell Caves", "set": "Khans of Tarkir", "note": "Original printing (no. 229); same oracle text, different art by same artist showing same location in present timeline"},
+    {"name": "Dismal Backwater", "set": "Fate Reforged", "note": "Same ten-card tapland cycle; blue-black equivalent"},
+    {"name": "Blossoming Sands", "set": "Fate Reforged", "note": "Same cycle; green-white equivalent"},
+    {"name": "Rugged Highlands", "set": "Fate Reforged", "note": "Same cycle; red-green equivalent"},
+    {"name": "Jungle Hollow", "set": "Fate Reforged", "note": "Same cycle; black-green equivalent"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "metadata_flags": {
+    "mana_cost_present": false,
+    "mana_cost_value": "empty string (correct for Land type)",
+    "color_magic_tags_in_filter": false,
+    "color_magic_tag_value": "n/a — dual-color land uses multicolor-black-red tag; no individual color-magic tags expected",
+    "notes": "mana_cost absent is correct for lands per Scryfall (empty string). multicolor-black-red tag correctly present. No individual color-magic tag needed."
+  }
+}

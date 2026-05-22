@@ -1,0 +1,49 @@
+{
+  "card_name": "Vexing Scuttler",
+  "game": "Magic: The Gathering",
+  "set": "Eldritch Moon",
+  "collector_number": "11",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vexing Scuttler is typed as Eldrazi Crab, a creature class that represents Emrakul's corruption of Innistrad's native fauna rather than a true Eldrazi spawn. The Eldritch Moon set design concept, per Mark Rosewater's Making Magic column, was that Emrakul does not create new Eldrazi but mutates existing creatures into her image. [Wizards.com: 'Over the Moon, Part 2', 2016-07-04]",
+      "sources": ["Wizards.com: Over the Moon Part 2 (2016-07-04)", "Scryfall type_line"]
+    },
+    {
+      "category": "design",
+      "text": "The emerge mechanic, which Vexing Scuttler carries, was designed by Mark Rosewater and is explicitly inspired by the ninjutsu mechanic from Betrayers of Kamigawa. The sacrifice-then-emerge structure was intended to evoke an 'Alien chestburster feel' per Rosewater's own description in his design column. The colored mana component of the emerge cost cannot be reduced by the sacrificed creature's mana value, keeping emerge creatures anchored to their color identity. [Wizards.com: 'Over the Moon, Part 2', 2016-07-04]",
+      "sources": ["Wizards.com: Over the Moon Part 2 (2016-07-04)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Vexing Scuttler has an EDHREC rank of 16,726 [Scryfall], indicating low Commander adoption. Its emerge cost of {6}{U} combined with a base cost of {8} makes it a 4/5 that recurs one instant or sorcery, which is evaluated as underpowered relative to Commander card density standards. Pioneer and Modern legal. [Scryfall]",
+      "sources": ["Scryfall (EDHREC rank, legalities)"]
+    },
+    {
+      "category": "design",
+      "text": "James Paick is the sole artist on this card. Scryfall records only one printing of Vexing Scuttler (Eldritch Moon no. 11), making this a non-reprinted card. Paick has illustrated approximately 345 cards for Magic: The Gathering and also works as a concept artist for video games and film. [artofmtg.com: James Paick artist page; Scryfall prints search]",
+      "sources": ["artofmtg.com: James Paick artist page", "Scryfall prints search"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Elder Deep-Fiend", "set": "Eldritch Moon", "note": "Another emerge creature from the same set; 5/6 flash Eldrazi Octopus that taps opponent's permanents on cast"},
+    {"name": "Wretched Gryff", "set": "Eldritch Moon", "note": "Common emerge creature in white-blue; same emerge-plus-trigger design structure as Vexing Scuttler"},
+    {"name": "Distended Mindbender", "set": "Eldritch Moon", "note": "Black emerge creature; forces opponent to discard on cast; completes the blue/black emerge cycle at uncommon and rare"},
+    {"name": "Emrakul, the Promised End", "set": "Eldritch Moon", "note": "The Eldrazi titan whose presence on Innistrad motivates the entire set's mutation theme and emerge mechanic"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "metadata_flags": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{8}",
+    "color_magic_tags_in_filter": true,
+    "color_magic_tag_value": "blue-magic",
+    "notes": "mana_cost and blue-magic tag both correctly present in frontmatter"
+  }
+}
