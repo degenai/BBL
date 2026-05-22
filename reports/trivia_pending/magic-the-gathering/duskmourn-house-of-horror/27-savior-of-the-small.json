@@ -1,0 +1,47 @@
+{
+  "card_name": "Savior of the Small",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "27",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Savior of the Small is typed as a Kor Survivor — the Kor are a creature type with strong roots in Zendikar, where they developed as nomadic humanoids. Their presence in Duskmourn is unexplained by a native origin; the MTG Wiki notes that Kor in Duskmourn are possibly not native to the plane, suggesting they may have been pulled from Zendikar into the House. [Kor — MTG Wiki, via WebSearch snippet; Scryfall type_line]",
+      "sources": ["Kor — MTG Wiki, via WebSearch snippet", "Scryfall type_line"]
+    },
+    {
+      "category": "design",
+      "text": "The Survival mechanic, introduced in Duskmourn: House of Horror, is an ability word appearing on 13 cards in the set. Per official mechanic coverage, Survival abilities trigger at the beginning of the controller's second main phase if the creature is already tapped — the creature must have been tapped before that phase begins, and the ability checks again on resolution whether the creature is still tapped. The mechanic appears almost exclusively on white and green creatures, with a single black outlier. It represents survivors' tenacity — the idea that creatures who fought through combat (thus tapped) are rewarded. [Duskmourn Mechanics Overview: Survival, CoolStuffInc, Frank Lepore, 2024-09-30; Scryfall oracle_text]",
+      "sources": ["CoolStuffInc: Duskmourn Mechanics Overview — Survival, Frank Lepore (2024-09-30)", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"You're safe, kiddo! For at least the next ten minutes. That's about all I can promise.\" The line captures the gallows humor of survival horror — the rescuer cannot promise safety, only a brief reprieve. Artist Elizabeth Peiro posted the completed art to her X account on September 9, 2024, crediting art director Forrest Schehl. [Elizabeth Peiro, @ElizabethPeiro on X, 2024-09-09; Scryfall]",
+      "sources": ["Elizabeth Peiro, @ElizabethPeiro on X, 2024-09-09 (twitter.com/ElizabethPeiro/status/1833087990567944220)", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Savior of the Small is a 3/4 for four mana in white, with an EDHREC rank of 16609 — a niche Commander inclusion rather than a staple. Its Survival trigger returns a creature with mana value 3 or less to hand (not battlefield), making it a slow recursion engine that pairs well with cheap sacrifice fodder or enters-the-battlefield value creatures. Not legal in Pauper or Pauper Commander. [Scryfall; EDHREC rank via Scryfall API]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Defiant Survivor", "set": "Duskmourn: House of Horror", "note": "Another DSK Survivor-type creature with Survival mechanic"},
+    {"name": "Rootwise Survivor", "set": "Duskmourn: House of Horror", "note": "G/W Survivor creature in the same DSK Survival cycle"},
+    {"name": "Glimmer Seeker", "set": "Duskmourn: House of Horror", "note": "DSK white creature that also appeared in early Survival mechanic spoilers"},
+    {"name": "Kor Skyfisher", "set": "Zendikar", "note": "Classic white Kor common; shares the creature type with Savior of the Small"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_missing": false,
+    "correct_mana_cost": "{3}{W}",
+    "note": "mana_cost already present in frontmatter. tags_filter contains white-magic. No triage issue."
+  }
+}

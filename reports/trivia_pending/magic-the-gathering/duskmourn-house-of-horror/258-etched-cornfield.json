@@ -1,0 +1,47 @@
+{
+  "card_name": "Etched Cornfield",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "258",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Etched Cornfield is part of Duskmourn's ten-card \"unlucky lands\" cycle of common dual lands, all of which enter tapped unless a player has 13 or less life. The number 13 is a deliberate triskaidekaphobia motif running through the set. The cycle was previewed September 2, 2024 by CoolStuffInc as an exclusive. [CoolStuffInc: \"Ten New Common Dual Lands in Duskmourn: House of Horrors,\" Paige Smith, 2024-09-02; Unlucky land — MTG Wiki, via WebSearch snippet]",
+      "sources": ["CoolStuffInc: Ten New Common Dual Lands in Duskmourn, Paige Smith (2024-09-02)", "Unlucky land — MTG Wiki, via WebSearch snippet", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Randy Gallegos illustrated multiple land cards for Duskmourn, including Etched Cornfield and Floodfarm Verge. In a post on his personal blog (gallegosart.com, August 30, 2024) discussing his Duskmourn work, Gallegos noted that Floodfarm Verge was his favorite of the three pieces he contributed. Gallegos has a long MTG illustration career spanning sets including Lord of the Rings: Tales of Middle-earth, Doctor Who, Ravnica Allegiance, Modern Horizons 3, and The Lost Caverns of Ixalan. [Randy Gallegos, gallegosart.com blog post, 2024-08-30; WebSearch result]",
+      "sources": ["Randy Gallegos artist blog: gallegosart.com/blog/2024/8/30/duskmourn-pt-1", "WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"They say those who lose their way in the fields gradually wither and grow brittle, until at last they put down roots and anchor into the soil as a whispering stalk.\" The flavor describes transformation-into-plant as punishment for getting lost, consistent with the plane's predatory-terrain design: the House's cornfields absorb wanderers. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Etched Cornfield produces green or white mana. Its EDHREC rank of 10669 is modestly lower than Bleeding Woods (9521), reflecting that the G/W color pairing while useful is less universally splashable than R/G in Commander mana bases. Legal in Pauper, making it one of the few dual-mana sources at common available in that format. [Scryfall legalities and EDHREC rank via Scryfall API]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bleeding Woods", "set": "Duskmourn: House of Horror", "note": "Cycle mate in the unlucky lands cycle; R/G colors"},
+    {"name": "Floodfarm Verge", "set": "Duskmourn: House of Horror", "note": "Also by Randy Gallegos; his stated favorite of his DSK land pieces"},
+    {"name": "Triskaidekaphobia", "set": "Shadows over Innistrad", "note": "Design predecessor — the number 13 as a mechanical trigger, from Innistrad's earlier horror-themed set"},
+    {"name": "Sunlit Marsh", "set": "Innistrad: Midnight Hunt", "note": "Earlier common dual land with \"unless\" life-total condition; predecessor design lineage to unlucky lands"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_missing": true,
+    "correct_mana_cost": "",
+    "note": "Land card — mana_cost is empty string per Scryfall (CMC 0.0). tags_filter already contains green-magic and white-magic. No correction needed."
+  }
+}

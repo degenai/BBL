@@ -1,0 +1,32 @@
+{
+  "edge_id": "savior-of-the-small-dsk27--dsk-survival-archetype-cohort-attach",
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/27-savior-of-the-small.md", "name": "Savior of the Small (DSK-27)"},
+    {"type": "character", "path": "cards/_characters/dsk-survival-archetype.md", "name": "Survival archetype cohort (Duskmourn improvised-weapon survivors and their tools)"}
+  ],
+  "description": "Savior of the Small carries two of the cohort node's three membership signals printed verbatim: a Creature - Kor Survivor type-line and a Survival ability-word trigger in oracle text. The node's own Caveats section already named 'Savior of the Small' as a cohort-eligible member awaiting acquisition - so this is the graph cashing a check it wrote itself. One clean stack attach onto an existing designer-coordinated cohort. No card-to-card edge: Wizards (Tabak mechanics article + Rosewater design diaries) designed Survival as a unit, the anchor exists, the card points at it. The only sigh is that Savior is typed Kor Survivor not Human Survivor - which is actually a feature, it gives the cohort its first non-Human and first graveyard-recursion Survival member, the caretaker-survivor pole next to Defiant's fight and Norin's flight.",
+  "citations": [
+    "[Scryfall: type_line Creature - Kor Survivor; oracle_text 'Survival - At the beginning of your second main phase...']",
+    "[CoolStuffInc: 'Duskmourn Mechanics Overview: Survival,' Frank Lepore, 2024-09-30]",
+    "[Wizards of the Coast: Matt Tabak, 'Duskmourn Mechanics,' 2024-08-31 - Survival ability word + Survivor subtype]",
+    "[Cohort anchor: cards/_characters/dsk-survival-archetype.md - Caveats section pre-named Savior of the Small]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/27-savior-of-the-small.md",
+    "cards/_characters/dsk-survival-archetype.md"
+  ],
+  "edges_removed": [],
+  "edges_added": [
+    "27-savior-of-the-small --characters--> dsk-survival-archetype",
+    "dsk-survival-archetype --appears_on--> 27-savior-of-the-small"
+  ],
+  "other_candidates_considered": [
+    "Etched Cornfield 258 -> dsk-unlucky-lands-cycle: already fully wired (frontmatter characters: pointer + node appears_on + dedicated node-body member paragraph). No edge needed - parent's flag was a verify-don't-write case and it verifies clean.",
+    "Bleeding Woods 257 -> dsk-unlucky-lands-cycle: same, already wired AND already carries a 1:1 visual-iconography Connections edge to 266-raucous-carnival from a prior pass. Verified clean.",
+    "Savior of the Small <-> Defiant Survivor 1:1 affective-pole edge (protect / fight / flight): a real connection but it would be a duplicate edge pointing at the absent center the cohort node already IS. Correctly subsumed by the stack attach. If a Discrete Lair is ever built on this cohort, the protect-fight-flight affective spectrum is bundle why_it_fits prose, not a card-to-card edge."
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

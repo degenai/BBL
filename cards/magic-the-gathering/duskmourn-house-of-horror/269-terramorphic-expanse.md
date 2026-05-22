@@ -72,3 +72,15 @@ A surreal cutaway view of a house interior where architecture, gravity, and pers
 **Iconography:** staircase, fractured-architecture, candle-lights, sheeted-form
 **Genre cues:** gothic-horror, liminal-space, surreal, dark-fantasy, dollhouse
 
+## Trivia
+
+- **Design** — Terramorphic Expanse was first printed in Time Spiral (TSP, 2006, collector no. 279), illustrated by Dan Murayama Scott. The DSK printing is illustrated by Sam Burley. Scryfall tracks 66 total unique printings of this card across paper, MTGO, and Arena products — placing it among Magic's most-reprinted cards ever. Sam Burley also painted it for Tarkir: Dragonstorm Commander (TDC, 2025). `[Scryfall prints search API (oracle_id: 1bd3e453-aa21-4ee6-95c2-d6d920ee8e7a)]`
+- **Mechanical** — Terramorphic Expanse is a Commander-format cornerstone: EDHREC tracks it in approximately 1,310,425 decks and Scryfall gives it an EDHREC rank of 28, placing it in the top tier of all Commander-legal non-basic lands. It is legal in every sanctioned format including Pauper, excluding only Old School and Pre-Modern. Evolving Wilds (Zendikar, 2010) is a functional reprint but Terramorphic Expanse predates it by four years. `[Scryfall; EDHREC via WebSearch snippet (edhrec.com/cards/terramorphic-expanse)]`
+- **Flavor text** — "The House's geography constantly warps and twists, fields melting into floorboards and walls opening into hungry maws." This flavor text is unique to the DSK printing. It directly names the set's defining mechanic — a plane that is entirely a haunted house — and connects Terramorphic Expanse's basic-land-fetching function to the House's reality-warping architecture: any basic land in your library is just another room in the same infinite building. `[Scryfall]`
+- **Set lore** — Duskmourn's plane-concept (a single haunted house as an entire plane) was established in vision design led by Annie Sardelis. The handoff document explicitly describes floating doors and windows appearing even in forests and wheat fields to remind players they are still inside the House. The DSK Terramorphic Expanse art — an impossible dollhouse-cutaway interior — literalizes this: searching for basic lands is searching the House's own impossible geography. `[Wizards of the Coast: "Duskmourn: House of Horror Vision Design Handoff, Part 1," magic.wizards.com]`
+
+### Related cards
+- Evolving Wilds (Multiple printings) — functional reprint; first printed Rise of the Eldrazi (2010)
+- Terramorphic Expanse (Time Spiral, no. 279) — original 2006 printing; artist Dan Murayama Scott
+- Prismatic Vista (Modern Horizons) — upgraded fetch variant; same basic-land-search without ETB-tapped penalty
+- Fabled Passage (Throne of Eldraine) — upgraded version that enters untapped if you control four or more lands

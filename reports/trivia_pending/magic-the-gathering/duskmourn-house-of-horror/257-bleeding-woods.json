@@ -1,0 +1,47 @@
+{
+  "card_name": "Bleeding Woods",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "257",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Bleeding Woods is part of the \"unlucky lands\" cycle, a full set of ten new common dual lands introduced in Duskmourn: House of Horror (released 2024-09-27). The cycle's shared mechanic — entering untapped only when a player has 13 or less life — is a direct reference to triskaidekaphobia, the fear of the number 13, woven throughout the set's horror theme. The name of the cycle among players and vendors is \"unlucky lands.\" [CoolStuffInc preview article by Paige Smith, 2024-09-02; Unlucky land — MTG Wiki, via WebSearch snippet]",
+      "sources": ["CoolStuffInc: Ten New Common Dual Lands in Duskmourn, Paige Smith (2024-09-02)", "Unlucky land — MTG Wiki, via WebSearch snippet", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Bleeding Woods produces red or green mana and is legal in Standard, Pioneer, Modern, Legacy, Vintage, Pauper, and Commander as of its release date [Scryfall legalities]. Its EDHREC rank of 9521 places it in the lower-middle range of Commander utility compared to its cycle mate Etched Cornfield (rank 10669), suggesting modest Commander adoption — the 13-life trigger is rarely relevant in Commander's 40-life format. [Scryfall; EDHREC via Scryfall rank field]",
+      "sources": ["Scryfall", "EDHREC rank via Scryfall API response"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"They say if someone lies down to sleep beneath the trees, in the morning nothing will remain but a few scattered bones and a bed of blood-red lilies.\" The flavor describes the forest as predatory — the land itself consuming anyone who rests in it. This fits the Duskmourn plane's design premise: even the natural terrain is subsumed into the House's appetite. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Duskmourn was designed as Magic's first top-down modern horror set, focused on 1970s-1980s horror media rather than the Gothic horror of Innistrad. Vision design was led by Annie Sardelis (internal codename \"Swimming\"); the set's creative premise — a single haunted house as an entire plane — dictated that even outdoor environments like forests and fields would bear the visual language of the House (floating windows, architectural frames embedded in organic surfaces). [Wizards of the Coast: \"Duskmourn: House of Horror Vision Design Handoff, Part 1,\" magic.wizards.com]",
+      "sources": ["Wizards of the Coast: Duskmourn Vision Design Handoff Part 1, magic.wizards.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Etched Cornfield", "set": "Duskmourn: House of Horror", "note": "Cycle mate in the unlucky lands cycle; same enter-tapped-unless-13-life mechanic, G/W colors"},
+    {"name": "Raucous Carnival", "set": "Duskmourn: House of Horror", "note": "Already linked in Connections section — same haunted-architecture-bleed visual motif"},
+    {"name": "Triskaidekaphobia", "set": "Shadows over Innistrad", "note": "Thematic predecessor card built around the number 13; Duskmourn's unlucky lands inherit this design thread"},
+    {"name": "Floodfarm Verge", "set": "Duskmourn: House of Horror", "note": "Another DSK dual land by Randy Gallegos (Gallegos notes it as his favorite of his Duskmourn pieces)"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_missing": true,
+    "correct_mana_cost": "",
+    "note": "Land card — mana_cost is empty string per Scryfall (CMC 0.0, no mana cost on lands). tags_filter already contains red-magic and green-magic. No correction needed for mana_cost; color tags are present."
+  }
+}

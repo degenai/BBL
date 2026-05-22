@@ -1,0 +1,47 @@
+{
+  "card_name": "Terramorphic Expanse",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "269",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Terramorphic Expanse was first printed in Time Spiral (TSP, 2006, collector no. 279), illustrated by Dan Murayama Scott. The DSK printing (2024-09-27) is illustrated by Sam Burley, and is one of 66 total printings of the card across paper, MTGO, and Arena products as of 2026 — placing it among Magic's most-reprinted cards. Sam Burley also painted the card's printing in Tarkir: Dragonstorm Commander (TDC, 2025). [Scryfall prints search via API]",
+      "sources": ["Scryfall prints API (oracle_id: 1bd3e453-aa21-4ee6-95c2-d6d920ee8e7a)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Terramorphic Expanse is one of the most-played non-basic lands in Commander: EDHREC tracks it in approximately 1,310,425 decks (as cited in WebSearch results referencing EDHREC), giving it an EDHREC rank of 28 per Scryfall — placing it in the top tier of all Commander-legal non-basics. It is legal in every sanctioned format except Old School and Pre-Modern. Unlike Evolving Wilds (a functional reprint), Terramorphic Expanse predates it and historically commanded a slight premium due to name recognition. [Scryfall legalities; EDHREC via WebSearch]",
+      "sources": ["Scryfall", "EDHREC via WebSearch snippet (edhrec.com/cards/terramorphic-expanse)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text on the DSK printing: \"The House's geography constantly warps and twists, fields melting into floorboards and walls opening into hungry maws.\" The flavor text is unique to this printing and explicitly references Duskmourn's defining premise: a plane that is entirely a haunted house, where outdoor terrain continuously transforms into interior architecture. Earlier printings of Terramorphic Expanse carry different or no flavor text. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Duskmourn plane is Magic's first plane set entirely within a single haunted house structure. Vision design (led by Annie Sardelis, internal codename \"Swimming\") established that even forests and fields on Duskmourn are still inside the House — floating doors and windows appear throughout all environments to signal this. The Terramorphic Expanse art (an impossible dollhouse-cutaway interior with multiply-oriented rooms) literalizes this mechanic: basic lands from anywhere in your library are part of the same infinite, warping building. [Wizards of the Coast: Duskmourn Vision Design Handoff Part 1, magic.wizards.com]",
+      "sources": ["Wizards of the Coast: Duskmourn Vision Design Handoff Part 1, magic.wizards.com"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Evolving Wilds", "set": "Multiple", "note": "Functional reprint of Terramorphic Expanse first printed in Rise of the Eldrazi (2010); often appears in the same sets"},
+    {"name": "Terramorphic Expanse", "set": "Time Spiral", "note": "Original 2006 printing; artist Dan Murayama Scott"},
+    {"name": "Prismatic Vista", "set": "Modern Horizons", "note": "Upgraded fetch variant; same basic-land-search effect without ETB-tapped penalty"},
+    {"name": "Fabled Passage", "set": "Throne of Eldraine", "note": "Upgraded version that enters untapped if you control four or more lands"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_missing": true,
+    "correct_mana_cost": "",
+    "note": "Colorless land — mana_cost is empty string per Scryfall (CMC 0.0, no color identity). tags_filter contains 'colorless'. No mana_cost to add; no color-magic tags needed or expected. No triage issue."
+  }
+}

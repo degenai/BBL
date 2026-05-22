@@ -76,3 +76,15 @@ A split-panel image showing two distinct but thematically linked interiors. On t
 **Objects:** surgical table, hanging implement, metal bed frame, floor lamp, cabinet, curtains, draped sheets
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Design** — Room is a card type introduced in Duskmourn: House of Horror representing the first split cards that are permanents in Magic's history. All previous split cards were instants or sorceries. Each Room has two named halves (doors); you cast one door to put the Room on the battlefield with that door unlocked, then may later pay the cost of the other door to unlock it. Surgical Suite // Hospital Room was previewed September 11, 2024 by streamer luastardust. `[Scryfall preview field]` `[Card Kingdom Blog: "Rooms Rumination — Unlocking Duskmourn's Split-Card Design"]` `[Wizards of the Coast: Duskmourn House of Horror Mechanics, magic.wizards.com]`
+- **Set lore** — The Room mechanic was designed to express the kinetic experience of moving through a haunted house: unlocking one door to enter, then discovering what lies through a second door inside the same room. Annie Sardelis's vision design handoff document for Duskmourn explicitly identifies this two-stage access as central to the set's haunted-house premise. Enchantments were chosen over lands for Room cards because enchantments carry lingering, atmospheric presence in a way lands cannot. `[Wizards of the Coast: "Duskmourn: House of Horror Vision Design Handoff, Part 1," magic.wizards.com]`
+- **Mechanical** — Surgical Suite's first door ({1}{W}) returns a creature with mana value 3 or less from the graveyard directly to the battlefield — a premium white reanimation effect at two mana. Hospital Room's second door ({3}{W}) then provides a persistent combat pump (+1/+1 counter on a target attacker each turn). EDHREC rank 8502 reflects moderate Commander adoption for a card whose Surgical Suite door competes with Unearth effects and Reveillark synergies. `[Scryfall oracle_text (both faces)]` `[EDHREC rank via Scryfall API]`
+- **Design** — Both faces are illustrated by Titus Lunter, a Dutch illustrator whose MTG bibliography includes the original Sunken Hollow and Canopy Vista (Battle for Zendikar) and multiple Innistrad pieces. Having one artist render both halves of a Room preserves visual continuity: the two rooms read as parts of the same deteriorated building. `[Scryfall artist fields (both card_faces)]`
+
+### Related cards
+- Dollhouse of Horrors (Innistrad: Crimson Vow) — haunted-house enchantment artifact with parallel atmospheric register; pre-Duskmourn
+- Sunken Hollow (Battle for Zendikar) — Titus Lunter land art; shares the artist with Surgical Suite // Hospital Room
+- Flesh // Blood (Dragon's Maze) — split card with fuse; predecessor design space for two-part permanents
+- Invasion of Arcavios (March of the Machine) — Siege card; another two-stage permanent type that prefigures Room's design logic

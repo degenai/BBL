@@ -33,6 +33,8 @@ tags_filter:
   - female-figure
 symbols:
   - survival
+characters:
+  - dsk-survival-archetype
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/27-savior-of-the-small.png
 average_cost_paid: 0
 market_price: 0.1
@@ -77,3 +79,15 @@ A blue-skinned humanoid figure dominates the upper half of the composition, crou
 **Objects:** blade, shattered boards
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set lore** — Savior of the Small is typed Kor Survivor. The Kor are a creature type with deep roots in Zendikar, where they developed as nomadic humanoids adapted to a hostile plane. Their presence in Duskmourn is not explained by a native origin: per MTG Wiki, Kor in Duskmourn are possibly not native to the plane, suggesting they were pulled into the House from another plane. `[Kor — MTG Wiki, via WebSearch snippet]` `[Scryfall type_line]`
+- **Design** — The Survival mechanic is an ability word appearing on 13 cards in Duskmourn: House of Horror, almost exclusively on white and green creatures (with a single black exception). Survival abilities trigger at the beginning of your second main phase if the creature is already tapped at that moment — if you tap it after the second main phase starts, the ability does not trigger. The mechanic rewards creatures that fought in combat (and thus are tapped) with value at the end of the turn. `[CoolStuffInc: "Duskmourn Mechanics Overview: Survival," Frank Lepore, 2024-09-30]`
+- **Flavor text** — "You're safe, kiddo! For at least the next ten minutes. That's about all I can promise." The line delivers gallows-humor survival-horror tone: a rescuer who cannot offer real safety, only momentary reprieve. Artist Elizabeth Peiro posted the finished art to her X account on September 9, 2024, crediting art director Forrest Schehl. `[Elizabeth Peiro, @ElizabethPeiro on X, 2024-09-09]` `[Scryfall]`
+- **Mechanical** — A 3/4 for {3}{W} with a recursion trigger. EDHREC rank 16609 puts it in niche Commander use rather than staple territory. Its Survival trigger returns a creature with mana value 3 or less to hand (not battlefield), making it a slower recursion loop suited to builds with cheap enters-the-battlefield creatures or sacrifice payoffs. Not legal in Pauper or Pauper Commander. `[Scryfall]`
+
+### Related cards
+- Defiant Survivor (Duskmourn: House of Horror) — another DSK Survivor-typed creature with the Survival mechanic
+- Rootwise Survivor (Duskmourn: House of Horror, no. 196) — G/W Survivor in the same Survival cycle
+- Glimmer Seeker (Duskmourn: House of Horror, no. 14) — white DSK creature in the Survival cycle
+- Kor Skyfisher (Zendikar) — classic white Kor common; shares the creature type with Savior of the Small

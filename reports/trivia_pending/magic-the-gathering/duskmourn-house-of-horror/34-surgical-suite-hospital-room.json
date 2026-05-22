@@ -1,0 +1,47 @@
+{
+  "card_name": "Surgical Suite // Hospital Room",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "34",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Room is a card type introduced in Duskmourn: House of Horror representing the first split cards that are permanents in Magic's history. All previous split cards were instants or sorceries. Each Room card has two named halves (called doors); you cast one door to put the Room onto the battlefield with that door unlocked, then may later pay the cost of the other door to unlock it. Surgical Suite // Hospital Room was previewed September 11, 2024 by streamer luastardust. [Scryfall preview field; Rooms Rumination — Card Kingdom Blog; Wargamer, 'MTG Duskmourn reveals its biggest new mechanic, Rooms'; Duskmourn Vision Design Handoff Part 1, magic.wizards.com]",
+      "sources": ["Scryfall preview source: luastardust (twitter.com/luastardust/status/1833868578442957285, 2024-09-11)", "Card Kingdom Blog: Rooms Rumination — Unlocking Duskmourn's Split-Card Design", "Wizards of the Coast: Duskmourn Vision Design Handoff Part 1"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Room mechanic was designed to represent the kinetic experience of moving through a haunted house — unlocking the first door to enter a room, then discovering what lies beyond a second door inside. The Duskmourn vision design handoff document (written by lead vision designer Annie Sardelis) explicitly identifies this dual-access quality as key to capturing the feeling of a haunted house plane. Enchantments were chosen over lands for Room cards because, as noted in official mechanics coverage, enchantments can carry lingering, atmospheric effects in a way lands cannot. [Wizards of the Coast: Duskmourn Vision Design Handoff Part 1, magic.wizards.com; Duskmourn: House of Horror Mechanics, magic.wizards.com]",
+      "sources": ["Wizards of the Coast: Duskmourn Vision Design Handoff Part 1, magic.wizards.com", "Wizards of the Coast: Duskmourn House of Horror Mechanics, magic.wizards.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Surgical Suite's first door ({1}{W}) returns a creature with mana value 3 or less from your graveyard directly to the battlefield — a powerful reanimation effect at low cost. Hospital Room's second door ({3}{W}) then turns the enchantment into a persistent combat pump, putting a +1/+1 counter on a target attacker each turn. Combined, the card offers 6 total mana worth of white value split across two incremental investments. EDHREC rank 8502 indicates moderate Commander adoption. [Scryfall oracle_text (both faces); EDHREC rank via Scryfall API]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Both faces of the card are illustrated by Titus Lunter, a Dutch illustrator with an extensive MTG bibliography. Lunter is particularly associated with atmospheric land and environment pieces, including the original Sunken Hollow and Canopy Vista from Battle for Zendikar, and multiple pieces across Innistrad sets. Having a single artist render both halves of a Room card preserves visual continuity across the split — the two rooms appear to occupy the same deteriorated building. [Scryfall artist field (both card faces); Titus Lunter — MTG artist history, via WebSearch]",
+      "sources": ["Scryfall (both card_face artist fields)", "WebSearch: Titus Lunter MTG artist background"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dollhouse of Horrors", "set": "Innistrad: Crimson Vow", "note": "Haunted-house enchantment artifact with similar aesthetic; precursor to Duskmourn's Room type"},
+    {"name": "Sunken Hollow", "set": "Battle for Zendikar", "note": "Titus Lunter land art; same artist as Surgical Suite // Hospital Room"},
+    {"name": "Flesh // Blood", "set": "Dragon's Maze", "note": "Predecessor split card with fuse mechanic — both halves castable in one turn"},
+    {"name": "Invasion of Arcavios", "set": "March of the Machine", "note": "Siege card — another two-stage permanent type introduced in 2023 that prefigures Room's design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_missing": false,
+    "correct_mana_cost": "{1}{W} // {3}{W}",
+    "note": "mana_cost already present in frontmatter. tags_filter contains white-magic. No triage issue."
+  }
+}
