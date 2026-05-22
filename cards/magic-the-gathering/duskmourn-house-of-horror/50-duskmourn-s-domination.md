@@ -31,6 +31,7 @@ tags_filter:
   - enchantment-aura
   - sorcery-or-enchantment
   - no-eyes-visible
+  - blue-magic
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/50-duskmourn-s-domination.png
 average_cost_paid: 0
 market_price: 0.04
@@ -47,6 +48,7 @@ flavor_text: All who enter the House hear Valgavoth's whispers, worming through 
 oracle_text: Enchant creature\nYou control enchanted creature.\nEnchanted creature gets -3/-0 and loses all abilities.
 characters:
   - valgavoth
+mana_cost: "{4}{U}{U}"
 mood: horror
 time_of_day: indeterminate
 setting: void
@@ -74,3 +76,14 @@ A loose, painterly, almost graffiti-style composition rendered in heavy brushwor
 **Iconography:** whispers, spiraling script, halo
 **Genre cues:** fantasy, gothic-horror, psychological-horror
 
+## Trivia
+
+- **Flavor text** — "All who enter the House hear Valgavoth's whispers, worming through their consciousness until they can no longer resist his influence." `[Scryfall]` Valgavoth is the elder moth demon who is both the ruler and the physical substance of Duskmourn — his wings merge with the walls of the House. Per the Planeswalker's Guide, he tailors each horror to the individual victim's deepest fears, making his domination personally targeted rather than generic. `[Wizards.com: Planeswalker's Guide to Duskmourn; mtg.wiki/page/Valgavoth via WebSearch]`
+- **Set context** — Duskmourn's Domination is a thematic anchor card for the set's central antagonist: it names Valgavoth in the title, quotes his whisper-campaign in the flavor text, and mechanically delivers his signature move — permanent psychic dominance expressed as "you control enchanted creature; it loses all abilities." `[Scryfall: name, flavor_text, oracle_text]`
+- **Mechanical profile** — At {4}{U}{U} (cmc 6), this sits in the expensive range for control-steal Auras. Compare Control Magic ({3}{U}) or Volition Reins ({3}{U}{U}) which do similar work for less. The -3/-0 debuff is a minor consolation for the high cost; the main value is losing all abilities on the stolen creature, which disables activated abilities, static abilities, and triggered abilities. EDHREC rank 22,580 reflects it as a flavor inclusion rather than a competitive Commander pick. `[Scryfall mana_cost, cmc, oracle_text, edhrec_rank]`
+- **Design / preview** — Previewed September 10, 2024 by @katiekarlov. Artist Eli Minaya's expressionistic painterly approach — heavy brushwork, abstract indigo-violet palette, calligraphic script halos suggesting invasive whispered text — is visually distinctive relative to the photorealistic-creature norm in DSK, making this one of the more artistically unconventional uncommons in the set. `[Scryfall: preview data; Scryfall: artist]`
+
+### Related cards
+- Valgavoth, Terror Eater (Duskmourn: House of Horror) — the entity named in flavor text; rules the House and is the House
+- Valgavoth's Faithful (Duskmourn: House of Horror) — willing servants of Valgavoth; thematic contrast with the involuntary thralls this Aura creates
+- Control Magic (Revised Edition and reprints) — mechanical ancestor of the control-steal Aura archetype

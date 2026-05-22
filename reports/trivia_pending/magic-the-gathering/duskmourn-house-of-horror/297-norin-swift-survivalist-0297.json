@@ -1,0 +1,54 @@
+{
+  "card_name": "Norin, Swift Survivalist (0297)",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "297",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Norin, Swift Survivalist is canonically the same character as Norin the Wary (Time Spiral, 2006). Scryfall type_line confirms 'Legendary Creature — Human Coward' — the Coward subtype is a direct callback to the original's flavor identity. The character is Wizards/MTG-internal (Dominaria-born human warrior, no external IP). No ## IP block required. The 0297 collector number is the borderless/variant printing of DSK #145.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Norin was first referenced in flavor text on Jade Statue from Limited Edition Alpha (1993) — one of the earliest named characters in Magic lore — before receiving his own card in Time Spiral (2006, collector no. 171). His Duskmourn card marks the first time he has been reprinted as a new legendary since then, nearly 18 years later. [Scryfall: Norin the Wary, TSP #171; WebSearch: magicspoiler.com]",
+      "sources": ["Scryfall: Norin the Wary TSP #171", "WebSearch: magicspoiler.com"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The card's story conceit is that Norin — infamous on Dominaria for fleeing every combat — literally stumbled through an Omenpath door and found himself inside Duskmourn, the sentient horror-plane ruled by Valgavoth. His subtype was upgraded from Human Warrior (TSP) to Human Coward in DSK, a deliberate creature-type callback encoding his defining characteristic. [WebSearch: magicspoiler.com; Scryfall: DSK #145 type_line]",
+      "sources": ["WebSearch: magicspoiler.com lore summary", "Scryfall DSK type_line"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Where Norin the Wary exiles himself whenever any player casts a spell or a creature attacks, making him notoriously difficult to interact with (EDHREC rank 4956 on the original), Norin, Swift Survivalist inverts the cowardice into aggressive utility: he can attack, and when blocked he may exile the blocked creature to replay it immediately, enabling haste re-entry or dodge-and-redeploy tactics. The shift is thematic — even Norin adapts to survive in Duskmourn. [Scryfall: Norin the Wary oracle_text; Scryfall: Norin Swift Survivalist oracle_text; EDHREC rank from Scryfall edhrec_rank field]",
+      "sources": ["Scryfall: Norin the Wary oracle_text", "Scryfall: DSK Norin oracle_text", "Scryfall edhrec_rank"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"I don't know what it was! Why would I stick around to find out?\" — unnamed speaker (Norin), [Scryfall]. The original Norin the Wary's flavor text reads: \"I have a bad feeling about this.\" [Scryfall: TSP #171]. Both cards lean on the same deadpan-coward voice register.",
+      "sources": ["Scryfall: DSK flavor_text", "Scryfall: TSP #171 flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "The 0297 collector number on this copy identifies it as the borderless showcase/variant printing within DSK; the base version is DSK #145. Both printings carry the same oracle text and are legal in the same formats. [Scryfall: collector_number field; retailer listings at nobleknight.com and thegamecornergames.com confirm 0297 variant exists as a separate SKU]",
+      "sources": ["Scryfall collector_number", "WebSearch: nobleknight.com 0297 listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Norin the Wary", "set": "Time Spiral", "note": "Original printing of the same character; coward-exile loop mechanic"},
+    {"name": "Boldwyr Intimidator", "set": "Morningtide", "note": "References the Coward creature subtype that Norin carries"},
+    {"name": "Pyrophobia", "set": "Magic Origins", "note": "Flavor text quotes Norin the Wary directly"},
+    {"name": "Genesis Chamber", "set": "Darksteel", "note": "Classic Norin the Wary combo enabler in older EDH builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Norin the Wary",
+    "ip_confidence": "high"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{R}",
+    "color_magic_tag_in_tags_filter": false,
+    "color_magic_tag_needed": "red-magic",
+    "note": "mana_cost is present ({R}) but tags_filter is missing red-magic tag. Needs sweep."
+  }
+}

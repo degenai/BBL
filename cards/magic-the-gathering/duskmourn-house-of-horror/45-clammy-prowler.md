@@ -53,6 +53,7 @@ time_of_day: indeterminate
 setting: dungeon
 tags:
   - card
+  - vision-passed
 ---
 # Clammy Prowler (Duskmourn: House of Horror)
 
@@ -75,3 +76,13 @@ A hulking creature dominates the frame, its body low and spread wide as it crouc
 **Iconography:** crimson-glow, skull-face, dorsal-spines
 **Genre cues:** horror, fantasy, dark-fantasy
 
+## Trivia
+
+- **Flavor text** — "Sometimes, survivors in the Floodpits hear their own drowning voices crying out for help. Only the ones who flee immediately live to speak of it." `[Scryfall]` The text implies the creature mimics victims' voices to lure additional prey — a sirenic horror lure transposed into a flooded dungeon setting.
+- **Lore context** — The Floodpits are Duskmourn's blue-aligned zone: surreal water-filled architecture, physics-defying rooms, reflective surfaces that generate glitch ghosts, and the operational base of the House Institute faction. This creature inhabits that zone and the flavor text names it explicitly. `[Wizards.com: Planeswalker's Guide to Duskmourn via WebSearch snippet]`
+- **Mechanical identity** — Clammy Prowler is typed as an Enchantment Creature — Horror, the dual-type frame Duskmourn uses throughout to tie creatures to the enchantments-matter (Eerie) theme. At {3}{U} for a 2/5, it trades offensive power for a large blue defensive body with an attack trigger that makes another attacker unblockable. Legal in Pauper and Paupercommander (common rarity), which is uncommon for a 2/5 unblock-enabler at that cost. `[Scryfall: type_line, power/toughness, oracle_text, legalities]`
+- **Design / preview** — Officially previewed by Wizards of the Coast on September 6, 2024. Artist John Tedrick's skull-faced, bioluminescent-chested design echoes deep-sea predators (anglerfish, viperfish) relocated to flooded architecture — a design choice consistent with the Floodpits zone's aquatic-dread aesthetic. EDHREC rank 11,516. `[Scryfall: preview data; Scryfall: artist field; Scryfall: edhrec_rank]`
+
+### Related cards
+- Overlord of the Floodpits (Duskmourn: House of Horror) — named zone overseer for the Floodpits; direct lore parallel
+- Fear of Abduction (Duskmourn: House of Horror) — another Floodpits-zone Horror sharing the aquatic dread register

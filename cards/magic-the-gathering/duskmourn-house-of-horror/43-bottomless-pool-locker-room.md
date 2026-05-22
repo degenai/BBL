@@ -75,3 +75,15 @@ A two-panel interior split across the card. The left panel is a deep tiled pool 
 **Iconography:** round-window, quatrefoil-window, tile-pattern, locker-row
 **Genre cues:** gothic-horror, liminal-space, fantasy
 
+## Trivia
+
+- **Set context / mechanic** — Room is a new enchantment subtype introduced in Duskmourn: House of Horror (released September 27, 2024). Each Room card is a split permanent with two named halves called "doors": one unlocks when cast, the second can be unlocked later at sorcery speed for its mana cost. The mechanic was designed to evoke the set's haunted-house theme of exploring locked rooms, and also enables "Eerie" triggers (Duskmourn's constellation variant) twice on a single card. `[Wizards.com: Duskmourn House of Horror Mechanics]`
+- **Lore context** — The Floodpits are Duskmourn's blue-aligned zone: physics-defying environments characterized by water in various states, impossible architectural juxtapositions, and walls of staticky screens. The House Institute faction maintains its research base there. The art by Diana Franco depicts both the pool chamber (Bottomless Pool door) and the locker corridor (Locker Room door) on one card face, directly visualizing the dual-door structure of the mechanic. `[Wizards.com: Planeswalker's Guide to Duskmourn via WebSearch snippet; Scryfall: artist field]`
+- **Design / preview** — The card was previewed September 5, 2024 by Instagram illustrator Maxzzie, making it one of the earlier DSK previews. `[Scryfall: preview source_uri field]`
+- **Mechanical reputation** — EDHREC inclusion rate approximately 0.6% across 23,100 decks at community-tracking time. Most discussion centers on Marina Vendrell Room-focused Commander decks, where the Bottomless Pool side provides cheap bounce ({U}) to protect attackers and Locker Room provides card draw on combat damage. Five total mana to unlock Locker Room is considered slightly slow for non-Room-dedicated shells. `[EDHREC: Bottomless Pool // Locker Room card page via WebSearch snippet]`
+
+### Related cards
+- Marina Vendrell (Duskmourn: House of Horror) — Room-matters Commander; Bottomless Pool // Locker Room is a frequent inclusion in Marina builds
+- Moldering Gym // Weight Room (Duskmourn: House of Horror) — another Room with dual gymnasium-space flavor parallel
+- Surgical Suite // Hospital Room (Duskmourn: House of Horror) — institutional-interior Room with similar aesthetic register
+- Smoky Lounge // Misty Salon (Duskmourn: House of Horror) — lounge/salon Room sharing the liminal-institutional interior theme

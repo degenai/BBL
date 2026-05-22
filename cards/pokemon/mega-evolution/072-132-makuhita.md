@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - fighter
+  - martial-arts
+  - sumo
+  - canyon
+  - sunny
+  - training
+  - brawler
+  - chunky
+  - outdoors
+  - combat
+  - round
+  - yellow
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-mode
+  - fighting-type
+  - basic
 reference_image: cards/_images/pokemon/mega-evolution/072-132-makuhita.png
 average_cost_paid: 0
 market_price: 0.2
@@ -25,6 +43,32 @@ oracle_text: Corkscrew Punch (Fighting) 10\nConfront (FightingFighting) 30
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: day
+setting: mountain
+suspected_ip: Makuhita
+ip_confidence: high
+ip_verified: false
 ---
 
 # Makuhita (Mega Evolution)
+
+## Vision
+
+![072-132-makuhita](../../_images/pokemon/mega-evolution/072-132-makuhita.png)
+
+> [!warning] Suspected IP: **Makuhita** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A short, round, yellow creature stands with both stubby arms raised in a classic fighting or sumo-wrestling pose. Its body is compact and wide, with a large round head featuring simple facial features and a determined expression. The background shows a warm, sunlit rocky canyon with blue sky visible overhead. Bright daylight illumination gives the scene an energetic, open-air quality. The creature faces directly forward, filling the lower portion of the frame.
+
+**Subject:** Makuhita, a round yellow fighting Pokemon with stubby raised arms in a fighting stance against a sunny rocky canyon backdrop
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** mountain, day, clear
+**Foreground:** round yellow fighting creature with arms raised in fighting pose  *(palette: yellow, orange, tan)*
+**Background:** sunny rocky canyon walls with blue sky  *(palette: orange-brown, tan, blue, white)*
+**Mood / lighting:** action, harsh
+**Emotion read:** determined, energetic, ready to fight
+**Creatures:** fighting-creature, round-humanoid
+**Genre cues:** anime, fantasy

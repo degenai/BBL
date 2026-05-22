@@ -1,0 +1,48 @@
+{
+  "card_name": "Duskmourn's Domination",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "50",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Valgavoth is the elder moth demon who is both the master of and the physical substance of Duskmourn itself — his wings merge with the walls, his hunger for fear drives the House's architecture. The flavor text names him explicitly: 'All who enter the House hear Valgavoth's whispers, worming through their consciousness until they can no longer resist his influence.' Duskmourn's Domination is the mechanical expression of that mind-invasion: you permanently control the enchanted creature and it loses all abilities. [Scryfall flavor_text; Wizards.com Planeswalker's Guide to Duskmourn via WebSearch; mtg.wiki/page/Valgavoth via WebSearch]",
+      "sources": ["Scryfall flavor_text", "WebSearch: Valgavoth lore summary (Wizards.com Planeswalker's Guide, mtg.wiki)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"All who enter the House hear Valgavoth's whispers, worming through their consciousness until they can no longer resist his influence.\" — [Scryfall]. Valgavoth is described in the Planeswalker's Guide as able to tailor his horrors to each individual's deepest fears, making his domination deeply personal rather than generic. The card's -3/-0 debuff and ability-stripping mechanically represents a mind broken by sustained psychic siege. [Scryfall flavor_text; WebSearch: Valgavoth lore]",
+      "sources": ["Scryfall flavor_text", "WebSearch: Valgavoth lore (mtgrocks.com, mtg.wiki)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Duskmourn's Domination is a 6-mana ({4}{U}{U}) Aura that grants permanent control of the enchanted creature with -3/-0 and loss of all abilities. At 6 mana it sits in the expensive range for control-steal Auras (compare Control Magic at {3}{U}, Volition Reins at {3}{U}{U}). EDHREC rank 22,580 reflects it as a rarely-played Commander option — the high cost and vulnerability to enchantment removal make it a flavor inclusion rather than a competitive pick. [Scryfall mana_cost, cmc, oracle_text, edhrec_rank]",
+      "sources": ["Scryfall mana_cost, cmc, oracle_text, edhrec_rank"]
+    },
+    {
+      "category": "design",
+      "text": "The card was previewed on September 10, 2024 by community figure @katiekarlov on Twitter, one week before the full DSK set release. Artist Eli Minaya's expressionistic painterly style — heavy brushwork, abstract indigo-violet palette, calligraphic script halos — differs markedly from the photorealistic-creature approach common elsewhere in DSK, making this one of the more visually distinctive commons/uncommons in the set. [Scryfall preview field; Scryfall artist field]",
+      "sources": ["Scryfall preview data (source_uri: twitter.com/katiekarlov)", "Scryfall artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Valgavoth, Terror Eater", "set": "Duskmourn: House of Horror", "note": "The named entity referenced in the flavor text; the House's ruling demon"},
+    {"name": "Control Magic", "set": "Revised Edition (and reprints)", "note": "Mechanical predecessor to the control-steal Aura archetype"},
+    {"name": "Valgavoth's Faithful", "set": "Duskmourn: House of Horror", "note": "Flavor companion — characters who willingly serve Valgavoth vs the unwilling thralls this card depicts"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": false,
+    "mana_cost_value": "{4}{U}{U}",
+    "color_magic_tag_in_tags_filter": false,
+    "color_magic_tag_needed": "blue-magic",
+    "note": "TRIAGE NEEDED: mana_cost is missing from frontmatter entirely. Scryfall confirms it is {4}{U}{U}. Also missing blue-magic in tags_filter. Both need to be added in a sweep pass."
+  }
+}

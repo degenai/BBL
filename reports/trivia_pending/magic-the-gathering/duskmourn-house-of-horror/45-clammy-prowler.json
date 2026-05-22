@@ -1,0 +1,48 @@
+{
+  "card_name": "Clammy Prowler",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "45",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The flavor text names 'the Floodpits' — Duskmourn's blue-aligned zone defined by surreal water environments, physics-defying architecture, and reflective surfaces that generate glitch ghosts. The Floodpits are one of five major zones of the House, each corresponding to a color of mana. [Scryfall flavor_text; Wizards.com: Planeswalker's Guide to Duskmourn via WebSearch snippet]",
+      "sources": ["Scryfall flavor_text", "Wizards.com Planeswalker's Guide to Duskmourn (WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Sometimes, survivors in the Floodpits hear their own drowning voices crying out for help. Only the ones who flee immediately live to speak of it.\" — [Scryfall]. The text implies the creature mimics the voices of its victims to lure additional prey — a classic sirenic horror trope applied to a flooded dungeon setting.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Clammy Prowler is an Enchantment Creature — Horror, carrying the dual-type frame Duskmourn uses for many of its creatures to tie them to the enchantments-matter theme (Eerie triggers). At {3}{U} for a 2/5, it trades offensive power for a defensive body with an aggressive unlock: whenever it attacks, another attacking creature becomes unblockable for the turn. EDHREC rank 11,516 reflects it as a niche role-player rather than a format staple. [Scryfall type_line, power/toughness, oracle_text, edhrec_rank]",
+      "sources": ["Scryfall: type_line, power/toughness, oracle_text, edhrec_rank"]
+    },
+    {
+      "category": "design",
+      "text": "The card was officially previewed by Wizards of the Coast on September 6, 2024, just before the full DSK release on September 27, 2024. Artist John Tedrick's design depicts the creature with a skull-like face and bioluminescent chest cavity — visual cues that parallel deep-sea predators (anglerfish, viperfish) transposed into a flooded architectural horror context. The Pauper and Paupercommander legality (confirmed legal in both formats per Scryfall) makes it a possible inclusion in Pauper blue strategies. [Scryfall preview data; Scryfall legalities]",
+      "sources": ["Scryfall preview data", "Scryfall legalities field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Clammy Prowler", "set": "Duskmourn: House of Horror", "note": "Same creature — note card is legal in Pauper (common rarity)"},
+    {"name": "Overlord of the Floodpits", "set": "Duskmourn: House of Horror", "note": "Named zone overseer for the Floodpits; direct lore connection"},
+    {"name": "Fear of Abduction", "set": "Duskmourn: House of Horror", "note": "Another Floodpits-zone Horror sharing the aquatic dread aesthetic"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{3}{U}",
+    "color_magic_tag_in_tags_filter": true,
+    "color_magic_tag_value": "blue-magic",
+    "note": "mana_cost and blue-magic both present. Card is missing vision-passed tag (tags list has only 'card') — may not have been fully tagged by the vision pipeline, but tags_hub is populated so vision pass ran. Minor inconsistency to flag for janitor."
+  }
+}

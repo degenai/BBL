@@ -78,3 +78,15 @@ A windbreaker jacket hovers in mid-air with no visible wearer inside it, arms ex
 **Objects:** jacket, windbreaker, lanterns, towers
 **Iconography:** electricity, cursed-object
 **Genre cues:** fantasy, horror
+
+## Trivia
+
+- **Mechanical design** — Cursed Windbreaker pairs Manifest Dread with an Equipment in a combination novel enough that it generated preview-season discussion: when the Equipment enters, you manifest dread (look at top two cards, put one face-down as a 2/2 onto the battlefield, mill the other), and the Equipment immediately attaches to that manifested creature. This gives the card self-contained board presence — a flying 2/2 on turn 3 with no additional creature required. `[Scryfall oracle_text; Wizards.com: Duskmourn House of Horror Mechanics via WebSearch]`
+- **Manifest Dread context** — Manifest Dread is Duskmourn's upgrade to the original Manifest mechanic (Fate Reforged, 2015). Where original Manifest top-decked blindly, Manifest Dread looks at two cards and lets you choose which to manifest, milling the other — adding card selection and graveyard-fueling. The "dread" name keys into Valgavoth's horror-feeding thematic framework. `[Wizards.com: Duskmourn Mechanics; Card Kingdom Blog: Manifesting Dread in Duskmourn via WebSearch]`
+- **Design / preview** — Previewed September 5, 2024 on Wizards' official @wizards_magic Twitter. Artist Nino Vecia's floating-jacket-without-wearer composition places this card in Duskmourn's animated-object / haunted-architecture cohort (Patched Plaything, Malevolent Chandelier, Baseball Bat). EDHREC rank 16,085 reflects low Commander adoption — Equip {3} is expensive once the initial self-equip resolves. `[Scryfall: preview source_uri; Scryfall: artist; Scryfall: edhrec_rank]`
+
+### Related cards
+- Manifest Dread (Duskmourn: House of Horror, no. 189) — the standalone keyword card for the mechanic this Equipment uses
+- Patched Plaything (Duskmourn: House of Horror) — animated-object Horror in the same haunted-garment/artifact aesthetic cohort
+- Malevolent Chandelier (Duskmourn: House of Horror) — animated-architecture haunted-object; same thematic register
+- Haunted Screen (Duskmourn: House of Horror) — animated-object Equipment with similar Manifest Dread synergy context

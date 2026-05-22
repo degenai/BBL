@@ -83,4 +83,3 @@ A humanoid male figure stands in a composed, confident pose wearing layered dark
 - Rain (Brave Exvius) (various FFTCG sets) — Lasswell's co-protagonist and childhood friend; likely appears across multiple Opus sets
 - Fina (Brave Exvius) (various FFTCG sets) — third primary protagonist of Brave Exvius who grants Rain and Lasswell their vision powers
 - Lasswell (Opus VII) — the preceding Opus VII teaser version named in the Opus VIII press release
-

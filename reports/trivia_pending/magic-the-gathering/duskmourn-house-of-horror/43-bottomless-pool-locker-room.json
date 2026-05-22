@@ -1,0 +1,49 @@
+{
+  "card_name": "Bottomless Pool // Locker Room",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "43",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Room is a new enchantment subtype introduced in Duskmourn: House of Horror (September 27, 2024). Each Room card is a split-format permanent with two named halves called 'doors': one door unlocks when the card enters the battlefield (from whichever half you cast), and the second door can be unlocked later at sorcery speed for its mana cost. The mechanic was designed to evoke the haunted-house theme of exploring locked rooms. [Wizards.com: Duskmourn House of Horror Mechanics article]",
+      "sources": ["Wizards.com: Duskmourn House of Horror Mechanics"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Bottomless Pool // Locker Room saw an EDHREC inclusion rate of roughly 0.6% across 23,100 decks at the time of community tracking — notable for an uncommon Room. The Locker Room side (draw a card whenever creatures deal combat damage to a player) is the primary engine; players typically cast the cheap Bottomless Pool side first (bounce a creature for {U}), then unlock Locker Room later for {4}{U}. The combo is most discussed in Marina Vendrell Room-themed Commander builds. [EDHREC: Bottomless Pool // Locker Room card page, via WebSearch snippet]",
+      "sources": ["EDHREC card page via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Bottomless Pool // Locker Room was previewed on September 5, 2024 by Instagram illustrator Maxzzie (source_uri in Scryfall preview data). The art by Diana Franco depicts both architectural spaces on one card face — a flooded pool chamber on the left half and a locker-lined corridor on the right — directly visualizing the dual-door structure of the Room mechanic. [Scryfall preview field; Scryfall artist field]",
+      "sources": ["Scryfall preview data", "Scryfall artist field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Floodpits are Duskmourn's blue-aligned zone: the most physics-defying region of the House, characterized by rooms containing water in liquid, solid, or gas form, surreal impossible architectural juxtapositions, and walls of staticky screens. The House Institute faction maintains a base there. Bottomless Pool's art directly references this zone's aesthetic. [Wizards.com: Planeswalker's Guide to Duskmourn, via WebSearch snippet]",
+      "sources": ["Wizards.com: Planeswalker's Guide to Duskmourn (WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Locker Room", "set": "Duskmourn: House of Horror", "note": "Second door on the same card"},
+    {"name": "Marina Vendrell", "set": "Duskmourn: House of Horror", "note": "Room-matters Commander; Bottomless Pool // Locker Room is a staple in Marina builds per EDHREC"},
+    {"name": "Moldering Gym // Weight Room", "set": "Duskmourn: House of Horror", "note": "Another Room with dual-gymnasium flavor parallel"},
+    {"name": "Surgical Suite // Hospital Room", "set": "Duskmourn: House of Horror", "note": "Institutional-interior Room with similar aesthetic register"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{U} // {4}{U}",
+    "color_magic_tag_in_tags_filter": true,
+    "color_magic_tag_value": "blue-magic",
+    "note": "mana_cost and blue-magic tag both present. No triage issues."
+  }
+}

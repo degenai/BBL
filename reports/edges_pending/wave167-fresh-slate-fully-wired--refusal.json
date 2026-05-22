@@ -1,0 +1,27 @@
+{
+  "edge_id": "wave167-fresh-slate-fully-wired--refusal",
+  "shape": "refusal",
+  "category": null,
+  "endpoints": [],
+  "description": "Worst edge-hunt ever. Every card on the fresh slate was ALREADY wired before I got here. Norin 297 -> dsk-survival-archetype: wired (frontmatter + appears_on + node body names 'Norin's flight' pole). Cursed Windbreaker 47 -> dsk-animate-house: wired, and the new trivia pass confirms it ('places this card in Duskmourn's animated-object cohort') -- edge holds. Bottomless Pool 43 -> rooms symbol: wired bidirectionally. Duskmourn's Domination 50 -> valgavoth: wired, direct-flavor-text citation documented in node body. The 5 Mega Evolution Pokemon (Houndstone, Sandslash, Makuhita, Croagunk, Nacli) are vision-only, unrelated species across disparate generations, sharing ONLY the set 'Mega Evolution' -- same-set is meta-trivia, explicitly a non-edge. No card-to-card edge among them. Corpus walk on recent DSK material: the one tempting move was Bottomless Pool 43 <-> Moldering Gym 190 as a Room mirror, but both cards are already fanned off the rooms symbol node; a bare card-to-card 'both are Rooms' edge restates cohort membership as a discrete edge -- Potion Rule sub-rule 1 violation, restating a stack as a mirror. Refused. Refusal is the discipline working.",
+  "citations": [
+    "[Card frontmatter: 297-norin-swift-survivalist-0297.md characters: dsk-survival-archetype]",
+    "[Node: cards/_characters/dsk-survival-archetype.md appears_on + body 'Norin's flight' pole]",
+    "[Card frontmatter: 47-cursed-windbreaker.md characters: dsk-animate-house; trivia bullet confirms cohort]",
+    "[Card frontmatter: 43-bottomless-pool-locker-room.md symbols: rooms; node appears_on lists it]",
+    "[Card frontmatter: 50-duskmourn-s-domination.md characters: valgavoth; node body direct-flavor-text section]"
+  ],
+  "files_modified": [],
+  "topology": null,
+  "other_candidates_considered": [
+    "Bottomless Pool 43 <-> Moldering Gym 190 (Room mirror) -- REJECTED: both already fan off the rooms symbol node; a card-to-card edge would restate stack-membership as a mirror. The rooms node is the correct anchor and it already holds both.",
+    "5 Mega Evolution Pokemon as a set-cohort -- REJECTED: same-set only, vision-only, no shared character/line/designer-cycle. Same-set is meta-trivia, not an edge and not a node."
+  ],
+  "edgelord_mood": "satisfied",
+  "triage_surfaced": {
+    "what": "The rooms symbol node body credits 'Bottomless Pool // Locker Room (DSK-43 ... Wisnu Tan art)' -- but the card MD frontmatter (artist: Diana Franco) and the card's own trivia pass ('The art by Diana Franco depicts both the pool chamber...') both say Diana Franco. Wrong artist credit in the node body.",
+    "where": "cards/_symbols/rooms.md 'Where it appears' section, Bottomless Pool bullet",
+    "severity": "low",
+    "fix": "Change 'Wisnu Tan art' to 'Diana Franco art' in the rooms node body. Single-word body-text correction -- a janitor/triage fix, not an Edgelord edge/node/dissolution operation."
+  }
+}

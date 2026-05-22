@@ -1,0 +1,49 @@
+{
+  "card_name": "Cursed Windbreaker",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "47",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "Cursed Windbreaker introduces Manifest Dread on an Equipment, a combination that was notable during preview season: when the Equipment enters, you manifest dread (look at top two cards, put one face-down as a 2/2 onto the battlefield, mill the other), and the Equipment immediately attaches to that manifested creature. This means Cursed Windbreaker generates its own body to equip. The manifested creature has flying from the Equipment, making it a flying 2/2 blocker or attacker before potentially being flipped face-up. [Scryfall oracle_text; Wizards.com: Duskmourn House of Horror Mechanics, via WebSearch snippet]",
+      "sources": ["Scryfall oracle_text", "Wizards.com: Duskmourn Mechanics (WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Manifest Dread is a Duskmourn-specific upgrade to the original Manifest mechanic (Fate Reforged, 2015). Where original Manifest simply put the top card of your library face-down, Manifest Dread looks at two cards and lets you choose which to manifest, milling the other — adding card selection and graveyard-fueling to the effect. The 'dread' branding keys into Valgavoth's horror-feeding thematic framework for the set. [Wizards.com: Duskmourn House of Horror Mechanics; Card Kingdom Blog: 'Manifesting Dread in Duskmourn' via WebSearch snippet]",
+      "sources": ["Wizards.com: Duskmourn Mechanics (WebSearch)", "Card Kingdom Blog: Manifesting Dread in Duskmourn (WebSearch)"]
+    },
+    {
+      "category": "design",
+      "text": "The card was previewed September 5, 2024 by Wizards of the Coast's official Twitter account (@wizards_magic). Artist Nino Vecia depicts the windbreaker as an animated jacket hovering in mid-air without a wearer — a 'haunted object' aesthetic consistent with Duskmourn's animated-architecture theme (the same cohort as Patched Plaything, Malevolent Chandelier). The card is classified as an Artifact — Equipment (not a creature), which is the correct frame for its haunted-object role. [Scryfall preview field; Scryfall artist field; Scryfall type_line]",
+      "sources": ["Scryfall preview data (source_uri: twitter.com/wizards_magic)", "Scryfall artist", "Scryfall type_line"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 16,085 puts Cursed Windbreaker as a low-adoption card in the Commander format. Its compete context: Equipment that self-equips via Manifest Dread is genuinely novel, but Equip {3} is expensive, and the manifested 2/2 base is modest. In limited (Draft/Sealed), the self-equipping entry makes it substantially more reliable — a flying 2/2 on turn 3 with the option to flip a creature card is solid tempo. [Scryfall edhrec_rank]",
+      "sources": ["Scryfall edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Manifest Dread", "set": "Duskmourn: House of Horror", "note": "The keyword mechanic this card uses; also a named card in DSK"},
+    {"name": "Patched Plaything", "set": "Duskmourn: House of Horror", "note": "Another animated-object Horror in the same dread-animated-garment aesthetic register"},
+    {"name": "Malevolent Chandelier", "set": "Duskmourn: House of Horror", "note": "Animated-architecture archetype; haunted-object cohort"},
+    {"name": "Haunted Screen", "set": "Duskmourn: House of Horror", "note": "Animated object Equipment with similar haunted-object register"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{2}{U}",
+    "color_magic_tag_in_tags_filter": true,
+    "color_magic_tag_value": "blue-magic",
+    "note": "mana_cost and blue-magic both present. No triage issues."
+  }
+}
