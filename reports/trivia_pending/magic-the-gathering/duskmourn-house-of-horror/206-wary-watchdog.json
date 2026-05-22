@@ -1,0 +1,50 @@
+{
+  "card_name": "Wary Watchdog",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "206",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (DSK) is the 102nd Magic expansion, released September 27, 2024. The plane of Duskmourn is a single giant haunted mansion ruled by the moth-like demon Valgavoth, who collapsed an entire plane into the house in an event the lore calls 'the Ascension.' The set is explicitly top-down designed around 1970s-90s slasher and haunted-house horror tropes.",
+      "sources": ["Scryfall: set_name field", "magic.wizards.com: First Look at Duskmourn: House of Horror"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'Valgavoth harbors a special loathing for dogs, whose mere presence provides a powerful antidote to the fear he craves.' The flavor grounds a mechanical detail (surveil on enter/die) in Valgavoth's lore: his power derives from feeding on fear, which dogs physiologically disrupt. Wargamer's Duskmourn coverage notes this places dogs alongside 'glimmers, incarnations of hope that protect people' as forces Valgavoth explicitly cannot exploit.",
+      "sources": ["Scryfall: flavor_text field", "wargamer.com: MTG Duskmourn villain is a killer, but more importantly, he hates dogs"]
+    },
+    {
+      "category": "design",
+      "text": "Wary Watchdog is a 3/1 common for {1}{G} with a surveil 1 trigger on both enter and death. Surveil (introduced in Guilds of Ravnica, 2018) recurs here because Duskmourn's design team built the set around two mechanical themes: the graveyard and enchantments. Surveil fueling the graveyard on a cheap body with a relevant creature type (Dog) makes this a graveyard-synergy enabler even at common.",
+      "sources": ["Scryfall: oracle_text, mana_cost, rarity fields", "magic.wizards.com: Top of the Duskmourning Part 2 (graveyard + enchantment theme confirmation)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 15,916, placing it toward the low end of Commander adoption. As a 3/1 for two mana its stats are reasonable but fragile; its primary home is Limited, where the enter-and-die surveil can filter toward delirium or key spells.",
+      "sources": ["Scryfall: edhrec_rank field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Valgavoth, Terror Eater", "set": "DSK", "note": "Main villain referenced in flavor text"},
+    {"name": "Glimmer of I Am Here", "set": "DSK", "note": "Thematic axis: hope vs. Valgavoth's fear"},
+    {"name": "Surveil Lands cycle", "set": "DSK", "note": "Graveyard-synergy infrastructure this card feeds into"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": [
+    {
+      "field": "mana_cost",
+      "issue": "missing from frontmatter",
+      "correct_value": "{1}{G}",
+      "severity": "low",
+      "source": "Scryfall API"
+    }
+  ]
+}

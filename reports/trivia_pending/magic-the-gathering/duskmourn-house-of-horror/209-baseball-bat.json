@@ -1,0 +1,56 @@
+{
+  "card_name": "Baseball Bat",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "209",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Baseball Bat is part of Duskmourn's survival horror aesthetic, which drew on 70s-90s horror film iconography for its artifact equipment. The set features everyday objects transformed into weapons, reflecting the 'you are trapped in a haunted house and must use what you find' premise. Baseball Bat was previewed by Good Luck High Five on September 7, 2024, roughly three weeks before the set's September 27 release.",
+      "sources": ["Scryfall: preview.source field", "magic.wizards.com: First Look at Duskmourn: House of Horror"]
+    },
+    {
+      "category": "design",
+      "text": "Baseball Bat is a {G}{W} uncommon Artifact -- Equipment. The {G}{W} color identity on an artifact is unusual -- green/white equipment typically appear in creature-heavy Selesnya builds. The green component ties it to Duskmourn's Survival mechanic and draft archetype, while white provides the utility tap effect.",
+      "sources": ["Scryfall: mana_cost, colors, oracle_text fields"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 18,570 places it among the least-played Duskmourn uncommons in Commander. In Limited, the attach-on-entry removes the 'dead on empty board' problem common to equipment, and the tap effect provides pseudo-vigilance. The equip cost of {3} is high for a +1/+1 pump, making it primarily a tempo piece in Draft.",
+      "sources": ["Scryfall: edhrec_rank, keywords fields"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "No flavor text on this printing. The nail-studded, wire-wrapped, electrically-charged design depicted in the art embodies the improvised-weapon aesthetic of survival horror; the green-electric charge is visual only with no canonical lore explanation in card text.",
+      "sources": ["Scryfall: no flavor_text field returned"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Chainsaw", "set": "DSK", "note": "Marquee Duskmourn equipment, same everyday-object-as-horror-weapon aesthetic"},
+    {"name": "Survivor's Kit", "set": "DSK", "note": "Found-object equipment from the same survival-horror artifact cluster"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": [
+    {
+      "field": "mana_cost",
+      "issue": "missing from frontmatter",
+      "correct_value": "{G}{W}",
+      "severity": "low",
+      "source": "Scryfall API"
+    },
+    {
+      "field": "tags_filter",
+      "issue": "white-magic absent; card is {G}{W} bicolor",
+      "correct_value": "add white-magic to tags_filter",
+      "severity": "low",
+      "source": "Scryfall API colors field"
+    }
+  ]
+}

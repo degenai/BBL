@@ -1,0 +1,23 @@
+{
+  "edge_id": "fear-of-cycle--214-177-node-body-sync",
+  "shape": "node-body-sync",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/fear-of-cycle.md", "name": "Fear-of cycle (Duskmourn phobia-Nightmares)"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/214-fear-of-infinity.md", "name": "Fear of Infinity (DSK-214)"},
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/177-fear-of-exposure.md", "name": "Fear of Exposure (DSK-177)"}
+  ],
+  "description": "The caller asked me to check whether Fear of Infinity 214 needs a card-to-node attach. It does not. The structural edge was already complete on both ends BEFORE this wave: 214 has fear-of-cycle in tags_hub and characters, and the node already lists 214 in appears_on plus the auto-generated Appears on block. Same for 177 Fear of Exposure. What I found instead was node-prose drift: the hand-written body still said '5 of 14' coverage, listed only 5 cards in the corpus-detail block, and listed 177 and 214 under 'Members not yet in corpus' -- contradicting the node's own appears_on list across two enrichment waves. This is a node-rigor sync per the edgelord-node-rigor-audit discipline, not an edge proposal and not a node operation. Brought the prose in line with the structural edges that already exist: moved 177 and 214 into the in-corpus detail block, corrected the count to '7 of 14 enriched', and added an 'on-disk but not yet enriched' block for DSK-97 and DSK-98 (both quantity-4 inventory but bare CSV stubs).",
+  "citations": ["[Scryfall: type_line Enchantment Creature -- Nightmare, set DSK]", "[card frontmatter: 214 + 177 tags_hub/characters fear-of-cycle, node appears_on]", "[on-disk file inventory: 9 Fear-of card files in DSK directory]"],
+  "files_modified": ["cards/_characters/fear-of-cycle.md"],
+  "topology": "stack",
+  "other_candidates_considered": [
+    "DSK-98 Fear of the Dark rarity contradiction -- the node body's roster table (L53), color-distribution prose (L60), and Caveats (L118, L123) all call DSK-98 a rare; the on-disk card file says rarity: C. The file is a bare CSV-import stub and CSV rarity fields have been wrong in this corpus before, so the correct rarity needs a Scryfall verification before the table is edited. Flagged inline at the node body's new L89; staged as a next-pass verify-then-correct task. Did NOT guess at the table.",
+    "DSK-97 fear-of-lost-teeth and DSK-98 fear-of-the-dark card-to-node attach -- both physically in inventory (quantity 4) but bare vision-stubs (tags_hub empty, no Trivia). Not edge-ready. Future-wave watch: when vision+trivia enrich them, attach both ends (tags_hub + characters frontmatter on the card, appears_on on the node)."
+  ],
+  "next_pass_suggestions": [
+    "Verify DSK-98 Fear of the Dark rarity against Scryfall; correct the fear-of-cycle node roster table + color-distribution + Caveats if confirmed common (would also break the 'three rares' framing -- recheck Missing Out and Infinity rarity at the same time).",
+    "When DSK-97 and DSK-98 are vision+trivia enriched, run a card-to-node attach for both (Mr. Nodeley not needed -- node exists)."
+  ],
+  "edgelord_mood": "enlightened-corrective"
+}

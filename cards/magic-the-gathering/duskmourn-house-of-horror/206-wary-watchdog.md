@@ -76,3 +76,14 @@ A scrappy, short-haired dog with mottled brown and tan fur stands rigid on what 
 **Creatures:** dog
 **Genre cues:** horror, gothic, haunted-house
 
+## Trivia
+
+- **Set context** -- Duskmourn: House of Horror (DSK) is the 102nd Magic expansion, released September 27, 2024. The plane of Duskmourn is a single giant haunted mansion ruled by the moth-like demon Valgavoth, who collapsed an entire plane into the house in an event the lore calls "the Ascension." The set is explicitly top-down designed around 1970s-90s slasher and haunted-house horror tropes `[Scryfall: set_name "Duskmourn: House of Horror"; magic.wizards.com "First Look at Duskmourn: House of Horror"]`
+- **Flavor text** -- "Valgavoth harbors a special loathing for dogs, whose mere presence provides a powerful antidote to the fear he craves." The flavor grounds a mechanical detail (surveil on enter/die) in Valgavoth's lore: his power derives from feeding on fear, which dogs physiologically disrupt. Wargamer's Duskmourn coverage notes this places dogs alongside "glimmers, incarnations of hope that protect people" as forces Valgavoth explicitly cannot exploit `[Scryfall flavor_text field; wargamer.com "MTG Duskmourn villain is a killer, but more importantly, he hates dogs"]`
+- **Design** -- Wary Watchdog is a 3/1 common for `{1}{G}` with a surveil 1 trigger on both enter and death. Surveil (introduced in Guilds of Ravnica, 2018) recurs here because Duskmourn's design team built the set around two mechanical themes: the graveyard and enchantments. Surveil fueling the graveyard on a cheap body with a relevant creature type (Dog) makes this a graveyard-synergy enabler even at common `[Scryfall oracle_text; magic.wizards.com "Top of the Duskmourning, Part 2"]`
+- **Mechanical reputation** -- EDHREC rank 15,916, placing it toward the low end of Commander adoption. As a 3/1 for two mana its stats are reasonable but fragile; its primary home is Limited, where the enter-and-die surveil can filter toward delirium or key spells `[Scryfall edhrec_rank field]`
+
+### Related cards
+- Valgavoth, Terror Eater (DSK, no. 407) -- the main villain referenced in Wary Watchdog's flavor text; named in the `characters` field
+- Glimmer of I Am Here (DSK) -- another Duskmourn card in the "hope vs. Valgavoth's fear" thematic axis
+- Surveil Lands cycle (DSK) -- multiple lands in the set trigger surveil, creating graveyard-synergy infrastructure Wary Watchdog feeds into

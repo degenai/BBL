@@ -74,3 +74,14 @@ A single baseball bat rests diagonally on weathered wooden floorboards in a dim 
 **Iconography:** green electricity
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** -- Baseball Bat is part of Duskmourn's "survival horror" aesthetic, which drew on 70s-90s horror film iconography for its artifact equipment. The set features everyday objects transformed into weapons, reflecting the "you are trapped in a haunted house and must use what you find" premise. Baseball Bat was previewed by Good Luck High Five on September 7, 2024, roughly three weeks before the set's September 27 release `[Scryfall: preview.source field; magic.wizards.com "First Look at Duskmourn: House of Horror"]`
+- **Design** -- Baseball Bat is a `{G}{W}` uncommon Artifact -- Equipment with three lines of text: auto-attach on entry, +1/+1 to equipped creature, and a tap-a-blocker trigger on attack. The `{G}{W}` color identity on an artifact is unusual -- green/white equipment typically appear in creature-heavy Selesnya builds. The green component ties it to Duskmourn's "Survival" mechanic and draft archetype, while white provides the utility tap effect `[Scryfall: mana_cost, colors, oracle_text fields]`
+- **Mechanical reputation** -- EDHREC rank 18,570 places it among the least-played Duskmourn uncommons in Commander. In Limited, the attach-on-entry removes the "dead on empty board" problem common to equipment, and the tap effect provides pseudo-vigilance. The equip cost of `{3}` is high for a +1/+1 pump, making it primarily a tempo piece in Draft rather than a constructed staple `[Scryfall: edhrec_rank, keywords fields]`
+- **Flavor** -- No flavor text on this printing. The nail-studded, wire-wrapped, electrically-charged design depicted in the art embodies the improvised-weapon aesthetic of survival horror; the card has no flavor text to make explicit what the green-electric charge means in the Duskmourn lore, leaving it visual `[Scryfall: no flavor_text field returned]`
+
+### Related cards
+- Chainsaw (DSK) -- the marquee Duskmourn equipment, another everyday-object-as-horror-weapon artifact in the same aesthetic space
+- Baseball Bat // Bladed Bat (DSK, Room variant) -- check if a Room version exists; the bat shows up in multiple Duskmourn contexts
+- Survivor's Kit (DSK) -- other "found-object" equipment from the same survival-horror artifact cluster

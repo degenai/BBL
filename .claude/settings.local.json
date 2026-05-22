@@ -37,7 +37,13 @@
       "WebFetch(domain:blog.cardkingdom.com)",
       "Bash(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\alexa\\\\Desktop\\\\Bulk Graph Bundler\\\\reports\\\\trivia_pending\\\\magic-the-gathering\\\\duskmourn-house-of-horror\")",
       "Bash(Out-Null)",
-      "Bash(Write-Host \"Directory ready\")"
+      "Bash(Write-Host \"Directory ready\")",
+      "WebFetch(domain:www.wargamer.com)",
+      "Bash(Select-String -Path \"C:\\\\Users\\\\alexa\\\\Desktop\\\\Bulk Graph Bundler\\\\cards\\\\magic-the-gathering\\\\duskmourn-house-of-horror\\\\206-wary-watchdog.md\", \"C:\\\\Users\\\\alexa\\\\Desktop\\\\Bulk Graph Bundler\\\\cards\\\\magic-the-gathering\\\\duskmourn-house-of-horror\\\\209-baseball-bat.md\", \"C:\\\\Users\\\\alexa\\\\Desktop\\\\Bulk Graph Bundler\\\\cards\\\\magic-the-gathering\\\\duskmourn-house-of-horror\\\\210-beastie-beatdown.md\", \"C:\\\\Users\\\\alexa\\\\Desktop\\\\Bulk Graph Bundler\\\\cards\\\\magic-the-gathering\\\\duskmourn-house-of-horror\\\\212-disturbing-mirth.md\", \"C:\\\\Users\\\\alexa\\\\Desktop\\\\Bulk Graph Bundler\\\\cards\\\\magic-the-gathering\\\\duskmourn-house-of-horror\\\\214-fear-of-infinity.md\" -Pattern \"## Trivia\")",
+      "Bash(Select-Object Path, LineNumber)",
+      "Bash(powershell *)",
+      "Bash(git add *)",
+      "Bash(git commit -q -m ' *)"
     ]
   }
 }

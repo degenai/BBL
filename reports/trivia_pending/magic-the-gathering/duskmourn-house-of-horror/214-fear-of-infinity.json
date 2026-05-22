@@ -1,0 +1,42 @@
+{
+  "card_name": "Fear of Infinity",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "214",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fear of Infinity is part of the 'Fear of' cycle, a named group of Enchantment Creature -- Nightmare cards exclusive to the Duskmourn product family. Gatherer confirms 20 cards with 'Fear of' in name across DSK (Duskmourn: House of Horror) and DSC (Duskmourn: House of Horror Commander), making it a 20-card cycle spread across the full product release.",
+      "sources": ["Scryfall: type_line field", "gatherer.wizards.com: Fear of search filtered to DSK+DSC = 20 cards"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'There are some nightmares so terrible, you're never truly rid of them.' The flavor text is unsigned. It directly describes the card's mechanical loop: Fear of Infinity's Eerie trigger returns it from the graveyard to hand whenever an enchantment you control enters or you fully unlock a Room, meaning the card literally cannot be permanently removed in an enchantment-heavy deck.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "design",
+      "text": "Eerie (ability word) was one of Duskmourn's two enchantment-focused mechanics. Per the Wizards mechanics article, Eerie was designed for the white-blue tempo and blue-black control draft archetypes. Fear of Infinity at {1}{U}{B} sits in the blue-black Eerie Control archetype. Its 2/2 flying lifelink body combined with 'can't block' and graveyard recursion positions it as an evasive threat that repeatedly generates value without staying on the battlefield permanently.",
+      "sources": ["Scryfall: oracle_text, keywords, mana_cost fields", "magic.wizards.com: Duskmourn: House of Horror Mechanics"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 12,136 places it in the middle tier of Duskmourn adoption for Commander. The Eerie trigger requiring you to control other enchantments entering limits it to dedicated enchantment shells; its 'can't block' clause is an unusual drawback on a lifelink flier, suggesting the design team deliberately avoided making it a defensive stabilizer.",
+      "sources": ["Scryfall: edhrec_rank field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fear of Missing Out", "set": "DSK", "note": "Another 'Fear of' Nightmare in the 20-card cycle, green variant"},
+    {"name": "Fear of Isolation", "set": "DSK", "note": "Blue 'Fear of' Nightmare, same cycle"},
+    {"name": "Fear of Sleep Paralysis", "set": "DSC", "note": "The one DSC-exclusive 'Fear of' Nightmare; Commander supplement member of the cycle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "triage_flags": []
+}

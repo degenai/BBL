@@ -70,6 +70,8 @@ Per Scryfall set DSK API query (`s:dsk name:"Fear of"`), the cycle has fourteen 
 - **Fear of Falling** (DSK-56, blue uncommon, Maxime Minard art) — Nightmare with Flying; on attack, target blocker loses -2/-0 and flying. Flavor text: *"It had been months since Jakob had started falling but only a few weeks since he'd run out of breath to scream."* The phobia is endless plummet rendered as a flying creature that *takes* flight from its victims.
 - **Fear of Being Hunted** (DSK-134, red uncommon, Maxime Minard art) — Nightmare with Haste; must be blocked if able. Flavor text: *"It makes no effort to hide itself, savoring its prey's rising panic as the sound of its clacking skull grows closer and closer."* The phobia is the unhideable stalker; the art is a skeletal rabbit-skulled predator amid sprung mousetraps.
 - **Fear of Burning Alive** (DSK-135, red uncommon, J.P. Targete art) — Nightmare; enters and deals 4 damage to each opponent; with Delirium active, repeats its damage to a target creature whenever a source you control deals noncombat damage to an opponent. The art is a charred quadrupedal demon with a screaming-skull-cluster fused to its flank — the phobia is incineration carrying its victims with it.
+- **Fear of Exposure** (DSK-177, green uncommon, Josu Hernaiz art) — the cycle's sole green slot; Nightmare with Trample whose casting cost taxes you two untapped creatures and/or lands. The art is a pale creature descending a spiral staircase with human faces trapped inside its gaping maw — the phobia is secrets forced into the open ("A mouth like that can never keep secrets").
+- **Fear of Infinity** (DSK-214, UB multicolor rare, Fernando Falcone art) — the cycle's multicolor capstone; Nightmare with Flying and lifelink that recurs from the graveyard on every Eerie trigger, mechanically embodying the unkillable-nightmare flavor. The art is a winged serpent coiled as an ouroboros around a cluster of skull-spirits — the phobia is the infinite (cosmic horror, the void).
 
 **Members not yet in corpus** (Scryfall-confirmed via the full canonical-roster pass, awaiting future Collectr CSV uploads):
 
@@ -80,10 +82,13 @@ Per Scryfall set DSK API query (`s:dsk name:"Fear of"`), the cycle has fourteen 
 - **Fear of Lost Teeth** (DSK-97, black uncommon) — first black slot; the universal anxiety-dream of teeth crumbling and falling out, rendered as a Nightmare. Wave 39 roster-pass addition; previously thought to be a single black slot, the actual canonical roster shows two.
 - **Fear of the Dark** (DSK-98, black **rare**) — second black slot. Independently corroborated by the Say Its Name (DSK-197) trivia: same artist (Sam Wolfe Connelly), same Conte medium, part of Connelly's Duskmourn cluster, flagged "not in current inventory."
 - **Fear of Missing Out** (DSK-136, red **rare**) — completes the 134-135-136 red block alongside Being Hunted and Burning Alive. The vernacular FOMO acronym rendered as a Nightmare.
-- **Fear of Exposure** (DSK-177, green uncommon) — the cycle's sole green slot; phobia of being exposed (vulnerability, nakedness, social exposure). Wave 39 roster-pass addition; previously unsurveyed in the corpus.
-- **Fear of Infinity** (DSK-214, UB multicolor **rare**) — the cycle's multicolor capstone; phobia of the infinite (cosmic horror, mathematical sublime, the void).
 
-The corpus is **5 of 14** as of 2026-05-13 — nine acquisitions away from full canonical cycle coverage, including all three rares (the Dark, Missing Out, Infinity).
+**On-disk but not yet enriched** — physically in inventory (Collectr CSV imported), awaiting vision and trivia passes before they can attach to this node:
+
+- **Fear of Lost Teeth** (DSK-97, black common, qty 4) — first black slot; the universal anxiety-dream of teeth crumbling and falling out. Bare card stub as of 2026-05-21; not yet vision-passed.
+- **Fear of the Dark** (DSK-98, black common, qty 4) — note: Scryfall lists DSK-98 at common, not the rare slot previously assumed; the body's rare-cluster discussion below predates this correction. Bare card stub as of 2026-05-21; not yet vision-passed.
+
+The corpus is **7 of 14 enriched** as of 2026-05-21 (Abduction, Failed Tests, Falling, Being Hunted, Burning Alive, Exposure, Infinity), with two further members on disk as un-enriched stubs (Lost Teeth, the Dark). Five acquisitions away from full canonical cycle coverage.
 
 ## Cross-edges
 

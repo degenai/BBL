@@ -82,3 +82,15 @@ A large winged creature coils in an ouroboros-like ring formation on a dark ston
 **Iconography:** ouroboros ring, skull motifs, bat wings
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context / cycle** -- Fear of Infinity is part of the "Fear of" cycle, a named group of Enchantment Creature -- Nightmare cards exclusive to the Duskmourn product family. Gatherer confirms 20 cards with "Fear of" in name across DSK (Duskmourn: House of Horror) and DSC (Duskmourn: House of Horror Commander), making it a 20-card cycle spread across the full product release `[Scryfall: type_line "Enchantment Creature -- Nightmare"; gatherer.wizards.com search Fear of / DSK+DSC = 20 cards]`
+- **Flavor text** -- "There are some nightmares so terrible, you're never truly rid of them." The flavor text is unsigned -- no named speaker. It directly describes the card's mechanical loop: Fear of Infinity's Eerie trigger returns it from the graveyard to hand whenever an enchantment you control enters or you fully unlock a Room, meaning the card literally cannot be permanently removed by normal means in an enchantment-heavy deck `[Scryfall: flavor_text field]`
+- **Design** -- Eerie (ability word) was one of Duskmourn's two enchantment-focused mechanics. Per the Wizards mechanics article, Eerie was designed for the white-blue tempo and blue-black control draft archetypes. Fear of Infinity at `{1}{U}{B}` sits in the blue-black Eerie Control archetype. Its 2/2 flying lifelink body combined with "can't block" and graveyard recursion positions it as an evasive threat that repeatedly generates value without staying on the battlefield permanently `[Scryfall: oracle_text, keywords, mana_cost fields; magic.wizards.com "Duskmourn: House of Horror Mechanics"]`
+- **Mechanical reputation** -- EDHREC rank 12,136 places it in the middle tier of Duskmourn adoption for Commander. The Eerie trigger requiring you to control other enchantments entering limits it to dedicated enchantment shells; its "can't block" clause is an unusual drawback on a lifelink flier, suggesting the design team deliberately avoided making it a defensive stabilizer `[Scryfall: edhrec_rank field]`
+
+### Related cards
+- Fear of Missing Out (DSK, no. 136) -- another "Fear of" Nightmare in the cycle, green, eerie trigger variant
+- Fear of Isolation (DSK, no. 58) -- blue "Fear of" Nightmare, same cycle
+- Fear of Sleep Paralysis (DSC, no. 12) -- the one DSC-exclusive "Fear of" Nightmare; same type line, Commander supplement member
+- Valgavoth's Terrors (DSK) -- thematic companion to Fear of Infinity in the set's nightmare-creature space

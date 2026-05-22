@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - ocean
+  - sunset
+  - coast
+  - rock
+  - water
+  - twin
+  - shore
+  - barnacle
+  - tidal
+  - sea
+  - duality
+  - waves
+tags_filter:
+  - duo
+  - mid-shot
+  - action
+  - forward-facing
+  - creature-pokemon
+  - water-type
 reference_image: cards/_images/pokemon/fates-collide/22-binacle.png
 average_cost_paid: 0
 market_price: 0.19
@@ -27,6 +45,33 @@ oracle_text: "Swing Around (WaterColorless) 10+: Flip 2 coins. This attack does 
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: sunset
+setting: ocean
+suspected_ip: Binacle
+ip_confidence: high
+ip_verified: false
 ---
 
 # Binacle (Fates Collide)
+
+## Vision
+
+![22-binacle](../../_images/pokemon/fates-collide/22-binacle.png)
+
+> [!warning] Suspected IP: **Binacle** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+Two small barnacle-like creatures emerge from a single dark rock at the shoreline. Each creature has a rounded body with a distinct face, giving the impression of two heads sharing one base. They are posed in an active, outward-leaning stance as if mid-swing. The background is dominated by a large warm orange sun low on the horizon over choppy blue-green water, with splashing waves around the rocks. The warm amber and orange tones of the setting sun contrast against the cooler blue water.
+
+**Subject:** Binacle, a twin-headed barnacle Pokemon clinging to a rock in a coastal setting
+
+**Composition:** mid-shot, action, figures: duo, facing: forward
+**Setting:** ocean, sunset, calm
+**Foreground:** Twin barnacle creatures on a dark rock surrounded by splashing water  *(palette: tan, brown, dark-gray)*
+**Background:** Ocean with large orange setting sun and choppy waves  *(palette: orange, amber, blue-green, teal)*
+**Mood / lighting:** action, backlit
+**Emotion read:** energetic, ready to strike
+**Objects:** rock, waves
+**Creatures:** barnacle-creature, twin-creature
+**Genre cues:** anime, fantasy

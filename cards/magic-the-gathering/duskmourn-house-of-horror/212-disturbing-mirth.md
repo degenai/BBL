@@ -76,3 +76,14 @@ An extreme close-up portrait of a figure's face. The top of the skull is cut ope
 **Iconography:** crown of spikes, exposed anatomy
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** -- Disturbing Mirth is a `{B}{R}` uncommon enchantment in Duskmourn: House of Horror, slotting into the black-red sacrifice draft archetype. The set's graveyard theme and manifest dread mechanic interlock here: sacrificing another enchantment or creature to draw two cards fuels the graveyard for delirium, while the card's own sacrifice triggers manifest dread, continuing the cycle of card advantage and graveyard development `[Scryfall: mana_cost, colors, oracle_text, keywords fields]`
+- **Design** -- Manifest Dread is a Duskmourn-original mechanic designed during Vision Design (before Cloak was designed for Murders at Karlov Manor). It improves on the original Manifest (Fate Reforged, 2015) by giving the player a choice of two cards rather than blind top-of-library, and routes the unchosen card to the graveyard rather than leaving it on top -- making the graveyard-fueling explicit and intentional `[coolstuffinc.com "The Mechanics of Duskmourn: Manifest Dread"; Scryfall: keywords field]`
+- **Mechanical function** -- Disturbing Mirth's two triggers work on different axes: the enter trigger is draw-2-for-sacrifice-cost (tempo-positive card advantage); the sacrifice trigger is manifest dread (battlefield threat). The card is designed to be sacrificed willingly, not lost in combat. At penny_rank 1,382, it is one of the more Penny Dreadful-playable Duskmourn uncommons, suggesting it sees some budget-format play `[Scryfall: oracle_text, penny_rank fields]`
+- **Artist** -- Illustrated by Nino Vecia. The Scryfall artist ID for Nino Vecia (21466232-678a-4836-89fd-82cb15f52366) shows this is the credited artist; no Hipsters of the Coast spotlight article was found for Vecia in search results `[Scryfall: artist, artist_ids fields]`
+
+### Related cards
+- Manifest Dread (DSK, no. 189) -- the Duskmourn set's dedicated Manifest Dread spell; shares the mechanic keyword with Disturbing Mirth
+- Eaten Alive (DSK) -- another black-red sacrifice enabler in the same draft archetype
+- Funeral Longboat (DSK) -- black-red sacrifice payoff in the same DSK archetype cluster

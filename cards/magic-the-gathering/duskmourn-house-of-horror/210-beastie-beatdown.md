@@ -73,3 +73,14 @@ A massive dark creature with a skull-like face and shaggy fur strikes a blow aga
 **Iconography:** butterflies as soul-energy
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** -- Beastie Beatdown is a `{R}{G}` uncommon sorcery in Duskmourn: House of Horror, fitting the set's red-green "Delirium Beatdown" draft archetype. Per the Wizards design article for DSK, delirium was added to the set during Set Design (not Vision Design) because the set's enchantment-heavy card distribution and manifest dread mechanic naturally filled graveyards with multiple card types, making delirium achievable `[Scryfall: mana_cost, colors fields; magic.wizards.com "Top of the Duskmourning Part 2"]`
+- **Design** -- The mechanic here is a fight variant with a conditional upside: if delirium is active (four or more card types in graveyard), the controlled creature gets two +1/+1 counters before dealing damage. This makes Beastie Beatdown a power-scaling pseudo-fight -- it functions as removal when ahead on board, and the delirium bonus can turn a smaller creature into a credible threat before the fight resolves `[Scryfall: oracle_text, keywords fields]`
+- **Artist** -- Illustrated by Inkognit (alias of João Fiuza), a creature and character design specialist. Inkognit has illustrated 42 or more Magic cards across multiple sets, per Gatherer's artist search `[Scryfall: artist field; gatherer.wizards.com artist:Inkognit search]`
+- **Mechanical reputation** -- EDHREC rank 14,083 and penny_rank 12,503 confirm limited Commander and Penny Dreadful adoption. The card is narrow -- it requires a creature you control and a creature an opponent controls as mandatory targets, meaning it has no utility in empty-board situations. Its home is Limited, where delirium red-green is a supported draft archetype in DSK `[Scryfall: edhrec_rank, penny_rank fields]`
+
+### Related cards
+- Ram Through (IKO/M21) -- older green fight-with-trample sorcery; closest mechanical predecessor to Beastie Beatdown's conditional-fight design
+- Ulvenwald Tracker (AVR) -- the classic green fight enabler; design ancestry for green fight spells in graveyard-heavy formats
+- Delirium enablers cycle (DSK) -- manifest dread and other DSK mechanics that fill graveyards across card types to unlock delirium bonuses
