@@ -1,0 +1,57 @@
+{
+  "card_name": "Psychic Strike",
+  "game": "Magic: The Gathering",
+  "set": "Gatecrash",
+  "collector_number": "189",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Psychic Strike is a Dimir guild card from Gatecrash (February 2013), the second set in the Return to Ravnica block. Gatecrash focused on five guilds not covered in Return to Ravnica: Dimir, Orzhov, Simic, Gruul, and Boros. The card carries a Dimir watermark.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Until more information could be gleaned about Niv-Mizzet's intentions, Lazav took every opportunity to stall his experiments.' Lazav is the Dimir shapeshifting guildmaster who plots against Niv-Mizzet. The Wizards Planeswalker's Guide to Gatecrash describes Lazav as plotting to 'discern the dragon's hidden endgame.'",
+      "sources": ["Scryfall flavor_text", "magic.wizards.com/en/articles/archive/planeswalkers-guide-gatecrash-part-1-2012-12-05"]
+    },
+    {
+      "category": "design",
+      "text": "Psychic Strike has only one printing in the entire game -- it was never reprinted in any subsequent set. The Dimir watermark and the counterspell+mill combination encode the guild's dual identity as spy-network and memory-thief.",
+      "sources": ["Scryfall prints_search"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Pauper, PauperCommander, Modern, Legacy, Pioneer, and Commander. EDHREC rank 8,765 indicates limited Commander adoption; the 3-mana counter-plus-mill-2 rate is outcompeted in Commander by cheaper or more impactful counters. The Pauper legality gives it a home in budget Dimir control builds.",
+      "sources": ["Scryfall legalities", "Scryfall edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Lazav, Dimir Mastermind",
+      "set": "Gatecrash",
+      "note": "Named character in the flavor text; the Dimir guildmaster whose espionage operation the strike serves"
+    },
+    {
+      "name": "Thought Erasure",
+      "set": "Guilds of Ravnica",
+      "note": "Later Dimir discard+surveil spell; thematic successor to the mind-wiping function"
+    },
+    {
+      "name": "Glimpse the Unthinkable",
+      "set": "Ravnica: City of Guilds",
+      "note": "Canonical Dimir mill spell; paired with counters in Dimir mill strategies"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "frontmatter_flags": {
+    "mana_cost": "present -- {1}{U}{B}",
+    "color_magic_tags": "multicolor-blue-black present in tags_filter; no solo color-magic tags needed for multicolor card"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "card_name": "Urban Evolution",
+  "game": "Magic: The Gathering",
+  "set": "Gatecrash",
+  "collector_number": "204",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Urban Evolution is a Simic Combine card from Gatecrash (February 2013), carrying a Simic watermark. The Simic mechanic was evolve, inspired by Ethan Fleisher's Great Designer Search 2 submission, focused on adaptive biological engineering and the krasis hybrid creature type.",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/gatecrash-mechanics"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'As the Simic released more of their krasis experiments, they required new habitats, always at the expense of the locals.' Frames Simic bioengineering expansion as social and ecological displacement.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Urban Evolution has 11 total printings (Gatecrash through Pioneer Masters 2024), all illustrated by Eytan Zana. Eytan Zana is also a concept artist for Naughty Dog (Uncharted, The Last of Us) and made his MTG debut in Innistrad (2011). The card has appeared in Duel Decks: Elspeth vs. Kiora, Modern Masters 2017, The List, RNA Guild Kit, Commander 2019, Commander Legends, New Capenna Commander, Modern Horizons 3 Commander, and Pioneer Masters.",
+      "sources": ["Scryfall prints_search", "mtgartistconnection.com/artist/Eytan%20Zana"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 2,194. The draw-3-plus-land-drop effect is a Commander staple for Simic ramp strategies; repeated reprints across 11 sets signal sustained demand. Pauper ineligible (uncommon); legal in Pioneer, Modern, Legacy, Historic, Commander.",
+      "sources": ["Scryfall edhrec_rank", "Scryfall legalities"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Explore",
+      "set": "Zendikar",
+      "note": "Predecessor effect at 2 mana; Urban Evolution is the scaled-up Simic version"
+    },
+    {
+      "name": "Cultivate",
+      "set": "Magic 2011",
+      "note": "Classic Simic ramp spell frequently paired with Urban Evolution in commander packages"
+    },
+    {
+      "name": "Elusive Krasis",
+      "set": "Gatecrash",
+      "note": "Exemplar krasis creature from same set; connects spell to depicted creature type"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "frontmatter_flags": {
+    "mana_cost": "MISSING from frontmatter -- correct value: {3}{G}{U}",
+    "color_magic_tags": "blue-magic and green-magic both present in tags_filter -- correct for a multicolor card",
+    "image_width": "MISSING from frontmatter",
+    "image_height": "MISSING from frontmatter",
+    "image_quality": "MISSING from frontmatter"
+  }
+}

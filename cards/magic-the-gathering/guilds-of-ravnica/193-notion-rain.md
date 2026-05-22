@@ -27,8 +27,6 @@ tags_filter:
   - solo
   - mid-shot
   - three-quarter
-  - blue-magic
-  - black-magic
   - multicolor-blue-black
   - sorcery
   - mill
@@ -53,6 +51,7 @@ art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/193-notion-r
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/4/f4db287e-34c1-459b-882d-3db58f13eade.jpg?1572893773
 flavor_text: City air is a constant drizzle of private thoughts.
 oracle_text: Surveil 2, then draw two cards. Notion Rain deals 2 damage to you. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+mana_cost: "{1}{U}{B}"
 tags:
   - card
   - vision-passed
@@ -77,3 +76,14 @@ A solitary cloaked figure stands in the middle of a narrow city alley as torrent
 **Iconography:** rain, hood, alley
 **Genre cues:** fantasy, noir, urban-fantasy, gothic
 
+## Trivia
+
+- **Set context** -- Notion Rain is a Dimir guild card from Guilds of Ravnica (October 2018), carrying a Dimir watermark. Guilds of Ravnica returned to Ravnica with five guilds -- Dimir, Izzet, Golgari, Selesnya, and Boros. The Dimir mechanic for this set was surveil, designed by Erik Lauer's team as a scry variant that routes cards to the graveyard instead of the bottom of the library, giving the mechanic cross-guild synergy with Izzet's jump-start and Golgari's undergrowth. `[Scryfall; magic.wizards.com/en/news/feature/guilds-ravnica-mechanics-2018-09-04]`
+- **Flavor text** -- "City air is a constant drizzle of private thoughts." The line is among the more compact and evocative Dimir flavor lines: thoughts as atmospheric precipitation, knowledge as ambient pollution. The surveil mechanic (sifting through information) and the 2-damage drawback (knowledge costs something) both fold into the metaphor. `[Scryfall flavor_text]`
+- **Mechanical reputation** -- Functions as a Dimir-colored Read the Bones: surveil 2 replaces the scry 2, routing discarded cards to the graveyard rather than the bottom. Pauper and PauperCommander legal, and saw genuine Pauper play in Dimir surveil/control lists during and after the Guilds of Ravnica Standard season. EDHREC rank 8,102 indicates moderate Commander use. `[Scryfall legalities; Scryfall edhrec_rank; tappedout.net/mtg-decks/26-03-19-dimir-surveil/; coolstuffinc.com/a/kendrasmith-09282018-guilds-of-ravnicas-impact-on-pauper]`
+- **Design note** -- Wizards' Guilds of Ravnica mechanics article describes surveil as "a subtle mechanic that helped you win in ways that were not so overtly obvious -- the perfect Dimir mechanic." The designers initially explored making it a true scry variant ("dark scry") but abandoned this to avoid confusion. `[magic.wizards.com/en/news/feature/guilds-ravnica-mechanics-2018-09-04]`
+
+### Related cards
+- Read the Bones (Theros, 103) -- the scry-2-draw-2-pay-2-life template that Notion Rain mirrors, replacing scry with surveil
+- Thought Erasure (Guilds of Ravnica, 206) -- companion Dimir surveil spell from the same set; discard + surveil pairing
+- Dimir Spybug (Guilds of Ravnica, 168) -- creature that triggers off surveil; natural deck partner for Notion Rain in surveil builds

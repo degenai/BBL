@@ -18,6 +18,7 @@ appears_on:
   - pokemon/chilling-reign/047-198-mareep--reverse-holofoil
   - pokemon/darkness-ablaze/055-189-mareep
   - pokemon/chilling-reign/048-198-flaaffy
+  - pokemon/steam-siege/38-mareep
 related_hubs: []
 related_symbols: []
 related_characters:
@@ -59,6 +60,7 @@ For BBL bundle work, the line offers two strong narrative threads: a **wool-as-c
 - [[047-198-mareep--reverse-holofoil]]
 - [[055-189-mareep]]
 - [[048-198-flaaffy]]
+- [[38-mareep]]
 ## Canonical sources
 
 - **Bulbapedia — Mareep (Pokemon), Flaaffy (Pokemon), Ampharos (Pokemon)** — primary per-species pages; canonical reference for the line's evolution conditions (level 15, level 30), the Electric typing retained across all three stages, the wool-as-charge-storage and lighthouse-tail-beacon flavor canon, and the species' competitive presence (Static / Plus / Mold Breaker abilities across the three stages, Mega Ampharos's secondary Dragon typing in Generation VI).
@@ -73,7 +75,7 @@ For BBL bundle work, the line offers two strong narrative threads: a **wool-as-c
 
 ## Caveats
 
-- **Five corpus prints across two of three line members; partial line coverage in-corpus.** Two of the three evolutionary stages of the line are represented in current inventory (three Mareep prints at base stage including the CRE-047 Reverse Holofoil variant, two Flaaffy prints at Stage-1 middle slot; **Ampharos at the Stage-2 apex slot is not currently in BBL corpus**). The line's coverage is at the base-and-middle stages — pastoral and mid-electrification — with Ampharos (and any Mega Ampharos prints) as the future-acquisition target. When an Ampharos print enters corpus via future Collectr CSV upload, it attaches here and the line moves from partial-coverage to full-triptych coverage — the corpus's third full-triptych evolutionary-arc cohort node after the within-Vivid-Voltage Charizard triptych and any future full-triptych Staraptor line. Membership predicates on species identity, not set, era, printing variant, or trivia-pass status (the unwired vision-only Flaaffy DAA-056 print is a future-attaches-here member pending trivia pass; see next bullet).
+- **Six corpus prints across two of three line members; partial line coverage in-corpus, now spanning two TCG eras (XY and Sword & Shield).** Two of the three evolutionary stages of the line are represented in current inventory (four Mareep prints at base stage including the CRE-047 Reverse Holofoil variant and the new Steam Siege XY-era print, two Flaaffy prints at Stage-1 middle slot; **Ampharos at the Stage-2 apex slot is not currently in BBL corpus**). The line's coverage is at the base-and-middle stages — pastoral and mid-electrification — with Ampharos (and any Mega Ampharos prints) as the future-acquisition target. The Steam Siege 38 Mareep (Eri Yamaki art, XY-era August 2016) is the line's first XY-era corpus print and broadens the cohort footprint to two TCG eras (XY + Sword & Shield) across three sets (Steam Siege, Darkness Ablaze, Chilling Reign); the wool-as-air-insulation flavor on this print (*"It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter"*) is a different Pokedex-text register than the static-electricity flavor on the SwSh-era prints, reflecting the species' multi-flavor canon across generations. When an Ampharos print enters corpus via future Collectr CSV upload, it attaches here and the line moves from partial-coverage to full-triptych coverage — the corpus's third full-triptych evolutionary-arc cohort node after the within-Vivid-Voltage Charizard triptych and any future full-triptych Staraptor line. Membership predicates on species identity, not set, era, printing variant, or trivia-pass status (the unwired vision-only Flaaffy DAA-056 print and the new vision-only Mareep SteSi-38 print are both future-attaches-here members pending trivia pass; see next bullet).
 
 - **Flaaffy DAA-056 is a fifth corpus member pending trivia pass — line node anchors only the four trivia-passed prints currently.** The Flaaffy Darkness Ablaze 056/189 print (Tomokazu Komiya art, sunlit warm-toned setting, single Static Shock attack at 40 damage) is in BBL corpus and is canonically a Flaaffy print belonging to this line, but the vision-only pass on this print has not yet been promoted to a full trivia pass and the `ip_verified: false` flag is still set. When that print receives a trivia pass and IP verification, it attaches here via the `characters: ["mareep-line"]` frontmatter pointer and the `appears_on:` list extends to five members. The line node's narrative scope and design thesis are unchanged by this pending attachment — Flaaffy DAA-056 is a sibling print of Flaaffy CRE-048, just at the wave-46-stubby-stays-stubby end of the threshold. No edge work between Flaaffy CRE-048 and Flaaffy DAA-056 is warranted: the line node absorbs the cohort relationship at the species-line level.
 

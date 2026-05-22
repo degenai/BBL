@@ -28,12 +28,10 @@ tags_filter:
   - scene-mode
   - wide-shot
   - no-face
-  - multicolor-green-blue
-  - blue-magic
-  - green-magic
   - sorcery
   - card-draw
   - ramp
+  - multicolor-blue-green
 reference_image: cards/_images/magic-the-gathering/gatecrash/204-urban-evolution.png
 average_cost_paid: 0
 market_price: 0.15
@@ -52,6 +50,7 @@ art_crop_image: cards/_images/magic-the-gathering/gatecrash/204-urban-evolution-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/f/9fcd6fac-2cde-4a89-b484-b910be2dcecf.jpg?1561839459
 flavor_text: As the Simic released more of their krasis experiments, they required new habitats, always at the expense of the locals.
 oracle_text: Draw three cards. You may play an additional land this turn.
+mana_cost: "{3}{G}{U}"
 tags:
   - card
   - vision-passed
@@ -77,3 +76,14 @@ A towering biomechanical-organic hybrid creature rises from a tangle of vines an
 **Iconography:** overgrowth, reclamation
 **Genre cues:** fantasy, biopunk, post-apocalyptic
 
+## Trivia
+
+- **Set context** -- Urban Evolution is a Simic Combine card from Gatecrash (February 2013), carrying a Simic watermark. The Simic mechanic in Gatecrash was evolve, inspired by a mechanic submitted by Ethan Fleisher in the Great Designer Search 2 and focused on adaptive biological engineering -- the krasis creature type (hybrid bio-experiments) is the Simic's signature creation. `[Scryfall; magic.wizards.com/en/news/feature/gatecrash-mechanics]`
+- **Flavor text** -- "As the Simic released more of their krasis experiments, they required new habitats, always at the expense of the locals." The line positions Simic expansion as ecological and social displacement -- the guild's bioengineering agenda erases the space of whoever lived there before. `[Scryfall flavor_text]`
+- **Design / reprint history** -- Urban Evolution is one of the most reprinted cards in the batch: 11 printings across Gatecrash, Duel Decks: Elspeth vs. Kiora (2015), Modern Masters 2017, The List, RNA Guild Kit, Commander 2019, Commander Legends, New Capenna Commander, Modern Horizons 3 Commander, and Pioneer Masters (2024). All art is by Eytan Zana across every printing. Eytan Zana is also a concept artist for Naughty Dog (Uncharted, The Last of Us series), making his MTG debut in Innistrad (2011). `[Scryfall prints_search; mtgartistconnection.com/artist/Eytan%20Zana]`
+- **Mechanical reputation** -- EDHREC rank 2,194, appearing in a meaningful share of green-blue Commander decks. The effect (draw 3 + land drop) is generically powerful for Simic ramp strategies, though at 5 mana and sorcery speed it competes with faster options. Its repeated reprints signal sustained Commander demand. `[Scryfall edhrec_rank; EDHREC via WebSearch]`
+
+### Related cards
+- Explore (Zendikar, 81) -- predecessor effect: draw 1 + extra land drop, at 2 mana; Urban Evolution is the scaled-up Simic variant
+- Cultivate (Magic 2011, 165) -- Simic ramp staple that pairs with Urban Evolution in commander ramp packages
+- Elusive Krasis (Gatecrash, 160) -- exemplar krasis creature from same set, connects the spell to the creature type it depicts

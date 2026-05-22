@@ -1,0 +1,57 @@
+{
+  "card_name": "Streetbreaker Wurm",
+  "game": "Magic: The Gathering",
+  "set": "Guildpact",
+  "collector_number": "133",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Streetbreaker Wurm is a Gruul Clans card from Guildpact (February 2006), second set in the original Ravnica block. Guildpact introduced Gruul, Orzhov, and Izzet to the Ravnica setting. Only printing -- never reprinted.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'The Orzhov run a construction unit whose only business is rebuilding the wreckage left in the wake of wurms. When business is slow, they pay Golgari carnomancers to lure the wurms to the surface.' Cross-guild economic ecosystem: Orzhov profits from catastrophe, Golgari facilitates it for hire.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "At 6/4 for 5 mana ({3}{R}{G}) with no abilities, Streetbreaker Wurm is a classic vanilla common beater. EDHREC rank 28,968 -- effectively zero Commander adoption. No mechanical hook beyond raw size.",
+      "sources": ["Scryfall", "Scryfall edhrec_rank"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Greg Hildebrandt, one half of the Brothers Hildebrandt. Greg and twin Tim were famous for the official J.R.R. Tolkien calendars (1976-1978) and the original 1977 Star Wars movie poster. Greg contributed to 100+ Magic cards from Urza's Destiny onward; his Tolkien calendar art was reprinted as borderless cards in Tales of Middle-earth. Greg Hildebrandt passed away October 31, 2024, at age 85.",
+      "sources": [
+        "legacy.com/news/greg-hildebrandt-1939-2024-iconic-fantasy-artist",
+        "wikipedia.org/wiki/Brothers_Hildebrandt",
+        "thegamer.com/magic-the-gathering-lord-of-the-rings-artist-greg-hildebrandt-passed-away"
+      ]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Rumbling Slum",
+      "set": "Guildpact",
+      "note": "Another Gruul common from same set; shares urban-destruction flavor"
+    },
+    {
+      "name": "Ghor-Clan Rampager",
+      "set": "Gatecrash",
+      "note": "Later Gruul creature with Bloodrush; represents the mechanic evolution from vanilla Gruul commons"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "frontmatter_flags": {
+    "collector_number": "MISSING from frontmatter -- correct value: 133 (confirmed via Scryfall)",
+    "mana_cost": "MISSING from frontmatter -- correct value: {3}{R}{G}",
+    "color_magic_tags": "green-magic present in tags_filter but red-magic is absent -- card is red/green ({3}{R}{G}); red-magic should be added"
+  }
+}

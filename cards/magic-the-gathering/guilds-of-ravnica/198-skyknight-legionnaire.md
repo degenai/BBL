@@ -81,3 +81,14 @@ A human knight in dark plate and a long red cape rides a white-feathered winged 
 **Iconography:** red-cape, knight-banner
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** -- Skyknight Legionnaire is a Boros Legion card from Guilds of Ravnica (October 2018), carrying a Boros watermark. This is one of seven total printings spanning Ravnica: City of Guilds (2005) through Ravnica Remastered (2024). The GRN printing uses art by Chase Stone; the original 2005 printing and the Modern Masters 2017 printing used art by Jim Murray; the Gatecrash 2013 printing used art by Anthony Palumbo. The card has been illustrated by three different artists across its run. `[Scryfall prints_search]`
+- **Flavor text** -- "Squadrons of skyknights are available for deployment around the clock, capable of reaching any district in the city within minutes." The line positions the Boros skyknights as Ravnica's rapid-response aerial law enforcement -- deployed like police air support, not individual heroic cavalry. `[Scryfall flavor_text]`
+- **Mechanical reputation** -- Flying plus haste on a 2/2 for 3 mana ({1}{R}{W}) is the textbook Boros aggro profile: a threat that attacks immediately and can't be easily blocked on the ground. The card has been a Pauper-legal common since its first printing and has appeared in Boros aggressive builds across multiple format eras. EDHREC rank 15,305 reflects modest Commander adoption as a curve-filler. `[Scryfall legalities; Scryfall edhrec_rank]`
+- **Community resonance** -- An MTGSalvation thread (circa 2008) discussed Skyknight Legionnaire specifically for Standard aggressive Boros builds of that era. The card's persistent reprint history (six printings in 19 years, including Ravnica Remastered 2024) reflects Wizards' continued use of it as a Boros flagship common across every Ravnica return. Community sentiment treats it as reliable role-player, not a chase card -- its value is consistency, not power spike. `[mtgsalvation.com/forums/the-game/standard-type-2/standard-archives/125525-skyknight-legionnaire; Scryfall reprint: true]`
+
+### Related cards
+- Lightning Helix (Ravnica: City of Guilds, 213) -- the iconic Boros spell from the original Ravnica set; pairs with Skyknight in aggressive Boros strategies
+- Tajic, Legion's Edge (Guilds of Ravnica, 203) -- Boros legendary from the same set; leads the Boros guild in the GRN story
+- Aurelia, the Warleader (Gatecrash, 153) -- the Boros guildmaster who commands the skyknights; lore anchor for the corps the Legionnaire belongs to

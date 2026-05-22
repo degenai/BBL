@@ -1,0 +1,57 @@
+{
+  "card_name": "Notion Rain",
+  "game": "Magic: The Gathering",
+  "set": "Guilds of Ravnica",
+  "collector_number": "193",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Notion Rain is a Dimir guild card from Guilds of Ravnica (October 2018), carrying a Dimir watermark. Surveil was the Dimir mechanic, designed by Erik Lauer's team as a scry variant routing discarded cards to the graveyard -- cross-synergy with Izzet jump-start and Golgari undergrowth was intentional.",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/guilds-ravnica-mechanics-2018-09-04"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'City air is a constant drizzle of private thoughts.' Thoughts-as-atmospheric-precipitation; knowledge as ambient pollution. The surveil mechanic and the 2-damage drawback both fold into the metaphor -- information-gathering has a cost.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Functions as Dimir-colored Read the Bones: surveil 2 replaces scry 2, routing discarded cards to the graveyard. Pauper and PauperCommander legal; saw genuine Pauper play in Dimir surveil/control builds. EDHREC rank 8,102.",
+      "sources": ["Scryfall legalities", "Scryfall edhrec_rank", "tappedout.net/mtg-decks/26-03-19-dimir-surveil/", "coolstuffinc.com/a/kendrasmith-09282018-guilds-of-ravnicas-impact-on-pauper"]
+    },
+    {
+      "category": "design",
+      "text": "Wizards' Guilds of Ravnica mechanics article describes surveil as 'a subtle mechanic that helped you win in ways that were not so overtly obvious -- the perfect Dimir mechanic.' Designers initially explored a true scry variant ('dark scry') but abandoned it to avoid confusion.",
+      "sources": ["magic.wizards.com/en/news/feature/guilds-ravnica-mechanics-2018-09-04"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Read the Bones",
+      "set": "Theros",
+      "note": "The scry-2-draw-2-pay-2-life template Notion Rain mirrors, replacing scry with surveil"
+    },
+    {
+      "name": "Thought Erasure",
+      "set": "Guilds of Ravnica",
+      "note": "Companion Dimir surveil spell from the same set; discard+surveil pairing"
+    },
+    {
+      "name": "Dimir Spybug",
+      "set": "Guilds of Ravnica",
+      "note": "Creature that triggers off surveil; natural deck partner for Notion Rain"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "frontmatter_flags": {
+    "mana_cost": "MISSING from frontmatter -- correct value: {1}{U}{B}",
+    "color_magic_tags": "blue-magic and black-magic both present in tags_filter -- correct for a multicolor Dimir card"
+  }
+}

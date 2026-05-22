@@ -1,0 +1,39 @@
+{
+  "edge_id": "mareep-stesi38--mareep-line-cohort-attach",
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/steam-siege/38-mareep.md", "name": "Mareep (Steam Siege 38)"},
+    {"type": "character", "path": "cards/_characters/mareep-line.md", "name": "Mareep evolutionary line (Mareep / Flaaffy / Ampharos)"}
+  ],
+  "description": "Vision-only fresh-slate attach. Steam Siege 38 Mareep is the canonical Pokedex no. 179 base-stage Mareep — same species line as the four trivia-passed corpus members already on the node. The attach broadens the cohort's TCG-era footprint from one (Sword & Shield) to two (XY + Sword & Shield) across three sets, and surfaces a different Pokedex-text register (wool-as-air-insulation) than the prior prints' static-electricity flavor — both are species-canon, both are designer-coordinated. The card's vision pass already establishes the canonical wool-Pokemon-in-pastoral-meadow register; trivia pass pending. Wave-44 precedent: pointer attaches now, node anchors fully when trivia lands (per the mareep-line caveats' existing language for Flaaffy DAA-056). One sigh: this is a 1:N stack, not a 1:1 mirror. Edgelord wanted clean two-card-mirror weight; cohort-node graph topology means stack-attach is correct.",
+  "citations": [
+    "[Bulbapedia: Mareep (Pokemon) — Pokedex no. 179]",
+    "[PokemonTCG.io: xy11-38]",
+    "[Existing node: cards/_characters/mareep-line.md — wave-44 vision-only pointer precedent]"
+  ],
+  "files_modified": [
+    "cards/pokemon/steam-siege/38-mareep.md",
+    "cards/_characters/mareep-line.md"
+  ],
+  "edges_added": [
+    {"from": "cards/pokemon/steam-siege/38-mareep.md", "to": "cards/_characters/mareep-line.md", "via": "characters: [mareep-line] frontmatter + appears_on list extension"}
+  ],
+  "other_candidates_considered": [
+    "Rowlet shining-fates 006 → rowlet-line cohort attach — parent flagged this but it is ALREADY WIRED (characters: [rowlet-line] pointer present, listed in rowlet-line appears_on as pokemon/shining-fates/006-072-rowlet). No work needed; previous pass already did it.",
+    "Durant rebel-clash 132 — vision-only standalone Pokemon, no existing cohort node, no Heatmor in corpus for an adversary-coupling edge (flavor text mentions Heatmor as predator). Refuse for now; future trigger: when a Heatmor print lands, draw the Durant↔Heatmor predator-prey edge.",
+    "Oshawott steam-siege 30 — vision-only standalone Pokemon. Other corpus Oshawott (Vivid Voltage 033) is in the Unova starter line but no oshawott-line cohort node exists yet. Below threshold (2 prints across 1 stage); Nodeley would refuse a node proposal here. Future trigger: when 3+ Oshawott/Dewott/Samurott prints land across 2+ stages.",
+    "Anorith steam-siege 56 — vision-only standalone Pokemon. No corpus Armaldo, no fossil-Pokemon cohort node. Standalone for now.",
+    "Notion Rain GRN 193 — trivia complete, surveil-keyword card. Related-cards section names Thought Erasure GRN 206 and Dimir Spybug GRN 168 but NEITHER is in corpus. Surveil is a singleton in corpus; no symbol-node promotion this wave (parent confirmed). Future trigger: when 2+ surveil cards land, commission surveil symbol node analogous to suspect.",
+    "Psychic Strike GTC 189 — parent confirmed Dimir-but-not-Cipher; wave-172 Cipher pair stack stays at 2; no symbol promotion.",
+    "Urban Evolution GTC 204, Streetbreaker Wurm GPT 133, Skyknight Legionnaire GRN 198 — trivia-passed but I did not surface a stronger cross-card edge than the mareep cohort attach this wave; future passes should walk Ravnica guild-card density."
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "next_pass_suggestions": [
+    "When Mareep SteSi-38 receives a trivia pass, the mareep-line caveats can be updated to drop SteSi-38 from the 'pending vision-only members' list.",
+    "When a Decidueye, Ampharos, or Mega Ampharos print enters corpus, the relevant line node moves from partial-triptych to full-triptych coverage and unlocks Discrete Lair candidacy.",
+    "When a 2nd surveil card enters corpus, commission cards/_symbols/surveil.md analogous to cards/_symbols/suspect.md (mechanical-primitive symbol per the wave-38 schema extension).",
+    "Walk the Ravnica guild-density layer next wave — 4 GTC/GPT/GRN cards just trivia-passed; the guild-cycle / surveil / cipher network is approaching threshold for a dimir-mechanic-cohort character node if patterns hold."
+  ]
+}

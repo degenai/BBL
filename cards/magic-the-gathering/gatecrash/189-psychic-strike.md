@@ -75,3 +75,14 @@ A pale, gaunt figure with spiny protrusions along its head and a single red gem 
 **Iconography:** gem, glowing energy
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** -- Psychic Strike is a Dimir guild card from Gatecrash (February 2013), the second set in the Return to Ravnica block. Gatecrash focused on five guilds not covered in Return to Ravnica: Dimir, Orzhov, Simic, Gruul, and Boros. The set carries a Dimir watermark on this card's text box. `[Scryfall]`
+- **Flavor text** -- "Until more information could be gleaned about Niv-Mizzet's intentions, Lazav took every opportunity to stall his experiments." The flavor text identifies the spellcaster's motivation as espionage: Lazav, Dimir shapeshifting guildmaster, is countering and mind-wiping Izzet experiments specifically to surveil Niv-Mizzet's hidden agenda. Wizards' Planeswalker's Guide to Gatecrash describes Lazav as a shapeshifter who "plots against Niv-Mizzet to discern the dragon's hidden endgame." `[Scryfall flavor_text; magic.wizards.com/en/articles/archive/planeswalkers-guide-gatecrash-part-1-2012-12-05]`
+- **Design** -- The spell combines a hard counterspell with a two-card mill ("mills two cards"), encoding the Dimir guild's double function as both spy-network and memory-thief. Mill was a keyword action coined in Magic 2013 and applied retroactively; at time of printing in 2013, the card's oracle text used "mill" as it now appears. This is the only printing of Psychic Strike in the entire game -- it has never been reprinted in another set. `[Scryfall prints_search]`
+- **Mechanical reputation** -- Legal in Pauper, PauperCommander, Modern, Legacy, Pioneer, and Commander. EDHREC rank 8,765, indicating limited Commander adoption; the counterspell slot in Commander is highly contested and a 3-mana counter that only mills 2 is typically outclassed by Force of Will or Counterspell variants. Its Pauper legality gives it a niche home in budget Dimir control lists. `[Scryfall legalities; EDHREC rank via Scryfall edhrec_rank field]`
+
+### Related cards
+- Lazav, Dimir Mastermind (Gatecrash, 174) -- the named character in the flavor text; the Dimir guildmaster whose spy operation the strike serves
+- Thought Erasure (Guilds of Ravnica, 206) -- later Dimir discard spell with surveil, thematic successor to the "mind-wiping" function
+- Glimpse the Unthinkable (Ravnica: City of Guilds, 200) -- the canonical Dimir mill spell; paired with counters in Dimir mill strategies
