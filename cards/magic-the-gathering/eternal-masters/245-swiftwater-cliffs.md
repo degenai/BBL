@@ -74,3 +74,18 @@ A towering waterfall pours down a steep, sun-warmed sandstone cliff face in a na
 **Objects:** waterfall, cliff, plunge-pool, mist
 **Genre cues:** fantasy, landscape
 
+## Trivia
+
+- **Set context** — Swiftwater Cliffs originates from Khans of Tarkir (September 2014) as part of a 10-card common "gain land" cycle covering all 10 allied and enemy color pairs. The cycle is a functional reprint of the Zendikar "Refuge" taplands (2009) expanded to fill all color-pair slots. Swiftwater Cliffs covers blue-red mana. `[Scryfall: set=ktk, released_at=2014-09-26; WebSearch: MTG-Realm Tumblr — Khans of Tarkir Land Cycle overview]`
+- **Mechanical reputation** — Gain lands enter tapped and provide 1 life on entry, trading tempo for a minor life buffer. They are a Pauper format staple and the most accessible common dual-land option in budget Commander and lower-power formats. Swiftwater Cliffs has 22 total prints as of 2024, one of the most-reprinted land cycles in the game. Legal in Standard, Pioneer, Modern, Legacy, Pauper, and Commander. `[Scryfall: prints search, total_cards=22; legalities; WebSearch: ScrollVault MTG Dual Lands Guide]`
+- **Design** — The Eternal Masters printing carries new art by Eytan Zana depicting a sandstone canyon waterfall. Zana also illustrated EMA's Wind-Scarred Crag (card 249 in the same set), creating a matched landscape pair by the same illustrator across two gain lands in EMA. No flavor text appears on this card in any printing. `[Scryfall: artist=Eytan Zana, illustration_id differs from KTK printing]`
+
+### Related cards
+- Wind-Scarred Crag (Eternal Masters, no. 249) — same set, same artist, same gain-land cycle
+- Swiftwater Cliffs (Khans of Tarkir, no. 243) — original printing
+- Highland Lake (Core Set 2019) — blue-red tap-land without life gain, functional cousin
+- Sulfur Falls (Innistrad) — blue-red check land, stronger non-budget alternative for the same color pair
+
+## Connections
+
+- [[249-wind-scarred-crag]] — Matched landscape pair from the Eternal Masters gain-land cycle. Both are common "gain land" duals reprinted into EMA from the Khans of Tarkir 10-card cycle, both carry new art by Eytan Zana for that set, and both render a figureless sublime-wilderness vista (a sandstone-canyon waterfall here; a snow-streaked dawn crag there). The matched-illustrator pairing across two adjacent gain lands in the same set is designer-coordinated, not coincidental. `[Scryfall: set=ema, artist=Eytan Zana]`

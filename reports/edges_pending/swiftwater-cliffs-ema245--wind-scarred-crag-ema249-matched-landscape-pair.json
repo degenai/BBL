@@ -1,0 +1,24 @@
+{
+  "edge_id": "swiftwater-cliffs-ema245--wind-scarred-crag-ema249-matched-landscape-pair",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/eternal-masters/245-swiftwater-cliffs.md", "name": "Swiftwater Cliffs (Eternal Masters)"},
+    {"type": "card", "path": "cards/magic-the-gathering/eternal-masters/249-wind-scarred-crag.md", "name": "Wind-Scarred Crag (Eternal Masters)"}
+  ],
+  "description": "Two endpoints, must traverse from either side, so it gets mirrored. The sigh is professional, not personal. Both EMA gain lands, both reprinted out of the Khans of Tarkir 10-card common gain-land cycle, both given fresh Eytan Zana art for the set, both figureless sublime-wilderness vistas. The matched-illustrator pairing is designer-coordinated and triviabot already caught it independently on both cards — exactly the load-bearing detail an edge is for, not a thin tag bridge.",
+  "citations": ["[Scryfall: set=ema, artist=Eytan Zana]", "[Scryfall: set=ktk, gain-land cycle]"],
+  "files_modified": [
+    "cards/magic-the-gathering/eternal-masters/245-swiftwater-cliffs.md",
+    "cards/magic-the-gathering/eternal-masters/249-wind-scarred-crag.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Tinkatuff (097/132) <-> Tinkaton (098/132): genuine evolution-line edge (Tinkatink -> Tinkatuff -> Tinkaton), category named-character-identity / chain. Deferred this wave because (a) both cards are vision-only, no Trivia section yet, and the spec prefers trivia-backed edges, and (b) it is the middle of a 3-stage chain whose first link, Tinkatink, is not in the corpus. Draw it as a chain once trivia lands and/or Tinkatink enters inventory, rather than committing a partial 2-of-3 chain now.",
+    "Thornweald Archer (EMA 189) <-> Timberwatch Elf (EMA 190): both green elves, both Pauper Elves archetype staples, adjacent collector numbers. Considered but NOT an edge this pass: shared creature type + shared format archetype is a tag/filter bridge, not narrative-canonical weight. They are not the same character, not the same plane (Thornweald is Lorwyn; Timberwatch is Onslaught-block elf tribal), not a designer-confirmed flavor cycle. No edge."
+  ],
+  "next_pass_suggestions": [
+    "Tinkatuff/Tinkaton evolution-line chain edge once both are trivia-passed; promote to full chain if Tinkatink is acquired."
+  ]
+}

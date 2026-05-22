@@ -1,0 +1,36 @@
+{
+  "card_name": "Wind-Scarred Crag",
+  "game": "Magic: The Gathering",
+  "set": "Eternal Masters",
+  "collector_number": "249",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "frontmatter_flags": {
+    "mana_cost_missing": false,
+    "color_magic_tags_missing": false,
+    "notes": "Land — no mana_cost field expected. white-magic and red-magic present in tags_filter. flavor_text is absent from Scryfall API response (confirmed no flavor text on this card)."
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Wind-Scarred Crag originates from Khans of Tarkir (September 2014) as part of the same 10-card common gain-land cycle as Swiftwater Cliffs. Wind-Scarred Crag covers red-white (Boros colors), fitting the Mardu Horde wedge which also runs red-white mana alongside black. [Scryfall: set=ktk, released_at=2014-09-26; WebSearch: Khans of Tarkir Land Cycle]",
+      "sources": ["Scryfall", "WebSearch: MTG-Realm Tumblr — Khans of Tarkir Land Cycle overview"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Wind-Scarred Crag has 18 total prints as of 2024, appearing across Khans of Tarkir, Commander products, core sets, and supplemental releases. Legal in Standard, Pioneer, Modern, Legacy, Vintage, Pauper, and Commander. The card's broad format legality and budget accessibility make it one of the most common red-white dual land options in casual and Pauper play. [Scryfall: prints search, total_cards=18; legalities.pauper=legal, legalities.modern=legal]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The Eternal Masters printing carries art by Eytan Zana, depicting a windswept mountain at dawn with weathered stone pillars. Zana also illustrated EMA's Swiftwater Cliffs, making the two gain lands in this set a matched landscape pair by the same illustrator. No flavor text appears on this card in any printing. [Scryfall: artist=Eytan Zana]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Swiftwater Cliffs", "set": "Eternal Masters", "note": "same set, same artist (Eytan Zana), same gain-land cycle"},
+    {"name": "Wind-Scarred Crag", "set": "Khans of Tarkir", "note": "original printing"},
+    {"name": "Sacred Foundry", "set": "Ravnica: City of Guilds", "note": "red-white dual land, stronger shock-land alternative for the same pair"}
+  ]
+}

@@ -77,3 +77,15 @@ A weathered circular artifact, half-stone half-wood, is set into the gnarled bas
 **Iconography:** runes, concentric-circles, glyphs, arcane-sigils
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** — Relic of Progenitus was first printed in Shards of Alara (October 2008). The card's name references Progenitus, the five-headed Hydra-God worshiped on the Naya shard of Alara. Lore holds that Progenitus is the Avatar of the Alaran Worldsoul, dormant beneath Naya's soil with two heads withered due to the absence of blue and black mana on that shard. The relic is a surface token of that sleeping divinity. `[Scryfall: set=ala, released_at=2008-10-03]`
+- **Flavor text** — "Elves believe the hydra-god Progenitus sleeps beneath Naya, feeding on forgotten magics." The "forgotten magics" phrasing maps directly to the card's mechanical function: exiling cards from graveyards. Progenitus in lore began to stir fifteen years before the Conflux event, an awakening that threatened the plane's stability. `[Scryfall; MTG Wiki: Progenitus lore entry, via WebSearch snippet from breezewiki.com/mtg/wiki/Progenitus]`
+- **Mechanical reputation** — Relic of Progenitus is a cross-format graveyard hate staple in Modern, Pauper, Legacy, and Commander. Its two-mode design — a targeted tap to chip the graveyard incrementally, and a sacrifice to nuke all graveyards and replace itself with a card draw — offers flexibility that most dedicated hate pieces lack. The colorless 1-mana cost means it fits any archetype. EDHREC rank 4796. `[Scryfall: legalities; WebSearch: MTGGoldfish "Brewer's Minute: Building a Modern Sideboard — Graveyard Hate"; TCGPlayer "What Kind of Graveyard Hate Should You Run in Pauper MTG"]`
+- **Design** — The artifact holds 10 total prints across Shards of Alara, Planechase (2009), Magic Online Theme Decks (2010), Modern Masters (2013), Modern Event Deck 2014, Eternal Masters (2016), Historic Anthology 5 (2021, digital-only), The Brothers' War Commander (2022), and Mystery Booster 2 (2024). Jean-Sébastien Rossbach's illustration has been retained across all physical printings. The card prints at common in some sets and uncommon in others. `[Scryfall: prints search, total_cards=10]`
+
+### Related cards
+- Progenitus (Conflux) — the named deity whose dormancy the relic references
+- Tormod's Crypt (The Dark) — classic zero-mana graveyard-nuke, frequent comparison piece in sideboard discussions
+- Nihil Spellbomb (Scars of Mirrodin) — direct mechanical parallel: colored cantrip graveyard wipe vs. Relic's colorless incremental approach
+- Leyline of the Void (Magic 2011) — competing Modern/Pauper graveyard hate piece, different deployment mode

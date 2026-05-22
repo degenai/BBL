@@ -72,3 +72,15 @@ A solitary elf figure with pale hair and pointed ears strides forward through a 
 **Emotion read:** purposeful, confident, slightly menacing forward stride
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Timberwatch Elf originates from Legions (February 2003), the second set of the Onslaught Block. Legions was a tribal-heavy expansion where nearly every card was a creature and creature types mattered mechanically. The Onslaught Block made elf tribal a dominant green strategy, and Timberwatch Elf became its pump-spell centerpiece. `[Scryfall: set=lgn, released_at=2003-02-03; WebSearch: retailer listings confirming Legions origin]`
+- **Flavor text** — "If you ever want to leave this forest, now's the time." A thinly veiled threat: the elf is rallying the woodland to close around an intruder. Reads as a last warning before the forest acts. `[Scryfall]`
+- **Mechanical reputation** — Timberwatch Elf is the primary combat finisher in Pauper Elves, one of Pauper's longest-running archetypes. Its tap ability gives a creature +X/+X where X equals the number of Elves on the battlefield, enabling a single unblocked attacker to deal lethal damage from a developed board. Legal in Pauper and Commander but not Modern. EDHREC rank 4432. `[Scryfall: legalities; WebSearch: CoolStuffInc "The Ultimate Pauper Elves Primer" (2019)]`
+- **Design** — The EMA printing is illustrated by Yohann Schepacz with new art, replacing the original Legions illustration. Scryfall records 11 total prints including a 2024 Secret Lair Drop foil. `[Scryfall: prints search, total_cards=11]`
+
+### Related cards
+- Timberwatch Elf (Legions, no. 139) — original printing with different art
+- Elvish Visionary (Magic 2013) — Pauper Elves card-draw engine in the same archetype
+- Birchlore Rangers (Onslaught) — Onslaught Block elf, mana engine for the same tribal strategy
+- Heritage Druid (Morningtide) — Pauper Elves mana combo piece that pairs with Timberwatch's finisher role

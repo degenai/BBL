@@ -1,0 +1,36 @@
+{
+  "card_name": "Swiftwater Cliffs",
+  "game": "Magic: The Gathering",
+  "set": "Eternal Masters",
+  "collector_number": "245",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "frontmatter_flags": {
+    "mana_cost_missing": false,
+    "color_magic_tags_missing": false,
+    "notes": "Land — no mana_cost field expected. blue-magic and red-magic present in tags_filter. flavor_text is absent from Scryfall API response (confirmed no flavor text on this card)."
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Swiftwater Cliffs originates from Khans of Tarkir (September 2014) as part of a 10-card common 'gain land' cycle covering all 10 allied and enemy color pairs. The cycle is a functional reprint of the Zendikar 'Refuge' lands (2009) expanded to all 10 color pairs. Swiftwater Cliffs covers blue-red (Izzet colors). [Scryfall: set=ktk, released_at=2014-09-26; WebSearch: MTG-Realm Tumblr, Khans of Tarkir Land Cycle]",
+      "sources": ["Scryfall", "WebSearch: MTG-Realm Tumblr — Khans of Tarkir Land Cycle overview"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Gain lands enter the battlefield tapped and provide 1 life on entry, sacrificing tempo for a minor life buffer. They are a Pauper format staple and among the most accessible dual-land options in budget Commander and lower-power formats. As of 2024, Swiftwater Cliffs has 22 total prints — one of the most-reprinted land cycles in the game. [Scryfall: prints search, total_cards=22; WebSearch: ScrollVault MTG Dual Lands Guide]",
+      "sources": ["Scryfall", "WebSearch: ScrollVault 'MTG Dual Lands Guide — Every Cycle by Format'"]
+    },
+    {
+      "category": "design",
+      "text": "The Eternal Masters printing carries art by Eytan Zana, depicting a sandstone canyon waterfall. Zana also illustrated the EMA printing of Wind-Scarred Crag (card 249 in the same set), a compositional pairing of dramatic wilderness landscapes across the two allied-adjacent gain lands in that set. No flavor text appears on this card in any printing. [Scryfall: artist=Eytan Zana]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Wind-Scarred Crag", "set": "Eternal Masters", "note": "same set, same artist (Eytan Zana), same gain-land cycle"},
+    {"name": "Izzet Guildgate", "set": "Dragon's Maze", "note": "also blue-red tap-land, Ravnica parallel"},
+    {"name": "Sulfur Falls", "set": "Innistrad", "note": "blue-red dual land, stronger alternative for the same color pair"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Timberwatch Elf",
+  "game": "Magic: The Gathering",
+  "set": "Eternal Masters",
+  "collector_number": "190",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "frontmatter_flags": {
+    "mana_cost_missing": false,
+    "color_magic_tags_missing": false,
+    "notes": "mana_cost {2}{G} present; green-magic in tags_filter"
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Timberwatch Elf originates from Legions (February 2003), the second set of the Onslaught Block. Legions was a tribal-heavy set where nearly every card was a creature with a creature type that mattered. The Onslaught Block's elf subtheme made Timberwatch Elf a centerpiece of the format's green-tribal gameplay. [Scryfall: set=lgn, released_at=2003-02-03, via WebSearch retailer listings confirming Legions origin]",
+      "sources": ["Scryfall", "WebSearch: retailer listings (TCGPlayer, Full Moon Games)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"If you ever want to leave this forest, now's the time.\" The line functions as a threat-display: the elf is rallying the forest itself. It reads as a warning to outsiders before the woodland closes in. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Timberwatch Elf is the primary combat finisher in Pauper Elves, one of Pauper's longest-running archetypes. Its tap ability pumps a target creature by +X/+X equal to the number of Elves on the battlefield, enabling one-shot kills with a single unblocked attacker in a developed elf board. The card sees play in both Pauper and Commander but is not Modern-legal. [Scryfall: legalities.pauper=legal, legalities.modern=not_legal; CoolStuffInc Pauper Elves Primer via WebSearch]",
+      "sources": ["Scryfall", "WebSearch: CoolStuffInc 'The Ultimate Pauper Elves Primer' (2019)"]
+    },
+    {
+      "category": "design",
+      "text": "The EMA printing is illustrated by Yohann Schepacz, replacing the original Legions art. Scryfall records 11 total prints across Legions, Onslaught Block reprint products, Kaldheim Commander (2021), Eternal Masters (2016), Commander Anthology, and Secret Lair Drop (2024). [Scryfall: prints search, total_cards=11]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Timberwatch Elf", "set": "Legions", "note": "original printing with different art"},
+    {"name": "Elvish Visionary", "set": "Magic 2013", "note": "Pauper Elves staple, card draw engine in the same archetype"},
+    {"name": "Birchlore Rangers", "set": "Onslaught", "note": "Onslaught Block elf, mana engine for the same tribal strategy"},
+    {"name": "Heritage Druid", "set": "Morningtide", "note": "Pauper Elves mana combo piece pairing with Timberwatch finisher"}
+  ]
+}

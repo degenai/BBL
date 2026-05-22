@@ -1,0 +1,130 @@
+{
+  "triage_item_slug": "dsk-mana-cost-sweep",
+  "patient_files": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/150-ragged-playmate.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/206-wary-watchdog.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/209-baseball-bat.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/210-beastie-beatdown.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/159-trial-of-agony.md",
+    "cards/magic-the-gathering/duskmourn-house-of-horror/152-razorkin-hordecaller.md"
+  ],
+  "card_map": {
+    "150": [
+      "{1}{R}",
+      [
+        "red-magic"
+      ],
+      []
+    ],
+    "206": [
+      "{1}{G}",
+      [],
+      []
+    ],
+    "209": [
+      "{G}{W}",
+      [
+        "white-magic",
+        "multicolor-green-white"
+      ],
+      []
+    ],
+    "210": [
+      "{R}{G}",
+      [
+        "red-magic",
+        "multicolor-red-green"
+      ],
+      []
+    ],
+    "159": [
+      "{R}",
+      [
+        "red-magic"
+      ],
+      [
+        "black-magic",
+        "enchantment"
+      ]
+    ],
+    "152": [
+      "{4}{R}",
+      [],
+      []
+    ]
+  },
+  "diagnosis": {
+    "whats_wrong": "Six fully-prepped DSK spell/creature cards are missing the mana_cost frontmatter field. Three also have color-magic tag deficiencies. 150-ragged-playmate is missing red-magic entirely (cost {1}{R}). 209-baseball-bat has green-magic but is missing white-magic for its {G}{W} bicolor cost. 210-beastie-beatdown has green-magic but is missing red-magic for its {R}{G} bicolor cost. Most urgently: 159-trial-of-agony carries an ACTIVE wrong tag -- black-magic in tags_filter on a mono-red {R} card. Confirmed mana costs via Scryfall and trivia sidecars: 150={1}{R}, 206={1}{G}, 209={G}{W}, 210={R}{G}, 159={R}, 152={4}{R}. Full DSK folder has 86 card MDs. Of the 25 lacking mana_cost: 8 are legitimately correct-empty (3 pure lands + 1 land-Room + 4 Room-enchantments), 12 are raw CSV-import stubs awaiting prep, 6 are true gaps.",
+    "why_it_happened": "At wave 49-63 (commit ece95cee, 2026-05-14), researchbot.py _extract_card_text_scryfall() returned only a 2-tuple (flavor_text, oracle_text). mana_cost was added later -- confirmed present at wave 92.6 commit f4dc98cc, absent at wave 41-48 (5d542873) and wave 82-85 (4baa59ad). The is_already_prepared() guard (art_match_confidence==high + cached image on disk) then protected these cards from receiving the new field on all subsequent --prepare-only sweeps. All 6 were prepped before mana_cost capture shipped.",
+    "whats_at_risk": "Color-magic tags in tags_filter are BBL ground-truth color-identity per bbl-color-magic-is-filter. Missing mana_cost makes these 6 cards invisible to audit_tags_filter_against_oracle.py (skips cards without that field). The 159-trial-of-agony black-magic mis-tag is the most dangerous finding: a bundler or Edgelord filtering on color-identity could contaminate a black lair with a mono-red card or exclude it from legitimate red bundles. At storefront launch this would serve wrong color context to buyers."
+  },
+  "prescription": {
+    "changes": [
+      {
+        "file": "cards/magic-the-gathering/duskmourn-house-of-horror/150-ragged-playmate.md",
+        "action": "edit",
+        "detail": "Add mana_cost: {1}{R} to frontmatter. Add red-magic to tags_filter block list."
+      },
+      {
+        "file": "cards/magic-the-gathering/duskmourn-house-of-horror/206-wary-watchdog.md",
+        "action": "edit",
+        "detail": "Add mana_cost: {1}{G} to frontmatter. tags_filter already has green-magic; no color-tag change needed."
+      },
+      {
+        "file": "cards/magic-the-gathering/duskmourn-house-of-horror/209-baseball-bat.md",
+        "action": "edit",
+        "detail": "Add mana_cost: {G}{W} to frontmatter. Add white-magic + multicolor-green-white to tags_filter (green-magic already present)."
+      },
+      {
+        "file": "cards/magic-the-gathering/duskmourn-house-of-horror/210-beastie-beatdown.md",
+        "action": "edit",
+        "detail": "Add mana_cost: {R}{G} to frontmatter. Add red-magic + multicolor-red-green to tags_filter (green-magic already present)."
+      },
+      {
+        "file": "cards/magic-the-gathering/duskmourn-house-of-horror/159-trial-of-agony.md",
+        "action": "edit",
+        "detail": "Add mana_cost: {R} to frontmatter. REPLACE black-magic with red-magic in tags_filter (black-magic is factually wrong; card is mono-red {R}). Remove enchantment tag after Scryfall spot-check confirms Sorcery type."
+      },
+      {
+        "file": "cards/magic-the-gathering/duskmourn-house-of-horror/152-razorkin-hordecaller.md",
+        "action": "edit",
+        "detail": "Add mana_cost: {4}{R} to frontmatter. tags_filter already has red-magic; no color-tag change needed."
+      },
+      {
+        "file": "reports/_scratch/patch_dsk_mana_cost.py",
+        "action": "create",
+        "detail": "Targeted 6-card backfill script. Mapping: collector_number -> (mana_cost, tags_to_add, tags_to_remove). Reads frontmatter, calls update_frontmatter_field for mana_cost, edits tags_filter block list, calls bbl_schema.normalize_file after each write. Dry-run by default with --apply flag. Template: reports/_scratch/strip_suspected_ip_hash.py."
+      }
+    ],
+    "commands": [
+      "python reports/_scratch/patch_dsk_mana_cost.py --dry-run",
+      "python reports/_scratch/patch_dsk_mana_cost.py --apply",
+      "python scripts/audit_tags_filter_against_oracle.py | grep duskmourn"
+    ],
+    "order_of_operations": [
+      "Step 1: Spot-check Trial of Agony (159) on Scryfall to confirm card type is Sorcery before removing enchantment tag.",
+      "Step 2: Write reports/_scratch/patch_dsk_mana_cost.py with the 6-card mapping.",
+      "Step 3: Run --dry-run; confirm exactly 6 files touched with correct values.",
+      "Step 4: Run --apply to commit the writes.",
+      "Step 5: Run audit_tags_filter_against_oracle.py filtered to duskmourn; confirm 0 mismatch lines for the 6 fixed cards.",
+      "Step 6 (future, separate): Prep wave for the 12 raw stubs via researchbot.py --prepare-only --force --game Magic --set-filter duskmourn."
+    ],
+    "verification": [
+      "grep mana_cost cards/magic-the-gathering/duskmourn-house-of-horror/150-ragged-playmate.md -- should return: mana_cost: {1}{R}",
+      "grep black-magic cards/magic-the-gathering/duskmourn-house-of-horror/159-trial-of-agony.md -- should return 0 matches",
+      "grep red-magic cards/magic-the-gathering/duskmourn-house-of-horror/159-trial-of-agony.md -- should return 1 match",
+      "python scripts/audit_tags_filter_against_oracle.py | grep duskmourn -- should show 0 mismatches for the 6 fixed cards"
+    ]
+  },
+  "estimates": {
+    "effort": "30-minute helper",
+    "risk": "low",
+    "blockers": [
+      "159-trial-of-agony tags_filter contains enchantment tag; oracle text confirms Sorcery but do a Scryfall spot-check before removing it in the script."
+    ]
+  },
+  "referrals": [
+    "The 12 raw stub cards (83-appendage-amalgam, 85-cackling-slasher, 88-cracked-skull, 93-derelict-attic-widow-s-walk, 96-fanatic-of-the-harrowing, 97-fear-of-lost-teeth, 98-fear-of-the-dark, 99-final-vengeance, 101-give-in-to-violence, 103-innocuous-rat, 115-resurrected-cultist, 116-spectral-snatcher) need full researchbot --prepare-only treatment in a future prep wave."
+  ],
+  "nurse_notes": "Patient: Duskmourn House of Horror card cohort, six members presenting with missing mana_cost and three with color-magic tag deficiencies. Root condition is temporal: these six were admitted while mana_cost was not yet in the researchbot intake protocol, and the is_already_prepared guard then protected them from the new field on all subsequent prep sweeps. The guard is doing its job; the gap is that these patients arrived before the new lab test was added. Treatment: a 6-card scratch script with hard-coded Scryfall-verified values from existing trivia sidecars. Trial of Agony (159) is the most urgent case -- black-magic on a mono-red {R} card is an active diagnostic error with downstream bundle-contamination risk. The enchantment tag on that same card is also anomalous for a Sorcery; address both in the same pass after a fast Scryfall spot-check. Prognosis excellent; total treatment time under 30 minutes. Note: the 12 raw stubs in this folder are a separate presenting condition and belong on the prep-wave schedule, not this prescription."
+}

@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - hammer
+  - pink
+  - round-creature
+  - cute
+  - tough
+  - fairy-type
+  - evolution-line
+  - weapon
+  - small-but-strong
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - forward-facing
+  - creature-only
+  - stage-1
 reference_image: cards/_images/pokemon/mega-evolution/097-132-tinkatuff.png
 average_cost_paid: 0
 market_price: 0.11
@@ -25,6 +40,33 @@ oracle_text: "[Ability: Haphazard Hammer] Once during your turn, when you play t
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: other
+suspected_ip: Tinkatuff
+ip_confidence: high
+ip_verified: false
 ---
 
 # Tinkatuff (Mega Evolution)
+
+## Vision
+
+![097-132-tinkatuff](../../_images/pokemon/mega-evolution/097-132-tinkatuff.png)
+
+> [!warning] Suspected IP: **Tinkatuff** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A round, pink bipedal Pokemon with a small bow atop its head stands in a mid-shot composition against a light, neutral rocky background. To the right and partially behind it looms a very large, dark hammer mass — heavy and rough-textured — that dwarfs the creature's body. The Pokemon's posture is upright and calm, with small rounded limbs. The overall palette is pale pinks, grays, and dark charcoal from the hammer element.
+
+**Subject:** Tinkatuff, a round pink bipedal Pokemon with a bow-like adornment on its head, shown beside a large dark hammer-like mass
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, indeterminate
+**Foreground:** round pink Pokemon with bow adornment, large dark hammer mass beside it  *(palette: pink, charcoal, gray)*
+**Background:** light neutral background with subtle rocky texture  *(palette: light gray, white, stone)*
+**Mood / lighting:** action, soft
+**Emotion read:** calm, upright stance; neutral expression
+**Objects:** large hammer, rock mass
+**Creatures:** Tinkatuff
+**Genre cues:** anime, fantasy

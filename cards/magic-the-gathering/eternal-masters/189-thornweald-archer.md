@@ -76,3 +76,15 @@ A compact, heavily armored elf figure occupies the center of the frame, wearing 
 **Objects:** longbow, arrow, armor
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Thornweald Archer originates from Future Sight (May 2007), a set designed to preview cards that felt like they could come from the future of Magic. Thornweald is a location on the Lorwyn plane — a deep, tangled woodland where elves hunt prey rather than tend gardens. `[Scryfall: set=fut, released_at=2007-05-04]`
+- **Flavor text** — "Their arrows are tipped with basilisk eyes and fletched with cockatrice feathers." The line is mechanically explanatory: basilisk eyes invoking death on contact (Deathtouch), cockatrice feathers reaching skyward (Reach). Both keywords are baked into the flavor. `[Scryfall]`
+- **Design** — Artist Dave Kendall has illustrated this card across all 10 of its printings with the same art, appearing in Future Sight, Commander 2014, Eternal Masters, Duel Decks: Nissa vs. Ob Nixilis, Commander Anthology, The List, Time Spiral Remastered, Game Night: Free-for-All, Foundations, and Foundations Jumpstart. `[Scryfall: prints search, total_cards=10]`
+- **Mechanical reputation** — Reach plus Deathtouch on a common is a widely recognized two-keyword defensive package: the archer blocks aerial threats and kills any creature it damages regardless of toughness. Legal in Pauper, Commander, Modern, Legacy, and Standard. EDHREC rank 5849 indicates niche but steady inclusion in green creature lists. `[Scryfall: legalities; EDHREC rank via Scryfall]`
+
+### Related cards
+- Thornweald Archer (Future Sight, no. 154) — original printing, same Dave Kendall art
+- Lys Alana Huntmaster (Lorwyn) — Lorwyn elf tribal lord, same plane as Thornweald
+- Ezuri, Renegade Leader (Scars of Mirrodin) — Pauper Elves finisher, shares elf-tribal context
+- Ambush Viper (Innistrad) — comparable reach+deathtouch profile at instant speed

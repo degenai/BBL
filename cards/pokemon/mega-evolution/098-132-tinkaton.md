@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - hammer
+  - strength
+  - boulder
+  - destruction
+  - pink
+  - oversized-weapon
+  - small-but-strong
+  - evolution-line
+  - dust
+  - cute
+  - chaos
+tags_filter:
+  - solo
+  - wide-shot
+  - action-mode
+  - three-quarter
+  - creature-only
+  - stage-2
 reference_image: cards/_images/pokemon/mega-evolution/098-132-tinkaton.png
 average_cost_paid: 0
 market_price: 0.11
@@ -25,6 +42,33 @@ oracle_text: "Windup Swing (Metal) 240-: This attack does 60 less damage for eac
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: other
+suspected_ip: Tinkaton
+ip_confidence: high
+ip_verified: false
 ---
 
 # Tinkaton (Mega Evolution)
+
+## Vision
+
+![098-132-tinkaton](../../_images/pokemon/mega-evolution/098-132-tinkaton.png)
+
+> [!warning] Suspected IP: **Tinkaton** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A pink bipedal Pokemon heaves a colossal rounded boulder-hammer in a wide, spinning swing. The creature is small relative to its weapon — the hammer is easily three or four times the creature's body mass. Chunks of rock and clouds of dust scatter outward from the impact arc. The background is a warm tan and brown dusty landscape with scattered debris. The composition is wide and dynamic, emphasizing the overwhelming scale of the weapon against the small figure wielding it.
+
+**Subject:** Tinkaton, a pink bipedal Pokemon mid-swing with an enormous boulder-like hammer, surrounded by flying debris
+
+**Composition:** wide, action, figures: solo, facing: three-quarter
+**Setting:** other, indeterminate
+**Foreground:** small pink Pokemon swinging an enormous boulder hammer; rock debris mid-air  *(palette: pink, tan, gray, brown)*
+**Background:** dusty brown landscape with rock fragments and debris clouds  *(palette: tan, brown, ochre, gray)*
+**Mood / lighting:** action, ambient
+**Emotion read:** powerful, forceful — body in full swing rotation
+**Objects:** boulder hammer, rock debris, dust cloud
+**Creatures:** Tinkaton
+**Genre cues:** anime, fantasy

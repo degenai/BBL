@@ -74,3 +74,18 @@ A jagged snow-streaked mountain peak dominates the background, its ridges catchi
 **Objects:** stone-pillars, weathered-columns, ruins
 **Genre cues:** fantasy, wilderness
 
+## Trivia
+
+- **Set context** — Wind-Scarred Crag originates from Khans of Tarkir (September 2014) as part of the same 10-card common gain-land cycle as Swiftwater Cliffs. Wind-Scarred Crag covers red-white mana, fitting the Mardu Horde wedge (red-white-black) that also uses this color pair as its core. `[Scryfall: set=ktk, released_at=2014-09-26; WebSearch: MTG-Realm Tumblr — Khans of Tarkir Land Cycle overview]`
+- **Mechanical reputation** — Wind-Scarred Crag has 18 total prints as of 2024 across Khans of Tarkir, Commander products, core sets, and supplemental releases. Legal in Standard, Pioneer, Modern, Legacy, Pauper, and Commander. The card's broad format legality and near-zero budget floor make it one of the most played red-white dual options in casual and Pauper play. `[Scryfall: prints search, total_cards=18; legalities.pauper=legal, legalities.modern=legal]`
+- **Design** — The Eternal Masters printing carries art by Eytan Zana depicting a windswept mountain at dawn with weathered stone pillars in the foreground. Zana also illustrated EMA's Swiftwater Cliffs, making the two gain lands in that set a landscape pair by the same illustrator — a quiet thematic match across adjacent cards in the set list. No flavor text appears on this card in any printing. `[Scryfall: artist=Eytan Zana]`
+
+### Related cards
+- Swiftwater Cliffs (Eternal Masters, no. 245) — same set, same artist, same gain-land cycle
+- Wind-Scarred Crag (Khans of Tarkir, no. 247) — original printing
+- Boros Guildgate (Return to Ravnica) — red-white tap-land without life gain, Ravnica parallel
+- Sacred Foundry (Ravnica: City of Guilds) — red-white shock land, stronger non-budget alternative for the same color pair
+
+## Connections
+
+- [[245-swiftwater-cliffs]] — Matched landscape pair from the Eternal Masters gain-land cycle. Both are common "gain land" duals reprinted into EMA from the Khans of Tarkir 10-card cycle, both carry new art by Eytan Zana for that set, and both render a figureless sublime-wilderness vista (a snow-streaked dawn crag here; a sandstone-canyon waterfall there). The matched-illustrator pairing across two adjacent gain lands in the same set is designer-coordinated, not coincidental. `[Scryfall: set=ema, artist=Eytan Zana]`

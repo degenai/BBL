@@ -1,0 +1,42 @@
+{
+  "card_name": "Relic of Progenitus",
+  "game": "Magic: The Gathering",
+  "set": "Eternal Masters",
+  "collector_number": "231",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "frontmatter_flags": {
+    "mana_cost_missing": false,
+    "color_magic_tags_missing": false,
+    "notes": "mana_cost {1} present; colorless-magic in tags_filter"
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Relic of Progenitus was first printed in Shards of Alara (October 2008). The card's name references Progenitus, the five-headed Hydra-God worshiped on the Naya shard of Alara. Naya lore holds that Progenitus sleeps beneath the earth, feeding on forgotten magic — the artifact physically represents a fragment of dormant divine power. [Scryfall: set=ala, released_at=2008-10-03]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Elves believe the hydra-god Progenitus sleeps beneath Naya, feeding on forgotten magics.\" Progenitus is canonical to Alara lore: a five-headed creature described as the Avatar of the Alaran Worldsoul, dormant under Naya's soil with reduced heads due to absence of blue and black mana, who began to stir fifteen years before the Conflux event. The relic is thus a surface token of something vast and largely inert. [Scryfall; WebSearch: MTG Wiki via breezewiki.com/mtg/wiki/Progenitus]",
+      "sources": ["Scryfall", "MTG Wiki (via WebSearch snippet): Progenitus lore entry"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Relic of Progenitus is a format staple for graveyard hate across Modern, Pauper, Legacy, and Commander. Its two modes — a targeted tap ability to slowly chip the opponent's graveyard, and a 2-mana sacrifice to nuke all graveyards and draw a card — give it flexibility that most graveyard-hate pieces lack. The colorless cost means it slots into any archetype. It is legal in Modern, Pauper, Legacy, Vintage, and Commander. [Scryfall: legalities; MTGGoldfish 'Building a Modern Sideboard: Graveyard Hate' via WebSearch; TCGPlayer Pauper graveyard hate article via WebSearch]",
+      "sources": ["Scryfall", "WebSearch: MTGGoldfish 'Brewer's Minute: Building a Modern Sideboard — Graveyard Hate'", "WebSearch: TCGPlayer 'What Kind of Graveyard Hate Should You Run in Pauper MTG'"]
+    },
+    {
+      "category": "design",
+      "text": "The card has 10 total prints (as of 2024) across Shards of Alara, Planechase (2009), Magic Online Theme Decks (2010), Modern Masters (2013), Modern Event Deck 2014, Eternal Masters (2016), Historic Anthology 5 (2021 digital), The Brothers' War Commander (2022), Mystery Booster 2 (2024). The EMA printing carries the same Jean-Sébastien Rossbach illustration throughout all its printings. Rarity varies: it is common in some printings (Shards of Alara, Planechase, EMA) and uncommon in others. [Scryfall: prints search, total_cards=10]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Progenitus", "set": "Conflux", "note": "the named deity whose dormancy the relic references"},
+    {"name": "Leyline of the Void", "set": "Magic 2011", "note": "competing Modern/Pauper graveyard hate piece, different mode"},
+    {"name": "Tormod's Crypt", "set": "The Dark", "note": "classic zero-mana graveyard-nuke counterpart, frequent comparison in sideboard discussions"},
+    {"name": "Nihil Spellbomb", "set": "Scars of Mirrodin", "note": "direct mechanical comparison: colored cantrip graveyard wipe vs. colorless slow-chip"}
+  ]
+}

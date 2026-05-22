@@ -1,0 +1,42 @@
+{
+  "card_name": "Thornweald Archer",
+  "game": "Magic: The Gathering",
+  "set": "Eternal Masters",
+  "collector_number": "189",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "frontmatter_flags": {
+    "mana_cost_missing": false,
+    "color_magic_tags_missing": false,
+    "notes": "mana_cost {1}{G} present; green-magic in tags_filter"
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Thornweald Archer originates from Future Sight (May 2007), a set designed to preview cards that 'felt like they could be from the future of Magic.' Thornweald is a location in the Lorwyn plane — a deep, tangled woodland where elves hunt prey rather than tend gardens. [Scryfall: set=fut, released_at=2007-05-04]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Their arrows are tipped with basilisk eyes and fletched with cockatrice feathers.\" The flavor text explains both of the card's keyword abilities mechanically: the basilisk eye invoking death on contact (Deathtouch), and the cockatrice feathers reaching up into the sky (Reach). [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Dave Kendall has illustrated this card across all 10 of its printings, retaining the same illustration throughout. The card has appeared in Future Sight (2007), Commander 2014, Eternal Masters (2016), Duel Decks: Nissa vs. Ob Nixilis (2016), Commander Anthology (2017), The List, Time Spiral Remastered (2021), Game Night: Free-for-All (2022), Foundations (2024), and Foundations Jumpstart (2024). [Scryfall: prints search, total_cards=10]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Reach plus Deathtouch on a common is a widely recognized two-keyword combination valued in Pauper and Commander: the Reach stops aerial threats from connecting, and any fight or block initiated by the archer kills the target via Deathtouch regardless of the target's toughness. The card is Pauper-legal across all its printings. [Scryfall: legalities.pauper=legal]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Thornweald Archer", "set": "Future Sight", "note": "original printing, same Dave Kendall art"},
+    {"name": "Lys Alana Huntmaster", "set": "Lorwyn", "note": "Lorwyn elf tribal lord, same plane as Thornweald"},
+    {"name": "Ezuri, Renegade Leader", "set": "Scars of Mirrodin", "note": "Pauper Elves finisher, shares elf-tribal context"},
+    {"name": "Ambush Viper", "set": "Innistrad", "note": "comparable reach+deathtouch staple, same mechanical profile at instant speed"}
+  ]
+}
