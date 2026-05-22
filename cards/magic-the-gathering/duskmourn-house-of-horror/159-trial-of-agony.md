@@ -30,10 +30,9 @@ tags_filter:
   - narrative-mode
   - no-face-on-right-figure
   - three-quarter
-  - black-magic
-  - enchantment
   - indoor
   - warm-palette
+  - red-magic
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/159-trial-of-agony.png
 average_cost_paid: 0
 market_price: 0.28
@@ -48,6 +47,7 @@ art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/159-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/a/fa62f67a-d20f-4d99-b0a2-327634299c9f.jpg?1726286448
 flavor_text: All it took to shatter their lifelong bond was a scrap of hope.
 oracle_text: Choose two target creatures controlled by the same opponent. That player chooses one of those creatures. Trial of Agony deals 5 damage to that creature, and the other can't block this turn.
+mana_cost: "{R}"
 mood: horror
 time_of_day: indeterminate
 setting: indoor
@@ -93,4 +93,3 @@ Two figures share a single heavy iron chain inside a warm-lit trap room of wood 
 - Trial of Ambition (Amonkhet) — earlier MTG "Trial of" cycle; same name prefix
 - Trial of Knowledge (Amonkhet) — earlier "Trial of" cycle anchor
 - Trial of Solidarity (Amonkhet) — earlier "Trial of" cycle anchor
-

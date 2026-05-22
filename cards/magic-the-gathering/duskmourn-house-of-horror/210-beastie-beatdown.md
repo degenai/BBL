@@ -26,10 +26,10 @@ tags_filter:
   - mid-shot
   - action
   - three-quarter
-  - green-magic
   - sorcery
   - indoor
   - creature-fight
+  - multicolor-red-green
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/210-beastie-beatdown.png
 average_cost_paid: 0
 market_price: 0.04
@@ -43,6 +43,7 @@ artist: Inkognit
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/210-beastie-beatdown--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/f/5f889c95-46af-4fd9-aff2-573d5384fd58.jpg?1726286652
 oracle_text: Choose target creature you control and target creature an opponent controls.\nDelirium — If there are four or more card types among cards in your graveyard, put two +1/+1 counters on the creature you control.\nThe creature you control deals damage equal to its power to the creature an opponent controls.
+mana_cost: "{R}{G}"
 image_width: 745
 image_height: 1040
 image_quality: high

@@ -52,6 +52,7 @@ art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/152-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/7/f7fb0f11-d1d0-4941-a1a7-a2db88f30394.jpg?1726286414
 flavor_text: \"Know your place, pets! First blood is mine!\"
 oracle_text: Haste\nWhenever you attack, create a 1/1 red Gremlin creature token.
+mana_cost: "{4}{R}"
 mood: horror
 time_of_day: indeterminate
 setting: other
@@ -101,4 +102,3 @@ A central figure in dark red plate armor and a ruff-collared tunic charges forwa
 ## Connections
 
 - [[132-diversion-specialist]] — Razorkin-side vs. Survivor-side of the DSK faction-conflict pillar; Diversion Specialist's flavor `"Hey! Fang-faces! Over here!"` taunts the Razorkin faction Hordecaller leads, and Wizards' Planeswalker's Guide to Duskmourn names Razorkin and Survivors as two of the three canonical Duskmourn factions. `[Wizards: Planeswalker's Guide to Duskmourn; Scryfall flavor_text DSK-132]`
-

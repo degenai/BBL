@@ -26,9 +26,9 @@ tags_filter:
   - close-up
   - narrative
   - no-face
-  - green-magic
   - artifact-equipment
   - indoor
+  - multicolor-white-green
 characters:
   - dsk-survival-archetype
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/209-baseball-bat.png
@@ -44,6 +44,7 @@ artist: John Stanko
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/209-baseball-bat--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/3/438accb1-6d2c-4710-adeb-df4301a7b8f1.jpg?1726286646
 oracle_text: "When this Equipment enters, attach it to target creature you control.\\nEquipped creature gets +1/+1.\\nWhenever equipped creature attacks, tap up to one target creature.\\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)"
+mana_cost: "{G}{W}"
 image_width: 745
 image_height: 1040
 image_quality: high

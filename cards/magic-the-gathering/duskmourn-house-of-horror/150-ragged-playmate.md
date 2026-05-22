@@ -31,6 +31,7 @@ tags_filter:
   - forward-facing
   - scene-mode
   - creature
+  - red-magic
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/150-ragged-playmate.png
 average_cost_paid: 0
 market_price: 0.06
@@ -45,6 +46,7 @@ art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/150-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/0/000499a4-3f39-4d25-a2a2-b2f014e30754.jpg?1726286406
 flavor_text: \"You tried to throw me away, Henry. I don't like that at all.\"
 oracle_text: "{1}, {T}: Target creature with power 2 or less can't be blocked this turn."
+mana_cost: "{1}{R}"
 image_width: 745
 image_height: 1040
 image_quality: high

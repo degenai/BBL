@@ -50,6 +50,7 @@ art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/206-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/5/25ed97f2-b47e-49b7-9b1a-694c4bbeca3b.jpg?1726286637
 flavor_text: Valgavoth harbors a special loathing for dogs, whose mere presence provides a powerful antidote to the fear he craves.
 oracle_text: When this creature enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+mana_cost: "{1}{G}"
 characters:
   - valgavoth
 tags:
