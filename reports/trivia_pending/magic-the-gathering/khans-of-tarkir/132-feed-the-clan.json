@@ -1,0 +1,61 @@
+{
+  "card_name": "Feed the Clan",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "132",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Khans of Tarkir (released 2014-09-26) was the first set of the Tarkir block and the last three-set block in Magic history. Feed the Clan belongs to the Temur Frontier (GUR), the isolationist mountain clan that values the strength of living things. [Scryfall], [Wizards: Mechanics of Khans of Tarkir]",
+      "sources": ["Scryfall", "https://magic.wizards.com/en/news/feature/mechanics-khans-tarkir"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Feed the Clan is a {1}{G} instant that gains 5 life baseline, or 10 life with Ferocious (controlling a creature with power 4 or greater). It is a consistent Pauper Mono-Green Stompy sideboard staple for shutting down Burn matchups. [Scryfall], [Pauper Stompy guide via Team Hold Priority]",
+      "sources": ["Scryfall", "https://teamhp555130435.wordpress.com/2018/10/26/mono-green-stompy-pauper-guide/", "https://magic.wizards.com/en/news/feature/mechanics-khans-tarkir"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The Temur believe three things only are needed in life: a hot fire, a full belly, and a strong companion.\" [Scryfall] — Speaker unnamed; encapsulates Temur anti-civilization ethos (survival, community, raw strength without hierarchy) and mirrors the card's mechanical identity.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Winona Nelson (140+ MTG cards). Nelson was profiled in Hipsters of the Coast's Arting Around column in July 2015; she describes connecting emotionally to each assignment rather than approaching illustration purely technically. [Hipsters of the Coast: Arting Around — Winona Nelson Interview, 2015]",
+      "sources": ["https://www.hipstersofthecoast.com/2015/07/arting-around-winona-nelson-interview/"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Pauper, Pioneer, Modern, Legacy, Vintage, Commander, and Historic. EDHREC reports 5,722 Commander decks include the card, paired most often with Heroes' Reunion and Rest for the Weary. [EDHREC], [Scryfall]",
+      "sources": ["https://edhrec.com/cards/feed-the-clan", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Feed the Clan received one reprint: The List (PLST) on 2019-11-07 as collector number KTK-132. No draftable reprint set. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Temur Charm", "set": "KTK", "note": "Temur charm cycle entry; same clan watermark"},
+    {"name": "Savage Punch", "set": "KTK", "note": "Ferocious-keyed Temur green instant from same set"},
+    {"name": "Surrak Dragonclaw", "set": "KTK", "note": "Temur khan; marquee rare; thematic anchor for the Ferocious clan"},
+    {"name": "Abzan Charm", "set": "KTK", "note": "Adjacent charm in the five-clan cycle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": {
+    "clan_watermark": "Temur",
+    "clan_mechanic": "Ferocious",
+    "cycle_membership": "none",
+    "mana_cost_present": true,
+    "color_magic_tags_present": true,
+    "hipsters_artist_interview": "Winona Nelson — https://www.hipstersofthecoast.com/2015/07/arting-around-winona-nelson-interview/ — flag for artist node creation",
+    "edgelord_note": "Temur clan watermark; no special cycle membership beyond Ferocious staple"
+  }
+}

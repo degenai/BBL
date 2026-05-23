@@ -1,0 +1,56 @@
+{
+  "card_name": "Kin-Tree Invocation",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "183",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Kin-Tree Invocation is an Abzan Houses uncommon sorcery ({B}{G}). In Abzan culture, each family tends a kin-tree — a fruit-bearing tree beneath which ancestors are buried without a casket, their spirits dwelling in the tree. Those bonded to the tree can summon ancestor spirits to fight. The card mechanically represents this: it creates a Spirit Warrior token scaled to the toughness of the Abzan's most enduring living fighter. [Wizards: Planeswalker's Guide to Khans of Tarkir, Part 1], [Scryfall]",
+      "sources": ["https://magic.wizards.com/en/news/feature/planeswalkers-guide-khans-tarkir-part-1-2014-09-03", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Creates an X/X black-green Spirit Warrior token where X = the greatest toughness among creatures you control. Toughness-as-power-source reflects Abzan's endurance identity. Direct synergy with Outlast: Outlasted creatures accumulate +1/+1 counters and grow in toughness, feeding larger invocation tokens each cast. [Scryfall], [Wizards: Mechanics of Khans of Tarkir]",
+      "sources": ["Scryfall", "https://magic.wizards.com/en/news/feature/mechanics-khans-tarkir"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The passing years add new rings to the tree's trunk, bolstering the spirits that dwell within.\" [Scryfall] — The rings-of-a-tree metaphor maps directly to the game mechanic: each year (each counter, each Outlast activation) adds to the spiritual reserve that Kin-Tree Invocation draws upon. Flavor-to-function alignment is tight.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "X is locked in at resolution; the token's stats don't change if toughness later shifts. High-toughness creatures like Ivorytusk Fortress (5/7) or Doran, the Siege Tower create large token baselines. EDHREC reports 2,138 Commander decks include Kin-Tree Invocation, rank 18,844 — present in dedicated Abzan toughness-matters builds. [EDHREC: Kin-Tree Invocation], [Scryfall]",
+      "sources": ["https://edhrec.com/cards/kin-tree-invocation", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Ryan Alexander Lee. The card's frontmatter contained a manual_review_reason flagging 'No reference image found via scryfall for set Khans of Tarkir' during initial prep, though the reference_image_source_url was subsequently resolved correctly from Scryfall. The card record is in order. [Scryfall], [card frontmatter]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Abzan Falconer", "set": "KTK", "note": "Abzan Outlast counter lord; grants flying; same clan and counter-matters theme"},
+    {"name": "Tuskguard Captain", "set": "KTK", "note": "Abzan Outlast counter lord in inventory; grants trample; feeds same toughness-counter engine"},
+    {"name": "Ivorytusk Fortress", "set": "KTK", "note": "Abzan rare 5/7; would generate a 7/7 token via Kin-Tree Invocation"},
+    {"name": "Doran, the Siege Tower", "set": "LRW", "note": "Classic toughness-as-power commander; natural synergy with toughness-scaled token creation"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": {
+    "clan_watermark": "Abzan",
+    "clan_mechanic": "Outlast (synergy payoff)",
+    "cycle_membership": "none",
+    "mana_cost_present": true,
+    "color_magic_tags_present": true,
+    "manual_review_reason_stale": "manual_review_reason field contains old prep-time note; image URL resolved correctly; safe to clear",
+    "edgelord_note": "Abzan clan; Outlast synergy card; ancestor/spirit-warrior lore tightly aligned with card mechanics; kin-tree ancestor-worship lore could anchor an Abzan-specific lair"
+  }
+}

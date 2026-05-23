@@ -75,3 +75,20 @@ A single large armored warrior figure is shown in a low, aggressive running char
 **Objects:** polearm, horned helmet
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set / lore context** — Kin-Tree Invocation is an Abzan Houses uncommon sorcery from Khans of Tarkir (released September 26, 2014). In Abzan culture, each family tends a kin-tree — a fruit-bearing tree beneath which ancestors are buried without a casket, their spirits dwelling in and around the tree. Those bonded to the tree can summon these ancestor spirits, even calling them forth to fight. Kin-Tree Invocation represents this practice mechanically: it creates a Spirit Warrior token, the summoned ancestor embodied in battle form, sized by the toughness of the Abzan's most enduring living fighter. [Wizards: Planeswalker's Guide to Khans of Tarkir, Part 1](https://magic.wizards.com/en/news/feature/planeswalkers-guide-khans-tarkir-part-1-2014-09-03), [Scryfall]
+- **Mechanical design** — The card creates an X/X black-green Spirit Warrior token where X equals the greatest toughness among creatures you control. Toughness-as-power-source reflects the Abzan's endurance identity (white-black-green, with white providing high-toughness defensive creatures). The interaction with Abzan's Outlast mechanic is direct: Outlasted creatures accumulate +1/+1 counters and grow in toughness, feeding larger and larger invocation tokens each cast. [Scryfall], [Wizards: Mechanics of Khans of Tarkir](https://magic.wizards.com/en/news/feature/mechanics-khans-tarkir)
+- **Flavor text** — "The passing years add new rings to the tree's trunk, bolstering the spirits that dwell within." [Scryfall] — The rings-of-a-tree metaphor maps directly to the game mechanic: each year (each turn of Outlast, each counter) adds to the spiritual reserve that Kin-Tree Invocation can tap. The flavor-to-function alignment is tight.
+- **Combo potential** — Because X is set when the sorcery resolves and the token's stats don't change afterward, there are no timing-window caveats once the token is on the battlefield. High-toughness Abzan creatures like Ivorytusk Fortress (5/7) or Doran, the Siege Tower (0/5, and attacks with its toughness) create large token baselines. EDHREC reports 2,138 Commander decks include Kin-Tree Invocation, ranking it 18,844 overall — modest but present in dedicated Abzan toughness-matters builds. [EDHREC: Kin-Tree Invocation](https://edhrec.com/cards/kin-tree-invocation), [Scryfall]
+- **Artist** — Illustrated by Ryan Alexander Lee. The card's manual_review_reason field notes "No reference image found via scryfall for set 'Khans of Tarkir'" during prep, though the reference image URL was subsequently resolved correctly. The card's Scryfall record is in order. [Scryfall], [card frontmatter]
+
+### Related cards
+- Abzan Falconer (KTK, 2) — Abzan Outlast counter lord; grants flying; same clan and counter-matters theme
+- Tuskguard Captain (KTK, 156) — Abzan Outlast counter lord in inventory; grants trample; feeds the same toughness-counter engine
+- Ivorytusk Fortress (KTK, 192) — Abzan rare 5/7; would create a 7/7 token via Kin-Tree Invocation
+- Doran, the Siege Tower (LRW, 155) — classic toughness-as-power commander; synergy with toughness-scaled token creation
+
+## Connections
+
+- [[156-tuskguard-captain]] — Designer-confirmed Abzan mechanic-flavor pair. Tuskguard Captain Outlasts a +1/+1 counter onto itself each turn and grants trample to every counter-bearing creature; Kin-Tree Invocation then scales its Spirit Warrior token off the highest toughness on your board, which Outlast has been steadily raising. The Abzan kin-tree-and-ancestors lore (elders buried beneath the tree, spirits called forth to fight) is rendered mechanically as Outlast counters becoming token size — endurance compounding into reinforcement. [Wizards: Mechanics of Khans of Tarkir](https://magic.wizards.com/en/news/feature/mechanics-khans-tarkir), [Wizards: Planeswalker's Guide to Khans of Tarkir, Part 1](https://magic.wizards.com/en/news/feature/planeswalkers-guide-khans-tarkir-part-1-2014-09-03)

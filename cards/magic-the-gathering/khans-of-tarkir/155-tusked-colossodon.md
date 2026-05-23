@@ -73,3 +73,15 @@ A colossal shaggy creature dominates the composition, its pale, fur-covered bulk
 **Creatures:** mammoth-like megafauna, horned quadrupeds
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Tusked Colossodon is a Temur Frontier common from Khans of Tarkir (released September 26, 2014), a 6/5 Beast for {4}{G}{G}. The Temur are the green-blue-red clan of Tarkir's mountainous wilderness, defined by ferocity and the philosophy that raw power determines survival. Large, high-toughness creatures are the Temur's mechanical and narrative identity. [Scryfall], [Wizards: Planeswalker's Guide to Khans of Tarkir, Part 1](https://magic.wizards.com/en/news/feature/planeswalkers-guide-khans-tarkir-part-1-2014-09-03)
+- **Flavor text** — "A band of Temur hunters, fleeing the Mardu, dug a hideout beneath such a creature as it slept. The horde found them and attacked. For three days the Temur held them at bay, and all the while the great beast slumbered." [Scryfall] — The story illustrates Temur guerrilla survival: the hunters used the Colossodon's indifferent bulk as cover, outlasting a Mardu assault without the beast even waking. The Mardu are the red-white-black raiding clan and the Temur's primary rival in Tarkir's contested mountain passes.
+- **Mechanical role** — As a vanilla 6/5 common, Tusked Colossodon served a specific Limited purpose: providing the Temur with a large-power body capable of activating Ferocious (power 4 or greater) reliably in the late game. Ferocious was the Temur's signature mechanic, rewarding players for controlling high-power creatures. A 6/5 is also large enough to survive combat with most opposing threats in Limited. [Wizards: Mechanics of Khans of Tarkir](https://magic.wizards.com/en/news/feature/mechanics-khans-tarkir), [Scryfall]
+- **Artist** — Illustrated by Yeong-Hao Han. The card has never been reprinted; EDHREC ranks it 25,184 overall, placing it well outside regular Commander play. It is a format-legal but seldom-played card in Commander. [Scryfall], [EDHREC: Tusked Colossodon](https://edhrec.com/cards/tusked-colossodon)
+
+### Related cards
+- Feed the Clan (KTK, 132) — Temur green instant from the same set; Ferocious mechanic shares the "big creature" threshold
+- Savage Knuckleblade (KTK, 194) — Temur rare that demonstrates what an activated Ferocious creature looks like at the top of the curve
+- Alpine Grizzly (KTK, 113) — another Temur vanilla common from KTK, similar role of powering Ferocious
+- Surrak Dragonclaw (KTK, 196) — Temur khan; the thematic commander for the creature type this card represents

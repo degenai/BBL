@@ -73,3 +73,16 @@ A large circular stone brazier sits in the center of a grand vaulted interior sp
 **Iconography:** lotus, fire, temple
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Jeskai Charm is part of the five-clan charm cycle of Khans of Tarkir (released September 26, 2014): one uncommon instant per clan, each costing one mana of each of the wedge's three colors, each offering three modal options. The complete cycle is Abzan Charm, Jeskai Charm, Sultai Charm, Mardu Charm, and Temur Charm. The Jeskai Way is the blue-red-white clan of martial artists and monks, whose totem is the dragon's eye and whose admired quality is cunning. The Jeskai's enchantment mechanic is Prowess (triggered here mechanically through the lifelink-pump mode). [Scryfall], [Wizards: Planeswalker's Guide to Khans of Tarkir, Part 1](https://magic.wizards.com/en/news/feature/planeswalkers-guide-khans-tarkir-part-1-2014-09-03)
+- **Competitive history** — Jeskai Charm was a four-of in Jeskai Tempo decks that were the breakout archetype of the first Khans of Tarkir Standard weekend (fall 2014). The deck reached top-8 at Pro Tour Khans of Tarkir, with all three modes considered relevant: the bounce-to-top mode cleared indestructible threats and blocked combat math; the 4-damage mode closed games against aggro; and the lifelink-pump mode turned alpha strikes into life-total swings. Pro Tour coverage cited Jeskai Charm as the reason the archetype played all three Jeskai colors over simpler Izzet burn builds. [Star City Games: "All About Jeskai Tempo"](https://articles.starcitygames.com/articles/all-about-jeskai-tempo/), [Star City Games: "The Fourthmost — Pro Tour Khans of Tarkir 4th"](https://articles.starcitygames.com/articles/the-fourthmost-pro-tour-khans-of-tarkir-4th/)
+- **Mechanical design** — The bounce mode ("put target creature on top of its owner's library") is Griptide-style tempo removal that bypasses indestructibility and regeneration, since the creature doesn't die. In competitive analysis, this mode was most valuable for clearing a resolved threat without destroying it, resetting enters-the-battlefield triggers, and enabling a profitable attack on the following turn. [Quiet Speculation: Khans of Tarkir Set Review — The Jeskai Way](https://www.quietspeculation.com/2014/09/insider-khans-of-tarkir-set-review-the-jeskai-way-and-blue/)
+- **EDH reach** — EDHREC reports Jeskai Charm in 13,198 Commander decks as of 2026. It carries an EDHREC rank of 8,813. [EDHREC: Jeskai Charm](https://edhrec.com/cards/jeskai-charm), [Scryfall]
+- **Artist** — Illustrated by Mathias Kollros, an Austrian fantasy illustrator who made his MTG debut with Return to Ravnica (2012) and has contributed to numerous sets. No public artist interview specific to this card is available. [Scryfall], [Art of MTG: Mathias Kollros](https://www.artofmtg.com/artist/mathias-kollros/)
+
+### Related cards
+- Abzan Charm (KTK, 157) — adjacent entry in the five-clan charm cycle
+- Mardu Charm (KTK, 176) — another KTK clan charm; same structural slot
+- Temur Charm (KTK, 197) — Temur charm in the same cycle
+- Deflecting Palm (KTK, 165) — Jeskai uncommon from KTK; same UWR identity, competitive play history in burn sideboards

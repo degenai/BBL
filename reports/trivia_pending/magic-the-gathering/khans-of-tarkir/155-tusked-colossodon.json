@@ -1,0 +1,50 @@
+{
+  "card_name": "Tusked Colossodon",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "155",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tusked Colossodon is a Temur Frontier common, a 6/5 Beast for {4}{G}{G}. The Temur are the green-blue-red clan of Tarkir's mountainous wilderness, defined by ferocity and the philosophy that raw power determines survival. [Scryfall], [Wizards: Planeswalker's Guide to Khans of Tarkir, Part 1]",
+      "sources": ["Scryfall", "https://magic.wizards.com/en/news/feature/planeswalkers-guide-khans-tarkir-part-1-2014-09-03"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"A band of Temur hunters, fleeing the Mardu, dug a hideout beneath such a creature as it slept. The horde found them and attacked. For three days the Temur held them at bay, and all the while the great beast slumbered.\" [Scryfall] — Illustrates Temur guerrilla survival using the Colossodon's indifferent bulk as cover to outlast a Mardu raid. The Mardu are the red-white-black raiding clan, the Temur's primary rival.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a vanilla 6/5 common, Tusked Colossodon served a specific Limited purpose: providing a reliable Ferocious-activating body in the Temur curve. A 6/5 is large enough to survive most combat encounters in Limited and its power of 6 easily meets the Ferocious threshold (power 4+). [Wizards: Mechanics of Khans of Tarkir], [Scryfall]",
+      "sources": ["https://magic.wizards.com/en/news/feature/mechanics-khans-tarkir", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Tusked Colossodon has never been reprinted. EDHREC rank is 25,184 — well outside regular Commander play. Illustrated by Yeong-Hao Han. [Scryfall], [EDHREC: Tusked Colossodon]",
+      "sources": ["Scryfall", "https://edhrec.com/cards/tusked-colossodon"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Feed the Clan", "set": "KTK", "note": "Temur green instant from same set; Ferocious mechanic shares the big-creature threshold"},
+    {"name": "Savage Knuckleblade", "set": "KTK", "note": "Temur rare; activated Ferocious creature at top of curve"},
+    {"name": "Alpine Grizzly", "set": "KTK", "note": "Another Temur vanilla common from KTK; similar Ferocious-enabler role"},
+    {"name": "Surrak Dragonclaw", "set": "KTK", "note": "Temur khan; thematic commander for this creature type"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": {
+    "clan_watermark": "Temur",
+    "clan_mechanic": "Ferocious (threshold enabler)",
+    "cycle_membership": "none",
+    "mana_cost_present": true,
+    "color_magic_tags_present": true,
+    "edgelord_note": "Temur clan watermark; vanilla common; flavor text has strong Temur-vs-Mardu clan rivalry narrative"
+  }
+}

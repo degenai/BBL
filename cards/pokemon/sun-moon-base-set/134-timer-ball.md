@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - pokeball
+  - item
+  - swirl
+  - energy
+  - search
+  - rotation
+  - pink
+  - tool
+  - mechanism
+  - vortex
+tags_filter:
+  - solo
+  - close-up
+  - abstract
+  - portrait-mode
+  - no-face
+  - trainer-item
 reference_image: cards/_images/pokemon/sun-moon-base-set/134-timer-ball.png
 average_cost_paid: 0
 market_price: 0.16
@@ -30,6 +46,9 @@ artist: Toyste Beach
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: void
 tags:
   - card
   - pokemon
@@ -41,12 +60,16 @@ tags:
 
 ![134-timer-ball](../../_images/pokemon/sun-moon-base-set/134-timer-ball.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+The art depicts a Premier Ball floating at the center of a swirling circular energy field rendered in soft pinks, purples, and whites. The ball's star-burst icon is clearly visible on its upper face. The vortex composition gives the image a sense of mechanical draw and potential, appropriate for a search-effect item. The overall palette is cool and ethereal, and no Pokemon or characters appear in the scene.
 
+**Subject:** A Premier Ball — a Pokeball variant with a black upper half, star-burst emblem, and white lower half — centered against a swirling pink and purple energy vortex
 
-**Subject:** 
-
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** close-up, abstract, figures: none, facing: n/a
+**Setting:** void, indeterminate
+**Foreground:** Premier Ball with star emblem  *(palette: white, black, grey)*
+**Background:** swirling energy vortex  *(palette: pink, purple, white)*
+**Mood / lighting:** action, soft
+**Emotion read:** n/a — no figure present
+**Objects:** pokeball, premier-ball
+**Iconography:** pokeball, star-emblem, vortex
+**Genre cues:** anime, fantasy

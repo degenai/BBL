@@ -75,3 +75,20 @@ A warrior in layered armor and a distinctive feathered or fringed helmet sits at
 **Creatures:** tusked beast
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Tuskguard Captain is an Abzan Houses uncommon from Khans of Tarkir (released September 26, 2014). The Abzan are the white-black-green endurance clan of Tarkir's harsh desert, whose signature mechanic is Outlast: an activated ability that places a +1/+1 counter on the creature during your main phase. Tuskguard Captain is one of six "counter lords" in the set — uncommons whose Outlast passive grants a keyword ability to all your creatures that have a +1/+1 counter on them. [Scryfall], [Wizards: Mechanics of Khans of Tarkir](https://magic.wizards.com/en/news/feature/mechanics-khans-tarkir)
+- **Mechanical reputation** — Tuskguard Captain grants trample to every creature you control bearing a +1/+1 counter, not just those that used Outlast. This means any external counter source — Hardened Scales, Cathars' Crusade, Vorel of the Hull Clade, Rishkar — immediately turns your board into a trample engine. EDHREC reports 27,445 Commander decks include the card (as of 2026), with common partners Mer-Ek Nightblade and Ivorytusk Fortress. The card has an EDHREC rank of 5,090 out of all MTG cards — a strong showing for a KTK uncommon. [EDHREC: Tuskguard Captain](https://edhrec.com/cards/tuskguard-captain), [Scryfall]
+- **Flavor text** — "One quiet word sets off the stampede." [Scryfall] — The line captures the Abzan command-chain ethos: authority expressed through restraint rather than volume. The Tuskguard are the mounted warriors who ride the great Abzan tusked beasts; the captain's single word is enough to direct the charge.
+- **Reprint history** — Tuskguard Captain has been reprinted five times: Commander 2016 (no. 173), Commander Anthology Volume II (no. 147), Zendikar Rising Commander (no. 85), Double Masters 2022 (no. 163), and Commander Masters (no. 328, August 4, 2023). Five reprints in nine years signals sustained Commander demand for the trample-grant effect. [Scryfall prints search]
+- **Artist** — Illustrated by Aaron Miller, who has worked on 87+ MTG cards since 2013. Miller runs an independent art business with Kickstarter-funded foil token packs and artist-proof sales, and has been featured on Hipsters of the Coast multiple times for his community work. [Hipsters of the Coast: Aaron Miller tag archive](https://www.hipstersofthecoast.com/tag/aaron-miller/), [Scryfall]
+
+### Related cards
+- Mer-Ek Nightblade (KTK, 101) — fellow Abzan Outlast counter lord; grants deathtouch instead of trample; most-paired with Tuskguard Captain on EDHREC
+- Ivorytusk Fortress (KTK, 192) — Abzan rare; allows creatures with counters to untap during opponents' untap steps; same counter-matters theme
+- Abzan Falconer (KTK, 2) — another Outlast counter lord from KTK granting flying
+- Hardened Scales (KTK, 130) — KTK uncommon that doubles counter placement; makes every Outlast activation worth two counters
+
+## Connections
+
+- [[183-kin-tree-invocation]] — Designer-confirmed Abzan mechanic-flavor pair. Tuskguard Captain's Outlast ability piles +1/+1 counters onto creatures (raising their toughness); Kin-Tree Invocation then creates a Spirit Warrior token whose size equals the greatest toughness on your board. The Abzan clan's "elders feed the kin-tree, the kin-tree feeds the warriors" loop is rendered mechanically: Outlast counters become token power, ancestor-summoning scales with endurance. [Wizards: Mechanics of Khans of Tarkir](https://magic.wizards.com/en/news/feature/mechanics-khans-tarkir), [Wizards: Planeswalker's Guide to Khans of Tarkir, Part 1](https://magic.wizards.com/en/news/feature/planeswalkers-guide-khans-tarkir-part-1-2014-09-03)

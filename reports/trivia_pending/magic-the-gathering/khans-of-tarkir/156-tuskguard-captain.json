@@ -1,0 +1,55 @@
+{
+  "card_name": "Tuskguard Captain",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "156",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tuskguard Captain is an Abzan Houses uncommon from Khans of Tarkir (2014-09-26). Outlast is the Abzan's signature mechanic; Tuskguard Captain is one of six Outlast 'counter lords' in the set, each granting a different keyword to creatures that bear +1/+1 counters. [Scryfall], [Wizards: Mechanics of Khans of Tarkir]",
+      "sources": ["Scryfall", "https://magic.wizards.com/en/news/feature/mechanics-khans-tarkir"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Tuskguard Captain grants trample to every creature you control with a +1/+1 counter — not just those that Outlasted. Any counter source (Hardened Scales, Cathars' Crusade, Rishkar, Vorel) immediately turns the board into a trample engine. EDHREC: 27,445 Commander decks, rank 5,090. Top co-cards: Mer-Ek Nightblade, Ivorytusk Fortress, Daghatar the Adamant. [EDHREC], [Scryfall]",
+      "sources": ["https://edhrec.com/cards/tuskguard-captain", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"One quiet word sets off the stampede.\" [Scryfall] — Captures Abzan command-chain ethos: authority through restraint. The Tuskguard are the mounted warriors riding the great Abzan tusked beasts; the captain's single word directs the charge.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Tuskguard Captain has been reprinted five times: Commander 2016 (no. 173, 2016-11-11), Commander Anthology Volume II (no. 147, 2018-06-08), Zendikar Rising Commander (no. 85, 2020-09-25), Double Masters 2022 (no. 163, 2022-07-08), Commander Masters (no. 328, 2023-08-04). Five reprints in nine years signals sustained Commander demand. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Aaron Miller (87+ MTG cards since 2013). Miller runs an independent art business with Kickstarter-funded foil token packs and artist-proof sales, and has been featured on Hipsters of the Coast for community and Kickstarter work. [Hipsters of the Coast: Aaron Miller archive]",
+      "sources": ["https://www.hipstersofthecoast.com/tag/aaron-miller/", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mer-Ek Nightblade", "set": "KTK", "note": "Fellow Abzan Outlast counter lord; grants deathtouch; most-paired on EDHREC"},
+    {"name": "Ivorytusk Fortress", "set": "KTK", "note": "Abzan rare; allows creatures with counters to untap during opponents' untap steps"},
+    {"name": "Abzan Falconer", "set": "KTK", "note": "Outlast counter lord from KTK; grants flying"},
+    {"name": "Hardened Scales", "set": "KTK", "note": "KTK uncommon that doubles counter placement; key synergy card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": {
+    "clan_watermark": "Abzan",
+    "clan_mechanic": "Outlast (counter lord)",
+    "cycle_membership": "Abzan Outlast counter lord cycle (6 cards in set)",
+    "mana_cost_present": true,
+    "color_magic_tags_present": true,
+    "edgelord_note": "Abzan clan; Outlast counter lord cycle membership; 5 reprints = Commander staple signal; Aaron Miller Hipsters coverage exists but no artist node yet"
+  }
+}

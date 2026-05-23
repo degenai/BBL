@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - rainbow
+  - crystal
+  - prism
+  - light
+  - energy
+  - spectrum
+  - radiance
+  - storm
+  - multicolor
+  - starburst
+tags_filter:
+  - solo
+  - close-up
+  - abstract
+  - no-face
+  - special-energy
+  - trainer-energy
 reference_image: cards/_images/pokemon/sun-moon-base-set/137-rainbow-energy.png
 average_cost_paid: 0
 market_price: 0.36
@@ -29,6 +45,9 @@ review_notes: ""
 image_width: 600
 image_height: 825
 image_quality: med
+mood: sublime
+time_of_day: indeterminate
+setting: void
 tags:
   - card
   - pokemon
@@ -40,12 +59,16 @@ tags:
 
 ![137-rainbow-energy](../../_images/pokemon/sun-moon-base-set/137-rainbow-energy.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+The art depicts a large luminous geometric energy formation resembling a faceted crystal or snowflake, radiating prismatic light in all directions. The colors span the full spectrum — reds, oranges, yellows, greens, blues, and purples — emanating outward from a bright central core. The background is dark and atmospheric, suggesting charged or stormy conditions. No Pokemon or characters are present; the image is purely elemental and abstract, conveying the card's mechanical identity as a universal energy source at the cost of a damage counter.
 
+**Subject:** A prismatic star-burst energy crystal radiating multi-colored light against a dark stormy background — a Double Rainbow Energy Special Energy card
 
-**Subject:** 
-
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** close-up, abstract, figures: none, facing: n/a
+**Setting:** void, indeterminate, storm
+**Foreground:** prismatic geometric energy crystal  *(palette: white, yellow, orange, red, blue, green, purple)*
+**Background:** dark stormy atmosphere  *(palette: dark-grey, black, deep-blue)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** n/a — no figure present
+**Objects:** energy-crystal, prism
+**Iconography:** rainbow, starburst, crystal, prism
+**Genre cues:** anime, fantasy, sci-fi

@@ -1,0 +1,41 @@
+{
+  "edge_id": "tuskguard-captain--kin-tree-invocation--abzan-outlast-invocation-flavor-pair",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/khans-of-tarkir/156-tuskguard-captain.md",
+      "name": "Tuskguard Captain"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/khans-of-tarkir/183-kin-tree-invocation.md",
+      "name": "Kin-Tree Invocation"
+    }
+  ],
+  "description": "Worst proposed wave ever? No. Cleanest pair on the slate. Both Abzan-watermarked KTK uncommons; Tuskguard Captain's Outlast piles +1/+1 counters that raise toughness, Kin-Tree Invocation creates a token sized by greatest toughness. The Abzan elders-buried-beneath-the-kin-tree lore (Planeswalker's Guide Pt 1) is rendered mechanically as Outlast-counters-become-token-power (Mechanics article). Designer-confirmed flavor-mechanic loop, two real citations, both cards already trivia-passed. Standard sigh on the mirror — both ends must be traversable. I refused the Outlast cohort node (only one Outlast creature in corpus, N=1 well below threshold) and refused the five-clan charm node (only Jeskai Charm is trivia-passed of the three charms in inventory — wait for Mardu and Temur trivia before crystallizing the cycle). Both stay on watch.",
+  "citations": [
+    "[Wizards: Mechanics of Khans of Tarkir](https://magic.wizards.com/en/news/feature/mechanics-khans-tarkir)",
+    "[Wizards: Planeswalker's Guide to Khans of Tarkir, Part 1](https://magic.wizards.com/en/news/feature/planeswalkers-guide-khans-tarkir-part-1-2014-09-03)",
+    "[Scryfall: Tuskguard Captain]",
+    "[Scryfall: Kin-Tree Invocation]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/khans-of-tarkir/156-tuskguard-captain.md",
+    "cards/magic-the-gathering/khans-of-tarkir/183-kin-tree-invocation.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    "Outlast cohort/symbol node (Mr. Nodeley) — REFUSED. Only Tuskguard Captain carries Outlast keyword in current corpus (N=1). Tusked Colossodon + Kin-Tree Invocation mention Outlast in trivia body prose but neither has the keyword. Below the 3-anchor threshold. Stage for janitor_triage as future-node candidate: trigger condition = three or more Outlast-keyworded creatures enriched in corpus.",
+    "Five-clan KTK charm cycle node (Mr. Nodeley) — REFUSED for now. 3 of 5 charms in inventory (Jeskai 181, Mardu 186, Temur 208), Abzan and Sultai absent. Of the three present, only Jeskai is trivia-passed; Mardu and Temur are vision-only. The designer-confirmed cycle is real and well-cited but the node should wait until at least three anchors carry their own trivia-sourced rationale. Stage for janitor_triage: trigger condition = Mardu Charm and Temur Charm both trivia-passed.",
+    "Feed the Clan (132) ↔ Tusked Colossodon (155) Temur-Ferocious link — considered, valid but thinner. Tusked Colossodon is a vanilla 6/5 that ENABLES Ferocious; Feed the Clan USES Ferocious. The Outlast-feeds-Invocation pair has a tighter mechanic-flavor symmetry (one card creates the resource the other consumes, both on the same clan, with a direct Wizards article tying the two together). Save Feed-the-Clan/Colossodon for a future pass when Savage Punch or Surrak Dragonclaw is enriched and the Ferocious-cohort can stand up as a node instead.",
+    "Enlightened replacement — N/A. Neither target card had a prior Connections section to optimize. Pure addition."
+  ],
+  "next_pass_suggestions": [
+    "When 2-3 more Outlast creatures land (e.g. Mer-Ek Nightblade, Abzan Falconer, Ainok Bond-Kin), revisit Outlast symbol/cohort node — would absorb the Tuskguard↔Kin-Tree edge as a hub-anchored cluster.",
+    "When Mardu Charm and Temur Charm trivia-pass, the five-clan KTK charm cycle becomes node-eligible (Mr. Nodeley territory).",
+    "Watch for Surrak Dragonclaw / Savage Punch enrichment — would unlock a Temur-Ferocious cohort that subsumes Feed the Clan + Tusked Colossodon + Snowhorn Rider."
+  ]
+}
