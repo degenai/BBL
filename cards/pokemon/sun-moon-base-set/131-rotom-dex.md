@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - technology
+  - gadget
+  - possession
+  - electric
+  - screen
+  - device
+  - personality
+  - tool
+  - haunted-object
+  - cute
+tags_filter:
+  - solo
+  - close-up
+  - portrait-mode
+  - three-quarter
+  - trainer-item
+  - uncommon
 reference_image: cards/_images/pokemon/sun-moon-base-set/131-rotom-dex.png
 average_cost_paid: 0
 market_price: 0.2
@@ -30,6 +46,12 @@ artist: 5ban Graphics
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: comedic
+time_of_day: indeterminate
+setting: indoor
+suspected_ip: Rotom
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -41,12 +63,19 @@ tags:
 
 ![131-rotom-dex](../../_images/pokemon/sun-moon-base-set/131-rotom-dex.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Rotom** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+The card art depicts a small, compact red electronic device — the Rotom Dex — rendered at slight angle against a warm gradient background. The device's screen glows with an expressive face, recognizable as the electric Pokemon Rotom manifesting through the hardware. The device is depicted in bright red plastic with a rounded rectangular form. Rotom's characteristic expressive eyes and open-mouthed expression are visible on the screen, giving the gadget a lively, almost sentient personality. The background is a warm gradient suggesting an indoor or domestic setting. The overall feel is cheerful and tech-forward, with the possessed gadget serving as both tool and character.
 
-**Subject:** 
+**Subject:** A red electronic Pokedex device with the face of Rotom visible on its screen — Rotom possessing the Rotom Dex device
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** close-up, portrait, figures: solo, facing: three-quarter
+**Setting:** indoor, indeterminate
+**Foreground:** red Rotom Dex device with glowing screen showing Rotom's expressive face  *(palette: red, white, yellow, black)*
+**Background:** warm gradient background, light tones  *(palette: light orange, cream, white)*
+**Mood / lighting:** comedic, soft
+**Emotion read:** expressive and lively — Rotom's face on the screen radiates cheerful energy
+**Objects:** pokedex, electronic-device, screen, gadget
+**Creatures:** rotom
+**Genre cues:** anime

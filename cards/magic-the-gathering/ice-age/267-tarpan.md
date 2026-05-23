@@ -2,7 +2,7 @@
 name: Tarpan
 game: "Magic: The Gathering"
 set: Ice Age
-collector_number: 
+collector_number: 267
 rarity: C
 variance: Normal
 grade: Ungraded
@@ -73,3 +73,14 @@ Two stocky, compact horses — a larger one in the foreground and a slightly sma
 **Creatures:** horse, wild horse, tarpan
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Tarpan is from Ice Age (ICE, June 1995), set on the frozen Dominarian continent of Terisiare — a world shaped by the catastrophic Sylex Blast at the end of the Brothers' War. Kjeldoran soldiers like General Jarkeld, the card's flavor-text speaker, are among the major figures in this glacial setting. Tarpan received one reprint in Fifth Edition (1997). `[Scryfall]`
+- **Flavor text** — "A good Tarpan will serve you, faithful and true. A bad one will kick you in the head." — General Jarkeld, the Arctic Fox. Jarkeld was a Kjeldoran military commander known for tactical brilliance; the "Arctic Fox" epithet describes his cunning in battle. Per MTG Wiki, he was presumed slain in the Adarkar Wastes. The quote reads as a soldier's pragmatism about the value and danger of an unbroken wild horse — which fits the Ice Age setting's survival-culture tone. `[Scryfall; MTG Wiki: Jarkeld, via WebSearch]`
+- **Real-world reference** — The tarpan was a real Eurasian wild horse subspecies (Equus ferus ferus). The last confirmed wild individual was killed in 1879; the final captive died in Russia in 1918. The name comes from the Kazakh word for "wild horse." Ice Age's creature roster drew on real Ice Age fauna, and naming a 1/1 Horse after an extinct wild horse is consistent with the set's naturalistic flavor design. `[Wikipedia: Tarpan, via WebSearch]`
+- **Mechanical** — A 1/1 for {G} with a death-trigger of "gain 1 life." EDHREC rank 27,151 reflects very low Commander inclusion, as expected for a body with no synergy upside beyond the minimal life gain. Legal in Legacy, Vintage, Commander, and Pauper. `[Scryfall]`
+
+### Related cards
+- Tarpan (Fifth Edition) — only reprint; same oracle text and art
+- General Jarkeld (Ice Age) — the actual card representing the flavor-text speaker; a white legendary Kjeldoran commander
+- Jarkeld's Avenger (Ice Age) — another Ice Age card referencing General Jarkeld's legacy

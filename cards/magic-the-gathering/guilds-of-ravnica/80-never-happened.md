@@ -76,3 +76,19 @@ A close-up scene showing two faces in proximity. The foreground face belongs to 
 **Iconography:** mask, gem
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Never Happened is a House Dimir card in Guilds of Ravnica (GRN, October 2018). The Dimir guild's signature mechanic in this set is Surveil, which represents the guild's lore identity as information controllers and memory manipulators by letting players look at cards on top of the library and bin them. Never Happened extends that flavor into direct exile of spells from hand or graveyard — removal of evidence, not just information gathering. `[Scryfall; MTG Wiki: House Dimir, via WebSearch]`
+- **Flavor text** — "Dimir assassins have the precision to slay a single memory." No speaker is attributed on the card. `[Scryfall]`
+- **Mechanical** — At {2}{B} (3 total mana), Never Happened trades efficiency for flexibility: it sees both the opponent's hand and graveyard, giving it incidental graveyard-hate coverage that Thoughtseize and Inquisition of Kozilek lack. Its EDHREC rank of 25,009 signals low Commander inclusion — the 3-mana cost is a significant barrier when cheaper alternatives exist. The card is legal in Pauper, Pioneer, Modern, Legacy, Vintage, and Commander, but has never been reprinted per Scryfall's prints records. `[Scryfall]`
+- **Design** — Art by Aaron Miller. This is a first-and-only printing as of Scryfall's full print history. `[Scryfall]`
+
+### Related cards
+- Thoughtseize (Theros, and others) — the 1-mana hand-disruption benchmark Never Happened is measured against
+- Inquisition of Kozilek (Rise of the Eldrazi) — second primary 1-mana discard comparison in competitive formats
+- Mnemonic Betrayal (Guilds of Ravnica) — same Dimir memory-theft flavor space, same set; operates at graveyard scale
+- Thief of Sanity (Guilds of Ravnica) — flagship Dimir Surveil creature from the same set
+
+## Connections
+
+- [[193-notion-rain]] — Same-set House Dimir memory-spell pair. Both carry the Dimir watermark, both are Guilds of Ravnica (October 2018) commons, and both render the guild's canonical "information warfare / memory-as-target" thesis at the flavor-text scope: Never Happened's *"Dimir assassins have the precision to slay a single memory"* is the surgical-extraction articulation, Notion Rain's *"City air is a constant drizzle of private thoughts"* is the ambient-surveillance articulation. The mechanical pairing matches the flavor pairing — Never Happened exiles a chosen card from hand or graveyard (active extraction), Notion Rain surveils 2 and draws 2 at 2 life (passive intake). Designer-coordinated flavor cycle within the same set's Dimir slot. `[Scryfall: watermark=dimir on both; magic.wizards.com/en/news/feature/guilds-ravnica-mechanics-2018-09-04]`

@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - bug
+  - larva
+  - insect
+  - forest
+  - tropical
+  - nature
+  - small-creature
+  - cute
+  - jungle
+  - grub
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - forward-facing
+  - creature-grass
+  - common
 reference_image: cards/_images/pokemon/sun-moon-base-set/13-grubbin.png
 average_cost_paid: 0
 market_price: 0.11
@@ -31,6 +47,12 @@ artist: Akira Komayama
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: day
+setting: forest
+suspected_ip: Grubbin
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -42,12 +64,18 @@ tags:
 
 ![13-grubbin](../../_images/pokemon/sun-moon-base-set/13-grubbin.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Grubbin** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+A small larval Pokemon sits amid lush tropical greenery — large rounded leaves and what appear to be bamboo or thick tropical plant stalks fill the background. The creature has a disproportionately large round head with two prominent orange-brown mandibles extending forward, and a pale cream-colored segmented body. Its expression is wide-eyed and curious. The lighting is warm and natural, suggesting a bright daytime forest or jungle floor setting. The composition frames Grubbin at roughly mid-shot, giving full visibility of its body and the surrounding leafy environment. The mood is gentle and naturalistic.
 
-**Subject:** 
+**Subject:** Grubbin, a small larva-like bug Pokemon with a large round head, prominent orange mandibles, and a pale cream body, resting among tropical foliage
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** forest, day, clear
+**Foreground:** Grubbin larva creature with large round head, orange mandibles, pale segmented body  *(palette: cream, white, orange, brown)*
+**Background:** tropical foliage — large leaves, green plant stalks  *(palette: green, yellow-green, dark green)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** wide-eyed and curious, calm
+**Creatures:** bug, larva, grub, insect
+**Genre cues:** anime

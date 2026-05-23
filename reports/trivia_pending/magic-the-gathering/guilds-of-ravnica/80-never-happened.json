@@ -1,0 +1,48 @@
+{
+  "card_name": "Never Happened",
+  "game": "Magic: The Gathering",
+  "set": "Guilds of Ravnica",
+  "collector_number": "80",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Never Happened is a House Dimir card from Guilds of Ravnica (GRN, October 2018). The Dimir guild's mechanic in this set is Surveil — looking at top-of-library cards and optionally binning them to the graveyard — which mechanically expresses the guild's lore identity as information thieves and memory manipulators. Never Happened is a non-Surveil Dimir card that extends that identity into direct exile of spells from hand or graveyard. [Scryfall; WebSearch: House Dimir MTG Wiki]",
+      "sources": ["Scryfall", "MTG Wiki: House Dimir via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Dimir assassins have the precision to slay a single memory.\" — no speaker attributed. The card is the only printing of this oracle text; it has never been reprinted as of Scryfall records. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At 3 mana ({2}{B}), Never Happened is a flexible but costed-higher variant of hand disruption. It sees both hand and graveyard, giving it incidental graveyard hate. Scryfall lists it with an EDHREC rank of 25,009 — indicating low inclusion across Commander decks — consistent with 3-mana discard spells generally losing out to Thoughtseize (1 mana) and Inquisition of Kozilek (1 mana) in competitive formats. In Pauper and Pioneer (where it is legal), cheaper alternatives dominate. [Scryfall EDHREC rank; WebSearch: Never Happened card analysis]",
+      "sources": ["Scryfall", "WebSearch: AppTrigger GRN Dimir card analysis 2018"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Aaron Miller illustrated this card. Never Happened has not been reprinted and appears only in the GRN set per Scryfall's prints search. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Thoughtseize", "set": "Theros", "note": "The premier 1-mana hand-disruption reference point Never Happened is measured against"},
+    {"name": "Inquisition of Kozilek", "set": "Rise of the Eldrazi", "note": "Second primary 1-mana discard benchmark in competitive formats"},
+    {"name": "Mnemonic Betrayal", "set": "Guilds of Ravnica", "note": "Same Dimir memory-theft flavor space, same set — takes from graveyards at scale"},
+    {"name": "Thief of Sanity", "set": "Guilds of Ravnica", "note": "Flagship Dimir Surveil creature of the same set; represents the 'steal opponents' things' Dimir design theme"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check_flags": {
+    "mana_cost_missing": false,
+    "mana_cost_note": "mana_cost: {2}{B} present",
+    "color_magic_in_tags_filter": true,
+    "color_magic_note": "black-magic present in tags_filter — correct"
+  }
+}

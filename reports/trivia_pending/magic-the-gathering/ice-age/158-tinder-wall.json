@@ -1,0 +1,50 @@
+{
+  "card_name": "Tinder Wall",
+  "game": "Magic: The Gathering",
+  "set": "Ice Age",
+  "collector_number": "158",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tinder Wall is from Ice Age (ICE), released June 3, 1995 — the first standalone Magic expansion set, playable without needing other products. The set is set on the continent of Terisiare on Dominaria during a glacial epoch caused by the fallout of the Brothers' War and the Sylex Blast. Kjeldor and the nomadic Balduvians are among the major factions in this frozen world. [Scryfall; Wikipedia: Ice Age (Magic: The Gathering), via WebSearch]",
+      "sources": ["Scryfall", "Wikipedia: Ice Age (Magic: The Gathering) via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Tinder Wall is a {G} 0/3 Plant Wall with Defender. It can be sacrificed to add {R}{R}, or for {R} can deal 2 damage to a creature it is blocking when sacrificed. This makes it one of the most efficient color-bridge acceleration cards in formats where it is legal: one green mana in yields two red mana out. It has an EDHREC rank of 2,440 (reflecting real inclusion across Commander decks) and sees competitive play in Pauper Walls Combo, where it is described as 'the best imaginable one drop for this deck' — the double-red output doubles as an emergency removal vector on block. [Scryfall; MTGGoldfish: Pauper Walls Combo archetype, via WebSearch]",
+      "sources": ["Scryfall", "MTGGoldfish: Pauper Walls Combo archetype via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In Pauper Walls Combo, Tinder Wall pairs with defenders such as Axebane Guardian and Overgrown Battlement to generate infinite mana and kill with Bloodrite Invoker. Its own sacrifice ability is a redundant mana source when the main combo needs one more red mana to go off. The deck is legal in Pauper and Commander. In Legacy, Tinder Wall appears in 'Belcher' shells as an incidental accelerant. [MTGGoldfish: Pauper Walls Combo archetype; MetaMox: Tinder Wall, via WebSearch]",
+      "sources": ["MTGGoldfish: Pauper Walls Combo via WebSearch", "MetaMox: Tinder Wall via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Rick Emond. Tinder Wall carries no flavor text per Scryfall. The card uses the 1993-era card frame, characteristic of the early Ice Age print run. It has never been reprinted in a Standard-legal set; later appearances include Masters Edition II (online only) and Coldsnap Theme Decks. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Axebane Guardian", "set": "Return to Ravnica", "note": "Primary infinite-mana engine in Pauper Walls Combo alongside Tinder Wall"},
+    {"name": "Overgrown Battlement", "set": "Rise of the Eldrazi", "note": "Core mana-producer in Walls Combo; Tinder Wall's sacrifice mana bridges the color gap"},
+    {"name": "Bloodrite Invoker", "set": "Rise of the Eldrazi", "note": "Win condition in Pauper Walls Combo that receives Tinder Wall's generated mana"},
+    {"name": "Wall of Roots", "set": "Mirage", "note": "Fellow green defender with accelerant ability; shares Walls Combo slot"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check_flags": {
+    "mana_cost_missing": false,
+    "mana_cost_note": "mana_cost: {G} present",
+    "color_magic_in_tags_filter": true,
+    "color_magic_note": "green-magic present in tags_filter — correct",
+    "collector_number_mismatch": true,
+    "collector_number_flag": "CRITICAL: frontmatter collector_number is 158 and file is named 158-tinder-wall.md, but Scryfall canonical collector_number for Tinder Wall in Ice Age is 270 (confirmed via Scryfall API UUID 2a7c6489-21e9-4b86-a54a-b1e2f1fce318). File needs renaming and frontmatter correction by janitorbot."
+  }
+}

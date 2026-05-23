@@ -1,0 +1,50 @@
+{
+  "card_name": "Smoldering Tar",
+  "game": "Magic: The Gathering",
+  "set": "Invasion",
+  "collector_number": "275",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Smoldering Tar is from Invasion (INV), released October 2, 2000 — the first set of the Invasion block and the twenty-first Magic expansion. The set depicts the beginning of the first Phyrexian Invasion of Dominaria, where Urza gathers heroes and artifacts to resist the onslaught. Mark Rosewater has called Invasion the beginning of the 'Third Age of Magic Design,' in which sets were designed around a central theme (here, multicolor and unity-against-invasion) rather than a loose collection of mechanics. [Scryfall; Hipsters of the Coast: Set Retrospective — Invasion, 2023]",
+      "sources": ["Scryfall", "Hipsters of the Coast: Set Retrospective — Invasion, 2023"]
+    },
+    {
+      "category": "design",
+      "text": "Invasion's core mechanical identity is multicolor: the set introduced split cards, domain, and kicker, and hammered a subtheme of artifacts and enchantments as permanent-based strategy. Smoldering Tar is a {2}{B}{R} enchantment — its black-red color identity is a direct expression of the allied-color multicolor design philosophy that defined the block. Art by David Day. [Scryfall; Hipsters of the Coast: Set Retrospective — Invasion, 2023]",
+      "sources": ["Scryfall", "Hipsters of the Coast: Set Retrospective — Invasion, 2023"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Smoldering Tar drains 1 life from a target player each upkeep, then can be sacrificed as a sorcery to deal 4 damage to a creature. The combination of steady life drain with a lump-damage removal exit is a slow clock-plus-answer design. EDHREC rank 28,182 indicates very low Commander inclusion — 4 mana for a 1-life-per-turn drain without immediate board impact is below the curve for Commander's inflated mana expectations. Legal in Legacy, Vintage, Commander, and Premodern; not legal in Pauper (color combination and uncommon rarity both exclude it). This card is not on the Reserved List per Scryfall. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Smoldering Tar has never been reprinted — the Invasion printing is the only one per Scryfall's full print history. The depicted figure is an unnamed ritualist; the card's oracle text and flavor text (none) provide no named character. The figure depicted should not be conflated with any named Dominarian or Phyrexian character absent explicit Wizards sourcing. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Phyrexian Altar", "set": "Invasion", "note": "Same set; Hipsters highlighted it as an Invasion standout with lasting Commander impact"},
+    {"name": "Fires of Yavimaya", "set": "Invasion", "note": "Same set; Hipsters noted its casual-table popularity and staying power"},
+    {"name": "Aura Shards", "set": "Invasion", "note": "Same set; notable enchantment-subtheme card from the same design cycle"},
+    {"name": "Sterling Grove", "set": "Invasion", "note": "Same set; enchantment lord/tutor design in the same artifacts-and-enchantments subtheme"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check_flags": {
+    "mana_cost_missing": false,
+    "mana_cost_note": "mana_cost: {2}{B}{R} present",
+    "color_magic_in_tags_filter": true,
+    "color_magic_note": "black-red present in tags_filter — correct",
+    "collector_number_missing": true,
+    "collector_number_flag": "frontmatter collector_number field is empty. Scryfall canonical collector_number for Smoldering Tar in Invasion is 275 (confirmed via Scryfall API UUID fcdc55c0-c8ac-49d5-969b-9bf0ee8e696c). Needs frontmatter backfill by janitorbot."
+  }
+}

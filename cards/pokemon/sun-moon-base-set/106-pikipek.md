@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - bird
+  - flight
+  - wings
+  - nature
+  - tropical
+  - grass
+  - wildlife
+  - small-creature
+  - daytime
+  - sky
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - faces-left
+  - creature-colorless
+  - common
 reference_image: cards/_images/pokemon/sun-moon-base-set/106-pikipek.png
 average_cost_paid: 0
 market_price: 0.11
@@ -31,6 +47,12 @@ artist: Shin Nagasawa
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: day
+setting: forest
+suspected_ip: Pikipek
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -42,12 +64,18 @@ tags:
 
 ![106-pikipek](../../_images/pokemon/sun-moon-base-set/106-pikipek.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Pikipek** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+A small bird Pokemon hovers in flight, wings spread wide against a bright open sky. The creature has striking black-and-white plumage with visible red markings on its head, and a prominent beak suited to a woodpecker archetype. Below it, lush tropical-looking grass and foliage fill the lower portion of the frame, suggesting a verdant outdoor environment. The pose is dynamic, with the bird angled slightly leftward as if in mid-stroke. The overall lighting is bright and cheerful, giving a sense of a sunny daytime scene in a wild, grassy habitat.
 
-**Subject:** 
+**Subject:** Pikipek, a small woodpecker-like bird Pokemon with black-and-white plumage and a red-marked head, caught mid-flight over grassy terrain
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** mid-shot, action, figures: solo, facing: left
+**Setting:** forest, day, clear
+**Foreground:** bird Pokemon in flight with wings extended, red-marked head, black-and-white plumage  *(palette: black, white, red)*
+**Background:** bright sky above, lush green grass and tropical foliage below  *(palette: light blue, green, white)*
+**Mood / lighting:** action, soft
+**Emotion read:** energetic and alert, wings fully spread in active flight
+**Creatures:** bird, woodpecker
+**Genre cues:** anime, fantasy

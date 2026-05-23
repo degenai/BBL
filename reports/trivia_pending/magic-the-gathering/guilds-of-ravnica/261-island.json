@@ -1,0 +1,47 @@
+{
+  "card_name": "Island",
+  "game": "Magic: The Gathering",
+  "set": "Guilds of Ravnica",
+  "collector_number": "261",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Guilds of Ravnica (GRN) was released October 5, 2018 and returns to the city-plane of Ravnica, focusing on five of the ten guilds: Dimir, Golgari, Izzet, Selesnya, and Boros. The set name for this Island's plane is confirmed as 'Guilds of Ravnica' with set code 'grn'. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Richard Wright has illustrated the Island basic land for every major Ravnica-plane set: Ravnica: City of Guilds (2005, card 294), Return to Ravnica (2012, card 259), and Guilds of Ravnica (2018, card 261). Wright's Ravnica land art is well regarded by the player community as the definitive visual interpretation of the city-plane. [Scryfall; Scent of a Gamer artist profile, via WebSearch]",
+      "sources": ["Scryfall", "Scent of a Gamer: MTG Artists: Richard Wright, 2015"]
+    },
+    {
+      "category": "design",
+      "text": "Wright's approach to the Ravnica Island solved a unique design challenge: Ravnica is an endless city with no open water in the traditional landscape sense. His solution was to depict urban waterways as 'cathedral-like suburbs' — architectural structures framed as the source of blue mana. He also served as a style guide artist for Ravnica, shaping how other MTG illustrators interpreted the plane. [Scent of a Gamer artist profile, via WebSearch]",
+      "sources": ["Scent of a Gamer: MTG Artists: Richard Wright, 2015"]
+    },
+    {
+      "category": "mechanical",
+      "text": "This printing carries the promo_type 'planeswalkerdeck' per Scryfall, indicating it was distributed inside a Guilds of Ravnica Planeswalker Deck product rather than pulled from booster packs. The card is legal in every sanctioned format except Old School. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Island", "set": "Ravnica: City of Guilds", "note": "Earlier Richard Wright Ravnica Island, the original in the trilogy"},
+    {"name": "Island", "set": "Return to Ravnica", "note": "Second Richard Wright Ravnica Island; together the three form a cross-set triptych of the same plane"},
+    {"name": "Swamp", "set": "Ravnica: City of Guilds", "note": "Wright's Ravnica Swamp — same artist, same style-guide generation, same plane"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check_flags": {
+    "mana_cost_missing": false,
+    "mana_cost_note": "Empty mana_cost is correct for a basic land",
+    "color_magic_in_tags_filter": true,
+    "color_magic_note": "blue-magic present in tags_filter — correct"
+  }
+}

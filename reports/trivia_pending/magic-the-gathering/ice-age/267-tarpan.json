@@ -1,0 +1,49 @@
+{
+  "card_name": "Tarpan",
+  "game": "Magic: The Gathering",
+  "set": "Ice Age",
+  "collector_number": "267",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tarpan is a {G} 1/1 Horse creature from Ice Age (ICE, June 1995), set on the frozen Dominarian continent of Terisiare. The Ice Age setting represents the aftermath of the Brothers' War: glaciers, blizzards, and survival cultures including the militaristic Kjeldorans and the nomadic Balduvians. Tarpan gained a reprint in Fifth Edition (1997). [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"A good Tarpan will serve you, faithful and true. A bad one will kick you in the head.\" — General Jarkeld, the Arctic Fox. Jarkeld was a Kjeldoran military commander famed for tactical brilliance; the 'Arctic Fox' epithet refers to his cunning. According to MTG Wiki search results, he was presumed slain in battle in the Adarkar Wastes. The quote is pragmatic soldier's wisdom: a useful horse is an asset, a bad one is a liability — straightforward Ice Age survivalism in 21 words. [Scryfall; MTG Wiki: Jarkeld via WebSearch]",
+      "sources": ["Scryfall", "MTG Wiki: Jarkeld via WebSearch"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The tarpan is a real-world extinct wild horse subspecies (Equus ferus ferus) that roamed the Eurasian steppe. The last scientifically confirmed wild individual was killed in 1879; the last captive individual died in Russia in 1918. The name derives from the Kazakh word for 'wild horse.' Ice Age drew on real-world Ice Age fauna and geography for its creature roster — naming a 1/1 Horse after an extinct wild horse is consistent with the set's naturalistic flavor design. [Wikipedia: Tarpan, via WebSearch]",
+      "sources": ["Wikipedia: Tarpan via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Tarpan's death trigger — gain 1 life when it dies — is a minimal consolation ability on a 1/1 for one mana. Its EDHREC rank of 27,151 reflects very low Commander inclusion, as expected for a vanilla-adjacent creature with no attack or synergy upside. It is legal in Legacy, Vintage, Commander, and Pauper. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tarpan", "set": "Fifth Edition", "note": "Same card, 1997 reprint — only other printing"},
+    {"name": "Jarkeld's Avenger", "set": "Ice Age", "note": "Another card attributed to or named after General Jarkeld in the Ice Age set"},
+    {"name": "General Jarkeld", "set": "Ice Age", "note": "The actual card representing the flavor-text speaker — a white legendary creature"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "spot_check_flags": {
+    "mana_cost_missing": false,
+    "mana_cost_note": "mana_cost: {G} present",
+    "color_magic_in_tags_filter": true,
+    "color_magic_note": "green-magic present in tags_filter — correct",
+    "collector_number_missing": true,
+    "collector_number_flag": "frontmatter collector_number field is empty. Scryfall canonical collector_number for Tarpan in Ice Age is 267 (confirmed via Scryfall API UUID b1420ec5-367c-4514-86c5-3993bf339e37). Needs frontmatter backfill by janitorbot."
+  }
+}

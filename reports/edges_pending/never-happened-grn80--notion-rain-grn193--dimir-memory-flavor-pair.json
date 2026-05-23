@@ -1,0 +1,59 @@
+{
+  "edge_id": "never-happened-grn80--notion-rain-grn193--dimir-memory-flavor-pair",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/guilds-of-ravnica/80-never-happened.md",
+      "name": "Never Happened (Guilds of Ravnica, 80)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/guilds-of-ravnica/193-notion-rain.md",
+      "name": "Notion Rain (Guilds of Ravnica, 193)"
+    }
+  ],
+  "description": "Same-set House Dimir memory-spell pair. Both carry the Dimir watermark in Guilds of Ravnica (October 2018), both are commons, both render the guild's canonical information-warfare / memory-as-target thesis at the flavor-text scope, and the two cards split the thesis into a clean active/passive pairing: Never Happened is surgical extraction ('Dimir assassins have the precision to slay a single memory') with hand-or-graveyard exile, Notion Rain is ambient surveillance ('City air is a constant drizzle of private thoughts') with surveil + card draw. Same-set Dimir flavor-slot pairing, watermark-verified on both ends.",
+  "citations": [
+    "[Scryfall: watermark=dimir on Never Happened (GRN-80) and Notion Rain (GRN-193)]",
+    "[Scryfall: Never Happened flavor_text 'Dimir assassins have the precision to slay a single memory.']",
+    "[Scryfall: Notion Rain flavor_text 'City air is a constant drizzle of private thoughts.']",
+    "[magic.wizards.com/en/news/feature/guilds-ravnica-mechanics-2018-09-04 — Wizards mechanics article confirming surveil as the GRN Dimir mechanic and 'the perfect Dimir mechanic']"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/guilds-of-ravnica/80-never-happened.md",
+    "cards/magic-the-gathering/guilds-of-ravnica/193-notion-rain.md"
+  ],
+  "edges_added": 1,
+  "edges_removed": 0,
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    {
+      "candidate": "Never Happened (GRN-80) <-> Memory Theft (TOE-96)",
+      "reason_rejected": "Same mechanical genre (3-mana hand-disruption variant) but the visual / IP-aesthetic register is fundamentally different — TOE is the fairy-tale raven-thief-knight cosmology, GRN-80 is the Dimir guild-agent mask-pulling cosmology. The name-similarity ('Memory Theft' / 'Never Happened') is real but the canonical anchor isn't shared (no shared character, no shared cycle, no shared watermark). Thin."
+    },
+    {
+      "candidate": "Notion Rain (GRN-193) <-> Paranoid Delusions (GTC-186) <-> Psychic Strike (GTC-189) — broader Dimir surveil / mill / cipher cohort across RTR + Gatecrash + GRN",
+      "reason_rejected": "Cross-set Dimir character/cohort node is Nodeley-eligible at threshold but the existing corpus's Dimir-mechanic cards are mechanically heterogeneous (Cipher in Gatecrash, Surveil in GRN, generic mill elsewhere). Designer-coordinated cohort cohesion lives at the per-set scope, not at the cross-set scope. The Gatecrash-Cipher pair (Paranoid Delusions + Mortus Strider) already has a same-set edge; adding a cross-set Dimir character node would be Potion-rule-adjacent ('our analytic argument concludes Dimir is one thing across sets' rather than 'Wizards canonically links these'). Stage as future-watch only when a Lazav or named-Dimir-agent N >= 3 lights up."
+    },
+    {
+      "candidate": "Richard Wright artists node (Island GRN-261 + Memorial to War DOM-246)",
+      "reason_rejected": "Only 2 corpus credits, below the typical 3-credit threshold for an artist node. The Island trivia documents Wright's Ravnica trilogy (RAV-294, RTR-259, GRN-261) but only GRN-261 is in our inventory. Stage as future-watch — if a Return to Ravnica Island or RAV original lands, the Ravnica-Island-trilogy becomes an artist-cohort node worth proposing."
+    },
+    {
+      "candidate": "Rotom Dex SMB-131 -> tsukumogami-pokemon cohort attach",
+      "reason_rejected": "Vision-only, no trivia yet. Per bbl-edgelord-target-enriched-not-random (wave 44 rule), Edgelord targets vision+trivia-complete cards from bbl_edgelord_queue.py. Stage as future-watch: on Rotom Dex trivia pass, the per-species Bulbapedia tsukumogami citation review will confirm or deny attach. The tsukumogami-pokemon node's caveats already note Rotom variants as borderline — the Rotom-Dex possession-of-Pokedex-device is structurally closer to possession-Pokemon (external spirit inhabits unrelated object) than to true tsukumogami (the object's own latent spirit awakens). Per-species canonical-attribution review on trivia-pass will settle it."
+    },
+    {
+      "candidate": "Tinder Wall / Tarpan / Smoldering Tar trivia-passed but no shared cluster",
+      "reason_rejected": "Tinder Wall (ICE-158) and Tarpan (ICE-267) share a set but no narrative anchor. Smoldering Tar (INV-275) is multicolor enchantment register. Refusal-with-receipts: scattered old-MTG with no canonical cohort candidate in corpus. No edge drawn."
+    }
+  ],
+  "next_pass_suggestions": [
+    "On Rotom Dex SMB-131 trivia pass, run per-species Bulbapedia citation check against tsukumogami-pokemon caveats — Rotom possession-of-appliances is structurally possession-Pokemon, not tsukumogami-Pokemon; the node may need a sibling 'possessed-pokemon' cohort if Rotom variants + Banette + Generation-V-Yamask cluster appears in corpus over coming waves.",
+    "If a second Ravnica Wright Island lands (RTR-259 or RAV-294), promote Richard Wright to artist node with the Ravnica-Island-trilogy as the thesis cohort.",
+    "Watch for cross-set Dimir named-character N >= 3 (Lazav, Etrata, Massacre Girl, etc.) — at that threshold, a 'house-dimir-operatives' cohort becomes Nodeley-eligible. Current 2 GRN Dimir spells + 2 Gatecrash Dimir spells in corpus is below the bar for a cross-set Dimir cohort."
+  ]
+}

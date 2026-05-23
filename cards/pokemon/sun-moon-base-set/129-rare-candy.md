@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - candy
+  - space
+  - glow
+  - cosmos
+  - transformation
+  - item
+  - mystery
+  - night
+  - orb
+  - luminous
+tags_filter:
+  - close-up
+  - abstract
+  - no-face
+  - trainer-item
+  - uncommon
 reference_image: cards/_images/pokemon/sun-moon-base-set/129-rare-candy.png
 average_cost_paid: 0
 market_price: 0.26
@@ -30,6 +45,9 @@ artist: Toyste Beach
 image_width: 600
 image_height: 825
 image_quality: med
+mood: sublime
+time_of_day: night
+setting: space
 tags:
   - card
   - pokemon
@@ -41,12 +59,16 @@ tags:
 
 ![129-rare-candy](../../_images/pokemon/sun-moon-base-set/129-rare-candy.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+The card art features a single luminous spherical object — a candy or orb — suspended against a rich, dark cosmic background with deep purples and blacks suggesting a nebula or void. The sphere itself glows softly, with warm light emanating from its center, creating a stark contrast against the darkness. The composition is minimalist: the glowing object is centered, surrounded by deep space-like atmosphere. The style reads as slightly older-era Pokemon TCG illustration. The image quality is medium and the background detail is limited by resolution.
 
+**Subject:** A glowing spherical candy or orb depicted against a deep space or dark nebula background — the Rare Candy item card
 
-**Subject:** 
-
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** close-up, abstract, figures: none, facing: n/a
+**Setting:** space, night
+**Foreground:** glowing spherical candy or orb with warm inner light  *(palette: white, yellow, orange)*
+**Background:** deep dark space or nebula, rich purples and blacks  *(palette: black, deep purple, dark blue)*
+**Mood / lighting:** sublime, chiaroscuro
+**Emotion read:** mysterious and luminous — an object of transformative power rendered in cosmic context
+**Objects:** candy, orb, glowing-sphere
+**Food/drink:** candy
+**Genre cues:** anime, fantasy

@@ -50,7 +50,10 @@
       "WebFetch(domain:www.dicetry.com)",
       "WebFetch(domain:www.coolstuffinc.com)",
       "WebFetch(domain:scentofagamer.wordpress.com)",
-      "WebFetch(domain:eytan.artstation.com)"
+      "WebFetch(domain:eytan.artstation.com)",
+      "WebFetch(domain:apptrigger.com)",
+      "WebFetch(domain:mtgdecks.net)",
+      "WebFetch(domain:www.metamox.com)"
     ]
   }
 }

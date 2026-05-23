@@ -74,3 +74,15 @@ In the foreground stands a robed figure draped in a long purple-blue garment wit
 **Creatures:** horses
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Tinder Wall is from Ice Age (ICE), released June 3, 1995, the first standalone Magic expansion. The set depicts the continent of Terisiare on Dominaria during a glacial epoch caused by the catastrophic Sylex Blast at the end of the Brothers' War. Kjeldor, the Balduvians, and other survivor cultures fight for resources across a frozen world. `[Scryfall; Wikipedia: Ice Age (Magic: The Gathering), via WebSearch]`
+- **Mechanical** — A {G} 0/3 Plant Wall with Defender, Tinder Wall sacrifices for {R}{R} or deals 2 damage to a creature it is blocking when {R} is paid and it is sacrificed. One green mana in, two red mana out — one of the most efficient color-bridge accelerants in formats where it is legal. EDHREC rank 2,440 reflects genuine Commander inclusion. `[Scryfall]`
+- **Mechanical** — In Pauper, Tinder Wall is the premier one-drop for the Walls Combo archetype, described by MTGGoldfish as "the best imaginable one drop for this deck." The combo assembles Axebane Guardian or Overgrown Battlement with a mass of defenders and an untap engine (Galvanic Alchemist or Freed from the Real) to generate infinite mana, then kills with Bloodrite Invoker. Tinder Wall's sacrifice ability provides off-combo red mana acceleration and an emergency removal option on block. `[MTGGoldfish: Pauper Walls Combo archetype, via WebSearch]`
+- **Design** — Art by Rick Emond. No flavor text. Uses the 1993-era card frame. Later non-Standard appearances include Masters Edition II (MTGO) and Coldsnap Theme Decks; no paper reprint in a draftable set. `[Scryfall]`
+
+### Related cards
+- Axebane Guardian (Return to Ravnica) — primary infinite-mana engine in Pauper Walls Combo
+- Overgrown Battlement (Rise of the Eldrazi) — core mana-producer in Walls Combo; Tinder Wall's red bridges the color gap
+- Bloodrite Invoker (Rise of the Eldrazi) — win condition that receives the combo's mana output
+- Wall of Roots (Mirage) — fellow green defender-accelerant sharing the Walls Combo creature suite

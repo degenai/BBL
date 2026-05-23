@@ -87,3 +87,7 @@ A solitary cloaked figure stands in the middle of a narrow city alley as torrent
 - Read the Bones (Theros, 103) -- the scry-2-draw-2-pay-2-life template that Notion Rain mirrors, replacing scry with surveil
 - Thought Erasure (Guilds of Ravnica, 206) -- companion Dimir surveil spell from the same set; discard + surveil pairing
 - Dimir Spybug (Guilds of Ravnica, 168) -- creature that triggers off surveil; natural deck partner for Notion Rain in surveil builds
+
+## Connections
+
+- [[80-never-happened]] — Same-set House Dimir memory-spell pair. Both carry the Dimir watermark, both are Guilds of Ravnica (October 2018) commons, and both render the guild's canonical "information warfare / memory-as-target" thesis at the flavor-text scope: Notion Rain's *"City air is a constant drizzle of private thoughts"* is the ambient-surveillance articulation, Never Happened's *"Dimir assassins have the precision to slay a single memory"* is the surgical-extraction articulation. The mechanical pairing matches the flavor pairing — Notion Rain surveils 2 and draws 2 at 2 life (passive intake), Never Happened exiles a chosen card from hand or graveyard (active extraction). Designer-coordinated flavor cycle within the same set's Dimir slot. `[Scryfall: watermark=dimir on both; magic.wizards.com/en/news/feature/guilds-ravnica-mechanics-2018-09-04]`

@@ -2,7 +2,7 @@
 name: Smoldering Tar
 game: "Magic: The Gathering"
 set: Invasion
-collector_number: 
+collector_number: 275
 rarity: U
 variance: Normal
 grade: Ungraded
@@ -66,3 +66,15 @@ A frontally-posed woman dominates the composition. She wears segmented dark armo
 **Objects:** braziers, severed-hand, conical-headdress, armor, smoke-pillars
 **Genre cues:** fantasy, painterly, high-fantasy
 
+## Trivia
+
+- **Set context** — Smoldering Tar is from Invasion (INV), released October 2, 2000 — the first set of the Invasion block and the twenty-first Magic expansion overall. The block depicts the first Phyrexian Invasion of Dominaria, with Urza marshaling heroes and artifacts against the onslaught. Mark Rosewater has called Invasion the start of the "Third Age of Magic Design," in which sets were built around a central theme rather than a collection of unrelated mechanics. `[Scryfall; Hipsters of the Coast: Set Retrospective — Invasion, 2023]`
+- **Design** — Invasion's core identity is multicolor: it introduced split cards, domain, and kicker, and built a subtheme around artifact and enchantment permanents. Smoldering Tar's {2}{B}{R} color identity directly expresses the allied-color multicolor design philosophy at the heart of the block. The Hipsters of the Coast retrospective notes that the set "really hammered down on a subtheme of artifacts and enchantments," pointing to cards like Aura Shards and Phyrexian Altar as lasting examples. Art by David Day. `[Scryfall; Hipsters of the Coast: Set Retrospective — Invasion, 2023]`
+- **Mechanical** — Smoldering Tar drains 1 life per upkeep from a target player and sacrifices as a sorcery to deal 4 damage to a creature. EDHREC rank 28,182 indicates very low Commander inclusion — a 4-mana enchantment that gains no immediate board impact struggles to compete in Commander's inflated mana environment. Legal in Legacy, Vintage, Commander, and Premodern; not legal in Pauper. This is the only printing per Scryfall's full print history. Not on the Reserved List. `[Scryfall]`
+- **Design** — The depicted ritualist figure is unnamed; the card carries no flavor text. The oracle text names no character. The figure depicted should not be identified with any named Dominarian or Phyrexian character without explicit Wizards sourcing. `[Scryfall]`
+
+### Related cards
+- Phyrexian Altar (Invasion) — same set; noted by Hipsters as an Invasion standout with lasting Commander impact
+- Fires of Yavimaya (Invasion) — same set; Hipsters cited its casual-table staying power
+- Aura Shards (Invasion) — same set; notable enchantment-subtheme card from the same design cycle
+- Sterling Grove (Invasion) — same set; enchantment lord and tutor in the same artifacts-and-enchantments subtheme
