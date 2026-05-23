@@ -5,6 +5,9 @@
 secrets.local
 *.key
 
+# Local machine-specific Claude Code config (permission allowlists, etc.)
+.claude/settings.local.json
+
 # OS / editor
 .DS_Store
 Thumbs.db
