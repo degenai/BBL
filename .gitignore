@@ -8,6 +8,11 @@ secrets.local
 # Local machine-specific Claude Code config (permission allowlists, etc.)
 .claude/settings.local.json
 
+# Card image cache — regeneratable via researchbot.py --prepare-only
+# Untracked 2026-05-23 to keep repo under GitHub's 2 GB pack-size limit;
+# history scrubbed via git filter-branch in the same commit
+cards/_images/
+
 # OS / editor
 .DS_Store
 Thumbs.db
