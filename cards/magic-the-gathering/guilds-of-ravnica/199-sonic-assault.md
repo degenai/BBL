@@ -76,3 +76,14 @@ A monolithic black speaker-like device dominates the lower frame, its conical fo
 **Iconography:** sound-waves, shockwave, concentric-rings
 **Genre cues:** fantasy, urban-fantasy, magitech
 
+## Trivia
+
+- **Set context** — Sonic Assault was released in Guilds of Ravnica (October 5, 2018), an expansion set on the city-plane of Ravnica featuring five of its ten guilds: Izzet, Selesnya, Dimir, Golgari, and Boros. It carries the Izzet watermark, placing it firmly within the league of wizards and artificers led by Niv-Mizzet. `[Scryfall]`
+- **Mechanic origin** — Jump-start, the Izzet keyword on this card, evolved from an earlier vision-design mechanic called "jewel," which allowed free re-casting from exile after an instant or sorcery resolved. Set Design found that version broken and iterated toward the discard-as-cost model. Mark Rosewater called the finished jump-start "the most Izzet-y guild mechanic to date." `[magic.wizards.com: "Guild to Order, Part 1," 2018-09-10]`
+- **Flavor text** — "He heard stars and saw thunder." `[Scryfall]` The line has no named speaker, functioning as an anonymous observer note — consistent with Izzet's tradition of treating sound and energy as interchangeable phenomena. The inversion of sense (hearing stars, seeing thunder) mirrors jump-start's own inversion of normal casting sequencing.
+- **Print run** — No reprints as of 2026; Guilds of Ravnica is the sole printing. EDHREC rank 22,226 places it at the fringe of Commander play, consistent with its role as a Limited staple rather than a constructed staple. `[Scryfall]` `[EDHREC]`
+
+### Related cards
+- Radical Idea (GRN, 52) — fellow common jump-start instant from Guilds of Ravnica; staple comparison point for the mechanic
+- Maximize Velocity (GRN, 108) — another jump-start common in the same set, different color axis
+- Crackling Drake (GRN, 163) — Izzet creature that rewards graveyard-cast instants and sorceries, core payoff for jump-start synergy in GRN Limited

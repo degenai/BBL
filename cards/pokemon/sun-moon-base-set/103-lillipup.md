@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - dog
+  - puppy
+  - flowers
+  - meadow
+  - cozy
+  - cute
+  - small-animal
+  - fluffy
+  - nature
+  - white-flowers
+  - pastoral
+  - peaceful
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - creature-only
 reference_image: cards/_images/pokemon/sun-moon-base-set/103-lillipup.png
 average_cost_paid: 0
 market_price: 0.1
@@ -31,6 +48,14 @@ artist: MAHOU
 image_width: 700
 image_height: 990
 image_quality: high
+mood: peaceful
+time_of_day: day
+setting: other
+suspected_ip: Lillipup
+ip_confidence: high
+ip_verified: false
+characters:
+  - lillipup-line
 tags:
   - card
   - pokemon
@@ -42,12 +67,18 @@ tags:
 
 ![103-lillipup](../../_images/pokemon/sun-moon-base-set/103-lillipup.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Lillipup** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+A small, round-faced dog-type creature sits contentedly among clusters of white flowers in a bright sunny meadow. Its fluffy fur is warm in tone and it has large, round expressive eyes giving it an endearing appearance. The creature faces forward with a calm, gentle demeanor. White flowers surround it at ground level, and the background softens into warm green grassy tones with gentle sunlight. The overall mood is peaceful and pastoral.
 
-**Subject:** 
+**Subject:** Lillipup, a small fluffy dog-like Pokemon with large expressive eyes and a round fluffy face, sitting among white flowers in a sunny meadow
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, day, clear
+**Foreground:** small fluffy dog-like creature seated among white flowers  *(palette: warm-tan, cream, brown)*
+**Background:** bright sunny meadow with white flowers and green grass  *(palette: white, green, warm-yellow)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** gentle, calm, endearing expression
+**Creatures:** dog-creature, small-mammal
+**Genre cues:** anime

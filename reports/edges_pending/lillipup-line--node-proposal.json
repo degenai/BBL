@@ -1,0 +1,61 @@
+{
+  "edge_id": "lillipup-line--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "node_type": "character",
+  "node_path": "cards/_characters/lillipup-line.md",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/lillipup-line.md", "name": "Lillipup evolutionary line (Lillipup / Herdier / Stoutland)"},
+    {"type": "card", "path": "cards/pokemon/sun-moon-base-set/103-lillipup.md", "name": "Lillipup (Sun & Moon Base Set 103/149)"},
+    {"type": "card", "path": "cards/pokemon/sun-moon-base-set/104-herdier.md", "name": "Herdier (Sun & Moon Base Set 104/149)"},
+    {"type": "card", "path": "cards/pokemon/sun-moon-base-set/105-stoutland.md", "name": "Stoutland (Sun & Moon Base Set 105/149)"}
+  ],
+  "description": "Oh sir, please forgive the intrusion — Edgelord wanted ever so badly to draw a clean 1:1 between Lillipup 103 and Herdier 104 (the two fresh vision-only prints this wave) but, well, Stoutland 105 is already in corpus at the same set, all three evolution stages are present at adjacent-contiguous collector numbers, and drawing pairwise edges between them would have been three thin edges all pointing at an absent center. So Mr. Nodeley humbly proposes the lillipup-line cohort node at full-triptych single-set coverage — the second such within-set adjacent-contiguous full-triptych in corpus after Charizard-line's Vivid Voltage 023+024+025, and the first on the Sun-and-Moon-era side. The line's working-dog / rescue-partner / grooming-cost-as-balancing-trait canon also opens labor-thesis bundle scholarship for a future Discrete Lair, with citations directly from each card's printed Pokedex flavor.",
+  "citations": [
+    "[Bulbapedia: Lillipup (Pokemon)]",
+    "[Bulbapedia: Herdier (Pokemon)]",
+    "[Bulbapedia: Stoutland (Pokemon)]",
+    "[Pokemon.com: National Pokedex no. 506 / 507 / 508]",
+    "[Pokemon Black and White (Game Freak / Creatures Inc. / Nintendo, 2010) primary canon]",
+    "[Stoutland Sun & Moon Base Set 105/149 trivia pass, in-corpus]",
+    "[PokemonTCG.io per-card pages SM1 103 / 104 / 105 — flavor_text, oracle_text, artist, collector_number]"
+  ],
+  "files_modified": [
+    "cards/_characters/lillipup-line.md",
+    "cards/_characters/drilbur-line.md",
+    "cards/pokemon/sun-moon-base-set/103-lillipup.md",
+    "cards/pokemon/sun-moon-base-set/104-herdier.md",
+    "cards/pokemon/sun-moon-base-set/105-stoutland.md"
+  ],
+  "files_created": [
+    "cards/_characters/lillipup-line.md"
+  ],
+  "edges_added": [],
+  "edges_removed": [],
+  "card_pointers_added": [
+    {"card": "cards/pokemon/sun-moon-base-set/103-lillipup.md", "field": "characters", "value": "lillipup-line"},
+    {"card": "cards/pokemon/sun-moon-base-set/104-herdier.md", "field": "characters", "value": "lillipup-line"},
+    {"card": "cards/pokemon/sun-moon-base-set/105-stoutland.md", "field": "characters", "value": "lillipup-line"}
+  ],
+  "sibling_node_pointers_added": [
+    {"node": "cards/_characters/drilbur-line.md", "field": "related_characters", "value": "lillipup-line"}
+  ],
+  "other_candidates_considered": [
+    "1:1 evolution-mirror edges between Lillipup 103, Herdier 104, Stoutland 105 — rejected: drawing pairwise within-line edges across a three-stage-line cohort would be duplicate edges pointing at an absent center; the cohort node absorbs the relationship at the species-line level (drilbur-line / larvitar-line / staraptor-line precedent)",
+    "Croagunk steam-siege-58 + Croagunk mega-evolution-078 — second Croagunk print in corpus; below standard Nodeley threshold (2 prints, single species, no Toxicroak in corpus); flagged here for the corpus-walking record but no node or edge action this wave",
+    "Eevee sun-moon-base-set 101 — Eevee-line node candidate (multi-evolution branching line, ~8 stage-1 evolutions); single Eevee corpus print at threshold-minus-many; far below threshold, no action this wave",
+    "Selesnya Locket guilds-of-ravnica 240 — part of 10-Locket GRN+RNA cycle; existing color_magic_human_review parking covers Locket cohort handling per parent brief; deferred",
+    "Golgari Guildgate guilds-of-ravnica 248 — Gate subtype card; no existing guildgates / gates cohort node in corpus; Gate-subtype is a candidate cohort axis at the Ravnica-set scope but cross-corpus Gate-card threshold not verified this wave; flagged as future-watch for a Gate-subtype Mr. Nodeley pass once corpus-walking confirms 3+ Gate prints across 2+ guilds",
+    "MTG trivia-passed slate (sonic-assault 199, sumala-woodshaper 200, invert-invent 228, selesnya-locket 240, golgari-guildgate 248) — all guilds-of-ravnica common/uncommon roster; no within-slate narrative-weight pair surfaced on the walk; no cross-corpus 1:1 candidate stronger than the Lillipup-line proposal; deferred"
+  ],
+  "next_pass_suggestions": [
+    "Triviabot pass on Lillipup SM1-103 + Herdier SM1-104 (IP-verify flip; both at suspected_ip / ip_verified: false; verification will close the cohort's per-stage ip_resolution_for state).",
+    "Watch the Snivy line — Snivy BLB-001 and Servine BLB-002 in corpus at threshold-minus-one; one more Snivy / Servine / Serperior corpus print pushes Snivy-line to Mr. Nodeley threshold (Unova Gen V grass-starter line).",
+    "Watch the Gate-subtype cohort — Golgari Guildgate 248 surfaced this wave; corpus-walk for other guildgates / Gates across Magic sets to determine whether a `gates` symbol/cohort node clears Mr. Nodeley threshold.",
+    "Enlightened-Edgelord opportunity (staged): the wave-27 Drilbur CEC-114 ↔ Excadrill FUS-183 1:1 evolution-mirror Connections edge is now subsumed by the [[drilbur-line]] cohort node (per that node's wave-27-edge caveat). A future enlightened-Edgelord pass may elect to dissolve that within-corpus edge as redundant-once-subsumed and replace with a stronger cross-node edge (e.g. lillipup-line ↔ drilbur-line within-Unova working-quadruped cross-line edge). Single-operation decision, staged not executed.",
+    "Chinese Zodiac grid-of-record verification — the line is a candidate for the Dog cell in the diamondlegendz/pokemon-zodiac DATA grid; verify on next zodiac-grid-walk pass and add the cell placement to the lillipup-line node body as scholarship if confirmed.",
+    "Labor-hub tag retrofit candidate — the cards' `tags_hub` lists do not currently include `labor`, but the canonical-event citation for working-dog / rescue-partner / grooming-cost canon supports adding `labor` to Stoutland 105 (and possibly Herdier 104) on a future triage pass, paralleling Drilbur CEC-114's existing `labor` tag."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

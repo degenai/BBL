@@ -1,0 +1,47 @@
+{
+  "card_name": "Sonic Assault",
+  "game": "Magic: The Gathering",
+  "set": "Guilds of Ravnica",
+  "collector_number": "199",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "frontmatter_check": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{1}{U}{R}",
+    "color_magic_tags_in_filter": ["multicolor-blue-red", "izzet"],
+    "flag": "none"
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Sonic Assault was released in Guilds of Ravnica (October 5, 2018), an expansion featuring five of Ravnica's ten guilds. It carries the Izzet watermark, placing it within the league of wizards and artificers led by Niv-Mizzet.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Jump-start, this card's keyword, evolved from a vision-design mechanic called 'jewel' that allowed free re-casting from exile. Set Design found that version broken and iterated to the discard-as-cost model. Mark Rosewater called the finished jump-start 'the most Izzet-y guild mechanic to date.'",
+      "sources": ["magic.wizards.com: Guild to Order Part 1, 2018-09-10"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'He heard stars and saw thunder.' — no named speaker. The inversion of sense-perception mirrors jump-start's own reversal of normal casting sequencing.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "No reprints as of 2026; GRN is the sole printing. EDHREC rank 22,226 places it at the fringe of Commander play, consistent with its role as a Limited staple rather than a constructed staple.",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Radical Idea", "set": "Guilds of Ravnica", "note": "Fellow common jump-start instant; baseline comparison for the mechanic in GRN"},
+    {"name": "Maximize Velocity", "set": "Guilds of Ravnica", "note": "Another jump-start common in GRN, different color axis"},
+    {"name": "Crackling Drake", "set": "Guilds of Ravnica", "note": "Izzet payoff creature for graveyard-cast instants/sorceries; core synergy card in GRN Limited"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

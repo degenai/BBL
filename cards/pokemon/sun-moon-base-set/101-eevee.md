@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - fox
+  - small-animal
+  - meadow
+  - joy
+  - cozy
+  - fluffy
+  - cute
+  - leap
+  - nature
+  - cream-ruff
+  - forest
+  - evolution
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - action-mode
+  - creature-only
 reference_image: cards/_images/pokemon/sun-moon-base-set/101-eevee.png
 average_cost_paid: 0
 market_price: 0.4
@@ -31,6 +48,12 @@ artist: Shibuzoh.
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: cozy
+time_of_day: day
+setting: forest
+suspected_ip: Eevee
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -42,12 +65,18 @@ tags:
 
 ![101-eevee](../../_images/pokemon/sun-moon-base-set/101-eevee.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Eevee** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+A small, fox-like creature leaps energetically through a bright green meadow environment. It has large, prominent ears, a fluffy cream ruff around its neck, and a thick bushy tail. The creature is mid-bound, body angled upward, with an expression of joyful exuberance. The background is a soft blur of lush green foliage and grass, lit with warm daylight that gives the scene a cozy, cheerful outdoor atmosphere.
 
-**Subject:** 
+**Subject:** Eevee, a small mammal-like Pokemon with large ears, a fluffy cream-colored ruff, and a bushy tail, bounding through a grassy green setting
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** forest, day, clear
+**Foreground:** small mammal-like creature mid-leap in a grassy clearing  *(palette: warm-brown, cream, tan)*
+**Background:** soft-focus green meadow with warm daylight  *(palette: green, warm-yellow, pale-green)*
+**Mood / lighting:** cozy, soft
+**Emotion read:** joyful exuberance, energetic bounding leap
+**Creatures:** fox-like-creature, small-mammal
+**Genre cues:** anime

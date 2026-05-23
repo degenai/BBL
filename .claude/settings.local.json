@@ -49,7 +49,8 @@
       "WebFetch(domain:www.stevenrussellblack.com)",
       "WebFetch(domain:www.dicetry.com)",
       "WebFetch(domain:www.coolstuffinc.com)",
-      "WebFetch(domain:scentofagamer.wordpress.com)"
+      "WebFetch(domain:scentofagamer.wordpress.com)",
+      "WebFetch(domain:eytan.artstation.com)"
     ]
   }
 }

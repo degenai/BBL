@@ -1,0 +1,47 @@
+{
+  "card_name": "Sumala Woodshaper",
+  "game": "Magic: The Gathering",
+  "set": "Guilds of Ravnica",
+  "collector_number": "200",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "frontmatter_check": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{2}{G}{W}",
+    "color_magic_tags_in_filter": ["multicolor-white-green"],
+    "flag": "none"
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Sumala Woodshaper is a common Elf Druid from Guilds of Ravnica (October 5, 2018), bearing the Selesnya watermark. The card's name references a real Ravnican location: the Topiary Grove of Sumala, a massive meditation garden and architectural masterwork within Selesnya territory.",
+      "sources": ["Scryfall", "WebSearch snippet: World Anvil / Ravnica lore summary"]
+    },
+    {
+      "category": "mechanical",
+      "text": "On entering the battlefield, the Woodshaper looks at the top four cards and may put a creature or enchantment into hand. Supported Selesnya's token-and-enchantment Limited strategy in GRN. EDHREC rank 23,493 and approximately 577 tracked Commander decks as of 2026.",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Sara Winters, whose MTG portfolio includes Servo Exhibition (Kaladesh), Tolarian Scholar (Dominaria), Niko Aris (Kaldheim), and Thought Collapse (Ravnica Allegiance). Sumala Woodshaper is one of her Guilds of Ravnica contributions.",
+      "sources": ["artofmtg.com: Sara Winters card list, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Scryfall returns no flavor text for this card; the oracle text alone occupies the text box. No flavor text to cite.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Emmara, Soul of the Accord", "set": "Guilds of Ravnica", "note": "Selesnya legendary creature from the same set; featured guild character in GRN"},
+    {"name": "Flower // Flourish", "set": "Guilds of Ravnica", "note": "Selesnya split card with land-search half; companion mana smoother in the same set"},
+    {"name": "Trostani Discordant", "set": "Guilds of Ravnica", "note": "Selesnya guild leader in GRN; thematic anchor of the Conclave's communal philosophy"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

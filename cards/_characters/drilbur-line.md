@@ -27,6 +27,7 @@ related_characters:
   - mareep-line
   - staraptor-line
   - caterpie-line
+  - lillipup-line
 ip_resolution_for: drilbur-line
 tags:
   - layer

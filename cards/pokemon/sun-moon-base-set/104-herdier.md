@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - dog
+  - canine
+  - loyal
+  - fierce
+  - dark-mantle
+  - two-tone
+  - guardian
+  - radiant
+  - evolution-line
+  - bold
+  - creature-portrait
+  - dramatic-lighting
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - action-mode
+  - creature-only
 reference_image: cards/_images/pokemon/sun-moon-base-set/104-herdier.jpg
 average_cost_paid: 0
 market_price: 0.17
@@ -31,6 +48,14 @@ artist: sui
 image_width: 908
 image_height: 1280
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: other
+suspected_ip: Herdier
+ip_confidence: high
+ip_verified: false
+characters:
+  - lillipup-line
 tags:
   - card
   - pokemon
@@ -40,14 +65,20 @@ tags:
 
 ## Vision
 
-![104-herdier](../../_images/pokemon/sun-moon-base-set/104-herdier.png)
+![104-herdier](../../_images/pokemon/sun-moon-base-set/104-herdier.jpg)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Herdier** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+A medium-sized dog-type creature stands in a bold, alert stance with legs planted wide. Its coat is strikingly two-toned: warm amber-tan on the legs, muzzle, and face, while a dense dark-purple to black fur mantle drapes over its back and flanks like a cloak. Prominent brow markings give it a serious, determined expression. The background is a dramatic burst of warm golden-white light radiating outward, lending the composition an energetic, action-ready atmosphere. The overall feel is loyal, fierce, and dignified.
 
-**Subject:** 
+**Subject:** Herdier, a medium-sized dog-like Pokemon with a two-toned coat featuring tan limbs and face with a dark purple-black fur mantle across its back, standing in an alert dynamic pose
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** other, indeterminate
+**Foreground:** two-toned dog creature in alert wide-stance pose with dark mantle fur  *(palette: amber-tan, dark-purple, black, warm-brown)*
+**Background:** radiant golden-white light burst  *(palette: golden-yellow, white, warm-cream)*
+**Mood / lighting:** action, backlit
+**Emotion read:** determined, alert, fierce loyalty
+**Creatures:** dog-creature, canine
+**Genre cues:** anime

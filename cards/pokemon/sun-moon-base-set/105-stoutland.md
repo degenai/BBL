@@ -53,6 +53,8 @@ subject_known_ip: true
 suspected_ip: Stoutland
 ip_confidence: high
 ip_verified: true
+characters:
+  - lillipup-line
 tags:
   - card
   - pokemon

@@ -74,3 +74,14 @@ The art crop shows two distinct panels side-by-side, reflecting the split-card n
 **Creatures:** elemental
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Printing error / day-zero errata** — When Invert // Invent was previewed, the Invert face was missing the words "until end of turn," which would have made the power/toughness switch permanent. Magic Rules Manager Eli Shiffrin issued a day-zero errata before the set's release. Mark Rosewater explained: "The card had that text for most of its existence. During one of the many back and forth between R&D and CAPS (the department who gets the cards printed), it accidentally got removed and it didn't get noticed." The card is tagged `day-zero-errata` on Scryfall. `[epicstream.com: "MTG Head Designer Explains How The Simple Guilds of Ravnica Mistake Slipped Through"]` `[Scryfall: oracle tag]`
+- **Set context and split-card structure** — Released in Guilds of Ravnica (October 5, 2018) with the Izzet watermark on both faces. As a split card, the two halves share a single card slot but function as two independent spells. Invert costs a single hybrid {U/R} mana — playable as one blue or one red — while Invent costs {4}{U}{R} and tutors for an instant and/or sorcery, a classic Izzet dream package. `[Scryfall]`
+- **Legality note** — Invert // Invent is not legal in Pauper despite both faces being individually instant-type spells. Scryfall lists it `not_legal` in Pauper; split-card legality is governed by the combined mana value at the time of printing, which factors into format eligibility. `[Scryfall]`
+- **EDHREC standing** — Ranked 12,117 on EDHREC, which places it modestly in Commander — the Invent half's tutor effect is the primary draw for spell-heavy Izzet decks. `[EDHREC]`
+
+### Related cards
+- Expansion // Explosion (GRN, 224) — fellow Izzet split card in GRN, higher-profile competitive piece from the same set
+- Hypothesizzle (GRN, 179) — Izzet instant in GRN combining card draw with discard removal; companion piece to the set's spellslinger theme
+- Niv-Mizzet, Parun (GRN, 192) — the legendary Izzet guildmaster previewed in the same "Guild to Order" article as jump-start; flagship payoff for instant/sorcery synergy

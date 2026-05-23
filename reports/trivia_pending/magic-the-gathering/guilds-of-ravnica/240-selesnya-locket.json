@@ -1,0 +1,44 @@
+{
+  "card_name": "Selesnya Locket",
+  "game": "Magic: The Gathering",
+  "set": "Guilds of Ravnica",
+  "collector_number": "240",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "frontmatter_check": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{3}",
+    "color_magic_tags_in_filter": ["green-magic", "white-magic", "multicolor-green-white", "mana-rock"],
+    "flag": "color_magic_review_parked: tags_filter contains 'green-magic' and 'white-magic' on a colorless-cost artifact. These are guild-identity color signals for a Selesnya Locket (produces G and W mana) and are parked under color_magic_human_review status. No correction applied per standing instructions — flag state documented here for curation awareness."
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Selesnya Locket is one of five Guild Lockets introduced in Guilds of Ravnica (October 5, 2018), one per featured guild. Each is a colorless-cost mana rock that taps for its guild's two colors and sacrifices for two cards when activated with four colored mana. The five were continued in Ravnica Allegiance for the remaining guilds.",
+      "sources": ["Scryfall", "mtgsalvation.com: Guild Lockets thread, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'Think of the locket as a seed you bear, spreading life from Vitu-Ghazi across all of Ravnica.' — Heruj, Selesnya hierophant. Vitu-Ghazi is the Selesnya Conclave's world-tree guildhall, a massive living structure over 10,000 years old on Ravnica. The metaphor reframes the guild relic as a distributed propagation vehicle for the Conclave's life-force beyond the central tree.",
+      "sources": ["Scryfall", "mtg.wiki: Vitu-Ghazi via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Sole printing as of 2026 — GRN only. Illustrated by Winona Nelson, a recurring MTG contributor with work across multiple expansions. EDHREC rank 14,114.",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dimir Locket", "set": "Guilds of Ravnica", "note": "Same five-locket cycle, Dimir guild"},
+    {"name": "Golgari Locket", "set": "Guilds of Ravnica", "note": "Same five-locket cycle, Golgari guild"},
+    {"name": "Izzet Locket", "set": "Guilds of Ravnica", "note": "Same five-locket cycle, Izzet guild"},
+    {"name": "Boros Locket", "set": "Guilds of Ravnica", "note": "Same five-locket cycle, Boros guild"},
+    {"name": "Vitu-Ghazi, the City-Tree", "set": "Ravnica: City of Guilds", "note": "The world-tree named in the flavor text as the origin-point of the locket seed metaphor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

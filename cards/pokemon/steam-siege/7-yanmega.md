@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - dragonfly
+  - insect
+  - flying
+  - wings
+  - predator
+  - green-creature
+  - speed
+  - aerial
+  - giant-insect
+  - compound-eyes
+  - creature-portrait
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - action-mode
+  - creature-only
+  - flying
 reference_image: cards/_images/pokemon/steam-siege/7-yanmega.png
 average_cost_paid: 0
 market_price: 0.2
@@ -27,8 +44,34 @@ oracle_text: "[Ability: Sonic Vision] If you have exactly 4 cards in your hand, 
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: day
+setting: other
+suspected_ip: Yanmega
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
 ---
 # Yanmega (Steam Siege)
+
+## Vision
+
+![7-yanmega](../../_images/pokemon/steam-siege/7-yanmega.png)
+
+> [!warning] Suspected IP: **Yanmega** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A large dragonfly-type creature is depicted in dynamic mid-flight, its green segmented body angled with wings spread wide. Multiple pairs of transparent wings are visible. Large compound eyes dominate the head. The creature has a long abdomen ending in a tail fan. The background is a bright open sky with light cloud haze, giving the composition a sense of speed and aerial dominance. The mood is aggressive and predatory.
+
+**Subject:** Yanmega, a large dragonfly-like Pokemon with a green segmented body, multiple wings, and large compound eyes, shown in flight
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** other, day, clear
+**Foreground:** large green dragonfly-like creature in flight with multiple wing pairs and segmented body  *(palette: green, dark-green, teal)*
+**Background:** bright sky with diffuse cloud-light haze  *(palette: light-blue, white, pale-yellow)*
+**Mood / lighting:** action, ambient
+**Emotion read:** aggressive, focused, predatory posture in flight
+**Creatures:** dragonfly, insect-creature, giant-insect
+**Genre cues:** anime, fantasy

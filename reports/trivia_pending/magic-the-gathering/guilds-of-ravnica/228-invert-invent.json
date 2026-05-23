@@ -1,0 +1,42 @@
+{
+  "card_name": "Invert // Invent",
+  "game": "Magic: The Gathering",
+  "set": "Guilds of Ravnica",
+  "collector_number": "228",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "frontmatter_check": {
+    "mana_cost_present": true,
+    "mana_cost_value": "{U/R} // {4}{U}{R}",
+    "color_magic_tags_in_filter": ["multicolor-blue-red", "split-card"],
+    "flag": "none"
+  },
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Invert // Invent received a day-zero errata before GRN's release. The Invert face was printed without the words 'until end of turn,' which would have made the power/toughness switch permanent. Mark Rosewater stated: 'The card had that text for most of its existence. During one of the many back and forth between R&D and CAPS (the department who gets the cards printed), it accidentally got removed and it didn't get noticed.' The card is tagged day-zero-errata on Scryfall.",
+      "sources": ["epicstream.com: MTG Head Designer Explains How The Simple Guilds of Ravnica Mistake Slipped Through", "Scryfall: oracle tag day-zero-errata"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Released in Guilds of Ravnica (October 5, 2018) with the Izzet watermark on both faces. As a split card, Invert costs a single hybrid {U/R} mana (playable as one blue or one red), while Invent costs {4}{U}{R} and tutors for an instant and/or sorcery — a classic Izzet toolbox package on one card.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Invert // Invent is not legal in Pauper despite both halves being instant-type spells at uncommon. Scryfall marks it not_legal in Pauper; split-card legality is governed by the higher combined mana value at time of printing. EDHREC rank 12,117; the Invent half's tutor effect is the primary Commander draw.",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Expansion // Explosion", "set": "Guilds of Ravnica", "note": "Fellow Izzet split card from GRN; higher-profile competitive piece from the same set"},
+    {"name": "Hypothesizzle", "set": "Guilds of Ravnica", "note": "Izzet instant combining card draw and discard removal; companion spellslinger piece in GRN"},
+    {"name": "Niv-Mizzet, Parun", "set": "Guilds of Ravnica", "note": "Izzet guildmaster previewed in the same Making Magic article as jump-start; flagship payoff for instant/sorcery synergy"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

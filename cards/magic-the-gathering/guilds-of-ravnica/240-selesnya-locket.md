@@ -78,3 +78,17 @@ A polished gold locket shaped like a flattened oval shell or pendant case hangs 
 ## Connections
 
 - [[258-branch-of-vitu-ghazi]] — Same canonical landmark. The locket's flavor names Vitu-Ghazi as the source the Selesnya tree-seeds spread from; Branch of Vitu-Ghazi (MKM-258) is the world-tree itself rendered as a Disguise-land with a glowing doorway in its trunk. Pendant-and-axis-mundi pair, both inscribed with the Selesnya tree-sigil. `[MTG Wiki: Vitu-Ghazi]` `[Scryfall: Selesnya Locket GRN-240 flavor_text]`
+
+## Trivia
+
+- **Set context and locket cycle** — Selesnya Locket is one of five Guild Lockets introduced in Guilds of Ravnica (October 5, 2018), one per featured guild (Izzet, Selesnya, Dimir, Golgari, Boros). Each is a colorless-cost artifact mana rock that taps for its guild's two colors and sacrifices for two cards when activated with four colored mana. The design was positioned as a limited mana-fixer and a late-game card advantage outlet; the five lockets were continued in Ravnica Allegiance for the remaining five guilds. `[Scryfall]` `[mtgsalvation.com: "Guild Lockets" thread, via WebSearch snippet]`
+- **Flavor text and Vitu-Ghazi** — "Think of the locket as a seed you bear, spreading life from Vitu-Ghazi across all of Ravnica." — Heruj, Selesnya hierophant. `[Scryfall]` Vitu-Ghazi is the world-tree that has served as the Selesnya Conclave's guildhall for over 10,000 years on Ravnica — a massive living structure whose branches hold buildings and whose trunk contains a cathedral to nature. The locket's metaphor reframes the guild relic as a distributed propagation vehicle for the Conclave's life-force beyond the central tree. `[mtg.wiki: Vitu-Ghazi, via WebSearch snippet]`
+- **Sole printing** — Scryfall shows one printing only (GRN, 2018). Winona Nelson illustrated the card; Nelson is a recurring MTG contributor with work across multiple expansions. `[Scryfall]`
+- **EDHREC and color-magic tags note** — EDHREC rank 14,114; appears in approximately 14,000+ Commander decks. Tags note for curation: the card's `tags_filter` lists `green-magic`, `white-magic`, `multicolor-green-white`, and `mana-rock`. The `green-magic` and `white-magic` entries are color-magic tags on a colorless-cost artifact (mana cost {3}); these are guild-identity signals on a Selesnya locket (it produces green and white mana), parked in `tags_filter` under color_magic_human_review status. No correction applied here per standing instructions. `[Scryfall]` `[EDHREC]`
+
+### Related cards
+- Dimir Locket (GRN, 233) — same cycle, different guild
+- Golgari Locket (GRN, 236) — same cycle, different guild
+- Izzet Locket (GRN, 238) — same cycle, different guild
+- Boros Locket (GRN, 231) — same cycle, different guild; Ravnica Allegiance completed the cycle with five more
+- Vitu-Ghazi, the City-Tree (RAV, 285) — the world-tree named in the flavor text as the origin-point of the locket's "seed"

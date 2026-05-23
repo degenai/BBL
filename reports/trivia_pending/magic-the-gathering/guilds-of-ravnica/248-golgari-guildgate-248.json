@@ -1,0 +1,49 @@
+{
+  "card_name": "Golgari Guildgate (248)",
+  "game": "Magic: The Gathering",
+  "set": "Guilds of Ravnica",
+  "collector_number": "248",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "frontmatter_check": {
+    "mana_cost_present": true,
+    "mana_cost_value": "",
+    "color_magic_tags_in_filter": ["black-magic", "green-magic"],
+    "flag": "mana_cost is empty string — CORRECT for a Land type card. No action needed."
+  },
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Golgari Guildgate (no. 248) was released in Guilds of Ravnica (October 5, 2018). Its flavor text is spoken by Vraska, who by the time of GRN had killed former guildmaster Jarad and installed herself as Golgari Queen. The 'coming doom' she references is the impending War of the Spark invasion orchestrated by Nicol Bolas — an event Vraska was covertly helping enable while simultaneously working against him.",
+      "sources": ["Scryfall", "mtg.wiki: War of the Spark event, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'Shut the gates. In the Underrealm we will outlast the coming doom.' — Vraska. The Underrealm is the Golgari's subterranean domain beneath Ravnica's streets — a fungal, necrotic underground where the guild cycles death into new growth.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Guilds of Ravnica included two distinct artworks for each of its five Guildgates, each occupying a separate common slot. Card no. 248 and no. 249 are both illustrated by Eytan Zana. No. 249's flavor text is attributed to Izoni ('Jarad was a friend to the Devkarin. Now we slink through neglected tunnels, befriending those who crawl them.') — establishing Devkarin factional resentment toward Vraska's new order within the same set.",
+      "sources": ["Scryfall", "epicstream.com: Guilds of Ravnica is Getting 2 Cycles of Guildgates, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Golgari Guildgate has been reprinted 17 times, including Return to Ravnica (RTR), Dragon's Maze (DGM), Modern Masters 2017 (MM3), multiple Commander products, Ravnica Remastered (RVR), Foundations (FDN), Ravnica: Clue Edition (CLU), and The List. EDHREC rank 1,487 — one of the most Commander-played Guildgate versions — driven by Gate-tribal decks built around Maze's End and related Gate synergies.",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Golgari Guildgate", "set": "Guilds of Ravnica", "note": "The companion no. 249 art version in the same set — same artist Eytan Zana, Izoni flavor text"},
+    {"name": "Golgari Guildgate", "set": "Return to Ravnica", "note": "Original RTR printing that established the art lineage"},
+    {"name": "Maze's End", "set": "Dragon's Maze", "note": "Gate-tribal build-around land that drives Commander demand for all Guildgates"},
+    {"name": "Vraska, Golgari Queen", "set": "Guilds of Ravnica", "note": "Planeswalker card whose lore moment the flavor text quotes directly"},
+    {"name": "Gateway Plaza", "set": "Guilds of Ravnica", "note": "New Gate land introduced in GRN alongside the dual Guildgate cycle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

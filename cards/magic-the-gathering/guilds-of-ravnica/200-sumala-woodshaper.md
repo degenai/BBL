@@ -74,3 +74,14 @@ A female elf druid stands in a verdant forest with her eyes serenely closed and 
 **Iconography:** nature-magic, swirling-energy
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** — Sumala Woodshaper is a common Elf Druid from Guilds of Ravnica (October 5, 2018), bearing the Selesnya watermark. The Selesnya Conclave is Ravnica's guild of unity, commune, and naturalistic growth — structurally analogous to a living religious collective organized around the world-tree Vitu-Ghazi. The card's name grounds it in a specific Ravnican location: Sumala is the Topiary Grove of Sumala, a massive meditation garden and architectural masterwork of elven woodshapers within Selesnya territory. `[Scryfall]` `[WebSearch snippet: World Anvil / Ravnica: The Overlord community lore summary]`
+- **Mechanics** — On entering the battlefield, the Woodshaper filters the top four cards of the library, selecting a creature or enchantment to keep. In Guilds of Ravnica Limited, this effect supported Selesnya's token-and-enchantment strategy; in Commander it sees scattered use as cheap card selection in Elf tribal or enchantress builds. EDHREC rank 23,493 and 577 tracked Commander decks as of 2026. `[Scryfall]` `[EDHREC]`
+- **Artist** — Sara Winters has illustrated multiple MTG cards including Servo Exhibition (Kaladesh), Tolarian Scholar (Dominaria), Niko Aris (Kaldheim), and Thought Collapse (Ravnica Allegiance). Sumala Woodshaper is one of her Guilds of Ravnica contributions. `[artofmtg.com: Sara Winters card list, via WebSearch snippet]`
+- **No flavor text** — Scryfall returns no flavor text for this card; the oracle text alone occupies the text box. `[Scryfall]`
+
+### Related cards
+- Emmara, Soul of the Accord (GRN, 168) — Selesnya legendary creature from the same set; the guild's featured character in GRN
+- Flower // Flourish (GRN, 226) — Selesnya split card with a land-search half that similarly smooths the mana base in the same set
+- Trostani Discordant (GRN, 208) — Selesnya guild leader card in GRN, thematic anchor of the Conclave's communal philosophy
