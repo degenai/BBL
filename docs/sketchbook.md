@@ -38,6 +38,42 @@ Catch-all for half-baked concepts, future work, and "wouldn't it be cool if" not
 
 ---
 
+## Binder export view — cohort-driven, graph-proximity-ordered
+
+**The idea (Alex 2026-05-23):** Andy is a BBL co-curator with a different organizing principle — **digital bookshelf of binders.** Same enriched corpus, different downstream view. The architecture: render BBL's corpus as virtual binder pages where **one cohort = one binder page**, and the **intra-page card order is driven by graph proximity** (cards that share more cohort / symbol / hub edges sit adjacent in the binder grid).
+
+The precedent: Diamond Legends storefront already has a binder view. This is a complementary binder view over the BBL corpus, not a replacement for Andy's own system (which he'll continue to keep — probably TCGplayer binder feature). The point isn't to capture Andy; it's to give him something that respects his organizing principle while exposing him to BBL's graph enrichment, on his terms.
+
+**Two architectural layers:**
+- **Cohort-as-binder-page.** Each character / symbol cohort node renders as one binder page. `tsukumogami-pokemon` → one page (Voltorb, Sinistea, Polteageist, Honedge, Doublade, Shuppet, etc). `dsk-toy-horror` → one page (Living Phone, Patched Plaything, Attack-in-the-Box, Patchwork Beastie). Discrete Lairs → one binder per lair. Small cohorts (under ~9) can share combo pages.
+- **Intra-page layout: graph-proximity ordering.** Within a binder page, cards that share more graph edges sit adjacent. Cards from the same set cluster; same evolution stage cluster; same artist cluster. Simple version: count shared edges between every pair of cards in the cohort, place cards row-major by similarity-rank. Fancier version: tiny force-directed layout collapsed to 9-up grid, t-SNE on the edge-graph, etc.
+
+**Why it matters:**
+- Andy's principle preserved (binders, visual, gallery-room curation)
+- BBL's graph enrichment preserved (cohorts pick the rooms; graph orders within)
+- Same corpus, two downstream views — Alex sees the wall-text-and-thematic-walkthrough, Andy sees the gallery rooms
+- Cross-IP cohorts especially compelling as binder pages — a teacup, a phone, a sword, an animated chandelier all on one tsukumogami page is a *strong* display object
+
+**Implementation sketch (when ready):**
+- `scripts/bbl_binder_render.py` — walks `cards/_characters/`, `_symbols/`, generates HTML per cohort
+- Each page: 9-up CSS grid of card images (`art_crop` or full card render)
+- Intra-page order: graph-proximity score → place
+- Output: `reports/binders/` or `docs/binders/index.html`
+- Filterable by game, set, rarity, IP-verified
+- Hover for card metadata (set, year, artist, market price, EDHREC rank if MTG)
+- Static HTML — no server; same shape as the existing previewer page
+
+**Open questions when this gets built:**
+- Graph-proximity algorithm — simple shared-edges-count first, fancier later
+- Cohort merge thresholds (combo pages for sub-9-card cohorts?)
+- Public-storefront-facing or private?
+- How does this interact with Discrete Lairs? A lair is itself a curated subset — does each lair get a binder export, or is the existing lair preview page sufficient?
+- Andy-specific styling — let him brand the binder skin separate from BBL's storefront skin if he wants the page to feel like his own collection display
+
+**The framing matters:** Andy isn't a flipper, he's a co-curator with a different visual grammar (gallery rooms vs wall text). Both belong to the same museum. The binder export is how the museum offers the gallery-rooms guidebook alongside the wall-text guidebook. Same artifacts, two visitor experiences.
+
+---
+
 ## The pigeon and the pidgey
 
 **The idea (Alex 2026-05-22, surfaced in the tsukumogami council session):** the Pokémon world canonically contains *normal animals* — the anime has ordinary birds and fish, early Pokédex copy talked about Pokémon being eaten. So a pigeon and a Pidgey coexist. Which means **"Pokémon" is not a kind of creature. It is a status a creature can be in.** Something happened to the pigeon. It got Pokémon'd.
