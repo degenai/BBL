@@ -21,12 +21,7 @@ appears_on:
   - pokemon/darkness-ablaze/012-189-dartrix
 related_hubs: []
 related_symbols: []
-related_characters:
-  - mareep-line
-  - staraptor-line
-  - charizard-line
-  - caterpie-line
-  - ralts-line
+related_characters: []
 ip_resolution_for: rowlet-line
 tags:
   - layer
@@ -96,12 +91,12 @@ For BBL bundle work, the line offers three strong narrative threads: a **owl-bec
 
 ## See also
 
-- [[mareep-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Alola Generation VII), different cohort axis (Electric-type wool-as-charge-storage line vs Grass starter-line-with-typing-shift). Both anchor three-stage Pokedex-coordinated evolutionary lines hosted on the character layer; both at partial-coverage state. The two nodes `related_characters:` to each other to surface the cross-generation evolutionary-line designer-coordination axis.
-- [[charizard-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Alola Generation VII), both starter lines (Fire-type Kanto starter vs Grass-type Alola starter). Both anchor three-stage Pokedex-coordinated starter lines hosted on the character layer; Charizard-line is at full-triptych corpus coverage, this line is at base-and-middle coverage. The two nodes `related_characters:` to each other to surface the cross-generation starter-line designer-coordination axis. The structural counterposition is notable: Charizard-line is the franchise's archetypal starter-with-typing-add-at-apex (pure Fire to Fire/Flying), this line is the franchise's unique starter-with-typing-shift-at-apex (Grass/Flying to Grass/Ghost or Grass/Fighting).
-- [[staraptor-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Sinnoh Generation IV vs Alola Generation VII), both Flying-typed (Normal/Flying Sinnoh regional-bird vs Grass/Flying Alola starter-with-Ghost-shift). Both anchor three-stage Pokedex-coordinated evolutionary lines.
-- [[caterpie-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Alola Generation VII), different cohort axis (Bug-line vs Grass-starter-line).
-- [[larvitar-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Alola Generation VII), different cohort axis (pseudo-legendary Rock/Dark line vs Grass starter-line-with-typing-shift). Both anchor three-stage Pokedex-coordinated evolutionary lines at base-and-middle-stage coverage with apex pending.
-- [[ralts-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Hoenn Generation III vs Alola Generation VII), different cohort axis (Psychic-empath branching line vs Grass starter-line-with-typing-shift).
+- `mareep-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Alola Generation VII), different cohort axis (Electric-type wool-as-charge-storage line vs Grass starter-line-with-typing-shift). Both anchor three-stage Pokedex-coordinated evolutionary lines hosted on the character layer; both at partial-coverage state. The two nodes `related_characters:` to each other to surface the cross-generation evolutionary-line designer-coordination axis.
+- `charizard-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Alola Generation VII), both starter lines (Fire-type Kanto starter vs Grass-type Alola starter). Both anchor three-stage Pokedex-coordinated starter lines hosted on the character layer; Charizard-line is at full-triptych corpus coverage, this line is at base-and-middle coverage. The two nodes `related_characters:` to each other to surface the cross-generation starter-line designer-coordination axis. The structural counterposition is notable: Charizard-line is the franchise's archetypal starter-with-typing-add-at-apex (pure Fire to Fire/Flying), this line is the franchise's unique starter-with-typing-shift-at-apex (Grass/Flying to Grass/Ghost or Grass/Fighting).
+- `staraptor-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Sinnoh Generation IV vs Alola Generation VII), both Flying-typed (Normal/Flying Sinnoh regional-bird vs Grass/Flying Alola starter-with-Ghost-shift). Both anchor three-stage Pokedex-coordinated evolutionary lines.
+- `caterpie-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Alola Generation VII), different cohort axis (Bug-line vs Grass-starter-line).
+- `larvitar-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Alola Generation VII), different cohort axis (pseudo-legendary Rock/Dark line vs Grass starter-line-with-typing-shift). Both anchor three-stage Pokedex-coordinated evolutionary lines at base-and-middle-stage coverage with apex pending.
+- `ralts-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Hoenn Generation III vs Alola Generation VII), different cohort axis (Psychic-empath branching line vs Grass starter-line-with-typing-shift).
 - `litten-line` (future sibling) — pending node; the Alola Gen-VII fire-starter line. Currently no corpus members.
 - `popplio-line` (future sibling) — pending node; the Alola Gen-VII water-starter line. Currently no corpus members.
 - `alola-starter-trio` (future parent) — pending parent-cohort node analogous to [[galar-starters-trio]]; will be commissioned when all three Alola starter lines reach threshold.

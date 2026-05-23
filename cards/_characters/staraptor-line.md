@@ -21,9 +21,7 @@ appears_on:
   - pokemon/darkness-ablaze/147-189-staraptor
 related_hubs: []
 related_symbols: []
-related_characters:
-  - charizard-line
-  - rufflet-line
+related_characters: []
 ip_resolution_for: staraptor-line
 tags:
   - layer
@@ -84,9 +82,9 @@ For BBL bundle work, the line offers two strong narrative threads: a **leaves-th
 
 ## See also
 
-- [[charizard-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto vs Sinnoh), different cohort axis (Fire-type starter line vs Normal/Flying-type regional-bird line). Both anchor three-stage Pokedex-coordinated evolutionary lines where membership predicates on species identity and TCG prints across multiple sets attach to a single character-layer node. The structural precedent for full-line cohort framing on the Pokemon side; Charizard-line is at full-triptych corpus coverage (all three stages present), Staraptor-line is at bookends-coverage (two of three stages present, with the middle Staravia slot open). The two nodes `related_characters:` to each other to surface the cross-generation evolutionary-line designer-coordination axis.
-- [[elemental-monkey-trio]] — sibling Pokemon designer-coordinated cohort character node, different region (Unova vs Sinnoh), different cohort structure (three paired species lines vs one three-stage species line). Both anchor designer-coordinated Pokemon cohorts where membership predicates on species identity and TCG prints across multiple sets and eras attach to a single character-layer node. The structural precedent for cohort framing on the Pokemon side at the cross-species scope (Elemental Monkey Trio is six species across three pairs; Staraptor-line is one species line across three stages).
-- [[galarian-regional-forms]] — sibling Pokemon designer-coordinated cohort character node, different cohort axis (regional variants of cross-region species vs single-region single-line species evolution). Both anchor Pokemon cohorts whose membership predicates on species-level identity and whose TCG prints across multiple sets attach to a single node.
+- `charizard-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto vs Sinnoh), different cohort axis (Fire-type starter line vs Normal/Flying-type regional-bird line). Both anchor three-stage Pokedex-coordinated evolutionary lines where membership predicates on species identity and TCG prints across multiple sets attach to a single character-layer node. The structural precedent for full-line cohort framing on the Pokemon side; Charizard-line is at full-triptych corpus coverage (all three stages present), Staraptor-line is at bookends-coverage (two of three stages present, with the middle Staravia slot open). The two nodes `related_characters:` to each other to surface the cross-generation evolutionary-line designer-coordination axis.
+- `elemental-monkey-trio` — sibling Pokemon designer-coordinated cohort character node, different region (Unova vs Sinnoh), different cohort structure (three paired species lines vs one three-stage species line). Both anchor designer-coordinated Pokemon cohorts where membership predicates on species identity and TCG prints across multiple sets and eras attach to a single character-layer node. The structural precedent for cohort framing on the Pokemon side at the cross-species scope (Elemental Monkey Trio is six species across three pairs; Staraptor-line is one species line across three stages).
+- `galarian-regional-forms` — sibling Pokemon designer-coordinated cohort character node, different cohort axis (regional variants of cross-region species vs single-region single-line species evolution). Both anchor Pokemon cohorts whose membership predicates on species-level identity and whose TCG prints across multiple sets attach to a single node.
 - `pidgey-line` (future sibling) — pending node; the Kanto Gen-I regional-bird-line parallel. Currently no Pidgey-line corpus members. Will be commissioned when 3+ corpus prints across 2+ stages land.
 - `rookidee-line` (future sibling) — pending node; the Galar Gen-VIII regional-bird-line parallel. Currently 1 corpus print (Rookidee DAA-154). Will be commissioned when 3+ corpus prints across 2+ stages land (one Corvisquire OR one Corviknight would push it to base-stage-plus-second-stage threshold).
 - `fletchling-line` (future sibling) — pending node; the Kalos Gen-VI regional-bird-line parallel. Currently Fletchling and Fletchinder in corpus (verify on next janitor pass); may be near-threshold.

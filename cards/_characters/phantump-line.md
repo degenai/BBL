@@ -20,13 +20,7 @@ appears_on:
   - pokemon/fusion-strike/017-264-trevenant
 related_hubs: []
 related_symbols: []
-related_characters:
-  - mareep-line
-  - staraptor-line
-  - charizard-line
-  - caterpie-line
-  - ralts-line
-  - pancham-line
+related_characters: []
 ip_resolution_for: phantump-line
 tags:
   - layer
@@ -92,14 +86,14 @@ For BBL bundle work, the line offers three strong narrative threads: a **lost-ch
 
 ## See also
 
-- [[mareep-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Kalos Generation VI), different cohort axis (Electric-type three-stage line vs Ghost/Grass two-stage tree-spirit line), different structural signature (linear three-stage progression vs two-stage trade-evolution-gated progression).
-- [[staraptor-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Sinnoh Generation IV vs Kalos Generation VI), different cohort axis (Normal/Flying regional-bird three-stage line vs Ghost/Grass two-stage tree-spirit line).
-- [[charizard-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Kalos Generation VI), different cohort axis (Fire-type starter three-stage line vs Ghost/Grass two-stage tree-spirit line).
-- [[caterpie-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Kalos Generation VI), different cohort axis (Bug three-stage fast-line vs Ghost/Grass two-stage tree-spirit line).
-- [[ralts-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Hoenn Generation III vs Kalos Generation VI), different cohort axis (Psychic-empath branching line vs Ghost/Grass two-stage tree-spirit line).
-- [[larvitar-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Kalos Generation VI), different cohort axis (Rock/Dark pseudo-legendary three-stage line vs Ghost/Grass two-stage tree-spirit line).
-- [[rowlet-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Alola Generation VII vs Kalos Generation VI), different cohort axis (Grass-starter three-stage line-with-typing-shift vs Ghost/Grass two-stage tree-spirit line).
-- [[pancham-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, **same region (Kalos Generation VI)**, different cohort axis (Fighting/Dark bancho-archetype two-stage line vs Ghost/Grass tree-spirit two-stage line), shared structural signature (both two-stage Kalos lines at threshold and full-species-line-coverage simultaneously). The two nodes `related_characters:` to each other to surface the within-Kalos-region within-generation designer-coordination axis; this cross-line pairing is the corpus's first within-generation Pokemon-line cohort pairing at the Kalos scope and warrants a future `kalos-evolutionary-lines` parent cohort node when 3+ Kalos line nodes are in graph.
+- `mareep-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Kalos Generation VI), different cohort axis (Electric-type three-stage line vs Ghost/Grass two-stage tree-spirit line), different structural signature (linear three-stage progression vs two-stage trade-evolution-gated progression).
+- `staraptor-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Sinnoh Generation IV vs Kalos Generation VI), different cohort axis (Normal/Flying regional-bird three-stage line vs Ghost/Grass two-stage tree-spirit line).
+- `charizard-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Kalos Generation VI), different cohort axis (Fire-type starter three-stage line vs Ghost/Grass two-stage tree-spirit line).
+- `caterpie-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Kalos Generation VI), different cohort axis (Bug three-stage fast-line vs Ghost/Grass two-stage tree-spirit line).
+- `ralts-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Hoenn Generation III vs Kalos Generation VI), different cohort axis (Psychic-empath branching line vs Ghost/Grass two-stage tree-spirit line).
+- `larvitar-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Kalos Generation VI), different cohort axis (Rock/Dark pseudo-legendary three-stage line vs Ghost/Grass two-stage tree-spirit line).
+- `rowlet-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Alola Generation VII vs Kalos Generation VI), different cohort axis (Grass-starter three-stage line-with-typing-shift vs Ghost/Grass two-stage tree-spirit line).
+- `pancham-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, **same region (Kalos Generation VI)**, different cohort axis (Fighting/Dark bancho-archetype two-stage line vs Ghost/Grass tree-spirit two-stage line), shared structural signature (both two-stage Kalos lines at threshold and full-species-line-coverage simultaneously). The two nodes `related_characters:` to each other to surface the within-Kalos-region within-generation designer-coordination axis; this cross-line pairing is the corpus's first within-generation Pokemon-line cohort pairing at the Kalos scope and warrants a future `kalos-evolutionary-lines` parent cohort node when 3+ Kalos line nodes are in graph.
 - `kalos-evolutionary-lines` (future parent) — pending parent-cohort node analogous to [[galar-starters-trio]]; the cross-line within-generation anchor for Generation VI Kalos species. Will be commissioned when 3+ Kalos line nodes are in graph (currently 2: this line and [[pancham-line]]).
 - `trade-evolution-lines` (future parent) — pending parent-cohort node; the cross-line design-mechanic anchor for trade-evolution-gated species lines. Will be commissioned when 3+ trade-evolution line nodes are in graph.
 - `kodama-design-source-lines` (future parent) — pending parent-cohort node; the cross-line design-source anchor for kodama / Japanese-tree-spirit-folkloric design source species. Will be commissioned when 3+ kodama-design-source line or species nodes are in graph.

@@ -22,14 +22,7 @@ appears_on:
   - pokemon/black-bolt/078-086-braviary
 related_hubs: []
 related_symbols: []
-related_characters:
-  - staraptor-line
-  - pawniard-line
-  - caterpie-line
-  - mareep-line
-  - rowlet-line
-  - phantump-line
-  - ralts-line
+related_characters: []
 ip_resolution_for: rufflet-line
 tags:
   - layer
@@ -98,13 +91,13 @@ For BBL bundle work, the line offers three strong narrative threads: a **fearles
 
 ## See also
 
-- [[staraptor-line]] — closest sibling Pokemon designer-coordinated evolutionary-line cohort character node on the bird-line axis, different region (Sinnoh vs Unova), different cohort role (Sinnoh regional-bird-line slot at the Route-1-or-Route-201 first-encounter ecological tier vs Unova-specific bald-eagle non-regional-bird slot — the Unova regional-bird-line slot is filled by the Pidove / Tranquill / Unfezant line, distinct from this Rufflet / Braviary line). Both anchor Normal/Flying-type evolutionary lines hosted on the character layer where membership predicates on species identity. The two nodes `related_characters:` to each other to surface the cross-region cross-generation Normal/Flying-bird-line designer-coordination axis.
-- [[pawniard-line]] — sibling Unova-region Gen V designer-coordinated evolutionary-line cohort character node, different cohort axis (Dark/Steel-type pack-hierarchy blade-warrior line vs Normal/Flying-type Americana-eagle line). Both anchor Pokedex-coordinated Unova-introduced evolutionary lines hosted on the character layer where membership predicates on species identity; both involve within-BLB adjacent-collector-number single-artist-coordinated pairs at the same set. The two nodes `related_characters:` to each other to surface the within-Unova-Gen-V designer-coordination axis at adjacent species-line scopes.
-- [[caterpie-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto vs Unova), different cohort axis (Bug-type fast-metamorphosis line vs Normal/Flying-type Americana-eagle line). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer where membership predicates on species identity.
-- [[mareep-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto vs Unova). Both anchor multi-stage Pokedex-coordinated evolutionary lines hosted on the character layer.
-- [[rowlet-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Alola vs Unova), different cohort axis (Grass-starter line vs Normal/Flying-eagle line). Both anchor three-stage Pokedex-coordinated evolutionary lines with confirmed regional-form variants at the apex stage (Hisuian Decidueye for Rowlet line; Hisuian Braviary for this line).
-- [[phantump-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kalos vs Unova).
-- [[ralts-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Hoenn vs Unova).
+- `staraptor-line` — closest sibling Pokemon designer-coordinated evolutionary-line cohort character node on the bird-line axis, different region (Sinnoh vs Unova), different cohort role (Sinnoh regional-bird-line slot at the Route-1-or-Route-201 first-encounter ecological tier vs Unova-specific bald-eagle non-regional-bird slot — the Unova regional-bird-line slot is filled by the Pidove / Tranquill / Unfezant line, distinct from this Rufflet / Braviary line). Both anchor Normal/Flying-type evolutionary lines hosted on the character layer where membership predicates on species identity. The two nodes `related_characters:` to each other to surface the cross-region cross-generation Normal/Flying-bird-line designer-coordination axis.
+- `pawniard-line` — sibling Unova-region Gen V designer-coordinated evolutionary-line cohort character node, different cohort axis (Dark/Steel-type pack-hierarchy blade-warrior line vs Normal/Flying-type Americana-eagle line). Both anchor Pokedex-coordinated Unova-introduced evolutionary lines hosted on the character layer where membership predicates on species identity; both involve within-BLB adjacent-collector-number single-artist-coordinated pairs at the same set. The two nodes `related_characters:` to each other to surface the within-Unova-Gen-V designer-coordination axis at adjacent species-line scopes.
+- `caterpie-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto vs Unova), different cohort axis (Bug-type fast-metamorphosis line vs Normal/Flying-type Americana-eagle line). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer where membership predicates on species identity.
+- `mareep-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto vs Unova). Both anchor multi-stage Pokedex-coordinated evolutionary lines hosted on the character layer.
+- `rowlet-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Alola vs Unova), different cohort axis (Grass-starter line vs Normal/Flying-eagle line). Both anchor three-stage Pokedex-coordinated evolutionary lines with confirmed regional-form variants at the apex stage (Hisuian Decidueye for Rowlet line; Hisuian Braviary for this line).
+- `phantump-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kalos vs Unova).
+- `ralts-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Hoenn vs Unova).
 - `vullaby-line` (future sibling) — pending node; the designer-coordinated female-only Vullaby (no. 629) + Mandibuzz (no. 630) counterpart line, Dark/Flying-type, vulture-themed, placed at adjacent Unova Pokedex slots. Currently no Vullaby / Mandibuzz prints in BBL corpus; will be commissioned when 3+ corpus prints across the species-line land. When commissioned, the two nodes link via a paired-line cross-mirror edge as the franchise's clearest male-exclusive / female-exclusive paired-line cohort.
 - `pidove-line` (future sibling) — pending node; the Unova Gen V regional-bird-line slot (Pidove / Tranquill / Unfezant) — the proper Unova regional-bird-line analogous to the Sinnoh Staraptor line. Distinct from this Rufflet / Braviary line, which fills a separate eagle-specific Unova ecological slot rather than the Route-1 regional-bird-line slot. Will be commissioned when 3+ corpus prints across the species-line land.
 - `male-exclusive-paired-lines` (future parent) — pending parent-cohort node; the cross-generation Pokemon-design-convention anchor for male-only / female-only paired evolutionary lines (Rufflet+Braviary / Vullaby+Mandibuzz Gen V, Volbeat / Illumise Gen III, Nidoran-M / Nidoran-F Gen I). Will be commissioned when 3+ sibling male-exclusive-paired-line cohorts accumulate in the graph.

@@ -22,13 +22,7 @@ appears_on:
   - pokemon/destined-rivals/108-182-mudsdale
 related_hubs: []
 related_symbols: []
-related_characters:
-  - drilbur-line
-  - larvitar-line
-  - mareep-line
-  - breloom-line
-  - staraptor-line
-  - caterpie-line
+related_characters: []
 ip_resolution_for: mudbray-line
 tags:
   - layer
@@ -92,10 +86,10 @@ A note on the labor reading and the Potion Rule: the labor / beast-of-burden fra
 
 ## See also
 
-- [[drilbur-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Unova Generation V vs Alola Generation VII), closely-parallel cohort structure (two-stage line, 3-base + 2-evolved corpus distribution across four sets). The key contrast: the Drilbur line gains Steel at evolution, the Mudbray line gains no second type — Mudbray and Mudsdale are both pure Ground, so the evolution arc is a scale-and-mass progression rather than a type-shift. Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer with a within-set adjacent cohesion stack (Vivid Voltage 091 + 122 for the Drilbur line, Destined Rivals 107 + 108 for this line). The two nodes `related_characters:` to each other to surface the two-stage-line design axis.
-- [[breloom-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Hoenn Generation III vs Alola Generation VII), same cohort structure (two-stage line). Notably both lines place their strongest within-set cohesion stack in Destined Rivals (Shroomish 005 + Breloom 006 for the Breloom line; Mudbray 107 + Mudsdale 108 for this line) — Destined Rivals carries two complete two-stage lines in the BBL corpus. The Breloom line gains Fighting at evolution; this line gains no second type.
-- [[larvitar-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Alola Generation VII), different cohort axis (three-stage Rock/Ground-to-Rock/Dark pseudo-legendary line vs two-stage pure-Ground equine line). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer.
-- [[mareep-line]], [[staraptor-line]], [[caterpie-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character nodes, different regions and cohort axes. All anchor Pokedex-coordinated evolutionary lines hosted on the character layer.
+- `drilbur-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Unova Generation V vs Alola Generation VII), closely-parallel cohort structure (two-stage line, 3-base + 2-evolved corpus distribution across four sets). The key contrast: the Drilbur line gains Steel at evolution, the Mudbray line gains no second type — Mudbray and Mudsdale are both pure Ground, so the evolution arc is a scale-and-mass progression rather than a type-shift. Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer with a within-set adjacent cohesion stack (Vivid Voltage 091 + 122 for the Drilbur line, Destined Rivals 107 + 108 for this line). The two nodes `related_characters:` to each other to surface the two-stage-line design axis.
+- `breloom-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Hoenn Generation III vs Alola Generation VII), same cohort structure (two-stage line). Notably both lines place their strongest within-set cohesion stack in Destined Rivals (Shroomish 005 + Breloom 006 for the Breloom line; Mudbray 107 + Mudsdale 108 for this line) — Destined Rivals carries two complete two-stage lines in the BBL corpus. The Breloom line gains Fighting at evolution; this line gains no second type.
+- `larvitar-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Alola Generation VII), different cohort axis (three-stage Rock/Ground-to-Rock/Dark pseudo-legendary line vs two-stage pure-Ground equine line). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer.
+- `mareep-line`, `staraptor-line`, `caterpie-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character nodes, different regions and cohort axes. All anchor Pokedex-coordinated evolutionary lines hosted on the character layer.
 - `endriders` — foundational precedent for hosting collective designer-coordinated entities under `_characters/`.
 - `Bulk Graph Bundler` — the project this character node serves.
 - Future Mudbray-line Discrete Lair candidate — corpus state is at full two-stage line coverage (3 Mudbray + 2 Mudsdale prints across 4 sets). Bundle assembly is viable now. Bundle copy could lean on the labor / beast-of-burden / mud framing without reaching past canon: Mudbray's *"loads weighing up to 50 times as much as its own body weight pose no issue"* and Mudsdale's *"treasured not just for its physical labor but also because it produces high-quality mud used for making pottery"* are the species' designer-coordinated working-animal design as printed flavor on the corpus prints themselves. The apparatus-of-extraction reading of the beast-of-burden is a curatorial overlay and should be named as such in copy.

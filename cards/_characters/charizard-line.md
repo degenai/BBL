@@ -25,7 +25,6 @@ related_hubs: []
 related_symbols: []
 related_characters:
   - galar-gym-challenge
-  - staraptor-line
 ip_resolution_for: charizard-line
 tags:
   - layer

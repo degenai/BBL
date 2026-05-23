@@ -22,12 +22,7 @@ appears_on:
   - pokemon/fusion-strike/183-264-excadrill
 related_hubs: []
 related_symbols: []
-related_characters:
-  - larvitar-line
-  - mareep-line
-  - staraptor-line
-  - caterpie-line
-  - lillipup-line
+related_characters: []
 ip_resolution_for: drilbur-line
 tags:
   - layer
@@ -91,11 +86,11 @@ For BBL bundle work, the line offers three strong narrative threads: a **creatur
 
 ## See also
 
-- [[larvitar-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Unova Generation V), different cohort axis (three-stage Rock/Ground-to-Rock/Dark pseudo-legendary line vs two-stage Ground-to-Ground/Steel mole line). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer where membership predicates on species identity, both with within-set adjacent-or-same-set cohesion stacks (Darkness Ablaze 086 + 087 for Larvitar line, Vivid Voltage 091 + 122 for this line). Notably both lines also appear as grid placements in the pokemon-zodiac Deep Four — Larvitar-Pupitar-Tyranitar in Earth Dragon, Drilbur-Excadrill in Earth Rat. The two nodes `related_characters:` to each other to surface the cross-generation evolutionary-line designer-coordination axis.
-- [[mareep-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Unova Generation V), different cohort axis (three-stage Electric wool-line vs two-stage Ground/Steel mole line). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer.
-- [[staraptor-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Sinnoh Generation IV vs Unova Generation V), different cohort axis (three-stage Normal/Flying regional-bird line vs two-stage Ground/Steel mole line). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer.
-- [[caterpie-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Unova Generation V), different cohort axis (three-stage Bug-type fast-metamorphosis line vs two-stage Ground/Steel mole line).
-- [[pawniard-line]] and [[rufflet-line]] — sibling Generation V Unova-introduced evolutionary-line cohort character nodes, same region, different cohort axis (Dark/Steel blade-pawn line and Normal/Flying eagle line vs Ground/Steel mole line). The closest-region siblings; all three are Unova Black & White lines.
+- `larvitar-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Unova Generation V), different cohort axis (three-stage Rock/Ground-to-Rock/Dark pseudo-legendary line vs two-stage Ground-to-Ground/Steel mole line). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer where membership predicates on species identity, both with within-set adjacent-or-same-set cohesion stacks (Darkness Ablaze 086 + 087 for Larvitar line, Vivid Voltage 091 + 122 for this line). Notably both lines also appear as grid placements in the pokemon-zodiac Deep Four — Larvitar-Pupitar-Tyranitar in Earth Dragon, Drilbur-Excadrill in Earth Rat. The two nodes `related_characters:` to each other to surface the cross-generation evolutionary-line designer-coordination axis.
+- `mareep-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Unova Generation V), different cohort axis (three-stage Electric wool-line vs two-stage Ground/Steel mole line). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer.
+- `staraptor-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Sinnoh Generation IV vs Unova Generation V), different cohort axis (three-stage Normal/Flying regional-bird line vs two-stage Ground/Steel mole line). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer.
+- `caterpie-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Unova Generation V), different cohort axis (three-stage Bug-type fast-metamorphosis line vs two-stage Ground/Steel mole line).
+- `pawniard-line` and `rufflet-line` — sibling Generation V Unova-introduced evolutionary-line cohort character nodes, same region, different cohort axis (Dark/Steel blade-pawn line and Normal/Flying eagle line vs Ground/Steel mole line). The closest-region siblings; all three are Unova Black & White lines.
 - `chinese-zodiac` — foundational hub; the Drilbur line is a grid-of-record placement in the Earth Rat Deep Four cell. The hub is deliberately card-edge-disconnected; the placement is recorded here as scholarship, not as a hub edge.
 - `endriders` — foundational precedent for hosting collective designer-coordinated entities under `_characters/`.
 - `Bulk Graph Bundler` — the project this character node serves.

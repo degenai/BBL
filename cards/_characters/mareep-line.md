@@ -21,9 +21,7 @@ appears_on:
   - pokemon/steam-siege/38-mareep
 related_hubs: []
 related_symbols: []
-related_characters:
-  - staraptor-line
-  - charizard-line
+related_characters: []
 ip_resolution_for: mareep-line
 tags:
   - layer
@@ -91,9 +89,9 @@ For BBL bundle work, the line offers two strong narrative threads: a **wool-as-c
 
 ## See also
 
-- [[staraptor-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Sinnoh vs Johto), different cohort axis (Normal/Flying-type regional-bird line vs Electric-type wool-as-charge-storage line). Both anchor three-stage Pokedex-coordinated evolutionary lines where membership predicates on species identity and TCG prints across multiple sets attach to a single character-layer node. The structural precedent for the Pokemon line-cohort node format; Mareep-line is the second such node commissioned and the corpus's first Generation II line-cohort node.
-- [[charizard-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto vs Johto), different cohort axis (Fire-type starter line vs Electric-type wool-line). Both anchor three-stage Pokedex-coordinated evolutionary lines hosted on the character layer; Charizard-line is at full-triptych corpus coverage (all three stages present), Mareep-line is at base-and-mid-stage coverage (two of three stages present, with the Ampharos apex slot open). The two nodes `related_characters:` to each other to surface the cross-generation evolutionary-line designer-coordination axis.
-- [[elemental-monkey-trio]] — sibling Pokemon designer-coordinated cohort character node, different cohort structure (three paired species lines vs one three-stage species line). Both anchor designer-coordinated Pokemon cohorts where membership predicates on species identity and TCG prints across multiple sets attach to a single character-layer node.
+- `staraptor-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Sinnoh vs Johto), different cohort axis (Normal/Flying-type regional-bird line vs Electric-type wool-as-charge-storage line). Both anchor three-stage Pokedex-coordinated evolutionary lines where membership predicates on species identity and TCG prints across multiple sets attach to a single character-layer node. The structural precedent for the Pokemon line-cohort node format; Mareep-line is the second such node commissioned and the corpus's first Generation II line-cohort node.
+- `charizard-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto vs Johto), different cohort axis (Fire-type starter line vs Electric-type wool-line). Both anchor three-stage Pokedex-coordinated evolutionary lines hosted on the character layer; Charizard-line is at full-triptych corpus coverage (all three stages present), Mareep-line is at base-and-mid-stage coverage (two of three stages present, with the Ampharos apex slot open). The two nodes `related_characters:` to each other to surface the cross-generation evolutionary-line designer-coordination axis.
+- `elemental-monkey-trio` — sibling Pokemon designer-coordinated cohort character node, different cohort structure (three paired species lines vs one three-stage species line). Both anchor designer-coordinated Pokemon cohorts where membership predicates on species identity and TCG prints across multiple sets attach to a single character-layer node.
 - `cyndaquil-line` (future sibling) — pending node; the Johto Gen-II fire-starter line. Currently no corpus members. Will be commissioned when 3+ corpus prints across 2+ stages land.
 - `totodile-line` (future sibling) — pending node; the Johto Gen-II water-starter line. Currently no corpus members. Will be commissioned when 3+ corpus prints across 2+ stages land.
 - `hoothoot-line` (future sibling) — pending node; the Johto Gen-II regional-bird line. Currently no corpus members. Will be commissioned when 3+ corpus prints across 2+ stages land.

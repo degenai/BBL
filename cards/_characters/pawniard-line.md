@@ -22,13 +22,7 @@ appears_on:
   - pokemon/black-bolt/065-086-bisharp
 related_hubs: []
 related_symbols: []
-related_characters:
-  - caterpie-line
-  - mareep-line
-  - rowlet-line
-  - phantump-line
-  - ralts-line
-  - rufflet-line
+related_characters: []
 ip_resolution_for: pawniard-line
 tags:
   - layer
@@ -93,11 +87,11 @@ For BBL bundle work, the line offers three strong narrative threads: a **pack-hi
 
 ## See also
 
-- [[caterpie-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto vs Unova), different cohort axis (Bug-type fast-metamorphosis line vs Dark/Steel-type pack-hierarchy blade-warrior line). Both anchor three-stage Pokedex-coordinated evolutionary lines hosted on the character layer where membership predicates on species identity; both at base-and-middle-stage partial coverage with the Stage-2 apex slot open (Butterfree / Kingambit). The two nodes `related_characters:` to each other to surface the cross-region cross-generation evolutionary-line designer-coordination axis.
-- [[mareep-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto vs Unova), different cohort axis (Electric-type wool-as-charge-storage line vs Dark/Steel-type pack-hierarchy blade-warrior line). Both anchor three-stage Pokedex-coordinated evolutionary lines at the base-and-middle partial-coverage state (Mareep + Flaaffy in corpus, Ampharos pending; Pawniard + Bisharp in corpus, Kingambit pending). The two nodes `related_characters:` to each other to surface the cross-generation evolutionary-line designer-coordination axis at the partial-coverage scope.
-- [[rowlet-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Alola vs Unova), different cohort axis (Grass starter line vs Dark/Steel pack-hierarchy line). Both anchor three-stage Pokedex-coordinated evolutionary lines hosted on the character layer.
-- [[phantump-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kalos vs Unova), different cohort axis (two-stage Ghost/Grass kodama-line vs three-stage Dark/Steel pack-hierarchy line). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer where membership predicates on species identity.
-- [[ralts-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Hoenn vs Unova). Both anchor three-stage Pokedex-coordinated evolutionary lines hosted on the character layer.
+- `caterpie-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto vs Unova), different cohort axis (Bug-type fast-metamorphosis line vs Dark/Steel-type pack-hierarchy blade-warrior line). Both anchor three-stage Pokedex-coordinated evolutionary lines hosted on the character layer where membership predicates on species identity; both at base-and-middle-stage partial coverage with the Stage-2 apex slot open (Butterfree / Kingambit). The two nodes `related_characters:` to each other to surface the cross-region cross-generation evolutionary-line designer-coordination axis.
+- `mareep-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto vs Unova), different cohort axis (Electric-type wool-as-charge-storage line vs Dark/Steel-type pack-hierarchy blade-warrior line). Both anchor three-stage Pokedex-coordinated evolutionary lines at the base-and-middle partial-coverage state (Mareep + Flaaffy in corpus, Ampharos pending; Pawniard + Bisharp in corpus, Kingambit pending). The two nodes `related_characters:` to each other to surface the cross-generation evolutionary-line designer-coordination axis at the partial-coverage scope.
+- `rowlet-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Alola vs Unova), different cohort axis (Grass starter line vs Dark/Steel pack-hierarchy line). Both anchor three-stage Pokedex-coordinated evolutionary lines hosted on the character layer.
+- `phantump-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kalos vs Unova), different cohort axis (two-stage Ghost/Grass kodama-line vs three-stage Dark/Steel pack-hierarchy line). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer where membership predicates on species identity.
+- `ralts-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Hoenn vs Unova). Both anchor three-stage Pokedex-coordinated evolutionary lines hosted on the character layer.
 - `staraptor-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Sinnoh vs Unova), different cohort axis (Normal/Flying-type regional-bird line vs Dark/Steel-type pack-hierarchy line). Both anchor three-stage Pokedex-coordinated evolutionary lines.
 - `delayed-apex-evolutions` (future parent) — pending parent-cohort node; the cross-generation Pokemon-design-convention anchor for evolutionary lines that received their Stage-2 apex one or more generations after the base-and-middle were introduced (Magnezone Gen IV, Tangrowth Gen IV, Rhyperior Gen IV, Yanmega Gen IV, Lickilicky Gen IV, Roserade Gen IV, Sylveon Gen VI, Kingambit Gen IX). Will be commissioned when 3+ sibling delayed-apex cohort nodes are in graph; the Pawniard line is currently the corpus's only delayed-apex member-candidate.
 - `endriders` — foundational precedent for hosting collective designer-coordinated entities under `_characters/`.

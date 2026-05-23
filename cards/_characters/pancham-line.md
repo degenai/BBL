@@ -20,12 +20,7 @@ appears_on:
   - pokemon/mcdonald-s-promos-2022/13-15-pangoro
 related_hubs: []
 related_symbols: []
-related_characters:
-  - mareep-line
-  - staraptor-line
-  - charizard-line
-  - caterpie-line
-  - ralts-line
+related_characters: []
 ip_resolution_for: pancham-line
 tags:
   - layer
@@ -91,13 +86,13 @@ For BBL bundle work, the line offers three strong narrative threads: a **unique-
 
 ## See also
 
-- [[mareep-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Kalos Generation VI), different cohort axis (Electric-type three-stage line vs Fighting/Dark two-stage line), different structural signature (linear three-stage progression vs two-stage with party-composition-gated evolution). Both anchor multi-stage Pokedex-coordinated evolutionary lines where membership predicates on species identity.
-- [[staraptor-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Sinnoh Generation IV vs Kalos Generation VI), different cohort axis (Normal/Flying-type regional-bird three-stage line vs Fighting/Dark two-stage line), different structural signature.
-- [[charizard-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Kalos Generation VI), different cohort axis (Fire-type starter three-stage line vs Fighting/Dark two-stage line).
-- [[caterpie-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Kalos Generation VI), different cohort axis (Bug three-stage fast-line vs Fighting/Dark two-stage party-gated-line).
-- [[ralts-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Hoenn Generation III vs Kalos Generation VI), different cohort axis (Psychic-empath branching line vs Fighting/Dark bancho-archetype line). Both lines have **structural-anomaly evolution mechanics** — Ralts-line has the gender-conditional Stage-2 fork (the franchise's only gender-gated branching mechanic), Pancham-line has the party-composition-gated evolution (the franchise's only party-composition-gated evolution mechanic). The two nodes `related_characters:` to each other to surface the structural-anomaly-evolution-mechanic cohort axis.
-- [[larvitar-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Kalos Generation VI), different cohort axis (pseudo-legendary Rock/Dark three-stage line vs Fighting/Dark two-stage line). Both lines have a Dark typing at apex; Larvitar-line gains Dark via standard level-up evolution to Tyranitar, Pancham-line gains Dark via party-composition-gated evolution to Pangoro.
-- [[rowlet-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Alola Generation VII vs Kalos Generation VI), different cohort axis (Grass-starter three-stage line-with-typing-shift vs Fighting/Dark two-stage line).
+- `mareep-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Kalos Generation VI), different cohort axis (Electric-type three-stage line vs Fighting/Dark two-stage line), different structural signature (linear three-stage progression vs two-stage with party-composition-gated evolution). Both anchor multi-stage Pokedex-coordinated evolutionary lines where membership predicates on species identity.
+- `staraptor-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Sinnoh Generation IV vs Kalos Generation VI), different cohort axis (Normal/Flying-type regional-bird three-stage line vs Fighting/Dark two-stage line), different structural signature.
+- `charizard-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Kalos Generation VI), different cohort axis (Fire-type starter three-stage line vs Fighting/Dark two-stage line).
+- `caterpie-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Kalos Generation VI), different cohort axis (Bug three-stage fast-line vs Fighting/Dark two-stage party-gated-line).
+- `ralts-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Hoenn Generation III vs Kalos Generation VI), different cohort axis (Psychic-empath branching line vs Fighting/Dark bancho-archetype line). Both lines have **structural-anomaly evolution mechanics** — Ralts-line has the gender-conditional Stage-2 fork (the franchise's only gender-gated branching mechanic), Pancham-line has the party-composition-gated evolution (the franchise's only party-composition-gated evolution mechanic). The two nodes `related_characters:` to each other to surface the structural-anomaly-evolution-mechanic cohort axis.
+- `larvitar-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Kalos Generation VI), different cohort axis (pseudo-legendary Rock/Dark three-stage line vs Fighting/Dark two-stage line). Both lines have a Dark typing at apex; Larvitar-line gains Dark via standard level-up evolution to Tyranitar, Pancham-line gains Dark via party-composition-gated evolution to Pangoro.
+- `rowlet-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Alola Generation VII vs Kalos Generation VI), different cohort axis (Grass-starter three-stage line-with-typing-shift vs Fighting/Dark two-stage line).
 - `phantump-line` (sibling Kalos line) — pending commissioned node; the corpus's other Kalos cohort at threshold (Phantump / Trevenant Ghost/Grass line, see [[phantump-line]]). Both lines are Generation VI Kalos-region designer-coordinated evolutionary lines; the cross-line within-Kalos within-generation pairing is available for bundle copy that wants to operate at the within-generation-cohort scope.
 - `scraggy-line` (future sibling bancho-archetype) — pending node; the Unova Gen-V bancho-archetype Dark/Fighting line. Currently no corpus members. Will be commissioned when 3+ corpus prints across 2+ stages land.
 - `bancho-archetype-lines` (future parent) — pending parent-cohort node; the cross-line design-source-cohort anchor for the bancho-archetype design convention. Will be commissioned when both Pancham line and Scraggy line are in graph.

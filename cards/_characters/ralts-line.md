@@ -22,10 +22,7 @@ appears_on:
   - pokemon/lost-thunder/140-kirlia
 related_hubs: []
 related_symbols: []
-related_characters:
-  - mareep-line
-  - staraptor-line
-  - charizard-line
+related_characters: []
 ip_resolution_for: ralts-line
 tags:
   - layer
@@ -92,9 +89,9 @@ The line is also the corpus's strongest **emotion-as-psychic-medium Pokemon-line
 
 ## See also
 
-- [[mareep-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Hoenn Generation III), different cohort axis (Electric-type wool-as-charge-storage line vs Psychic-empath emotion-as-medium line), different structural signature (linear three-stage progression vs branching three-stage progression with gender-gated Stage-2 fork). Both anchor multi-stage Pokedex-coordinated evolutionary lines where membership predicates on species identity and TCG prints across multiple sets attach to a single character-layer node. The Ralts line is the corpus's first branching-evolutionary-line cohort node and the first Generation III line-cohort node.
-- [[staraptor-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Sinnoh Generation IV vs Hoenn Generation III), different cohort axis (Normal/Flying-type regional-bird line vs Psychic-empath line), different structural signature (linear three-stage progression vs branching).
-- [[charizard-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Hoenn Generation III), different cohort axis (Fire-type starter line vs Psychic-empath line), different structural signature (linear three-stage progression with Mega-X / Mega-Y final-stage branching vs Stage-2 gender-gated branching).
+- `mareep-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Hoenn Generation III), different cohort axis (Electric-type wool-as-charge-storage line vs Psychic-empath emotion-as-medium line), different structural signature (linear three-stage progression vs branching three-stage progression with gender-gated Stage-2 fork). Both anchor multi-stage Pokedex-coordinated evolutionary lines where membership predicates on species identity and TCG prints across multiple sets attach to a single character-layer node. The Ralts line is the corpus's first branching-evolutionary-line cohort node and the first Generation III line-cohort node.
+- `staraptor-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Sinnoh Generation IV vs Hoenn Generation III), different cohort axis (Normal/Flying-type regional-bird line vs Psychic-empath line), different structural signature (linear three-stage progression vs branching).
+- `charizard-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Hoenn Generation III), different cohort axis (Fire-type starter line vs Psychic-empath line), different structural signature (linear three-stage progression with Mega-X / Mega-Y final-stage branching vs Stage-2 gender-gated branching).
 - `gardevoir-line` (alias) — this node is also the canonical entry for "Gardevoir line" / "Gallade line" search terms; both Stage-2 endpoints attach here as branches of the same root species line.
 - `treecko-line` (future sibling) — pending node; the Hoenn Gen-III grass-starter line. Currently no corpus members. Will be commissioned when 3+ corpus prints across 2+ stages land.
 - `torchic-line` (future sibling) — pending node; the Hoenn Gen-III fire-starter line. Currently one corpus member (Combusken DAA-023, vision-only). Will be commissioned when 3+ corpus prints across 2+ stages land.

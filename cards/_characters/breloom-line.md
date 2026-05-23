@@ -20,11 +20,7 @@ appears_on:
   - pokemon/destined-rivals/006-182-breloom
 related_hubs: []
 related_symbols: []
-related_characters:
-  - drilbur-line
-  - larvitar-line
-  - mareep-line
-  - caterpie-line
+related_characters: []
 ip_resolution_for: breloom-line
 tags:
   - layer
@@ -78,10 +74,10 @@ For BBL bundle work, the line offers two strong narrative threads: a **fungus / 
 
 ## See also
 
-- [[drilbur-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Unova Generation V vs Hoenn Generation III), same cohort structure (two-stage line with a type gained at evolution — Steel for Drilbur->Excadrill, Fighting for Shroomish->Breloom). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer with a within-set adjacent cohesion stack (Vivid Voltage 091 + 122 for the Drilbur line, Destined Rivals 005 + 006 for this line). The two nodes `related_characters:` to each other to surface the two-stage-line-with-evolution-type-gain design axis.
-- [[larvitar-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Hoenn Generation III), different cohort axis (three-stage Rock/Ground-to-Rock/Dark pseudo-legendary line vs two-stage Grass-to-Grass/Fighting mushroom line). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer.
-- [[mareep-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Hoenn Generation III), different cohort axis (three-stage Electric wool line vs two-stage Grass/Fighting mushroom line).
-- [[caterpie-line]] — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Hoenn Generation III), different cohort axis (three-stage Bug-type fast-metamorphosis line vs two-stage Grass/Fighting mushroom line).
+- `drilbur-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Unova Generation V vs Hoenn Generation III), same cohort structure (two-stage line with a type gained at evolution — Steel for Drilbur->Excadrill, Fighting for Shroomish->Breloom). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer with a within-set adjacent cohesion stack (Vivid Voltage 091 + 122 for the Drilbur line, Destined Rivals 005 + 006 for this line). The two nodes `related_characters:` to each other to surface the two-stage-line-with-evolution-type-gain design axis.
+- `larvitar-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Hoenn Generation III), different cohort axis (three-stage Rock/Ground-to-Rock/Dark pseudo-legendary line vs two-stage Grass-to-Grass/Fighting mushroom line). Both anchor Pokedex-coordinated evolutionary lines hosted on the character layer.
+- `mareep-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Johto Generation II vs Hoenn Generation III), different cohort axis (three-stage Electric wool line vs two-stage Grass/Fighting mushroom line).
+- `caterpie-line` — sibling Pokemon designer-coordinated evolutionary-line cohort character node, different region (Kanto Generation I vs Hoenn Generation III), different cohort axis (three-stage Bug-type fast-metamorphosis line vs two-stage Grass/Fighting mushroom line).
 - `endriders` — foundational precedent for hosting collective designer-coordinated entities under `_characters/`.
 - `Bulk Graph Bundler` — the project this character node serves.
 - Future Breloom-line Discrete Lair candidate — corpus state is at full two-stage line coverage (2 Shroomish + 1 Breloom prints across 2 sets). Bundle assembly is viable now. Bundle copy could lean on the fungus / undergrowth / stillness-to-aggression framing without reaching past canon: Shroomish's *"by day it remains still in the forest shade"* and Breloom's *"scatters poisonous spores and throws powerful punches"* are the species' designer-coordinated design conceit as printed flavor on the corpus prints themselves.
