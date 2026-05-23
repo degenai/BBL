@@ -10,8 +10,22 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - ice
+  - mountain
+  - snow
+  - crab
+  - giant
+  - brute
+  - cold
+  - fur
+  - pincer
+  - power
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-pose
 reference_image: cards/_images/pokemon/sun-moon-base-set/43-crabominable.png
 average_cost_paid: 0
 market_price: 0.16
@@ -31,6 +45,12 @@ artist: TOKIYA
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: day
+setting: mountain
+suspected_ip: Crabominable
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -42,12 +62,18 @@ tags:
 
 ![43-crabominable](../../_images/pokemon/sun-moon-base-set/43-crabominable.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Crabominable** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+A massive, powerfully built crab creature dominates the frame in a dynamic, aggressive pose. Its body is covered in thick white fur, and it has two enormous pincers thrust outward, each tipped with icy blue coloring. The creature's head features a dark face or visor-like marking contrasting with the white fur. The setting is a steep snowy mountain environment with icy crags and snow-covered terrain visible in the background. Blue sky and icy rock faces frame the figure from behind. The overall mood is raw and combative, emphasizing the creature's overwhelming size and force.
 
-**Subject:** 
+**Subject:** Crabominable, a large white-furred crab Pokemon with massive pincers and ice-type features, in a dynamic pose in a snowy mountain setting
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** mountain, day, snow
+**Foreground:** Large white-furred crab creature with massive icy pincers thrust outward in aggressive pose  *(palette: white, light-blue, dark-grey)*
+**Background:** Snowy mountain landscape with icy rock faces and blue sky  *(palette: white, blue, light-grey)*
+**Mood / lighting:** action, ambient
+**Emotion read:** aggressive, powerful stance; forward-charging energy
+**Creatures:** crab, furry-creature, ice-creature
+**Genre cues:** anime, fantasy

@@ -1,0 +1,51 @@
+{
+  "card_name": "Sage of the Inward Eye",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "195",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Jeskai watermark rare from Khans of Tarkir (2014-09-26). Type line is Creature — Djinn Wizard. Djinn are the Jeskai Way's resident blue race in the KTK block, associated with wisdom and aerial dominance. KTK contains five Djinn creatures total, all Jeskai-aligned.",
+      "sources": ["Scryfall (api.scryfall.com/cards/297c336b-3f70-4518-b1f1-7b773774895d)", "Gatherer: KTK Djinn creature type listing"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'No one petal claims beauty for the lotus.' Speaker is not attributed on the card. The lotus image appears directly in the card art (the figure holds a glowing lotus) and encodes the Jeskai teaching of collective humility — individual skill is subsumed into the whole.",
+      "sources": ["Scryfall (api.scryfall.com/cards/297c336b-3f70-4518-b1f1-7b773774895d)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Chase Stone. Card received a promotional foil printing as the rare in the Khans of Tarkir 'Jeskai Monks' intro pack (Scryfall set code PKTK, card 195).",
+      "sources": ["Scryfall: PKTK 195", "Cardkingdom: Intro Pack Rare Foil listing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Flying 3/4 for 5 mana; lifelink trigger fires on any noncreature spell. EDHREC records 1,918 Commander decks (0.26% of all tracked decks), with 15% inclusion in Jeskai lifegain builds and a +14% synergy score. Meaningful utility in spell-heavy Jeskai builds but not a broad staple.",
+      "sources": ["Scryfall", "EDHREC (edhrec.com/cards/sage-of-the-inward-eye)"]
+    },
+    {
+      "category": "design",
+      "text": "Vision filter tag `creature-sphinx` is incorrect — Scryfall type_line confirms Djinn Wizard, not Sphinx. Djinn and Sphinx have distinct MTG visual identities (Sphinx typically depicts lion-body or hawk-head iconography). Flag for janitor correction.",
+      "sources": ["Scryfall (type_line confirmed)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Narset, Enlightened Master", "set": "KTK", "note": "Primary Jeskai commander; noncreature spell synergy"},
+    {"name": "Master the Way", "set": "KTK", "note": "Jeskai noncreature spell, same set, same spell-matters axis"},
+    {"name": "Warden of the Eye", "set": "KTK", "note": "Also a Djinn Wizard with Jeskai watermark in KTK"},
+    {"name": "Riverwheel Aerialists", "set": "KTK", "note": "Djinn Monk, Jeskai watermark, KTK"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": {
+    "vision_filter_error": "tags_filter contains `creature-sphinx` but Scryfall type_line is Creature — Djinn Wizard. Needs janitor correction. The featureless mask and levitating robed figure are consistent with MTG's Djinn visual language.",
+    "mana_cost_check": "mana_cost present in frontmatter: {2}{U}{R}{W} — confirmed correct via Scryfall."
+  }
+}

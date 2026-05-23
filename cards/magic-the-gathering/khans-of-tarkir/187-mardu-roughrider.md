@@ -78,3 +78,15 @@ A fierce orc warrior in spiked, dark plate armor charges forward atop an armored
 **Iconography:** mardu-clan, horns, spikes
 **Genre cues:** fantasy, dark-fantasy, horde-fantasy
 
+## Trivia
+
+- **Set context** — Mardu Roughrider was released in Khans of Tarkir (2014-09-26) with the Mardu watermark. It is an Orc Warrior — part of the Mardu Horde's multispecies composition, which includes humans, orcs, and goblins united under the warrior's code known as the Edicts of Ilagra, inscribed on dragon-hide scrolls. `[MTG Wiki: Mardu Horde, via WebSearch snippet]` `[Scryfall]`
+- **Flavor text** — "The most ferocious saddlebrutes lead the assault, ramming through massed pikes and stout barricades as if they were paper and silk." The term "saddlebrute" names the distinctive horned warbeasts unique to the Mardu Horde — large enough to serve as both mount and battering ram. `[Scryfall]`
+- **Design** — Illustrated by Kev Walker, a British comics artist based in Leeds who also worked on 2000 AD and Warhammer titles. Walker is among the most prolific Magic artists on record with over 454 credits on Gatherer, first contributing artwork in the Mirage set. Hipsters of the Coast has described him as "a veritable titan of Magic art." `[Scryfall]` `[Wikipedia: Kev Walker]` `[Hipstersofthecoast.com: Magic30 art retrospective]`
+- **Mechanical note** — The attack-triggered "target creature can't block this turn" ability is a clean implementation of the Mardu speed doctrine in game terms: the clan's philosophy of overwhelming momentum made mechanical. At 5/4 for 5 mana it is a Limited body more than a Constructed one; EDHREC rank is 23,755, placing it well outside staple territory. `[Scryfall]` `[EDHREC]`
+
+### Related cards
+- Mardu Charm (KTK, 186) — same clan, same set
+- Mardu Heart-Piercer (KTK, 114) — Mardu clan Warrior, raid theme
+- Mardu Warshrieker (KTK, 116) — Mardu clan Warrior, raid theme
+- Ride Down (KTK, 194) — same Mardu combat identity, Mardu watermark

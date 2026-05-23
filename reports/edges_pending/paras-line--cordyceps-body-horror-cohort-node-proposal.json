@@ -1,0 +1,41 @@
+{
+  "edge_id": "paras-line--cordyceps-body-horror-cohort-node-proposal",
+  "shape": "node-proposal",
+  "category": "named-character-identity",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/paras-line.md", "name": "Paras evolutionary line (Paras / Parasect)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/003-189-paras.md", "name": "Paras (Darkness Ablaze 003/189)"},
+    {"type": "card", "path": "cards/pokemon/darkness-ablaze/004-189-parasect.md", "name": "Parasect (Darkness Ablaze 004/189)"},
+    {"type": "card", "path": "cards/pokemon/sun-moon-base-set/4-paras.md", "name": "Paras (Sun & Moon Base Set 4)"},
+    {"type": "card", "path": "cards/pokemon/sun-moon-base-set/5-parasect.md", "name": "Parasect (Sun & Moon Base Set 5) — wrong-printing image flagged, species identity intact"}
+  ],
+  "description": "Oh sir, Mr. Nodeley reluctantly steps in. The Paras line meets the 3+ prints / 2+ stages threshold at full two-stage coverage with four corpus prints (Paras DAB-003, Parasect DAB-004, Paras SMB-4, Parasect SMB-5 [wrong-printing-flagged but species-identity intact, per drilbur-line precedent]). Cordyceps body-horror is canonical not curatorial — Bulbapedia documents tochukaso as Cordyceps sinensis design basis, and Paras DAB-003 prints tochukaso directly in flavor while Parasect DAB-004 prints 'the bug is mostly dead' verbatim. Mr. Nodeley considered drawing a 1:1 mirror between Paras DAB-003 and Parasect DAB-004 instead but that would be subsumed the moment any second Paras-line print attaches; the node-first approach is the wave-78 drilbur-line precedent. Edgelord considered Poliwag-line as alternative (also at threshold — 3 prints / 2 stages) but Paras-line scholarship is stronger and load-bearing across all four prints rather than concentrated on one.",
+  "citations": [
+    "[Bulbapedia: Paras (Pokemon)]",
+    "[Bulbapedia: Parasect (Pokemon) — Origin section citing Cordyceps sinensis / tochukaso]",
+    "[Pokemon.com: Pokedex no. 46 (Paras), no. 47 (Parasect)]",
+    "[PokemonTCG.io: swsh3-3 (Paras DAB), swsh3-4 (Parasect DAB), sm1-4 (Paras SMB), sm1-5 (Parasect SMB)]",
+    "[BBL corpus: Parasect Darkness Ablaze 004/189 trivia pass canonicalizing Cordyceps body-horror + The Last of Us precedence reading]",
+    "[gamerant.com Pokemon / The Last of Us article via WebSearch — cited in DAB-004 trivia]"
+  ],
+  "files_modified": [
+    "cards/_characters/paras-line.md (CREATED)",
+    "cards/pokemon/darkness-ablaze/003-189-paras.md (added characters: [paras-line])",
+    "cards/pokemon/darkness-ablaze/004-189-parasect.md (added characters: [paras-line])",
+    "cards/pokemon/sun-moon-base-set/4-paras.md (added characters: [paras-line])",
+    "cards/pokemon/sun-moon-base-set/5-parasect.md (added characters: [paras-line])"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "Poliwag-line node (Poliwag SMB-30 + Poliwhirl SMB-31 + Poliwag EVO-23) — at threshold (3 prints / 2 stages); deferred as future Mr. Nodeley pass. Scholarship base exists (Ken Sugimori as line designer, spiral-as-real-tadpole-intestinal-tract biology, branching evolution to Poliwrath/Politoed already documented in Poliwag EVO-23 trivia). Lost the wave-tiebreak to Paras-line because Paras-line's body-horror canon is load-bearing across all four corpus prints (each one stages a distinct phase of the parasitic-completion progression) while Poliwag-line's strongest narrative concentrates on one trivia-passed card.",
+    "KTK charms cycle node (Jeskai KTK-181 + Mardu KTK-186 trivia-passed) — at 2 of 5 cycle members trivia-passed, still below the 3-of-5 cycle-node trigger threshold. Staged as future Mr. Nodeley candidate.",
+    "1:1 mirror between Paras DAB-003 and Parasect DAB-004 within-set adjacent-collector-number pair — would have been the Edgelord default but is subsumed by this node the moment any second Paras-line print attaches (which is now). Drawing it would be a duplicate edge pointing at this center per the wave-78 drilbur-line / wave-44 cross-print-mirror-cohort-subsumption precedent."
+  ],
+  "next_pass_suggestions": [
+    "Poliwag-line Mr. Nodeley pass — at threshold, same shape as this proposal (full-coverage two-stage line if treated as base+mid; partial-coverage three-stage line if Poliwrath/Politoed targeted). Pre-existing scholarship on Poliwag EVO-23 (Sugimori designer, spiral-biology, branching evolution).",
+    "Parasect SMB-5 image re-pull from PriceCharting fallback URL — janitor task already flagged in card's review_notes; once corrected, re-vision-pass on the correct art will likely strengthen this node's body-horror visual register (the wrong cached image is already grim-dark-cave, which suggests the correct art is at minimum equally body-horror-coded).",
+    "KTK charms cycle node watch — at 2 of 5 trivia-passed; Abzan / Sultai / Temur charm trivia-pass would trip the 3-of-5 cycle-node trigger.",
+    "Enlightened-Edgelord pass: no within-set 1:1 Connections edge currently exists between Paras DAB-003 and Parasect DAB-004 (neither card has a Connections section yet), so there is no orphan-mirror to dissolve. If a future wave drew that 1:1 before this node existed, an enlightened-Edgelord dissolution would have been warranted; the as-of-now state is clean."
+  ]
+}

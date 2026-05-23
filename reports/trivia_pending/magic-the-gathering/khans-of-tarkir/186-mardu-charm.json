@@ -1,0 +1,46 @@
+{
+  "card_name": "Mardu Charm",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "186",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Part of the first-ever cycle of wedge-color three-color Charms in Magic history. Mark Rosewater's design handoff for KTK notes: 'We have made monocolor charms, two-color charms, and three-color charms but never three-color charms in the wedges' colors.' Released 2014-09-26.",
+      "sources": ["Wizards: Khans of Tarkir Design Handoff Part 2 (magic.wizards.com)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Mardu Horde's clan identity is speed (dragon aspect: wing). Their stated philosophy — 'Those who ride will conquer, while those who stop to meditate will die' — maps onto the charm's three modes: burn, token warriors, hand disruption.",
+      "sources": ["Wizards: Planeswalker's Guide to Khans of Tarkir Part 2 (magic.wizards.com)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Mathias Kollros, an Austrian fantasy illustrator who debuted in Magic with Return to Ravnica (2012). No flavor text printed on this card.",
+      "sources": ["Scryfall (api.scryfall.com/cards/c35fb7a3-7c7f-4470-b1ad-5b8709a608e6)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 16,827; approximately 3,136 Commander decks. Most common home is Edgar Markov and Kaalia of the Vast lists seeking low-cost modal utility.",
+      "sources": ["EDHREC (edhrec.com/cards/mardu-charm)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Abzan Charm", "set": "KTK", "note": "Five-clan KTK charm cycle member; considered the strongest"},
+    {"name": "Jeskai Charm", "set": "KTK", "note": "Five-clan KTK charm cycle member; trivia-passed wave 176"},
+    {"name": "Sultai Charm", "set": "KTK", "note": "Five-clan KTK charm cycle member"},
+    {"name": "Temur Charm", "set": "KTK", "note": "Five-clan KTK charm cycle member"},
+    {"name": "Mardu Roughrider", "set": "KTK", "note": "Same clan, same set, Mardu watermark"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": {
+    "ktk_charm_cycle_cohort_trigger": "Mardu Charm is the 2nd of 5 KTK charms to receive trivia (Jeskai wave 176, Mardu this pass). Trigger condition for 'KTK five-clan charm cycle' cohort node: 3 of 5 needed. Temur and Sultai/Abzan still pending."
+  }
+}

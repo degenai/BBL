@@ -10,8 +10,22 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - water
+  - aquatic
+  - spiral
+  - blue
+  - evolution-line
+  - round
+  - ready
+  - rocky-terrain
+  - cute
+  - amphibian
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-pose
 reference_image: cards/_images/pokemon/sun-moon-base-set/31-poliwhirl.png
 average_cost_paid: 0
 market_price: 0.29
@@ -31,6 +45,12 @@ artist: Atsuko Nishida
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: action
+time_of_day: day
+setting: ocean
+suspected_ip: Poliwhirl
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -42,12 +62,19 @@ tags:
 
 ![31-poliwhirl](../../_images/pokemon/sun-moon-base-set/31-poliwhirl.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Poliwhirl** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+A blue, rounded bipedal creature stands on rocky ground near water, its stubby arms raised and slightly outward as if ready for action or in mid-gesture. The spiral marking on its pale belly is prominent and centrally composed. The figure has a smooth, round head with small, dark eyes and no visible mouth details. The background shows grey rocky terrain and a body of blue water, with some lighter sky tones above. The pose reads as alert and active, conveying readiness.
 
-**Subject:** 
+**Subject:** Poliwhirl, a blue bipedal Pokemon with a spiral belly marking and raised arms, standing near water on rocky terrain
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** ocean, day, clear
+**Foreground:** Blue bipedal creature with spiral belly marking, arms raised, standing on rocks  *(palette: blue, pale-cream, grey)*
+**Background:** Rocky grey terrain with blue water and light sky  *(palette: grey, blue, light-blue)*
+**Mood / lighting:** action, soft
+**Emotion read:** alert, ready stance; arms raised outward
+**Creatures:** aquatic-creature, bipedal-creature
+**Iconography:** spiral
+**Genre cues:** anime, fantasy

@@ -29,7 +29,7 @@ tags_filter:
   - forward-facing
   - portrait-mode
   - multicolor-white-blue-red
-  - creature-sphinx
+  - creature-djinn
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/195-sage-of-the-inward-eye.png
 average_cost_paid: 0
 market_price: 0.19
@@ -74,3 +74,16 @@ A solitary robed figure hovers in a dark, cloud-filled sky. The figure's face is
 **Iconography:** lotus, mask, levitation
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Sage of the Inward Eye is a rare Jeskai (White-Blue-Red) creature from Khans of Tarkir (2014-09-26) carrying the Jeskai watermark. Djinn are the Jeskai's resident blue race in this set — aerial, wisdom-aligned beings associated with the clan's eye symbol and philosophical outlook. `[Scryfall type_line: Creature — Djinn Wizard]` `[Gatherer: KTK Djinn creature type listing]`
+- **Flavor text** — "No one petal claims beauty for the lotus." `[Scryfall]` The speaker is not attributed on the card itself. The lotus image links directly to the card art (the figure holds a glowing lotus) and to the Jeskai's core teaching of collective humility: individual prowess serves the whole.
+- **Promo printing** — Sage of the Inward Eye was featured as the foil rare in the Khans of Tarkir "Jeskai Monks" intro pack, giving it a promotional foil printing (set code PKTK) in addition to the standard KTK printing. `[Scryfall: PKTK 195]` `[Cardkingdom: Intro Pack Rare Foil listing]`
+- **Mechanical reputation** — Flying 3/4 for 5 mana is not an efficient rate by itself, but the triggered lifelink ability (all your creatures gain lifelink until end of turn whenever you cast a noncreature spell) rewards spell-heavy Jeskai builds. EDHREC records 1,918 Commander decks including it, with 15% inclusion rate in Jeskai lifegain builds and a synergy score of +14%. `[EDHREC: edhrec.com/cards/sage-of-the-inward-eye]`
+- **Design note** — Illustrated by Chase Stone. The vision filter on this card includes `creature-sphinx`, but the Scryfall type_line confirms Djinn Wizard, not Sphinx. The featureless mask face and levitating robed figure are consistent with MTG's Djinn visual language, not Sphinx (which typically features lion-body or hawk-head iconography). `[Scryfall]`
+
+### Related cards
+- Narset, Enlightened Master (KTK, 190) — Jeskai Khan; primary Jeskai commander; noncreature spell synergy
+- Master the Way (KTK, 188) — Jeskai noncreature spell, same set
+- Warden of the Eye (KTK, 212) — also a Djinn Wizard with Jeskai watermark in KTK
+- Riverwheel Aerialists (KTK, 60) — Djinn Monk with Jeskai watermark in KTK

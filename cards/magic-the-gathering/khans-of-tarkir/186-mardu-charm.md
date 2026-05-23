@@ -75,3 +75,16 @@ A horseback warrior charges forward across a smoke-and-fire-choked battlefield, 
 **Iconography:** fire-wing, war-banner
 **Genre cues:** fantasy, war, horde
 
+## Trivia
+
+- **Set context** — Mardu Charm is part of the five-clan charm cycle in Khans of Tarkir (released 2014-09-26), the first time Wizards of the Coast printed three-color charms in wedge color combinations. Mark Rosewater's design handoff notes that "We have made monocolor charms, two-color charms, and three-color charms but never three-color charms in the wedges' colors" prior to this set. `[Wizards: Khans of Tarkir Design Handoff Part 2]`
+- **Clan lore** — The Mardu Horde's defining characteristic is the dragon aspect of speed, symbolized by the wing. Their clan philosophy is stated plainly in Wizards' Planeswalker's Guide: "Those who ride will conquer, while those who stop to meditate will die." The three modes of Mardu Charm (burn, token warriors, hand disruption) map directly onto the clan's three-pronged war doctrine: strike fast, flood with bodies, disrupt the enemy. `[Wizards: Planeswalker's Guide to Khans of Tarkir Part 2]`
+- **Design** — Illustrated by Mathias Kollros, an Austrian fantasy illustrator who made his Magic debut with Return to Ravnica in 2012. As of 2026 his Gatherer credit count stands at 161 cards. `[Scryfall]` No flavor text was printed on this card. `[Scryfall]`
+- **Mechanical reputation** — Mardu Charm carries an EDHREC rank of 16,827, appearing in approximately 3,136 Commander decks. It is most frequently slotted into Edgar Markov and Kaalia of the Vast lists as a low-cost modal instant that can serve as burn, a token generator, or targeted discard depending on the board state. `[EDHREC: edhrec.com/cards/mardu-charm]`
+
+### Related cards
+- Abzan Charm (KTK, 149) — cycle member; broadly considered the strongest of the five KTK charms
+- Jeskai Charm (KTK, 181) — cycle member; trivia-passed wave 176
+- Sultai Charm (KTK, 203) — cycle member
+- Temur Charm (KTK, 207) — cycle member
+- Mardu Roughrider (KTK, 187) — same set, same clan, Mardu watermark

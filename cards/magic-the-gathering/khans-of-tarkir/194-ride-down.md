@@ -53,6 +53,7 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/194-ride-down-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/b/3bc9a434-9617-4a20-88f0-355b20f2c538.jpg?1562785134
 flavor_text: \"I will wash you from my hooves!\"\n—Mardu taunt
 oracle_text: Destroy target blocking creature. Creatures that were blocked by that creature this combat gain trample until end of turn.
+mana_cost: "{R}{W}"
 tags:
   - card
   - vision-passed
@@ -77,3 +78,15 @@ Dust-choked warm-toned battle scene rendered mostly in ochres, sepia, and burnt 
 **Creatures:** horse
 **Genre cues:** fantasy, epic, steppe-warfare
 
+## Trivia
+
+- **Set context** — Ride Down is a Red-White instant from Khans of Tarkir (2014-09-26) carrying the Mardu watermark. The Mardu Horde's entire identity is the mounted charge: the clan lives by raiding on horseback across Tarkir's rocky steppes, and their philosophy is explicit — "Those who ride will conquer, while those who stop to meditate will die." This card mechanically enacts that doctrine: blow through the blocker, grant trample, keep moving. `[Wizards: Planeswalker's Guide to Khans of Tarkir Part 2]`
+- **Flavor text** — "I will wash you from my hooves!" — Mardu taunt. `[Scryfall]` The line is attributed to an anonymous Mardu rider rather than a named character, which is characteristic of Mardu flavor text throughout KTK — the clan is collective and anonymous, not hero-focused.
+- **Design** — Illustrated by Daarken (Mike Lim), who has contributed more than 170 Magic illustrations since 2006 and whose client list includes Wizards of the Coast, Bethesda, Blizzard, and Games Workshop. Ride Down art proofs (only 50 standard / 30 foil ever printed) are sold through Daarken's personal shop at daarken.com. `[daarken.com/products/ride-down]`
+- **Frontmatter flag** — `mana_cost` was missing from this card's frontmatter prior to this pass; confirmed as `{R}{W}` via Scryfall API and patched during this trivia run. `[Scryfall]`
+- **Limited reputation** — KTK draft primers flag Ride Down as a trap for the opponent: players with open Red-White mana represent it constantly, making strange attacks into large blockers feel suspicious. Removal that simultaneously grants trample to formerly-blocked attackers was notably unusual for a two-mana instant. `[Untapped.gg: MTG KTK Draft Combat Tricks]`
+
+### Related cards
+- Mardu Charm (KTK, 186) — Mardu watermark, same clan identity
+- Mardu Roughrider (KTK, 187) — Mardu warrior cavalry theme
+- Rush of Battle (KTK, 24) — Mardu combat spell, warrior-matters theme

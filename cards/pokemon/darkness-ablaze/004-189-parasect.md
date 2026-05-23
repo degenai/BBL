@@ -49,6 +49,8 @@ setting: forest
 suspected_ip: Parasect
 ip_confidence: high
 ip_verified: true
+characters:
+  - paras-line
 image_width: 734
 image_height: 1024
 image_quality: high

@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - water
+  - aquatic
+  - tadpole
+  - bubble
+  - spiral
+  - cute
+  - round
+  - peaceful
+  - evolution-line
+  - blue
+tags_filter:
+  - solo
+  - close-up
+  - portrait-mode
+  - forward-facing
+  - no-face-details
 reference_image: cards/_images/pokemon/sun-moon-base-set/30-poliwag.png
 average_cost_paid: 0
 market_price: 0.46
@@ -28,6 +43,12 @@ oracle_text: "Water Gun (Water) 10\\nHydro Pump (ColorlessColorlessColorless) 30
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: indeterminate
+setting: ocean
+suspected_ip: Poliwag
+ip_confidence: high
+ip_verified: false
 ---
 
 # Poliwag (Sun & Moon Base Set)
@@ -36,12 +57,19 @@ image_quality: high
 
 ![30-poliwag](../../_images/pokemon/sun-moon-base-set/30-poliwag.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Poliwag** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+A small, round, blue tadpole-like creature floats or rests in shallow water. Its most distinctive feature is a bold spiral marking on its pale belly. It has two large, dark, forward-facing eyes and a thin, curled tail. Translucent blue bubbles float around the figure, reinforcing the aquatic setting. The background is a wash of soft blue and white with watery ripples, giving the whole composition a light, breezy feel. The creature's expression reads as cheerful and calm.
 
-**Subject:** 
+**Subject:** Poliwag, a small round blue tadpole Pokemon with a spiral pattern on its belly, large round eyes, and a curled tail
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** close-up, portrait, figures: solo, facing: forward
+**Setting:** ocean, indeterminate, calm
+**Foreground:** Round blue tadpole creature with spiral belly marking and curled tail, surrounded by floating bubbles  *(palette: blue, white, light-teal)*
+**Background:** Soft watery wash of blue and white tones, rippling water surface  *(palette: light-blue, white, pale-teal)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** calm, cheerful expression; wide open eyes
+**Creatures:** tadpole, aquatic-creature
+**Iconography:** spiral
+**Genre cues:** anime, fantasy

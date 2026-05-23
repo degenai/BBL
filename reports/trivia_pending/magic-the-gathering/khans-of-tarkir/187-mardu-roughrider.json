@@ -1,0 +1,42 @@
+{
+  "card_name": "Mardu Roughrider",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "187",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Orc Warrior with Mardu watermark. The Mardu Horde is a multispecies clan (humans, orcs, goblins) united under the Edicts of Ilagra, a warrior's code inscribed on dragon-hide scrolls.",
+      "sources": ["MTG Wiki: Mardu Horde (via WebSearch snippet)", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'The most ferocious saddlebrutes lead the assault, ramming through massed pikes and stout barricades as if they were paper and silk.' The word 'saddlebrute' names the horned warbeasts unique to Mardu culture — large, heavily-armored mounts used as living battering rams.",
+      "sources": ["Scryfall (api.scryfall.com/cards/d6341345-55a6-43f3-915a-c03afea92ec3)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Kev Walker, a British comics artist (2000 AD, Warhammer) and one of Magic's most prolific illustrators with 454+ credits, first contributing in the Mirage set. Hipsters of the Coast has called him 'a veritable titan of Magic art.'",
+      "sources": ["Scryfall", "Wikipedia: Kev Walker", "Hipstersofthecoast.com: Magic30 art retrospective"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Attack-triggered evasion (target creature can't block this turn) at a 5/4 for 5 body. EDHREC rank 23,755 — limited/draft role more than Commander staple.",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mardu Charm", "set": "KTK", "note": "Same clan, same set"},
+    {"name": "Mardu Heart-Piercer", "set": "KTK", "note": "Mardu Warrior, raid theme"},
+    {"name": "Mardu Warshrieker", "set": "KTK", "note": "Mardu Warrior, raid theme"},
+    {"name": "Ride Down", "set": "KTK", "note": "Mardu cavalry combat identity"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

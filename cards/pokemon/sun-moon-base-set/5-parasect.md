@@ -10,8 +10,22 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - mushroom
+  - parasite
+  - fungus
+  - dark
+  - cave
+  - insect
+  - body-horror
+  - evolution-line
+  - nature
+  - bug
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter-facing
+  - portrait-mode
 reference_image: cards/_images/pokemon/sun-moon-base-set/5-parasect.png
 average_cost_paid: 0
 market_price: 0.18
@@ -31,6 +45,14 @@ oracle_text: "Fury Cutter (ColorlessColorless) 10+: Flip 3 coins. If 1 of them i
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: grim
+time_of_day: indeterminate
+setting: dungeon
+suspected_ip: Parasect
+ip_confidence: high
+ip_verified: false
+characters:
+  - paras-line
 tags:
   - card
   - pokemon
@@ -42,12 +64,19 @@ tags:
 
 ![5-parasect](../../_images/pokemon/sun-moon-base-set/5-parasect.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Parasect** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+A large, reddish-orange crab-insect creature is depicted with its body almost entirely overshadowed by an enormous brown mushroom cap growing from its back. The creature has visible segmented legs, a rounded body, and small eyes barely visible under the mass of the mushroom. The setting is dark and cave-like, with rocky surroundings and dim, shadowed lighting that heightens the eerie quality of the fungal growth overwhelming the host body. The composition emphasizes the parasitic mushroom as the dominant visual element rather than the creature itself.
 
-**Subject:** 
+**Subject:** Parasect, a large reddish-orange crab-like insect Pokemon dominated by a massive brown mushroom cap on its back, in a dark rocky setting
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** dungeon, indeterminate
+**Foreground:** Large reddish-orange crab-insect body dominated by an enormous brown mushroom cap  *(palette: orange-red, brown, dark-grey)*
+**Background:** Dark rocky cave or shadowed terrain  *(palette: dark-grey, brown, black)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** blank, controlled; host body appears overtaken by the fungal parasite
+**Creatures:** insect, crab, mushroom-host
+**Iconography:** mushroom
+**Genre cues:** anime, fantasy, horror

@@ -1,0 +1,41 @@
+{
+  "card_name": "Master the Way",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "188",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Jeskai (Blue-Red) sorcery from Khans of Tarkir (2014-09-26). The Jeskai Way prizes wisdom and disciplined mastery; 'The Way' is both the clan's name and their central philosophy.",
+      "sources": ["Wizards: Planeswalker's Guide to Khans of Tarkir (via WebSearch snippet)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'The Way has no beginning and no end. It is simply the path.' — Narset, khan of the Jeskai. Narset is a human monk, neurodivergent character, and former planeswalker who served as Jeskai khan in the original KTK timeline before planeswalking and later being desparked.",
+      "sources": ["Scryfall (api.scryfall.com/cards/704743a8-27d6-4db9-8fe1-f65f5f3a955f)", "MTG Wiki: Narset (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Howard Lyon, who posted this card on his personal blog on 2014-09-12 and described it as 'one of my favorite cards of late,' noting that he 'really enjoyed painting the background' and hoped the setting read as beautiful. Lyon planned a process-documentation follow-up post.",
+      "sources": ["howardlyon.com/blog/2014/9/12/khans-of-tarkir-master-the-way"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Hand-size-matters burn sorcery at 5 mana ({3}{U}{R}). EDHREC rank 16,954; penny_rank 15,646, placing it in budget Commander territory for hand-size decks.",
+      "sources": ["Scryfall", "EDHREC (edhrec.com/cards/master-the-way)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Narset, Enlightened Master", "set": "KTK", "note": "Flavor text speaker; Legendary Jeskai Khan commander"},
+    {"name": "Jeskai Charm", "set": "KTK", "note": "Jeskai modal instant, same set"},
+    {"name": "Sage of the Inward Eye", "set": "KTK", "note": "Jeskai Djinn Wizard, noncreature spell synergy axis"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

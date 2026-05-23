@@ -1,0 +1,45 @@
+{
+  "card_name": "Ride Down",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "194",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Red-White Mardu instant from Khans of Tarkir (2014-09-26). The Mardu Horde philosophy — 'Those who ride will conquer, while those who stop to meditate will die' — is literalized in this card's design: destroy the blocker, grant trample, keep advancing.",
+      "sources": ["Wizards: Planeswalker's Guide to Khans of Tarkir Part 2 (magic.wizards.com)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'I will wash you from my hooves!' — Mardu taunt. Attributed to an anonymous Mardu rider; consistent with KTK Mardu flavor text favoring collective/anonymous voice over named heroics.",
+      "sources": ["Scryfall (api.scryfall.com/cards/3bc9a434-9617-4a20-88f0-355b20f2c538)"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Daarken (Mike Lim), who has contributed 170+ Magic illustrations since 2006 for Wizards of the Coast, Bethesda, Blizzard, and Games Workshop among others. Print proofs of the Ride Down art — only 50 standard and 30 foil — are sold through his personal shop at daarken.com.",
+      "sources": ["daarken.com/products/ride-down", "daarken.com (artist bio)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Notably unusual two-mana instant in KTK draft: kills the blocker AND grants trample to formerly-blocked creatures in the same combat. KTK limited primers flag it as a trap for opponents who see open Red-White mana and misread the attack. EDHREC rank 10,305 — best-ranked card of this five-card batch.",
+      "sources": ["Scryfall", "Untapped.gg: MTG KTK Draft Combat Tricks", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mardu Charm", "set": "KTK", "note": "Mardu clan, same set"},
+    {"name": "Mardu Roughrider", "set": "KTK", "note": "Mardu cavalry combat identity"},
+    {"name": "Rush of Battle", "set": "KTK", "note": "Mardu combat spell, warrior-matters"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": {
+    "mana_cost_missing": "mana_cost field was absent from card frontmatter; confirmed {R}{W} via Scryfall API and patched during this trivia run.",
+    "color_magic_tags_missing": "Ride Down has red-magic and white-magic in tags_filter — those appear correct per bbl-color-magic-is-filter protocol. No tags_hub color-magic issue."
+  }
+}
