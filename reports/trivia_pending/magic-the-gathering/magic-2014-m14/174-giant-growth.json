@@ -1,0 +1,49 @@
+{
+  "card_name": "Giant Growth",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2014 (M14)",
+  "collector_number": "174",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Giant Growth appeared in Magic 2014, released July 19, 2013. It was printed in nearly every core set from Alpha through M11, then absent from M12 onward, succeeded by Titanic Growth (+3/+3 with trample at two mana). M14 is one of the last standard-legal core set printings of the classic version. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Giant Growth is one of the five cards in the original Boon Cycle from Limited Edition Alpha — a horizontal cycle of 1-mana instants each with an effect involving the number 3, one per color: Healing Salve (white), Ancestral Recall (blue), Dark Ritual (black), Lightning Bolt (red), and Giant Growth (green). The cycle is famous for its extreme power disparity: Ancestral Recall is Power Nine, Lightning Bolt is one of the best burn spells ever, and Giant Growth sits in the middle — functional but not broken. Designed by Sandra Everingham. [MTG Wiki via WebSearch; Draftsim: Boon in MTG]",
+      "sources": ["MTG Wiki via WebSearch", "Draftsim: Boon in MTG"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Giant Growth is legal in Pauper and sees regular play there as a combat trick and pump spell. Its EDHREC rank of 3,636 reflects modest Commander adoption — generally outclassed by pump spells with trample or hexproof riders at the same cost, but remains a Limited and Pauper staple. [Scryfall edhrec_rank; Pauper format legality from Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The M14 illustration is by Matt Cavotta, former Wizards of the Coast Art Director and Creative Director who also wrote the column 'Taste the Magic' on MagicTheGathering.com (2005-2007). He was hired by Mark Rosewater in 2004 and has over 100 MTG illustration credits. [Wikipedia: Matt Cavotta; artofmtg.com/artist/matt-cavotta]",
+      "sources": ["Wikipedia: Matt Cavotta", "artofmtg.com/artist/matt-cavotta"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Giant Growth", "set": "Limited Edition Alpha", "note": "original printing, same oracle text"},
+    {"name": "Titanic Growth", "set": "Magic 2012", "note": "functional successor with trample at 2 mana"},
+    {"name": "Vines of Vastwood", "set": "Zendikar", "note": "pauper-staple pump with hexproof mode"},
+    {"name": "Might of Old Krosa", "set": "Time Spiral", "note": "conditional +4/+4 pump on main phase"},
+    {"name": "Ancestral Recall", "set": "Limited Edition Alpha", "note": "Boon Cycle sibling — blue 1-mana draw 3"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "metadata_flags": {
+    "mana_cost_missing": false,
+    "mana_cost_value": "{G}",
+    "color_magic_tag_correct": true,
+    "notes": "mana_cost present; green-magic tag correct for a green instant. No flavor_text on this printing — Scryfall confirms no flavor_text field."
+  }
+}

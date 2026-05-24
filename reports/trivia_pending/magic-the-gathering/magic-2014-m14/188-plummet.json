@@ -1,0 +1,49 @@
+{
+  "card_name": "Plummet",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2014 (M14)",
+  "collector_number": "188",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Plummet appeared in Magic 2014, released July 19, 2013. Its first printing was in Archenemy (June 2010, no. 65). It has since appeared in 22 printings including core sets M11 through M15, multiple Masters sets, and Innistrad block products. EDHREC rank 12,712 reflects limited Commander adoption given its narrow flying-creature-only scope. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Plummet is green's two-mana hard answer to flying creatures — a role green has held since the game's early years. Its narrow targeting (flying only) limits general-format adoption compared to broader removal, making it primarily a Limited pickup and a sideboard option against flying-heavy strategies. [Scryfall; EDHREC rank from Scryfall edhrec_rank field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Let nothing own the skies but the wind.\" — Dejara, Giltwood druid. Dejara is a flavor-text-only character with no appearance in Wizards-published stories. 'Giltwood' is not identified as a named plane in the MTG multiverse in published Wizards lore — it appears to be a setting referenced only through this flavor attribution. [Scryfall; WebSearch: Giltwood Plummet lore — no canonical plane identified]",
+      "sources": ["Scryfall", "WebSearch: Giltwood MTG lore"]
+    },
+    {
+      "category": "design",
+      "text": "Pete Venters illustrated the M14 printing. Venters is one of the earliest and most prolific MTG artists, beginning work in October 1993 (starting with Antiquities). He served as Continuity Manager from Alliances through Urza's Saga, creating storylines, art descriptions, flavor text, and card names. He has over 300 card credits and illustrated iconic cards including Survival of the Fittest, Ensnaring Bridge, Baron Sengir, and Lhurgoyf. [Cardmarket: Interview with Artist Pete Venters; Scryfall]",
+      "sources": ["Cardmarket: Interview with Artist Pete Venters", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Plummet", "set": "Archenemy", "note": "first printing (no. 65)"},
+    {"name": "Clip Wings", "set": "Magic Origins", "note": "similar anti-flying green effect; opponent chooses if multiple fliers"},
+    {"name": "Aerial Predation", "set": "Return to Ravnica", "note": "same destroy-flying effect plus 2 life"},
+    {"name": "Rabid Bite", "set": "Shadows over Innistrad", "note": "related green creature-fights removal spell"},
+    {"name": "Skyreaper", "set": "various", "note": "related anti-flying green effect family"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "metadata_flags": {
+    "mana_cost_missing": false,
+    "mana_cost_value": "{1}{G}",
+    "color_magic_tag_correct": true,
+    "notes": "mana_cost present ({1}{G}); green-magic tag correct for a green instant."
+  }
+}

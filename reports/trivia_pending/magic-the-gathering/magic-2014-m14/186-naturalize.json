@@ -1,0 +1,49 @@
+{
+  "card_name": "Naturalize",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2014 (M14)",
+  "collector_number": "186",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Naturalize appeared in Magic 2014, released July 19, 2013. Its first printing was in Onslaught (October 2002), making it a green-shifted version of the Alpha card Disenchant — which had been white-exclusive. Moving artifact/enchantment removal into green was a meaningful color-pie shift. [Scryfall; WebSearch: Naturalize Onslaught history]",
+      "sources": ["Scryfall", "WebSearch: Naturalize Onslaught first printing"]
+    },
+    {
+      "category": "design",
+      "text": "Tim Hildebrandt's Naturalize artwork (a cracking sphere consumed by forest vines) appeared across approximately seven consecutive core-set printings from Eighth Edition onward, making it one of the most reprinted single pieces of MTG card art. Scryfall records 26 total unique English printings of the card across its history. [WebSearch snippet: Naturalize new art reprints; Scryfall prints search]",
+      "sources": ["WebSearch snippet: thoughtsaboutbaseball.blogspot.com Naturalize new art reprints", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"When your cities and trinkets crumble, only nature will remain.\" — Garruk Wildspeaker. Garruk Wildspeaker is a green-aligned planeswalker hunter-druid introduced in Lorwyn (2007); he is characterized by contempt for civilization and 'civilized settings,' preferring the wilds. The M14 flavor text is fully consistent with his canonical voice. [Scryfall; magic.wizards.com/en/story/garruk-wildspeaker-planeswalker]",
+      "sources": ["Scryfall", "Wizards of the Coast story page: Garruk Wildspeaker"]
+    },
+    {
+      "category": "design",
+      "text": "Tim Hildebrandt illustrated the M14 printing. Hildebrandt is one of the Hildebrandt Brothers — Tim and Greg — American fantasy illustrators famous for their 1970s-80s Lord of the Rings and Star Wars poster paintings. Tim continued solo MTG work after Greg's death in 2006; he has approximately 43 solo Scryfall card credits. [Scryfall; mtg.wtf/artist/tim_hildebrandt; mtg.wtf/artist/greg_hildebrandt_tim_hildebrandt]",
+      "sources": ["Scryfall", "mtg.wtf/artist/tim_hildebrandt"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Disenchant", "set": "Limited Edition Alpha", "note": "white predecessor: same targets, different color"},
+    {"name": "Naturalize", "set": "Onslaught", "note": "first printing (no. 275)"},
+    {"name": "Force of Vigor", "set": "Modern Horizons", "note": "free-cast upgrade in green; destroys two targets"},
+    {"name": "Wear/Tear", "set": "Dragon's Maze", "note": "red/white split covering both artifact and enchantment"},
+    {"name": "Garruk Wildspeaker", "set": "Lorwyn", "note": "planeswalker whose flavor text appears on this card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "metadata_flags": {
+    "mana_cost_missing": false,
+    "mana_cost_value": "{1}{G}",
+    "color_magic_tag_correct": true,
+    "notes": "mana_cost present ({1}{G}); green-magic tag correct. A linter may have added characters: [garruk-wildspeaker] to frontmatter during this pass — that is an Edgelord-scope edge, not triviabot's to own, but it is consistent with the Garruk Wildspeaker flavor text."
+  }
+}

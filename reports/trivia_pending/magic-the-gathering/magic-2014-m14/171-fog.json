@@ -1,0 +1,54 @@
+{
+  "card_name": "Fog",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2014 (M14)",
+  "collector_number": "171",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fog appeared in Magic 2014, a core set released July 19, 2013. It has been reprinted in nearly every core set since Limited Edition Alpha (1993), making it one of the most continuously reprinted cards in Magic's history. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The 'fog effect' — preventing all combat damage for a turn — is named after this Alpha card within Wizards R&D. The mechanic is considered primary in green and tertiary in white. Variants exist across all five colors: Darkness (black), Angelsong (white), and Clinging Mists (green) among them. By 2016 it received a Eternal Masters reprint (no. 167). [Draftsim: The 29 Best Fog Cards in Magic Ranked; Scryfall]",
+      "sources": ["Draftsim", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Fog holds EDHREC rank 729, appearing primarily in turbo-fog archetypes and green combat strategies. EDHREC notes Undergrowth as a functional upgrade in red-green decks, but Fog remains the one-mana baseline reference for the effect. [EDHREC: edhrec.com/cards/fog]",
+      "sources": ["EDHREC"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"I fear no army or beast, but only the morning fog. Our assault can survive everything else.\" — Lord Hilneth. Lord Hilneth is a flavor-text-only attribution; the character does not appear in Wizards-published stories. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The M14 illustration is by Jaime Jones, a prolific MTG contributor with over 100 card credits. The Fog art is among his most restrained compositions — a near-monochrome grey-beige study of soldiers in mist, with almost no color differentiation. [Scryfall; artofmtg.com/artist/jaime-jones]",
+      "sources": ["Scryfall", "artofmtg.com/artist/jaime-jones"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fog", "set": "Limited Edition Alpha", "note": "original printing, same oracle text"},
+    {"name": "Darkness", "set": "Legends", "note": "black fog variant — same mechanic, off-color"},
+    {"name": "Angelsong", "set": "Shards of Alara", "note": "white fog with cycling"},
+    {"name": "Moment's Peace", "set": "Odyssey", "note": "green fog with flashback; considered functional upgrade in most formats"},
+    {"name": "Clinging Mists", "set": "Innistrad", "note": "green fog with fateful hour clause"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "metadata_flags": {
+    "mana_cost_missing": false,
+    "mana_cost_value": "{G}",
+    "color_magic_tag_correct": true,
+    "notes": "mana_cost present; green-magic tag correct for a green instant."
+  }
+}

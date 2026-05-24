@@ -1,0 +1,52 @@
+{
+  "edge_id": "garruk-wildspeaker-character-node-w182",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "node_proposed": {
+    "type": "character",
+    "path": "cards/_characters/garruk-wildspeaker.md",
+    "slug": "garruk-wildspeaker",
+    "name": "Garruk Wildspeaker"
+  },
+  "endpoints_attached": [
+    {"type": "card", "path": "cards/magic-the-gathering/magic-2014-m14/186-naturalize.md", "name": "Naturalize (M14-186)", "anchor_kind": "flavor-text-voice"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/199-ranger-s-guile.md", "name": "Ranger's Guile (M21-199)", "anchor_kind": "flavor-text-voice"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/184-garruk-s-gorehorn.md", "name": "Garruk's Gorehorn (M21-184)", "anchor_kind": "name-of-record"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/186-garruk-s-uprising--foil.md", "name": "Garruk's Uprising (M21-186, foil)", "anchor_kind": "name-of-record + ip_resolution closure"}
+  ],
+  "description": "Oh, sir, I do apologize — Edgelord wanted ever so badly to draw the lovely 1:1 mirror between Naturalize-M14 and Ranger's-Guile-M21 (the same Garruk Wildspeaker quote-voice across a seven-year reprint span, isn't that nice), but I rather had to step in because the corpus already holds two Garruk-named M21 cards (Uprising + Gorehorn) AND those two flavor-quote cards, which makes N=4 anchors aimed at an absent center, and writing pairwise edges between them would only be made meaningless by the future Garruk node anyway. So I've drafted the node. The Nicol Bolas precedent at cards/_characters/nicol-bolas.md sets the wiring template (name-of-record + flavor-text-voice + ip_resolution_for closure), all four card frontmatters now point at garruk-wildspeaker via the canonical block-form characters: list, and the suspected_ip: Garruk Wildspeaker field on Uprising is now closed by the ip_resolution_for: garruk-wildspeaker field on the node. I hope the node is useful, sir. I really do.",
+  "citations": [
+    "[Scryfall: m14/186 flavor_text — 'When your cities and trinkets crumble, only nature will remain.' attributed to Garruk Wildspeaker]",
+    "[Scryfall: m21/199 flavor_text — 'You don't survive in the wild by standing in plain sight.' attributed to Garruk Wildspeaker]",
+    "[Scryfall: m21/186 card title — Garruk's Uprising, with suspected_ip already verified to Garruk Wildspeaker in card frontmatter]",
+    "[Scryfall: m21/184 card title — Garruk's Gorehorn, named-for-Garruk cycle member]",
+    "[MTG Wiki: Garruk — full character page documenting Wildspeaker / Veil-Cursed / Apex Predator / Cursed Huntsman / Unleashed arc phases]",
+    "[Wizards: Mark Rosewater, 'Need I Say Core', 2020-06-08 — Garruk as M21 headlining green planeswalker, mono-green post-curse]",
+    "[Duel Decks: Garruk vs. Liliana, October 2009 — codified the Garruk-vs-Liliana antagonism as recurring design touchstone, recurring in M21 Gorehorn flavor-text]"
+  ],
+  "files_modified": [
+    "cards/_characters/garruk-wildspeaker.md (NEW)",
+    "cards/magic-the-gathering/magic-2014-m14/186-naturalize.md (frontmatter: characters: + garruk-wildspeaker)",
+    "cards/magic-the-gathering/core-set-2021/199-ranger-s-guile.md (frontmatter: characters: + garruk-wildspeaker)",
+    "cards/magic-the-gathering/core-set-2021/184-garruk-s-gorehorn.md (frontmatter: characters: + garruk-wildspeaker)",
+    "cards/magic-the-gathering/core-set-2021/186-garruk-s-uprising--foil.md (frontmatter: characters: + garruk-wildspeaker; suspected_ip resolution closes here)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "parent_data_fix_flag": {
+    "card": "cards/magic-the-gathering/magic-2014-m14/210-fireshrieker.md",
+    "issue": "tags_filter contains 'red-magic' but Fireshrieker is a {3} colorless Equipment with no color identity (Scryfall mana_cost: '{3}', no color in identity); known straggler from wave-169 audit triage. Parent flagged in dispatch brief.",
+    "proposed_fix": "Remove 'red-magic' from tags_filter; the art's fire imagery is iconographic, not color-identity. Card is correctly tagged 'colorless' and 'artifact' already; the red-magic tag is the only inconsistency.",
+    "scope": "inline patch — not Edgelord's lane, surfacing for parent to apply"
+  },
+  "next_pass_suggestions": [
+    "Liliana Vess character node — currently N=1 in the Garruk corpus (Gorehorn flavor-text quote), but the WAR cluster on the Nicol Bolas node has Despark which Liliana commands; a Liliana node would cross-anchor at least 2 cards already in inventory and resolve another suspected_ip if Despark carries one.",
+    "Garruk planeswalker cards proper (Garruk, Caller of Beasts M14-172; Garruk, Unleashed M21-183; Garruk, Apex Predator M15-210) — if any are in inventory or arrive later, they attach to this node without restructuring; current N=4 already exceeds the Bolas precedent N=5 to within one card.",
+    "Trivia-passed status verification for M14 wave-182 cards — Fog/Giant-Growth/Naturalize/Plummet/Fireshrieker body sections currently have no ## Trivia section. The parent's 'trivia-passed' claim may be premature; trivia sidecars exist but aren't yet committed/applied (no wave-182 commit in git log). Worth a parent-side verify before dispatching follow-on Edgelord runs that assume trivia content."
+  ],
+  "other_candidates_considered": [
+    "Plummet M14-188 ↔ Plummet Theros-194 — same card name, same oracle text, both depict winged creatures dragged from sky, but the art-direction split is so total (M14: vines as anti-flying weapon, Theros: Nylea's arrow as anti-flying weapon) that the connection is mechanical-template not narrative; the Theros version is already attached to nylea + theros-pantheon character nodes, and the M14 version's vines-as-weapon read has no character behind it. Refused as a thin reprint-pairing.",
+    "M14 utility staples as a 'green spells you actually play' cohort — Fog/Giant-Growth/Naturalize/Plummet share core-set-staple status and three of four are green, but core-set-staple is a meta-trivia tag not an edge, and the green-color overlap is filter-tier per `bbl-color-magic-is-filter`. Refused.",
+    "Fireshrieker tags_filter red-magic data-fix — real bug, surfaced as parent_data_fix_flag above rather than as an edge; not Edgelord's lane to apply but worth catching the moment it surfaces."
+  ]
+}

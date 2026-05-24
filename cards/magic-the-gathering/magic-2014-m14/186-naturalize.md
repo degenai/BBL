@@ -10,6 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+characters:
+  - garruk-wildspeaker
 tags_hub:
   - nature-reclaims
   - destruction
@@ -74,3 +76,16 @@ At the center of the composition, a large spherical object with an orange mottle
 **Iconography:** artifact-destruction, reclamation-by-nature
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Naturalize appeared in Magic 2014, released July 19, 2013. Its first printing was in Onslaught (October 2002), making it a green-shifted version of the Alpha card Disenchant — which had previously been white-exclusive. Moving artifact/enchantment removal into green was a meaningful color-pie shift, giving green a permanent answer to both permanent types on a single efficient card. [Scryfall; WebSearch: Naturalize Onslaught history]
+- **Reprint history** — Naturalize has been printed over 20 times across sets from Onslaught through Core Set 2019. Tim Hildebrandt's Eighth Edition artwork (a cracking sphere consumed by vines and forest) appeared across seven consecutive core-set printings, making it one of the most reprinted single pieces of MTG card art. Scryfall reports 26 unique printings total across English editions. [WebSearch snippet: Naturalize new art reprints; Scryfall prints search]
+- **Flavor text** — "When your cities and trinkets crumble, only nature will remain." — Garruk Wildspeaker. Garruk Wildspeaker is a green-aligned planeswalker and hunter-druid introduced in Lorwyn (2007); his worldview centers on living naturally, preferring wilderness to civilization, and regarding the works of society as ultimately impermanent. The M14 quote is consistent with his canonical voice: he has contempt for artifice and "civilized settings." [Scryfall; Wizards story page: magic.wizards.com/en/story/garruk-wildspeaker-planeswalker]
+- **Artist** — Tim Hildebrandt illustrated the M14 printing. Hildebrandt is one of the Hildebrandt Brothers, a pair of American fantasy illustrators (Tim and Greg) famous for their Lord of the Rings and Star Wars poster paintings in the 1970s-80s. Tim joined Magic as a solo credit after Greg's death in 2006; he has approximately 43 solo cards and around 20 joint credits on Scryfall. [Scryfall; mtg.wtf/artist/tim_hildebrandt; mtg.wtf/artist/greg_hildebrandt_tim_hildebrandt]
+
+### Related cards
+- Disenchant (Alpha) — white predecessor: same targets, different color
+- Naturalize (Onslaught, no. 275) — first printing
+- Force of Vigor (Modern Horizons) — free-cast upgrade in green; destroys two targets
+- Wear/Tear (Dragon's Maze) — red/white split that covers both types separately
+- Garruk Wildspeaker (Lorwyn) — planeswalker whose flavor text appears on this card

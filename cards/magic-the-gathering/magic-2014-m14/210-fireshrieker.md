@@ -27,7 +27,7 @@ tags_filter:
   - no-figure
   - scene-mode
   - mid-shot
-  - red-magic
+  - colorless-magic
   - artifact
   - equipment
   - double-strike
@@ -74,3 +74,17 @@ A wicked, curved hooked weapon — a flail or scythe-like blade with a chain or 
 **Iconography:** fire, weapon-aloft, burning-blade
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **Set context** — Fireshrieker appeared in Magic 2014, released July 19, 2013. Its original printing was in Mirrodin (October 2003, no. 171) — the set that introduced Equipment as a new artifact subtype with the keyword Equip. Mirrodin's artifact-heavy design made Equipment a flagship mechanic of the block, and Fireshrieker was among the standout uncommons for its ability to double a creature's damage output. [Scryfall]
+- **Mechanical keyword — double strike** — Double strike debuted in Legions (2003, the second set of the Onslaught block), with Ridgetop Raptor and Rockshard Elemental as the first creatures carrying the keyword. The mechanic was designed by Wayne Alward as a player submission for the "You Make the Card" promotion and was rejected for that card before being used by R&D. Fireshrieker was among the earliest Equipment cards to grant double strike as an equip bonus, combining the new Equipment mechanic with the new double-strike keyword in the same block era. [Draftsim: "Double Strike in MTG"; WebSearch]
+- **Mechanical reputation** — Fireshrieker holds EDHREC rank 1,078, appearing in approximately 126,000 Commander decks (roughly 1.4% inclusion rate). It sees highest use in Equipment-centric and combat-aggro Commander builds, particularly alongside commanders that benefit from repeated damage triggers. It is considered a budget double-strike enabler; Sword of Vengeance and Embercleave are often cited as higher-value alternatives. [EDHREC via WebFetch; Scryfall edhrec_rank]
+- **Metadata flag (tags_filter)** — Fireshrieker has `red-magic` in its `tags_filter` but is a colorless artifact. Scryfall confirms: `"colors": []`, `"color_identity": []`, `"mana_cost": "{3}"`. The correct filter tag is `colorless-magic`. The `red-magic` tag was likely applied because the art depicts a fire-wreathed weapon. This is a data error that should be patched. [Scryfall]
+- **Artist** — Christopher Moeller illustrated both the original Mirrodin printing and the M14 printing. Moeller is a prolific MTG illustrator known for dark-fantasy and high-contrast compositions; he has over 100 card credits including the iconic Phage the Untouchable and Sword of Fire and Ice. The fiery hooked weapon depicted here is a purely fantastical design — no real-world weapon archetype. [Scryfall]
+
+### Related cards
+- Fireshrieker (Mirrodin, no. 171) — original printing
+- Fireshrieker (Foundations, no. 674) — most recent reprint (2024); confirms enduring print viability
+- Sword of Vengeance (Magic 2011) — Equipment granting first strike + trample + vigilance; often compared as an upgrade
+- Embercleave (Throne of Eldraine) — red Equipment flash-cast that grants double strike + trample; direct functional comparison in red
+- Fireshrieker (Commander Legends, no. 462) — multiplayer-targeted reprint

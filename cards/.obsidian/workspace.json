@@ -16,37 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "9e1666a18cf209c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pokemon/destined-rivals/002-182-yanma.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "002-182-yanma"
-            }
-          },
-          {
-            "id": "d22a3a4be66bf4cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pokemon/black-bolt/065-086-bisharp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "065-086-bisharp"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,8 +180,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "9e1666a18cf209c0",
+  "active": "d8f5c0117373da05",
   "lastOpenFiles": [
+    "magic-the-gathering/magic-2014-m14/210-fireshrieker.md.tmp.22516.2f9033d25062",
+    "magic-the-gathering/magic-2014-m14/210-fireshrieker.md.tmp.22516.6732da4232c5",
+    "magic-the-gathering/magic-2014-m14/186-naturalize.md.tmp.22516.a7c58c790ce2",
+    "magic-the-gathering/core-set-2021/186-garruk-s-uprising--foil.md.tmp.22516.1106d5892021",
+    "magic-the-gathering/core-set-2021/184-garruk-s-gorehorn.md.tmp.22516.146a1e5dc579",
+    "magic-the-gathering/core-set-2021/199-ranger-s-guile.md.tmp.22516.3a4498f47ed1",
+    "_characters/garruk-wildspeaker.md",
+    "_characters/garruk-wildspeaker.md.tmp.22516.cb4e2807feb1",
+    "magic-the-gathering/magic-2014-m14/186-naturalize.md.tmp.22516.ce9014d2745f",
+    "magic-the-gathering/magic-2014-m14/174-giant-growth.md.tmp.22516.6e9d41cb4da2",
+    "magic-the-gathering/magic-2014-m14/171-fog.md.tmp.22516.6cedf18cb6d3",
+    "pokemon/black-bolt/065-086-bisharp.md",
+    "pokemon/destined-rivals/002-182-yanma.md",
     "_images/dragon-ball-super/world-martial-arts-tournament/tb2-069-son-goku-uub-seeds-of-the-future.png",
     "_images/dragon-ball-super/world-martial-arts-tournament/tb2-065-announcer-announcer-referee-veteran.png",
     "_images/dragon-ball-super/world-martial-arts-tournament/tb2-063-master-shen-martial-meister.png",
@@ -221,20 +205,9 @@
     "_images/dragon-ball-super/world-martial-arts-tournament/tb2-051-unyielding-victory-son-goku.png",
     "_images/dragon-ball-super/world-martial-arts-tournament/tb2-048-mercenary-tao-trading-moves.png",
     "_images/dragon-ball-super/world-martial-arts-tournament/tb2-046-trusting-relationship-kami.png",
-    "_images/dragon-ball-super/world-martial-arts-tournament/tb2-041-double-impact-krillin.png",
     "_images/dragon-ball-super/promotion-cards",
-    "pokemon/black-bolt/065-086-bisharp.md",
     "pokemon/mega-evolution/029-132-sizzlipede.md",
     "pokemon/mega-evolution/070-132-onix.md",
-    "magic-the-gathering/magic-2012-m12/200-vastwood-gorger.md.tmp.22516.dcc329c3b329",
-    "_images/lorcana/whispers-in-the-well",
-    "_images/lorcana",
-    "_images/final-fantasy-tcg/opus-viii",
-    "_images/final-fantasy-tcg",
-    "_images/dragon-ball-super/judge-promotion-cards",
-    "_images/dragon-ball-super/expansion-deck-box-set-08-magnificent-collection-forsaken-warrior",
-    "_images/pokemon/white-flare",
-    "magic-the-gathering/eternal-masters/231-relic-of-progenitus.md.tmp.22516.72d39945c44d",
     "pokemon/white-flare/028-086-vanillish.md",
     "pokemon/white-flare/056-086-liepard.md",
     "pokemon/white-flare/009-086-accelgor.md",
@@ -254,8 +227,6 @@
     "pokemon/twilight-masquerade/070-167-helioptile.md",
     "pokemon/twilight-masquerade/086-167-flabebe.md",
     "pokemon/twilight-masquerade/139-167-ducklett.md",
-    "pokemon/twilight-masquerade/034-167-darumaka.md",
-    "pokemon/twilight-masquerade/048-167-crawdaunt.md",
-    "pokemon/twilight-masquerade/047-167-corphish.md"
+    "pokemon/twilight-masquerade/034-167-darumaka.md"
   ]
 }

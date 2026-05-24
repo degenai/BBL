@@ -75,3 +75,16 @@ A small creature with bat-like wings and visible fur is shown in mid-tumble, wra
 **Iconography:** falling, vines-as-weapon
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Plummet appeared in Magic 2014, released July 19, 2013. Its first printing was in Archenemy (June 2010, no. 65). It has since appeared in 22 printings including core sets M11 through M15, multiple Masters sets, and Innistrad block products. By EDHREC rank 12,712, it is one of the lower-ranked green removal spells — its narrow targeting (flying creatures only) limits its general appeal compared to broader removal. [Scryfall]
+- **Design** — Plummet is green's hard answer to flying creatures, a role green has held since the early days of the game. Its oracle text "Destroy target creature with flying" is a two-mana instant, making it the functional green counterpart to blue's bounce or black's murder effects but restricted to fliers. The card has been considered a solid Limited pickup and a budget sideboard option against heavy flying strategies, though in Commander its narrow scope limits inclusion. [Scryfall; EDHREC rank from Scryfall edhrec_rank field]
+- **Flavor text** — "Let nothing own the skies but the wind." — Dejara, Giltwood druid. Dejara is a flavor-text-only character; she appears nowhere in Wizards-published stories. "Giltwood" is not identified as a named plane in the MTG multiverse in published Wizards lore — it appears to be a setting referenced only through this flavor attribution. [Scryfall; WebSearch: Giltwood Plummet lore — no canonical plane identified]
+- **Artist** — Pete Venters illustrated the M14 printing. Venters is one of the earliest and most prolific MTG artists, beginning his work for Magic in October 1993 (starting with Antiquities). He served as Continuity Manager from Alliances through Urza's Saga, creating storylines, art descriptions, flavor text, and card names, and has over 300 card credits. He illustrated iconic cards including Survival of the Fittest, Ensnaring Bridge, Baron Sengir, and Lhurgoyf. [Cardmarket: "Interview with Artist Pete Venters"; Scryfall]
+
+### Related cards
+- Plummet (Archenemy, no. 65) — first printing
+- Clip Wings (Magic Origins) — destroy a creature with flying; opponent's choice if multiple
+- Skyreaper (various) — related anti-flying green effects
+- Aerial Predation (Return to Ravnica) — same effect plus 2 life
+- Rabid Bite (Shadows over Innistrad) — related creature-fights spell for green creature removal
