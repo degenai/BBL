@@ -51,7 +51,7 @@ mood: sublime
 time_of_day: twilight
 setting: mountain
 characters:
-  - refuges-cycle
+  - ktk-gain-lands
 tags:
   - card
   - vision-passed

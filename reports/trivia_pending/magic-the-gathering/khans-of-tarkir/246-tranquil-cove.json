@@ -1,0 +1,53 @@
+{
+  "card_name": "Tranquil Cove",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "246",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tranquil Cove KTK (collector number 246, released 2014-09-26) is the originating print of the white-blue dual gain-land. It belongs to the KTK cycle of 10 dual gain-lands (one for each two-color pair among the five colors), all sharing the same oracle text structure: enters tapped, gain 1 life on entry, tap for one of two colors. The other members are Bloodfell Caves, Blossoming Sands, Dismal Backwater, Jungle Hollow, Rugged Highlands, Scoured Barrens, Swiftwater Cliffs, Thornwood Falls, and Wind-Scarred Crag [Scryfall: KTK tapped-land oracle search].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "CYCLE QUESTION ANSWER (a): Tranquil Cove KTK is NOT a member of the 'Refuges' cycle. The Refuges are a separate older cycle (Zendikar block, 2009) with different oracle IDs (e.g., Akoum Refuge, Sejiri Refuge, Graypelt Refuge, etc.). Tranquil Cove shares oracle_id 5d641bf6-0f93-4189-8dc1-ec7ea446dade across all its printings. Fate Reforged (FRF, 2015-01-23) reprinted the same 10 KTK gain-lands including Tranquil Cove — they are reprints of the KTK originals, not a separate FRF cycle. The corpus's 'refuges-cycle' cohort node (anchored on 4 FRF gain-lands) must be checked: if it was seeded with FRF Tranquil Cove, it holds a reprint of the KTK originating card, not a unique FRF-cycle member [Scryfall: prints_search for oracle_id 5d641bf6-0f93-4189-8dc1-ec7ea446dade; KTK and FRF tapped-land oracle searches].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 1,072 and Pauper-legal status make Tranquil Cove one of the most widely played lands in the corpus. It is a format-ubiquitous staple across Commander, Pauper, and budget Standard builds: 19 total printings through 2025 (Tarkir: Dragonstorm) confirm sustained reprint demand. In Pauper specifically it is a staple white-blue dual without alternatives at common until modern-set reprints [Scryfall; EDHREC].",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by John Avon, one of the most prolific MTG land artists. The card carries no flavor text in any printing — confirmed via Scryfall's flavor_text field returning null for the KTK printing. Avon's coastal landscape style here is consistent with his well-known panoramic land art body of work across Onslaught, Urza's block, and Innistrad [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bloodfell Caves", "set": "Khans of Tarkir", "note": "Cycle sibling — BR dual gain-land, KTK originating print"},
+    {"name": "Blossoming Sands", "set": "Khans of Tarkir", "note": "Cycle sibling — GW dual gain-land, KTK originating print"},
+    {"name": "Dismal Backwater", "set": "Khans of Tarkir", "note": "Cycle sibling — UB dual gain-land, KTK originating print"},
+    {"name": "Scoured Barrens", "set": "Khans of Tarkir", "note": "Cycle sibling — WB dual gain-land, KTK originating print"},
+    {"name": "Akoum Refuge", "set": "Zendikar", "note": "Distinct older 'Refuge' cycle member (2009) — shares oracle TEXT structure but different oracle_id, different cycle entirely"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "cycle_notes": {
+    "relevant": true,
+    "cycle_question_a": "ANSWERED",
+    "verdict": "Tranquil Cove KTK is the ORIGINATING print of the KTK dual gain-land cycle (10 lands). FRF carries reprints of those same 10 cards under the same oracle IDs — NOT a separate FRF cycle. The corpus's 'refuges-cycle' cohort node anchored on FRF gain-lands holds reprints of KTK originals, not unique FRF members. The 'Refuges' name refers to a different Zendikar-block cycle (2009) with distinct oracle IDs. Recommend the corpus node be audited for naming clarity."
+  },
+  "flags": {
+    "mana_cost_missing": false,
+    "color_magic_tags_absent": false,
+    "note": "Land — empty mana_cost correct. tags_filter already contains 'white-magic', 'blue-magic', 'multicolor-white-blue' — color-magic tags are present and correctly in tags_filter, not tags_hub. No issue."
+  }
+}

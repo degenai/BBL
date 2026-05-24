@@ -1,0 +1,48 @@
+{
+  "card_name": "Ornithopter",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2011 (M11)",
+  "collector_number": "211",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Ornithopter was first printed in Antiquities (ATQ, 1994-03-04), illustrated by Amy Weber, making it one of the oldest artifact creatures in Magic's history. The M11 printing (2010-07-16, illustrated by Franz Vohwinkel) is a reprint — Scryfall's reprint field is true. As of 2026, Ornithopter has 29 total printings across 28 sets including Antiquities, Revised, Mirrodin, Magic 2010/2011/2015, Kaladesh Inventions (a premium foil printing), Dominaria Remastered, The Brothers' War Retro Artifacts, and a Secret Lair Drop [Scryfall: prints_search].",
+      "sources": ["Scryfall", "TCGPlayer Antiquities listing, via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Regardless of the century, plane, or species, developing artificers never fail to invent the ornithopter.\" The line is a meta-statement about the universality of the flying-machine concept — a direct nod to Leonardo da Vinci's real-world ornithopter designs and the idea that flight is an obvious engineering milestone any civilization will pursue. The word 'ornithopter' itself derives from Greek: ornis (bird) + pteron (wing) [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In MTG lore, thopters (the creature type Ornithopter belongs to as of the creature-type update) were among the earliest devices worked on by the brothers Urza and Mishra, derived from Thran-era technology salvaged by their mentor Tocasia. The Brothers' War narrative — the same story the 2022 Brothers' War set revisited — establishes ornithopters as ancient war machines. The M11 card type reads 'Artifact Creature — Thopter', a creature type retroactively assigned [MTG Wiki: Thopter, via WebSearch].",
+      "sources": ["MTG Wiki: Thopter page, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Ornithopter is a zero-mana 0/2 flyer, making it a premier combo and aggro enabler. In Modern, it is core to Affinity/Hardened Scales and Hammer Time strategies where its zero casting cost reduces affinity-payoff costs and enables Sigarda's Aid equipment chains. In Vintage and Legacy, it enables Turn 1 kills via Moxen + equipment. EDHREC rank 741 reflects significant Commander utility as a free artifact for cost-reduction synergies. Scryfall lists it as Pauper-legal and Modern-legal [Scryfall; MTGGoldfish: Budget Affinity, via WebSearch].",
+      "sources": ["Scryfall", "MTGGoldfish Budget Affinity article, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ornithopter", "set": "Antiquities", "note": "Original 1994 printing by Amy Weber — canonical first appearance"},
+    {"name": "Memnite", "set": "Scars of Mirrodin", "note": "Fellow zero-mana artifact creature; paired with Ornithopter in Affinity and Hammer Time lists"},
+    {"name": "Cranial Plating", "set": "Fifth Dawn", "note": "Key Affinity payoff that Ornithopter enables as a free artifact body"},
+    {"name": "Thopter Foundry", "set": "Alara Reborn", "note": "Creates Thopter tokens; shares creature type with Ornithopter and is part of Thopter tribal synergy chains"},
+    {"name": "Urza, Lord High Artificer", "set": "Modern Horizons", "note": "Urza is the in-universe inventor of ornithopter technology in MTG lore"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": {
+    "mana_cost_missing": false,
+    "color_magic_tags_absent": false,
+    "note": "mana_cost: '{0}' is present and correct. tags_filter contains 'colorless' — correct for a zero-cost colorless artifact. No color-magic tags expected or missing."
+  }
+}

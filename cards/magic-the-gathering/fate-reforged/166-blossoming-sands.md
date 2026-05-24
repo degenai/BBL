@@ -51,7 +51,7 @@ mood: peaceful
 time_of_day: day
 setting: other
 characters:
-  - refuges-cycle
+  - ktk-gain-lands
 tags:
   - card
   - vision-passed

@@ -1,15 +1,15 @@
 ---
 type: character
-name: Refuges (Khans-block common gain-land cycle)
+name: KTK Gain-Lands (Khans-block common gain-land cycle)
 aliases:
-  - refuges-cycle
-  - refuges
-  - khans-tarkir-refuges
+  - ktk-gain-lands
   - khans-gain-lands
+  - khans-block-gain-lands
+  - khans-tarkir-refuges
   - tarkir-gain-lands
-  - fate-reforged-refuges
   - tapland-refuges
   - khans-block-taplands
+  - refuges-cycle
 universe: "Magic: The Gathering / Khans of Tarkir block (KTK 2014-09-26; FRF 2015-01-23)"
 faction: ~
 species: cycle of ten common dual-land cards (one per two-color pair across all 10 two-color combinations) printed first in Khans of Tarkir and reprinted with new art in Fate Reforged
@@ -20,6 +20,7 @@ appears_on:
   - magic-the-gathering/fate-reforged/166-blossoming-sands
   - magic-the-gathering/fate-reforged/168-dismal-backwater
   - magic-the-gathering/fate-reforged/170-rugged-highlands
+  - magic-the-gathering/khans-of-tarkir/246-tranquil-cove
 related_hubs:
   - stewardship
 related_symbols: []
@@ -44,6 +45,7 @@ Card art and flavor text for the ten Khans-block refuges across both KTK and FRF
 - **Blossoming Sands** (FRF-166, G/W, Sam Burley art) — sun-drenched rolling hills with a natural stone arch and a small clifftop structure. The Tarkir-past version of the same Selesnya-coded location Burley also painted for KTK-231 and has continued to paint across 17 total printings of the card.
 - **Dismal Backwater** (FRF-168, U/B, Sam Burley art) — overgrown waterway under a near-impenetrable canopy of gnarled roots, with faint purple-green light filtering through. The Tarkir-past version of the same Dimir-coded location Burley also painted for KTK-232.
 - **Rugged Highlands** (FRF-170, R/G, Eytan Zana art) — alpine landscape with two massive rocky peaks, a river valley, and dark conifer forest under twilight. The Tarkir-past version of the same Gruul-coded location Zana also painted for KTK-240 and has continued to paint across 17 total printings.
+- **Tranquil Cove** (KTK-246, W/U, John Avon art) — panoramic coastal landscape painted from an elevated cliffside vantage, a long crescent of pale sand sweeping around a calm turquoise bay toward distant headlands under late-afternoon magic-hour light. The Tarkir-present (clan epoch) printing of the Azorius-coded coastal location; the cycle's FRF reprint of Tranquil Cove was the specific painting Scent of a Gamer's 2015 review singled out as the cycle's clearest before/after stewardship evidence.
 
 ## The design thesis
 
@@ -57,6 +59,7 @@ The refuges cycle's most BBL-relevant property is that its mechanical text and i
 - [[166-blossoming-sands]]
 - [[168-dismal-backwater]]
 - [[170-rugged-highlands]]
+- [[246-tranquil-cove]]
 
 ## Canonical sources
 
@@ -69,7 +72,7 @@ The refuges cycle's most BBL-relevant property is that its mechanical text and i
 
 ## Caveats
 
-- **Cycle members canonical at the KTK+FRF scope but not yet in BBL inventory.** Four of ten FRF members are in the corpus and pointered to this node (see `appears_on:`); six are Scryfall-confirmed but not yet acquired and will attach to this node when they land via a future Collectr CSV upload: **Jungle Hollow** (B/G), **Scoured Barrens** (W/B), **Swiftwater Cliffs** (U/R), **Thornwood Falls** (G/U, FRF-169 — the missing 5th FRF refuge), **Tranquil Cove** (W/U), **Wind-Scarred Crag** (R/W). The KTK printings of all ten are likewise canonical cycle members and attach here when acquired; for an in-corpus card that is the KTK printing of a refuge already in our pool, the existing FRF-side appears_on pointer is sufficient — the node is one cycle, not two.
+- **Cycle members canonical at the KTK+FRF scope but not yet in BBL inventory.** Five members are in the corpus and pointered to this node (see `appears_on:`); five are Scryfall-confirmed but not yet acquired and will attach to this node when they land via a future Collectr CSV upload: **Jungle Hollow** (B/G), **Scoured Barrens** (W/B), **Swiftwater Cliffs** (U/R), **Thornwood Falls** (G/U, FRF-169 — the missing 5th FRF refuge), **Wind-Scarred Crag** (R/W) — though the Core Set 2021 reprint of Wind-Scarred Crag (M21-259) is in the corpus and is a candidate for the same attach in a future pass. The KTK printings of all ten are likewise canonical cycle members and attach here when acquired (Tranquil Cove KTK-246 attached wave 180); for a card that is a non-Tarkir-block reprint of a refuge (e.g. **Tranquil Cove M21-258**, **Rugged Highlands M21-249**, **Blossoming Sands M21-244**), the attach is still cycle-valid because the cycle predicate is the shared rules text PLUS Khans-block origin — the M21 reprints are the same cycle members reprinted, not a different cycle.
 - **Modeled as a character-layer node, not a symbol or hub.** Like `dsk-unlucky-lands-cycle` (Duskmourn unlucky-lands), `fear-of-cycle` (Duskmourn phobia-Nightmares), and `endriders`, this is a collective conceptual entity hosted on the character layer per the precedent that the character layer accepts designer-coordinated cycles and collective named entities. A future `_cycles/` layer could re-home this entry alongside its siblings; for now, single layer.
 - **The `refuges` name is fan-canonical, not Wizards-canonical.** Wizards' own articles for the cycle (Stoddard 2014-12-24; cycle articles in subsequent set reviews) refer to the cards as "the common dual-land cycle from Khans of Tarkir," "the gain lands," or "the Khans dual lands." MTG Wiki and the player community settled on "refuges" by analogy to other named land cycles. The aliases list captures both vocabularies.
 - **The stewardship-hub link is from external critical reception, not BBL-side reading.** The `related_hubs: [stewardship]` pointer is grounded specifically in the Scent of a Gamer 2015 review's "clans were more destructive stewards than the dragons" reading. The hub link is canon-external-reception, not Wizards-stated thesis and not BBL squinting. If a future bbl-bundler agent leans on this hub edge for a Discrete Lair, the source of the stewardship reading must be cited as the critical-reception layer, not as Wizards canon.

@@ -1,0 +1,51 @@
+{
+  "card_name": "Witness of the Ages",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "228",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Khans of Tarkir (KTK) released 2014-09-26 as an expansion set centered on the plane of Tarkir — a world ruled by five warring clans after its dragons went extinct. Morph was the block's signature shared mechanic, chosen by lead designer Mark Rosewater because its hidden-information gameplay mirrored the block's themes of mystery and uncertain allegiance [Wizards: 'Khans of Tarkir Design Handoff, Part 1'].",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/making-magic/khans-of-tarkir-design-handoff-part-1"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text reads: \"It strode through the clash of dragons, the fall of Ugin, and the rise of the khans.\" — no speaker attributed. The line locates the Witness as a pre-lapsarian artifact that predates the dragons' extinction: the clash of dragons refers to the ancient war between dragonlords and khans; the fall of Ugin refers to the Spirit Dragon's defeat by Nicol Bolas roughly 1,280 years before the set's present; the rise of the khans marks the power vacuum that followed. The golem is older than Tarkir's memory of itself [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Costs 6 generic mana for a 4/4 with Morph 5, making it one of the more expensive morph creatures in KTK. It sits at EDHREC rank 28,724 — effectively unplayed in Commander — which reflects that a vanilla 4/4 for 6 competes poorly with cheaper options, and the morph cost of 5 is only marginally easier to cast than the face-up cost [Scryfall EDHREC rank field].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Izzy (full legal name Izzy Medrano), a prolific MTG artist known for large, imposing creature art. Witness of the Ages is the sole printing of this card across any MTG set — no reprints exist as of 2026 [Scryfall prints_search_uri: single result].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ugin, the Spirit Dragon", "set": "Fate Reforged", "note": "The Spirit Dragon whose 'fall' the flavor text references; central to the Tarkir block narrative"},
+    {"name": "Sarkhan Vol", "set": "Khans of Tarkir", "note": "Planeswalker protagonist who witnessed the tomb and traveled back to save Ugin"},
+    {"name": "Abominable Treefolk", "set": "Modern Horizons", "note": "Another snowbound golem-adjacent creature; thematic parallel only, no mechanical link"},
+    {"name": "Temur War Shaman", "set": "Fate Reforged", "note": "Another morph creature from the Tarkir block for comparison of morph cost efficiency"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "cycle_notes": {
+    "relevant": false,
+    "note": "Not part of a named cycle. Solo uncommon golem in KTK."
+  },
+  "flags": {
+    "mana_cost_missing": false,
+    "color_magic_tags_absent": false,
+    "note": "mana_cost: '{6}' is present. No color magic expected (colorless artifact creature — tags_filter contains 'colorless', correct)."
+  }
+}

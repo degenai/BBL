@@ -76,3 +76,16 @@ A pale, ghostly dragon — luminous and translucent, wings spread wide — rises
 **Iconography:** tomb, dragon-spirit, pilgrim
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** — Ugin the Spirit Dragon was slain on Tarkir by Nicol Bolas roughly 1,280 years before the events of Khans of Tarkir. His death ended the elemental storms that produced Tarkir's dragons, causing their extinction. Sarkhan Vol was guided to Ugin's tomb by a psychic voice, then traveled back in time (in Fate Reforged) to prevent the death. This card depicts the literal burial site `[Wizards: "The Story of Tarkir Block"; "A Tarkir of Dragons"]`
+- **Flavor text** — "The voice calls me here, yet I see only bones. Is this more dragon trickery?" — Sarkhan Vol. The quote captures Sarkhan at the moment of discovery: guided by Ugin's call across centuries, he arrives expecting a living dragon and finds only a grave. His accusation of "dragon trickery" reflects his fractured mental state during KTK's narrative `[Scryfall]`
+- **Mechanical reputation** — EDHREC rank 1,675 reflects moderate Commander adoption in a specific niche: colorless-creature-heavy builds (Eldrazi, artifact golem tribal, Ugin/Kozilek commanders). The activated ability gains 1 life per colorless creature controlled, which scales in the right shell. The basic tap produces {C} mana at no added cost `[Scryfall; EDHREC: Tomb of the Spirit Dragon page]`
+- **Design** — Illustrated by Sam Burley (same artist as Sandsteppe Citadel in this batch). Sole printing is KTK with no reprints as of 2026 `[Scryfall]`
+
+### Related cards
+- Ugin, the Spirit Dragon (Fate Reforged) — the dragon whose tomb this card depicts; oracle text directly rewards colorless Ugin strategies
+- Sarkhan Vol (Khans of Tarkir) — flavor text speaker; planeswalker protagonist of the Tarkir block
+- Sanctum of Ugin (Battle for Zendikar) — companion utility land frequently paired with this card in colorless Commander builds
+- Ugin's Nexus (Khans of Tarkir) — another KTK card directly referencing Ugin's presence on Tarkir
+

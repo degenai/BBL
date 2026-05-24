@@ -1,0 +1,79 @@
+{
+  "edge_id": "tranquil-cove-ktk246--refuges-cycle-attach",
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/khans-of-tarkir/246-tranquil-cove.md",
+      "name": "Tranquil Cove (Khans of Tarkir, KTK-246)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/refuges-cycle.md",
+      "name": "Refuges (Khans-block common gain-land cycle)"
+    }
+  ],
+  "description": "Attach, not new cycle. The refuges-cycle node was authored anticipating exactly this — its caveats list explicitly named Tranquil Cove (W/U) as a future-attach member, and the KTK printing IS the original cycle member (the FRF printing was the reprint 1,280 years earlier in-fiction). Oracle text matches the cycle predicate verbatim (ETB-tapped + gain-1-life + W-or-U). John Avon painted both KTK-246 and M21-258. This is optimization-over-addition — the structure already existed and was waiting; refused the impulse to commission anything new. The corpus M21-258 Tranquil Cove (also in pool) is the obvious next-pass attach to the same node, plus M21-244 Blossoming Sands, M21-249 Rugged Highlands, M21-259 Wind-Scarred Crag — four M21 reprints of cycle members staged. Worst impulse I avoided: confabulating a separate 'KTK-refuges' sibling node parallel to refuges-cycle. The node is one cycle across all printings, exactly as the caveats already said. Refused to over-build.",
+  "citations": [
+    "[Scryfall: KTK-246 oracle_text 'This land enters tapped. When this land enters, you gain 1 life. {T}: Add {W} or {U}.' matches refuges-cycle predicate verbatim]",
+    "[MTG Wiki: Refuge cycle page — ten-member roster including Tranquil Cove (W/U)]",
+    "[Wizards.com — Sam Stoddard, 'A Fetching Look at Fate Reforged' (2014-12-24) — cycle's full FRF reprint as deliberate mana-fixing]",
+    "[refuges-cycle.md caveats section — explicit future-attach list naming Tranquil Cove (W/U)]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/khans-of-tarkir/246-tranquil-cove.md",
+    "cards/_characters/refuges-cycle.md"
+  ],
+  "edges_added": [
+    {
+      "from": "cards/magic-the-gathering/khans-of-tarkir/246-tranquil-cove.md",
+      "to": "cards/_characters/refuges-cycle.md",
+      "via": "characters: [refuges-cycle] frontmatter + appears_on: + body Cards-in-our-corpus prose + Appears-on wikilink list"
+    }
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "mood_note": "Stack-shape attach. No 1:1 here, the cycle node mediates. Satisfaction is in the discipline — node authored, attach used, no over-building. The blueballing is from anticipating four more M21 attaches that are obvious next-pass but not THIS pass.",
+  "next_pass_suggestions": [
+    {
+      "type": "attach",
+      "target": "cards/magic-the-gathering/core-set-2021/258-tranquil-cove.md",
+      "to": "cards/_characters/refuges-cycle.md",
+      "reason": "M21 reprint of the same cycle member; John Avon, same oracle text, same color-pair; refuges-cycle caveat now explicitly permits non-Tarkir-block reprint attaches"
+    },
+    {
+      "type": "attach",
+      "target": "cards/magic-the-gathering/core-set-2021/249-rugged-highlands.md",
+      "to": "cards/_characters/refuges-cycle.md",
+      "reason": "M21 reprint of cycle member Rugged Highlands; same predicate match"
+    },
+    {
+      "type": "attach",
+      "target": "cards/magic-the-gathering/core-set-2021/244-blossoming-sands.md",
+      "to": "cards/_characters/refuges-cycle.md",
+      "reason": "M21 reprint of cycle member Blossoming Sands; same predicate match"
+    },
+    {
+      "type": "attach",
+      "target": "cards/magic-the-gathering/core-set-2021/259-wind-scarred-crag.md",
+      "to": "cards/_characters/refuges-cycle.md",
+      "reason": "M21 reprint of cycle member Wind-Scarred Crag (R/W); same predicate match — this would be the corpus's first attach for the Wind-Scarred Crag cycle slot (no FRF/KTK Wind-Scarred in corpus yet)"
+    },
+    {
+      "type": "triage-flag",
+      "target": "Sandsteppe Citadel KTK-241 — wedge tri-lands cohort candidate",
+      "reason": "Only 1 of 5 KTK wedge tri-lands in corpus (Sandsteppe Citadel alone). Below the 3-of-5 trivia-passed threshold for cohort-node commission. Flag to reports/janitor_triage.md as future-node candidate with trigger 'when 3+ KTK wedge tri-lands are in corpus and trivia-passed'. Sibling shape would be ktk-clan-charm-cycle + ktk-clan-banner-cycle."
+    },
+    {
+      "type": "triage-flag",
+      "target": "Tomb of the Spirit Dragon KTK-245 — Ugin's tomb, colorless",
+      "reason": "Singleton land, no cycle. The Sarkhan Vol flavor text quote and the Ugin spirit-dragon imagery tie it to the Sarkhan/Ugin/Bolas axis already partially mapped in the nicol-bolas character node. Future Edgelord pass could draw a card→character edge once trivia is in and the Ugin character node exists (currently it does not; nicol-bolas is the adjacent node). Not this pass."
+    }
+  ],
+  "discipline_notes": {
+    "optimization_over_addition": "Used existing refuges-cycle node rather than commissioning a new ktk-refuges or tranquil-cove-printings node. The node's caveats had already anticipated this attach.",
+    "potion_rule_5_check": "Wikilinked [[dsk-unlucky-lands-cycle]] (real-thematic sibling cycle) and [[stewardship]] (real-thematic hub) in node body — both retained from prior author. New attach prose uses backtick-free MTG-canonical naming. No squinting; the cycle membership is Wizards-canonical via shared rules text and color-pair allocation.",
+    "single_invocation_rule": "One attach this pass. Four M21 reprints and two triage flags staged for next pass(es)."
+  }
+}

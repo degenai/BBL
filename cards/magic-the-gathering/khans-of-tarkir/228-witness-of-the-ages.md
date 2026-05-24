@@ -77,3 +77,15 @@ A massive humanoid stone construct stands amid a frozen mountain pass, its body 
 **Iconography:** runes, monolith
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** — Khans of Tarkir (KTK, released 2014-09-26) is an expansion set on the plane of Tarkir, a world of five warring clans after its dragons went extinct. Morph was the block's signature shared mechanic, chosen by lead designer Mark Rosewater because its hidden-information gameplay mirrored the block's themes of mystery and uncertain allegiance `[Wizards: Khans of Tarkir Design Handoff, Part 1]`
+- **Flavor text** — "It strode through the clash of dragons, the fall of Ugin, and the rise of the khans." The line anchors the Witness as a pre-lapsarian artifact older than Tarkir's memory of itself: the clash of dragons refers to the ancient war between dragonlords and khans; the fall of Ugin refers to the Spirit Dragon's defeat by Nicol Bolas roughly 1,280 years before the set's present; the rise of the khans marks the power vacuum that followed `[Scryfall]`
+- **Mechanical reputation** — Costs 6 generic mana for a 4/4 with Morph 5, placing it among the more expensive morph creatures in KTK. EDHREC rank 28,724 indicates effectively zero competitive Commander inclusion; a vanilla 4/4 for 6 competes poorly, and the morph cost of 5 offers only marginal upside over the face-up cost `[Scryfall]`
+- **Design** — Illustrated by Izzy (Izzy Medrano). This KTK printing is the only printing of Witness of the Ages across all MTG sets as of 2026 — no reprints `[Scryfall prints search: single result]`
+
+### Related cards
+- Ugin, the Spirit Dragon (Fate Reforged) — the Spirit Dragon whose "fall" the flavor text references; central to the Tarkir block narrative
+- Sarkhan Vol (Khans of Tarkir) — planeswalker protagonist who witnessed Ugin's tomb and traveled back through time to save him
+- Temur War Shaman (Fate Reforged) — another morph creature from the Tarkir block, useful comparison for morph cost efficiency
+

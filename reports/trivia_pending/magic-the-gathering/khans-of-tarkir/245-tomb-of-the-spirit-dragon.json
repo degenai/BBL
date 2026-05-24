@@ -1,0 +1,47 @@
+{
+  "card_name": "Tomb of the Spirit Dragon",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "245",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ugin the Spirit Dragon was slain on Tarkir by Nicol Bolas roughly 1,280 years before the events of Khans of Tarkir; his death ended the elemental storms that produced Tarkir's dragons, leading to their extinction. Sarkhan Vol, the planeswalker protagonist of the Tarkir block, was guided to Ugin's tomb by a vision, then traveled back in time (in Fate Reforged) to prevent Ugin's death. The Tomb of the Spirit Dragon card depicts the literal site where Ugin's bones lay [Wizards: 'The Story of Tarkir Block'; 'A Tarkir of Dragons'].",
+      "sources": ["magic.wizards.com/en/news/magic-story/story-tarkir-block-2015-04-29", "magic.wizards.com/en/news/magic-story/tarkir-dragons-2015-02-25"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The voice calls me here, yet I see only bones. Is this more dragon trickery?\" — Sarkhan Vol. The quote captures Sarkhan at the moment of discovery: guided by Ugin's psychic call across centuries, he arrives expecting a living dragon and finds only a tomb. His accusation of 'dragon trickery' reflects his fractured mental state during KTK's narrative [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 1,675 indicates moderate Commander adoption. The card's niche is colorless-creature-heavy builds — its activated ability reads '{2}, {T}: You gain 1 life for each colorless creature you control', which scales with Eldrazi, artifact creatures, and golem tribal strategies. It also produces colorless ({C}) mana on a plain tap, making it a zero-cost slot in colorless commander decks running Ugin, Kozilek, or Emrakul as generals [Scryfall; EDHREC: Tomb of the Spirit Dragon page].",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Sam Burley (same artist as Sandsteppe Citadel in this set). The card has no reprints — sole printing is KTK. Scryfall confirms this is Burley's second KTK land entry in this wave, both in the large-landscape style he is known for [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ugin, the Spirit Dragon", "set": "Fate Reforged", "note": "The dragon whose tomb the card depicts; the Tomb's oracle text directly supports colorless Ugin strategies"},
+    {"name": "Sarkhan Vol", "set": "Khans of Tarkir", "note": "Flavor text speaker; planeswalker protagonist of the Tarkir block"},
+    {"name": "Sanctum of Ugin", "set": "Battle for Zendikar", "note": "Companion utility land for colorless-creature commander builds; frequently paired with Tomb of the Spirit Dragon"},
+    {"name": "Ugin's Nexus", "set": "Khans of Tarkir", "note": "Another KTK card directly referencing Ugin's presence on Tarkir"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": {
+    "mana_cost_missing": false,
+    "color_magic_tags_absent": false,
+    "note": "Land — empty mana_cost correct. tags_filter contains 'colorless' and 'no-color-magic' which is correct for a colorless-producing land."
+  }
+}

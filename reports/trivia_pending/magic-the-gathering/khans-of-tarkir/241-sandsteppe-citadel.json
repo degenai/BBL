@@ -1,0 +1,54 @@
+{
+  "card_name": "Sandsteppe Citadel",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "241",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Sandsteppe Citadel is one of five 'wedge tri-lands' in Khans of Tarkir (KTK, 2014-09-26), one per clan: Frontier Bivouac (Temur, GUR), Mystic Monastery (Jeskai, URW), Nomad Outpost (Mardu, RWB), Opulent Palace (Sultai, BGU), and Sandsteppe Citadel (Abzan, WBG). Each enters tapped and taps for any of its clan's three colors, with no life-gain trigger — distinguishing this cycle from the 10 dual gain-lands also in the set [Scryfall: KTK land set search].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Abzan watermark on Sandsteppe Citadel is confirmed in Scryfall's watermark field. The Abzan Houses are the endurance-focused clan of KTK, organized around multi-generational families; their colors (white-black-green) reflect the combination of life, death, and perseverance. Flavor text reads: \"That which endures, survives.\" — no speaker, but wholly Abzan in philosophy [Scryfall].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 496 and an estimated 225,000+ deck inclusions make Sandsteppe Citadel a genuine Commander staple for Abzan (white-black-green) builds. At uncommon it is the budget three-color land of choice for WBG commanders when expensive options like Savannah or Bayou are out of reach [EDHREC: Sandsteppe Citadel card page, via WebSearch].",
+      "sources": ["EDHREC", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Sam Burley. The card is the original printing — no separate KTK reprint variant exists. The art depicts the Abzan stronghold on the Sandsteppe, consistent with Central Asian steppe fortress aesthetics that the Abzan clan's world-building draws from [Scryfall].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Frontier Bivouac", "set": "Khans of Tarkir", "note": "Cycle sibling — Temur wedge tri-land (GUR)"},
+    {"name": "Mystic Monastery", "set": "Khans of Tarkir", "note": "Cycle sibling — Jeskai wedge tri-land (URW)"},
+    {"name": "Nomad Outpost", "set": "Khans of Tarkir", "note": "Cycle sibling — Mardu wedge tri-land (RWB)"},
+    {"name": "Opulent Palace", "set": "Khans of Tarkir", "note": "Cycle sibling — Sultai wedge tri-land (BGU)"},
+    {"name": "Abzan Banner", "set": "Khans of Tarkir", "note": "Abzan-watermarked mana artifact; thematic companion to the Citadel"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "cycle_notes": {
+    "relevant": true,
+    "cycle_name": "KTK wedge tri-lands",
+    "members": ["Sandsteppe Citadel", "Frontier Bivouac", "Mystic Monastery", "Nomad Outpost", "Opulent Palace"],
+    "note": "Confirmed: Sandsteppe Citadel IS a member of the KTK wedge tri-land cycle (one per clan). No life gain — oracle text is 'enters tapped; {T}: Add {W}, {B}, or {G}'. This cycle does NOT overlap with the refuges-cycle cohort node (which anchors on FRF reprints of the KTK dual gain-lands, not tri-lands)."
+  },
+  "flags": {
+    "mana_cost_missing": false,
+    "color_magic_tags_absent": true,
+    "note": "Land cards have no mana_cost — empty mana_cost field is correct for a land. However, tags_filter contains 'tri-color-white-black-green' and 'abzan' but no 'white-magic', 'black-magic', 'green-magic' tags. Per bbl-color-magic-is-filter, color-magic tags belong in tags_filter not tags_hub. Abzan-facing color-magic tags are absent from tags_filter — this is worth flagging but may be intentional given the land produces three colors."
+  }
+}

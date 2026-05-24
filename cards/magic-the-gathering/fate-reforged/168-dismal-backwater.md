@@ -51,7 +51,7 @@ mood: grim
 time_of_day: night
 setting: forest
 characters:
-  - refuges-cycle
+  - ktk-gain-lands
 tags:
   - card
   - vision-passed
