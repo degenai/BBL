@@ -1,0 +1,41 @@
+{
+  "card_name": "Appendage Amalgam",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "83",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Released September 27, 2024 in Duskmourn: House of Horror (DSK), a top-down horror set set entirely within a single colossal haunted mansion ruled by the demonic Valgavoth. Set mechanical identity centers on enchantments, with Horror creatures often carrying the Enchantment supertype.",
+      "sources": ["Scryfall", "magic.wizards.com: Top of the Duskmourning Part 1"]
+    },
+    {
+      "category": "design",
+      "text": "Typed Enchantment Creature — Horror. Mark Rosewater noted enchantment creatures were the low-hanging fruit to raise enchantment as-fan in DSK, particularly creatures with ephemeral, environment-influencing qualities. Art by Bartek Fedyczak, Polish illustrator with 38+ MTG credits across Duskmourn, Warhammer 40K, and Star Wars.",
+      "sources": ["magic.wizards.com: Top of the Duskmourning Part 1", "Gatherer: Bartek Fedyczak artist page"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It moves with the speed of a spider but none of its skittering grace, scuttling to the sound of mucus-covered fingers.\" No named speaker — omniscient dread narration consistent with DSK's horror-film pastiche voice.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Flash plus surveil 1 on attack. EDHREC rank 13,660 — modest Commander uptake, primarily in graveyard and Enchantress shells wanting incidental surveil.",
+      "sources": ["Scryfall: edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cackling Slasher", "set": "DSK", "note": "Same set, same black Horror creature archetype"},
+    {"name": "Fear of Missing Out", "set": "DSK", "note": "Cited by Rosewater as example of DSK enchantment creature design ethos"},
+    {"name": "Valgavoth, Harrower of Souls", "set": "DSC", "note": "The demonic entity whose Harrowings birth new horrors like this amalgam"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

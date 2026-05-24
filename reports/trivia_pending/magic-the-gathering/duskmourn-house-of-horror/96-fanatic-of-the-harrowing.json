@@ -1,0 +1,41 @@
+{
+  "card_name": "Fanatic of the Harrowing",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "96",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Released September 27, 2024 in Duskmourn: House of Horror (DSK). The Harrowing refers to lore-specific surges of Valgavoth's power following his molting cycle — periods when his demonic energy peaks, new horrors are born, and cultists believe they must suffer to join him.",
+      "sources": ["WebSearch: Valgavoth lore MTG Wiki via search snippet", "Scryfall: flavor_text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Valgavoth wants our pain, our terror! We cannot join him unless we suffer!\" The speaker is an unnamed fanatic — Human Cleric per type line — whose cult doctrine names Valgavoth directly. The oracle text mechanically enacts this: symmetric discard (suffering) offset by draw for the fanatic (communion).",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Typed Creature — Human Cleric. The ETB loot effect (symmetric discard; draw if you discarded) gives black a rare form of card-neutral looting on a body. Art by Fajareka Setiawan, Indonesian freelance illustrator with 121+ MTG credits spanning Innistrad: Midnight Hunt, Duskmourn, and many other recent sets.",
+      "sources": ["Scryfall", "WebSearch: Fajareka Setiawan artist"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 14,240 — modest Commander uptake. Symmetric discard is a liability in multiplayer but the self-replacing draw clause offsets card cost; sees play in reanimator and looting-matters Commander builds where filling the graveyard is the goal.",
+      "sources": ["Scryfall: edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Valgavoth, Harrower of Souls", "set": "DSC", "note": "The demon explicitly named in the flavor text; object of the fanatic's worship"},
+    {"name": "Valgavoth, Terror Eater", "set": "DSK", "note": "Main-set printing of Valgavoth, the entity whose Harrowings define the set's lore cycles"},
+    {"name": "Fanatical Devotion", "set": "Urza's Saga", "note": "Earlier black fanatic creature with sacrifice-as-devotion mechanics; thematic predecessor archetype"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

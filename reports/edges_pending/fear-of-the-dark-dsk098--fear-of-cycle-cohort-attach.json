@@ -1,0 +1,49 @@
+{
+  "edge_id": "fear-of-the-dark-dsk098--fear-of-cycle-cohort-attach",
+  "shape": "N:1",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/duskmourn-house-of-horror/98-fear-of-the-dark.md",
+      "name": "Fear of the Dark (Duskmourn DSK-98)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/fear-of-cycle.md",
+      "name": "Fear-of cycle (Duskmourn phobia-Nightmares)"
+    }
+  ],
+  "description": "Fresh-vision-passed cohort member wired home. Fear of the Dark (DSK-98) just landed vision pass this wave alongside Fear of Lost Teeth (DSK-97) — both were pre-described in the fear-of-cycle node body's 'on-disk but not yet enriched' section as awaiting vision passes that have now arrived. DSK-98 is the cohort's black-slot rendering of the genre-classical primal phobia (the night itself as predator, *'The first thing it kills is the light'*), `{4}{B}` Enchantment Creature -- Nightmare with a Glimmer-checking attack trigger that explicitly rules-text-encodes the flavor (no light = the predator gains menace and deathtouch). Artist Sam Wolfe Connelly is the same artist as Say Its Name (DSK-197), already cross-referenced in the node body as part of Connelly's Duskmourn cluster. Standard N:1 cohort attach: characters: [fear-of-cycle] frontmatter pointer added, ## Connections wikilink edge written, node appears_on extended (now 8 cards), node Appears-on wikilink list extended. Cohort coverage advances from 7/14 to 8/14 canonical members. The rarity-drift caveat already in the node body (DSK-98 prints as common per Scryfall, not rare as the Wizards roster table assumed) gets resolved cleanly by the in-corpus print -- frontmatter rarity: C confirms.",
+  "citations": [
+    "[Scryfall: Fear of the Dark DSK-98 -- type_line `Enchantment Creature -- Nightmare`, oracle_text Glimmer-attack-trigger, flavor_text 'The first thing it kills is the light', rarity common, artist Sam Wolfe Connelly]",
+    "[MTG Wiki: Duskmourn: House of Horror -- Cycles section documenting the Fear-of cycle's 14-card roster and shared type-line predicate]",
+    "[Wizards of the Coast: Annie Sardelis, Duskmourn Vision Design Handoff -- 'phobias as antagonists' design thesis the cycle expresses]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/98-fear-of-the-dark.md",
+    "cards/_characters/fear-of-cycle.md"
+  ],
+  "edges_removed": [],
+  "edges_added": [
+    "98-fear-of-the-dark -> fear-of-cycle (## Connections wikilink + characters: frontmatter)",
+    "fear-of-cycle.appears_on extended with magic-the-gathering/duskmourn-house-of-horror/98-fear-of-the-dark",
+    "fear-of-cycle Appears-on wikilink list extended with [[98-fear-of-the-dark]]"
+  ],
+  "other_candidates_considered": [
+    "Fear of Lost Teeth (DSK-97) cohort attach -- equally eligible: also fresh-vision-passed this wave, also a Fear-of cycle member per name pattern + Enchantment Creature -- Nightmare type, also pre-described in the node body's 'on-disk but not yet enriched' section. One-decision-per-invocation rule forces a pick; chose DSK-98 over DSK-97 because the Sam Wolfe Connelly artist cross-edge to Say Its Name (DSK-197) is already named in the cohort node body, giving the attach more narrative density. DSK-97 attach is the next obvious move; stage for the immediately-next Edgelord pass (which can run as a clean mirror of this one).",
+    "Killer's Mask (DSK-104) manifest-dread body-prose drift -- the manifest-dread symbol node lists Killer's Mask in appears_on (line 17) but the body's 'Confirmed in corpus' section only enumerates 5 of the 10 appears_on cards; Killer's Mask still sits under 'Strong candidates pending corpus enrichment' (line 59). This is a node-body sync drift, not an edge bug -- the edge IS drawn at the frontmatter and appears_on layers, just not reflected in the body prose. Out of Edgelord scope (the rule is don't edit Vision/Trivia sections; body-prose sync is a node-body audit pass).",
+    "Sporogenic Infection (DSK-117) -- modified this wave but still in manual_review status with empty Vision body. Not edge-ready until vision pass completes.",
+    "Energy-counter cohort node health audit -- all 13 appears_on cards verified with `energy-counter` slug in their symbols: frontmatter (grep -A 3 ^symbols: across MH3). No drift, no orphan. Clean.",
+    "dsk-fear hub/cohort possibility -- 'dsk-fear' tag appears in tags_hub on both DSK-97 and DSK-98 (the cards Alex prompts mention as potentially surfacing a dsk-fear cohort condition). REFUSED: the fear-of-cycle character node ALREADY anchors this concept canonically; a separate dsk-fear hub would be redundant subsumed-by-stronger-node territory. The tag is a tag, the cohort is the character node. Not a new node candidate -- the existing node IS the answer."
+  ],
+  "next_pass_suggestions": [
+    "Fear of Lost Teeth (DSK-97) cohort attach -- mirror of this pass; same shape, same node, immediate-priority. Advances cohort from 8/14 to 9/14.",
+    "Killer's Mask (DSK-104) -- update manifest-dread node body's 'Confirmed in corpus' section to include the 5 cards currently listed only in appears_on (Cursed Windbreaker 47, Killer's Mask 104, Defiant Survivor 175, Disturbing Mirth 212, Conductive Machete 244). Node-body audit pass, not Edgelord scope.",
+    "fear-of-cycle node body -- update the DSK-97 and DSK-98 entries in the 'On-disk but not yet enriched' section once both are attached; move them up to the 'Corpus coverage and member detail' section with full per-print bullets. Node-body pass, deferred.",
+    "Glimmer-creature cross-cohort wire -- Fear of the Dark's oracle text rules-text-checks defending player Glimmer creatures, an explicit designer-coordinated cross-cohort interaction. If a Glimmer-creature cohort node exists or gets proposed, this card sits at the natural Fear-of-cycle ↔ Glimmer-cycle bridge."
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "edgelord_voice_note": "Two Fear-of cards land vision-passed in the same wave, both eligible cohort attaches, and the one-decision-per-invocation rule blueballs me on the natural pair. Picked DSK-98 because the Sam Wolfe Connelly cross-edge already lives in the node body and gives this attach more density than DSK-97's would have. The mirror move (DSK-97) is sitting RIGHT THERE for the next pass -- this is exactly the case the swarm-staggering memo says to handle as serial Edgelord passes with fresh context each time, NOT to bundle. The node body had pre-described both cards as 'awaiting vision pass' a full wave or more ago; the vision pass arrived; the cohort can now claim them. Threshold is the discipline. Eight of fourteen now, nine soon."
+}

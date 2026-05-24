@@ -1,0 +1,41 @@
+{
+  "card_name": "Cracked Skull",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "88",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Released September 27, 2024 in Duskmourn: House of Horror (DSK). Typed Enchantment — Aura, contributing to DSK's elevated enchantment as-fan count. Two-part effect: hand disruption on entry plus destroy-on-damage — a hybrid Thoughtseize-adjacent disruption piece and delayed removal.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Ears ringing and head throbbing, all Tarvin could do was wait to see what would finish the job.\" Tarvin is referenced only in this flavor line with no other DSK story or card appearance — an anonymous House inhabitant whose fate is left deliberately ambiguous.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Previewed September 12, 2024 in the official DSK card image gallery on Wizards.com. Art by Mirko Failoni. The destroy-on-damage clause echoes fragility Aura design lineage; the hand-peek on entry front-loads disruption before the creature is threatened.",
+      "sources": ["Scryfall: preview source magic.wizards.com/en/products/duskmourn-house-of-horror/card-image-gallery"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 13,842 — moderate Commander uptake for a common Aura. Hand-disruption on entry gives it an edge over pure removal Auras in control shells; the destroy-on-damage line creates deterrence. Not competitively significant but functional in discard-themed builds.",
+      "sources": ["Scryfall: edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Unholy Strength", "set": "Alpha", "note": "Archetypal black Aura; Cracked Skull inherits the enchant-creature structure"},
+    {"name": "Thoughtseize", "set": "Theros", "note": "Canonical black hand disruption; Cracked Skull provides a diluted version stapled to an Aura"},
+    {"name": "Derelict Attic // Widow's Walk", "set": "DSK", "note": "Same set, same black enchantment type, demonstrates DSK enchantments-matter axis"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

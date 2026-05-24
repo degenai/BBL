@@ -72,3 +72,14 @@ A hunched creature with a stark white skull-like face dominates the composition,
 **Creatures:** skull-faced creature, spine-limbed monster
 **Genre cues:** horror, dark fantasy
 
+## Trivia
+
+- **Set context** — Cackling Slasher was released September 27, 2024 in *Duskmourn: House of Horror* (DSK). DSK is explicitly inspired by 1970s–80s slasher cinema — *The Texas Chain Saw Massacre*, *Halloween*, *A Nightmare on Elm Street* — and this card's name and flavor directly invoke that archetype: the laughing, unstoppable killer who feeds on death `[magic.wizards.com: "First Look at Duskmourn: House of Horror"]` `[Scryfall]`.
+- **Design** — Typed as **Creature — Human Assassin**, notably *not* an Enchantment Creature despite DSK's enchantment-heavy set identity — it is one of the set's more straightforwardly material slasher villains. The enter-with-a-counter-if-a-creature-died-this-turn trigger rewards playing this into a battlefield already bloodied, synergizing with the set's graveyard sub-theme. Art by Johann Bodin, whose MTG portfolio spans dark-fantasy and horror subjects `[Scryfall]`.
+- **Flavor text** — *"Every death was funnier than the last, until his howling laughter drowned out his victims' screams."* `[Scryfall]` No named speaker — the line is epigraphic dread narration; the third-person "his" confirms the depicted figure is the subject of the text, escalating past a single kill to an accumulated frenzy.
+- **Mechanical notes** — A 3/3 deathtouch for four mana that can enter as a 4/4 in a death-matters deck. EDHREC rank 19,551 places it near the bottom of Commander adoption in DSK — the stat line competes with stronger deathtouch options — but sees play as a budget slot in Wilhelt and other Zombie/sacrifice shells where creatures die every turn `[Scryfall: edhrec_rank]`.
+
+### Related cards
+- Appendage Amalgam (DSK, 83) — same black creature archetype, same set, complementary horror flavor
+- Wilhelt, the Rotcleaver (Innistrad: Midnight Hunt) — popular Commander that triggers the "creature died this turn" condition on every end step
+- Deathbringer Regent (Dragons of Tarkir) — earlier black deathtouch creature with death-count synergy, for comparison

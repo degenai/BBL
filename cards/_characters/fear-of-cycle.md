@@ -16,6 +16,7 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/9-fear-of-abduction
   - magic-the-gathering/duskmourn-house-of-horror/55-fear-of-failed-tests
   - magic-the-gathering/duskmourn-house-of-horror/56-fear-of-falling
+  - magic-the-gathering/duskmourn-house-of-horror/98-fear-of-the-dark
   - magic-the-gathering/duskmourn-house-of-horror/134-fear-of-being-hunted
   - magic-the-gathering/duskmourn-house-of-horror/135-fear-of-burning-alive
   - magic-the-gathering/duskmourn-house-of-horror/177-fear-of-exposure
@@ -104,6 +105,7 @@ The cycle interacts mechanically and thematically with adjacent Duskmourn design
 - [[9-fear-of-abduction]]
 - [[55-fear-of-failed-tests]]
 - [[56-fear-of-falling]]
+- [[98-fear-of-the-dark]]
 - [[134-fear-of-being-hunted]]
 - [[135-fear-of-burning-alive]]
 - [[177-fear-of-exposure]]

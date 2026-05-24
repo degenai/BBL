@@ -1,0 +1,37 @@
+Wave 185: 5 vision + 5 trivia + Edgelord fear-of-cycle attach
+
+Vision (3 DSK + 2 MH3):
+- 97 Fear of Lost Teeth, 98 Fear of the Dark, 99 Final Vengeance
+  (all three picked up dsk-fear hub tag — cohort condition surfaced)
+- 108 Scurrilous Sentry — suspected_ip: Queen Marchesa (low conf, sentry
+  is her agent per rose medallion on cape, not the queen herself)
+- 111 Wither and Bloom — suspected_ip: Dina (low conf, flavor text names
+  her but no definitive visual identifier)
+- vision_uncertainty: 98 creature-features-unresolved, 111 secondary-
+  figures-unresolved
+
+Trivia (5 DSK, fresh from Wave 184 vision):
+- 83 Appendage Amalgam (Rosewater's "ephemeral creature with environmental
+  influence" archetype rationale documented)
+- 85 Cackling Slasher (Human Assassin type, materially-present slasher
+  rather than ephemeral horror)
+- 88 Cracked Skull (Tarvin from flavor text is anonymous NPC, fate
+  deliberately left open)
+- 93 Derelict Attic // Widow's Walk (Room mechanic origin: was full
+  Mansion board-game deck with Meeple token; Simonetti has film credits
+  on Valerian, Aladdin, Maleficent 2, Aquaman 2)
+- 96 Fanatic of the Harrowing (Harrowing grounded as Valgavoth's post-molt
+  new-horror birth surge; flavor text's "we cannot join him unless we
+  suffer" mechanically literalized in symmetric-discard oracle)
+
+Edgelord — one decision:
+- Fear of the Dark (DSK-98) attached to fear-of-cycle cohort (8/14 of
+  Wizards-documented 14-card Enchantment Creature — Nightmare cycle)
+- Refused dsk-fear hub creation: fear-of-cycle already anchors the
+  concept canonically; tag-is-tag-cohort-is-node
+- Refused in-scope manifest-dread body-prose audit (appears_on lists
+  10, prose enumerates 5 — flagged for future audit pass)
+- Mr. Nodeley-flagged: DSK-97 attach to fear-of-cycle staged for
+  immediately-next Edgelord pass
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>

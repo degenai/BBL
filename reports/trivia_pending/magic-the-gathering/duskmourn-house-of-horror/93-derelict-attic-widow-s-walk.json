@@ -1,0 +1,41 @@
+{
+  "card_name": "Derelict Attic // Widow's Walk",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "93",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "A Room card — the major mechanical innovation of Duskmourn: House of Horror (DSK, released September 27, 2024). Rooms are split permanent enchantments; each half is a door unlocked separately. The mechanic began development as a Mansion deck with a Meeple token but was streamlined into the current permanent-split form.",
+      "sources": ["magic.wizards.com: Top of the Duskmourning Part 1", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The two doors complement by role: Derelict Attic (2B) draws two cards at cost of 2 life; Widow's Walk (3B) grants +1/+0 and deathtouch to a solo attacker. The cheaper half powers development, the expensive half closes games — the canonical DSK Room design relationship per Rosewater. Art by Marc Simonetti, French concept artist (born 1977) with film credits including Valerian and the City of a Thousand Planets, Aladdin, Maleficent 2, and Aquaman 2; 23+ MTG cards.",
+      "sources": ["magic.wizards.com: Top of the Duskmourning Part 1", "artofmtg.com: Marc Simonetti", "art.marcsimonetti.com: About"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 7,999 — highest Commander adoption among DSK cards in this batch, appearing in approximately 12,800 of 2.91 million Commander decks (0.44% inclusion). Draw-2-lose-2 provides utility in black Commander decks; deathtouch-on-attacker plays in voltron and mono-black aggressive strategies.",
+      "sources": ["EDHREC: Derelict Attic // Widow's Walk", "Scryfall: edhrec_rank"]
+    },
+    {
+      "category": "set-lore",
+      "text": "\"Widow's Walk\" is a real architectural term for a railed rooftop platform historically built on coastal New England homes, legendarily for wives to watch for returning ships. The card inverts this: the Widow's Walk here is a vantage point where attackers become lethal, mapping the interior/exterior duality of the House onto a single split card.",
+      "sources": ["Scryfall", "set lore context"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Keys to the House", "set": "DSK", "note": "Unlocks locked Room doors without mana cost; direct mechanical interaction"},
+    {"name": "Marina Vendrell", "set": "DSK", "note": "One of two DSK cards that can lock an unlocked door, enabling re-trigger of unlock effects"},
+    {"name": "Ominous Haunt // Locus of Enlightenment", "set": "DSK", "note": "Another black Room card for comparison in Limited evaluation"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

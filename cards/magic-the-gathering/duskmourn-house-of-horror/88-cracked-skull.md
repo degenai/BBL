@@ -72,3 +72,14 @@ An extreme close-up portrait of a heavily bearded male figure. He presses a blad
 **Iconography:** tattoo
 **Genre cues:** dark fantasy, horror
 
+## Trivia
+
+- **Set context** — Cracked Skull was released September 27, 2024 in *Duskmourn: House of Horror* (DSK). The set's Enchantment-matters identity shapes even its Auras: Cracked Skull is typed as **Enchantment — Aura**, contributing to DSK's elevated enchantment as-fan count. Its two-part effect — hand disruption on entry plus a destroy-on-damage clause — makes it a functional hybrid of Thoughtseize-adjacent disruption and a delayed removal piece `[Scryfall]`.
+- **Flavor text** — *"Ears ringing and head throbbing, all Tarvin could do was wait to see what would finish the job."* `[Scryfall]` Tarvin is the unnamed victim named only in this flavor line — no story article or other card in DSK references the name, making him an anonymous inhabitant of the House whose fate is left ambiguous. The first-person present-tense dread ("wait to see what would finish the job") mirrors classic slasher-film POV horror.
+- **Design** — The destroy-on-damage clause echoes classic fragility Auras (compare *Unholy Strength* lineage) but the hand-peek trigger on entry is the unusual addition: it front-loads information and disruption before the creature is even threatened. Mirko Failoni, the illustrator, has a wide-ranging MTG portfolio; Cracked Skull was featured in the official DSK card image gallery preview on September 12, 2024 `[Scryfall: preview source magic.wizards.com/en/products/duskmourn-house-of-horror/card-image-gallery]`.
+- **Mechanical notes** — EDHREC rank 13,842 — moderate Commander uptake for a common Aura. The hand-disruption on entry gives it a small edge over pure removal Auras in control shells; the destroy-on-damage line creates a deterrence effect on the enchanted creature. Not a competitive staple but a functional role-player in discard-themed builds `[Scryfall: edhrec_rank]`.
+
+### Related cards
+- Unholy Strength (Alpha) — archetypal black Aura; Cracked Skull inherits the "enchant creature, destroy condition" structure
+- Thoughtseize (Theros) — canonical black hand disruption; Cracked Skull provides a diluted version stapled to an Aura
+- Derelict Attic // Widow's Walk (DSK, 93) — same set, same black enchantment type, Room cards that demonstrate DSK's Enchantments-matter mechanical axis

@@ -1,0 +1,41 @@
+{
+  "card_name": "Cackling Slasher",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "85",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Released September 27, 2024 in Duskmourn: House of Horror (DSK). The set is explicitly inspired by 1970s-80s slasher cinema and this card's name and flavor directly invoke that archetype: the laughing, unstoppable killer who feeds on death.",
+      "sources": ["magic.wizards.com: First Look at Duskmourn: House of Horror", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Typed Creature — Human Assassin, notably not an Enchantment Creature despite DSK's enchantment-heavy identity — one of the set's more materially present slasher villains. Art by Johann Bodin.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Every death was funnier than the last, until his howling laughter drowned out his victims' screams.\" No named speaker. The third-person 'his' confirms the depicted figure is the subject, establishing an escalating body count.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "3/3 deathtouch for four mana that can enter as a 4/4 in a death-matters deck. EDHREC rank 19,551 — low Commander adoption; sees play as budget slot in Wilhelt and sacrifice shells where creatures die every turn.",
+      "sources": ["Scryfall: edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Appendage Amalgam", "set": "DSK", "note": "Same set, same black creature archetype"},
+    {"name": "Wilhelt, the Rotcleaver", "set": "Innistrad: Midnight Hunt", "note": "Popular Commander that triggers the died-this-turn condition every end step"},
+    {"name": "Deathbringer Regent", "set": "Dragons of Tarkir", "note": "Earlier black deathtouch creature with death-count synergy for comparison"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

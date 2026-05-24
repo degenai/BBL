@@ -74,3 +74,14 @@ A pale, fleshy horror creature fills the frame, crouching on multiple angular da
 **Creatures:** amalgam horror, multi-limbed creature, grasping-hands creature
 **Genre cues:** horror, dark fantasy, body horror
 
+## Trivia
+
+- **Set context** — Appendage Amalgam was released September 27, 2024 as part of *Duskmourn: House of Horror* (set code DSK), a top-down horror set set entirely within a single colossal haunted mansion ruled by the demonic Valgavoth. The set's mechanical identity centers on enchantments — a deliberate departure from creature-heavy Innistrad — with many Horror creatures carrying the Enchantment supertype to represent their ephemeral, atmospheric quality `[Scryfall]` `[magic.wizards.com: "Top of the Duskmourning, Part 1"]`.
+- **Design** — Appendage Amalgam is typed as an **Enchantment Creature — Horror**, a dual type used throughout DSK to represent horror-film creatures whose presence is felt as much as seen. Mark Rosewater noted in his design column that enchantment creatures were the "low-hanging fruit" to raise the enchantment as-fan in the set, particularly creatures with ephemeral, environment-influencing qualities — exactly the role this crouching amalgam fills `[magic.wizards.com: "Top of the Duskmourning, Part 1"]`. Art by Bartek Fedyczak, a Polish illustrator with 38+ MTG credits across *Duskmourn*, Warhammer 40K, and Star Wars projects `[Gatherer: Bartek Fedyczak artist page]`.
+- **Flavor text** — *"It moves with the speed of a spider but none of its skittering grace, scuttling to the sound of mucus-covered fingers."* `[Scryfall]` No named speaker — the line functions as omniscient dread narration, consistent with DSK's in-world horror-film pastiche voice.
+- **Mechanical notes** — Flash plus a surveil 1 trigger on attack makes this a combat-fishing piece in DSK Limited: flash lets it ambush a blocker mid-combat, then surveil 1 digs on the first swing. EDHREC rank 13,660 suggests modest Commander uptake — primarily showing up in graveyard and Enchantress shells that want incidental surveil `[Scryfall: edhrec_rank]`.
+
+### Related cards
+- Cackling Slasher (DSK, 85) — same set, same black Horror creature archetype, same surveil/death-trigger mechanical space
+- Fear of Missing Out (DSK) — cited by Rosewater as an example of DSK's enchantment creature design ethos; same Enchantment Creature — Horror type line
+- Valgavoth, Harrower of Souls (DSC, 6) — the demonic entity whose Harrowings birth new horrors like this amalgam into the House

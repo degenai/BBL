@@ -74,3 +74,14 @@ A hooded humanoid figure stands in an ornate interior, robes layered in deep gre
 **Iconography:** eyes, book
 **Genre cues:** horror, dark fantasy, cult horror
 
+## Trivia
+
+- **Set context / lore** — Fanatic of the Harrowing was released September 27, 2024 in *Duskmourn: House of Horror* (DSK). The "Harrowing" in the card name refers to a specific lore event: *Harrowings* are the periodic surges of Valgavoth's malevolent power that follow his molting cycle, during which his demonic energy peaks and new horrors are born into the House. Valgavoth himself — the moth-demon who *is* the House — feeds on pain and terror; his cultists believe they must suffer to join him `[WebSearch: Valgavoth lore, MTG Wiki via search snippet]` `[Scryfall: flavor_text]`.
+- **Flavor text** — *"Valgavoth wants our pain, our terror! We cannot join him unless we suffer!"* `[Scryfall]` The speaker is an unnamed fanatic — typed as Human Cleric on the card — whose doctrine of pain-as-communion names Valgavoth directly. The card's oracle text mechanically enacts this: each player discards, inflicting a small loss (the suffering) in exchange for the fanatic's worshippers drawing back (the communion). The suffer-to-join loop is built into the mechanics.
+- **Design** — Typed **Creature — Human Cleric**, positioned as a cult-follower archetype. The ETB loot effect (discard then draw if *you* discarded) gives black a rare form of card-neutral looting on a body, making it a graveyard-filler that replaces itself. Art by Fajareka Setiawan, an Indonesian freelance illustrator with 121+ MTG credits spanning *Innistrad: Midnight Hunt*, *Duskmourn*, and many other recent sets `[WebSearch: Fajareka Setiawan artist]` `[Scryfall]`.
+- **Mechanical notes** — EDHREC rank 14,240 — modest Commander uptake. The ETB symmetric discard is a liability in multiplayer (each opponent also discards), but the self-replacing draw clause offsets the card cost; sees play primarily in reanimator and looting-matters Commander builds where filling the graveyard is the goal `[Scryfall: edhrec_rank]`.
+
+### Related cards
+- Valgavoth, Harrower of Souls (DSC, 6) — the demon explicitly named in the flavor text; the object of the fanatic's worship
+- Valgavoth, Terror Eater (DSK) — the main-set printing of Valgavoth, the entity whose Harrowings define the set's lore cycles
+- Fanatical Devotion (Urza's Saga) — earlier black "fanatic" creature with sacrifice-as-devotion mechanics; thematic predecessor archetype
