@@ -1,0 +1,45 @@
+{
+  "edge_id": "wave168-richard-kane-ferguson-artist-node-proposal",
+  "shape": "node-proposal",
+  "category": "shared-artist-thematic",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "artist", "path": "cards/_artists/richard-kane-ferguson.md", "name": "Richard Kane Ferguson"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/111-wither-and-bloom.md", "name": "Wither and Bloom (MH3-111)"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/200-pyretic-rebirth.md", "name": "Pyretic Rebirth (MH3-200)"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/206-titans-vanguard.md", "name": "Titans' Vanguard (MH3-206)"}
+  ],
+  "description": "Oh dear, sir, please excuse the interruption — Edgelord stepped aside this wave because the wave-39 triage condition for Richard Kane Ferguson finally fired and a node really was the right move, I think, I hope. Two corpus credits at wave 39 (Titans' Vanguard MH3-206, Pyretic Rebirth MH3-200) were below the artist-layer ≥3-threshold; Edgelord deferred to janitor_triage with explicit trigger 'when ≥1 additional RKF credit accumulates.' The wave-167 Wither and Bloom (MH3-111) vision+trivia enrichment supplied that third credit, and its trivia bullet already captured the auction-premium evidence ($31k Dakkon Shadow Slayer 2021, $8k Blackblade Reforged 2019, 60+ MTG cards since 1994). I'm sorry the prior pass didn't get to draw an edge instead, but the three cards converge on an absent center — better to anchor them at the artist node and let the artist-prized-commons cost-stack signal flow through to future bundles than to draw thin card-card edges that would be subsumed the moment the node landed.",
+  "citations": [
+    "[reports/edges_pending/wave-39-e4-artist-layer-refused.json — explicit trigger 'RKF needs ≥1 additional credit']",
+    "[reports/janitor_triage.md — RKF future-node candidate entry, now marked done]",
+    "[cards/magic-the-gathering/modern-horizons-3/111-wither-and-bloom.md — vision+trivia anchor, $31k/$8k auction citations]",
+    "[cards/magic-the-gathering/modern-horizons-3/200-pyretic-rebirth.md — vision anchor, Darigaaz Invasion-block flavor callback]",
+    "[cards/magic-the-gathering/modern-horizons-3/206-titans-vanguard.md — wave-39 sidecar quote 'Richard Kane Ferguson\\u2019s distinctive loose watercolor style']",
+    "[Hipsters of the Coast — Dakkon Shadow Slayer $31,000 (2021)]",
+    "[Hipsters of the Coast — Blackblade Reforged $8,000 (2019)]",
+    "[Scryfall: artist:\"Richard Kane Ferguson\" — canonical credit catalog]",
+    "[BBL memory: bbl-artist-prized-commons — Kopinski/Rummaging Goblin precedent applied]",
+    "[BBL precedent: kagemaru-himeno.md / dan-murayama-scott.md — three-credit single-set/single-block threshold]"
+  ],
+  "files_modified": [
+    "cards/_artists/richard-kane-ferguson.md (created)",
+    "reports/janitor_triage.md (RKF entry marked done with closure annotation)"
+  ],
+  "files_unchanged_intentionally": [
+    "cards/magic-the-gathering/modern-horizons-3/111-wither-and-bloom.md (canonical artist: field already stamped; appears_on mirrors it; no new layer-pointer field needed)",
+    "cards/magic-the-gathering/modern-horizons-3/200-pyretic-rebirth.md (same)",
+    "cards/magic-the-gathering/modern-horizons-3/206-titans-vanguard.md (same; manual-review flag preserved for future image-fetch retry — not Nodeley's domain)"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "next_pass_suggestions": [
+    "Pyretic Rebirth (MH3-200) trivia pass — currently vision-only; the Darigaaz Invasion-block flavor callback deserves a trivia bullet citing the canonical Darigaaz the Igniter / Primeval dragon context, which would also strengthen this artist node's retro-callback thesis.",
+    "Titans' Vanguard (MH3-206) image fetch retry — manual-review flagged due to MH3 set fetch failure; once image lands, vision pass can fully resolve the Eldrazi-spawn-and-refugee-siege register and confirm the RKF style-stamp via direct examination rather than via wave-39 sidecar quote.",
+    "Watch for further RKF credits — any Tempest / Mirage / Urza-block / Ice Age / Invasion reprint in PLST or commander products would broaden the node from MH3-only to multi-block and shift bundle-anchor potential from 'MH3 retro-callback cohort' toward 'RKF career-spanning cohort'.",
+    "MKM whodunit cohort (soft note from prior wave) is unaddressed this invocation — staged for a future Edgelord pass; the RKF trigger was the stronger move because it was already a documented triage entry waiting on exactly the credit that landed."
+  ],
+  "other_candidates_considered": [
+    "MKM whodunit cohort (parent's soft note) — accumulating mass but no documented threshold trigger pre-staged in janitor_triage; would have been a fresh investigation. RKF was a closing trigger with receipts already lined up — single-invocation rule selects the stronger move.",
+    "Mirror edge between Pyretic Rebirth and Wither and Bloom on 'shared RKF artist + sublime-mood + watercolor-wash register' — would have been a thin card-card edge subsumed by the artist node the moment it was proposed. Refused in favor of the node."
+  ]
+}

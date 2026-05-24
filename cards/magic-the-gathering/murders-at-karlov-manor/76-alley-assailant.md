@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - predator
+  - stalker
+  - staircase
+  - pursuit
+  - horror
+  - undead
+  - vampire
+  - darkness
+  - ambush
+  - indoor-threat
+tags_filter:
+  - group
+  - mid-shot
+  - forward-facing
+  - action
+  - black-magic
+  - creature
+  - chiaroscuro
+  - secondary-figures-unresolved
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/76-alley-assailant.png
 average_cost_paid: 0
 market_price: 0.04
@@ -29,6 +47,27 @@ mana_cost: "{2}{B}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Alley Assailant (Murders at Karlov Manor)
+
+## Vision
+
+![76-alley-assailant](../../_images/magic-the-gathering/murders-at-karlov-manor/76-alley-assailant.png)
+
+A gaunt, pale humanoid figure crouches at the top of a stone staircase inside a dimly lit building. Long dark hair falls around the figure's face; the expression is predatory and open-mouthed. The figure is dressed in loose, tattered clothing and reaches one bare hand down toward the steps. Below on the lit staircase, two other figures are visible in the distance — they appear to be fleeing toward a warm light source further down. Blood or grime stains are visible on the foreground figure's hand and surroundings. The composition sets the predator high above the prey, using the staircase as a vertical axis of threat.
+
+**Subject:** A gaunt pale humanoid figure crouching atop a stone staircase, reaching down toward fleeing figures below
+
+**Composition:** mid-shot, action, figures: group, facing: forward
+**Setting:** indoor, gothic, indeterminate
+**Foreground:** Gaunt pale figure crouching at stair top, reaching down with bare bloodied hand, long dark hair  *(palette: pale cream, dark brown, grey stone)*
+**Background:** Stone staircase descending into warm amber light; two small fleeing figures  *(palette: amber, warm gold, dark grey)*
+**Mood / lighting:** horror, chiaroscuro
+**Emotion read:** predatory hunger; the crouching posture and open-mouthed expression convey menace; the fleeing figures below convey terror
+**Objects:** stone staircase, wooden banister
+**Genre cues:** fantasy, horror, dark-fantasy
+

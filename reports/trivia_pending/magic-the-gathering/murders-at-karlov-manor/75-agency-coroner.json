@@ -1,0 +1,41 @@
+{
+  "card_name": "Agency Coroner",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "75",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Common from Murders at Karlov Manor (MKM), released February 9, 2024. The set returns to Ravnica through a murder-mystery lens: the Ravnican Agency of Magicological Investigations (R.A.M.I.), founded after the New Phyrexian invasion, investigates a conspiracy involving most of the plane's major characters. The card's name is literal — a coroner working for R.A.M.I.",
+      "sources": ["Scryfall", "Wizards.com: A First Look at Murders at Karlov Manor", "mtg.wiki/page/Ravnican_Agency_of_Magicological_Investigations via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "The Scryfall type line reads Creature — Ogre Cleric (3/6), not goblin. The art's pointed ears and stout build read goblin to the eye, but the printed type confirms Ogre. The Cleric subtype frames the card's function: a ritualistic examiner drawing knowledge from sacrificed creatures.",
+      "sources": ["Scryfall: type_line"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Well, cause of death seems pretty straightforward, but what else can you tell me, friend?\" — no named speaker attributed. The line is addressed to the corpse on the table, consistent with forensic-magic practice on Ravnica.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In MKM limited, Draftsim's review called it 'functional and can be fine if you want something at the top of your curve' but generally weak for a 5-drop. EDHREC rank 25,421 — minimal Commander adoption.",
+      "sources": ["Draftsim: MKM Limited Set Review via WebSearch snippet", "Scryfall: edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Alquist Proft, Master Sleuth", "set": "Murders at Karlov Manor", "note": "The R.A.M.I. detective who leads the investigation the coroner serves"},
+    {"name": "Hunted Witness", "set": "Guilds of Ravnica", "note": "Earlier sacrifice-for-value common on Ravnica; thematic predecessor"},
+    {"name": "Detective's Phoenix", "set": "Murders at Karlov Manor", "note": "Another R.A.M.I. agency-flavored card from the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

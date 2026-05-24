@@ -73,3 +73,14 @@ A stout figure with pronounced pointed ears — goblin or similar small humanoid
 **Iconography:** mortuary-examination, magical-analysis, detective-work
 **Genre cues:** fantasy, noir, mystery
 
+## Trivia
+
+- **Set context** — Agency Coroner is a common from Murders at Karlov Manor (MKM), released February 9, 2024. The set returns to Ravnica but sidesteps guild politics entirely in favor of a murder-mystery narrative: a series of killings leads detective Alquist Proft and the Ravnican Agency of Magicological Investigations (R.A.M.I.) into a conspiracy involving most of the plane's major characters. The card's name is literal — the coroner is an agent of R.A.M.I. `[Scryfall]` `[Wizards.com: "A First Look at Murders at Karlov Manor"]` `[mtg.wiki/page/Ravnican_Agency_of_Magicological_Investigations, via WebSearch snippet]`
+- **Type-line note** — Scryfall lists the card's type as Creature — Ogre Cleric (3/6), not goblin. The art's pointed ears and stout build read as goblin to the eye, but the printed type confirms Ogre. The Cleric subtype reflects the card's function — a ritualistic examiner, sacrificing creatures to draw knowledge from their deaths. `[Scryfall: type_line]`
+- **Flavor text** — `"Well, cause of death seems pretty straightforward, but what else can you tell me, friend?"` No named speaker is attributed on the card. The line is addressed to the corpse on the table — a detail consistent with forensic magic common to Ravnica's investigative culture. `[Scryfall]`
+- **Mechanical reputation** — In MKM limited, the Draftsim review noted the card is "functional and can be fine if you want something at the top of your curve," but is generally weak for a 5-drop: the sacrifice-to-draw payoff requires board presence and synergy with the Suspect mechanic to reach its ceiling. Its EDHREC rank of 25,421 reflects minimal Commander adoption. `[Draftsim: MKM Limited Set Review, via WebSearch snippet]` `[Scryfall: edhrec_rank]`
+
+### Related cards
+- Alquist Proft, Master Sleuth (MKM) — the R.A.M.I. detective who leads the investigation the coroner serves
+- Hunted Witness (Guilds of Ravnica) — earlier sacrifice-for-value common on Ravnica; thematic predecessor to the coroner's mechanic
+- Detective's Phoenix (MKM) — another R.A.M.I. agency-flavored card from the same set

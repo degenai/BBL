@@ -1,0 +1,41 @@
+{
+  "card_name": "Fetid Gargantua",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "94",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Common Horror from Modern Horizons 3 (MH3), released June 14, 2024 — a draft-innovation set injecting cards directly into the Modern card pool.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"When the night comes knocking / —Kessig expression meaning 'in dire times'\" — attributed to Kessig idiom, not a named speaker. Kessig is the forested, werewolf-haunted province of Innistrad (a separate plane from where MH3 is set). The attribution is a cross-plane flavor tag borrowing from Innistrad's hardscrabble rural folk culture.",
+      "sources": ["Scryfall", "Wizards.com: Planeswalker's Guide to Innistrad: Kessig and Werewolves"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rated 1.5/5 in MH3 limited by MTG Arena Zone: 'a solid top end card that can potentially rack up some real card advantage' but vulnerable to aggressive pressure before Adapt activates. Adapt is a Simic mechanic originally from Ravnica Allegiance; its presence here on a mono-black Horror is one of MH3's cross-guild mechanical transplants.",
+      "sources": ["MTG Arena Zone: MH3 Limited Set Review — Black", "mtg.wiki/page/Adapt via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Michael C. Hayes.",
+      "sources": ["Scryfall: artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dreamdrinker Vampire", "set": "Modern Horizons 3", "note": "Fellow black Adapt common in MH3; shares the adapt-triggers-bonus pattern"},
+    {"name": "Emperor of Bones", "set": "Modern Horizons 3", "note": "Black Adapt payoff at uncommon in the same set; rated strongest of the MH3 black Adapt cycle in limited reviews"},
+    {"name": "Kessig Wolf Run", "set": "Innistrad", "note": "Canonical Kessig-plane card; the flavor text's geographic attribution connects back to Innistrad's werewolf province"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

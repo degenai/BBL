@@ -1,0 +1,41 @@
+{
+  "card_name": "Dreamdrinker Vampire",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "88",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Common from Modern Horizons 3 (MH3), released June 14, 2024 — a draft-innovation set bypassing Standard, injecting cards directly into Modern. Adapt originally appeared in Ravnica Allegiance (2019) as a Simic mechanic redesigned from Theros Monstrous; its presence on a black vampire is one of MH3's cross-guild mechanical transplants.",
+      "sources": ["Scryfall", "mtg.wiki/page/Adapt via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Steve Ellis originally illustrated eleven MTG cards released 2007-08 through Morningtide, then left the game for twelve years. His return began with Ikoria showcase art in 2020; Dreamdrinker Vampire is one of six cards he illustrated for MH3.",
+      "sources": ["Hipstersofthecoast.com: Ikoria Showcase Art and Sketches by Steve Ellis Sell for $14,775", "Scryfall artist search: Steve Ellis MH3"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The dream she tastes will be your last.\" — no speaker attributed.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rated 2.0/5 in MH3 limited by MTG Arena Zone: 'a solid two drop that they can't just keep letting through because of the lifelink.' EDHREC rank 16,991 — minimal Commander adoption, consistent with its role as a draft common.",
+      "sources": ["MTG Arena Zone: MH3 Limited Set Review — Black", "Scryfall: edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Incubation Druid", "set": "Ravnica Allegiance", "note": "Among the first cycle of cards to carry the Adapt keyword"},
+    {"name": "Emperor of Bones", "set": "Modern Horizons 3", "note": "Black Adapt payoff in the same set; rated strongest MH3 black Adapt card in limited reviews"},
+    {"name": "Fetid Gargantua", "set": "Modern Horizons 3", "note": "Fellow black Adapt common in MH3; shares the counter-trigger-bonus pattern"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

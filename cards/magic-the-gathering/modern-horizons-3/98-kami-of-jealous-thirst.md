@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - mask
+  - demon
+  - kami
+  - night-city
+  - urban
+  - spirit
+  - neon
+  - horror
+  - theater
+  - possession
+  - predator
+tags_filter:
+  - group
+  - mid-shot
+  - forward-facing
+  - narrative
+  - black-magic
+  - creature-spirit
+  - secondary-figures-unresolved
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/98-kami-of-jealous-thirst.png
 average_cost_paid: 0
 market_price: 0.14
@@ -30,6 +48,29 @@ mana_cost: "{2}{B}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: night
+setting: urban
 ---
 
 # Kami of Jealous Thirst (Modern Horizons 3)
+
+## Vision
+
+![98-kami-of-jealous-thirst](../../_images/magic-the-gathering/modern-horizons-3/98-kami-of-jealous-thirst.png)
+
+A large, horned, beast-like kami crouches at the base of a curved staircase, holding at least two carved theatrical masks — one raised in each hand. The creature has a broad, snarling face with visible horns and dark fur or hide. To its left a slender, masked humanoid figure also appears, arm raised. A second humanoid figure stands above on the staircase balcony, wearing a wide-brimmed hat and formal coat, looking down. The background is a dense cyberpunk-inflected city at night: illuminated signs with East Asian script, glowing lanterns, foggy purple atmosphere. Secondary bystander figures are visible in the far background.
+
+**Subject:** A demonic kami creature clutching theatrical masks, flanked by a second humanoid figure, on a city staircase in a neon-lit urban fantasy setting
+
+**Composition:** mid-shot, narrative, figures: group, facing: forward
+**Setting:** urban, modern, night, fog
+**Foreground:** Horned kami creature holding theatrical masks; masked humanoid figure to its side  *(palette: brown, dark tan, cream)*
+**Background:** Neon-lit urban cityscape at night, glowing signs with Asian script, curved staircase railing, purple-blue fog  *(palette: purple, magenta, dark blue, amber)*
+**Mood / lighting:** horror, rim
+**Emotion read:** menacing; the creature looms with predatory hunger while the figure above watches with composed detachment
+**Objects:** theatrical masks, staircase, lanterns, illuminated signs
+**Creatures:** kami, demon, horned-beast
+**Iconography:** theatrical-mask, East-Asian-script-signage
+**Genre cues:** fantasy, cyberpunk, anime, dark-fantasy
+

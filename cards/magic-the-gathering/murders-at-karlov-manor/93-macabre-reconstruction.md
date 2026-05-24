@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - cauldron
+  - ritual
+  - skull
+  - reanimation
+  - dark-magic
+  - symmetry
+  - silhouette
+  - summoning
+  - undead
+  - ceremony
+tags_filter:
+  - duo
+  - wide
+  - forward-facing
+  - abstract
+  - black-magic
+  - sorcery
+  - void-setting
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/93-macabre-reconstruction.png
 average_cost_paid: 0
 market_price: 0.11
@@ -30,6 +47,28 @@ mana_cost: "{3}{B}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: void
 ---
 
 # Macabre Reconstruction (Murders at Karlov Manor)
+
+## Vision
+
+![93-macabre-reconstruction](../../_images/magic-the-gathering/murders-at-karlov-manor/93-macabre-reconstruction.png)
+
+Two slender, fully silhouetted dark figures stand on either side of a wide ornate cauldron or bowl. Both figures lean slightly toward the center, arms extended toward the cauldron. From the cauldron rises a sweeping mass of purple, pink, and violet energy tendrils that fill most of the image and form an eerie symmetrical shape suggesting a skull or spectral face. The figures have pointed or horned head silhouettes and thin limbs — creature-like in proportion. The entire image palette is deep blue-purple with hot pink-magenta accent in the energy swirls. The composition is strikingly symmetrical and almost decorative in its abstraction.
+
+**Subject:** Two dark silhouetted humanoid figures flanking a large cauldron from which purple and pink energy rises into a skull-like or face-like form
+
+**Composition:** wide, abstract, figures: duo, facing: forward
+**Setting:** void, indeterminate
+**Foreground:** Two dark silhouetted horned figures flanking an ornate cauldron, leaning inward  *(palette: black, deep purple, dark navy)*
+**Background:** Swirling purple and pink energy mass forming a skull-like shape; deep blue void background  *(palette: deep blue, purple, magenta, pink)*
+**Mood / lighting:** horror, rim
+**Emotion read:** ritualistic intensity; the symmetry and posed stillness of the figures suggests deliberate summoning ceremony
+**Objects:** cauldron, swirling energy tendrils
+**Iconography:** skull-form, symmetrical-energy-pattern, cauldron
+**Genre cues:** fantasy, dark-fantasy, horror
+

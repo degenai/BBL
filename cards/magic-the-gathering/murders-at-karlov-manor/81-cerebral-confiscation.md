@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - mind-reading
+  - memory
+  - interrogation
+  - magic-energy
+  - ghost
+  - noir
+  - psychic
+  - surveillance
+  - confession
+  - extraction
+tags_filter:
+  - duo
+  - mid-shot
+  - three-quarter
+  - narrative
+  - black-magic
+  - sorcery
+  - indoor
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/81-cerebral-confiscation.png
 average_cost_paid: 0
 market_price: 0.16
@@ -30,6 +47,29 @@ mana_cost: "{2}{B}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Cerebral Confiscation (Murders at Karlov Manor)
+
+## Vision
+
+![81-cerebral-confiscation](../../_images/magic-the-gathering/murders-at-karlov-manor/81-cerebral-confiscation.png)
+
+Two figures occupy a dim interior space. On the right stands a tall, suited humanoid in a fedora-style hat, smiling slightly, one hand extended toward a swirling mass of violet magical energy. On the left, a smaller goblin-eared creature sits or crouches, looking toward the energy with a contemplative expression, one hand raised to its chin. The swirling purple energy between them forms loops and tendrils that suggest a face or memory being extracted — a faint spectral face is visible in the upper portion of the energy mass. The background is dark grey architecture, blurred and moody.
+
+**Subject:** A suited humanoid figure and a smaller goblin-eared creature interact with swirling purple magical energy containing a ghostly face
+
+**Composition:** mid-shot, narrative, figures: duo, facing: three-quarter
+**Setting:** indoor, gothic, indeterminate
+**Foreground:** Goblin-eared creature seated, contemplative; suited humanoid standing with extended hand; swirling purple energy between them with a spectral face  *(palette: purple, violet, dark blue, grey)*
+**Background:** Dark grey blurred architecture, shadowed interior  *(palette: charcoal, dark grey, muted blue)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** clinical detachment from the standing figure; uneasy fascination from the seated creature
+**Objects:** swirling magical energy, spectral face, fedora hat
+**Creatures:** goblin
+**Iconography:** spectral-face, memory-extraction
+**Genre cues:** fantasy, noir, dark-fantasy
+

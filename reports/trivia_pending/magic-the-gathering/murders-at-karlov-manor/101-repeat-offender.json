@@ -1,0 +1,41 @@
+{
+  "card_name": "Repeat Offender",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "101",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Common from Murders at Karlov Manor (MKM), released February 9, 2024. MKM frames Ravnica through a crime-fiction lens. The Suspect mechanic is one of MKM's four new keywords (alongside Clue, Disguise, Collect Evidence), each drawn from mystery-genre vocabulary.",
+      "sources": ["Scryfall", "Wizards.com: Murders at Karlov Manor Mechanics"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Blasted sketch artist did too good a job. Looks like it's time for me to lie low for a little while.\" — no named speaker. The line is voiced by the wanted criminal reacting to their own wanted poster visible in the art.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Suspect keyword gives menace and prevents blocking — a mechanical translation of 'actively evading the law.' Repeat Offender self-suspects for 2B, then rewards a second activation with a +1/+1 counter. CoolStuffInc's MKM Pauper review (Paige Smith) called it 'a good little mana sink for games that go long,' noting that its self-sustaining loop is unusual at common: most counter-putting commons at common require external triggers while this one is purely mana-activated. Pauper-legal and available in Standard at release.",
+      "sources": ["CoolStuffInc: Murders at Karlov Manor Pauper Review by Paige Smith", "Scryfall: legalities"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Creature type Human Assassin. EDHREC rank 24,816 — minimal Commander adoption.",
+      "sources": ["Scryfall: type_line, edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Agency Coroner", "set": "Murders at Karlov Manor", "note": "Fellow MKM black common that rewards sacrificing a suspected creature for double card draw — direct mechanical synergy"},
+    {"name": "Basilica Stalker", "set": "Murders at Karlov Manor", "note": "Fellow MKM black common with Disguise; shares the identity-concealment / evasion thematic cluster"},
+    {"name": "Alquist Proft, Master Sleuth", "set": "Murders at Karlov Manor", "note": "Lead R.A.M.I. detective; Suspect mechanic is the mechanic opposing forces like the Repeat Offender use"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -75,3 +75,14 @@ The scene is set in a dim stone-arched corridor or gateway, with natural light c
 **Iconography:** wanted-poster, face-sketch
 **Genre cues:** fantasy, noir, mystery
 
+## Trivia
+
+- **Set context** — Repeat Offender is a common from Murders at Karlov Manor (MKM), released February 9, 2024. MKM is set on Ravnica but frames the plane through a murder-mystery / detective-fiction lens rather than the standard guild-war narrative. The Suspect mechanic on this card is one of MKM's four new mechanics, each drawn from crime-fiction vocabulary (Suspect, Clue, Disguise, Collect Evidence). `[Scryfall]` `[Wizards.com: "Murders at Karlov Manor Mechanics"]`
+- **Flavor text** — `"Blasted sketch artist did too good a job. Looks like it's time for me to lie low for a little while."` No speaker is named — the line is voiced by the figure on the card: a wanted criminal reacting to their own wanted poster. The wanted poster visible in the art (held by a background figure) is the extradiegetic artifact the flavor text addresses directly. `[Scryfall]`
+- **Suspect mechanic design** — The Suspect keyword gives a creature menace and prevents it from blocking — a mechanical translation of "this creature is actively evading the law." Repeat Offender self-suspects for 2B, then rewards the second activation with a +1/+1 counter. The CoolStuffInc MKM Pauper review characterized it as "a good little mana sink for games that go long," noting that its self-sustaining loop is unusual at common: most counter-putting commons require external triggers (sacrifice, etc.) while Repeat Offender is purely mana-activated. `[CoolStuffInc: "Murders at Karlov Manor Pauper Review" by Paige Smith]`
+- **Mechanical reputation** — Creature type Human Assassin; EDHREC rank 24,816. Pauper-legal and available in Standard at time of release. The 2/1 for 1B body with menace and a reliable counter engine gave it modest Pauper interest as a low-curve black aggressive threat with built-in scaling. `[Scryfall: type_line, edhrec_rank, legalities]`
+
+### Related cards
+- Suspicious Bookcase (M19) — earlier card that used "suspected" flavor language before Suspect was formalized as a keyword
+- Agency Coroner (MKM, no. 75) — fellow MKM black common that explicitly rewards sacrificing a suspected creature for double card draw
+- Basilica Stalker (MKM, no. 78) — fellow MKM black common with Disguise; shares the identity-concealment / evasion thematic cluster

@@ -1,0 +1,36 @@
+{
+  "card_name": "Basilica Stalker",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "78",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Common from Murders at Karlov Manor (MKM), released February 9, 2024. The 'basilica' roots the card in Orzhov Syndicate territory: Orzhova (the Church of Deals / Cathedral Opulent) is the Orzhov guildhall — a labyrinthine cathedral whose ancient protection magic predates the Guildpact itself. A Vampire Detective stalking its halls crossbreeds MKM's detective-fiction frame with the Orzhov's long history of vampiric enforcers.",
+      "sources": ["Scryfall", "mtg.wiki/page/Orzhov_Syndicate"]
+    },
+    {
+      "category": "design",
+      "text": "The creature type Vampire Detective is a genre-mashup type unique to MKM: Vampire carries Orzhov resonance; Detective is MKM's new subtype for its investigator characters. No flavor text printed.",
+      "sources": ["Scryfall: type_line, flavor_text field absent"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Carries Disguise (cost 4B): the creature enters face-down as 'A Mysterious Creature' (a named 2/2 with ward 2), then flips face-up when the Disguise cost is paid — a flip that cannot be responded to. Thematic fit: a stalker in a basilica is by definition hidden until revealed. EDHREC rank 20,757; minimal Commander play.",
+      "sources": ["Wizards.com: Murders at Karlov Manor Mechanics", "Scryfall: edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "A Mysterious Creature", "set": "Murders at Karlov Manor", "note": "The named face-down 2/2 ward-2 token that Basilica Stalker enters as when cast via Disguise"},
+    {"name": "Tithe Drinker", "set": "Dragon's Maze", "note": "Earlier Orzhov Vampire common; thematic parallel for vampires-as-Orzhov-enforcers"},
+    {"name": "Etrata, the Silencer", "set": "Guilds of Ravnica", "note": "Named Orzhov Vampire assassin on Ravnica; one of MKM's named suspects"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

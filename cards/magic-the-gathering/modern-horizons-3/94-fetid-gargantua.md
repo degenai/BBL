@@ -73,3 +73,14 @@ The composition is dominated by a vast, gnarled dark mass of wood, root, or necr
 **Iconography:** graveyard, absorption, entrapment
 **Genre cues:** fantasy, horror, gothic
 
+## Trivia
+
+- **Set context** — Fetid Gargantua is a common Horror from Modern Horizons 3 (MH3), released June 14, 2024 — a draft-innovation set that injects cards directly into the Modern card pool without passing through Standard. `[Scryfall]`
+- **Flavor text** — `"When the night comes knocking\n—Kessig expression meaning \"in dire times\""` The attribution is to Kessig idiom, not a named speaker. Kessig is the forested, werewolf-haunted province of Innistrad — Ravnica's gothic-horror sister plane. The Kessig attribution is a cross-plane flavor tag: this Horror from a non-Innistrad set borrows its folk-saying from that plane's hardscrabble rural culture. `[Scryfall]` `[Wizards.com: "Planeswalker's Guide to Innistrad: Kessig and Werewolves"]`
+- **Design / mechanical context** — As a 4/4 for five mana with Adapt 2 and a "draw two, lose 2" trigger, the card was rated 1.5/5 in MH3 limited by MTG Arena Zone — described as "solid top end that can potentially rack up real card advantage" but undermined by vulnerability to aggressive pressure before the adapt activates. Adapt was originally a Simic (green-blue) mechanic from Ravnica Allegiance; its use here on a mono-black Horror is one of MH3's mechanical cross-pollinations. `[MTG Arena Zone: MH3 Limited Set Review — Black]` `[mtg.wiki/page/Adapt, via WebSearch snippet]`
+- **Art credit** — Illustrated by Michael C. Hayes, a prolific MTG artist with credits spanning multiple sets in the 2020s. `[Scryfall: artist field]`
+
+### Related cards
+- Dreamdrinker Vampire (MH3, no. 88) — fellow black Adapt common in MH3; shares the adapt-triggers-bonus pattern
+- Emperor of Bones (MH3, no. 92) — black Adapt payoff at uncommon in the same set; rated the strongest of the MH3 black Adapt cycle in limited reviews
+- Kessig Wolf Run (Innistrad, 2011) — canonical Kessig-plane card; the flavor text's geographic attribution connects back to Innistrad's werewolf province

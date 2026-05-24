@@ -74,3 +74,14 @@ A dark vampiric figure dominates the upper portion of the composition, leaning o
 **Iconography:** swirling-energy, dream-extraction
 **Genre cues:** fantasy, gothic, horror
 
+## Trivia
+
+- **Set context** — Dreamdrinker Vampire is a common from Modern Horizons 3 (MH3), released June 14, 2024. MH3 is a "draft innovation" set designed to inject new and returning mechanics directly into the Modern format, bypassing Standard entirely. Adapt — the mechanic on this card — originally appeared in Ravnica Allegiance (2019) as the Simic Combine's guild mechanic, itself a redesign of the Theros-era Monstrous mechanic; its reappearance here in black marks a cross-guild mechanical transplant. `[Scryfall]` `[mtg.wiki/page/Adapt, via WebSearch snippet]`
+- **Design** — Artist Steve Ellis is a fantasy and comic-book illustrator who originally painted eleven MTG cards released in 2007–08 (through Morningtide), then left the game for twelve years. His return began with Ikoria: Lair of Behemoths showcase art in 2020; Dreamdrinker Vampire is one of six cards he illustrated for MH3, continuing his modern-era comeback. `[Hipstersofthecoast.com: "Ikoria Showcase Art and Sketches by Steve Ellis Sell for $14,775"]` `[Scryfall artist search: Steve Ellis, MH3]`
+- **Flavor text** — `"The dream she tastes will be your last."` No speaker is attributed. `[Scryfall]`
+- **Mechanical reputation** — In MH3 limited, the card was rated 2.0/5 by MTG Arena Zone's set review: characterized as "a solid two drop that they can't just keep letting through because of the lifelink," with the adapt trigger giving it unexpected late-game reach via menace. Its EDHREC rank of 16,991 reflects limited Commander uptake, consistent with its role as a draft common rather than a constructed piece. `[MTG Arena Zone: MH3 Limited Set Review — Black]` `[Scryfall: edhrec_rank]`
+
+### Related cards
+- Adapt (mechanic) origin: Incubation Druid (Ravnica Allegiance, 2019) — first cycle of cards to carry the Adapt keyword
+- Emperor of Bones (MH3, no. 92) — black Adapt payoff in the same set; rated highly in the same limited review
+- Fetid Gargantua (MH3, no. 94) — fellow black Adapt common in MH3, shares the +1/+1 counter-trigger draw-engine pattern

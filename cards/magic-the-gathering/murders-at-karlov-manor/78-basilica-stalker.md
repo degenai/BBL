@@ -74,3 +74,15 @@ The composition is viewed from sharply above, looking down at a lone figure susp
 **Iconography:** sun-sigil, white-mask, gothic-architecture
 **Genre cues:** fantasy, gothic, noir
 
+## Trivia
+
+- **Set context** — Basilica Stalker is a common from Murders at Karlov Manor (MKM), released February 9, 2024. The "basilica" in its name roots the card in Orzhov Syndicate territory: Orzhova (the Church of Deals, also called the Cathedral Opulent) is the Orzhov guildhall on Ravnica — a labyrinthine cathedral with soaring vaulted interiors whose ancient protection magic predates the Guildpact itself. A Vampire Detective stalking its halls is a natural crossover between MKM's detective-fiction theme and the Orzhov's long history of vampiric enforcers. `[Scryfall]` `[mtg.wiki/page/Orzhov_Syndicate]`
+- **Type-line note** — The creature type is Vampire Detective — a combination unique to MKM's genre mashup. This is one of the set's explicit signals that Ravnican guilds and MKM's detective-fiction frame are intentionally blended: the vampire subtype carries Orzhov resonance, while Detective is MKM's new subtype for its investigator characters. `[Scryfall: type_line]`
+- **Disguise mechanic** — Basilica Stalker carries Disguise (cost 4B), one of MKM's headline mechanics. Disguise is a functional descendant of Morph: the creature enters face-down as "A Mysterious Creature" (a named 2/2 token with ward 2), then reveals itself when the Disguise cost is paid. Unlike Morph, the face-up flip cannot be responded to. The thematic fit is strong — a stalker in a basilica is by definition hidden until it reveals itself. `[Wizards.com: "Murders at Karlov Manor Mechanics"]`
+- **No flavor text** — Scryfall confirms this card carries no printed flavor text. `[Scryfall: flavor_text field absent]`
+- **Mechanical reputation** — EDHREC rank 20,757; sees minimal Commander play. In limited, its 6-mana ceiling cost meant it was generally a late-pick common — the face-down mode at 3 mana is the more practical entry point in draft, where the 2/2 ward-2 body buys time until the reveal. `[Scryfall: edhrec_rank]`
+
+### Related cards
+- A Mysterious Creature (MKM token) — the face-down 2/2 ward-2 token that Basilica Stalker enters as when cast via Disguise
+- Tithe Drinker (Dragon's Maze, 2013) — earlier Orzhov Vampire common; thematic parallel for vampires-as-Orzhov-enforcers
+- Etrata, the Silencer (Guilds of Ravnica) — named Orzhov Vampire assassin on Ravnica; one of MKM's named suspects
