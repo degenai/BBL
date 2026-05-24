@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 characters:
   - elemental-monkey-trio
-tags_hub: []
+tags_hub:
   - monkey
   - primate
   - forest
@@ -25,7 +25,7 @@ tags_hub: []
   - sunlight
   - foliage
   - trickster
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - forward-facing

@@ -39,10 +39,10 @@ market_price: 0.8
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401039269/0825D6F5BA39C37E5F709FAE4AAF8874343DA7F7/
-image_width: 624
-image_height: 864
-image_quality: med
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-098_Demigra_-_Ghastly_Malice_Demigra.png?v=1529706474
+image_width: 869
+image_height: 1214
+image_quality: high
 art_match_confidence: high
 needs_manual_review: false
 mood: grim

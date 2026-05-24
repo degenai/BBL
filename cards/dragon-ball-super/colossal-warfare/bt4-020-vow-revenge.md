@@ -35,10 +35,10 @@ market_price: 0.16
 market_price_as_of: 2026-05-24
 date_added: 2026-05-12
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401026101/88541A331EC9783D396FC9892448C5A4A92A8210/
-image_width: 624
-image_height: 869
-image_quality: med
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-020_Vow_Revenge.png?v=1529505847
+image_width: 870
+image_height: 1209
+image_quality: high
 art_match_confidence: high
 needs_manual_review: false
 mood: action

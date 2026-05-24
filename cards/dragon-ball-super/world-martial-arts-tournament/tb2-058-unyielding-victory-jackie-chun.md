@@ -34,9 +34,9 @@ market_price: 0.2
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408081013/B553C20A254BE1627D0E1BCC5FE44A2E89602969/
-image_width: 624
-image_height: 871
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-058_Unyielding_Victory_Jackie_Chun.png?v=1536526619
+image_width: 646
+image_height: 900
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false

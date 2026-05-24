@@ -37,10 +37,10 @@ market_price: 0.11
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401041854/AA248315F6BA57995B56C4BF3F6A6CE749A785B6/
-image_width: 624
-image_height: 864
-image_quality: med
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-111_Umbral_Invitation_Towa.png?v=1529705811
+image_width: 869
+image_height: 1213
+image_quality: high
 art_match_confidence: high
 needs_manual_review: false
 characters:

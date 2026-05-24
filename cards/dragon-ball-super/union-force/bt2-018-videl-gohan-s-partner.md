@@ -35,10 +35,10 @@ market_price: 0.1
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400929623/C4C2FC6570F53DD5B0DC41ED00AAD8D6B4DE7579/
-image_width: 624
-image_height: 874
-image_quality: med
+reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/BT2-018.png
+image_width: 260
+image_height: 364
+image_quality: low
 art_match_confidence: high
 needs_manual_review: false
 mood: peaceful

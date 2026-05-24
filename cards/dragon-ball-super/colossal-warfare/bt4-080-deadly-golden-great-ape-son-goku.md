@@ -37,10 +37,10 @@ market_price: 0.05
 market_price_as_of: 2026-05-24
 date_added: 2026-05-12
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401036473/D758A9AEE42CF7E12511B0D54E465C282BD945A8/
-image_width: 624
-image_height: 869
-image_quality: med
+reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/BT4-080.png
+image_width: 260
+image_height: 362
+image_quality: low
 art_match_confidence: high
 needs_manual_review: false
 mood: horror

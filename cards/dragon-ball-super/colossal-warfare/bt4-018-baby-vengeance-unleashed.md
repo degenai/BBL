@@ -35,10 +35,10 @@ market_price: 0.08
 market_price_as_of: 2026-05-24
 date_added: 2026-05-12
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401025786/29CC939A505233B0F7532E63FF836C4080E1A63A/
-image_width: 624
-image_height: 871
-image_quality: med
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-018_Baby_Vengeance_Unleashed.png?v=1529237447
+image_width: 869
+image_height: 1210
+image_quality: high
 art_match_confidence: high
 needs_manual_review: false
 mood: grim

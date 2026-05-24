@@ -38,10 +38,10 @@ market_price: 11.75
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408082576/6C5278C9759E29197D3DD6AD9302FB5CD6380E84/
-image_width: 624
-image_height: 871
-image_quality: med
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-069_Son_Goku_Uub_Seeds_of_the_Future.png?v=1537566978
+image_width: 870
+image_height: 1213
+image_quality: high
 art_match_confidence: high
 needs_manual_review: false
 mood: sublime

@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - cat
   - feline
   - thief
@@ -23,7 +23,7 @@ tags_hub: []
   - rivalry
   - stealth
   - alley
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - three-quarter

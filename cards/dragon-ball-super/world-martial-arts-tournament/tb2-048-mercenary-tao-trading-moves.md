@@ -36,9 +36,9 @@ market_price: 0.08
 market_price_as_of: 2026-05-24
 date_added: 2026-05-12
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408079415/B7EC3F9B762EE77C69DA2A1C48DD6B0E0F7F468A/
-image_width: 624
-image_height: 871
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-048_Mercenary_Tao_Trading_Moves.png?v=1534965291
+image_width: 646
+image_height: 900
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false

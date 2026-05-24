@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - machine
   - magnet
   - robot
@@ -21,7 +21,7 @@ tags_hub: []
   - sky
   - electric
   - small-creature
-tags_filter: []
+tags_filter:
   - solo
   - close-up
   - forward-facing

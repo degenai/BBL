@@ -37,10 +37,10 @@ market_price: 0.08
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401023454/78EBA0C4FDAEC13B252120A2397732660C813942/
-image_width: 624
-image_height: 871
-image_quality: med
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-002_Baby_-_Rampaging_Great_Ape_Baby.png?v=1529523450
+image_width: 867
+image_height: 1210
+image_quality: high
 art_match_confidence: high
 needs_manual_review: false
 mood: action

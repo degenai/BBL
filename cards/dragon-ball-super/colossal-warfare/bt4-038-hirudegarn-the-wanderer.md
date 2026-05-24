@@ -33,10 +33,10 @@ market_price: 0.01
 market_price_as_of: 2026-05-24
 date_added: 2026-05-12
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401029150/0026E64A75A18ECCD65B0AF58C0F8F8C630CCB2E/
-image_width: 624
-image_height: 871
-image_quality: med
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-038_Hirudegarn_the_Wanderer.png?v=1529237983
+image_width: 869
+image_height: 1210
+image_quality: high
 art_match_confidence: high
 needs_manual_review: false
 mood: horror

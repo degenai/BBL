@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - bird
   - cherry-blossom
   - spring
@@ -23,7 +23,7 @@ tags_hub: []
   - seasonal
   - pastel
   - firebird
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - faces-right

@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - underground
   - burrowing
   - earth
@@ -22,7 +22,7 @@ tags_hub: []
   - desert
   - no-face-human
   - small-creature
-tags_filter: []
+tags_filter:
   - group
   - 3-figures
   - mid-shot

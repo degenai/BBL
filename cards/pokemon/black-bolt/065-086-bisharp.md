@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - blade
   - warrior
   - metal
@@ -21,7 +21,7 @@ tags_hub: []
   - rock
   - combat
   - apex-predator
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - forward-facing

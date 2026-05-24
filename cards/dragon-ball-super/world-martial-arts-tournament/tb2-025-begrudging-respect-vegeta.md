@@ -37,9 +37,9 @@ market_price: 0.08
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408076351/0FBDF51903879E5D74DA8C704B3E0C3370CB49DF/
-image_width: 624
-image_height: 871
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-025_Begrudging_Respect_Vegeta.png?v=1535140000
+image_width: 646
+image_height: 900
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false

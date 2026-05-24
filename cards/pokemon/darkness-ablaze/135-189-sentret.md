@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - sentinel
   - meadow
   - grass
@@ -23,7 +23,7 @@ tags_hub: []
   - alert
   - cute
   - daylight
-tags_filter: []
+tags_filter:
   - solo
   - forward-facing
   - mid-shot

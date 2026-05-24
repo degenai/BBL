@@ -36,10 +36,10 @@ market_price: 0.47
 market_price_as_of: 2026-05-24
 date_added: 2026-05-12
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401040314/0908706C7ABA8D6FA13710F3CE6534A09EAFD0AE/
-image_width: 624
-image_height: 864
-image_quality: med
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-102_Dimension_Support_Trunks.png?v=1529705594
+image_width: 869
+image_height: 1213
+image_quality: high
 art_match_confidence: high
 needs_manual_review: false
 mood: action

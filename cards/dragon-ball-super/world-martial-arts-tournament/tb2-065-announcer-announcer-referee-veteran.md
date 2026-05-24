@@ -36,9 +36,9 @@ market_price: 0.28
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408081898/A00ABC4971180CDE6C2C7997A35EFB5824AF5941/
-image_width: 624
-image_height: 871
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-065_Announcer_-_Announcer_Referee_Veteran.png?v=1535139911
+image_width: 646
+image_height: 900
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false

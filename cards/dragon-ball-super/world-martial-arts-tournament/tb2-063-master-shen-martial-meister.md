@@ -36,9 +36,9 @@ market_price: 0.03
 market_price_as_of: 2026-05-24
 date_added: 2026-05-14
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408081703/8A5E47AF510DF36F1DACDF7082DABDD8565D5964/
-image_width: 624
-image_height: 871
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-063_Master_Shen_Martial_Meister.png?v=1534965413
+image_width: 646
+image_height: 900
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false

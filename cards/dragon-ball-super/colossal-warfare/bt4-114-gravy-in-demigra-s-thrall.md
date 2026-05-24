@@ -36,10 +36,10 @@ market_price: 0.03
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401042476/BFEEEB034754224B15A090EF840506E17DA09BEC/
-image_width: 624
-image_height: 864
-image_quality: med
+reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/BT4-114.png
+image_width: 260
+image_height: 360
+image_quality: low
 art_match_confidence: high
 needs_manual_review: false
 mood: grim

@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - crocodile
   - reptile
   - desert
@@ -21,7 +21,7 @@ tags_hub: []
   - earth
   - guardian
   - teeth
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - forward-facing

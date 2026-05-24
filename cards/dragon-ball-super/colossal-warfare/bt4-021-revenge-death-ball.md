@@ -35,10 +35,10 @@ market_price: 0.01
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401026246/84A424F575B6FAF0150C65FA6106B50D4E2D74FA/
-image_width: 624
-image_height: 869
-image_quality: med
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-021_Revenge_Death_Ball.png?v=1529505913
+image_width: 870
+image_height: 1209
+image_quality: high
 art_match_confidence: high
 needs_manual_review: false
 mood: grim
