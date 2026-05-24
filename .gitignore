@@ -48,3 +48,4 @@ tmp_probe/
 # Obsidian per-user dev state (graph view position, pane layout — not session work)
 cards/.obsidian/workspace.json
 cards/.obsidian/workspace-mobile.json
+*.tmp
