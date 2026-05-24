@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/69-turn-int
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/2/f2a37dcb-4a18-4f03-b28c-27188a1a5ec1.jpg?1572490021
 oracle_text: "Return target nonland permanent to its owner's hand. Draw a card.\\nAdamant — If at least three blue mana was spent to cast this spell, create a Food token. (It's an artifact with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")"
 mana_cost: "{3}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

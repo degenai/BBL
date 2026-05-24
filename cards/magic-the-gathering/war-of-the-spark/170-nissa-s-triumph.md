@@ -53,6 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/170-nissa-s-t
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/9/7946b256-ae79-4b99-8bf4-0d627baf9044.jpg?1557576966
 flavor_text: Her triumph came not from destroying the unnatural, but from fostering life.
 oracle_text: Search your library for up to two basic Forest cards. If you control a Nissa planeswalker, instead search your library for up to three land cards. Reveal those cards, put them into your hand, then shuffle.
+mana_cost: "{G}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 ---
 
 # Nissa's Triumph (War of the Spark)

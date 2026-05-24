@@ -50,6 +50,9 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/232-mazemind-tom
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/f/9fd761f3-6b43-4150-8595-dc3abd85b06c.jpg?1594737505
 oracle_text: "{T}, Put a page counter on this artifact: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)\\n{2}, {T}, Put a page counter on this artifact: Draw a card.\\nWhen there are four or more page counters on this artifact, exile it. If you do, you gain 4 life."
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

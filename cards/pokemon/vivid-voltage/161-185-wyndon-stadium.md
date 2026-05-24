@@ -48,6 +48,9 @@ oracle_text: Whenever either player plays a Pokémon VMAX from their hand to evo
 mood: action
 time_of_day: indeterminate
 setting: indoor
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

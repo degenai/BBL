@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/5/c52d66db-5570-
 flavor_text: 2018 World Champion Javier Domínguez
 oracle_text: First strike, haste\nWhenever this creature attacks, another target attacking Knight you control gets +1/+0 until end of turn.\nEquip abilities you activate that target this creature cost {3} less to activate.
 mana_cost: "{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

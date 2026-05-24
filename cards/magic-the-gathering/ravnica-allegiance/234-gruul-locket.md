@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/e/1ec78880-a8ec-
 flavor_text: \"In life, it was a cunning survivor, fearless and quick. May its power pass to you as you wear its skull.\"\n—Gna, Gruul shaman
 oracle_text: "{T}: Add {R} or {G}.\\n{R/G}{R/G}{R/G}{R/G}, {T}, Sacrifice this artifact: Draw two cards."
 mana_cost: "{3}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

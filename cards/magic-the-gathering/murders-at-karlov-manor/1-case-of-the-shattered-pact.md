@@ -37,12 +37,12 @@ market_price: 0.22
 market_price_as_of: 2026-05-24
 date_added: 2026-05-14
 last_seen: 2026-05-23
-reference_image_source_url: https://cards.scryfall.io/png/front/2/a/2a70f0ae-d49b-4cc8-9f76-895039c3dc39.png?1706241444
+reference_image_source_url: https://cards.scryfall.io/png/front/2/a/2a70f0ae-d49b-4cc8-9f76-895039c3dc39.png?1778830616
 art_match_confidence: high
 needs_manual_review: false
 artist: Peter Polach
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/1-case-of-the-shattered-pact--art.jpg
-art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/a/2a70f0ae-d49b-4cc8-9f76-895039c3dc39.jpg?1706241444
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/a/2a70f0ae-d49b-4cc8-9f76-895039c3dc39.jpg?1778830616
 oracle_text: When this Case enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nTo solve — There are five colors among permanents you control. (If unsolved, solve at the beginning of your end step.)\nSolved — At the beginning of combat on your turn, target creature you control gains flying, double strike, and vigilance until end of turn.
 image_width: 745
 image_height: 1040

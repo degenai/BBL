@@ -49,6 +49,9 @@ characters:
   - acerola
   - alola-trial-captains
   - alola-elite-four
+image_width: 733
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

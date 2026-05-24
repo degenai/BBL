@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/f/dfffe235-98b1-
 flavor_text: Teyo gifted his shields to as many allies as possible, knowing he could not always be there to protect them himself.
 oracle_text: When this creature enters, put a +1/+1 counter on target creature you control.
 mana_cost: "{2}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

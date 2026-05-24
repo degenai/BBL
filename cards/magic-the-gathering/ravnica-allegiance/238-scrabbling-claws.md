@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/7/67b06cb5-5e74-
 flavor_text: Feed it steel. Feed it gold. Feed it bone. In the belly of the furnace, the flames know no difference.
 oracle_text: "{T}: Target player exiles a card from their graveyard.\\n{1}, Sacrifice this artifact: Exile target card from a graveyard. Draw a card."
 mana_cost: "{1}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/3/032f6c5a-8d88-
 flavor_text: \"My lance was once wielded by Venerable Tarrian. In his name and by his might, I cast you down!\"
 oracle_text: Destroy target creature with power 4 or greater.
 mana_cost: "{2}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

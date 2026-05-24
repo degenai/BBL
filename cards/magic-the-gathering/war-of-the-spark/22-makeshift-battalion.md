@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/2/82293d58-d3b4-
 flavor_text: Their ranks are thin, their formation is improvised, their weapons are borrowed, and you'd best get out of their way.
 oracle_text: Battalion — Whenever this creature and at least two other creatures attack, put a +1/+1 counter on this creature.
 mana_cost: "{2}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

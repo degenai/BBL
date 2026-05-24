@@ -30,13 +30,13 @@ tags_filter:
   - metal-type
   - creature-pokemon
   - evolution
-reference_image: cards/_images/pokemon/fusion-strike/183-264-excadrill.png
+reference_image: cards/_images/pokemon/fusion-strike/183-264-excadrill.jpg
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh8/183_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/c/c6/ExcadrillFusionStrike183.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Lee HyunJung
@@ -50,6 +50,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - drilbur-line
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

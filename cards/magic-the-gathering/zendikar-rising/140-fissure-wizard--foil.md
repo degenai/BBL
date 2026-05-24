@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/f/9fa10a18-5059-
 flavor_text: He might call up a burst of lava or a raging hellion from Akoum's volcanic depths. Or he might just fall in.
 oracle_text: When this creature enters, you may discard a card. If you do, draw a card.
 mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

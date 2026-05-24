@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/5/45657345-b564-
 flavor_text: Finders, keepers.
 oracle_text: "When this creature enters, create a Treasure token. (It's an artifact with \\\"{T}, Sacrifice this token: Add one mana of any color.\\\")"
 mana_cost: "{3}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

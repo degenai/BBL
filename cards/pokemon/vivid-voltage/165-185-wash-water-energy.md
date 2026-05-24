@@ -38,7 +38,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh4/165_hires.png
 art_match_confidence: high
 needs_manual_review: false
-oracle_text: |-
+oracle_text: As long as this card is attached to a Pokémon, it provides Water Energy.\nPrevent all effects of attacks from your opponent's Pokémon done to the Water Pokémon this card is attached to. (Existing effects are not removed. Damage is not an effect.)
   As long as this card is attached to a Pokémon, it provides Water Energy.
   Prevent all effects of attacks from your opponent's Pokémon done to the Water Pokémon this card is attached to. (Existing effects are not removed. Damage is not an effect.)
 mood: sublime

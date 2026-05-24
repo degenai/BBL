@@ -57,6 +57,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/b/4bd3014b-94bb-
 flavor_text: Some angels protect the meek and innocent. Others seek out and smite evil wherever it lurks.
 oracle_text: Flying, first strike, lifelink, protection from Demons and from Dragons
 mana_cost: "{3}{W}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

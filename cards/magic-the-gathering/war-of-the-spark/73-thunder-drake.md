@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/8/f88a9bc4-1b15-
 flavor_text: The arrival of the Planar Bridge caused eddies in the aether, creating some entirely new species while transforming others.
 oracle_text: Flying\nWhenever you cast your second spell each turn, put a +1/+1 counter on this creature.
 mana_cost: "{3}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

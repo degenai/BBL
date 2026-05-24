@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/59e19bac-176c-
 flavor_text: An infinite journey in an infinitesimal time.
 oracle_text: Exile target creature or enchantment, then return it to the battlefield under its owner's control.
 mana_cost: "{1}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

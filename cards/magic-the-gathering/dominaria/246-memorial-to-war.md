@@ -51,6 +51,9 @@ artist: Richard Wright
 art_crop_image: cards/_images/magic-the-gathering/dominaria/246-memorial-to-war--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/3/53920ed7-fc9a-4b50-85c8-d62de05b2390.jpg?1562735726
 oracle_text: "This land enters tapped.\\n{T}: Add {R}.\\n{4}{R}, {T}, Sacrifice this land: Destroy target land."
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

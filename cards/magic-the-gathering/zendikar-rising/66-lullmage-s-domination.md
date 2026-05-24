@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/9/c9944393-348f-
 flavor_text: \"One spell to quiet the Roil, one to quash the will. The principle is the same.\"
 oracle_text: This spell costs {3} less to cast if it targets a creature whose controller has eight or more cards in their graveyard.\nGain control of target creature with mana value X.
 mana_cost: "{X}{U}{U}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

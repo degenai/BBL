@@ -50,6 +50,7 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{5}{G}{G}"
 tags:
   - card
   - vision-passed

@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - eldrazi
   - ruins
   - golem
@@ -23,7 +23,7 @@ tags_hub:
   - temple
   - siege
   - predator
-tags_filter:
+tags_filter: []
   - duo
   - wide
   - scene-mode
@@ -33,15 +33,15 @@ tags_filter:
   - creature-eldrazi
   - trample
   - no-color
-reference_image: cards/_images/magic-the-gathering/modern-horizons-3/206-titans-vanguard.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.18
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/f/b/fb3ea14e-44ac-4f69-bfea-cb6bf1bfbd74.png?1717012866
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 characters:
   - eldrazi
 artist: Richard Kane Ferguson
@@ -53,6 +53,7 @@ mood: action
 time_of_day: indeterminate
 setting: other
 mana_cost: "{3}{R}{G}"
+manual_review_reason: No reference image found via scryfall for set 'Modern Horizons 3'
 tags:
   - card
   - vision-passed
@@ -61,20 +62,12 @@ tags:
 
 ## Vision
 
-![206-titans-vanguard](../../_images/magic-the-gathering/modern-horizons-3/206-titans-vanguard.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-Rendered in Richard Kane Ferguson's distinctive loose watercolor style with visible hatching and gestural marks, this wide scene depicts a massive dark-armored creature — segmented, many-limbed, with a long neck and beak-like jaw — diving from above to attack or seize something. Its dark blue-black scales and articulated limbs suggest an Eldrazi or similar alien horror. To the left, a tall twisted humanoid figure of blue stone or crystal stands on a plinth, possibly a golem or animated construct. In the foreground right, a squat ruined architectural block and a small golden spherical object sit at ground level. The background is a chaotic mass of muted grey-blue rubble and surging shapes suggesting a ruined temple or collapsed structure under assault. The palette is dominated by grey-blue, muted yellow-green, and charcoal-black, with the gold orb as the only warm accent.
 
-**Subject:** A massive dark-scaled creature with multiple clawed limbs and a long armored neck swoops down to attack in a ruined architectural setting; a tall twisted blue stone or crystal humanoid golem-construct stands to the left; small crumbling monuments and a golden orb appear in the foreground
+**Subject:** 
 
-**Composition:** wide, action, figures: duo, facing: forward
-**Setting:** other, ruined, indeterminate
-**Foreground:** Ruined stone block, golden orb; ground-level rubble  *(palette: grey, gold, pale-stone, black)*
-**Background:** Chaotic ruined temple setting with collapsing masonry and surging creature-forms  *(palette: grey-blue, muted-yellow-green, charcoal, slate)*
-**Mood / lighting:** action, ambient
-**Emotion read:** relentless predatory dive; overwhelming force descending
-**Objects:** ruined-plinth, golden-orb, rubble
-**Creatures:** eldrazi-creature, golem, stone-construct
-**Iconography:** golden-orb, ruined-monument
-**Genre cues:** fantasy, cosmic-horror
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

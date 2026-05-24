@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/8/2829fa40-92e4-
 flavor_text: Bolas cared little when his statue fell, thinking it a useful distraction, underestimating the surge of resolve it gave his opponents.
 oracle_text: Tap target permanent. If it's an artifact, destroy it.\nDraw a card.
 mana_cost: "{2}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

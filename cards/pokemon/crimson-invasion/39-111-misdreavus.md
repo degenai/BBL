@@ -30,13 +30,13 @@ tags_filter:
   - psychic-type
   - common
   - no-body
-reference_image: cards/_images/pokemon/crimson-invasion/39-111-misdreavus.png
+reference_image: cards/_images/pokemon/crimson-invasion/39-111-misdreavus.jpg
 average_cost_paid: 0
 market_price: 0.24
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/sm4/39_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/2/20/MisdreavusCrimsonInvasion39.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: so-taro
@@ -48,6 +48,9 @@ setting: void
 suspected_ip: Misdreavus
 ip_confidence: high
 ip_verified: true
+image_width: 908
+image_height: 1280
+image_quality: high
 tags:
   - card
   - pokemon

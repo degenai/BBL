@@ -50,6 +50,11 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cf76bee3-2b69-
 flavor_text: A symbol of sagacity in bewildering times.
 oracle_text: Whenever you cast a blue spell or an Island you control enters, you gain 1 life.
 mana_cost: "{3}"
+characters:
+  - staff-of-the-magus-cycle
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed
@@ -73,4 +78,18 @@ A vertical composition centered on a tall ceremonial staff held upright by a sin
 **Objects:** staff, books, spiral-ornament, library-shelves
 **Iconography:** spiral, staff
 **Genre cues:** fantasy, arcane, scholarly
+
+## Trivia
+
+- **Cycle membership** — Staff of the Mind Magus is the blue member of the five-card "Staff of the Magus" artifact cycle (one per color), triggering on blue spells or Islands entering. All five originated in M14 (July 2013); this card and Staff of the Flame Magus are the two reprinted in M15 (July 2014). The three M14-only members are Staff of the Death Magus (B), Staff of the Sun Magus (W), and Staff of the Wild Magus (G). `[Scryfall: m14/221, m15/234]`
+- **Set context** — Magic 2015 was released July 18, 2014, as the penultimate annual core set before Wizards retired the product line after Magic Origins (2015). M15 is notable for its updated card frame treatment first applied across the line. `[Scryfall]`
+- **Flavor text** — *"A symbol of sagacity in bewildering times."* — no speaker attributed. The parallel construction across the cycle is deliberate: each staff flavor line reads "A symbol of [virtue] in [adverse] times," linking all five as a philosophical set. `[Scryfall]`
+- **Mechanical note** — Like its cycle-mates, the trigger fires on any land with the Island subtype — including duals, shocklands, and fetch targets. EDHREC rank 17,339, marginally lower even than the Flame Magus variant; primarily a role-player in mono-blue control or Urza artifact-synergy shells that incidentally want lifegain. `[Scryfall oracle text; EDHREC rank via Scryfall]`
+- **Artist** — Daniel Ljunggren is the artist for both M15 cycle members (Flame Magus and Mind Magus), giving him an unusual distinction: sole artist for the two M15 reprints of a five-card cycle. `[Scryfall artist field]`
+
+### Related cards
+- Staff of the Flame Magus (M15, 233) — direct cycle partner, same artist, same set, same wave
+- Staff of the Death Magus (M14, 219) — cycle member, black alignment, M14-only printing
+- Staff of the Sun Magus (M14, 222) — cycle member, white alignment, M14-only printing
+- Staff of the Wild Magus (M14, 223) — cycle member, green alignment, M14-only printing
 

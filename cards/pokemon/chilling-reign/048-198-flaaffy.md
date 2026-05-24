@@ -28,13 +28,13 @@ tags_filter:
   - portrait-mode
   - lightning-type
   - pokemon-stage1
-reference_image: cards/_images/pokemon/chilling-reign/048-198-flaaffy.png
+reference_image: cards/_images/pokemon/chilling-reign/048-198-flaaffy.jpg
 average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh6/48_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/0/0e/FlaaffyChillingReign48.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: sui
@@ -48,6 +48,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - mareep-line
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

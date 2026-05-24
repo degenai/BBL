@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/2/52f7c53d-0b53-
 flavor_text: "The Temur believe three things only are needed in life: a hot fire, a full belly, and a strong companion."
 oracle_text: You gain 5 life.\nFerocious — You gain 10 life instead if you control a creature with power 4 or greater.
 mana_cost: "{1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

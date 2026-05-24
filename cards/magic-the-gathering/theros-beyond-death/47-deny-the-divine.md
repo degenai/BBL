@@ -49,6 +49,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/2/1200f68a-a8ea-
 flavor_text: \"A great wave crashed, and a mighty wind blew out the stars.\"\n—*The Cosmogony*
 oracle_text: Counter target creature or enchantment spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
 mana_cost: "{2}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

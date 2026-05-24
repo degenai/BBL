@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/d/6da46103-a14c-
 flavor_text: Kargan tribal lands rarely have issues with goblin raids. Coincidentally, they also rarely have issues keeping their dragons fed.
 oracle_text: As an additional cost to cast this spell, discard a card.\nDraw two cards.
 mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

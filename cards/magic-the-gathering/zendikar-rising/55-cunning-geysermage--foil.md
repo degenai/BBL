@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - wizard
   - mage
   - spellcaster
@@ -23,7 +23,7 @@ tags_hub:
   - elemental-magic
   - ritual
   - landscape
-tags_filter:
+tags_filter: []
   - solo
   - wide-shot
   - scene-mode
@@ -33,15 +33,15 @@ tags_filter:
   - creature-human
   - creature-wizard
   - common
-reference_image: cards/_images/magic-the-gathering/zendikar-rising/55-cunning-geysermage--foil.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'Zendikar Rising'
 reference_image_source_url: https://cards.scryfall.io/png/front/2/2/2217f0a9-5af5-45cc-8cf7-8878d4f66dd8.png?1604193977
 mood: sublime
 time_of_day: day
@@ -60,19 +60,12 @@ tags:
 
 ## Vision
 
-![55-cunning-geysermage--foil](../../_images/magic-the-gathering/zendikar-rising/55-cunning-geysermage--foil.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A robed human wizard stands atop a jagged stone spire that juts out over a churning geyser basin. She raises a long staff in one hand as a tall column of water erupts in the background, sending mist and spray across the scene. Distant cliffs and a pale sky frame the composition. The palette is dominated by cool blues, slate grays, and chalky whites, with the wizard's silhouette reading as a small but central figure against the immense waterworks behind her. The vibe is dynamic and elemental — a caster commanding a landscape feature rather than fighting an enemy.
 
-**Subject:** A human wizard perched on a high rocky outcrop above a roaring geyser, holding a long staff aloft as plumes of water and spray erupt around her
+**Subject:** 
 
-**Composition:** wide, action, figures: solo, facing: three-quarter
-**Setting:** mountain, day, calm
-**Foreground:** Robed wizard with raised staff standing on a stone outcrop  *(palette: slate-blue, gray, off-white, muted-brown)*
-**Background:** Erupting geyser column, distant rocky cliffs, pale overcast sky  *(palette: pale-blue, white, stone-gray)*
-**Mood / lighting:** sublime, ambient
-**Emotion read:** focused, commanding, mid-incantation
-**Objects:** staff, robes
-**Iconography:** raised-staff, water-column
-**Genre cues:** fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

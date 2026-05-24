@@ -50,6 +50,7 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: other
+mana_cost: "{1}{B}"
 tags:
   - card
   - vision-passed

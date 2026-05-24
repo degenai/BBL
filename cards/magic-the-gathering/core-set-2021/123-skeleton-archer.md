@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fcb8d414-7f80-
 flavor_text: \"Soul, flesh, even eyes—none of these are strictly necessary for deadly precision.\"\n—Modriss of Zargoth Fen
 oracle_text: When this creature enters, it deals 1 damage to any target.
 mana_cost: "{3}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

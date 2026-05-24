@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/a/bac6bdd4-b25b-
 flavor_text: \"Renata was mesmerized by the satyr's dance of gleeful indifference, of reckless grace and bright disaster.\"\n—Luphea of Setessa, *Histories*
 oracle_text: When this creature dies, it deals 2 damage to target creature or planeswalker an opponent controls.
 mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

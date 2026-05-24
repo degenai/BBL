@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/3/c3af5942-d171-
 flavor_text: Some are annoyed by the constant ticking as they clean the cobbles, but to the castle custodians, there's no sweeter sound.
 oracle_text: Adamant — When this creature enters, if at least three mana of the same color was spent to cast it, draw a card.
 mana_cost: "{3}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

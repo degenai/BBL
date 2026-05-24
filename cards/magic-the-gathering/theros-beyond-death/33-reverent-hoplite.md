@@ -57,6 +57,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/4/54153b9c-483e-
 flavor_text: \"Zeal is the sharpest blade, and piety the strongest shield.\"
 oracle_text: When this creature enters, create a number of 1/1 white Human Soldier creature tokens equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)
 mana_cost: "{4}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

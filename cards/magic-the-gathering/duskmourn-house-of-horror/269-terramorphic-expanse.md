@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - haunted-house
   - staircase
   - liminal-space
@@ -23,7 +23,7 @@ tags_hub:
   - the-house
   - impossible-architecture
   - twilight-realm
-tags_filter:
+tags_filter: []
   - no-figures
   - wide-shot
   - scene-mode
@@ -31,15 +31,15 @@ tags_filter:
   - colorless
   - fetch-land
   - basic-land-fetcher
-reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/269-terramorphic-expanse.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.26
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/b/3/b379c8f1-817c-4f18-8f58-45c40504433e.png?1726286878
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 artist: Sam Burley
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/269-terramorphic-expanse--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/3/b379c8f1-817c-4f18-8f58-45c40504433e.jpg?1726286878
@@ -48,6 +48,7 @@ oracle_text: "{T}, Sacrifice this land: Search your library for a basic land car
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+manual_review_reason: "No reference image found via scryfall for set 'Duskmourn: House of Horror'"
 tags:
   - card
   - vision-passed
@@ -56,21 +57,14 @@ tags:
 
 ## Vision
 
-![269-terramorphic-expanse](../../_images/magic-the-gathering/duskmourn-house-of-horror/269-terramorphic-expanse.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A surreal cutaway view of a house interior where architecture, gravity, and perspective have come unstuck. A pale stone or wood staircase curves up the center-left of the frame, banister rendered in soft pinks and whites. Visible through fractured wall apertures are multiple rooms occupying conflicting orientations: at upper-left a curved window or tank-like chamber shows churning blue-black storm clouds with white-curl detail; upper-right a chamber framed by warped beams glows in orange and coral, its back wall obscured by ragged red-pink curtain or vegetation; right-of-center a corridor sits behind a row of pale, vertically-draped sheet-like forms hanging in pillar arrangement; lower-right a stone-flagged chamber is studded with rows of small pink-magenta points of light reading as candle flames or eyes. Soft violet, dusty rose, coral, sage, and pale teal dominate. The overall feeling is dollhouse-cross-section meets liminal-space horror. No clearly identifiable figures are depicted, though the row of draped white forms suggests sheeted humanoid silhouettes.
 
-**Subject:** The interior of an impossible, warped house in which a curving staircase ascends past multiple impossibly-oriented rooms — each chamber visible through fractured wall openings shows a different scene including stormy seas, fiery skies, draped sheeted forms, and a chamber lit by pink-magenta points of light
+**Subject:** 
 
-**Composition:** wide, narrative, figures: none, facing: n/a
-**Setting:** indoor, gothic, indeterminate, storm
-**Foreground:** curving staircase and banister rendered in pale pinks and whites  *(palette: pale-pink, cream, soft-violet, dusty-rose)*
-**Background:** fractured wall openings revealing storm-cloud chamber, fire-lit chamber, draped sheet-forms, and pink-candle-lit chamber  *(palette: teal, violet, coral, magenta, sage, blue-black)*
-**Mood / lighting:** horror, ambient
-**Emotion read:** n/a
-**Objects:** staircase, banister, candles, draped-sheets, fractured-walls
-**Iconography:** staircase, fractured-architecture, candle-lights, sheeted-form
-**Genre cues:** gothic-horror, liminal-space, surreal, dark-fantasy, dollhouse
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

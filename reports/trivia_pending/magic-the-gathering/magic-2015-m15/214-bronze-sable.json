@@ -1,0 +1,41 @@
+{
+  "card_name": "Bronze Sable",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2015 (M15)",
+  "collector_number": "214",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "First printed in Theros (THS, 2013) as no. 212, reprinted in Magic 2015 (M15, 2014) as no. 214. Same art by Jasper Sandner and same flavor text in both printings. M15 imported Theros-lore cards into the core set's generic fantasy context. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Flavor text is from The Theriad — an in-world Therosian epic poem cataloguing champions of the gods. The scene depicts bronze guardians animated by Karametra to defend her shrine against the Returned (Theros's undead). Karametra's canonical iconography includes a massive black sable as her divine companion [WebSearch via Fandom/CoolStuffInc], making these bronze temple guardians a direct extension of her symbolism.",
+      "sources": ["Scryfall", "WebSearch via Fandom/CoolStuffInc"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The Champion stood alone between the horde of the Returned and the shrine to Karametra, cutting down scores among hundreds. She would have been overcome if not for the aid of the temple guardians whom Karametra awakened.\" — The Theriad [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Blank oracle text — a vanilla 2/1 artifact creature for {2}. No abilities. EDHREC rank 25,071. Competitive value is nil; it carries Theros lore density without mechanical complexity. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Karametra, God of Harvests", "set": "Born of the Gods", "note": "the goddess whose shrine the bronze sables guard; her divine companion is a black sable"},
+    {"name": "Bronze Sable", "set": "Theros", "note": "same card, original printing (no. 212); identical art and flavor text"},
+    {"name": "Guardian Idol", "set": "various", "note": "functional comparison as a vanilla colorless artifact creature"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

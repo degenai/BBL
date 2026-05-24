@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/7/87e65427-1191-
 flavor_text: \"The dim resort to violence, for which the nimble prepare.\"\n—Leovold, emissary of Trest
 oracle_text: When this creature enters, you become the monarch.\nThis creature can block an additional creature each combat as long as you're the monarch.
 mana_cost: "{4}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

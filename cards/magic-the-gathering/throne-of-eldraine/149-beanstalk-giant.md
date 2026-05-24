@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/149-beansta
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/6/a66f5ea7-ddbb-4b89-b812-77bd17972cf9.jpg?1677015123
 oracle_text: Beanstalk Giant's power and toughness are each equal to the number of lands you control.
 mana_cost: "{6}{G} // {2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

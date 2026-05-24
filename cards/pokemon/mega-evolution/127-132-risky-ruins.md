@@ -43,6 +43,9 @@ oracle_text: Whenever any player puts a Basic non-Darkness Pokémon onto their B
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+image_width: 733
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

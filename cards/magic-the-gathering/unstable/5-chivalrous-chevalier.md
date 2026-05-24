@@ -50,6 +50,7 @@ image_quality: high
 mood: comedic
 time_of_day: day
 setting: other
+mana_cost: "{4}{W}"
 tags:
   - card
   - vision-passed

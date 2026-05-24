@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/191-nyxbor
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/b/8b4f003c-1e99-4e53-ad6d-81ff3c592b2c.jpg?1592335274
 flavor_text: \"Tree-tall giants confronted her, fiercely demanding her tribute;\nFox-cunning Callaphe's slippery speaking entangled their senses...\"\n—*The Callapheia*
 mana_cost: "{3}{G}{G}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

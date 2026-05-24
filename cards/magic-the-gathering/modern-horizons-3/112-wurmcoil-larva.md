@@ -15,7 +15,7 @@ ip_confidence: none
 ip_verified: false
 characters:
   - phyrexia
-tags_hub:
+tags_hub: []
   - wurm
   - phyrexia
   - monster
@@ -25,7 +25,7 @@ tags_hub:
   - corruption
   - horror
   - serpent
-tags_filter:
+tags_filter: []
   - duo
   - wide
   - scene-mode
@@ -34,15 +34,15 @@ tags_filter:
   - artifact-creature
   - deathtouch
   - lifelink
-reference_image: cards/_images/magic-the-gathering/modern-horizons-3/112-wurmcoil-larva.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/c/c/cc9b30e0-3934-4e4c-bdd9-5b7696b45948.png?1717012109
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 artist: David Astruga
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/112-wurmcoil-larva--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/c/cc9b30e0-3934-4e4c-bdd9-5b7696b45948.jpg?1717012109
@@ -51,6 +51,7 @@ oracle_text: Deathtouch, lifelink\nWhen this creature dies, create a 1/2 black P
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+manual_review_reason: No reference image found via scryfall for set 'Modern Horizons 3'
 tags:
   - card
   - vision-passed
@@ -61,21 +62,14 @@ tags:
 
 ## Vision
 
-![112-wurmcoil-larva](../../_images/magic-the-gathering/modern-horizons-3/112-wurmcoil-larva.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A massive wurm fills most of the composition, its body built from interlocking segmented plates somewhere between organic and mechanical. Its raised head bristles with horn-like spines and glows with yellow-green eyes. Green-yellow energy or bioluminescence traces the gaps between its segments. In the background, a robed humanoid figure stands with both arms raised — whether in control or alarm is ambiguous. The setting appears to be a dim enclosed chamber or tunnel with warm amber-brown walls. The palette is dominated by earthy browns and golden-green energy accents.
 
-**Subject:** A large segmented mechanical-organic wurm rears up in a dim chamber, its head ringed with spines and glowing yellow eyes; a robed figure in the background raises their arms in response
+**Subject:** 
 
-**Composition:** wide, narrative, figures: duo, facing: three-quarter
-**Setting:** dungeon, indeterminate
-**Foreground:** segmented wurm with spine-ringed head and glowing segments  *(palette: brown, gold, green-yellow)*
-**Background:** dim amber chamber, robed figure with raised arms  *(palette: amber, brown, ochre)*
-**Mood / lighting:** grim, ambient
-**Emotion read:** menacing, looming threat
-**Creatures:** wurm, phyrexian creature
-**Iconography:** spines, bioluminescence, segmented body
-**Genre cues:** fantasy, sci-fi
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

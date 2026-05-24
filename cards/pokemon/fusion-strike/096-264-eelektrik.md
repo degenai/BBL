@@ -30,13 +30,13 @@ tags_filter:
   - uncommon
   - pokemon
   - stage-1
-reference_image: cards/_images/pokemon/fusion-strike/096-264-eelektrik.png
+reference_image: cards/_images/pokemon/fusion-strike/096-264-eelektrik.jpg
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh8/96_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/0/0e/EelektrikFusionStrike96.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Shigenori Negishi
@@ -48,6 +48,9 @@ setting: ocean
 suspected_ip: Eelektrik
 ip_confidence: high
 ip_verified: true
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

@@ -50,6 +50,9 @@ setting: forest
 suspected_ip: Cottonee
 ip_confidence: high
 ip_verified: false
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

@@ -51,6 +51,7 @@ image_quality: high
 mood: sublime
 time_of_day: night
 setting: indoor
+mana_cost: "{W} // {1}{W}"
 tags:
   - card
   - vision-passed

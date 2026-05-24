@@ -13,7 +13,7 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub:
+tags_hub: []
   - dragon
   - fire
   - attack
@@ -23,7 +23,7 @@ tags_hub:
   - ferocity
   - furnace
   - power
-tags_filter:
+tags_filter: []
   - solo
   - mid-shot
   - forward-facing
@@ -31,15 +31,15 @@ tags_filter:
   - creature-dragon
   - flying
   - action-mode
-reference_image: cards/_images/magic-the-gathering/modern-horizons-3/121-furnace-hellkite.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/1/f/1f9d91b5-7c09-4a9c-9dc8-fdd4c049009c.png?1717012177
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 artist: Fang Xinyu
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/121-furnace-hellkite--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/f/1f9d91b5-7c09-4a9c-9dc8-fdd4c049009c.jpg?1717012177
@@ -48,6 +48,7 @@ oracle_text: "Affinity for artifacts (This spell costs {1} less to cast for each
 mood: action
 time_of_day: indeterminate
 setting: other
+manual_review_reason: No reference image found via scryfall for set 'Modern Horizons 3'
 tags:
   - card
   - vision-passed
@@ -58,21 +59,14 @@ tags:
 
 ## Vision
 
-![121-furnace-hellkite](../../_images/magic-the-gathering/modern-horizons-3/121-furnace-hellkite.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A massive dragon dominates the frame, its body rendered in warm reddish-orange and tan tones. The creature's head is thrust forward at the viewer, jaws opened to their full extent revealing rows of teeth. Multiple horn-like protrusions ring its skull. Its body is low and aerodynamic, suggesting speed. Explosive flares of orange-gold light burst in the background, possibly fire or impact energy. The sky and ground beneath it are rendered in a hazy grey-tan, giving the impression of a barren industrial or volcanic landscape. The composition pushes directly toward the viewer — an attack pose with nothing between the dragon and the frame edge.
 
-**Subject:** A large reddish-orange dragon with an enormous open maw lunges forward, its jaws stretched wide, horns prominent, body low and fast
+**Subject:** 
 
-**Composition:** mid-shot, action, figures: solo, facing: forward
-**Setting:** other, indeterminate, fire
-**Foreground:** dragon's open jaws and horned head  *(palette: reddish-orange, tan, gold)*
-**Background:** hazy grey-tan landscape with explosive orange-gold light  *(palette: grey, tan, orange-gold)*
-**Mood / lighting:** action, harsh
-**Emotion read:** ferocious hunger, feral aggression
-**Creatures:** dragon, hellkite
-**Iconography:** open jaws, horns, fire, attack
-**Genre cues:** fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

@@ -51,6 +51,10 @@ oracle_text: When this creature enters, mill two cards, then put a +1/+1 counter
 mood: comedic
 time_of_day: day
 setting: desert
+mana_cost: "{3}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/6/96613089-3508-
 flavor_text: \"It's strangely satisfying seeing an undead killing machine from another world standing befuddled in front of a wall of text.\"\n—Lavinia
 oracle_text: Defender (This creature can't attack.)\nWhen this creature enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
 mana_cost: "{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

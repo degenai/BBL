@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/3/33a78207-fd76-
 flavor_text: \"I would rather cast myself into the abyss than let my blood stain the cap of those monsters.\"\n—Syr Alin, the Lion's Claw
 oracle_text: "{1}{R}: This creature gets +2/+0 until end of turn."
 mana_cost: "{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

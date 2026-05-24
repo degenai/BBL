@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/3/73373421-c43d-
 flavor_text: \"Garl, adjust the slurry dispensers. Garl, fetch more corpses. Garl, quit crying and give me your brain tissue. If he doesn't stop being so rude, I'm quitting.\"
 oracle_text: "{T}, Mill a card: Add {C}. (To mill a card, put the top card of your library into your graveyard.)"
 mana_cost: "{1}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

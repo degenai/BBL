@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/d/fd1c9129-254d-
 flavor_text: \"Tread upon these flower beds at your own peril.\"\n—Emmara
 oracle_text: When this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 mana_cost: "{3}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

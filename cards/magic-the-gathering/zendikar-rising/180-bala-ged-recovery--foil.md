@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/5/c5cb3052-358d-
 flavor_text: \"Always have a backup plan.\"\n—Doral, Bala Ged guide
 oracle_text: Return target card from your graveyard to your hand.
 mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

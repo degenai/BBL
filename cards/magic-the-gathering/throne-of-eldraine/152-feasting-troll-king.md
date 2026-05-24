@@ -50,6 +50,10 @@ artist: Nicholas Gregory
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/152-feasting-troll-king--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a6bb435-1205-416a-a5a0-ca6d37b4dcb2.jpg?1572490524
 oracle_text: "Vigilance, trample\\nWhen this creature enters, if you cast it from your hand, create three Food tokens. (They're artifacts with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")\\nSacrifice three Foods: Return this card from your graveyard to the battlefield. Activate only during your turn."
+mana_cost: "{2}{G}{G}{G}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

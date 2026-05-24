@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/7/6754d6cf-3506-
 flavor_text: \"Only the lion knows more stories than I do.\"\n—Chulane, Teller of Tales
 oracle_text: Whenever one or more non-Human creatures you control deal combat damage to a player, draw a card.
 mana_cost: "{3}{G}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

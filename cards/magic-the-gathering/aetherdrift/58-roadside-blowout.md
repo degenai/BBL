@@ -53,6 +53,9 @@ mood: action
 time_of_day: magic-hour
 setting: other
 mana_cost: "{2}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -41,8 +41,8 @@ review_good: false
 review_bad: true
 review_notes: "Cached image is Team Aqua's Great Ball — a different similarly-named card, not the Sun & Moon Base Set Great Ball. Fuzzy-set-code fallback stalled on a stale download. Source URL https://images.pokemontcg.io/sm1/119_hires.png is correct; needs re-download to overwrite the cached PNG. Surfaced wave 175 by vision pass."
 artist: Ryo Ueda
-image_width: 700
-image_height: 990
+image_width: 734
+image_height: 1024
 image_quality: high
 mood: other
 time_of_day: indeterminate

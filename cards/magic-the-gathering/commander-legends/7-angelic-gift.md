@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/b/db0775f2-3fd9-
 flavor_text: \"Zendikar will triumph this day, and our armies will fly with angels.\"
 oracle_text: Enchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature has flying.
 mana_cost: "{1}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

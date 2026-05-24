@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/8/48168005-65cc-
 flavor_text: Designed by an ancient artificer, the finest Mardu bows are carved from dragon bone and strung with the wind itself.
 oracle_text: "Whenever equipped creature attacks, this Equipment deals 1 damage to target creature defending player controls.\\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

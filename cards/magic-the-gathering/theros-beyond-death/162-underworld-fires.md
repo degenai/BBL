@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/f/0fe616c4-dcb0-
 flavor_text: The Underworld is anything but a resting place.
 oracle_text: Underworld Fires deals 1 damage to each creature and each planeswalker. If a permanent dealt damage this way would die this turn, exile it instead.
 mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

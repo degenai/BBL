@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/e/0e386888-57f5-
 flavor_text: \"Living creatures seldom impress me. But I like this one.\"\n—Uta Falkenrath
 oracle_text: Flash\nDeathtouch
 mana_cost: "{1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

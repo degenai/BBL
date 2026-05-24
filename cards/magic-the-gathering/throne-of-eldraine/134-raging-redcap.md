@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/9/d9325398-41c3-
 flavor_text: "Many tales of redcap terror begin with two simple things: bloodlust and stolen steel."
 oracle_text: Double strike (This creature deals both first-strike and regular combat damage.)
 mana_cost: "{2}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

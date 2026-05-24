@@ -50,6 +50,9 @@ art_crop_image: cards/_images/magic-the-gathering/guilds-of-ravnica/200-sumala-w
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/c/8c4e427e-c061-43c5-9e8e-34bf5b447ab1.jpg?1572893819
 oracle_text: When this creature enters, look at the top four cards of your library. You may reveal a creature or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 mana_cost: "{2}{G}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

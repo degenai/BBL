@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0ae0c536-612d-
 flavor_text: Those caught attempting to escape the Underworld spend the rest of their existence trapped in the Mire of Punishment.
 oracle_text: Enchant creature\nEnchanted creature gets -3/-3.
 mana_cost: "{1}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

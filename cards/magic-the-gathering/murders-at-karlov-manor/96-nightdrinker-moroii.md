@@ -52,6 +52,7 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: other
+mana_cost: "{3}{B}"
 tags:
   - card
   - vision-passed

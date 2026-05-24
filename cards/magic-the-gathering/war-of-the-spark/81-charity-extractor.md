@@ -56,6 +56,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/5/3594f726-cdbb-
 flavor_text: \"War or no war, your donations are due, as always.\"
 oracle_text: Lifelink
 mana_cost: "{3}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

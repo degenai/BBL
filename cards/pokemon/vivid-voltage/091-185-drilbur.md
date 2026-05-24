@@ -39,7 +39,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Yuka Morii
 flavor_text: It brings its claws together and whirls around at high speed before rushing toward its prey.
-oracle_text: Scratch (Colorless) 10
+oracle_text: "Scratch (Colorless) 10\\nFocus Fist (ColorlessColorless) 50: Flip a coin. If tails, this attack does nothing."
 Focus Fist (ColorlessColorless) 50: Flip a coin. If tails, this attack does nothing.
 image_width: 734
 image_height: 1024

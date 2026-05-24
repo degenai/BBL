@@ -51,6 +51,9 @@ artist: Eytan Zana
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/259-wind-scarred-crag--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/6/56d7428b-25a7-4185-8c3e-69017bd1ba6d.jpg?1594737759
 oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {R} or {W}."
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

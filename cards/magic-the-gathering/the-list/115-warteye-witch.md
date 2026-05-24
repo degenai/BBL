@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/5/b5be9b82-8356-
 flavor_text: Eyeballs that portend unpleasant futures become slimy snacks instead.
 oracle_text: Whenever this creature or another creature you control dies, scry 1.
 mana_cost: "{2}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

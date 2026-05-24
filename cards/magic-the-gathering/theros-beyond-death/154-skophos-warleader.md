@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/59c39c70-8360-
 flavor_text: The minotaur polis of Skophos boasts grand temples to the god of slaughter.
 oracle_text: "{R}, Sacrifice another creature or an enchantment: This creature gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)"
 mana_cost: "{4}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

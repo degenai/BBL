@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/8/a8cf21a4-616d-
 flavor_text: \"I think I cracked a fang.\"
 oracle_text: "{6}{B}: Each opponent loses 2 life and you gain 2 life."
 mana_cost: "{1}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

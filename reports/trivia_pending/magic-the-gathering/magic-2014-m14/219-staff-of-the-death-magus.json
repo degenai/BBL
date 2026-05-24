@@ -1,0 +1,50 @@
+{
+  "card_name": "Staff of the Death Magus",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2014 (M14)",
+  "collector_number": "219",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Staff of the Death Magus (no. 219) is the black member of the complete five-card 'Staff of the Magus' cycle in Magic 2014, occupying consecutive collector numbers 219-223: Death (black/Swamp), Flame (red/Mountain), Mind (blue/Island), Sun (white/Plains), Wild (green/Forest). All five were first printed in M14, released 2013-07-19. Staff of the Flame Magus and Staff of the Mind Magus were later reprinted in Magic 2015 (M15); the Death, Sun, and Wild staffs were not.",
+      "sources": ["Scryfall: collector numbers and reprint fields for nos. 219-223, M14"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The lifegain trigger fires separately for spells AND lands, meaning a black ramp deck dropping Swamps gains life on both axes. Non-basic lands lacking the Swamp subtype (e.g., Caves of Koilos) do not trigger the staff, despite producing black mana.",
+      "sources": ["Scryfall: oracle_text field", "MTGSalvation: Staff Cycle thread 491561"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"A symbol of ambition in ruthless times.\" — no attributed speaker. The terse parallel structure across the cycle (ambition/conviction/ferocity, each in [adjective] times) is the flavor-text design motif tying all five cards together as a unified in-world motto set.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Daniel Ljunggren illustrated three of the five staff cycle cards in M14 (Death, Sun, Wild — nos. 219, 222, 223). Ljunggren has 191 credited MTG card illustrations.",
+      "sources": ["Scryfall: artist field", "Gatherer: Daniel Ljunggren artist search"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 8,060 — the highest of the three M14 staffs in this batch and the most Commander-played of the group, likely in lifegain-matters black decks (Oloro, Vito, Liesa, etc.).",
+      "sources": ["Scryfall: edhrec_rank field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Staff of the Flame Magus", "set": "Magic 2014 (M14)", "note": "Red cycle member, no. 220"},
+    {"name": "Staff of the Mind Magus", "set": "Magic 2014 (M14)", "note": "Blue cycle member, no. 221"},
+    {"name": "Staff of the Sun Magus", "set": "Magic 2014 (M14)", "note": "White cycle member, no. 222 (in this batch)"},
+    {"name": "Staff of the Wild Magus", "set": "Magic 2014 (M14)", "note": "Green cycle member, no. 223 (in this batch)"},
+    {"name": "Basilisk Collar", "set": "Worldwake", "note": "Comparable lifegain artifact, frequently cited in Commander comparisons"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "cycle_flag": "STAFF_OF_THE_MAGUS_M14 — all 5 members confirmed in M14 (nos. 219-223). Edgelord should commission cohort node after this batch. CORRECTION for batch instructions: Flame (220) and Mind (221) originate in M14, not M15. They were reprinted in M15 but are not M15-exclusive.",
+  "mana_cost_flag": null
+}

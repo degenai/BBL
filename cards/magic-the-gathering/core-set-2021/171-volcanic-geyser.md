@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/e/7e22c791-6ef9-
 flavor_text: \"The common folk call it the breaking of the crust or the spilling of fire. Geomancers call it target practice.\"\n—Ryda, geomancer
 oracle_text: Volcanic Geyser deals X damage to any target.
 mana_cost: "{X}{R}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -75,3 +75,16 @@ A sliver — the iconic MTG creature type with a recognizable blade-like elongat
 **Creatures:** sliver
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context and sliver design shift** — Venom Sliver is a first printing in Magic 2015 (M15), released July 18, 2014. Slivers were redesigned starting in Magic 2014: where classic slivers (Tempest block through Legions) granted abilities to ALL slivers — including opponents' — the M14 and M15 versions grant abilities only to slivers you control. This "yours-only" change was controversial among longtime sliver players; Wizards reverted to partial original templating in 2023's The Lord of the Rings and later sets. [Scryfall, WebSearch via MTGSalvation listing]
+- **Mechanical reputation** — EDHREC rank 4,239 makes Venom Sliver one of the more-played slivers in Commander, consistent with deathtouch being a high-value keyword for any combat-oriented creature type. Granting deathtouch to the entire hive at {1}{G} is efficient for a two-drop. [Scryfall]
+- **Flavor text** — "We attacked with arrows dipped in poison. The slivers that did not die began to change." — Hastric, Thunian scout [Scryfall]. The flavor text presents slivers' signature adaptation mechanic through an in-world horror-report: poison weapons became a vector for sliver evolution, not a defense against it. Hastric is not a named figure in any other card's oracle text; this appears to be a vignette-only character.
+- **Artist** — Dave Kendall, a British illustrator with a long run of darker creature and horror art across several MTG sets. [Scryfall]
+- **Deathtouch + sliver synergy note** — Deathtouch pairs especially well with slivers that have first strike or reach (e.g., Striking Sliver, Sentinel Sliver), turning each attacker or blocker into a guaranteed kill. Community discussions on r/EDH consistently flag Venom Sliver + Striking Sliver as a foundational two-card interaction in Sliver Overlord / Sliver Hivelord Commander lists. [WebSearch sentiment]
+
+### Related cards
+- Striking Sliver (Magic 2014) — grants first strike to all your slivers; pairs with deathtouch for guaranteed kills
+- Sliver Hivelord (Magic 2015) — indestructible lord; the M15 sliver tribal centerpiece this card supports
+- Sliver Overlord (Scourge) — premier sliver Commander; Venom Sliver is a staple in its 99
+- Crystalline Sliver (Stronghold) — the classic protection-granting sliver; represents the pre-M14 yours-AND-opponents design era

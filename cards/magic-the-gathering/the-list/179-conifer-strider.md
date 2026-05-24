@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/a/baac2239-789a-
 flavor_text: Atarka's presence thaws the glaciers of Qal Sisma, forcing its elementals to migrate or adapt.
 oracle_text: Hexproof (This creature can't be the target of spells or abilities your opponents control.)
 mana_cost: "{3}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/6/663e0208-81c3-
 flavor_text: \"With the drum of hooves and a flash of blades, the monster's terrifying roar changed to a cry of fear.\"\n—*Legend of the Gilded Knights*
 oracle_text: Outflank deals damage to target attacking or blocking creature equal to the number of creatures you control.
 mana_cost: "{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

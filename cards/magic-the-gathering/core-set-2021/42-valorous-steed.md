@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/a/aa01cb8c-f080-
 flavor_text: A unicorn chooses only the most virtuous and noble of knights to be its companion.
 oracle_text: Vigilance (Attacking doesn't cause this creature to tap.)\nWhen this creature enters, create a 2/2 white Knight creature token with vigilance.
 mana_cost: "{4}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

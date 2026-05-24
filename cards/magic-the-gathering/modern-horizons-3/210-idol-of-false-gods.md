@@ -13,7 +13,7 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub:
+tags_hub: []
   - eldrazi
   - worship
   - idol
@@ -26,7 +26,7 @@ tags_hub:
   - horror
   - false-god
   - cosmic
-tags_filter:
+tags_filter: []
   - crowd
   - wide
   - scene-mode
@@ -35,15 +35,15 @@ tags_filter:
   - artifact-creature
   - eldrazi-spawn
   - annihilator
-reference_image: cards/_images/magic-the-gathering/modern-horizons-3/210-idol-of-false-gods.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.27
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/d/5/d5e1ff6d-190a-497f-89c3-35e0979c93b5.png?1717012902
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 characters:
   - eldrazi
 artist: Nicholas Gregory
@@ -54,6 +54,7 @@ mood: horror
 time_of_day: twilight
 setting: other
 mana_cost: "{2}"
+manual_review_reason: No reference image found via scryfall for set 'Modern Horizons 3'
 tags:
   - card
   - vision-passed
@@ -63,20 +64,12 @@ tags:
 
 ## Vision
 
-![210-idol-of-false-gods](../../_images/magic-the-gathering/modern-horizons-3/210-idol-of-false-gods.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A huge gray-toned tentacled and multi-armed creature towers in the center of the composition, its upper limbs raised and splayed in different directions. The creature's body is blocky and heavily textured, with several tentacle-like appendages coiling from its lower torso. Below it, on a dusty rocky plain under a stormy overcast sky, a half-dozen or more small cloaked humanoid figures stand or kneel in scattered groupings — some carrying long staves or spears. The atmosphere is heavy with muted gray and tan tones, and the sky is layered with dark cloud. The sense of scale is extreme.
 
-**Subject:** A massive multi-limbed eldritch entity rising above a mist-covered open plain, with small cloaked figures gathered below it in apparent worship or surrender
+**Subject:** 
 
-**Composition:** wide, narrative, figures: crowd, facing: forward
-**Setting:** other, twilight, storm
-**Foreground:** small cloaked worshippers on rocky ground  *(palette: tan, gray, brown)*
-**Background:** massive eldritch entity, overcast stormy sky  *(palette: storm-gray, dark-gray, muted-tan)*
-**Mood / lighting:** horror, ambient
-**Emotion read:** awe, submission, dread
-**Objects:** staves, spears
-**Creatures:** eldrazi, tentacled creature, eldritch entity
-**Iconography:** tentacles, eldrazi, worship, storm clouds
-**Genre cues:** fantasy, horror
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

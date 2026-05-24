@@ -52,6 +52,9 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/17-grateful-a
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/d/7dcb1f9d-105d-48c6-bd66-d7e8839de9e1.jpg?1557575969
 oracle_text: Flying\nWhenever this creature deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 mana_cost: "{1}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

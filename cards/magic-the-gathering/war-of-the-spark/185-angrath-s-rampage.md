@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f5a39379-7313-
 flavor_text: \"Grand city? No. This is nothing but another squalid cage.\"
 oracle_text: Choose one —\n• Target player sacrifices an artifact of their choice.\n• Target player sacrifices a creature of their choice.\n• Target player sacrifices a planeswalker of their choice.
 mana_cost: "{B}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

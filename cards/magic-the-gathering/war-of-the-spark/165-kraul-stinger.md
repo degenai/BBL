@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/6/46b88fe9-2450-
 flavor_text: He listens to the sounds of battle filtering down from above, waiting for silence, waiting for his time to claim the streets.
 oracle_text: Deathtouch
 mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

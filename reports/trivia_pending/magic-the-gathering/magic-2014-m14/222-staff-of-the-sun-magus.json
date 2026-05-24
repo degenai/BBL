@@ -1,0 +1,50 @@
+{
+  "card_name": "Staff of the Sun Magus",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2014 (M14)",
+  "collector_number": "222",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Staff of the Sun Magus (no. 222) is the white member of the five-card 'Staff of the Magus' cycle in M14 (nos. 219-223). See Staff of the Death Magus (no. 219) entry for full cycle breakdown. Unlike the red and blue staffs (nos. 220-221), the Sun Magus was not reprinted in M15, making the M14 printing the only non-promo printing.",
+      "sources": ["Scryfall: reprint field and collector numbers for M14 nos. 219-223"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Triggers on any white spell cast OR any Plains-typed land entering. The ruling: the land subtype 'Plains' is what matters, not mana production. Dual lands or filter lands producing white mana without the Plains subtype do not trigger the staff.",
+      "sources": ["Scryfall: oracle_text field", "MTGSalvation: Staff Cycle thread 491561"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"A symbol of conviction in uncertain times.\" — no attributed speaker. Parallel flavor-text structure across the cycle: 'ambition in ruthless times' (Death), 'conviction in uncertain times' (Sun), 'ferocity in oppressive times' (Wild).",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Daniel Ljunggren illustrated three of the five M14 staff cycle cards (Death, Sun, Wild). His portfolio site is listed as darylart.com.",
+      "sources": ["Gatherer: Daniel Ljunggren artist search (191 cards)", "artofmtg.com: Daniel Ljunggren artist page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 13,085 — mid-range among the five staffs. White's rich lifegain synergy ecosystem (Soul Warden, Archangel of Thune, Heliod) gives this modest play but it competes with far more efficient white lifegain payoffs.",
+      "sources": ["Scryfall: edhrec_rank field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Staff of the Death Magus", "set": "Magic 2014 (M14)", "note": "Black cycle member, no. 219 (in this batch)"},
+    {"name": "Staff of the Flame Magus", "set": "Magic 2014 (M14)", "note": "Red cycle member, no. 220"},
+    {"name": "Staff of the Mind Magus", "set": "Magic 2014 (M14)", "note": "Blue cycle member, no. 221"},
+    {"name": "Staff of the Wild Magus", "set": "Magic 2014 (M14)", "note": "Green cycle member, no. 223 (in this batch)"},
+    {"name": "Soul Warden", "set": "Exodus", "note": "Classic white lifegain on-creature-enters, synergy partner in white lifegain shells"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "cycle_flag": "STAFF_OF_THE_MAGUS_M14 — see 219-staff-of-the-death-magus.json for Edgelord cohort-commission note",
+  "mana_cost_flag": null
+}

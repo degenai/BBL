@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - citadel
   - desert
   - fortress
@@ -23,7 +23,7 @@ tags_hub:
   - sunlight
   - monument
   - stronghold
-tags_filter:
+tags_filter: []
   - land
   - tri-color-white-black-green
   - abzan
@@ -33,15 +33,15 @@ tags_filter:
   - landscape
   - exterior
   - no-face
-reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/241-sandsteppe-citadel.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.35
 market_price_as_of: 2026-05-24
 date_added: 2026-05-07
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'Khans of Tarkir'
 reference_image_source_url: https://cards.scryfall.io/png/front/2/d/2dd40d90-c939-458a-9a98-27d10da6ff2f.png?1562784373
 mood: sublime
 time_of_day: day
@@ -59,21 +59,14 @@ tags:
 
 ## Vision
 
-![241-sandsteppe-citadel](../../_images/magic-the-gathering/khans-of-tarkir/241-sandsteppe-citadel.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A monumental citadel of pale sandstone stands in the middle distance, its tiered walls and onion-domed towers catching warm desert light. The stronghold rises from a flat, sun-baked steppe stretching to a hazy horizon. In the foreground, a few scattered desert trees and low scrub punctuate the dry plain, while soft golden light floods the scene from a high, bright sky. The architecture suggests Central Asian or Middle Eastern fortress design — domes, ramparts, and minaret-like spires layered into a fortified silhouette.
 
-**Subject:** A grand desert citadel with tiered sandstone walls and domed towers rising from an arid steppe, viewed across a sunlit plain dotted with sparse trees.
+**Subject:** 
 
-**Composition:** wide, narrative, figures: none, facing: n/a
-**Setting:** desert, organic, day, clear
-**Foreground:** Dry steppe ground with scattered trees and low scrub.  *(palette: sand, ochre, olive-green, warm-brown)*
-**Background:** Vast hazy desert plain meeting a pale sky, with the citadel silhouetted against the light.  *(palette: pale-gold, cream, soft-blue, dust-white)*
-**Mood / lighting:** sublime, backlit
-**Emotion read:** still, monumental, awe-inspiring
-**Objects:** citadel, domes, towers, ramparts, spires
-**Iconography:** fortress, dome, spire
-**Genre cues:** fantasy, epic
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

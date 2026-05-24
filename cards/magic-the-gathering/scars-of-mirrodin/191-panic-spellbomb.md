@@ -50,6 +50,9 @@ art_crop_image: cards/_images/magic-the-gathering/scars-of-mirrodin/191-panic-sp
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/9/e9a29832-8630-498a-9ac3-bc709a6dc95d.jpg?1562824575
 oracle_text: "{T}, Sacrifice this artifact: Target creature can't block this turn.\\nWhen this artifact is put into a graveyard from the battlefield, you may pay {R}. If you do, draw a card."
 mana_cost: "{1}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

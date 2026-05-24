@@ -48,6 +48,9 @@ setting: indoor
 symbols:
   - manifest-dread
 mana_cost: "{2}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

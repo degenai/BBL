@@ -49,6 +49,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/93-crypt-lurker-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/0/c0bba170-5176-4fab-a10d-e23d70128875.jpg?1594736052
 flavor_text: \"Even the rats refuse to set foot inside. I fear to think what might be waiting in there.\"\n—Gravedigger's journal
 oracle_text: When this creature enters, you may sacrifice a creature or discard a creature card. If you do, draw a card.
+mana_cost: "{3}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

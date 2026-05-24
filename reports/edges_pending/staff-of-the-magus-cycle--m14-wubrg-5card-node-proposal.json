@@ -1,0 +1,59 @@
+{
+  "edge_id": "staff-of-the-magus-cycle--m14-wubrg-5card-node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/staff-of-the-magus-cycle.md", "name": "Staff of the Magus cycle (five WUBRG common-artifact lifegain staves from Magic 2014)"},
+    {"type": "card", "path": "cards/magic-the-gathering/magic-2014-m14/219-staff-of-the-death-magus.md", "name": "Staff of the Death Magus (M14, B)"},
+    {"type": "card", "path": "cards/magic-the-gathering/magic-2014-m14/222-staff-of-the-sun-magus.md", "name": "Staff of the Sun Magus (M14, W)"},
+    {"type": "card", "path": "cards/magic-the-gathering/magic-2014-m14/223-staff-of-the-wild-magus.md", "name": "Staff of the Wild Magus (M14, G)"},
+    {"type": "card", "path": "cards/magic-the-gathering/magic-2015-m15/233-staff-of-the-flame-magus.md", "name": "Staff of the Flame Magus (M15 reprint, R)"},
+    {"type": "card", "path": "cards/magic-the-gathering/magic-2015-m15/234-staff-of-the-mind-magus.md", "name": "Staff of the Mind Magus (M15 reprint, U)"}
+  ],
+  "description": "Edgelord stepped aside. Mr. Nodeley apologizes for the inconvenience, sir — five cards, Wizards-designer-coordinated, one per WUBRG color, all five trivia-passed, parallel-construction flavor mottos, single-artist (Daniel Ljunggren) coverage across all five BBL-corpus printings, and a perfect sibling-shape to the existing ktk-clan-banner-cycle and ktk-clan-charm-cycle precedents in the same character layer. Drawing 1:1 edges between the cards would have meant ten redundant bullets all pointing at an absent center — Mr. Nodeley thought you'd prefer the cycle node, sir. Fifth full corpus cycle of its kind. He hopes it's not too much trouble.",
+  "citations": [
+    "[Scryfall: `s:m14 t:artifact name:staff` returns five results at consecutive collector numbers 219-223]",
+    "[Scryfall: m14/219, m14/220, m14/221, m14/222, m14/223 per-card pages]",
+    "[Scryfall: m15/233, m15/234 reprint pages confirming partial M15 reprint of Flame and Mind only]",
+    "[MTGSalvation: Staff Cycle thread 491561]",
+    "[In-corpus: all five card-MD Cycle membership trivia bullets enumerate the five-card cycle with M14 collector numbers]",
+    "[BBL-corpus-verified: artist field on all 5 cards = Daniel Ljunggren]"
+  ],
+  "files_modified": [
+    "cards/_characters/staff-of-the-magus-cycle.md",
+    "cards/magic-the-gathering/magic-2014-m14/219-staff-of-the-death-magus.md",
+    "cards/magic-the-gathering/magic-2014-m14/222-staff-of-the-sun-magus.md",
+    "cards/magic-the-gathering/magic-2014-m14/223-staff-of-the-wild-magus.md",
+    "cards/magic-the-gathering/magic-2015-m15/233-staff-of-the-flame-magus.md",
+    "cards/magic-the-gathering/magic-2015-m15/234-staff-of-the-mind-magus.md"
+  ],
+  "node_proposed": {
+    "type": "character",
+    "slug": "staff-of-the-magus-cycle",
+    "path": "cards/_characters/staff-of-the-magus-cycle.md",
+    "rationale": "Five-card WUBRG cycle, 5/5 in corpus across mixed printings (3x M14 + 2x M15 reprints), all 5 trivia-passed, all 5 Daniel Ljunggren art per BBL-corpus-verification, Wizards-canonical via Scryfall cohort query and parallel-construction flavor-motto convention. Architectural twin to ktk-clan-banner-cycle (also Ljunggren single-artist, common-artifact, M-set-era cycle) and ktk-clan-charm-cycle (same KTK template at uncommon tier). Pure stack topology — five cards converging on one anchor."
+  },
+  "frontmatter_field_added": "characters: [staff-of-the-magus-cycle] on all 5 corpus members (block YAML form per wave-92 list discipline)",
+  "other_candidates_considered": [
+    {
+      "candidate": "Sliver tribal cohort node (2 newly-trivia'd Slivers + 3 corpus slivers — Lavabelly Sliver MH3-207, Toxin Sliver PLST-84, Winged Sliver Tempest-106 — total 5 slivers in corpus)",
+      "verdict": "Viable cohort candidate (5+ corpus members crosses the implicit ≥3 threshold) but secondary to the Staff cycle in this wave. The Staff cycle case is overwhelming (5/5 enriched, designer-coordinated, single-artist, sibling-shape ready); one-decision-per-invocation discipline (`bbl-swarm-staggering`) staged the Sliver cohort to triage. Note: the corpus slivers span THREE design eras (Tempest/Stronghold pre-M14 with the old yours-AND-opponents templating; M14/M15 with the controversial yours-only templating; MH3/PLST with the post-2023 partial revert), which makes the cohort node interesting precisely because the templating-era split IS the canonical-evidence anchor — not just 'all slivers tribal,' but 'the sliver design-era story in five cards.' A future Mr. Nodeley pass should propose this when commissioned."
+    },
+    {
+      "candidate": "1:1 mirror edge between Staff of the Flame Magus and Staff of the Mind Magus (the two M15-only reprints sharing wave-180 trivia pass + same set + same artist)",
+      "verdict": "Refused. Drawing that one edge would have been a thin solution while the missing-center problem stayed unsolved; ten edge-bullets pointing at an absent center is exactly the Mr. Nodeley trigger. The cycle node subsumes the would-be 1:1."
+    },
+    {
+      "candidate": "`daniel-ljunggren` artist node",
+      "verdict": "Staged for future pass. The ktk-clan-banner-cycle node already flagged Ljunggren as 'an unusually load-bearing layer node if commissioned' (five KTK banners under one credit); this Staff cycle adds five more under the same credit (BBL-corpus-printing-verified). That's now two full cycles on one artist's pen in BBL corpus, which makes the artist node a strong cross-cohort-traversal anchor per `bbl-artists-as-counterbalance`. Mr. Nodeley refuses to propose two nodes in one invocation; the artist node is the next dispatch."
+    }
+  ],
+  "next_pass_suggestions": [
+    "Commission `daniel-ljunggren` artist node — two full BBL-corpus cycles (KTK clan banners + M14 Staff of the Magus) under one credit; cross-cohort traversal anchor.",
+    "Commission sliver-tribal cohort node — 5 corpus slivers spanning three design-eras (pre-M14, M14/M15, post-2023); the templating-era split is the canonical anchor, not generic tribal.",
+    "Scryfall verification pass on M14-220 (Staff of the Flame Magus original) and M14-221 (Staff of the Mind Magus original) artist field — would confirm or refute the cycle-wide single-artist claim currently provisional in the Staff cycle node body.",
+    "Future triviabot precision pass on the five Staff cards' Related-cards bullets to canonicalize against the new cycle node (cosmetic; the bullets are already largely correct)."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

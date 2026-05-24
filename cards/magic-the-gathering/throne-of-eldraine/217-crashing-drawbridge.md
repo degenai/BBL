@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/7/b7d7108f-635c-
 flavor_text: \"The Northern Beacon flared, and even before the drawbridge finished its descent, the knights charged out.\"\n—*Legend of the Gilded Knights*
 oracle_text: "Defender\\n{T}: Creatures you control gain haste until end of turn."
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

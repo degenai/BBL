@@ -1,0 +1,46 @@
+{
+  "card_name": "Juggernaut",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2015 (M15)",
+  "collector_number": "220",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "First printed in Limited Edition Alpha (1993). The M15 copy is one of many reprints spanning Alpha, Beta, Unlimited, Revised, 4th–6th Edition, 7th–10th Edition, M10–M15, and The Brothers' War (2022). The Brothers' War common reprint made Juggernaut Pauper-legal for the first time. [Scryfall, WebSearch via PureMTGO/CoolStuffInc]",
+      "sources": ["Scryfall", "WebSearch via PureMTGO/CoolStuffInc"]
+    },
+    {
+      "category": "mechanical",
+      "text": "5/3 artifact creature for {4}. Must attack each combat; cannot be blocked by Walls. Both clauses are original Alpha text, unchanged across 30+ years. The Wall-exception is largely vestigial in modern play. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Many a besieged city has surrendered upon hearing the distinctive rumble of the juggernaut.\" — unattributed, consistent across reprints [Scryfall]. The word 'juggernaut' derives from Jagannath (a form of Vishnu) via colonial-era myth of devotees being crushed under a festival chariot — a name MTG borrowed for an unstoppable war machine.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Standard (via later reprints), Modern, Legacy, Vintage, Commander, Pauper, and Brawl. Few artifact creatures in MTG history are this broadly legal from a single oracle text, reflecting the total absence of broken mechanics. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Kev Walker in M15. Walker's rendering is notably kinetic vs. earlier editions' static side-profile depictions — places the machine mid-charge with a dwarfed rider and besieged city in the background. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Juggernaut", "set": "Limited Edition Alpha", "note": "the original 1993 printing"},
+    {"name": "Juggernaut", "set": "The Brothers' War", "note": "BRO common reprint (no. 161) that unlocked Pauper legality"},
+    {"name": "Juggernaut Peddler", "set": "The Brothers' War", "note": "new card explicitly linked via Scryfall related_parts; makes/sells Juggernauts narratively"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

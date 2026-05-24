@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - bird
   - wings
   - flight
@@ -23,7 +23,7 @@ tags_hub:
   - soldier
   - feathers
   - skeleton
-tags_filter:
+tags_filter: []
   - solo
   - mid-shot
   - forward-facing
@@ -34,15 +34,15 @@ tags_filter:
   - creature-warrior
   - flying
   - no-face-human
-reference_image: cards/_images/magic-the-gathering/war-of-the-spark/42-aven-eternal.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'War of the Spark'
 reference_image_source_url: https://cards.scryfall.io/png/front/f/e/fe479484-a827-4d3c-8e35-e905e4f6664a.png?1557576152
 mood: grim
 time_of_day: indeterminate
@@ -61,19 +61,12 @@ tags:
 
 ## Vision
 
-![42-aven-eternal](../../_images/magic-the-gathering/war-of-the-spark/42-aven-eternal.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A gaunt, humanoid avian creature with a long curved beak and skeletal frame plunges downward, wings flared. Its plumage is in shades of deep blue and indigo, partially decayed, with feathers trailing into wisps. The eyes burn with pale glowing light, signaling its eternalized undead state. The body twists with motion, talons extended. The background is a turbulent wash of blue clouds and storm-light streaked with arcs of brighter blue energy, suggesting battle in mid-air over the war-torn skies of Ravnica.
 
-**Subject:** An undead bird-warrior with tattered blue-feathered wings spread wide, glowing eyes, and an open beak mid-shriek as it descends through a stormy sky
+**Subject:** 
 
-**Composition:** mid-shot, action, figures: solo, facing: forward
-**Setting:** other, indeterminate, storm
-**Foreground:** descending undead aven warrior with outstretched wings and glowing eyes  *(palette: indigo, deep-blue, pale-cyan, bone-white)*
-**Background:** stormy blue sky streaked with energy and cloud-light  *(palette: storm-blue, cyan, slate)*
-**Mood / lighting:** grim, rim
-**Emotion read:** shrieking aggression, predatory descent
-**Creatures:** bird-humanoid, aven, zombie, undead
-**Iconography:** glowing-eyes, tattered-wings
-**Genre cues:** fantasy, dark-fantasy, horror
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/2/c264c4b1-40b7-
 flavor_text: The larger the crowd, the harder it is for them to run away.
 oracle_text: Enchant creature\nEnchanted creature gets +3/+0 and has menace.
 mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

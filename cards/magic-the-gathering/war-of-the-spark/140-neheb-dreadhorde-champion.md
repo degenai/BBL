@@ -52,6 +52,9 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/140-neheb-dre
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/60c90d5d-7b3b-48d2-85f6-d6a2a452c0e9.jpg?1559959426
 oracle_text: Trample\nWhenever Neheb deals combat damage to a player or planeswalker, you may discard any number of cards. If you do, draw that many cards and add that much {R}. Until end of turn, you don't lose this mana as steps and phases end.
 mana_cost: "{2}{R}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

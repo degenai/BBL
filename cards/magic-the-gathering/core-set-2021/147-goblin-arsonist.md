@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/a/fa4bf664-3b92-
 flavor_text: With great power comes great risk of getting yourself killed.
 oracle_text: When this creature dies, you may have it deal 1 damage to any target.
 mana_cost: "{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

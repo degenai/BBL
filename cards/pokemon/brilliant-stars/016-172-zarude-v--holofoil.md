@@ -32,13 +32,13 @@ tags_filter:
   - dark-type
   - holofoil
   - ultra-rare
-reference_image: cards/_images/pokemon/brilliant-stars/016-172-zarude-v--holofoil.png
+reference_image: cards/_images/pokemon/brilliant-stars/016-172-zarude-v--holofoil.jpg
 average_cost_paid: 0
 market_price: 0.68
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh9/16_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/f/f1/ZarudeVBrilliantStars16.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: 5ban Graphics
@@ -49,6 +49,9 @@ setting: forest
 suspected_ip: Zarude
 ip_confidence: high
 ip_verified: true
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

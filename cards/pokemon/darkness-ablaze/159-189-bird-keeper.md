@@ -46,6 +46,9 @@ oracle_text: Switch your Active Pokémon with 1 of your Benched Pokémon. If you
 mood: peaceful
 time_of_day: day
 setting: other
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

@@ -28,13 +28,13 @@ tags_filter:
   - portrait-mode
   - fighting-type
   - pokemon-basic
-reference_image: cards/_images/pokemon/chilling-reign/076-198-diglett.png
+reference_image: cards/_images/pokemon/chilling-reign/076-198-diglett.jpg
 average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh6/76_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/5/54/DiglettChillingReign76.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Souichirou Gunjima
@@ -46,6 +46,9 @@ setting: other
 suspected_ip: Diglett
 ip_confidence: high
 ip_verified: false
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

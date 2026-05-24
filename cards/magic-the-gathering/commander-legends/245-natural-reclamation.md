@@ -49,6 +49,10 @@ artist: Alayna Danner
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/245-natural-reclamation--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/e/3e98fb7c-6962-4b57-b7b7-c71899564002.jpg?1608910823
 oracle_text: Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)\nDestroy target artifact or enchantment.
+mana_cost: "{4}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

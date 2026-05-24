@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/0/2013a138-f8e2-
 flavor_text: With the harvest of Domri's spark, the Elderspell began to fuel Bolas's ascension to godhood.
 oracle_text: As an additional cost to cast this spell, sacrifice a creature or pay {3}{B}.\nDestroy target creature or planeswalker.
 mana_cost: "{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

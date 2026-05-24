@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - merfolk
   - underwater
   - ocean
@@ -23,7 +23,7 @@ tags_hub:
   - ruins
   - teal
   - predator-prey
-tags_filter:
+tags_filter: []
   - duo
   - mid-shot
   - narrative
@@ -36,9 +36,9 @@ market_price: 0.06
 market_price_as_of: 2026-05-24
 date_added: 2026-05-16
 last_seen: 2026-05-23
-reference_image_source_url: https://cards.scryfall.io/png/front/f/9/f9358d5d-726e-43e0-a58e-4cfe7c755913.png?1572490046
-art_match_confidence: high
-needs_manual_review: false
+reference_image_source_url: https://cards.scryfall.io/png/front/a/6/a61a7809-4bef-48e9-afbc-e473eb7072e8.png?1600699274
+art_match_confidence: low
+needs_manual_review: true
 artist: Livia Prima
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/73-wishful-merfolk--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/9/f9358d5d-726e-43e0-a58e-4cfe7c755913.jpg?1572490046
@@ -50,6 +50,7 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: ocean
+manual_review_reason: Set 'Throne of Eldraine' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 tags:
   - card
 ---
@@ -59,18 +60,12 @@ tags:
 
 ![73-wishful-merfolk](../../_images/magic-the-gathering/throne-of-eldraine/73-wishful-merfolk.png)
 
-Two merfolk face each other in a murky underwater scene. The figure on the left has long, vivid red hair and dark blue-purple scaled coloration, reaching a clawed hand toward the other. The figure on the right has lighter hair and wears a flowing golden-yellow garment, pulling back with hands raised in a warding or pleading gesture. Both have pointed ears. Bubbles float upward between them. A stone architectural column is visible in the background, suggesting a submerged ruin or structure. The overall palette is aquatic teal-green with warm amber from the right figure's clothing creating a visual contrast. The body language reads as one figure threatening or confronting the other.
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-**Subject:** Two merfolk figures underwater in a tense face-to-face confrontation
 
-**Composition:** mid-shot, narrative, figures: duo, facing: three-quarter
-**Setting:** ocean, ruined, indeterminate
-**Foreground:** two merfolk figures, one dark-scaled reaching forward, one light-clothed pulling back  *(palette: dark-purple, teal, golden-yellow, red)*
-**Background:** murky teal underwater, submerged stone column  *(palette: teal, aqua, dark-green, grey)*
-**Mood / lighting:** grim, ambient
-**Emotion read:** left figure: aggressive, reaching; right figure: fearful, retreating
-**Objects:** stone-column
-**Creatures:** merfolk
-**Iconography:** bubbles, clawed-hand, flowing-hair
-**Genre cues:** fantasy
+**Subject:** 
+
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

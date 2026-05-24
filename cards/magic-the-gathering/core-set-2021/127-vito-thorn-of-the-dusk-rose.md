@@ -59,6 +59,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/f/0fe79ee4-c3f3-
 flavor_text: \"Through the blood of the wicked, we shall be redeemed. Let us pray.\"
 oracle_text: "Whenever you gain life, target opponent loses that much life.\\n{3}{B}{B}: Creatures you control gain lifelink until end of turn."
 mana_cost: "{2}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

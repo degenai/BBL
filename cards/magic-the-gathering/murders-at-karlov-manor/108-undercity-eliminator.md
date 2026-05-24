@@ -50,6 +50,7 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{3}{B}{B}"
 tags:
   - card
   - vision-passed

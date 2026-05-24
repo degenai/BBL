@@ -49,6 +49,9 @@ mood: comedic
 time_of_day: day
 setting: urban
 mana_cost: "{R}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

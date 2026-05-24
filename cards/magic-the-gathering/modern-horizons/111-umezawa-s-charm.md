@@ -52,6 +52,7 @@ setting: other
 suspected_ip: Toshiro Umezawa
 ip_confidence: med
 ip_verified: false
+mana_cost: "{1}{B}"
 tags:
   - card
   - vision-passed

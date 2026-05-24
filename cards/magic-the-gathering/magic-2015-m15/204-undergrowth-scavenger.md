@@ -75,3 +75,15 @@ A lean, multi-limbed creature with a large smooth domed head — mottled green-g
 **Creatures:** insectoid creature, scavenger
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Undergrowth Scavenger is a common from Magic 2015 (M15), released July 18, 2014. M15 was the first core set to credit individual card designers in the expansion symbol area, a design-transparency initiative championed by Mark Rosewater. The set also introduced the new card frame used through 2022. [Scryfall]
+- **Creature type note** — Scryfall's oracle confirms the type line as "Creature — Fungus Horror," not Insect as the creature's chitinous visual appearance suggests. Fungus Horror is a relatively rare compound subtype; the Fungus designation grounds the creature in decay-ecology rather than arthropod taxonomy, consistent with its graveyard-counting mechanic. [Scryfall]
+- **Mechanical design** — Enters as a 0/0 whose size is set entirely by the number of creature cards in all graveyards at the moment it enters. Unlike similar effects (e.g., Lhurgoyf), it counts ALL players' graveyards. A ruling on MTGAssist notes that if Undergrowth Scavenger enters from a graveyard itself (e.g., via reanimation), it counts itself in the graveyard for the purpose of determining counters. EDHREC rank 18,447 is modest for a common, consistent with its competitive use in self-mill and dredge-adjacent strategies. [Scryfall, MTGAssist via WebSearch]
+- **Flavor text** — "It sees a rotting carcass as a good wine which has been aged properly." [Scryfall] — Unattributed. The line reframes decay as connoisseurship, inverting the disgust-register for a predator whose fitness depends on abundance of the dead.
+- **Artist** — Nils Hamm has approximately 195 MTG card credits [Gatherer via WebSearch], making him one of the more prolific MTG illustrators of the 2010s. He frequently works in dark-organic and horror-adjacent registers.
+
+### Related cards
+- Lhurgoyf (Ice Age) — progenitor of "size equals creature cards in graveyard" designs; counts only opponent's graveyard
+- Mortivore (8th Edition) — similar but regenerates and counts only creature cards in all graveyards permanently, not just on ETB
+- Splinterfright (Innistrad) — counts permanents in your graveyard instead of all graveyards

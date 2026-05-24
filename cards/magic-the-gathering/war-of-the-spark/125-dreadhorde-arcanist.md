@@ -45,6 +45,7 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: urban
+mana_cost: "{1}{R}"
 tags:
   - card
   - vision-passed

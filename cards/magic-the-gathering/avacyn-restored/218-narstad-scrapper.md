@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/8/f808ed9b-95ac-
 flavor_text: \"Finally, the principles of corpse animation applied to bloodless materials!\"\n—Ludevic, necro-alchemist
 oracle_text: "{2}: This creature gets +1/+0 until end of turn."
 mana_cost: "{5}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

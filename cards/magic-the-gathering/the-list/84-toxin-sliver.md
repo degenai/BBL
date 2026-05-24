@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/7/c7bdf2e4-ff7c-
 flavor_text: It doesn't need to use its venom—it just needs you to know it can.
 oracle_text: Whenever a Sliver deals combat damage to a creature, destroy that creature. It can't be regenerated.
 mana_cost: "{3}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

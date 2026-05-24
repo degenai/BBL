@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/e/3e2c3304-1bd9-
 flavor_text: On the open sea, there is nowhere to hide.
 oracle_text: "Creatures your opponents control get -1/-0.\\n{1}{U}, Discard this card: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard."
 mana_cost: "{5}{U}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

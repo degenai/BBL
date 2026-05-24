@@ -56,6 +56,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/c/3c27f2ce-702a-
 flavor_text: Squadrons of skyknights are available for deployment around the clock, capable of reaching any district in the city within minutes.
 oracle_text: Flying, haste
 mana_cost: "{1}{R}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

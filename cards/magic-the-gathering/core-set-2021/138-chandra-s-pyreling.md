@@ -57,6 +57,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/138-chandra-s-py
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/7/e7744fcf-2336-489d-bc05-f3fce78713a9.jpg?1594736559
 flavor_text: \"I think Chandra just wanted something to blame random scorch marks on.\"\n—Jace Beleren
 oracle_text: Whenever a source you control deals noncombat damage to an opponent, this creature gets +1/+0 and gains double strike until end of turn. (It deals both first-strike and regular combat damage.)
+mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/b/4bfffc18-b36a-
 flavor_text: Bedbugs aren't the only things you need to worry about biting you at night.
 oracle_text: "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\\n{1}, Sacrifice another creature: Put a +1/+1 counter on this creature."
 mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

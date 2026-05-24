@@ -51,6 +51,7 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: dungeon
+mana_cost: "{2}"
 tags:
   - card
 ---

@@ -30,13 +30,13 @@ tags_filter:
   - multicolor-palette
   - cosmic-background
   - multicolor
-reference_image: cards/_images/pokemon/battle-styles/124-163-energy-recycler.png
+reference_image: cards/_images/pokemon/battle-styles/124-163-energy-recycler.jpg
 average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh5/124_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/3/36/EnergyRecyclerBattleStyles124.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Toyste Beach
@@ -44,6 +44,9 @@ oracle_text: Shuffle up to 5 basic Energy cards from your discard pile into your
 mood: action
 time_of_day: indeterminate
 setting: void
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

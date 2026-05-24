@@ -56,6 +56,9 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/92-god-eterna
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/7/3714a135-e2b9-43a7-a2a2-fa5a2e0ac61a.jpg?1557576478
 oracle_text: Menace\nWhen God-Eternal Bontu enters, sacrifice any number of other permanents, then draw that many cards.\nWhen God-Eternal Bontu dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.
 mana_cost: "{3}{B}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

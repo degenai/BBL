@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/53-medomai
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/d/3d2bd7b4-28de-4d9e-86c5-a46bd608cb02.jpg?1581479392
 oracle_text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\nI — Scry 2.\nII — Choose a card name.\nIII — When you cast a spell with the chosen name for the first time this turn, draw two cards.\nIV — Look at the top card of each player's library.
 mana_cost: "{1}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

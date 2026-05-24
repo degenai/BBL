@@ -56,6 +56,9 @@ mood: grim
 time_of_day: twilight
 setting: urban
 mana_cost: "{1}{W}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

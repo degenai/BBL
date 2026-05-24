@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/4/245a683f-280e-
 flavor_text: \"What we call magic is nothing more than hope crystallized into a destination.\"\n—Perisophia the philosopher
 oracle_text: "{1}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
 mana_cost: "{1}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

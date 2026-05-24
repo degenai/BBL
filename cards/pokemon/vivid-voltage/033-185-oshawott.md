@@ -39,7 +39,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: nagimiso
 flavor_text: It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.
-oracle_text: |-
+oracle_text: Water Gun (Water) 10\nSeashell Attack (WaterColorless) 20
   Water Gun (Water) 10
   Seashell Attack (WaterColorless) 20
 image_width: 734

@@ -54,6 +54,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/310-oko-s-a
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/1/71c52b50-35aa-4858-8c8e-c81dcb29a7fc.jpg?1572482736
 flavor_text: They function as everything from assassins to jesters in the name of their fae king.
 oracle_text: Flying
+mana_cost: "{2}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

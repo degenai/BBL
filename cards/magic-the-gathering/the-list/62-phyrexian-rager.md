@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 characters:
   - phyrexia
-tags_hub:
+tags_hub: []
   - phyrexian
   - horror
   - skeleton
@@ -25,7 +25,7 @@ tags_hub:
   - ribcage
   - biomechanical
   - predator
-tags_filter:
+tags_filter: []
   - solo
   - forward-facing
   - mid-shot
@@ -35,15 +35,15 @@ tags_filter:
   - black-magic
   - card-draw
   - life-loss
-reference_image: cards/_images/magic-the-gathering/the-list/62-phyrexian-rager.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'The List'
 reference_image_source_url: https://cards.scryfall.io/png/front/a/8/a87aa7f3-9582-4499-a1ec-d5385ffd94ed.png?1573510197
 mood: horror
 time_of_day: indeterminate
@@ -63,20 +63,12 @@ tags:
 
 ## Vision
 
-![62-phyrexian-rager](../../_images/magic-the-gathering/the-list/62-phyrexian-rager.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A gaunt, biomechanical horror crouches forward in a black, formless void. Its body is skeletal and mutilated, with exposed ribs, sinewy bladed arms ending in claws or hooks, and a gnarled skull-like head with bared teeth and hollowed eyes. The figure is rendered in cold black, gunmetal, and bruised purple-grey tones, lit by a faint sickly glow that picks out the edges of bone and metal. The composition is centered and frontal, the creature filling the frame in a menacing crouch. The mood is grim, body-horror-coded, and predatory.
 
-**Subject:** A hunched, emaciated Phyrexian horror with bladed limbs, exposed ribs, and a snarling skull-like face, looming forward against a black void
+**Subject:** 
 
-**Composition:** mid-shot, portrait, figures: solo, facing: forward
-**Setting:** void, indeterminate
-**Foreground:** skeletal Phyrexian horror with bladed limbs and exposed ribs  *(palette: black, gunmetal, bone-white, bruised-purple)*
-**Background:** featureless black void with faint cold rim light  *(palette: black, deep-grey)*
-**Mood / lighting:** horror, rim
-**Emotion read:** snarling, predatory, aggressive
-**Objects:** blades, claws, exposed-bone
-**Creatures:** phyrexian-horror, undead-like-figure
-**Iconography:** skull, ribcage, bladed-limbs
-**Genre cues:** fantasy, body-horror, dark-fantasy, biomechanical
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

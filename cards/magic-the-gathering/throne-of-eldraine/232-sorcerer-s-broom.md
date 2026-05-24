@@ -52,6 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/232-sorcere
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/7/071e8f20-18b3-4bf5-a23a-adb42bf5819b.jpg?1592485689
 flavor_text: \"Reynald wished for an army to sweep away his enemies. The fae king smiled.\"\n—*Beyond the Great Henge*
 oracle_text: Whenever you sacrifice another permanent, you may pay {3}. If you do, create a token that's a copy of this creature.
+mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

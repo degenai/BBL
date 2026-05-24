@@ -52,6 +52,7 @@ image_quality: high
 mood: comedic
 time_of_day: day
 setting: urban
+mana_cost: "{W}"
 tags:
   - card
   - vision-passed

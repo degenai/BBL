@@ -50,6 +50,9 @@ art_crop_image: cards/_images/magic-the-gathering/ultimate-masters/209-vengeful-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/0/b03bb160-8113-409a-a130-2b3fdc476e6a.jpg?1547518128
 oracle_text: Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's mana value to any target.\nExile Vengeful Rebirth.
 mana_cost: "{4}{R}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -50,6 +50,9 @@ art_crop_image: cards/_images/magic-the-gathering/champions-of-kamigawa/75-myoji
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/f/8f5f8d3a-95e7-4dd9-8510-43517eb02693.jpg?1562762504
 oracle_text: "Myojin of Seeing Winds enters with a divinity counter on it if you cast it from your hand.\\nMyojin of Seeing Winds has indestructible as long as it has a divinity counter on it.\\nRemove a divinity counter from Myojin of Seeing Winds: Draw a card for each permanent you control."
 mana_cost: "{7}{U}{U}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

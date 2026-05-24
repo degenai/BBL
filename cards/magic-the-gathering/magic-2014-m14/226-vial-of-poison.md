@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/7/7769159b-5a6a-
 flavor_text: There are worse ways to die, but not many.
 oracle_text: "{1}, Sacrifice this artifact: Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
 mana_cost: "{1}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed
@@ -76,3 +79,14 @@ A close-up still-life of a faceted glass vial cradled between thumb and fingers.
 **Iconography:** poison, vial
 **Genre cues:** fantasy, noir, medieval
 
+## Trivia
+
+- **Set context** — Vial of Poison was printed in Magic 2014 (M14), released July 19, 2013 — one of the final standalone core sets before Wizards shifted the release cadence toward block-only releases. M14 introduced planeswalker-themed marketing but otherwise retained the core set's function as an accessible entry point. [Scryfall]
+- **Mechanical niche** — The card costs {1} to cast and another {1} to activate, then sacrifices itself to grant any creature deathtouch until end of turn. This gives colorless access to the deathtouch trigger at instant speed — useful in combat tricks and defensive strategies regardless of deck color. EDHREC rank 23,249 places it near the bottom of EDH inclusion, consistent with its narrow single-use design. [Scryfall, EDHREC]
+- **Flavor text** — "There are worse ways to die, but not many." — [Scryfall] Unattributed, in the tradition of M14's ambient flavor text voice. The line is pithy and functions as a memento mori for the victim's perspective.
+- **Artist** — Franz Vohwinkel has illustrated approximately 134 MTG cards [Gatherer via WebSearch]. His chiaroscuro still-life rendering on this card — the faceted vial glowing against deep shadow — echoes classical Dutch vanitas painting, a genre built on poison, skulls, and decaying luxury objects.
+
+### Related cards
+- Virulent Swipe (Rise of the Eldrazi) — instant-speed deathtouch grant; direct functional parallel
+- Coat with Venom (Oath of the Gatewatch) — same effect as a common instant
+- Archetype of Finality (Born of the Gods) — enchantment that grants deathtouch to all your creatures while denying it to opponents

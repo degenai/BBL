@@ -50,6 +50,9 @@ oracle_text: "{T}: Add {C}.\\nDisguise {3} (You may cast this card face down for
 mood: peaceful
 time_of_day: day
 setting: forest
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

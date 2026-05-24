@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/a/da6f21a8-3dd0-
 flavor_text: \"I will find the king if I have to ride from summer to winter and back again.\"
 oracle_text: Menace (This creature can't be blocked except by two or more creatures.)\nAdamant — If at least three black mana was spent to cast this spell, this creature enters with a +1/+1 counter on it.
 mana_cost: "{3}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

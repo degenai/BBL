@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/d/5d778bde-f927-
 flavor_text: The floating city of High and Dry hasn't yet sunk under the weight of gold, but it's not for want of trying.
 oracle_text: "When this creature enters, create two Treasure tokens. (They're artifacts with \\\"{T}, Sacrifice this token: Add one mana of any color.\\\")"
 mana_cost: "{4}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

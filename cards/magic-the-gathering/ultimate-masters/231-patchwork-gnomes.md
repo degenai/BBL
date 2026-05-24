@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/a/1ab6b8ca-2e72-
 flavor_text: One wizard's trash is another wizard's roving gang of abominations.
 oracle_text: "Discard a card: Regenerate this creature. (The next time this creature would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)"
 mana_cost: "{3}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

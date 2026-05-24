@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/3/0360d27b-37e1-
 flavor_text: Sometimes knowledge takes on a life of its own.
 oracle_text: This creature can't be blocked as long as you've drawn two or more cards this turn.
 mana_cost: "{3}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

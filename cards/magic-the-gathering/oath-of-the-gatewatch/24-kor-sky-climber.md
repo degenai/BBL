@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - flight
   - leap
   - climbing
@@ -23,7 +23,7 @@ tags_hub:
   - acrobat
   - desert
   - dusk
-tags_filter:
+tags_filter: []
   - solo
   - mid-shot
   - action
@@ -31,7 +31,7 @@ tags_filter:
   - white-magic
   - creature-kor-warrior-ally
   - flying
-reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/24-kor-sky-climber.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.12
 market_price_as_of: 2026-05-24
@@ -40,8 +40,8 @@ last_seen: 2026-05-23
 characters:
   - kor
 reference_image_source_url: https://cards.scryfall.io/png/front/5/4/54938334-ebad-4dde-82e6-8c854aef4a91.png?1562912220
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 artist: Victor Adame Minguez
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/24-kor-sky-climber--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/4/54938334-ebad-4dde-82e6-8c854aef4a91.jpg?1562912220
@@ -53,6 +53,7 @@ image_quality: high
 mood: action
 time_of_day: sunset
 setting: mountain
+manual_review_reason: No reference image found via scryfall for set 'Oath of the Gatewatch'
 tags:
   - card
   - vision-passed
@@ -62,20 +63,14 @@ tags:
 
 ## Vision
 
-![24-kor-sky-climber](../../_images/magic-the-gathering/oath-of-the-gatewatch/24-kor-sky-climber.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A humanoid figure with pale skin and long loose hair is caught mid-leap between two rock formations against a dramatic twilight or sunset sky. The figure is airborne, arms outstretched, holding glowing hook-and-line weapons that trail golden energy. Their clothing is a mix of dark fitted garments and leather straps — consistent with Kor climbing gear. The setting is rocky desert cliffs at dusk. The composition has strong dynamic energy with the figure cutting diagonally across the frame. Face is visible but fine features are not fully resolvable at this resolution.
 
-**Subject:** A pale-skinned humanoid warrior leaps between cliff faces at sunset, trailing glowing energy lines and holding a grapple-hook weapon in each hand
+**Subject:** 
 
-**Composition:** mid-shot, action, figures: solo, facing: three-quarter
-**Setting:** mountain, sunset, clear
-**Foreground:** airborne pale-skinned humanoid with glowing hook weapons, arms spread  *(palette: pale-tan, dark-brown, gold, warm-orange)*
-**Background:** desert cliff faces, sunset sky in purple-orange  *(palette: deep-purple, warm-orange, dusty-rose, stone-gray)*
-**Mood / lighting:** action, backlit
-**Emotion read:** exhilaration, freedom, fearless leap
-**Objects:** grapple-hooks, glowing-energy-lines, climbing-gear
-**Genre cues:** fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

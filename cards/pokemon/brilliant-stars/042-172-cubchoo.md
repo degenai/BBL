@@ -29,13 +29,13 @@ tags_filter:
   - water-type
   - common
   - pokemon
-reference_image: cards/_images/pokemon/brilliant-stars/042-172-cubchoo.png
+reference_image: cards/_images/pokemon/brilliant-stars/042-172-cubchoo.jpg
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-24
 date_added: 2026-05-07
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh9/42_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/4/41/CubchooBrilliantStars42.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: ryoma uratsuka
@@ -48,6 +48,9 @@ subject_known_ip: true
 suspected_ip: Cubchoo
 ip_confidence: high
 ip_verified: true
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

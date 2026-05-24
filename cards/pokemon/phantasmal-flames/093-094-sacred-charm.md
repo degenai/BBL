@@ -45,6 +45,9 @@ oracle_text: The Pokémon this card is attached to takes 30 less damage from att
 mood: peaceful
 time_of_day: indeterminate
 setting: void
+image_width: 733
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

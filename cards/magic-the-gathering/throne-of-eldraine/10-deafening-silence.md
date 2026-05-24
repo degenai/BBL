@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/6072d9b0-d3c7-
 flavor_text: \"They have forsaken their vows. The edict of the Circle demands their voices be silenced.\"\n—Syr Tasdale, knight of Ardenvale
 oracle_text: Each player can't cast more than one noncreature spell each turn.
 mana_cost: "{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

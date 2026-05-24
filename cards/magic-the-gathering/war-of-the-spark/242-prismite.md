@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/0/40475e96-0283-
 flavor_text: It didn't budge when the portal opened, nor when the ancient gods emerged. It came to life only when all ten guilds came together to face a common threat.
 oracle_text: "{2}: Add one mana of any color."
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

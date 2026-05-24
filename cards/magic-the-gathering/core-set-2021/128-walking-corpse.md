@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/128-walking-corp
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/5/053b59b4-a22c-4228-aadc-ae9da6bb465e.jpg?1594736452
 flavor_text: \"Feeding a normal army is a problem of logistics. With zombies, it is an asset. Feeding is why they fight. Feeding is why they are feared.\"\n—Jadar, ghoulcaller of Nephalia
 mana_cost: "{1}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

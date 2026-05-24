@@ -50,6 +50,9 @@ artist: John Avon
 art_crop_image: cards/_images/magic-the-gathering/modern-masters-2015/244-gruul-turf--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/3/1325d187-4012-4875-9a0c-8520cbf386ac.jpg?1562259426
 oracle_text: "This land enters tapped.\\nWhen this land enters, return a land you control to its owner's hand.\\n{T}: Add {R}{G}."
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

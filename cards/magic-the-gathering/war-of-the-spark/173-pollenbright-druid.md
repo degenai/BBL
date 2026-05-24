@@ -53,6 +53,9 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/173-pollenbri
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/b/4b0f478c-54f8-4087-ad52-d089e2049dda.jpg?1557576985
 oracle_text: When this creature enters, choose one —\n• Put a +1/+1 counter on target creature.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 mana_cost: "{1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

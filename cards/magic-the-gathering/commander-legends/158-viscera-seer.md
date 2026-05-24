@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/4/d49203dd-89b6-
 flavor_text: In matters of life and death, he trusts his gut.
 oracle_text: "Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
 mana_cost: "{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

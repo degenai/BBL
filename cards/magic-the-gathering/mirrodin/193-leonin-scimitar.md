@@ -49,6 +49,9 @@ art_crop_image: cards/_images/magic-the-gathering/mirrodin/193-leonin-scimitar--
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/a/8abf4bbe-5b1c-4f6f-be32-5f61c66e1830.jpg?1562150085
 oracle_text: "Equipped creature gets +1/+1.\\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
 mana_cost: "{1}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

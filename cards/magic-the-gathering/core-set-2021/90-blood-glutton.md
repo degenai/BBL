@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/8/28ff52a2-4223-
 flavor_text: \"Some savor the hunt. I savor the kill.\"
 oracle_text: Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 mana_cost: "{4}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/a/5a00ac82-a884-
 flavor_text: \"Those urbanist cobble-roaches won't know what hit them!\"
 oracle_text: When this creature dies, you may have it deal damage to any target equal to the number of land cards in your graveyard.
 mana_cost: "{R}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

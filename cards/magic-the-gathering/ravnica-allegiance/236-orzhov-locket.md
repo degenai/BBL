@@ -56,6 +56,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/6/761e7188-bad1-
 flavor_text: \"It looks expensive, doesn't it? You have no idea...\"\n—Milana, Orzhov prelate
 oracle_text: "{T}: Add {W} or {B}.\\n{W/B}{W/B}{W/B}{W/B}, {T}, Sacrifice this artifact: Draw two cards."
 mana_cost: "{3}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/3/93165cd6-7a6b-
 flavor_text: Decades to build. Hours to demolish.
 oracle_text: "This artifact enters with three brick counters on it.\\n{2}, {T}, Remove a brick counter from this artifact: Draw a card.\\n{2}, {T}: Scry 1."
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

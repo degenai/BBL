@@ -50,6 +50,7 @@ image_quality: high
 mood: sublime
 time_of_day: night
 setting: mountain
+mana_cost: "{2}{U}{R}{W}"
 tags:
   - card
   - vision-passed

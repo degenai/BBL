@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/mystery-booster-retail-exclusi
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/1/81c9142f-bcd9-4cb1-9df8-dde0e6c78903.jpg?1583453975
 oracle_text: Other red creatures you control get +1/+1.\nOther white creatures you control get +1/+1.\nWhenever you cast a red spell, this creature deals 3 damage to target player or planeswalker.\nWhenever you cast a white spell, you gain 3 life.
 mana_cost: "{2}{R/W}{R/W}{R/W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

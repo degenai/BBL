@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/1/0162a0b8-a2d1-
 flavor_text: Starfish are its favorite prey.
 oracle_text: Whenever you cast your first spell during each opponent's turn, you may tap or untap target nonland permanent.
 mana_cost: "{1}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -52,6 +52,9 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/174-rosetho
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/a/2a0d430f-da84-4752-940c-8457c525aac9.jpg?1572490659
 flavor_text: \"Old battlefields make great gardens. So rich from the blood of the fallen.\"
 mana_cost: "{2}{G} // {G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

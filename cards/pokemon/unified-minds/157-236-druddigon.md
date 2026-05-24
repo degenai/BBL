@@ -46,6 +46,9 @@ oracle_text: "Drag Off (ColorlessColorless): Switch 1 of your opponent's Benched
 mood: action
 time_of_day: indeterminate
 setting: mountain
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

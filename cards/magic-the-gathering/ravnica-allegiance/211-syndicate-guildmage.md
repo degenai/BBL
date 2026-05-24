@@ -51,6 +51,10 @@ artist: Josh Hass
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/211-syndicate-guildmage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/8/e82d3c8d-849a-445b-bc7c-365514d1511f.jpg?1584831902
 oracle_text: "{1}{W}, {T}: Tap target creature with power 4 or greater.\\n{4}{B}, {T}: This creature deals 2 damage to target opponent or planeswalker."
+mana_cost: "{W}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

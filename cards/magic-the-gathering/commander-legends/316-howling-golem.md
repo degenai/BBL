@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/5/05b54aaa-93e2-
 flavor_text: It wails of buried riches and the souls lost seeking them.
 oracle_text: Whenever this creature attacks or blocks, each player draws a card.
 mana_cost: "{3}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

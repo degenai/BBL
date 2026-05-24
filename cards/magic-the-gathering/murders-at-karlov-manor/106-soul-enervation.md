@@ -53,6 +53,7 @@ setting: indoor
 suspected_ip: ""
 ip_confidence: none
 ip_verified: true
+mana_cost: "{3}{B}"
 tags:
   - card
   - vision-passed

@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/6/36c8c075-9597-
 flavor_text: \"Dawn-kissed, he nourishes the golden grain.\"\n—Psemilla, Meletian poet
 oracle_text: "Lifelink\\n{1}, Sacrifice this creature: Target creature or enchantment you control gains protection from the color of your choice until end of turn."
 mana_cost: "{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

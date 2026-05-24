@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/aetherdrift/265-swiftwater-cli
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/4/949bf6bb-1e97-48a3-8547-0a780664c275.jpg?1738356952
 flavor_text: The Keelhaulers channel their prey drive into thrilling, cutthroat pursuits. Glory is all the sweeter when it's won at the expense of others.
 oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {U} or {R}."
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

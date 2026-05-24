@@ -51,6 +51,11 @@ artist: Steve Prescott
 flavor_text: Looking over two city blocks of destruction, he could only cackle with pride.
 oracle_text: Trample\nWhenever a creature you control with power 4 or greater enters, put a +1/+1 counter on this creature.
 mana_cost: "{1}{G}"
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/166-kronch-wrangler--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/f/8f41d22a-ee37-4d69-a9ca-98c91315b9e6.jpg?1557576942
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

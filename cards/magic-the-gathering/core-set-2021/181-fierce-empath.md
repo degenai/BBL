@@ -49,6 +49,9 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/181-fierce-empat
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/7/17bc2af0-5a1d-4319-a285-6a15cf86be83.jpg?1594736962
 oracle_text: When this creature enters, you may search your library for a creature card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.
 mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

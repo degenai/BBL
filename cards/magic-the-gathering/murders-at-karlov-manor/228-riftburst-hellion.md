@@ -51,6 +51,9 @@ mood: action
 time_of_day: day
 setting: urban
 mana_cost: "{5}{R}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

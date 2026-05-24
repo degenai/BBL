@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/0/a01c16a5-bc50-
 flavor_text: It harmonizes with the essence of its master.
 oracle_text: "{T}: Add one mana of any color in your commander's color identity.\\nSacrifice this artifact: Draw a card."
 mana_cost: "{3}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

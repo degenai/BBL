@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/6/66e577a0-e5d7-
 flavor_text: One spiny tree with bitter fruit grows in the realm of Tizerus, outside the palace of Erebos.
 oracle_text: Target player loses 2 life.\nEscape—{3}{B}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 mana_cost: "{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

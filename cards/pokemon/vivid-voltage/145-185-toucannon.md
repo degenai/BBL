@@ -39,7 +39,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Sekio
 flavor_text: Known for forming harmonious couples, this Pokémon is brought to wedding ceremonies as a good luck charm.
-oracle_text: "Energy Cutoff (ColorlessColorless) 60: Discard an Energy from your opponent's Active Pokémon.\nLoop Cannon (ColorlessColorlessColorless) 160: Put 2 Energy attached to this Pokémon into your hand."
+oracle_text: "Energy Cutoff (ColorlessColorless) 60: Discard an Energy from your opponent's Active Pokémon.\\nLoop Cannon (ColorlessColorlessColorless) 160: Put 2 Energy attached to this Pokémon into your hand."
 image_width: 734
 image_height: 1024
 image_quality: high

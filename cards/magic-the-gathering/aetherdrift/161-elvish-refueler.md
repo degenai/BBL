@@ -51,6 +51,10 @@ oracle_text: "During your turn, as long as you haven't activated an exhaust abil
 mood: other
 time_of_day: indeterminate
 setting: other
+mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

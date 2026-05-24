@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/6/b69cbb20-3c4e-
 flavor_text: That gnat was still hovering by the venison, and now both looked delicious.
 oracle_text: Enchant creature\nEnchanted creature loses all abilities and is a blue Frog creature with base power and toughness 1/1. (It loses all other card types and creature types.)
 mana_cost: "{1}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

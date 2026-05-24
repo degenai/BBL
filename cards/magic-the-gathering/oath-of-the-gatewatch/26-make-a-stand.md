@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - rebellion
   - last-stand
   - resistance
@@ -22,22 +22,22 @@ tags_hub:
   - survival
   - solidarity
   - courage
-tags_filter:
+tags_filter: []
   - group
   - wide
   - narrative
   - forward-facing
   - white-magic
   - instant
-reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/26-make-a-stand.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-24
 date_added: 2026-05-12
 last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/3/0/30cace63-91ca-493c-b67f-740fbbf06370.png?1562904926
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 artist: Magali Villeneuve
 characters:
   - zendikari-resistance
@@ -51,6 +51,7 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: mountain
+manual_review_reason: No reference image found via scryfall for set 'Oath of the Gatewatch'
 tags:
   - card
   - vision-passed
@@ -60,21 +61,14 @@ tags:
 
 ## Vision
 
-![26-make-a-stand](../../_images/magic-the-gathering/oath-of-the-gatewatch/26-make-a-stand.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A wide scene depicts multiple humanoid warrior figures standing within a large translucent dome of glowing magical energy. The dome fills most of the frame, with rocky terrain visible at its edges. Inside the dome, at least three figures are visible — they hold spears and other weapons raised, standing in a defiant posture. The light from within the dome creates a warm golden-white glow. The surrounding landscape is barren rock. The composition communicates a last-stand or protective-barrier moment — a small group holding together against encircling threat.
 
-**Subject:** A group of warriors enclosed in a large dome of magical energy, raising spears and weapons together against unseen enemies on a rocky battlefield
+**Subject:** 
 
-**Composition:** wide, narrative, figures: group, facing: forward
-**Setting:** mountain, indeterminate
-**Foreground:** group of warriors inside glowing magical dome, weapons raised  *(palette: warm-gold, white-glow, pale-green, stone-gray)*
-**Background:** rocky barren terrain, edge of dome, dark horizon  *(palette: dark-gray, brown, muted-green)*
-**Mood / lighting:** action, ambient
-**Emotion read:** defiant unity, courage under siege, last stand
-**Objects:** spears, magical-dome, shields
-**Iconography:** protective-sphere, glowing-barrier
-**Genre cues:** fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

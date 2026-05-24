@@ -48,6 +48,10 @@ oracle_text: Reach (This creature can block creatures with flying.)
 mood: horror
 time_of_day: indeterminate
 setting: forest
+mana_cost: "{3}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/6/869fee23-df75-
 flavor_text: \"May the skies be clear of gales and gulls.\"\n—Meletian prayer
 oracle_text: Flash\nFlying
 mana_cost: "{2}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

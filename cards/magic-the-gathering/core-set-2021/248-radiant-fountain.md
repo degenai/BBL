@@ -50,6 +50,9 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/248-radiant-foun
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/2/0296c34b-120b-483e-8b49-6d432c04f9a4.jpg?1594737654
 flavor_text: \"All peoples treasure a place where the weary traveler may drink in peace.\"\n—Ajani Goldmane
 oracle_text: "When this land enters, you gain 2 life.\\n{T}: Add {C}."
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

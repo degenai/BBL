@@ -51,6 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/179-thunderin
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/8/9888d9a4-ad72-43f6-8031-1031877171a9.jpg?1615415451
 flavor_text: \"I thought this was a civilized plane. How are there so many feral beasts?\"\n—Dovin Baan
 oracle_text: Trample\nWhen this creature enters, other creatures you control gain trample until end of turn.
+mana_cost: "{4}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

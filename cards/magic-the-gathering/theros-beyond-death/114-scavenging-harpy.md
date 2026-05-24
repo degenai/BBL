@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/0/b0e237c5-45b4-
 flavor_text: Desecrating the dead is a convenient way for harpies to expand their foul collections.
 oracle_text: Flying\nWhen this creature enters, exile target card from an opponent's graveyard.
 mana_cost: "{2}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

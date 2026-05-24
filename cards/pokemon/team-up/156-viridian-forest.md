@@ -45,6 +45,9 @@ oracle_text: Once during each player's turn, that player may discard a card from
 mood: peaceful
 time_of_day: day
 setting: forest
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

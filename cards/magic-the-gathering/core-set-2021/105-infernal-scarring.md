@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/7/975e4b8e-add9-
 flavor_text: One who is marked by a demon in life is sure to be remembered as one in death.
 oracle_text: Enchant creature\nEnchanted creature gets +2/+0 and has \"When this creature dies, draw a card.\"
 mana_cost: "{1}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

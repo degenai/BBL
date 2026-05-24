@@ -47,6 +47,7 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+mana_cost: "{B}{R}"
 tags:
   - card
 ---

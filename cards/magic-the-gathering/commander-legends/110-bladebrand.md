@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/9/89fb59ce-7d40-
 flavor_text: \"The pain of searing iron and razor edges pales beside the pleasure of performance.\"\n—Judith, the Scourge Diva
 oracle_text: Target creature gains deathtouch until end of turn.\nDraw a card.
 mana_cost: "{1}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

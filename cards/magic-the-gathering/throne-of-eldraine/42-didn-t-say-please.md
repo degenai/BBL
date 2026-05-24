@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/7/77500b53-0852-
 flavor_text: \"If you're in our home, we expect you to mind your manners.\"
 oracle_text: Counter target spell. Its controller mills three cards.
 mana_cost: "{1}{U}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

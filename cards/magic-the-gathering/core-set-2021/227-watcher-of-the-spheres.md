@@ -52,6 +52,9 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/227-watcher-of-t
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/5/354b9ea4-3d55-48cc-b426-c46b1d1bb397.jpg?1594737462
 oracle_text: Flying\nCreature spells with flying you cast cost {1} less to cast.\nWhenever another creature you control with flying enters, this creature gets +1/+1 until end of turn.
 mana_cost: "{W}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

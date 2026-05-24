@@ -50,6 +50,9 @@ artist: Chris Ostrowski
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/245-gingerbread-cabin--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/1/b11f5296-5f7d-41ca-a67d-e976273d7386.jpg?1572491212
 oracle_text: "({T}: Add {G}.)\\nThis land enters tapped unless you control three or more other Forests.\\nWhen this land enters untapped, create a Food token. (It's an artifact with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -46,7 +46,7 @@ last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'The List'
-reference_image_source_url: https://cards.scryfall.io/png/front/d/2/d2fbecdc-1c6f-44e5-9491-18dda73f3a99.png?1693275701
+reference_image_source_url: https://cards.scryfall.io/png/front/d/2/d2fbecdc-1c6f-44e5-9491-18dda73f3a99.png?1778917144
 mood: other
 time_of_day: night
 setting: forest
@@ -55,8 +55,12 @@ ip_confidence: high
 ip_verified: true
 artist: Chris Rallis
 art_crop_image: cards/_images/magic-the-gathering/the-list/309-269-oko-the-trickster--art.jpg
-art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2fbecdc-1c6f-44e5-9491-18dda73f3a99.jpg?1693275701
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2fbecdc-1c6f-44e5-9491-18dda73f3a99.jpg?1778917144
 oracle_text: "+1: Put two +1/+1 counters on up to one target creature you control.\\n0: Until end of turn, Oko becomes a copy of target creature you control. Prevent all damage that would be dealt to him this turn.\\n−7: Until end of turn, each creature you control has base power and toughness 10/10 and gains trample."
+mana_cost: "{4}{G}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

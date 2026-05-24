@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/8/9854e673-1816-
 flavor_text: Heroic deeds inspire new heroes.
 oracle_text: When this creature enters, create a 1/1 white Human Soldier creature token.\nWhenever you cast a spell that targets this creature, creatures you control get +1/+0 until end of turn.
 mana_cost: "{1}{R}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

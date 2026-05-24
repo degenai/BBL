@@ -1,0 +1,50 @@
+{
+  "card_name": "Staff of the Wild Magus",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2014 (M14)",
+  "collector_number": "223",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Staff of the Wild Magus (no. 223) is the green member and the last card in the five-card 'Staff of the Magus' cycle at collector numbers 219-223 in M14. Like the Sun Magus and Death Magus, it was not reprinted in M15; only the Flame (red, no. 220) and Mind (blue, no. 221) staffs received M15 reprints.",
+      "sources": ["Scryfall: collector numbers and reprint fields for M14 nos. 219-223"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Triggers on casting any green spell OR any Forest-typed land entering. Green's ramp identity makes land-drop triggers particularly potent here: a ramp player dropping multiple Forests per turn accrues steady incremental lifegain. Fetchlands that find basic Forests also trigger the staff.",
+      "sources": ["Scryfall: oracle_text field"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"A symbol of ferocity in oppressive times.\" — no attributed speaker. Of the three flavor texts in this batch ('ruthless,' 'uncertain,' 'oppressive'), 'oppressive' has the most charged register and maps cleanly to green's anti-civilization, anti-dominion philosophical identity without naming it explicitly.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Daniel Ljunggren illustrated three of the five M14 staff cycle cards (Death/219, Sun/222, Wild/223). His personal portfolio site is darylart.com.",
+      "sources": ["Scryfall: artist field", "artofmtg.com: Daniel Ljunggren artist page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 17,258 — the lowest of the three staffs in this batch and lowest of the five overall by rank, suggesting the green version sees the least Commander play despite green's natural land synergy. Likely outcompeted by stronger green lifegain engines (Courser of Kruphix, Wildgrowth Walker, etc.).",
+      "sources": ["Scryfall: edhrec_rank field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Staff of the Death Magus", "set": "Magic 2014 (M14)", "note": "Black cycle member, no. 219 (in this batch)"},
+    {"name": "Staff of the Sun Magus", "set": "Magic 2014 (M14)", "note": "White cycle member, no. 222 (in this batch)"},
+    {"name": "Staff of the Flame Magus", "set": "Magic 2014 (M14)", "note": "Red cycle member, no. 220"},
+    {"name": "Staff of the Mind Magus", "set": "Magic 2014 (M14)", "note": "Blue cycle member, no. 221"},
+    {"name": "Courser of Kruphix", "set": "Born of the Gods", "note": "Green lifegain on land-drop, direct mechanical parallel at significantly higher power level"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "cycle_flag": "STAFF_OF_THE_MAGUS_M14 — see 219-staff-of-the-death-magus.json for Edgelord cohort-commission note",
+  "mana_cost_flag": null
+}

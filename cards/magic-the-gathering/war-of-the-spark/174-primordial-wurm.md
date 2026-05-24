@@ -47,6 +47,7 @@ image_quality: high
 mood: horror
 time_of_day: day
 setting: other
+mana_cost: "{4}{G}{G}"
 tags:
   - card
 ---

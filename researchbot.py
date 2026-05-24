@@ -59,7 +59,8 @@ DEFAULT_CARDS_DIR = "cards"
 # nodes), so this doesn't pollute the card graph. The underscore prefix sorts the
 # folder visually distinct from card-game directories.
 DEFAULT_IMAGES_DIR = "cards/_images"
-DEFAULT_LIMIT = 10  # default cap per run; bump explicitly when confident
+DEFAULT_LIMIT = None  # unlimited by default — API rate-limit is the natural throttle.
+                      # Pass --limit N explicitly when you want to chunk a run.
 DEEPSEEK_BASE = "https://api.deepseek.com"
 DEEPSEEK_MODELS_ENDPOINT = f"{DEEPSEEK_BASE}/models"
 # Vision chat-completion endpoint + default model removed wave 92.5 along with
@@ -1193,14 +1194,19 @@ def process(cards_dir: Path, images_dir: Path, limit: int, game_filter: str | No
         except ValueError:
             qty = 0
         last_seen = fm.get("last_seen", "")
-        candidates.append((-qty, last_seen, path, fm))
+        # Truly-unprepped (no reference_image) sorts BEFORE already-prepped
+        # (re-prep / refresh) so new CSV ingest doesn't starve behind high-qty
+        # older backlog. Within each group: highest quantity, then most recent.
+        has_ref = bool((fm.get("reference_image") or "").strip())
+        candidates.append((has_ref, -qty, last_seen, path, fm))
 
     candidates.sort()
-    candidates = candidates[:limit]
+    candidates = candidates[:limit]  # Python's slice handles None as "no limit"
 
-    print(f"\nProcessing {len(candidates)} cards (qty-priority, limit={limit})\n")
+    print(f"\nProcessing {len(candidates)} cards "
+          f"(unprepped-first, then qty-priority; limit={limit or 'unlimited'})\n")
 
-    for i, (_, _, path, fm) in enumerate(candidates, 1):
+    for i, (_, _, _, path, fm) in enumerate(candidates, 1):
         name = fm.get("name", "")
         game = fm.get("game", "")
         set_ = fm.get("set", "")

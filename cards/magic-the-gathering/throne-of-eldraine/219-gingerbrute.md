@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f55fe038-c903-
 flavor_text: The unlabeled vial was not vanilla extract after all.
 oracle_text: "Haste (This creature can attack and {T} as soon as it comes under your control.)\\n{1}: This creature can't be blocked this turn except by creatures with haste.\\n{2}, {T}, Sacrifice this creature: You gain 3 life."
 mana_cost: "{1}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

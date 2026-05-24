@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/b/3bc9a434-9617-
 flavor_text: \"I will wash you from my hooves!\"\n—Mardu taunt
 oracle_text: Destroy target blocking creature. Creatures that were blocked by that creature this combat gain trample until end of turn.
 mana_cost: "{R}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

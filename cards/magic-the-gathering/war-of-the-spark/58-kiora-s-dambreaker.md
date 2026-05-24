@@ -56,6 +56,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/c/acd61fb0-a82b-
 flavor_text: \"When your enemy flees, send the sea to pursue them.\"\n—Kiora
 oracle_text: When this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 mana_cost: "{5}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

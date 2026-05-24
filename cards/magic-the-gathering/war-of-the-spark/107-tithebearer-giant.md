@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - giant
   - soldier
   - tithe
@@ -28,7 +28,7 @@ tags_hub:
   - enforcer
   - collector
   - wealth
-tags_filter:
+tags_filter: []
   - group
   - mid-shot
   - forward-facing
@@ -36,7 +36,7 @@ tags_filter:
   - creature-giant
   - black-magic
   - gothic-architecture
-reference_image: cards/_images/magic-the-gathering/war-of-the-spark/107-tithebearer-giant.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-24
@@ -52,33 +52,26 @@ oracle_text: When this creature enters, you draw a card and you lose 1 life.
 image_width: 745
 image_height: 1040
 image_quality: high
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 mood: grim
 time_of_day: indeterminate
 setting: urban
+manual_review_reason: No reference image found via scryfall for set 'War of the Spark'
 ---
 
 # Tithebearer Giant (War of the Spark)
 
 ## Vision
 
-![107-tithebearer-giant](../../_images/magic-the-gathering/war-of-the-spark/107-tithebearer-giant.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A massive humanoid giant in full ornate plate armor occupies the center of the frame, dramatically oversized relative to the surrounding figures. The armor is gold and ivory in tone, heavily decorated with circular medallion motifs on the chest and shoulder plates. The face is pale and smooth — masked or helmet-plated, not clearly a bare face. In one gauntleted hand the giant carries a large rectangular coffer or chest, visibly gilded and banded, rendered with enough detail to read as a formal treasury object rather than a weapon. A polearm or staff is held in the other hand though that arm is partially cropped at the frame edge. The background is a tall gothic cityscape of pale stone spires and pointed towers receding into a bright overcast sky. Smaller figures flank the giant at ground level: gaunt pale humanoids with spears at lower left, a dark-cloaked figure at lower right. The giant's forward-leaning posture reads as aggressive momentum rather than ceremonial procession. The overall palette is gold, ivory, grey stone, and dark framing figures.
 
-**Subject:** A towering armored giant in ornate gold-and-ivory plate armor strides forward carrying a large decorative coffer or war chest, dominating a scene of smaller figures against a gothic cathedral backdrop
+**Subject:** 
 
-**Composition:** mid-shot, action, figures: group, facing: forward
-**Setting:** urban, gothic, indeterminate, calm
-**Foreground:** Towering armored giant striding forward with gilded coffer in hand; flanking smaller figures partially visible at lower frame  *(palette: gold, ivory, cream, dark-grey)*
-**Background:** Gothic stone spires and cathedral towers receding into a pale overcast sky  *(palette: pale-grey, white, warm-stone)*
-**Mood / lighting:** grim, backlit
-**Emotion read:** imposing forward momentum; no readable facial expression due to mask/helmet; body language reads as unstoppable force
-**Objects:** war-chest, coffer, polearm, plate-armor, medallion
-**Creatures:** giant
-**Iconography:** gilded-chest, circular-medallion, gothic-spire
-**Genre cues:** fantasy, dark-fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

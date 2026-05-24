@@ -38,7 +38,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Kyoko Umemoto
 flavor_text: Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.
-oracle_text: "Lucky Find (ColorlessColorless): Search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck.\nSludge Toss (DarknessColorlessColorless) 30"
+oracle_text: "Lucky Find (ColorlessColorless): Search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck.\\nSludge Toss (DarknessColorlessColorless) 30"
 image_width: 734
 image_height: 1024
 image_quality: high

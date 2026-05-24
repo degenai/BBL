@@ -48,6 +48,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/7/17315a12-a7f8-
 flavor_text: \"I don't care if it's an all-powerful relic or a street vendor's lucky charm. If it brings you courage, wear it.\"\n—Saheeli Rai
 oracle_text: "When this artifact enters, scry 1.\\n{T}: Add one mana of any color."
 mana_cost: "{3}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

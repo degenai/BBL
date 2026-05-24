@@ -50,6 +50,9 @@ setting: dungeon
 ip_cleared: Gideon Jura
 ip_cleared_reason: "wave 41 E2 Edgelord review — vision-pass low-confidence suspicion rejected on visual grounds: depicted figure has long pale hair, Gideon Jura's canonical visual identifier is short dark hair across all BFZ-block art (see in-corpus Gideon's Reproach BFZ-30 three-quarter portrait); the Stone Havens are canonical kor settlement-network defensive infrastructure per Cliffside Lookout BFZ-20 flavor text, so a long-pale-haired healer in a cave at a Stone Havens-named card is almost certainly a kor field-medic, NOT Gideon. Suspicion cleared; card stands as a depiction of an un-named kor or human medic at a Stone Havens outpost."
 mana_cost: "{1}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

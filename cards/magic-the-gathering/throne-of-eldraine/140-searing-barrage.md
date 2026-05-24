@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2f11135-e9ce-
 flavor_text: It emerged from the coldest depths of Lochmere only to face the fires of Irencrag.
 oracle_text: Searing Barrage deals 5 damage to target creature.\nAdamant — If at least three red mana was spent to cast this spell, Searing Barrage deals 3 damage to that creature's controller.
 mana_cost: "{4}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

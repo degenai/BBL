@@ -32,13 +32,13 @@ tags_filter:
   - pokemon-v
   - holofoil
   - pokemon
-reference_image: cards/_images/pokemon/vivid-voltage/022-185-zarude-v--holofoil.png
+reference_image: cards/_images/pokemon/vivid-voltage/022-185-zarude-v--holofoil.jpg
 average_cost_paid: 0
 market_price: 0.67
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh4/22_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/4/48/ZarudeVVividVoltage22.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: PLANETA Igarashi
@@ -50,6 +50,9 @@ subject_known_ip: true
 suspected_ip: Zarude
 ip_confidence: high
 ip_verified: false
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

@@ -31,13 +31,13 @@ tags_filter:
   - pokemon-normal-type
   - reverse-holofoil
   - castform-normal-form
-reference_image: cards/_images/pokemon/brilliant-stars/116-172-castform--reverse-holofoil.png
+reference_image: cards/_images/pokemon/brilliant-stars/116-172-castform--reverse-holofoil.jpg
 average_cost_paid: 0
 market_price: 0.21
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh9/116_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/1/16/CastformBrilliantStars116.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: kawayoo
@@ -51,6 +51,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - castform-forms-cycle
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

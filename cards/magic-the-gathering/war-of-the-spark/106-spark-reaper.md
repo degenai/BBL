@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/2/922537f0-4caf-
 flavor_text: \"I know they're unstoppable fighters created to harvest souls—it's just they're so rude about it.\"\n—Kaya
 oracle_text: "{3}, Sacrifice a creature or planeswalker: You gain 1 life and draw a card."
 mana_cost: "{2}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

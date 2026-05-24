@@ -48,6 +48,7 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: void
+mana_cost: "{B}{B}"
 tags:
   - card
   - vision-passed

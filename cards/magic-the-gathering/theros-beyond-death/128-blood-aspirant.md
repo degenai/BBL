@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/d/8d4f3fa3-ba1f-
 flavor_text: It's a small step from revel to bloodbath.
 oracle_text: "Whenever you sacrifice a permanent, put a +1/+1 counter on this creature.\\n{1}{R}, {T}, Sacrifice a creature or enchantment: This creature deals 1 damage to target creature. That creature can't block this turn."
 mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

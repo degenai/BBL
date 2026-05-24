@@ -45,6 +45,9 @@ oracle_text: All Basic Pokémon (both yours and your opponent's) take 20 less da
 mood: peaceful
 time_of_day: indeterminate
 setting: indoor
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

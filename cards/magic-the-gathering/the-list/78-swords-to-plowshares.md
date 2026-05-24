@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/2/5287cab9-29f3-
 flavor_text: \"The arc of my blade has carved a path of light for the peace that will follow.\"
 oracle_text: Exile target creature. Its controller gains life equal to its power.
 mana_cost: "{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

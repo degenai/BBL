@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - talisman
   - amulet
   - gemstone
@@ -23,7 +23,7 @@ tags_hub:
   - artifact-object
   - still-life
   - magic-item
-tags_filter:
+tags_filter: []
   - no-figures
   - close-up
   - object-portrait
@@ -32,14 +32,14 @@ tags_filter:
   - artifact
   - no-face
   - indoor-scene
-reference_image: cards/_images/magic-the-gathering/modern-horizons/232-talisman-of-curiosity.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.45
 market_price_as_of: 2026-05-24
 date_added: 2026-05-07
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Modern Horizons'
 reference_image_source_url: https://cards.scryfall.io/png/front/f/d/fd52688a-39fd-430f-b950-cb56e0004396.png?1562202516
 mood: peaceful
@@ -59,19 +59,12 @@ tags:
 
 ## Vision
 
-![232-talisman-of-curiosity](../../_images/magic-the-gathering/modern-horizons/232-talisman-of-curiosity.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A still-life arrangement of arcane study tools: an ornate silver-gold talisman or amulet set with a softly glowing blue cabochon gemstone sits centered on the parchment pages of an open book. The talisman's metalwork is delicate and curlicued, almost filigreed, with the central jewel emitting a faint cool aura onto the surrounding page. The book lies open on what appears to be a desk or table, with additional pages, scrolls, or a folded letter visible beneath and beside it. The palette is dominated by warm parchment cream and aged paper, set against the cool blue glow of the gem and silvered metal. There are no figures present — this is a pure object portrait, an artifact card in the literal sense.
 
-**Subject:** An ornate metallic talisman set with a glowing blue gemstone, resting on the pages of an open tome
+**Subject:** 
 
-**Composition:** close-up, abstract, figures: none, facing: n/a
-**Setting:** indoor, indeterminate
-**Foreground:** ornate talisman with glowing blue gemstone resting on an open book  *(palette: silver, gold, cool-blue, cream)*
-**Background:** open book pages, parchment, scrolls or papers on a desk surface  *(palette: parchment-cream, warm-tan, shadowed-brown)*
-**Mood / lighting:** peaceful, soft
-**Emotion read:** contemplative stillness; the quiet of a study at rest
-**Objects:** talisman, amulet, gemstone, open-book, tome, pages, scroll, parchment
-**Iconography:** jewel, book, amulet, filigree
-**Genre cues:** fantasy, arcane, scholarly
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - soldier
   - armor
   - authority
@@ -23,7 +23,7 @@ tags_hub:
   - imperial
   - coercion
   - duel
-tags_filter:
+tags_filter: []
   - duo
   - close-up
   - action
@@ -34,15 +34,15 @@ tags_filter:
   - male-figure
   - two-figures
   - indoor-or-void
-reference_image: cards/_images/magic-the-gathering/war-of-the-spark/47-crush-dissent.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'War of the Spark'
 reference_image_source_url: https://cards.scryfall.io/png/front/9/4/94c70f23-0ca9-425e-a53a-6c09921c0075.png?1557576187
 mood: grim
 time_of_day: indeterminate
@@ -61,18 +61,12 @@ tags:
 
 ## Vision
 
-![47-crush-dissent](../../_images/magic-the-gathering/war-of-the-spark/47-crush-dissent.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-Close, dynamic composition: an armored figure in cobalt blue plate with bright gold trim and a stiff upturned collar leans in from the right, gauntleted hand clamped on the face or throat of a second figure whose head is wrenched backward in pain. The captive's exposed neck and jawline dominate the lower-left of the frame; the aggressor's helm and shoulder armor cut hard diagonals across the foreground. Background is a wash of glowing blue light suggesting either magical suppression or the gleam of polished imperial metal. The whole scene reads as a state-sanctioned silencing — physical coercion rendered in cold, clean light.
 
-**Subject:** A uniformed soldier in blue and gold armor with a high collar grips and silences a struggling captive by the throat or jaw, forcing their head back. The aggressor wears the regimented livery of an authoritarian military order.
+**Subject:** 
 
-**Composition:** close-up, action, figures: duo, facing: three-quarter
-**Setting:** other, indeterminate
-**Foreground:** armored soldier seizing a captive by the face/throat  *(palette: cobalt-blue, gold, steel, flesh)*
-**Background:** diffuse blue glow / abstract light  *(palette: pale-blue, white, cyan)*
-**Mood / lighting:** grim, rim
-**Emotion read:** aggressor: cold control; captive: pain, suppression, fear
-**Objects:** armor, gauntlet, high-collar
-**Genre cues:** fantasy, high-fantasy, military-fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

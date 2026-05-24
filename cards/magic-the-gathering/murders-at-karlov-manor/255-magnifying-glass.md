@@ -49,6 +49,7 @@ image_quality: high
 mood: other
 time_of_day: indeterminate
 setting: urban
+mana_cost: "{3}"
 tags:
   - card
 ---

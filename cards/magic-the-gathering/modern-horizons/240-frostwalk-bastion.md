@@ -48,6 +48,9 @@ artist: Jedd Chevrier
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons/240-frostwalk-bastion--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/f/bfb5d83f-2b7c-4c22-ac37-938e7cd1654a.jpg?1562202563
 oracle_text: "{T}: Add {C}.\\n{1}{S}: Until end of turn, this land becomes a 2/3 Construct artifact creature. It's still a land. ({S} can be paid with one mana from a snow source.)\\nWhenever this land deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step."
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -50,6 +50,9 @@ mood: action
 time_of_day: indeterminate
 setting: forest
 mana_cost: "{4}{G}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

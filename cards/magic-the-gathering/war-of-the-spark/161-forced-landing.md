@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/c/5cb319a7-564c-
 flavor_text: The druid knew only one spell, a charm to encourage rapid plant growth. When airborne Eternals invaded her arboretum, she had to get creative.
 oracle_text: Put target creature with flying on the bottom of its owner's library.
 mana_cost: "{1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

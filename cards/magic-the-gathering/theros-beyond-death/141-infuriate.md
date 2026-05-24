@@ -56,6 +56,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/5/85a74392-4056-
 flavor_text: \"Renata launched a dozen arrows into the minotaur's thick hide, but the monster didn't slow its charge. The fury of Mogis was upon it.\"\n—Luphea of Setessa, *Histories*
 oracle_text: Target creature gets +3/+2 until end of turn.
 mana_cost: "{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/b/fb4733e6-6fe2-
 flavor_text: \"My falcons are family, as much as any other member of my clan.\"
 oracle_text: Whenever this creature attacks, create a 1/1 white Bird creature token with flying that's tapped and attacking.
 mana_cost: "{3}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

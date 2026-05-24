@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/7/d71c2435-0312-
 flavor_text: \"Do not think me blind to your true mission...or your true master, Grand Arbiter.\"
 oracle_text: Draw two cards.\nAddendum — If you cast this spell during your main phase, you gain 2 life.
 mana_cost: "{2}{W}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

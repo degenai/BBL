@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/b/4b5d23a6-3a23-
 flavor_text: Syr Branigan always remembered to kiss his good luck charm, having lost his foot to wolverines the last time he forgot.
 oracle_text: Whenever you cast an Adventure instant or sorcery spell, copy it. You may choose new targets for the copy.
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2b85a552-2119-
 flavor_text: \"In this world, it's kill or be killed. I'd rather not be the latter.\"
 oracle_text: Destroy target creature or planeswalker.
 mana_cost: "{4}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

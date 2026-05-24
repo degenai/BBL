@@ -51,6 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/122-venomo
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/d/9dc2b661-2f42-419d-837f-bbf097c1153c.jpg?1581480034
 flavor_text: \"Many have sought snake-twined Pharika's panacea. Do you wish to share their fate?\"
 oracle_text: Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhen this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)
+mana_cost: "{3}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

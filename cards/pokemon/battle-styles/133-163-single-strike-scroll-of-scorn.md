@@ -30,13 +30,13 @@ tags_filter:
   - none-figures
   - warm-palette
   - artifact
-reference_image: cards/_images/pokemon/battle-styles/133-163-single-strike-scroll-of-scorn.png
+reference_image: cards/_images/pokemon/battle-styles/133-163-single-strike-scroll-of-scorn.jpg
 average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh5/133_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/e/eb/SingleStrikeScrollofScornBattleStyles133.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: 5ban Graphics
@@ -46,6 +46,9 @@ time_of_day: indeterminate
 setting: void
 symbols:
   - single-strike-emblem
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

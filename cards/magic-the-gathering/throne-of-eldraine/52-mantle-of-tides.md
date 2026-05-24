@@ -52,6 +52,9 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/52-mantle-o
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/0/c058d01e-f705-4407-bd9e-a2d127afdf04.jpg?1572489923
 oracle_text: "Equipped creature gets +1/+2.\\nWhenever you draw your second card each turn, attach this Equipment to target creature you control.\\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)"
 mana_cost: "{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -51,6 +51,9 @@ mood: other
 time_of_day: night
 setting: indoor
 mana_cost: "{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

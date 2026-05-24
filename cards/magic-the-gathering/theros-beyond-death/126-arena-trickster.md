@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/0/e096049d-9f02-
 flavor_text: \"It's not enough to surprise your opponent. You have to delight the crowd as well.\"
 oracle_text: Whenever you cast your first spell during each opponent's turn, put a +1/+1 counter on this creature.
 mana_cost: "{3}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

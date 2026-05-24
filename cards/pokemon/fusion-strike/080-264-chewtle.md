@@ -29,13 +29,13 @@ tags_filter:
   - water-type
   - common
   - pokemon
-reference_image: cards/_images/pokemon/fusion-strike/080-264-chewtle.png
+reference_image: cards/_images/pokemon/fusion-strike/080-264-chewtle.jpg
 average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh8/80_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/c/cc/ChewtleFusionStrike80.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Saya Tsuruta
@@ -47,6 +47,9 @@ setting: ocean
 suspected_ip: Chewtle
 ip_confidence: high
 ip_verified: false
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

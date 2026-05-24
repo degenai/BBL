@@ -44,6 +44,9 @@ oracle_text: As long as this card is attached to a Pokémon, it provides Metal E
 mood: other
 time_of_day: indeterminate
 setting: void
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

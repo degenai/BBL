@@ -56,6 +56,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/0/c0889e22-deab-
 flavor_text: \"Your concern for my safety is touching, but as long as your gunners remain reliably erratic, I see no reason to change course.\"\n—Admiral Yelise, to Commodore Axurik
 oracle_text: When this creature enters, you become the monarch.\nThis creature can't be blocked by creatures the monarch controls.
 mana_cost: "{3}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

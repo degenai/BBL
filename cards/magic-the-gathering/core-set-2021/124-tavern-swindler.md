@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/0/d00850e4-6be3-
 flavor_text: Rakdos cultists are her best customers. They never flinch at pain and are seldom good at math.
 oracle_text: "{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life."
 mana_cost: "{1}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

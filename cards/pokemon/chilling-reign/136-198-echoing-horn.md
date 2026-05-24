@@ -31,13 +31,13 @@ tags_filter:
   - trainer-item
   - item-card
   - uncommon
-reference_image: cards/_images/pokemon/chilling-reign/136-198-echoing-horn.png
+reference_image: cards/_images/pokemon/chilling-reign/136-198-echoing-horn.jpg
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-24
 date_added: 2026-05-07
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh6/136_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/2/2b/EchoingHornChillingReign136.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Studio Bora Inc.
@@ -45,6 +45,9 @@ oracle_text: Put a Basic Pokémon from your opponent's discard pile onto their B
 mood: other
 time_of_day: day
 setting: other
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

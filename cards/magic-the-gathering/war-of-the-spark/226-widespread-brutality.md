@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/226-widesprea
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/7/97715d22-f432-4f67-b4ea-47b8fe6edca5.jpg?1557577331
 oracle_text: Amass Zombies 2, then the Army you amassed deals damage equal to its power to each non-Army creature. (To amass Zombies 2, put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)
 mana_cost: "{1}{B}{R}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

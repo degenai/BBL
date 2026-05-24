@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/d/7dfa0e65-1ce0-
 flavor_text: \"Nothing against you. It's just that waiting for Consulate clearance was never really my thing.\"
 oracle_text: Target creature can't block this turn.\nDraw a card.
 mana_cost: "{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

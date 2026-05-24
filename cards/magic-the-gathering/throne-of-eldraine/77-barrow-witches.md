@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/5/45707c22-fce8-
 flavor_text: \"Taste the sweetness, breath for breath. Keep the balance, death for death.\"\n—Barrow witch incantation
 oracle_text: When this creature enters, return target Knight card from your graveyard to your hand.
 mana_cost: "{4}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

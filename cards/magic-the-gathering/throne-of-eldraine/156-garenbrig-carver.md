@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/156-garenbr
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/9/194b7a1c-291a-470e-9a40-61b72a46793b.jpg?1572490548
 flavor_text: Countless knights of Garenbrig owe their lives to his peerless craftsmanship.
 mana_cost: "{3}{G} // {1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

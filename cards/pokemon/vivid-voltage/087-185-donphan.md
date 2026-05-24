@@ -38,7 +38,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Hasegawa Saki
 flavor_text: The longer and bigger its tusks, the higher its rank in its herd. The tusks take long to grow.
-oracle_text: "Earthquake (Fighting) 120: This attack also does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)\nHeavy Impact (FightingColorlessColorless) 90"
+oracle_text: "Earthquake (Fighting) 120: This attack also does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)\\nHeavy Impact (FightingColorlessColorless) 90"
 image_width: 734
 image_height: 1024
 image_quality: high

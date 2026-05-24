@@ -47,6 +47,9 @@ oracle_text: Search your deck for up to 3 Pokémon V, reveal them, and put them 
 mood: action
 time_of_day: day
 setting: forest
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

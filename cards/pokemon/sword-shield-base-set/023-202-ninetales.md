@@ -28,9 +28,9 @@ review_bad: false
 review_notes: ""
 artist: Megumi Higuchi
 flavor_text: It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.
-image_width: 600
-image_height: 825
-image_quality: med
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

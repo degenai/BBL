@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/b/8bba47c1-a874-
 flavor_text: Its exploits are the stuff of legends among local chefs and fuel for nightmares among the forest thallids.
 oracle_text: When this creature enters, choose one —\n• Put a +1/+1 counter on this creature.\n• You gain 4 life.
 mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

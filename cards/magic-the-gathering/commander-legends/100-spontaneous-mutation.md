@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/9/6919154c-154e-
 flavor_text: When the body turns, the mind soon follows.
 oracle_text: Flash\nEnchant creature\nEnchanted creature gets -X/-0, where X is the number of cards in your graveyard.
 mana_cost: "{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

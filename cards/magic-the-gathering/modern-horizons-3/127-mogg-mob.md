@@ -48,6 +48,9 @@ mood: comedic
 time_of_day: dawn
 setting: mountain
 mana_cost: "{R}{R}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - market
   - fashion
   - aristocrat
@@ -22,7 +22,7 @@ tags_hub:
   - nobility
   - charisma
   - disruption
-tags_filter:
+tags_filter: []
   - solo-focus
   - mid-shot
   - scene-mode
@@ -37,8 +37,8 @@ market_price_as_of: 2026-05-24
 date_added: 2026-05-14
 last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/6/d/6d803b93-c1df-4a02-9dbb-d347c841d4d7.png?1706242068
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: low
+needs_manual_review: true
 artist: Scott Murphy
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/171-pompous-gadabout--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/d/6d803b93-c1df-4a02-9dbb-d347c841d4d7.jpg?1706242068
@@ -51,6 +51,7 @@ mood: comedic
 time_of_day: day
 setting: urban
 mana_cost: "{2}{G}"
+manual_review_reason: Set 'Murders at Karlov Manor' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 tags:
   - card
   - vision-passed
@@ -61,17 +62,12 @@ tags:
 
 ![171-pompous-gadabout](../../_images/magic-the-gathering/murders-at-karlov-manor/171-pompous-gadabout.png)
 
-A stocky humanoid figure wearing a large wide-brimmed hat adorned with a white plume marches boldly through a cobblestone market street. The figure's coat is green with gold trim and billowing white trousers, radiating an air of self-importance. Around them, the crowd reacts with irritation and amusement — a child points, a woman raises her fist, onlookers giggle. A spilled basket of small round objects (tomatoes or similar produce) lies at the figure's feet, and another figure to the right carries a large wicker basket. The background reveals a grand gothic-style city with domed towers and spires under a clear daytime sky.
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-**Subject:** A well-dressed humanoid figure in an elaborate wide-brimmed hat and ornate green-and-gold coat strides through a crowded city street, scattering bystanders
 
-**Composition:** mid-shot, narrative, figures: crowd, facing: forward
-**Setting:** urban, gothic, day, clear
-**Foreground:** Pompous figure striding through crowded street, spilled produce basket on cobblestones  *(palette: green, gold, white, tan)*
-**Background:** Gothic fantasy city street with domed towers and spires, crowd of onlookers  *(palette: blue-grey, stone-grey, warm-tan)*
-**Mood / lighting:** comedic, soft
-**Emotion read:** The central figure exudes smug self-importance; bystanders range from amused to annoyed
-**Objects:** wide-brimmed hat, wicker basket, spilled produce
-**Food/drink:** produce, tomatoes
-**Genre cues:** fantasy
+**Subject:** 
+
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

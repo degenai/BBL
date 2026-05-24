@@ -52,6 +52,9 @@ oracle_text: Choose one —\n• Target creature you control gets +1/+1 until en
 mana_cost: "{G}{U}{R}"
 characters:
   - ktk-clan-charm-cycle
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

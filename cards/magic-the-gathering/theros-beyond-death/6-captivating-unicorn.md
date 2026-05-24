@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/3/13893599-0b87-
 flavor_text: \"Gazing at the unicorn, I felt closer to the majesty of Nyx than I ever had before.\"\n—Oineus, traveling merchant
 oracle_text: Constellation — Whenever an enchantment you control enters, tap target creature an opponent controls.
 mana_cost: "{4}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

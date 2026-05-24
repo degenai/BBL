@@ -48,6 +48,9 @@ artist: Sung Choi
 art_crop_image: cards/_images/magic-the-gathering/dominaria/242-memorial-to-folly--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/b/ebbe56f2-aec5-4e8b-8003-1bf1ca7f5659.jpg?1562744964
 oracle_text: "This land enters tapped.\\n{T}: Add {B}.\\n{2}{B}, {T}, Sacrifice this land: Return target creature card from your graveyard to your hand."
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

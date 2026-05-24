@@ -46,6 +46,9 @@ oracle_text: Attach a Pokémon Tool to 1 of your Pokémon that doesn't already h
 mood: other
 time_of_day: indeterminate
 setting: void
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

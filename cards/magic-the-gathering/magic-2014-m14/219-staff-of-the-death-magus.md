@@ -50,6 +50,11 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/2/624fe171-8bd8-
 flavor_text: A symbol of ambition in ruthless times.
 oracle_text: Whenever you cast a black spell or a Swamp you control enters, you gain 1 life.
 mana_cost: "{3}"
+characters:
+  - staff-of-the-magus-cycle
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed
@@ -74,3 +79,17 @@ A tall, slender, dark metal staff dominates the center of the frame, planted ver
 **Iconography:** skull, staff, memento-mori
 **Genre cues:** fantasy, dark-fantasy, gothic
 
+## Trivia
+
+- **Cycle membership** — Staff of the Death Magus (no. 219) is the black member of the complete five-card "Staff of the Magus" cycle in Magic 2014. All five were printed in M14 at consecutive collector numbers: Staff of the Death Magus (219, black/Swamp), Staff of the Flame Magus (220, red/Mountain), Staff of the Mind Magus (221, blue/Island), Staff of the Sun Magus (222, white/Plains), Staff of the Wild Magus (223, green/Forest). Each triggers lifegain whenever you cast a spell of the corresponding color OR when a basic land of the corresponding type enters. Staff of the Flame Magus and Staff of the Mind Magus were later reprinted in Magic 2015 (M15); the other three were not. `[Scryfall: collector numbers 219-223, M14]`
+- **Mechanical note** — The lifegain trigger fires separately for spells AND lands, meaning a black deck ramping with Swamp drops gains life on both axes. This makes the Staff slightly more efficient in land-heavy strategies than pure-spell approaches. Importantly, non-basic lands without the Swamp subtype (e.g., Caves of Koilos) do not trigger the staff. `[Scryfall: oracle_text]` `[MTGSalvation: Staff Cycle thread 491561]`
+- **Flavor text** — "A symbol of ambition in ruthless times." — no attributed speaker. The terse parallel structure across the cycle ("ambition," "conviction," "ferocity" — each "in [adjective] times") is the flavor-text design motif that ties the five cards together as a unified set piece. `[Scryfall]`
+- **Artist** — Daniel Ljunggren illustrated three of the five staff cycle cards in M14 (Death, Sun, Wild — nos. 219, 222, 223). Ljunggren has 191 credited MTG card illustrations across multiple sets. `[Gatherer: artist search Daniel Ljunggren]` `[Scryfall: artist_ids field]`
+- **EDHREC rank** — Ranked 8,060 on EDHREC, the highest of the three M14 staffs in this batch, suggesting it sees the most Commander play — likely in lifegain-matters black decks (Oloro, Vito, etc.). `[Scryfall: edhrec_rank field]`
+
+### Related cards
+- Staff of the Flame Magus (M14, no. 220) — red cycle member, same set
+- Staff of the Mind Magus (M14, no. 221) — blue cycle member, same set
+- Staff of the Sun Magus (M14, no. 222) — white cycle member, same set (in this batch)
+- Staff of the Wild Magus (M14, no. 223) — green cycle member, same set (in this batch)
+- Basilisk Collar (Worldwake, no. 134) — comparable lifegain artifact, frequently compared in Commander discussions

@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/b/8b5f624f-c5eb-
 flavor_text: "Common Gruul career aspirations: berserker, shaman, catapult."
 oracle_text: Reach (This creature can block creatures with flying.)\nWhen this creature enters, if you control another creature with power 4 or greater, this creature deals 2 damage to each opponent.
 mana_cost: "{3}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

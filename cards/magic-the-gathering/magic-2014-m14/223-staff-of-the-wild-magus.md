@@ -51,6 +51,11 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d207f03d-4c7b-
 flavor_text: A symbol of ferocity in oppressive times.
 oracle_text: Whenever you cast a green spell or a Forest you control enters, you gain 1 life.
 mana_cost: "{3}"
+characters:
+  - staff-of-the-magus-cycle
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed
@@ -74,4 +79,19 @@ A tall, twisting wooden staff stands centered against a hazy, warm-toned backgro
 **Objects:** staff, cord, charms, fetishes, leaves, talismans
 **Iconography:** druidic-staff, nature-totem, bound-charms
 **Genre cues:** fantasy
+
+## Trivia
+
+- **Cycle membership** — Staff of the Wild Magus (no. 223) is the green member and the last card in the five-card "Staff of the Magus" cycle at collector numbers 219-223 in M14. Like the Sun Magus and Death Magus, it was not reprinted in M15; only the Flame (red) and Mind (blue) staffs received M15 reprints. The Wild Magus is the lowest-priced of the five at the time of this writing ($0.12 market). `[Scryfall: collector numbers, reprint field, prices]`
+- **Mechanical note** — Triggers on casting any green spell OR on any Forest-typed land entering. Green's ramp identity makes land-drop triggers particularly relevant: a green ramp player dropping multiple Forests per turn accrues steady incremental lifegain. Fetchlands that find basic Forests also trigger the staff. `[Scryfall: oracle_text]`
+- **Flavor text** — "A symbol of ferocity in oppressive times." — no attributed speaker. This is the most pointed of the cycle's three flavor texts in this batch: "oppressive times" has a different register than "ruthless" or "uncertain," and the combination of ferocity + oppression neatly maps to green's anti-civilization philosophy without naming it explicitly. `[Scryfall]`
+- **Artist** — Daniel Ljunggren, third of three M14 staff cycle cards he illustrated. His personal portfolio site is darylart.com. `[artofmtg.com: Daniel Ljunggren artist page]` `[Scryfall: artist field]`
+- **EDHREC rank** — Ranked 17,258, the lowest of the three staffs in this batch, suggesting the green version sees the least play despite green's natural land synergy. Likely outcompeted by stronger green lifegain engines (Courser of Kruphix, etc.) in Commander. `[Scryfall: edhrec_rank field]`
+
+### Related cards
+- Staff of the Death Magus (M14, no. 219) — black cycle member (in this batch)
+- Staff of the Sun Magus (M14, no. 222) — white cycle member (in this batch)
+- Staff of the Flame Magus (M14, no. 220) — red cycle member
+- Staff of the Mind Magus (M14, no. 221) — blue cycle member
+- Courser of Kruphix (Born of the Gods, no. 119) — green lifegain on land-drop, direct mechanical parallel at higher power level
 

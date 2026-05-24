@@ -1,0 +1,47 @@
+{
+  "card_name": "Venom Sliver",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2015 (M15)",
+  "collector_number": "205",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "First printing in Magic 2015 (M15), July 18, 2014. Slivers were redesigned in M14/M15 to grant abilities only to slivers you control (not all slivers including opponents'), a controversial change from Tempest-era slivers. Wizards reverted to partially original templating in 2023 and later sets. [Scryfall, WebSearch via MTGSalvation listing]",
+      "sources": ["Scryfall", "WebSearch via MTGSalvation listing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 4,239 — one of the more-played slivers in Commander. Granting deathtouch to the entire hive at {1}{G} is efficient for a two-drop. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"We attacked with arrows dipped in poison. The slivers that did not die began to change.\" — Hastric, Thunian scout [Scryfall]. Poison weapons became a vector for sliver evolution, not a defense. Hastric appears only in this flavor text — a vignette-only character.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Dave Kendall, a British illustrator with a recurring presence in darker MTG creature and horror art. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community discussions on r/EDH flag Venom Sliver + Striking Sliver as a foundational two-card interaction in Sliver Commander lists — deathtouch + first strike guarantees every combat trade. [WebSearch sentiment]",
+      "sources": ["WebSearch sentiment"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Striking Sliver", "set": "Magic 2014", "note": "first strike for all your slivers; pairs with deathtouch for guaranteed kills"},
+    {"name": "Sliver Hivelord", "set": "Magic 2015", "note": "indestructible M15 sliver lord; the tribal centerpiece Venom Sliver supports"},
+    {"name": "Sliver Overlord", "set": "Scourge", "note": "premier sliver Commander; Venom Sliver is a staple in its 99"},
+    {"name": "Crystalline Sliver", "set": "Stronghold", "note": "classic protection-granting sliver; represents the pre-M14 yours-AND-opponents design era"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

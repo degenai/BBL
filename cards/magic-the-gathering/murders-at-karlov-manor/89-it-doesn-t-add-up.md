@@ -56,6 +56,7 @@ setting: void
 suspected_ip: Etrata
 ip_confidence: med
 ip_verified: false
+mana_cost: "{3}{B}{B}"
 tags:
   - card
   - vision-passed

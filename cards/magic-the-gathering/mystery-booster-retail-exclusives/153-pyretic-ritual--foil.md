@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/c/ac3f40b1-fcd7-
 flavor_text: The Multiverse is filled with limitless power just waiting for someone to reach out and seize it.
 oracle_text: Add {R}{R}{R}.
 mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

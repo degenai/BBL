@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/f/3f65f1fa-4196-
 flavor_text: The essence of flame to stoke the spirit.
 oracle_text: "This artifact enters tapped.\\n{T}: Add {R}."
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

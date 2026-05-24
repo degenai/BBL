@@ -48,6 +48,7 @@ image_quality: high
 mood: comedic
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{2}{B}{B}"
 tags:
   - card
   - vision-passed

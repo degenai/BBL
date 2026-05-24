@@ -52,6 +52,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/64-shimmer
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/3/f3b54bea-f2c5-4000-9cbd-04c03a1d2ea2.jpg?1581479499
 flavor_text: It swims upon the winds and soars through the waves.
 oracle_text: Flying\nAt the beginning of your upkeep, return up to one other target enchantment you control to its owner's hand.
+mana_cost: "{3}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

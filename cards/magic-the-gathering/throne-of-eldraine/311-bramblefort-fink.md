@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fc83a142-9d0f-
 flavor_text: No matter the cruelty of Oko's jokes, he's always guaranteed the sycophant's laughter.
 oracle_text: "{8}: This creature has base power and toughness 10/10 until end of turn. Activate only if you control an Oko planeswalker."
 mana_cost: "{1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

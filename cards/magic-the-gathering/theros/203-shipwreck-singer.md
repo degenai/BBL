@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/3/13ad0c03-66d9-
 flavor_text: Her melody melds death and beauty with such artistry that even the gods weep to hear it.
 oracle_text: "Flying\\n{1}{U}: Target creature an opponent controls attacks this turn if able.\\n{1}{B}, {T}: Attacking creatures get -1/-1 until end of turn."
 mana_cost: "{U}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

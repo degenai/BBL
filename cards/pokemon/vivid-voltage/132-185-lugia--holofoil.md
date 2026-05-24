@@ -50,6 +50,9 @@ subject_known_ip: true
 suspected_ip: Lugia
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

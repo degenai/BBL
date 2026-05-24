@@ -46,6 +46,9 @@ oracle_text: "This land enters tapped.\\nWhen this land enters, sacrifice it unl
 mood: sublime
 time_of_day: day
 setting: indoor
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

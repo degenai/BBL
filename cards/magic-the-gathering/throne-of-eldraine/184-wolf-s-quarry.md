@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/d/5d21c15f-378e-
 flavor_text: \"The monster was gaining on them. Twice it had found them. There was only one place left to hide.\"\n—*Tales of the Fae*
 oracle_text: "Create three 1/1 green Boar creature tokens with \\\"When this token dies, create a Food token.\\\" (A Food token is an artifact with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")"
 mana_cost: "{4}{G}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

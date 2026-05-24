@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - construct
   - clockwork
   - spider
@@ -23,7 +23,7 @@ tags_hub:
   - salvage
   - automaton
   - small-versus-large
-tags_filter:
+tags_filter: []
   - duo
   - mid-shot
   - three-quarter-facing
@@ -33,15 +33,15 @@ tags_filter:
   - colorless-magic
   - scene-mode
   - indoor-scene
-reference_image: cards/_images/magic-the-gathering/commander-legends/348-workshop-assistant.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.37
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'Commander Legends'
 reference_image_source_url: https://cards.scryfall.io/png/front/e/9/e9387e8f-0e72-4212-81c8-e64050700c52.png?1608911774
 mood: grim
 time_of_day: indeterminate
@@ -60,22 +60,14 @@ tags:
 
 ## Vision
 
-![348-workshop-assistant](../../_images/magic-the-gathering/commander-legends/348-workshop-assistant.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A many-legged mechanical construct dominates the foreground, its dark metallic body sprouting numerous thin spider-like jointed legs that splay outward across a stone or wooden workshop floor. The construct has a tangle of wires, gears, and tubing visible at its core. In the upper right, a long sinuous neck and head — likely a dragon or drake — leans into frame with sharp teeth bared, dwarfing the small artifact creature below. The palette is dominated by deep blacks, gunmetal greys, and rusty browns, with sickly yellow-green highlights catching the construct's plating. The background dissolves into murky shadow with hints of workshop debris.
 
-**Subject:** A small mechanical construct — a spider-like artifact creature with multiple jointed metal legs and a central body — scuttling across a workshop floor while a long-necked dragon or wyrm peers down at it from above-right
+**Subject:** 
 
-**Composition:** mid-shot, narrative, figures: duo, facing: three-quarter
-**Setting:** indoor, indeterminate
-**Foreground:** spider-like mechanical construct with jointed metal legs, exposed gears and wires  *(palette: black, gunmetal, rust-brown, sickly-green)*
-**Background:** shadowy workshop interior with a dragon's head and neck intruding from upper right  *(palette: black, deep-brown, muted-yellow)*
-**Mood / lighting:** grim, chiaroscuro
-**Emotion read:** menace and predatory curiosity from the dragon; the construct reads as scurrying, vulnerable
-**Objects:** mechanical-construct, gears, wires, metal-legs, workshop-debris
-**Creatures:** dragon, construct, spider-like-machine
-**Iconography:** clockwork, mechanical-spider
-**Genre cues:** fantasy, steampunk, dark-fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/b/3bd39a06-c53a-
 flavor_text: It was built to withstand the ages, but no one remembers who built it or why it keeps its eternal watch.
 oracle_text: This creature enters tapped.
 mana_cost: "{4}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

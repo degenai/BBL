@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/8/08d1dd97-2675-
 flavor_text: Basri carries on his god's legacy, spreading her teachings throughout the Multiverse.
 oracle_text: Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nWhen this creature enters, put a +1/+1 counter on each of up to two other target creatures you control.
 mana_cost: "{2}{W}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

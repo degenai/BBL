@@ -39,7 +39,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Anesaki Dynamic
 flavor_text: It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.
-oracle_text: "Drill Run (MetalColorless) 30: Discard an Energy from your opponent's Active Pokémon.\nSlashing Claw (MetalMetalColorless) 130"
+oracle_text: "Drill Run (MetalColorless) 30: Discard an Energy from your opponent's Active Pokémon.\\nSlashing Claw (MetalMetalColorless) 130"
 image_width: 734
 image_height: 1024
 image_quality: high

@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fc7a017d-0bd2-
 flavor_text: "It loathes all tastes but two: spells and flesh."
 oracle_text: When this creature enters, you may return target red sorcery card from your graveyard to your hand.\nWhen this creature enters, you may return target blue instant card from your graveyard to your hand.
 mana_cost: "{4}{U/R}{U/R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

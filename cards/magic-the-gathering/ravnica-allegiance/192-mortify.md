@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/b/ebf6c0dc-5c7b-
 flavor_text: \"Your debt is erased.\"\n—Hilgur, Orzhov euthanist
 oracle_text: Destroy target creature or enchantment.
 mana_cost: "{1}{W}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

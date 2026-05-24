@@ -56,6 +56,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/1/e1be3729-7970-
 flavor_text: Leonin band together in the Underworld, taking solace in their strength until, at last, both pride and self are forgotten.
 oracle_text: When this creature dies, exile target card from an opponent's graveyard.
 mana_cost: "{1}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

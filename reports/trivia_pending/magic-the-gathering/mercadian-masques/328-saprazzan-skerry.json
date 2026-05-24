@@ -1,0 +1,46 @@
+{
+  "card_name": "Saprazzan Skerry",
+  "game": "Magic: The Gathering",
+  "set": "Mercadian Masques",
+  "collector_number": "328",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Saprazzan Skerry is from Mercadian Masques (October 4, 1999), the first set of the Masques block, set on the plane of Mercadia. 'Saprazzan' references Saprazzo — the coral city of Mercadia, a half-submerged merfolk metropolis inside a volcanic caldera lake, ruled by a Grand Vizier. Saprazzo is described as a rival trade city to the merchant-dominated Rishada, populated by merfolk with the ability to shift between fish-tail and humanoid form. The land art depicts a literal skerry (small rocky island) consistent with that coastal setting. [WebSearch via mtg.fandom.com/wiki/Saprazzo]",
+      "sources": ["WebSearch: mtg.fandom.com/wiki/Saprazzo"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Saprazzan Skerry is one of a cycle of ten depletion lands from Mercadian Masques. Each enters with two depletion counters and produces double mana per activation, self-sacrificing when counters run out. The mechanic creates a deliberate front-loaded mana burst useful for explosive early turns but unsustainable. [Scryfall oracle text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Saprazzan Skerry has never been reprinted outside Mercadian Masques (Scryfall: reprint false). It is not on the Reserved List. Foil scarcity from the old-frame 1999 print run drives the foil price to $47.36 versus $2.71 non-foil (as of cataloging). [Scryfall: reprint field, prices]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Frontmatter note: collector_number was blank at intake — corrected to 328 in this trivia pass via Scryfall verification (set mmq). [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Legacy, Vintage, Pauper, and Commander. EDHREC rank 6,531 — sees occasional Commander play as a blue mana accelerant in decks needing early blue mana density. In Legacy Pauper, double-blue lands are niche accelerants in storm or bounce-based combo shells. [Scryfall legalities; EDHREC rank via Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Saprazzan Cove", "set": "Mercadian Masques", "note": "another Saprazzan-named land from the same set, blue depletion cycle pair"},
+    {"name": "Flood Plain", "set": "Mirage", "note": "early fetch land from the same era, blue-mana-focused"},
+    {"name": "Remote Isle", "set": "Urza's Saga", "note": "cycling island from the same era, comparable blue mana utility in Legacy Pauper lists"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

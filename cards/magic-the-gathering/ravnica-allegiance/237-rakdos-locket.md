@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/f/4fd60d9b-2282-
 flavor_text: \"This trinket will gain you admittance to some painfully exclusive gatherings.\"\n—Exava, blood witch
 oracle_text: "{T}: Add {B} or {R}.\\n{B/R}{B/R}{B/R}{B/R}, {T}, Sacrifice this artifact: Draw two cards."
 mana_cost: "{3}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -48,6 +48,10 @@ oracle_text: Equipped creature gets +4/+0 and has trample.\nEquip {4}\nCascade (
 mood: action
 time_of_day: indeterminate
 setting: other
+mana_cost: "{4}{R}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

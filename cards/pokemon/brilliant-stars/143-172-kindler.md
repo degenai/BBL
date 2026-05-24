@@ -43,6 +43,9 @@ oracle_text: You can use this card only if you discard a Fire Energy card from y
 mood: action
 time_of_day: night
 setting: other
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

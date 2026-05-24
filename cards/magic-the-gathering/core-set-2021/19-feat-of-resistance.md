@@ -52,6 +52,9 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/19-feat-of-resis
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/3/73148b3b-73d3-4f57-8b67-1e91fbe112b9.jpg?1595640319
 oracle_text: Put a +1/+1 counter on target creature you control. It gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)
 mana_cost: "{1}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -46,6 +46,9 @@ oracle_text: "Double Slap (ColorlessColorless) 30×: Flip 2 coins. This attack d
 mood: peaceful
 time_of_day: day
 setting: forest
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

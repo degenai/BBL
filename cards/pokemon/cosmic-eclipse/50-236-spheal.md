@@ -35,18 +35,21 @@ market_price: 0.18
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/sm12/49_hires.png
+reference_image_source_url: https://images.pokemontcg.io/sm12/50_hires.png
 art_match_confidence: high
 needs_manual_review: false
-artist: sui
+artist: SATOSHI NAKAI
 flavor_text: They can't swim well yet, and they move much faster by rolling. When they're happy, they clap fins.
-oracle_text: Rollout (Water) 10\nIcy Snow (WaterColorless) 20
+oracle_text: "Body Slam (WaterColorlessColorless) 30: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
 mood: cozy
 time_of_day: day
 setting: other
 suspected_ip: Spheal
 ip_confidence: high
 ip_verified: false
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

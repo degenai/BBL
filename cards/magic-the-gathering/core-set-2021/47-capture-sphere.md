@@ -47,6 +47,9 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/47-capture-spher
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f5ed9f08-56e8-4e24-aae2-05270d7c1ba8.jpg?1594735438
 oracle_text: Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.
 mana_cost: "{3}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

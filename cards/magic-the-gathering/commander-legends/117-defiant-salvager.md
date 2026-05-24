@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - salvage
   - scrap
   - wreckage
@@ -23,7 +23,7 @@ tags_hub:
   - ruin
   - grief
   - telekinesis
-tags_filter:
+tags_filter: []
   - solo
   - mid-shot
   - forward-facing
@@ -35,15 +35,15 @@ tags_filter:
   - black-magic
   - sacrifice-payoff
   - counters-matter
-reference_image: cards/_images/magic-the-gathering/commander-legends/117-defiant-salvager.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'Commander Legends'
 reference_image_source_url: https://cards.scryfall.io/png/front/c/f/cfd1c30e-e539-4382-b0fd-724a502a4b7e.png?1608909648
 mood: grim
 time_of_day: indeterminate
@@ -63,22 +63,14 @@ tags:
 
 ## Vision
 
-![117-defiant-salvager](../../_images/magic-the-gathering/commander-legends/117-defiant-salvager.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A slender, ashen-skinned Aetherborn figure with a sharp angular face and dark hollow eyes stands at the center of the composition, gazing slightly downward with a defiant, weary expression. Their elongated body is wrapped in dark robes that blend into the void background. Around them swirls a dramatic eruption of warm gold and brass scrap metal — twisted plates, curling shards, and broken artifact pieces caught mid-motion as if still falling or being telekinetically gathered. A bright golden highlight crowns the upper-left of the swirl, suggesting a flash of magical or kinetic energy. The black background swallows everything outside the central figure and debris, throwing the warm metallic tones into stark relief.
 
-**Subject:** A pale, gaunt humanoid figure with sharp features (Aetherborn artificer) standing amid a swirl of twisted golden metallic debris and scrap, holding or surrounded by curling salvaged wreckage against a pitch-black void.
+**Subject:** 
 
-**Composition:** mid-shot, portrait, figures: solo, facing: forward
-**Setting:** void, indeterminate
-**Foreground:** Aetherborn figure surrounded by curling, twisted golden scrap metal and artifact debris  *(palette: pale-grey, gold, brass, amber, charcoal)*
-**Background:** Featureless black void with a faint golden glow at upper left  *(palette: black, gold-highlight)*
-**Mood / lighting:** grim, chiaroscuro
-**Emotion read:** defiant, weary, resigned but unbroken — eyes downcast, posture composed amid chaos
-**Objects:** scrap-metal, broken-artifact, twisted-plates, debris, shards
-**Creatures:** aetherborn
-**Iconography:** wreckage, salvage, metallic-swirl
-**Genre cues:** fantasy, dark-fantasy, steampunk-adjacent
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

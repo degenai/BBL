@@ -57,6 +57,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cfba304c-9cb8-
 flavor_text: Purphoros once loved Nylea, the god of the hunt. His passion inspired his most astounding works of art.
 oracle_text: "{T}: Add one mana of any color."
 mana_cost: "{3}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

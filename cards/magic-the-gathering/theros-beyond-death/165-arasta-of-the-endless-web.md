@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/c/7c38833a-96c5-
 flavor_text: Her webs, spun from her own hair, reach from Nyx to the mortal world and even into the Underworld.
 oracle_text: Reach\nWhenever an opponent casts an instant or sorcery spell, create a 1/2 green Spider creature token with reach.
 mana_cost: "{2}{G}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

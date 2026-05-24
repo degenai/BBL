@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/1/f19b4a80-41e1-
 flavor_text: \"From a great bonfire at the dawn of time, the first Gruul kindled their rage. The same flame burns in you.\"\n—Kroshkar, Gruul shaman
 oracle_text: Creatures you control get +2/+0 until end of turn.
 mana_cost: "{2}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

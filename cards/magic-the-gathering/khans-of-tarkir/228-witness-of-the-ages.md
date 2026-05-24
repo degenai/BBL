@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/6/763ac4c4-af2d-
 flavor_text: It strode through the clash of dragons, the fall of Ugin, and the rise of the khans.
 oracle_text: Morph {5} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
 mana_cost: "{6}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

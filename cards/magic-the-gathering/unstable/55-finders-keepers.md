@@ -50,6 +50,7 @@ image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: indoor
+mana_cost: "{5}{B}"
 tags:
   - card
   - vision-passed

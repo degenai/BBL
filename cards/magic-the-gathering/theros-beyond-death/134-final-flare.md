@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/0/f0c95dee-a480-
 flavor_text: Those who fought without honor in life are taken to Agonas and doomed to fight forever in its arenas.
 oracle_text: As an additional cost to cast this spell, sacrifice a creature or enchantment.\nFinal Flare deals 5 damage to target creature.
 mana_cost: "{2}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

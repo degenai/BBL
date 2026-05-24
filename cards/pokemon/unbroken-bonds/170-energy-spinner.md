@@ -42,6 +42,9 @@ oracle_text: Search your deck for a basic Energy card, reveal it, and put it int
 mood: other
 time_of_day: indeterminate
 setting: void
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

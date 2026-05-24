@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/a/fa0e1a22-8f27-
 flavor_text: Those who do not learn from their mistakes are bound to relive them.
 oracle_text: Target creature gets -4/-0 until end of turn. Scry 2.
 mana_cost: "{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

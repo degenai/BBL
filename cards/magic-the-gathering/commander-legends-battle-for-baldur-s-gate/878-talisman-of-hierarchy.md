@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - talisman
   - amulet
   - sigil
@@ -23,7 +23,7 @@ tags_hub:
   - divination
   - checkered-floor
   - treasure
-tags_filter:
+tags_filter: []
   - no-figure
   - no-face
   - close-up
@@ -39,10 +39,10 @@ market_price: 0.85
 market_price_as_of: 2026-05-24
 date_added: 2026-05-07
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
-reference_image_source_url: https://cards.scryfall.io/png/front/2/2/2299c93e-f3a6-4b41-857b-e3d1aff0f622.png?1674142768
+art_match_confidence: low
+needs_manual_review: true
+manual_review_reason: "Set 'Commander Legends: Battle for Baldur''s Gate' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing."
+reference_image_source_url: https://cards.scryfall.io/png/front/0/c/0c959368-2f58-48de-b7a5-2bab408652b5.png?1775942112
 mood: other
 time_of_day: indeterminate
 setting: indoor
@@ -64,19 +64,14 @@ tags:
 
 ![878-talisman-of-hierarchy](../../_images/magic-the-gathering/commander-legends-battle-for-baldur-s-gate/878-talisman-of-hierarchy.png)
 
-A circular metal pendant or talisman lies on a polished checkered floor, etched with a prominent upward-pointing triangular sigil at its center. Several flat card-like or tile-like objects are scattered around it, some bearing geometric markings. The lighting is cool and dim, with bluish-grey tones dominating the metalwork and the floor's reflective surface. A faint chain or cord trails off the edge of the talisman, and the composition is shot from a slightly raised angle looking down at the object as a still-life arrangement.
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-**Subject:** A metallic talisman amulet engraved with a triangular sigil, resting on a checkered tile floor among scattered playing cards or tokens
 
-**Composition:** close-up, abstract, figures: none, facing: n/a
-**Setting:** indoor, indeterminate
-**Foreground:** metal talisman with triangular engraving, scattered cards or tokens  *(palette: silver, steel-grey, pale-blue, black)*
-**Background:** checkered tile floor, dim and reflective  *(palette: dark-grey, slate, muted-blue, black)*
-**Mood / lighting:** other, ambient
-**Emotion read:** n/a — object still-life, no figure
-**Objects:** talisman, pendant, amulet, chain, cards, tokens, triangular-sigil, checkered-floor
-**Iconography:** triangle, geometric-sigil, amulet
-**Genre cues:** fantasy, occult, still-life
+**Subject:** 
+
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

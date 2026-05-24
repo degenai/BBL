@@ -43,9 +43,9 @@ review_bad: true
 review_notes: "Cached image is Dark Hypno (Team Rocket era, ~2000), not the Sun & Moon Base Set Hypno. Fuzzy-set-code fallback stalled on a stale download. Source URL https://images.pokemontcg.io/sm1/60_hires.png is correct; needs re-download to overwrite the cached PNG. Surfaced wave 178 by vision pass."
 artist: OOYAMA
 flavor_text: As a matter of course, it makes anyone it meets fall asleep and has a taste of their dreams. Anyone having a good dream, it carries off.
-image_width: 600
-image_height: 835
-image_quality: med
+image_width: 734
+image_height: 1024
+image_quality: high
 mood: grim
 time_of_day: indeterminate
 setting: void

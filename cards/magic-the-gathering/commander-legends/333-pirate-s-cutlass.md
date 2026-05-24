@@ -50,6 +50,9 @@ art_crop_image: cards/_images/magic-the-gathering/commander-legends/333-pirate-s
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/5/c5dc0635-0cc4-419e-ab64-c07a69f34f75.jpg?1608911636
 oracle_text: "When this Equipment enters, attach it to target Pirate you control.\\nEquipped creature gets +2/+1.\\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
 mana_cost: "{3}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

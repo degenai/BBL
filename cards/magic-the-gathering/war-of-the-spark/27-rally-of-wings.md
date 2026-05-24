@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/0/f043642d-35fe-
 flavor_text: Even the clouds became a field of battle. Known as the Sky Theater, it saw the Eternals clash with squadrons of angels.
 oracle_text: Untap all creatures you control. Creatures you control with flying get +2/+2 until end of turn.
 mana_cost: "{1}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

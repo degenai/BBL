@@ -48,6 +48,9 @@ mood: action
 time_of_day: sunset
 setting: desert
 mana_cost: "{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

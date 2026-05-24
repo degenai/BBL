@@ -57,6 +57,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/8/e8c9ada9-ea25-
 flavor_text: \"Grief-struck, she weeps for each mortal's final death.\"\n—Psemilla, Meletian poet
 oracle_text: "{1}, Sacrifice a creature: Each opponent loses 1 life and you gain 1 life."
 mana_cost: "{1}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

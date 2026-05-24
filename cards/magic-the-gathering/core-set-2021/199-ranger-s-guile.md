@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/2/02392840-f0c4-
 flavor_text: \"You don't survive in the wild by standing in plain sight.\"\n—Garruk Wildspeaker
 oracle_text: Target creature you control gets +1/+1 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
 mana_cost: "{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

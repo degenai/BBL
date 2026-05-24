@@ -56,6 +56,9 @@ mana_cost: "{4}{R}"
 mood: horror
 time_of_day: indeterminate
 setting: other
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

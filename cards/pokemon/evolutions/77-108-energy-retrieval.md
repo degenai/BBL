@@ -45,6 +45,9 @@ oracle_text: Put 2 basic Energy cards from your discard pile into your hand.\nYo
 mood: other
 time_of_day: indeterminate
 setting: void
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

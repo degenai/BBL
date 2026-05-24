@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/d/cdb7c7a6-4e9b-
 flavor_text: Winners of the Iroan Games are forever remembered as heroes of their people.
 oracle_text: Whenever you cast a spell that targets this creature, creatures you control get +1/+0 until end of turn.
 mana_cost: "{2}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -1,0 +1,46 @@
+{
+  "card_name": "Blue Elemental Blast",
+  "game": "Magic: The Gathering",
+  "set": "Masters 25",
+  "collector_number": "43",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Blue Elemental Blast is one of Magic: The Gathering's original 295 cards, first printed in Limited Edition Alpha (August 1993). It and Red Elemental Blast are the iconic mirror pair of 'color hosers' from that set — each counters or destroys the opposing color at one mana. Both were present in Alpha, Beta, and Unlimited and have been reprinted across approximately 20 editions. [Scryfall; WebSearch via originalmagicart.store and TCGplayer]",
+      "sources": ["Scryfall", "WebSearch: originalmagicart.store", "WebSearch: TCGplayer"]
+    },
+    {
+      "category": "design",
+      "text": "Blue Elemental Blast gives blue the ability to destroy permanents — a red ability — and Red Elemental Blast gives red the ability to counter spells — a blue ability. Mark Rosewater has stated Red Elemental Blast is a color pie break; the same reasoning applies symmetrically to Blue Elemental Blast's destroy mode. These cards are grandfathered from Magic's pre-color-pie-codification design era. [WebSearch: tappedout.net MTG Forum 'How is Red Elemental Blast a Color Pie Break?']",
+      "sources": ["WebSearch: tappedout.net MTG Forum"]
+    },
+    {
+      "category": "set-lore",
+      "text": "This specific printing is from Masters 25 (released March 16, 2018), a premium reprint set celebrating Magic's 25th anniversary. Every card in Masters 25 carries a watermark from its original set; this card carries the Alpha/Limited Edition watermark. [Scryfall: released_at 2018-03-16, watermark 'set']",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Nothing escapes a sharp mind.' No speaker attributed. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Legacy, Vintage, Commander, and Pauper. In Legacy and Pauper it sees sideboard play as a dedicated red-deck hoser. EDHREC rank 10,774 — modest Commander inclusion, primarily in mono-blue or control decks with heavy red matchup consideration. [Scryfall legalities and EDHREC rank]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Red Elemental Blast", "set": "Alpha", "note": "direct mirror card — destroys or counters blue permanents/spells for one red mana"},
+    {"name": "Hydroblast", "set": "Ice Age", "note": "functional reprint of Blue Elemental Blast under a different name — allows running copies of both in Legacy/Pauper"},
+    {"name": "Pyroblast", "set": "Ice Age", "note": "functional reprint of Red Elemental Blast; same relationship to REB"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

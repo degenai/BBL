@@ -51,6 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/130-grim-init
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/9/29b6ec9d-3861-48bf-a198-dc7efba5d89c.jpg?1557576710
 flavor_text: Beneath each gleaming mineral shell rots a once-proud warrior of Amonkhet.
 oracle_text: First strike\nWhen this creature dies, amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)
+mana_cost: "{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

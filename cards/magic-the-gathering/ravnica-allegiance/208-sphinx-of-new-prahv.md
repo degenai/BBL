@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/9/d9aec56e-50a3-
 flavor_text: Azorius sphinxes are loyal to the precepts of the law, not to any particular guildmaster—even one of their own kind.
 oracle_text: Flying, vigilance\nSpells your opponents cast that target this creature cost {2} more to cast.
 mana_cost: "{W}{W}{U}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

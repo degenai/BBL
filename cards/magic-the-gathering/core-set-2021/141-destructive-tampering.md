@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/f/bfe6a3a9-8d62-
 flavor_text: \"I don't think they'll appreciate my . . . adjustments.\"\n—Karavin, renegade saboteur
 oracle_text: Choose one —\n• Destroy target artifact.\n• Creatures without flying can't block this turn.
 mana_cost: "{2}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

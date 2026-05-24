@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/4/94bda699-2b5d-
 flavor_text: Samut's war was intensely personal. Every hour she faced enemies she once loved as friends and horrors she once revered as gods.
 oracle_text: Target creature gets +2/+1 and gains haste until end of turn. Scry 1.
 mana_cost: "{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

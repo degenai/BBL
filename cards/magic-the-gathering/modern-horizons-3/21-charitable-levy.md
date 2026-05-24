@@ -15,7 +15,7 @@ ip_confidence: none
 ip_verified: false
 characters:
   - orzhov-syndicate
-tags_hub:
+tags_hub: []
   - gold
   - wealth
   - coin
@@ -28,22 +28,22 @@ tags_hub:
   - labor
   - extraction
   - tithe
-tags_filter:
+tags_filter: []
   - duo
   - wide
   - scene-mode
   - forward-facing
   - white-magic
   - enchantment
-reference_image: cards/_images/magic-the-gathering/modern-horizons-3/21-charitable-levy.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/4/a/4a5cab75-546c-4760-97b7-4591de9e6662.png?1717011365
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 artist: Eli Minaya
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/21-charitable-levy--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/a/4a5cab75-546c-4760-97b7-4591de9e6662.jpg?1717011365
@@ -52,6 +52,7 @@ mood: action
 time_of_day: day
 setting: urban
 mana_cost: "{1}{W}"
+manual_review_reason: No reference image found via scryfall for set 'Modern Horizons 3'
 tags:
   - card
   - vision-passed
@@ -61,21 +62,14 @@ tags:
 
 ## Vision
 
-![21-charitable-levy](../../_images/magic-the-gathering/modern-horizons-3/21-charitable-levy.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A dynamic wide scene flooded with warm golden light. Two figures stand foregrounded: a taller figure at left with arms raised high, wearing layered robes with large hoop earrings visible; a second figure at right also reaching upward. Gold coins fall in an arc across the entire composition, scattering from upper left to lower foreground. Behind the figures, a village with thatched structures is visible beneath a brightening sky. Additional smaller figures can be discerned in the far background. Bare-branched trees frame the right edge. The overall palette is saturated amber and gold with warm ochre tones.
 
-**Subject:** Two humanoid figures with arms raised as gold coins rain down from above in a chaotic, joyful or desperate scene set against a village and open sky
+**Subject:** 
 
-**Composition:** wide, narrative, figures: group, facing: forward
-**Setting:** urban, day, clear
-**Foreground:** two robed figures with arms raised, gold coins falling around them  *(palette: amber, gold, ochre, brown)*
-**Background:** village structures, bare trees, open sky  *(palette: warm-yellow, teal-sky, brown)*
-**Mood / lighting:** action, harsh
-**Emotion read:** exuberance or desperation, arms outstretched toward falling wealth
-**Objects:** gold coins, village buildings, bare trees
-**Iconography:** falling coins, raised arms
-**Genre cues:** fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Connections
 

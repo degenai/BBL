@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/e/ded2c66e-402c-
 flavor_text: \"Why would someone have built ... wait, never mind. Send it to the front lines!\"\n—Commander Grozdan
 oracle_text: Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, put a +1/+1 counter on target creature.
 mana_cost: "{3}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

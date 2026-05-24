@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/0/807a570a-b5eb-
 flavor_text: \"The strings were gone, but he still felt the pull of invisible forces tugging at his mind.\"\n—*Beyond the Great Henge*
 oracle_text: "When this creature enters, scry 1.\\nExile this creature: Create a 1/1 white Human creature token."
 mana_cost: "{1}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

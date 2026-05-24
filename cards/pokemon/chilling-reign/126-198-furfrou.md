@@ -28,13 +28,13 @@ tags_filter:
   - portrait-mode
   - colorless-type
   - pokemon-basic
-reference_image: cards/_images/pokemon/chilling-reign/126-198-furfrou.png
+reference_image: cards/_images/pokemon/chilling-reign/126-198-furfrou.jpg
 average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh6/126_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/1/18/FurfrouChillingReign126.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Tika Matsuno
@@ -46,6 +46,9 @@ setting: indoor
 suspected_ip: Furfrou
 ip_confidence: high
 ip_verified: true
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

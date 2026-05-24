@@ -58,6 +58,9 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/227-angrath-c
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/a/aa3a4cb5-945e-4caf-8a18-1ef977879fe8.jpg?1582053147
 oracle_text: "Creatures you control have menace.\\n−2: Amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
 mana_cost: "{2}{B/R}{B/R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

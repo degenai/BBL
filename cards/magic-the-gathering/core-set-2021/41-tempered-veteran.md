@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/b/3b43d7bc-173c-
 flavor_text: \"I've been carrying a sword since before you were born. I wouldn't give up my oath for all the peace and comfort in the world.\"
 oracle_text: "{W}, {T}: Put a +1/+1 counter on target creature with a +1/+1 counter on it.\\n{4}{W}{W}, {T}: Put a +1/+1 counter on target creature."
 mana_cost: "{1}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

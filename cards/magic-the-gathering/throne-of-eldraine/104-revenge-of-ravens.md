@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/4/3474289a-193e-
 flavor_text: Syr Tasdale declared that he never wanted to see the witch Ygretta again. Her familiars quickly granted his request.
 oracle_text: Whenever a creature attacks you or a planeswalker you control, that creature's controller loses 1 life and you gain 1 life.
 mana_cost: "{3}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

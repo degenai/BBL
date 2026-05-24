@@ -29,13 +29,13 @@ tags_filter:
   - forward-facing
   - colorless-magic
   - pokemon-water-type
-reference_image: cards/_images/pokemon/brilliant-stars/036-172-prinplup.png
+reference_image: cards/_images/pokemon/brilliant-stars/036-172-prinplup.jpg
 average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-24
 date_added: 2026-05-07
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh9/36_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/2/2f/PrinplupBrilliantStars36.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Kagemaru Himeno
@@ -47,6 +47,9 @@ setting: ocean
 suspected_ip: Prinplup (Pokemon)
 ip_confidence: high
 ip_verified: false
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

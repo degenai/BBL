@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/8/38c18541-e95e-
 flavor_text: \"If it wasn't a blackened, stinking, melted abomination before, it certainly is now.\"\n—Koth of the Hammer
 oracle_text: Turn to Slag deals 5 damage to target creature. Destroy all Equipment attached to that creature.
 mana_cost: "{3}{R}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

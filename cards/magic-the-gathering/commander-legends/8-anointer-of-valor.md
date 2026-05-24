@@ -49,6 +49,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d66fcbb8-0fa5-
 flavor_text: "Light streaked down from the heavens, and a voice whispered in the soldier's ear: \\\"You shall not fall today.\\\""
 oracle_text: Flying\nWhenever a creature attacks, you may pay {3}. When you do, put a +1/+1 counter on that creature.
 mana_cost: "{5}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

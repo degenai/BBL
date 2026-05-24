@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/1/a1b4f7ec-ea2e-
 flavor_text: \"First, the darkness fell. Terror came next. After that, only despair remained.\"\n—*The Tragedy of Morein*
 oracle_text: Whenever this creature becomes blocked by a creature, that creature's controller loses 2 life and you gain 2 life.
 mana_cost: "{5}{B}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

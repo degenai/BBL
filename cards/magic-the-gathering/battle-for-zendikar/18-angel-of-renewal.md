@@ -47,6 +47,10 @@ oracle_text: Flying\nWhen this creature enters, you gain 1 life for each creatur
 mood: action
 time_of_day: indeterminate
 setting: other
+mana_cost: "{5}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

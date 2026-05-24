@@ -58,6 +58,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/2/32b17dfc-b916-
 flavor_text: Liliana whispered to whatever consciousness Oketra and Bontu had left. \"You are the gods. He is the usurper. You know what to do.\"
 oracle_text: Exile target permanent with mana value 4 or greater.
 mana_cost: "{W}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

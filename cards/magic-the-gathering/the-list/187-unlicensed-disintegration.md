@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/3/b33fcc99-7c30-
 flavor_text: \"I'd stand back if I were you.\"
 oracle_text: Destroy target creature. If you control an artifact, Unlicensed Disintegration deals 3 damage to that creature's controller.
 mana_cost: "{1}{B}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

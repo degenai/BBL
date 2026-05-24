@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/c/1c482f51-9222-
 flavor_text: "\\\"Now that I've dealt with your little toys, I can focus on the real problem: you.\\\"\\n—Chandra Nalaar, to Dovin Baan"
 oracle_text: Chandra's Pyrohelix deals 2 damage divided as you choose among one or two targets.
 mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

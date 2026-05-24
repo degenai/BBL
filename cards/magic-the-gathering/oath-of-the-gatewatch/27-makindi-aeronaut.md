@@ -50,6 +50,7 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: mountain
+mana_cost: "{1}{W}"
 tags:
   - card
   - vision-passed

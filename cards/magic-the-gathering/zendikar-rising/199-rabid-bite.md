@@ -51,6 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/199-rabid-bite
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/f/effe3fab-6d13-4603-8a21-8a3c2a0d9e08.jpg?1604199283
 flavor_text: A healthy felidar is voracious yet regal. A rabid felidar is nothing more than appetite lashed to frothing jaws.
 oracle_text: Target creature you control deals damage equal to its power to target creature you don't control.
+mana_cost: "{1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

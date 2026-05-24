@@ -45,9 +45,9 @@ review_notes: ""
 artist: Miki Tanaka
 flavor_text: It is known for its fantastic strength, but as it grows older, it focuses more on training Makuhita.
 oracle_text: "Push Out (FightingColorlessColorless) 60: Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.\\nMegaton Slap Push (FightingColorlessColorlessColorless) 130"
-image_width: 400
-image_height: 550
-image_quality: med
+image_width: 734
+image_height: 1024
+image_quality: high
 mood: action
 time_of_day: night
 setting: space

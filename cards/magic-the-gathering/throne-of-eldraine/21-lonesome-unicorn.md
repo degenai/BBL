@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/21-lonesome
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/9/99083707-2152-42c0-b5c3-b4f97ec20190.jpg?1572489726
 oracle_text: Vigilance
 mana_cost: "{4}{W} // {2}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

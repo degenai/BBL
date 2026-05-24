@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/f/8f6bbbd5-ecce-
 flavor_text: \"If our former masters would have us kneel again, they shall feel our defiance slashed across their membranes.\"
 oracle_text: "Flying\\n{X}{B}{B}: Target creature gets -0/-X until end of turn and Drana gets +X/+0 until end of turn."
 mana_cost: "{3}{B}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

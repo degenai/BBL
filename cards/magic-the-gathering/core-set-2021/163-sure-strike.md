@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/6/064a6f1c-a058-
 flavor_text: To survive imminent doom, it sometimes takes a foolhardy soul who acts first and fears later.
 oracle_text: Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
 mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

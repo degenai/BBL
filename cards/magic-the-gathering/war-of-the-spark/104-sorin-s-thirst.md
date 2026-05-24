@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/0/50eecfc2-452d-
 flavor_text: \"I see you're out of the wall.\"\n—Nahiri
 oracle_text: Sorin's Thirst deals 2 damage to target creature and you gain 2 life.
 mana_cost: "{B}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

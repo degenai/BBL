@@ -39,7 +39,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: 0313
 flavor_text: They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.
-oracle_text: |-
+oracle_text: Low Kick (Lightning) 30\nZap Kick (LightningColorless) 70
   Low Kick (Lightning) 30
   Zap Kick (LightningColorless) 70
 image_width: 734

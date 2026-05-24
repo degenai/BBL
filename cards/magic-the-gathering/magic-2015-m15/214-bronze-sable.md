@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/magic-2015-m15/214-bronze-sabl
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/8/e8ba6d7d-fad0-4af1-be12-44be326a031e.jpg?1593860900
 flavor_text: The Champion stood alone between the horde of the Returned and the shrine to Karametra, cutting down scores among hundreds. She would have been overcome if not for the aid of the temple guardians whom Karametra awakened.\n—*The Theriad*
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed
@@ -76,3 +79,14 @@ A small bronze sculpture of a sable — a sleek, four-legged mustelid creature �
 **Iconography:** guardian-statue, shrine, memorial
 **Genre cues:** fantasy, classical
 
+## Trivia
+
+- **Set context and reprint origin** — Bronze Sable was first printed in Theros (THS, 2013) as card no. 212, then reprinted in Magic 2015 (M15, 2014) as no. 214. Both printings carry the same art by Jasper Sandner and identical flavor text from The Theriad. The M15 reprinting imported Theros-lore cards into the core set's more generic fantasy context — a common M14/M15 practice of cross-block flavor text migration. [Scryfall]
+- **Lore context — Karametra** — The flavor text is drawn from *The Theriad*, an in-world Therosian epic poem cataloguing champions of the gods. The scene described — a lone Champion defending Karametra's shrine from the Returned (Theros's undead) — places Bronze Sable as a temple guardian animated by Karametra herself. Notably, Karametra's canonical iconography includes a massive black sable resting at her feet [WebSearch via Fandom/CoolStuffInc]. The bronze animal guardians of her shrines echo this divine companion.
+- **Flavor text** — "The Champion stood alone between the horde of the Returned and the shrine to Karametra, cutting down scores among hundreds. She would have been overcome if not for the aid of the temple guardians whom Karametra awakened." — *The Theriad* [Scryfall]. The Theriad is described in MTG Wiki as an epic poem recording heroic deeds of mortals on Theros, spanning centuries. [WebSearch via MTG Wiki Fandom snippet]
+- **Mechanical note** — Oracle text is blank (no abilities); a vanilla 2/1 artifact creature for {2}. Scryfall confirms no oracle text. EDHREC rank 25,071 is unsurprisingly low. Its competitive value is nil; its lore density per mana is unusually high for a vanilla. [Scryfall]
+
+### Related cards
+- Karametra, God of Harvests (Born of the Gods) — the goddess whose shrine the bronze sables guard
+- Heliod's Pilgrim (Magic 2015) — another M15 card with Theros-flavor-text crossover
+- Guardian Idol (various sets) — functional comparison as a colorless vanilla artifact creature

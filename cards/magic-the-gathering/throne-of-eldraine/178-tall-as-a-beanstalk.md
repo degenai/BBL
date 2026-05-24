@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/9/098bfd71-a47f-
 flavor_text: He realized a bit late that he was supposed to *plant* the magic beans.
 oracle_text: Enchant creature\nEnchanted creature gets +3/+3, has reach, and is a Giant in addition to its other types.
 mana_cost: "{3}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

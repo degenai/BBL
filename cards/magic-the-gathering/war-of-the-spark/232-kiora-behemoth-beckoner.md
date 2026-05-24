@@ -55,6 +55,9 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/232-kiora-beh
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/a/7a61b1a6-a75f-47b0-b215-de9708b6d773.jpg?1557577371
 oracle_text: "Whenever a creature you control with power 4 or greater enters, draw a card.\\n−1: Untap target permanent."
 mana_cost: "{2}{G/U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

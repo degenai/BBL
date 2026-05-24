@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/c/8c2b4ffc-b1e1-
 flavor_text: Thassa's favor followed him to the Underworld. Even the waves of Nerono obeyed his will.
 oracle_text: Whenever this creature deals damage, target player mills that many cards.
 mana_cost: "{1}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

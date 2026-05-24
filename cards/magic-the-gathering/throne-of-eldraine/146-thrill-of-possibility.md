@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/9/c9021f85-7ab4-
 flavor_text: \"Remember all the great heroes who were careful and never did anything risky? Me neither.\"\n—Syr Carah, the Bold
 oracle_text: As an additional cost to cast this spell, discard a card.\nDraw two cards.
 mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -50,6 +50,9 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/239-castle-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/b/8bb8512e-6913-4be6-8828-24cfcbec042e.jpg?1572491168
 flavor_text: Without Embereth's courage, the realm would falter and fall.
 oracle_text: "This land enters tapped unless you control a Mountain.\\n{T}: Add {R}.\\n{1}{R}{R}, {T}: Creatures you control get +1/+0 until end of turn."
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

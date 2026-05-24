@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - standing-stone
   - menhir
   - runes
@@ -24,7 +24,7 @@ tags_hub:
   - investigation
   - ancient-magic
   - monolith
-tags_filter:
+tags_filter: []
   - no-figure
   - scene-mode
   - mid-shot
@@ -34,15 +34,15 @@ tags_filter:
   - discard
   - monocolor-blue
   - night-scene
-reference_image: cards/_images/magic-the-gathering/the-list/51-catalog.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.17
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'The List'
 reference_image_source_url: https://cards.scryfall.io/png/front/5/8/58c49167-38d3-4e4d-bb3c-1e615b359f4f.png?1573507033
 mood: grim
 time_of_day: night
@@ -61,19 +61,12 @@ tags:
 
 ## Vision
 
-![51-catalog](../../_images/magic-the-gathering/the-list/51-catalog.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A tall, twisted standing stone dominates the center of the composition, its surface covered in glowing runes or symbols emitting a bright blue-white luminescence. The stone appears to bend and warp unnaturally, suggesting magical or otherworldly properties. Wisps of pale fog drift around its base, and the surrounding landscape is barren and indistinct. The entire image is bathed in a cool, eerie blue palette consistent with Shadows over Innistrad's gothic-mystery aesthetic. Tendrils of light emanate outward from the central stone, suggesting it is a source of investigative or revelatory power.
 
-**Subject:** A weathered, warped standing stone or menhir glowing with arcane blue light in a desolate landscape, surrounded by drifting mist and an aura of supernatural energy
+**Subject:** 
 
-**Composition:** mid-shot, narrative, figures: none, facing: n/a
-**Setting:** other, ruined, night, fog
-**Foreground:** twisted glowing standing stone with carved runes  *(palette: pale-blue, white, cyan, dark-slate)*
-**Background:** misty barren landscape under an indeterminate sky  *(palette: deep-blue, navy, muted-grey, black)*
-**Mood / lighting:** grim, rim
-**Emotion read:** ominous, mysterious, brooding stillness
-**Objects:** standing-stone, menhir, runes, glowing-symbols
-**Iconography:** runes, arcane-symbols, glowing-glyphs
-**Genre cues:** fantasy, gothic-horror, mystery
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

@@ -51,6 +51,9 @@ artist: Eytan Zana
 art_crop_image: cards/_images/magic-the-gathering/eternal-masters/245-swiftwater-cliffs--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/e/6ecc7fdf-ff3e-4c09-9d5c-f08cf986689b.jpg?1580015360
 oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {U} or {R}."
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

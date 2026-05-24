@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/8/386e5cb2-39c8-
 flavor_text: To the Rakdos, screams of delight and screams of terror are one and the same.
 oracle_text: Whenever you sacrifice a permanent, this creature deals 1 damage to any target.
 mana_cost: "{4}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

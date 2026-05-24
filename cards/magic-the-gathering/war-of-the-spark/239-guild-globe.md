@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/7/a7faf99e-f61f-
 flavor_text: \"Hopefully Ravnica will prove harder to break.\"\n—Karn
 oracle_text: "When this artifact enters, draw a card.\\n{2}, {T}, Sacrifice this artifact: Add two mana of different colors."
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/c/3c82e2b8-f0f6-
 flavor_text: \"Water shifts and confuses, but as ice it holds the stillness of truth.\"\n—Arel the Whisperer
 oracle_text: You may look at the top card of your library and at face-down creatures you don't control any time.
 mana_cost: "{1}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

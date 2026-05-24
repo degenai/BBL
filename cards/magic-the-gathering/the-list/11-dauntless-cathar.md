@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fc3b97d0-8245-
 flavor_text: \"The harder they try to extinguish my faith, the brighter it burns in the darkness.\"
 oracle_text: "{1}{W}, Exile this card from your graveyard: Create a 1/1 white Spirit creature token with flying. Activate only as a sorcery."
 mana_cost: "{2}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

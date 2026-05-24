@@ -51,6 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/193-llanowar-vis
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d6e23afa-7e08-4049-baf0-d4d0134ba2c8.jpg?1594737093
 flavor_text: The elves of Llanowar look to their past to determine the shape of their future.
 oracle_text: "When this creature enters, draw a card.\\n{T}: Add {G}."
+mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

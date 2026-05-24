@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/d/7d4ebdea-78d4-
 flavor_text: \"My time will come, when no road will divide the endless verdure of the trees.\"
 oracle_text: "Flash\\nWhen this enchantment enters, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\\n{2}{G}, Sacrifice this enchantment: Scry 2."
 mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

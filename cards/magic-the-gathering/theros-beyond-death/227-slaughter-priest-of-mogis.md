@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/2/a2b441c0-261e-
 flavor_text: \"Mogis is pleased by this offering. Bring him more!\"
 oracle_text: "Whenever you sacrifice a permanent, this creature gets +2/+0 until end of turn.\\n{2}, Sacrifice another creature or an enchantment: This creature gains first strike until end of turn."
 mana_cost: "{B}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

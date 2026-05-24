@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/8/a8cce294-f6ee-
 flavor_text: The death of the party.
 oracle_text: When this creature dies, create a 0/1 white Goat creature token.
 mana_cost: "{1}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

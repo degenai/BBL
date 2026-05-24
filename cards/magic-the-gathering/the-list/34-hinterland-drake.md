@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cf393788-1465-
 flavor_text: \"As a kid, I dreamed of flying on those wild drakes. They inspired me to build wings of my own.\"\n—Nadja Cloudtoucher, aerowright
 oracle_text: Flying\nThis creature can't block artifact creatures.
 mana_cost: "{2}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

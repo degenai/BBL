@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/c/ec6f4542-b5ca-
 flavor_text: Death in form and function.
 oracle_text: Deathtouch\nWhenever this creature enters or attacks, create two 2/2 black Zombie creature tokens.
 mana_cost: "{4}{B}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

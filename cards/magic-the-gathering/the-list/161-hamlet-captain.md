@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/d/fd8f9cd1-1c43-
 flavor_text: \"Bloodsuckers, howlers, monsters from the beyond . . . it doesn't much matter. I won't have to face them alone.\"
 oracle_text: Whenever this creature attacks or blocks, other Humans you control get +1/+1 until end of turn.
 mana_cost: "{1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

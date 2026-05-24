@@ -49,6 +49,7 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: urban
+mana_cost: "{2}{U}"
 tags:
   - card
 ---

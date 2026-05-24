@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/4/04ef8493-d986-
 flavor_text: The wafting smells are both scrumptious and suspicious.
 oracle_text: "{T}, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with \\\"{2}, {T}, Sacrifice this token: You gain 3 life.\\\")"
 mana_cost: "{1}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

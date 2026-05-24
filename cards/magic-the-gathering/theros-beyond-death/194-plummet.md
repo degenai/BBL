@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/8/a8b2f186-4e04-
 flavor_text: An arrow from Nylea's bow never fails to find its mark.
 oracle_text: Destroy target creature with flying.
 mana_cost: "{1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

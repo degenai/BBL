@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/f/9fcd6fac-2cde-
 flavor_text: As the Simic released more of their krasis experiments, they required new habitats, always at the expense of the locals.
 oracle_text: Draw three cards. You may play an additional land this turn.
 mana_cost: "{3}{G}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

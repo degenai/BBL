@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - fire
   - explosion
   - resurrection
@@ -22,7 +22,7 @@ tags_hub:
   - spectacle
   - violence
   - cavern
-tags_filter:
+tags_filter: []
   - wide-shot
   - scene-mode
   - group
@@ -32,15 +32,15 @@ tags_filter:
   - sorcery
   - graveyard-recursion
   - crowd
-reference_image: cards/_images/magic-the-gathering/dragon-s-maze/86-morgue-burst.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-24
 date_added: 2026-05-07
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'Dragon's Maze'
 reference_image_source_url: https://cards.scryfall.io/png/front/7/b/7b3c2909-87ab-4027-9b56-58a2abae3fa3.png?1562917758
 mood: grim
 time_of_day: indeterminate
@@ -59,21 +59,14 @@ tags:
 
 ## Vision
 
-![86-morgue-burst](../../_images/magic-the-gathering/dragon-s-maze/86-morgue-burst.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A vertical eruption of orange-red flame, sparks, and pulverized debris bursts upward from a cracked ground, hurling a humanoid form skyward at the center of the column. The blast is the focal point and dominates the composition, lit from within by a bright yellow-white core that fades to deep orange and ember-red at the edges. Silhouetted spectators ring the foreground, their forms reduced to black shapes outlined by the firelight, including jagged spiked or horned figures suggestive of Rakdos cultists. The surrounding cavern walls are dark, scorched, and cluttered with rocky debris, with smoke and embers rising into a dim ceiling. The overall palette is hot blacks and reds with a searing yellow center.
 
-**Subject:** A body or figure violently erupting from the ground in a geyser of fire, embers, and debris, witnessed by silhouetted onlookers in a dark cavern
+**Subject:** 
 
-**Composition:** wide, action, figures: group, facing: forward
-**Setting:** dungeon, ruined, indeterminate, fire
-**Foreground:** silhouetted spectators ringing the eruption, jagged debris and cracked stone  *(palette: black, charcoal, ember-red)*
-**Background:** dark cavernous interior with smoke, scorched stone, and rising embers  *(palette: black, deep-red, orange, ash-gray)*
-**Mood / lighting:** grim, chiaroscuro
-**Emotion read:** violent, ecstatic, ritualistic — a crowd witnessing a grisly spectacle
-**Objects:** debris, embers, sparks, rubble
-**Iconography:** rakdos-guild-symbol
-**Genre cues:** fantasy, dark-fantasy, horror
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/6/46739993-6afe-
 flavor_text: Bassara, the tower of the fox, houses the elite skirmishers who guard the Nessian Wood against trespassers.
 oracle_text: Constellation — Whenever an enchantment you control enters, this creature gets +1/+1 until end of turn.
 mana_cost: "{1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

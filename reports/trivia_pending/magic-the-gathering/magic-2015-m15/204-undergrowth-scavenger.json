@@ -1,0 +1,46 @@
+{
+  "card_name": "Undergrowth Scavenger",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2015 (M15)",
+  "collector_number": "204",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Undergrowth Scavenger is a common from Magic 2015 (M15), released July 18, 2014. M15 was the first core set to credit individual card designers and introduced the card frame used through 2022. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Type line is 'Creature — Fungus Horror' (not Insect as the visual art implies). Fungus Horror is a rare compound subtype; the Fungus designation places the creature in decay-ecology rather than arthropod taxonomy, consistent with its graveyard-counting mechanic. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Enters as a 0/0 sized by creature cards in ALL players' graveyards. A ruling notes that if Undergrowth Scavenger itself enters from a graveyard (via reanimation), it counts itself when determining ETB counters. EDHREC rank 18,447. [Scryfall, MTGAssist via WebSearch]",
+      "sources": ["Scryfall", "MTGAssist via WebSearch"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It sees a rotting carcass as a good wine which has been aged properly.\" [Scryfall] — unattributed. Reframes decay as connoisseurship for a creature whose fitness depends on the dead.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Nils Hamm, one of the most prolific MTG artists of the 2010s with approximately 195 card credits [Gatherer via WebSearch]. Hamm frequently works in dark-organic and horror-adjacent registers.",
+      "sources": ["Gatherer via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lhurgoyf", "set": "Ice Age", "note": "progenitor of 'size = creature cards in graveyard' designs"},
+    {"name": "Mortivore", "set": "8th Edition", "note": "counts all graveyards permanently (not just on ETB), regenerates"},
+    {"name": "Splinterfright", "set": "Innistrad", "note": "counts cards in your own graveyard; self-mill variant"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

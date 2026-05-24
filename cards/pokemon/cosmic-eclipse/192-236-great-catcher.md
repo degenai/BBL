@@ -45,6 +45,9 @@ oracle_text: You can play this card only if you discard 2 other cards from your 
 mood: action
 time_of_day: indeterminate
 setting: other
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

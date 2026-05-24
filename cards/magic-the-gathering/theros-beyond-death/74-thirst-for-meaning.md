@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/4/2422973d-36ee-
 flavor_text: A sip of recollection, an ocean of regrets.
 oracle_text: Draw three cards. Then discard two cards unless you discard an enchantment card.
 mana_cost: "{2}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

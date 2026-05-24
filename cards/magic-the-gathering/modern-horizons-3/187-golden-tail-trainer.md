@@ -49,6 +49,9 @@ mood: peaceful
 time_of_day: dawn
 setting: other
 mana_cost: "{1}{G}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

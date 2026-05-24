@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - cat
   - predator
   - desert
@@ -23,7 +23,7 @@ tags_hub:
   - stalking
   - claws
   - wildlife
-tags_filter:
+tags_filter: []
   - solo
   - mid-shot
   - three-quarter-facing
@@ -33,15 +33,15 @@ tags_filter:
   - green-magic
   - landfall
   - trample
-reference_image: cards/_images/magic-the-gathering/zendikar-rising/310-territorial-scythecat-showcase.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.2
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'Zendikar Rising'
 reference_image_source_url: https://cards.scryfall.io/png/front/5/e/5e0f725c-8d1f-47ff-ad81-a5007199a5e2.png?1604199693
 mood: grim
 time_of_day: day
@@ -60,19 +60,12 @@ tags:
 
 ## Vision
 
-![310-territorial-scythecat-showcase](../../_images/magic-the-gathering/zendikar-rising/310-territorial-scythecat-showcase.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A lean, predatory cat-creature with bladed scythe-like protrusions extending from its forelimbs stands in a low aggressive crouch on cracked, dusty terrain. Its striped tan and brown coat is patchy and gaunt, ribs visible through the hide. The mouth gapes open in a snarl revealing long fangs, and small horn-like protrusions rise from its head. Dust and dry ground dominate the foreground; the background fades into a hazy ochre-brown wasteland with vague rocky shapes. The palette is warm earth tones — browns, ochres, dusty oranges — with a grim, sun-baked atmosphere.
 
-**Subject:** A snarling feline predator with elongated scythe-like blades or bony spurs along its forelimbs, crouched on rocky desert ground; tan-and-brown striped pelt, fanged maw open in a hiss, ribs and sinew visible
+**Subject:** 
 
-**Composition:** mid-shot, action, figures: solo, facing: three-quarter
-**Setting:** desert, day, calm
-**Foreground:** scythecat crouched on cracked dusty stone, blades extended  *(palette: tan, brown, ochre, bone-white)*
-**Background:** hazy dust-choked wasteland fading into muted ochre and umber  *(palette: dusty-brown, ochre, umber)*
-**Mood / lighting:** grim, ambient
-**Emotion read:** aggressive snarl, territorial menace
-**Creatures:** cat, predator, scythecat
-**Iconography:** blades, fangs, horns
-**Genre cues:** fantasy, dark-fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

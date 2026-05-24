@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/7/b7e92c82-840f-
 flavor_text: The Returned retain no memory of their identities, but sometimes they mindlessly attempt familiar tasks.
 oracle_text: When this creature dies, target creature an opponent controls gets -1/-1 until end of turn.
 mana_cost: "{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

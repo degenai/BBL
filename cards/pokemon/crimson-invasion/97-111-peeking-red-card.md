@@ -45,6 +45,9 @@ oracle_text: Your opponent reveals their hand. You may have your opponent count 
 mood: action
 time_of_day: indeterminate
 setting: void
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

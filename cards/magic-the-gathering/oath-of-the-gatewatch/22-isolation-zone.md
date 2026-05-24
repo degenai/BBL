@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - prison
   - binding
   - hedron
@@ -22,21 +22,21 @@ tags_hub:
   - runes
   - crystal
   - zendikar
-tags_filter:
+tags_filter: []
   - solo
   - wide
   - narrative
   - away-facing
   - white-magic
   - enchantment
-reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/22-isolation-zone.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-24
 date_added: 2026-05-12
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Oath of the Gatewatch'
 reference_image_source_url: https://cards.scryfall.io/png/front/1/c/1ca698e3-1249-4a08-be04-bae3bd944e99.png?1562900678
 artist: Chris Rallis
@@ -59,19 +59,12 @@ tags:
 
 ## Vision
 
-![22-isolation-zone](../../_images/magic-the-gathering/oath-of-the-gatewatch/22-isolation-zone.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A humanoid figure lies on their back in grass, arms and legs spread, as multiple geometric crystal shards — hedrons, the iconic Zendikar stones covered in angular rune-like engravings — converge on the figure from multiple angles. Each shard glows blue-white at its edges and appears to have impacted or restrained the figure. The figure's face is visible, mouth open in an expression of pain or shock. The setting is grassy terrain. The image reads as confinement or binding magic — the figure is captured, not killed.
 
-**Subject:** A humanoid figure pinned to the ground by multiple glowing hedron shards converging on them from all directions
+**Subject:** 
 
-**Composition:** wide, narrative, figures: solo, facing: away
-**Setting:** other, indeterminate
-**Foreground:** humanoid figure pinned by multiple glowing hedron shards on grassy ground  *(palette: dark-clothing, blue-white-glow, green-grass)*
-**Background:** grass, dark ground, shadowed  *(palette: dark-green, brown, black)*
-**Mood / lighting:** horror, ambient
-**Emotion read:** pain, shock, helplessness — the bound figure
-**Objects:** hedron-shards, glowing-crystals
-**Iconography:** hedrons, runes, binding-magic
-**Genre cues:** fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

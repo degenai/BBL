@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - witch
   - apple
   - hooded-figure
@@ -23,7 +23,7 @@ tags_hub:
   - offering
   - gothic
   - fruit
-tags_filter:
+tags_filter: []
   - solo
   - mid-shot
   - forward-facing
@@ -32,15 +32,15 @@ tags_filter:
   - creature-warlock
   - black-magic
   - common
-reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/108-tempting-witch.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.21
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
 reference_image_source_url: https://cards.scryfall.io/png/front/8/b/8b217e5a-3c18-48b4-8124-b8c4fd7b2df1.png?1572490260
 mood: grim
 time_of_day: night
@@ -60,22 +60,14 @@ tags:
 
 ## Vision
 
-![108-tempting-witch](../../_images/magic-the-gathering/throne-of-eldraine/108-tempting-witch.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A figure cloaked in a heavy dark hood and robe stands in front of a small thatched cottage at night. Their face is hidden in shadow beneath the hood. One outstretched hand offers a single bright red apple, glossy and almost glowing against the desaturated background. The cottage behind them has a peaked thatched roof, dark timbers, and a single lit window casting a pale glow. The overall palette is grim and muted — black robe, grey-brown thatch, deep night sky — with the saturated red apple as the only point of color. The composition is a mid-shot, the figure faces forward with the apple thrust toward the viewer in a clear offering gesture. The mood is sinister and fairy-tale ominous, evoking the poisoned-apple trope.
 
-**Subject:** A hooded, robed figure standing beside a thatch-roofed cottage, holding out a glistening red apple in one hand
+**Subject:** 
 
-**Composition:** mid-shot, narrative, figures: solo, facing: forward
-**Setting:** other, ruined, night, calm
-**Foreground:** Hooded robed figure offering a red apple  *(palette: black, deep-grey, blood-red, pale-skin)*
-**Background:** Thatched cottage at night with a single lit window  *(palette: dark-grey, muted-brown, warm-yellow-window-glow, near-black-sky)*
-**Mood / lighting:** grim, ambient
-**Emotion read:** concealed face, deliberate offering gesture — temptation, menace masked as hospitality
-**Objects:** apple, hooded-cloak, cottage, lit-window, thatched-roof
-**Food/drink:** apple
-**Iconography:** red-apple, hooded-figure, cottage-in-the-woods
-**Genre cues:** fantasy, fairy-tale, gothic
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

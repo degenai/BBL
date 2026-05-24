@@ -42,9 +42,9 @@ oracle_text: This card provides Colorless Energy. While in play, this card provi
 review_good: false
 review_bad: false
 review_notes: ""
-image_width: 600
-image_height: 825
-image_quality: med
+image_width: 734
+image_height: 1024
+image_quality: high
 mood: sublime
 time_of_day: indeterminate
 setting: void

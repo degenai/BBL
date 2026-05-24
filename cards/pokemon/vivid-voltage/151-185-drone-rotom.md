@@ -42,7 +42,7 @@ reference_image_source_url: https://images.pokemontcg.io/swsh4/151_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: 5ban Graphics
-oracle_text: |-
+oracle_text: Your opponent reveals their hand. If they do, look at the top card of your opponent's deck.\nYou may play any number of Item cards during your turn.
   Your opponent reveals their hand. If they do, look at the top card of your opponent's deck.
   You may play any number of Item cards during your turn.
 mood: action

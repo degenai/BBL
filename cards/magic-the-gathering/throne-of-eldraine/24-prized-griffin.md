@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/7/877bd423-83ff-
 flavor_text: \"I wrote these tales with a quill made from a griffin's feather. And the winning of that feather is quite a tale itself.\"\n—Chulane, Teller of Tales
 oracle_text: Flying
 mana_cost: "{4}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

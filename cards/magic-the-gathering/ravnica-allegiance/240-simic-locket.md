@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/9/29c65978-e5b0-
 flavor_text: \"Like our guild itself, this locket can stand for many things. You must discern what it means for you.\"\n—Vannifar
 oracle_text: "{T}: Add {G} or {U}.\\n{G/U}{G/U}{G/U}{G/U}, {T}, Sacrifice this artifact: Draw two cards."
 mana_cost: "{3}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

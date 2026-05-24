@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/f/efdfb60b-948b-
 flavor_text: Dominaria's most extravagant crypt nevertheless holds an empty grave.
 oracle_text: "{T}, Sacrifice this artifact: Exile target player's graveyard."
 mana_cost: "{0}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

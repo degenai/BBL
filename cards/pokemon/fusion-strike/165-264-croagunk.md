@@ -29,13 +29,13 @@ tags_filter:
   - darkness-type
   - creature-pokemon
   - basic-pokemon
-reference_image: cards/_images/pokemon/fusion-strike/165-264-croagunk.png
+reference_image: cards/_images/pokemon/fusion-strike/165-264-croagunk.jpg
 average_cost_paid: 0
 market_price: 0.08
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh8/165_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/0/06/CroagunkFusionStrike165.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Nagomi Nijo
@@ -47,6 +47,9 @@ setting: forest
 suspected_ip: Croagunk (Pokémon)
 ip_confidence: high
 ip_verified: true
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/e/8e30deb6-9e1f-
 flavor_text: Niv-Mizzet had perfected a plan, but he had no control over the mortal minds who had to agree to implement it.
 oracle_text: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nDraw a card.
 mana_cost: "{1}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

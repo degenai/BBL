@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/5/655d23a2-0fdd-
 flavor_text: Renegades find ever more creative ways to work around the Consulate's aether regulations.
 oracle_text: Exile target creature you control, then return that card to the battlefield under its owner's control.\nDraw a card.
 mana_cost: "{2}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

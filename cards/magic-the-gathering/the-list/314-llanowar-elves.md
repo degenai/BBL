@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/7/57ebd34e-dfe1-
 flavor_text: As patient and generous as life, as harsh and merciless as nature.
 oracle_text: "{T}: Add {G}."
 mana_cost: "{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

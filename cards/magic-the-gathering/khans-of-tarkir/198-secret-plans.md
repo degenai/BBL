@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/1/01589046-a969-
 flavor_text: Rakshasa trade in secrets, amassing wealth from their careful revelation.
 oracle_text: Face-down creatures you control get +0/+1.\nWhenever a permanent you control is turned face up, draw a card.
 mana_cost: "{G}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -49,6 +49,9 @@ mood: action
 time_of_day: indeterminate
 setting: mountain
 mana_cost: "{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

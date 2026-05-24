@@ -59,6 +59,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/9/4924f177-5ee2-
 flavor_text: His triumph was not in outsmarting Bolas's plan, but in understanding why ultimate power is self-defeating.
 oracle_text: Draw two cards. If you control a Jace planeswalker, draw three cards instead.
 mana_cost: "{2}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

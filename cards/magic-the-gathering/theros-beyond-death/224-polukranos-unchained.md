@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/224-polukr
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/7/87858278-632c-4d82-b3a3-adfc6f2f4fc6.jpg?1581481126
 oracle_text: "Polukranos enters with six +1/+1 counters on it. It escapes with twelve +1/+1 counters on it instead.\\nIf damage would be dealt to Polukranos while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from it.\\n{1}{B}{G}: Polukranos fights another target creature.\\nEscape—{4}{B}{G}, Exile six other cards from your graveyard."
 mana_cost: "{2}{B}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/8/d8e0654c-8c84-
 flavor_text: \"Well, this can't be a good sign.\"\n—Old Rutstein
 oracle_text: Flying\nWhen this creature enters or dies, mill two cards. (Put the top two cards of your library into your graveyard.)
 mana_cost: "{2}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

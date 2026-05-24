@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/2/323db259-d35e-
 flavor_text: The crystal pulsed with the power of Teferi's Planeswalker spark. Had Jhoira given him a blessing or a curse?
 oracle_text: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)\nDraw a card.
 mana_cost: "{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

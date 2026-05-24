@@ -53,6 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/210-sunder-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/b/9bb6a8bb-9eec-4f9b-a5a8-604631e4b823.jpg?1584831885
 flavor_text: \"You take our wilds, we take your city.\"
 oracle_text: This creature can't be blocked by more than one creature.\nWhenever this creature deals combat damage to a player, destroy target artifact or enchantment that player controls.
+mana_cost: "{R}{R}{G}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

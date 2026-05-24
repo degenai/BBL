@@ -30,13 +30,13 @@ tags_filter:
   - lightning-type
   - colorless-type
   - uncommon
-reference_image: cards/_images/pokemon/crimson-invasion/33-111-alolan-graveler.png
+reference_image: cards/_images/pokemon/crimson-invasion/33-111-alolan-graveler.jpg
 average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/sm4/33_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/5/5c/AlolanGravelerCrimsonInvasion33.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: kirisAki
@@ -50,6 +50,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - alolan-regional-forms
+image_width: 915
+image_height: 1280
+image_quality: high
 tags:
   - card
   - pokemon

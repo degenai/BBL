@@ -56,6 +56,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/137-chandra-s-ma
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/1/91d3e366-4da5-42c8-bbd5-a0c178c0da28.jpg?1594736548
 flavor_text: \"Is it purebred? No, but it's pure fire.\"\n—Chandra Nalaar
 oracle_text: "{T}: This creature deals 1 damage to target player or planeswalker."
+mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

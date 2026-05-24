@@ -45,6 +45,9 @@ oracle_text: Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon
 mood: action
 time_of_day: indeterminate
 setting: void
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

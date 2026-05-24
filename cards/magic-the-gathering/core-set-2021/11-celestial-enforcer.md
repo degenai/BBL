@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/6/46666fba-d4a7-
 flavor_text: \"I look to the heavens for hope, but you will kneel.\"
 oracle_text: "{1}{W}, {T}: Tap target creature. Activate only if you control a creature with flying."
 mana_cost: "{2}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

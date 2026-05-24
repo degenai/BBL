@@ -51,6 +51,10 @@ art_crop_image: cards/_images/magic-the-gathering/core-set-2021/96-duress--art.j
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/9/49c07ea0-27ff-46fb-a41f-3e378c977b5d.jpg?1594736092
 flavor_text: Resistance is unthinkable.
 oracle_text: Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
+mana_cost: "{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

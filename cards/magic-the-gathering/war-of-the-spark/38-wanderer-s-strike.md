@@ -59,6 +59,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/5/85e1d63e-9692-
 flavor_text: \"Precise, clean cuts. No one saw anything. Again. Tag the report with my code and file it.\"\n—Lavinia
 oracle_text: Exile target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 mana_cost: "{4}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

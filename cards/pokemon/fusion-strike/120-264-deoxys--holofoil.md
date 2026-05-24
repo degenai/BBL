@@ -32,13 +32,13 @@ tags_filter:
   - holofoil
   - pokemon
   - normal-forme
-reference_image: cards/_images/pokemon/fusion-strike/120-264-deoxys--holofoil.png
+reference_image: cards/_images/pokemon/fusion-strike/120-264-deoxys--holofoil.jpg
 average_cost_paid: 0
 market_price: 0.28
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh8/120_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/7/72/DeoxysFusionStrike120.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Kouki Saitou
@@ -50,6 +50,9 @@ setting: space
 suspected_ip: Deoxys
 ip_confidence: high
 ip_verified: true
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/7/1776f5b4-1292-
 flavor_text: \"No sight is more beautiful than a clear sky.\"
 oracle_text: "Reach (This creature can block creatures with flying.)\\n{2}{G}: This creature deals 1 damage to target creature with flying."
 mana_cost: "{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

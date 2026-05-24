@@ -49,6 +49,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0a14331e-8da5-
 flavor_text: The ancient Planeswalkers Sorin and Nahiri battled across Ravnica, their blows cutting as deep as their grudge.
 oracle_text: Up to two target creatures each get +2/+0 until end of turn.
 mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

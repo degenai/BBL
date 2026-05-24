@@ -1,0 +1,48 @@
+{
+  "card_name": "Darksteel Citadel",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2015 (M15)",
+  "collector_number": "242",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Darksteel Citadel first appeared in the Darksteel set (February 6, 2004), the second set of the original Mirrodin block. It depicts a structure on Mirrodin, the all-metal plane created by the planeswalker Karn, where 'darksteel' is a fictional indestructible alloy that provides the flavor justification for the Indestructible keyword. [Scryfall: first released 2004-02-06; WebSearch via mtg.cardsrealm.com]",
+      "sources": ["Scryfall", "WebSearch: mtg.cardsrealm.com"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The original Mirrodin block's five colored artifact lands were banned from Standard in March 2005 due to Affinity deck dominance. When Modern was created (2011), all five colored artifact lands were banned from day one — Darksteel Citadel was explicitly exempted because it produces only colorless mana, making it the only Mirrodin-era artifact land legal in Modern and Pioneer. EDHREC rank 286 — among the most-included non-basic lands in Commander, counts as both artifact and land simultaneously. [WebSearch via vintageisthenewold.com; Scryfall legalities and EDHREC rank]",
+      "sources": ["WebSearch: vintageisthenewold.com", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Structures built from darksteel yield to neither assault nor age.' No speaker attributed. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Darksteel Citadel has been reprinted across at least nine distinct sets: Darksteel (DST, 2004), Magic 2015 (M15), Modern Masters 2015, Commander 2014, Commander 2018, Commander Anthology Volume II, Double Masters, Duel Decks: Elves vs. Inventors. One of the most widely distributed artifact lands in print history. [WebSearch via mtgassist.com]",
+      "sources": ["WebSearch: mtgassist.com"]
+    },
+    {
+      "category": "design",
+      "text": "This M15 printing was illustrated by John Avon, one of the most prolific MTG land artists. [Scryfall artist field]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Great Furnace", "set": "Mirrodin", "note": "colored artifact land, same block, banned in Modern — contrast with Citadel's legal status"},
+    {"name": "Seat of the Synod", "set": "Mirrodin", "note": "blue artifact land, same block, banned in Modern"},
+    {"name": "Ancient Den", "set": "Mirrodin", "note": "white artifact land, same block, banned in Modern"},
+    {"name": "Vault of Whispers", "set": "Mirrodin", "note": "black artifact land, same block, banned in Modern"},
+    {"name": "Tree of Tales", "set": "Mirrodin", "note": "green artifact land, same block, banned in Modern"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

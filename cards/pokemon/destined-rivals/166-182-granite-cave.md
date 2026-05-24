@@ -46,6 +46,9 @@ setting: dungeon
 suspected_ip: Granite Cave
 ip_confidence: high
 ip_verified: true
+image_width: 733
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

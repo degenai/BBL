@@ -40,7 +40,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Mizue
 flavor_text: It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.
-oracle_text: "Deck Distiller (Fighting): Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck.\nRock Throw (FightingColorless) 50"
+oracle_text: "Deck Distiller (Fighting): Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck.\\nRock Throw (FightingColorless) 50"
 image_width: 734
 image_height: 1024
 image_quality: high

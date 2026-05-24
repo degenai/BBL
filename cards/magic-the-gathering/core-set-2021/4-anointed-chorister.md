@@ -56,6 +56,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/c/9c977c67-b0c0-
 flavor_text: \"I sing of benevolence and mercy, of golden wings bringing comfort to the meek and downtrodden.\"
 oracle_text: "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\\n{4}{W}: This creature gets +3/+3 until end of turn."
 mana_cost: "{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

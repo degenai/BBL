@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/e/0e96f3dc-dc58-
 flavor_text: Knights kept returning from Ogre's Pass wearing nothing but bruises, so they decided to just pretend it was on their side.
 oracle_text: Whenever this creature attacks, another target attacking Knight gains menace until end of turn. (It can't be blocked except by two or more creatures.)
 mana_cost: "{3}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

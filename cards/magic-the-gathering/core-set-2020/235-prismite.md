@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/c/5c9fdb01-ba52-
 flavor_text: Even its shadow is a dazzling rainbow.
 oracle_text: "{2}: Add one mana of any color."
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

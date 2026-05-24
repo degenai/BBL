@@ -44,6 +44,9 @@ oracle_text: Devolve 1 of your evolved Psychic Pokémon by putting any number of
 mood: other
 time_of_day: indeterminate
 setting: void
+image_width: 733
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

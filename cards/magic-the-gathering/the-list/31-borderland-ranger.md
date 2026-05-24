@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/5/d5b9689f-e146-
 flavor_text: \"There's only one route from Kessig into Stensia. Unless you come with me.\"
 oracle_text: When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

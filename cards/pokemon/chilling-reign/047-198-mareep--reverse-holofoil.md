@@ -29,13 +29,13 @@ tags_filter:
   - lightning-type
   - pokemon-basic
   - reverse-holofoil
-reference_image: cards/_images/pokemon/chilling-reign/047-198-mareep--reverse-holofoil.png
+reference_image: cards/_images/pokemon/chilling-reign/047-198-mareep--reverse-holofoil.jpg
 average_cost_paid: 0
 market_price: 0.3
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh6/47_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/f/f6/MareepChillingReign47.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Miki Tanaka
@@ -49,6 +49,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - mareep-line
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

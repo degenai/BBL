@@ -30,13 +30,13 @@ tags_filter:
   - holo-rare
   - holofoil
   - stage-2-pokemon
-reference_image: cards/_images/pokemon/chilling-reign/018-198-rillaboom--holofoil.png
+reference_image: cards/_images/pokemon/chilling-reign/018-198-rillaboom--holofoil.jpg
 average_cost_paid: 0
 market_price: 0.3
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh6/18_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/4/45/RillaboomChillingReign18.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Hitoshi Ariga
@@ -50,6 +50,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - galar-starters-trio
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

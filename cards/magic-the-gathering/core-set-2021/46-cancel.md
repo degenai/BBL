@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/59e14910-ee2e-
 flavor_text: \"I decide what stands in my way.\"
 oracle_text: Counter target spell.
 mana_cost: "{1}{U}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

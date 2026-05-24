@@ -47,6 +47,9 @@ oracle_text: "{T}, Sacrifice this land: Search your library for a basic land car
 mood: grim
 time_of_day: indeterminate
 setting: dungeon
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

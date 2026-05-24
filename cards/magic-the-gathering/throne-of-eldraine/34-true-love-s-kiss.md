@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/3/23a4bac2-f6cb-
 flavor_text: \"Be careful, dear. Some people deserve their curses.\"\n—Marawen, barrow witch
 oracle_text: Exile target artifact or enchantment.\nDraw a card.
 mana_cost: "{2}{W}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

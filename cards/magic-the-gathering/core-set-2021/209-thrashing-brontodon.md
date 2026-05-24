@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/6/c6cf27a3-9bcf-
 flavor_text: It cares more about preserving the herd's territory than about preserving itself.
 oracle_text: "{1}, Sacrifice this creature: Destroy target artifact or enchantment."
 mana_cost: "{1}{G}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

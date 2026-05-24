@@ -46,6 +46,9 @@ oracle_text: Search your deck for up to 2 TAG TEAM cards, reveal them, and put t
 mood: action
 time_of_day: indeterminate
 setting: other
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

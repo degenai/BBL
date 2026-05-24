@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/8/08b78aa8-a63a-
 flavor_text: \"Your crops will rot. The air itself will turn against you. You will suffer as I have suffered.\"\n—Karaz, outcast
 oracle_text: Choose one —\n• All creatures get -2/-2 until end of turn.\n• Remove two loyalty counters from each planeswalker.
 mana_cost: "{1}{B}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

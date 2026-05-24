@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a7b0ead-5629-
 flavor_text: \"Fear of fire is a sensible instinct. If I were you, I'd be terrified.\"
 oracle_text: Whenever you draw your second card each turn, this creature deals 3 damage to any target.
 mana_cost: "{2}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

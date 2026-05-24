@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/2/821cd2dd-aa03-
 flavor_text: The greatest minds in Meletis study under the masters at the Dekatia, a renowned school of magic and philosophy.
 oracle_text: When this creature enters, draw a card, then discard a card.
 mana_cost: "{2}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -53,6 +53,9 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/91-elspeth
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/7/37ccd974-d2bc-4fcf-94a7-0a868a04cb98.jpg?1586801044
 oracle_text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Destroy target creature an opponent controls with power 2 or less.\nII — Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.\nIII — Exile target opponent's graveyard.
 mana_cost: "{2}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

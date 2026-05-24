@@ -48,6 +48,9 @@ artist: Cliff Childs
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/271-mountain-271--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/9/b92c8925-ecfc-4ece-b83a-f12e98a938ab.jpg?1594737848
 oracle_text: "({T}: Add {R}.)"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -53,6 +53,9 @@ art_crop_image: cards/_images/magic-the-gathering/the-list/17-prowling-caracal--
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/9/09ae21d0-771e-4b04-826e-e352fff31ad6.jpg?1573506208
 flavor_text: A hunter in the city requires the utmost cunning to survive. It must pounce only if the kill is certain, and leave the remains where no one will see.
 mana_cost: "{1}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

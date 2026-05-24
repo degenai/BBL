@@ -45,6 +45,9 @@ setting: indoor
 suspected_ip: Ingo & Emmet (Pokémon Black and White)
 ip_confidence: high
 ip_verified: true
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

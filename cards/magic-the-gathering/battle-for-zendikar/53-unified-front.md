@@ -48,6 +48,10 @@ oracle_text: Converge — Create a 1/1 white Kor Ally creature token for each co
 mood: grim
 time_of_day: night
 setting: other
+mana_cost: "{3}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

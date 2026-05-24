@@ -1,0 +1,49 @@
+{
+  "card_name": "Sliver Construct",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2014 (M14)",
+  "collector_number": "218",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Sliver Construct is a colorless Artifact Creature — Sliver Construct, making it one of the few Sliver-typed creatures with no color identity. The M14 sliver cycle represents Slivers found on Shandalar, a mana-rich plane that floats freely through the Blind Eternities — the only plane outside Dominaria where Slivers have appeared in core sets.",
+      "sources": ["Scryfall: type_line and color fields", "WebSearch snippet: Shandalar Slivers — Fireside Magic 2013"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The flavor text references 'the Skep,' the central hive of Shandalar's slivers. In Shandalar lore, a Thunian Scout named Hastric named both the creatures and their hive. The Skep is ruled by an insectile hivelord roughly 20 times the size of a human. The 'shards of torn metal' in the flavor text explain why this specific sliver is artifact-typed — it is a constructed or salvaged machine-form within the hive ecosystem.",
+      "sources": ["Scryfall: flavor_text field", "WebSearch snippet: M14 Slivers Shandalar lore"]
+    },
+    {
+      "category": "design",
+      "text": "The M14 Creative team redesigned the sliver silhouette from the classic one-claw Tempest-era form because, according to Doug Beyer, 'the range of different body morphologies of the one-claw sliver was already in danger of being played out.' The redesign targeted broader range of body language and facial expression to appeal to M14's core-set new-player audience.",
+      "sources": ["dougbeyermtg.tumblr.com: Slivers Evolved, 2013"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Sliver Construct is Pauper-legal and is one of the few Sliver-type cards that slots into Pauper Sliver lists without requiring colored mana, relevant for colorless sliver shells. EDHREC rank 23,443 — minimal Commander presence.",
+      "sources": ["Scryfall: legalities and edhrec_rank fields"]
+    },
+    {
+      "category": "mechanical",
+      "text": "M14 revised sliver wording from 'All slivers...' to 'All slivers you control...', breaking the symmetry that previously gave opponents the benefit of your sliver buffs. Sliver Construct itself has no text and grants no buffs — it is a pure 2/2 body.",
+      "sources": ["Scryfall: oracle_text field", "WebSearch: Magic 2014 core set design overview Slivers return"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sentinel Sliver", "set": "Magic 2014 (M14)", "note": "White vigilance-granting sliver, same set"},
+    {"name": "Megantic Sliver", "set": "Magic 2014 (M14)", "note": "Mythic lord sliver, same Shandalar lore set"},
+    {"name": "Sliver Hivelord", "set": "Magic 2015 (M15)", "note": "Named the hivelord figure referenced in Shandalar lore"},
+    {"name": "Sliver Legion", "set": "Future Sight", "note": "Original named hivemind entity from Dominaria lore"},
+    {"name": "Diffusion Sliver", "set": "Magic 2015 (M15)", "note": "M15 continuation of the Shandalar sliver line"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "mana_cost_flag": null
+}

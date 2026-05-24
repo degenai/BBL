@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/c/ec3a2c95-4e7a-
 flavor_text: \"And if I'm lying,\" he began . . .
 oracle_text: "When this artifact enters, it deals 2 damage to any target.\\n{T}: Add one mana of any color."
 mana_cost: "{5}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

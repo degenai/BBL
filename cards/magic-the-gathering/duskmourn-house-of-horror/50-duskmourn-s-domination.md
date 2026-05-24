@@ -52,6 +52,9 @@ mana_cost: "{4}{U}{U}"
 mood: horror
 time_of_day: indeterminate
 setting: void
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

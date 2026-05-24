@@ -50,6 +50,7 @@ setting: dungeon
 suspected_ip: Lazav
 ip_confidence: low
 ip_verified: false
+mana_cost: "{2}{U}"
 tags:
   - card
 ---

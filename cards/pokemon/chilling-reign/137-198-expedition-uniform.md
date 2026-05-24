@@ -31,13 +31,13 @@ tags_filter:
   - no-face
   - trainer-item
   - none-figure
-reference_image: cards/_images/pokemon/chilling-reign/137-198-expedition-uniform.png
+reference_image: cards/_images/pokemon/chilling-reign/137-198-expedition-uniform.jpg
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-24
 date_added: 2026-05-07
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh6/137_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/7/7c/ExpeditionUniformChillingReign137.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: AYUMI ODASHIMA
@@ -45,6 +45,9 @@ oracle_text: Look at the bottom 3 cards of your deck and put them on top of your
 mood: other
 time_of_day: indeterminate
 setting: other
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

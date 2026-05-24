@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/0/8023fc44-fb8e-
 flavor_text: \"My time will come, when life's frantic striving will fade into the boundless quiet of death.\"
 oracle_text: "Flash\\nWhen this enchantment enters, return target creature card from your graveyard to your hand.\\n{2}{B}, Sacrifice this enchantment: Scry 2."
 mana_cost: "{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

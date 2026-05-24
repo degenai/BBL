@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/4/f4af156d-0fbf-
 flavor_text: \"Right now, in these first moments of creation, it is simultaneously nothing and everything.\"
 oracle_text: As an additional cost to cast this spell, discard a card.\nDraw two cards.
 mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

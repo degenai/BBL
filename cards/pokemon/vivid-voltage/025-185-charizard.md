@@ -42,7 +42,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Ryuta Fuse
 flavor_text: It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.
-oracle_text: "[Ability: Battle Sense] Once during your turn, you may look at the top 3 cards of your deck and put 1 of them into your hand. Discard the other cards.\nRoyal Blaze (FireFire) 100+: This attack does 50 more damage for each Leon card in your discard pile."
+oracle_text: "[Ability: Battle Sense] Once during your turn, you may look at the top 3 cards of your deck and put 1 of them into your hand. Discard the other cards.\\nRoyal Blaze (FireFire) 100+: This attack does 50 more damage for each Leon card in your discard pile."
 mood: action
 time_of_day: indeterminate
 setting: other

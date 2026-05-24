@@ -49,6 +49,9 @@ artist: Eytan Zana
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/249-rugged-highlands--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/d/9daef8db-56a5-4b1e-b4bf-734d0516557c.jpg?1594737663
 oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {R} or {G}."
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

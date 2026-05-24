@@ -49,6 +49,10 @@ artist: Chris Rahn
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/67-starlit-mantle--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/8/68c53625-6928-494a-af87-7eee2f6643a5.jpg?1581479536
 oracle_text: Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature you control\nWhen this Aura enters, enchanted creature gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)\nEnchanted creature gets +1/+1.
+mana_cost: "{1}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

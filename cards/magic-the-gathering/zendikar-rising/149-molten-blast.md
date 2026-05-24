@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/b/bb1beef2-788b-
 flavor_text: Life among the sudden tremors and violent eruptions of Akoum demands a healthy fear of both.
 oracle_text: Choose one —\n• Molten Blast deals 2 damage to target creature or planeswalker.\n• Destroy target artifact.
 mana_cost: "{2}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

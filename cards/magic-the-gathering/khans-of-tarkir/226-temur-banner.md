@@ -56,6 +56,9 @@ oracle_text: "{T}: Add {G}, {U}, or {R}.\\n{G}{U}{R}, {T}, Sacrifice this artifa
 mana_cost: "{3}"
 characters:
   - ktk-clan-banner-cycle
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

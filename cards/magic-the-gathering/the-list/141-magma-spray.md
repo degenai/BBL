@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/7/67b9fcc4-51d8-
 flavor_text: \"Ashes can't be embalmed.\"\n—Neheb, initiate of Ahn crop
 oracle_text: Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.
 mana_cost: "{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/3/73ac5204-69ef-
 flavor_text: A sharp axe solves most problems.
 oracle_text: "Equipped creature gets +2/+0.\\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

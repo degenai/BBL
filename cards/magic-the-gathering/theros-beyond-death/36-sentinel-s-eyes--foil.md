@@ -53,6 +53,9 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/36-sentine
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/2/32adc118-b81e-48c2-b7ef-b62e8c3308d6.jpg?1581479235
 oracle_text: Enchant creature\nEnchanted creature gets +1/+1 and has vigilance.\nEscape—{W}, Exile two other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 mana_cost: "{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

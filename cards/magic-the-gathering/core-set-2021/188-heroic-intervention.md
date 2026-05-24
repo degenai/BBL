@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/3/43c037e3-7d1a-
 flavor_text: \"Wherever the strong would harm the weak, I will be there.\"\n—Ajani Goldmane
 oracle_text: Permanents you control gain hexproof and indestructible until end of turn.
 mana_cost: "{1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

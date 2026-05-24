@@ -51,6 +51,9 @@ oracle_text: "This land enters tapped unless a player has 13 or less life.\\n{T}
 mood: horror
 time_of_day: indeterminate
 setting: forest
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

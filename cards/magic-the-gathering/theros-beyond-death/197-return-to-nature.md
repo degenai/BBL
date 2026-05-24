@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/4/a4515a76-53f0-
 flavor_text: "\\\"Far-seeing Kruphix glimpsed the end: Heliod's spear cast down and broken.\\\"\\n—*The Cosmogony*"
 oracle_text: Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Exile target card from a graveyard.
 mana_cost: "{1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

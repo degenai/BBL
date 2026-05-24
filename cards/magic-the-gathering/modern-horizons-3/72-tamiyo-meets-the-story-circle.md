@@ -56,6 +56,9 @@ suspected_ip: Tamiyo
 ip_confidence: high
 ip_verified: false
 mana_cost: "{1}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

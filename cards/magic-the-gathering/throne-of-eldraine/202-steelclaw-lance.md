@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/a/cafcf909-d726-
 flavor_text: \"A traditional lance is fine for the Burning Yard, but in the wilds you need a nastier bite.\"\n—Kenver, Embereth weaponsmith
 oracle_text: Equipped creature gets +2/+2.\nEquip Knight {1}\nEquip {3}
 mana_cost: "{B}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

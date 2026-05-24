@@ -45,8 +45,8 @@ review_good: false
 review_bad: false
 review_notes: ""
 artist: MAHOU
-image_width: 700
-image_height: 990
+image_width: 734
+image_height: 1024
 image_quality: high
 mood: peaceful
 time_of_day: day

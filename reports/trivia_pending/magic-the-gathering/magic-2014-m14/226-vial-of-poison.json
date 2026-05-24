@@ -1,0 +1,41 @@
+{
+  "card_name": "Vial of Poison",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2014 (M14)",
+  "collector_number": "226",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vial of Poison was printed in Magic 2014 (M14), released July 19, 2013 — one of the final standalone core sets before Wizards shifted the release cadence toward block-only releases. M14 introduced planeswalker-themed marketing but otherwise retained the core set's function as an accessible entry point. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card costs {1} to cast and another {1} to activate, then sacrifices itself to grant any creature deathtouch until end of turn. Colorless access to instant-speed deathtouch regardless of deck color. EDHREC rank 23,249 reflects narrow single-use design. [Scryfall, EDHREC]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"There are worse ways to die, but not many.\" — unattributed [Scryfall]. Ambient M14 flavor voice; pithy memento mori from the victim's perspective.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Franz Vohwinkel has illustrated approximately 134 MTG cards [Gatherer via WebSearch]. His chiaroscuro still-life rendering echoes Dutch vanitas painting — a genre built on poison, skulls, and decaying luxury objects.",
+      "sources": ["Gatherer via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Virulent Swipe", "set": "Rise of the Eldrazi", "note": "instant-speed deathtouch grant, direct functional parallel"},
+    {"name": "Coat with Venom", "set": "Oath of the Gatewatch", "note": "same effect as a common instant"},
+    {"name": "Archetype of Finality", "set": "Born of the Gods", "note": "enchantment-based deathtouch grant/denial"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

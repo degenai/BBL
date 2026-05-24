@@ -51,6 +51,10 @@ oracle_text: "Flying\\nThreshold — As long as there are seven or more cards in
 mood: action
 time_of_day: day
 setting: mountain
+mana_cost: "{2}{R}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -49,6 +49,9 @@ artist: Randy Vargas
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/247-mystic-sanctuary--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/7/170e792c-80d5-4775-ad95-37614574ab84.jpg?1613386906
 oracle_text: "({T}: Add {U}.)\\nThis land enters tapped unless you control three or more other Islands.\\nWhen this land enters untapped, you may put target instant or sorcery card from your graveyard on top of your library."
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

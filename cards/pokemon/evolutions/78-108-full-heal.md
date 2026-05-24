@@ -45,6 +45,9 @@ oracle_text: Remove all Special Conditions from your Active Pokémon.\nYou may p
 mood: other
 time_of_day: indeterminate
 setting: other
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

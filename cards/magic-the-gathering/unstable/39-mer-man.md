@@ -50,6 +50,9 @@ art_crop_image: cards/_images/magic-the-gathering/unstable/39-mer-man--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/0/30e99b47-acda-4888-8b2e-0852ba3b931c.jpg?1562905290
 oracle_text: When this creature enters, you may draw a card.
 mana_cost: "{4}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

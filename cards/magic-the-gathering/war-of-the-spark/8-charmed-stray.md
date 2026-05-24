@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/5/357513b9-0505-
 flavor_text: \"There's something peculiar about the cats today.\"\n—Janoc, Tin Street tinker
 oracle_text: Lifelink\nWhen this creature enters, put a +1/+1 counter on each other creature you control named Charmed Stray.
 mana_cost: "{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

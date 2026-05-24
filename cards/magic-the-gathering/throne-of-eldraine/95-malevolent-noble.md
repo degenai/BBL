@@ -47,7 +47,7 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/95-malevole
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/b/6bc7e996-151f-4d88-8e1e-91bb88f5db02.jpg?1572490179
 artist: Randy Vargas
 mana_cost: "{1}{B}"
-flavor_text: "He has slain a dozen witches, luring each with a promise of fresh children's bones."
+flavor_text: He has slain a dozen witches, luring each with a promise of fresh children's bones.
 oracle_text: "{2}, Sacrifice an artifact or another creature: Put a +1/+1 counter on this creature."
 image_width: 745
 image_height: 1040

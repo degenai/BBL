@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/3/331a0a01-0c12-
 flavor_text: Regardless of the century, plane, or species, developing artificers never fail to invent the ornithopter.
 oracle_text: Flying
 mana_cost: "{0}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

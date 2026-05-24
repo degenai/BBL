@@ -52,6 +52,7 @@ setting: other
 suspected_ip: Nicol Bolas
 ip_confidence: high
 ip_verified: false
+mana_cost: "{4}{G}"
 tags:
   - card
 ---

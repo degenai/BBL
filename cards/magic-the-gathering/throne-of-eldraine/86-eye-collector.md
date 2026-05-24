@@ -52,7 +52,7 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/86-eye-coll
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2b9bb2f3-a7c7-4e8f-ba39-44e6acd9240b.jpg?1572490127
 artist: Uriah Voth
 mana_cost: "{B}"
-flavor_text: "\"Lord Rankle will see you now—all he asks is a small token of tribute.\""
+flavor_text: \"Lord Rankle will see you now—all he asks is a small token of tribute.\"
 oracle_text: Flying\nWhenever this creature deals combat damage to a player, each player mills a card. (Each player puts the top card of their library into their graveyard.)
 image_width: 745
 image_height: 1040

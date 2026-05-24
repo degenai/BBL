@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d644eb6e-cc49-
 flavor_text: Dimir's best agents hide from death itself.
 oracle_text: When this creature dies, return it to its owner's hand.
 mana_cost: "{1}{U}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

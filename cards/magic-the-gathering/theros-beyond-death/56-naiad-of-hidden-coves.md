@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/c/dc6ae489-658b-
 flavor_text: \"Wave-borne, he watches over secrets of the shore.\"\n—Psemilla, Meletian poet
 oracle_text: During turns other than yours, spells you cast cost {1} less to cast.
 mana_cost: "{2}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

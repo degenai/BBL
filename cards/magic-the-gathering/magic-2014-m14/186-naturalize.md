@@ -52,6 +52,7 @@ image_quality: high
 mood: other
 time_of_day: indeterminate
 setting: forest
+mana_cost: "{1}{G}"
 tags:
   - card
   - vision-passed

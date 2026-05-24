@@ -30,13 +30,13 @@ tags_filter:
   - lightning-type
   - colorless-type
   - uncommon
-reference_image: cards/_images/pokemon/crimson-invasion/35-111-emolga.png
+reference_image: cards/_images/pokemon/crimson-invasion/35-111-emolga.jpg
 average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/sm4/35_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/1/14/EmolgaCrimsonInvasion35.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Kagemaru Himeno
@@ -48,6 +48,9 @@ setting: other
 suspected_ip: Emolga
 ip_confidence: high
 ip_verified: true
+image_width: 916
+image_height: 1280
+image_quality: high
 tags:
   - card
   - pokemon

@@ -49,6 +49,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/e/3e26c10b-179f-
 flavor_text: The guards kindled the hearth and locked the door to Ellwen's chamber. By morning, the fire was out and Ellwen was gone.
 oracle_text: Exile the top five cards of your library. You may play cards exiled this way until the end of your next turn.\nYou may play an additional land this turn.
 mana_cost: "{3}{R}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

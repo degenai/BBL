@@ -53,6 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/175-inspir
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/2/b23c8b5a-2e18-4dd8-b236-5b1fd356f867.jpg?1581480652
 flavor_text: Nylea appeared amid the howl of a hundred beasts.
 oracle_text: Prevent all combat damage that would be dealt this turn except combat damage that would be dealt by enchanted creatures and enchantment creatures. Scry 2.
+mana_cost: "{3}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

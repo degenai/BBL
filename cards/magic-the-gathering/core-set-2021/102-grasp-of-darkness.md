@@ -49,6 +49,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/7/7737b578-8ae3-
 flavor_text: \"I welcome the use of even the foulest magic if it will rid us of the monstrosities that plague our world.\"\n—Munda, ambush leader
 oracle_text: Target creature gets -4/-4 until end of turn.
 mana_cost: "{B}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

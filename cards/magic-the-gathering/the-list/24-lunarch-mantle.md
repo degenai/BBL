@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/6/b6eb3c20-e853-
 flavor_text: \"A boon from the angels should never be cast aside.\"\n—Manfried Ulmach, Chief Inquisitor
 oracle_text: "Enchant creature\\nEnchanted creature gets +2/+2 and has \\\"{1}, Sacrifice a permanent: This creature gains flying until end of turn.\\\""
 mana_cost: "{1}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

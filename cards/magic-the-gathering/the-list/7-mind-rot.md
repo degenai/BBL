@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/8/284afe0e-0e0e-
 flavor_text: \"It saddens me to lose a source of inspiration. This one seemed especially promising.\"\n—Ashiok
 oracle_text: Target player discards two cards.
 mana_cost: "{2}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

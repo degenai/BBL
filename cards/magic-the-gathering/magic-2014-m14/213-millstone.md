@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/3/23f28acb-8ccb-
 flavor_text: Minds, like mountains, are never so grand and mighty that they can't be reduced to dust.
 oracle_text: "{2}, {T}: Target player mills two cards."
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed
@@ -76,3 +79,16 @@ A huge cylindrical stone millstone sits on a slab of weathered rock, its front f
 **Iconography:** screaming-face, carved-stone, millstone
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **Set context** — Millstone was first printed in Antiquities (1994), Magic's second expansion ever, making it one of the game's oldest artifacts. The M14 printing (released 2013-07-19) is among roughly 25 known printings, spanning Revised Edition, Fourth Edition, Fifth Edition, Eighth Edition, Tenth Edition, Core Set 2019, The Brothers' War Retro Artifacts, and others. It is one of the most-reprinted artifacts in Magic history. `[Scryfall: search results for oracle ID 3212e47a]`
+- **Mechanical legacy** — Millstone is the card that gave the entire "mill" verb to Magic vocabulary. Before Core Set 2021, the effect was written as "put X cards from the top of target player's library into their graveyard." With M21, all such oracle texts were updated to use the keyword action "mills," formally canonizing the card's name as the mechanic's name. Despite being the archetype's progenitor, Millstone itself is considered too slow for competitive mill strategies today. `[Paperwave Substack: "Millstone — MTG Card of the Day #6"]` `[Mill — mtg.wiki]`
+- **Flavor text** — "Minds, like mountains, are never so grand and mighty that they can't be reduced to dust." — no attributed speaker. `[Scryfall]`
+- **EDHREC rank** — Ranked 11,917 on EDHREC, placing it in the long tail of Commander-playable artifacts. Serviceable in dedicated mill strategies but outclassed by higher-volume options. `[Scryfall: edhrec_rank field]`
+
+### Related cards
+- Millstone (Antiquities, no. 56) — original 1994 printing, origin of the mechanic
+- Millstone (Core Set 2019, no. 242) — most recent standard-legal reprint before M14
+- Millstone (The Brothers' War Retro Artifacts, no. 32) — retro-frame premium reprint
+- Tome Scour (M14, no. 63) — same set, same mill theme, sorcery-speed two-card draw parallel
+- Jace's Phantasm (M14, no. 60) — mill synergy creature in the same core set

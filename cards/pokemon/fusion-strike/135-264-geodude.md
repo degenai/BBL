@@ -30,13 +30,13 @@ tags_filter:
   - common
   - pokemon
   - kanto-form
-reference_image: cards/_images/pokemon/fusion-strike/135-264-geodude.png
+reference_image: cards/_images/pokemon/fusion-strike/135-264-geodude.jpg
 average_cost_paid: 0
 market_price: 0.14
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh8/135_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/e/e9/GeodudeFusionStrike135.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: OKACHEKE
@@ -48,6 +48,9 @@ setting: mountain
 suspected_ip: Geodude
 ip_confidence: high
 ip_verified: true
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

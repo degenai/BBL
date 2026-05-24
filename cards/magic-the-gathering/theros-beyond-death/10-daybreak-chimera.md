@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/10-daybrea
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/9/f9c1de31-73d4-4c32-9f99-e15df48638e9.jpg?1581479004
 oracle_text: This spell costs {X} less to cast, where X is your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)\nFlying
 mana_cost: "{3}{W}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

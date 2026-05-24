@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/a/ea45e972-6e4a-
 flavor_text: \"Another angry mob? When will they learn to leave me be?\"\n—Terryn, Edgewall outcast
 oracle_text: Target creature gets +2/+1 and gains deathtouch until end of turn.
 mana_cost: "{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

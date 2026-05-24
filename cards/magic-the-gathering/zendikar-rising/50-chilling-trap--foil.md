@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - ice
   - frozen
   - trap
@@ -23,7 +23,7 @@ tags_hub:
   - imprisonment
   - magic
   - spell-effect
-tags_filter:
+tags_filter: []
   - solo
   - mid-shot
   - action-mode
@@ -33,15 +33,15 @@ tags_filter:
   - trap-subtype
   - no-face-visible
   - three-quarter-facing
-reference_image: cards/_images/magic-the-gathering/zendikar-rising/50-chilling-trap--foil.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.15
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'Zendikar Rising'
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/60f9adfd-a940-4d62-894b-84f17c693a10.png?1604193730
 mood: action
 time_of_day: indeterminate
@@ -60,19 +60,12 @@ tags:
 
 ## Vision
 
-![50-chilling-trap--foil](../../_images/magic-the-gathering/zendikar-rising/50-chilling-trap--foil.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A humanoid figure is trapped within a violent eruption of pale blue ice crystals that have burst upward from weathered stone block ruins. The ice shards radiate outward in sharp, fractal spikes, suggesting an instantaneous freezing trap sprung from below. The figure's posture reads as caught in motion — arms back, body twisted — frozen literally and figuratively. The setting is monochromatic, dominated by icy blues, greys, and cold whites, with crumbling Zendikar-style ruined masonry visible behind. Light catches the crystalline ice, giving it a glassy, refractive quality. The mood is sudden, hostile, magical ambush.
 
-**Subject:** A humanoid figure encased and frozen in a jagged blue ice formation atop ancient stone ruins, captured mid-motion as if flash-frozen while running or struggling
+**Subject:** 
 
-**Composition:** mid-shot, action, figures: solo, facing: three-quarter
-**Setting:** other, ruined, indeterminate, clear
-**Foreground:** humanoid figure encased in jagged ice crystal eruption  *(palette: pale blue, ice white, cyan, grey)*
-**Background:** ruined stone block masonry, weathered ancient architecture  *(palette: stone grey, muted blue, dusty white)*
-**Mood / lighting:** action, ambient
-**Emotion read:** caught mid-struggle, panic frozen in place
-**Objects:** ice crystals, ice shards, stone ruins, stone blocks
-**Iconography:** ice, crystalline-eruption, trap
-**Genre cues:** fantasy, high-fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

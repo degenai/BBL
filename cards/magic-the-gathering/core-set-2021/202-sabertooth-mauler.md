@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/e/fe39e38e-76e5-
 flavor_text: \"I hope the idiot who introduced these creatures to the jungle was their first meal.\"\n—Opar, veteran guide
 oracle_text: At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on this creature and untap it.
 mana_cost: "{3}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

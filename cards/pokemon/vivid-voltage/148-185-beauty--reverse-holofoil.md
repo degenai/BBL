@@ -49,6 +49,9 @@ subject_known_ip: true
 suspected_ip: Beauty (Pokemon Trainer class)
 ip_confidence: med
 ip_verified: false
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

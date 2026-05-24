@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/1/d1439412-618c-
 flavor_text: Renounce all limits,\nFalse chains binding potential.\nPower knows no bounds.
 oracle_text: At the beginning of your first main phase, each opponent loses X life and you gain X life, where X is the number of Shrines you control.
 mana_cost: "{1}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

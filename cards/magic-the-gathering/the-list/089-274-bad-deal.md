@@ -53,6 +53,10 @@ art_crop_image: cards/_images/magic-the-gathering/the-list/089-274-bad-deal--art
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/c/8c957811-e041-4287-9a1f-1788948ec386.jpg?1723439297
 flavor_text: There are still places where a smile and a handshake are all you need to seal a deal.
 oracle_text: You draw two cards and each opponent discards two cards. Each player loses 2 life.
+mana_cost: "{4}{B}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

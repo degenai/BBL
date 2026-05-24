@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - knight
   - warrior
   - hammer
@@ -23,7 +23,7 @@ tags_hub:
   - fairy-tale
   - strength
   - combat
-tags_filter:
+tags_filter: []
   - solo
   - mid-shot
   - action-mode
@@ -34,15 +34,15 @@ tags_filter:
   - legendary-creature
   - green-magic
   - mono-green
-reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/177-syr-faren-the-hengehammer.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.19
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
 reference_image_source_url: https://cards.scryfall.io/png/front/9/a/9a8b1fea-3c5d-43d2-b4d2-e8938f3f7b9c.png?1572490675
 mood: action
 time_of_day: day
@@ -61,19 +61,12 @@ tags:
 
 ## Vision
 
-![177-syr-faren-the-hengehammer](../../_images/magic-the-gathering/throne-of-eldraine/177-syr-faren-the-hengehammer.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A burly bearded knight clad in dark green plate armor with gold trim swings a colossal hammer whose head appears to be a roughly hewn standing stone — a literal henge weapon. His mouth is open in a battle cry, beard and hair streaming, and motion lines and dust trail the hammer's arc. The background is a sun-dappled forest with green foliage and shafts of warm light filtering through, suggesting a woodland skirmish. The composition is action-driven, mid-shot, with the figure cropped at the thighs and the hammer head dominating the upper-right of the frame.
 
-**Subject:** A bearded human knight in green and gold armor mid-swing with a massive stone-headed warhammer (a hengehammer — hammer fashioned from a standing stone), face contorted in a battle roar, charging through a wooded clearing.
+**Subject:** 
 
-**Composition:** mid-shot, action, figures: solo, facing: three-quarter
-**Setting:** forest, day, clear
-**Foreground:** armored knight swinging a massive stone hammer  *(palette: forest-green, gold, stone-grey, skin-tan, brown)*
-**Background:** sunlit forest clearing with dappled light  *(palette: green, warm-yellow, brown, olive)*
-**Mood / lighting:** action, backlit
-**Emotion read:** ferocious battle roar, full-bodied aggression, committed swing
-**Objects:** warhammer, stone-hammer, armor, gauntlets, pauldrons
-**Iconography:** henge-stone, knightly-heraldry
-**Genre cues:** fantasy, arthurian, fairy-tale
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

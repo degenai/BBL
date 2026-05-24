@@ -37,12 +37,12 @@ market_price: 0.22
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/sm12/17_hires.png
+reference_image_source_url: https://images.pokemontcg.io/sm12/18_hires.png
 art_match_confidence: high
 needs_manual_review: false
-artist: Yuka Morii
+artist: Saya Tsuruta
 flavor_text: It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.
-oracle_text: "Hide and Seek (Grass): Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.\\nTackle (ColorlessColorless) 30"
+oracle_text: "Skill Dive (Grass): This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
 mood: peaceful
 time_of_day: day
 setting: forest
@@ -51,6 +51,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - rowlet-line
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

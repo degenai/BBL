@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/9/59fa8e8d-bcb8-
 flavor_text: \"The beauty of it is they never see it coming. Ever.\"\n—Razzix, sparkmage
 oracle_text: Shock deals 2 damage to any target.
 mana_cost: "{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

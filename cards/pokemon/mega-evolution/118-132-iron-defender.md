@@ -44,6 +44,9 @@ oracle_text: During your opponent's next turn, all of your Metal Pokémon take 3
 mood: action
 time_of_day: indeterminate
 setting: other
+image_width: 733
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

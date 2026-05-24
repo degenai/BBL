@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/1/710d2782-2b23-
 flavor_text: \"It's a witch's trick, this cauldron full of pain. I wouldn't dump it on any but the wicked.\"
 oracle_text: "{3}, {T}, Sacrifice this artifact: It deals 3 damage to target creature."
 mana_cost: "{1}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

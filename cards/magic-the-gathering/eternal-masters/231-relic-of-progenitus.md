@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/3/436cd66c-0622-
 flavor_text: Elves believe the hydra-god Progenitus sleeps beneath Naya, feeding on forgotten magics.
 oracle_text: "{T}: Target player exiles a card from their graveyard.\\n{1}, Exile this artifact: Exile all graveyards. Draw a card."
 mana_cost: "{1}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

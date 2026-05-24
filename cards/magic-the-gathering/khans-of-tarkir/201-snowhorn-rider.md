@@ -56,6 +56,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f5d9aa9b-1ed4-
 flavor_text: Sure-footed, strong-willed, and ill-tempered—and so is the ram.
 oracle_text: Trample\nMorph {2}{G}{U}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
 mana_cost: "{3}{G}{U}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

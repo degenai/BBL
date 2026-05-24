@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/8/28642fbe-90c8-
 flavor_text: It strikes like a bolt from a brainstorm.
 oracle_text: Flying\nWhenever this creature attacks, it deals damage to any target equal to the number of cards you've drawn this turn.
 mana_cost: "{3}{U}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

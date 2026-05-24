@@ -51,6 +51,9 @@ mood: action
 time_of_day: day
 setting: other
 mana_cost: "{3}{G}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

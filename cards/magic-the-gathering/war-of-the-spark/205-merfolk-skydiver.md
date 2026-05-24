@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - merfolk
   - mutant
   - wings
@@ -22,7 +22,7 @@ tags_hub:
   - ascension
   - ocean-creature
   - dragonfly
-tags_filter:
+tags_filter: []
   - solo
   - mid-shot
   - forward-facing
@@ -34,15 +34,15 @@ tags_filter:
   - no-face-visible-detail
   - female-figure
   - multicolor-blue-green
-reference_image: cards/_images/magic-the-gathering/war-of-the-spark/205-merfolk-skydiver.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.26
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/2/b/2bf211eb-837b-4c02-b02e-8d9e62f1abb1.png?1557577195
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 mood: sublime
 time_of_day: day
 setting: other
@@ -51,6 +51,7 @@ art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/205-merfolk-s
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2bf211eb-837b-4c02-b02e-8d9e62f1abb1.jpg?1557577195
 oracle_text: "Flying\\nWhen this creature enters, put a +1/+1 counter on target creature you control.\\n{3}{G}{U}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
 mana_cost: "{G}{U}"
+manual_review_reason: No reference image found via scryfall for set 'War of the Spark'
 tags:
   - card
   - vision-passed
@@ -59,19 +60,12 @@ tags:
 
 ## Vision
 
-![205-merfolk-skydiver](../../_images/magic-the-gathering/war-of-the-spark/205-merfolk-skydiver.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A blue-skinned merfolk hybrid soars through a hazy, sunlit sky with arms thrown wide and back arched. Two pairs of large, gauzy, dragonfly-style wings — green-yellow and translucent — fan out from its shoulders. The figure has a fish-like fin crest along the head and gill-frills, and trails of gold and aqua light streak across the background. The composition is dynamic and upward-thrusting, the figure dominating the frame against a bright, atmospheric haze of pale gold and cyan.
 
-**Subject:** A merfolk mutant in mid-flight, arms outstretched, with translucent dragonfly-like wings sprouting from its back
+**Subject:** 
 
-**Composition:** mid-shot, action, figures: solo, facing: forward
-**Setting:** other, day, clear
-**Foreground:** winged merfolk mutant in flight, arms spread, body angled upward  *(palette: aqua, teal, blue, pale-gold, translucent-green)*
-**Background:** hazy bright sky with golden light streaks and soft cyan diffusion  *(palette: pale-gold, cyan, white, soft-yellow)*
-**Mood / lighting:** sublime, backlit
-**Emotion read:** exhilaration, ecstatic abandon, arms-wide flight pose
-**Creatures:** merfolk, mutant, winged-humanoid
-**Iconography:** wings, gills, fin-crest
-**Genre cues:** fantasy, high-fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

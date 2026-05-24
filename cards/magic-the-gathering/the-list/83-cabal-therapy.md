@@ -53,6 +53,9 @@ art_crop_image: cards/_images/magic-the-gathering/the-list/83-cabal-therapy--art
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/a/2afc9aa7-eaf2-453d-942c-23bf216a1844.jpg?1573509099
 oracle_text: Choose a nonland card name. Target player reveals their hand and discards all cards with that name.\nFlashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 mana_cost: "{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

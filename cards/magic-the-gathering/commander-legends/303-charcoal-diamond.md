@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/d/3d99f4cd-7f6d-
 flavor_text: The essence of night to harden the soul.
 oracle_text: "This artifact enters tapped.\\n{T}: Add {B}."
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

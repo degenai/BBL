@@ -43,7 +43,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Naoyo Kimura
 flavor_text: Loads weighing up to 50 times as much as its own body weight pose no issue for this Pokémon. It's skilled at making use of mud.
-oracle_text: |-
+oracle_text: Ram (Colorless) 10\nRear Kick (FightingFightingColorless) 60
   Ram (Colorless) 10
   Rear Kick (FightingFightingColorless) 60
 mood: action

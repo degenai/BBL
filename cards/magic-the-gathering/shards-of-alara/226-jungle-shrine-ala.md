@@ -49,6 +49,9 @@ art_crop_image: cards/_images/magic-the-gathering/shards-of-alara/226-jungle-shr
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/4/e4f0d262-cbfe-42d2-9066-0b48a38995d6.jpg?1562710101
 flavor_text: On Naya, ambition and treachery are scarce, hunted nearly to extinction by the awe owed to terrestrial gods.
 oracle_text: "This land enters tapped.\\n{T}: Add {R}, {G}, or {W}."
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

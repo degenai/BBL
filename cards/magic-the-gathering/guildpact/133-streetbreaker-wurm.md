@@ -51,6 +51,9 @@ artist: Greg Hildebrandt
 art_crop_image: cards/_images/magic-the-gathering/guildpact/133-streetbreaker-wurm--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/5/d5313054-91a5-401c-84d1-03a2cd265060.jpg?1593272809
 flavor_text: The Orzhov run a construction unit whose only business is rebuilding the wreckage left in the wake of wurms. When business is slow, they pay Golgari carnomancers to lure the wurms to the surface.
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

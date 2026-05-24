@@ -30,13 +30,13 @@ tags_filter:
   - psychic-magic
   - creature
   - pokemon-psychic-type
-reference_image: cards/_images/pokemon/brilliant-stars/060-172-duskull.png
+reference_image: cards/_images/pokemon/brilliant-stars/060-172-duskull.jpg
 average_cost_paid: 0
 market_price: 0.11
 market_price_as_of: 2026-05-24
 date_added: 2026-05-07
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh9/60_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/e/e7/DuskullBrilliantStars60.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: SATOSHI NAKAI
@@ -48,6 +48,9 @@ setting: indoor
 suspected_ip: Duskull (Pokemon)
 ip_confidence: high
 ip_verified: false
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

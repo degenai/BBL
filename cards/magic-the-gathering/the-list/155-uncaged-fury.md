@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/1/b18646ff-c8ff-
 flavor_text: \"It's right to fear those that you keep locked away.\"\n—Rahilda, Vildin-Pack alpha
 oracle_text: Target creature gets +1/+1 and gains double strike until end of turn.
 mana_cost: "{2}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

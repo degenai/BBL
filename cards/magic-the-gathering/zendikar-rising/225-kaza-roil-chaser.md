@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/f/af6bc333-79c0-
 flavor_text: \"What sort of life is that, huddling in the familiar and safe? No thanks. Put me right in the center of the action.\"
 oracle_text: "Flying, haste\\n{T}: The next instant or sorcery spell you cast this turn costs {X} less to cast, where X is the number of Wizards you control as this ability resolves."
 mana_cost: "{U}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

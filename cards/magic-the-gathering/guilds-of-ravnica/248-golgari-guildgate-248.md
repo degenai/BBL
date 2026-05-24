@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - gate
   - ruins
   - underground
@@ -23,7 +23,7 @@ tags_hub:
   - underworld
   - fungal
   - swamp
-tags_filter:
+tags_filter: []
   - no-figures
   - wide-shot
   - scene-mode
@@ -35,15 +35,15 @@ tags_filter:
   - green-magic
   - multicolor-black-green
   - guildgate
-reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/248-golgari-guildgate-248.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.25
 market_price_as_of: 2026-05-24
 date_added: 2026-05-07
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: 
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'Guilds of Ravnica'
 reference_image_source_url: https://cards.scryfall.io/png/front/8/6/86706d8e-de08-4778-94ba-ae75ed522472.png?1572894145
 mood: grim
 time_of_day: indeterminate
@@ -61,21 +61,14 @@ tags:
 
 ## Vision
 
-![248-golgari-guildgate-248](../../_images/magic-the-gathering/guilds-of-ravnica/248-golgari-guildgate-248.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A monumental stone gate stands at the mouth of a subterranean tunnel. The arched opening is carved from heavy masonry that has been engulfed by tangled roots, hanging vines, and creeping moss, blurring the boundary between built structure and living growth. Sickly green-yellow light spills from the depths beyond the arch, silhouetting the encrusted stonework and suggesting a vast, fungal underrealm beyond. The foreground is dim and earthen, with detritus and overgrowth caking the floor and walls. Atmosphere is thick with humidity and decay; no figures are present.
 
-**Subject:** A massive arched gate built into a cavernous underground passageway, its stonework overgrown with vines, roots, and dripping vegetation; sickly green light filters through the architecture from beyond
+**Subject:** 
 
-**Composition:** wide, narrative, figures: none, facing: n/a
-**Setting:** dungeon, ruined, indeterminate
-**Foreground:** vine-choked stone archway, gnarled roots, crumbling masonry, organic overgrowth on the gate's piers  *(palette: mossy green, umber, black, olive, rust brown)*
-**Background:** tunnel receding into glowing green depths, distant fungal/spore-lit underrealm, suggestion of further architecture swallowed by vegetation  *(palette: sickly green, chartreuse, deep teal, shadowed black)*
-**Mood / lighting:** grim, backlit
-**Emotion read:** ominous, foreboding, hushed
-**Objects:** stone gate, archway, vines, roots, moss, rubble
-**Iconography:** gate, arch, threshold
-**Genre cues:** fantasy, dark-fantasy, gothic
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

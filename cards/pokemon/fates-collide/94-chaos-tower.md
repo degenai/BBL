@@ -46,6 +46,9 @@ oracle_text: Choose which way this card faces before you play it. This ↓ playe
 mood: sublime
 time_of_day: night
 setting: other
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

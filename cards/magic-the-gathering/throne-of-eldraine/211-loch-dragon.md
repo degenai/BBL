@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a99088e-7162-
 flavor_text: Despite its ferocity, its favor can be won with a gift of something it's never seen before.
 oracle_text: Flying\nWhenever this creature enters or attacks, you may discard a card. If you do, draw a card.
 mana_cost: "{U/R}{U/R}{U/R}{U/R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

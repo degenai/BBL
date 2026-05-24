@@ -1,0 +1,44 @@
+{
+  "card_name": "Millstone",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2014 (M14)",
+  "collector_number": "213",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Millstone was first printed in Antiquities (1994), Magic's second expansion ever. The M14 printing (released 2013-07-19) is among roughly 25 known printings, spanning Revised Edition, Fourth Edition, Fifth Edition, Eighth Edition, Tenth Edition, Core Set 2019, The Brothers' War Retro Artifacts, and others. It is one of the most-reprinted artifacts in Magic history.",
+      "sources": ["Scryfall: oracle ID 3212e47a prints search", "Scryfall: set and released_at fields"]
+    },
+    {
+      "category": "design",
+      "text": "Millstone is the card that gave the entire 'mill' verb to Magic vocabulary. Before Core Set 2021, the effect was written as 'put X cards from the top of target player's library into their graveyard.' With M21, all such oracle texts were updated to use the keyword action 'mills,' formally canonizing the card's name as the mechanic's name. Despite being the archetype's progenitor, Millstone itself is considered too slow for competitive mill strategies today.",
+      "sources": ["Paperwave Substack: Millstone MTG Card of the Day #6", "Mill keyword — mtg.wiki"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Minds, like mountains, are never so grand and mighty that they can't be reduced to dust.\" — no attributed speaker.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 11,917, placing it in the long tail of Commander-playable artifacts. Serviceable in dedicated mill strategies but outclassed by higher-volume options.",
+      "sources": ["Scryfall: edhrec_rank field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Millstone", "set": "Antiquities (ATQ)", "note": "Original 1994 printing, origin of the mechanic"},
+    {"name": "Millstone", "set": "Core Set 2019 (M19)", "note": "Most recent standard-legal reprint before this M14 print"},
+    {"name": "Millstone", "set": "The Brothers' War Retro Artifacts (BRR)", "note": "Retro-frame premium reprint"},
+    {"name": "Tome Scour", "set": "Magic 2014 (M14)", "note": "Same set, same mill theme, sorcery-speed two-card mill"},
+    {"name": "Jace's Phantasm", "set": "Magic 2014 (M14)", "note": "Mill synergy creature in the same core set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "mana_cost_flag": null
+}

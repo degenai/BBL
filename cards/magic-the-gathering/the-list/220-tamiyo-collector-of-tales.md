@@ -45,7 +45,7 @@ last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'The List'
-reference_image_source_url: https://cards.scryfall.io/png/front/a/e/aeae9feb-8153-496c-bb12-8db5e2e089a9.png?1643940435
+reference_image_source_url: https://cards.scryfall.io/png/front/a/e/aeae9feb-8153-496c-bb12-8db5e2e089a9.png?1778917242
 mood: sublime
 time_of_day: indeterminate
 setting: other
@@ -54,8 +54,12 @@ ip_confidence: high
 ip_verified: true
 artist: Chase Stone
 art_crop_image: cards/_images/magic-the-gathering/the-list/220-tamiyo-collector-of-tales--art.jpg
-art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/e/aeae9feb-8153-496c-bb12-8db5e2e089a9.jpg?1643940435
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/e/aeae9feb-8153-496c-bb12-8db5e2e089a9.jpg?1778917242
 oracle_text: "Spells and abilities your opponents control can't cause you to discard cards or sacrifice permanents.\\n+1: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.\\n−3: Return target card from your graveyard to your hand."
+mana_cost: "{2}{G}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

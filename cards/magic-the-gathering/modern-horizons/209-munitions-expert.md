@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/8/a8572dfd-9da1-
 flavor_text: When dealing with goblins, if it isn't nailed down, it's headed your way.
 oracle_text: Flash\nWhen this creature enters, you may have it deal damage to target creature or planeswalker equal to the number of Goblins you control.
 mana_cost: "{B}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

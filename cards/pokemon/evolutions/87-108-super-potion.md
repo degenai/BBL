@@ -41,6 +41,9 @@ oracle_text: Heal 60 damage from 1 of your Pokémon. If you do, discard an Energ
 mood: other
 time_of_day: indeterminate
 setting: void
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

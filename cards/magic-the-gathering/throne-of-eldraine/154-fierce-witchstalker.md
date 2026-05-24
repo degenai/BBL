@@ -47,6 +47,7 @@ image_quality: high
 mood: horror
 time_of_day: night
 setting: forest
+mana_cost: "{2}{G}{G}"
 tags:
   - card
   - vision-passed

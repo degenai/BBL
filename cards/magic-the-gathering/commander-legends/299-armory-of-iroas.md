@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/0/703a03ac-5bb5-
 flavor_text: Each weapon is as unique as the champion who carried it to battle.
 oracle_text: "Whenever equipped creature attacks, put a +1/+1 counter on it.\\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

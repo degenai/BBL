@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2897635-b387-
 flavor_text: \"And what did Erekastos teach us is the nature of the soul?\"
 oracle_text: "{6}{U}, Sacrifice this creature: Draw three cards."
 mana_cost: "{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

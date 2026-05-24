@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0a19670c-5afa-
 flavor_text: Thaumaturges remain silent around chimeras, lest their words conjure even stranger beasts.
 oracle_text: Flying, trample\nSpellheart Chimera's power is equal to the number of instant and sorcery cards in your graveyard.
 mana_cost: "{1}{U}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

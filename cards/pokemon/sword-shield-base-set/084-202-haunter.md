@@ -28,9 +28,9 @@ review_notes: ""
 artist: HYOGONOSUKE
 flavor_text: Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.
 oracle_text: "Nightmare (Colorless) 20: Your opponent's Active Pokémon is now Asleep.\\nSpooky Shot (PsychicColorless) 40"
-image_width: 600
-image_height: 825
-image_quality: med
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

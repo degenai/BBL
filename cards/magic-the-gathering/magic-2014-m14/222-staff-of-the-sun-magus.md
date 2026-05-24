@@ -53,6 +53,11 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/0/90a1f830-d19a-
 flavor_text: A symbol of conviction in uncertain times.
 oracle_text: Whenever you cast a white spell or a Plains you control enters, you gain 1 life.
 mana_cost: "{3}"
+characters:
+  - staff-of-the-magus-cycle
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed
@@ -77,3 +82,17 @@ A heavy ceremonial staff fills the frame vertically, its head crowned by a styli
 **Iconography:** sun, sunburst, radiant-star
 **Genre cues:** fantasy, medieval
 
+## Trivia
+
+- **Cycle membership** — Staff of the Sun Magus (no. 222) is the white member of the five-card "Staff of the Magus" cycle in M14 (nos. 219-223). See Staff of the Death Magus (no. 219) entry for full cycle breakdown. Unlike the red and blue staffs (nos. 220-221), the Sun Magus was not reprinted in M15, making the M14 printing the only standard printing. `[Scryfall: collector numbers and reprint field]`
+- **Mechanical note** — Triggers on casting any white spell OR on any Plains-typed land entering. The ruling clarification is that the land subtype "Plains" matters, not just lands that produce white mana: dual lands or filter lands that produce white without the Plains subtype do not trigger the staff. `[Scryfall: oracle_text]` `[MTGSalvation: Staff Cycle thread 491561]`
+- **Flavor text** — "A symbol of conviction in uncertain times." — no attributed speaker. The parallel flavor-text structure across the cycle ("ambition in ruthless times," "conviction in uncertain times," "ferocity in oppressive times") reads as a unified in-world motto set, though no Wizards article has been located attributing them to a specific character or setting. `[Scryfall]`
+- **Artist** — Daniel Ljunggren, who illustrated three of the five M14 staff cycle cards. Ljunggren's portfolio on the MTG Artist Connection lists 191 cards illustrated for Wizards. `[Gatherer: Daniel Ljunggren artist search]`
+- **EDHREC rank** — Ranked 13,085, mid-range among the five staffs. White's abundance of lifegain synergies (Soul Warden, Archangel of Thune, etc.) gives this marginal play but not enough to elevate above the noise in competitive lifegain builds. `[Scryfall: edhrec_rank field]`
+
+### Related cards
+- Staff of the Death Magus (M14, no. 219) — black cycle member (in this batch)
+- Staff of the Flame Magus (M14, no. 220) — red cycle member
+- Staff of the Mind Magus (M14, no. 221) — blue cycle member
+- Staff of the Wild Magus (M14, no. 223) — green cycle member (in this batch)
+- Soul Warden (Exodus, no. 20) — white lifegain on-creature-enters, classic synergy partner in white lifegain shells

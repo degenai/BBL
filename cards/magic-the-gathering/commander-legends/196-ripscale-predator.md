@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/0/00924a16-fb85-
 flavor_text: As Ravnica's wilds expanded, even advocates for nature had to confront fiercer natural threats.
 oracle_text: Menace (This creature can't be blocked except by two or more creatures.)
 mana_cost: "{4}{R}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

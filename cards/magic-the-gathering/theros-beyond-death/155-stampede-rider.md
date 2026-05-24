@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/3/c32c6192-2f8d-
 flavor_text: To a satyr, a stampede is just another kind of revelry.
 oracle_text: Trample\nAt the beginning of each combat, if you control a creature with power 4 or greater, this creature gets +1/+1 until end of turn.
 mana_cost: "{2}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

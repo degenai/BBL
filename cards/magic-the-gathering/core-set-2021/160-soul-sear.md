@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - combat
   - fire
   - pain
@@ -26,7 +26,7 @@ tags_hub:
   - demon
   - burning
   - duel
-tags_filter:
+tags_filter: []
   - wide-shot
   - action-mode
   - duo
@@ -36,15 +36,15 @@ tags_filter:
   - male-figure
   - common
   - red-magic
-reference_image: cards/_images/magic-the-gathering/core-set-2021/160-soul-sear.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.29
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/6/2/62584e4f-dac1-4d99-ac0a-6a2451603889.png?1594736775
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 mood: grim
 time_of_day: indeterminate
 setting: other
@@ -54,6 +54,7 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/2/62584e4f-dac1-
 flavor_text: There was no witty retort, no confident boast to accompany the attack. There was only pain.
 oracle_text: Soul Sear deals 5 damage to target creature or planeswalker. That permanent loses indestructible until end of turn.
 mana_cost: "{2}{R}"
+manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
 tags:
   - card
   - vision-passed
@@ -62,21 +63,14 @@ tags:
 
 ## Vision
 
-![160-soul-sear](../../_images/magic-the-gathering/core-set-2021/160-soul-sear.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A small male warrior in plate armor lunges with a glowing red weapon at a massive horned beast whose hide is the same red as the searing landscape. Sparks and embers fill the air. Mood is brutal — flavor text spells it out: 'There was no witty retort, no confident boast to accompany the attack. There was only pain.' The all-red palette gives the scene a hellscape quality.
 
-**Subject:** A male warrior in plate armor swinging a flaming weapon at a massive horned beast in a fiery red landscape
+**Subject:** 
 
-**Composition:** wide, action, figures: duo, facing: right
-**Setting:** other, indeterminate, fire
-**Foreground:** Male warrior with flaming weapon mid-strike against a massive horned beast  *(palette: red, crimson, ember-orange)*
-**Background:** Fiery red landscape filled with embers  *(palette: red, blood-red, crimson)*
-**Mood / lighting:** grim, ambient
-**Emotion read:** brutal, painful
-**Objects:** sword, armor, horns
-**Creatures:** beast
-**Genre cues:** fantasy, painterly
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

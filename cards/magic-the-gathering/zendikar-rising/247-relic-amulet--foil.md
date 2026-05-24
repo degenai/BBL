@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0ab97a84-fe8c-
 flavor_text: Old power finds new purpose.
 oracle_text: "Whenever you cast an instant, sorcery, or Wizard spell, put a charge counter on this artifact.\\n{2}, {T}, Remove all charge counters from this artifact: It deals that much damage to target creature."
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

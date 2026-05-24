@@ -47,6 +47,9 @@ artist: Noah Bradley
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons/242-lonely-sandbar--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/4/54e0fcc2-2409-4e00-95d5-418ffa161c20.jpg?1562202574
 oracle_text: "This land enters tapped.\\n{T}: Add {U}.\\nCycling {U} ({U}, Discard this card: Draw a card.)"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

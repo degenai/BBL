@@ -31,13 +31,13 @@ tags_filter:
   - supporter-card
   - rapid-strike
   - pokemon-ip
-reference_image: cards/_images/pokemon/chilling-reign/153-198-siebold.png
+reference_image: cards/_images/pokemon/chilling-reign/153-198-siebold.jpg
 average_cost_paid: 0
 market_price: 0.1
 market_price_as_of: 2026-05-24
 date_added: 2026-05-07
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/swsh6/153_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/d/d8/SieboldChillingReign153.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Ken Sugimori
@@ -48,6 +48,9 @@ setting: other
 suspected_ip: Siebold
 ip_confidence: high
 ip_verified: true
+image_width: 868
+image_height: 1212
+image_quality: high
 tags:
   - card
   - pokemon

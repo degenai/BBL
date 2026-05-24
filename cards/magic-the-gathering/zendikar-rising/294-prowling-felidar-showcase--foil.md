@@ -55,6 +55,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/9/b9d1c11a-a32c-
 flavor_text: On occasion, felidars leave meaty \"gifts\" outside the tents of explorers they consider worthy.
 oracle_text: Vigilance\nLandfall — Whenever a land you control enters, put a +1/+1 counter on this creature.
 mana_cost: "{3}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

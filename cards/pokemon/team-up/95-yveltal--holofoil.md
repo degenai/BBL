@@ -32,13 +32,13 @@ tags_filter:
   - scene-mode
   - holo-rare
   - dark-type
-reference_image: cards/_images/pokemon/team-up/95-yveltal--holofoil.png
+reference_image: cards/_images/pokemon/team-up/95-yveltal--holofoil.jpg
 average_cost_paid: 0
 market_price: 2.3
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/sm9/95_hires.png
+reference_image_source_url: https://archives.bulbagarden.net/media/upload/e/e3/YveltalTeamUp95.jpg
 art_match_confidence: high
 needs_manual_review: false
 artist: Misa Tsutsui
@@ -50,6 +50,9 @@ setting: void
 suspected_ip: Yveltal (Pokémon)
 ip_confidence: high
 ip_verified: true
+image_width: 917
+image_height: 1280
+image_quality: high
 tags:
   - card
   - pokemon

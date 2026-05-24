@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/4/e4763b6c-6471-
 flavor_text: Tycthis's military career was a flop.
 oracle_text: Enchant creature\nEnchanted creature loses all abilities and is a blue Fish with base power and toughness 0/1.
 mana_cost: "{2}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

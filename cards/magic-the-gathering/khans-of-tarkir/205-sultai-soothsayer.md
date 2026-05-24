@@ -56,6 +56,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/e/ae0de2c9-957e-
 flavor_text: The naga of the Sultai Brood made deals with dark forces to keep their power.
 oracle_text: When this creature enters, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
 mana_cost: "{2}{B}{G}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - desert
   - canyon
   - flowers
@@ -23,7 +23,7 @@ tags_hub:
   - sky
   - rock-formation
   - growth
-tags_filter:
+tags_filter: []
   - no-figures
   - wide-shot
   - scene-mode
@@ -33,15 +33,15 @@ tags_filter:
   - multicolor-green-white
   - landscape-orientation-art
   - no-face
-reference_image: cards/_images/magic-the-gathering/aetherdrift/252-blossoming-sands.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-24
 date_added: 2026-05-10
 last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/6/9/69949863-2510-4fe2-a815-0682beeb08a3.png?1738356887
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 mood: sublime
 time_of_day: day
 setting: desert
@@ -50,6 +50,7 @@ art_crop_image: cards/_images/magic-the-gathering/aetherdrift/252-blossoming-san
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/9/69949863-2510-4fe2-a815-0682beeb08a3.jpg?1738356887
 flavor_text: The Alacrian Quickbeasts desire not only to win, but to forge new alliances against the unknown threats of this interconnected Multiverse.
 oracle_text: "This land enters tapped.\\nWhen this land enters, you gain 1 life.\\n{T}: Add {G} or {W}."
+manual_review_reason: No reference image found via scryfall for set 'Aetherdrift'
 tags:
   - card
   - vision-passed
@@ -59,21 +60,14 @@ tags:
 
 ## Vision
 
-![252-blossoming-sands](../../_images/magic-the-gathering/aetherdrift/252-blossoming-sands.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A wide, sun-drenched vista of golden sandstone spires rising from a canyon floor under a hazy turquoise sky. Tufts of green vegetation and small bursts of pink and white blossoms cling to the eroded rock walls, suggesting an unexpectedly fertile desert. A single elongated creature with long, narrow wings glides high in the upper-right portion of the sky, silhouetted against the haze. The composition reads as a landscape painting with strong atmospheric perspective: warm tans and oranges in the foreground rocks, cooler greens and pinks at mid-range, and a soft cyan-to-cream sky receding to the horizon.
 
-**Subject:** A sunlit desert canyon with towering rock spires, blooming desert flora, and a winged creature soaring above on outstretched wings
+**Subject:** 
 
-**Composition:** wide, narrative, figures: none, facing: n/a
-**Setting:** desert, day, clear
-**Foreground:** Eroded sandstone cliff edge with green grasses and small pink and white flowering plants clinging to the rock  *(palette: sandstone-tan, ochre, moss-green, pink, cream)*
-**Background:** Receding canyon spires fading into haze under a pale turquoise sky with a distant winged creature in flight  *(palette: turquoise, cream, soft-tan, dusty-blue)*
-**Mood / lighting:** sublime, ambient
-**Emotion read:** serene, expansive, hopeful
-**Objects:** sandstone-spires, flowering-plants, grasses, canyon
-**Creatures:** winged-creature, flying-beast
-**Genre cues:** fantasy, landscape
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

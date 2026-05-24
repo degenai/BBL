@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/2/62d3132f-f897-
 flavor_text: It was built by the Witch of Lochmere. Most of the wishes it grants are its own.
 oracle_text: "When this artifact enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)\\n{3}{U}, Sacrifice this artifact: Draw two cards."
 mana_cost: "{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

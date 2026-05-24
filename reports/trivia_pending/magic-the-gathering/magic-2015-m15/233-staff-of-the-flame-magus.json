@@ -1,0 +1,47 @@
+{
+  "card_name": "Staff of the Flame Magus",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2015 (M15)",
+  "collector_number": "233",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Staff of the Flame Magus is one of five Staff of the Magus artifacts (one per color) that trigger on casting spells of their color or on basic lands of that type entering. All five originated in M14 (July 2013); this card and Staff of the Mind Magus are the two reprinted in M15 (July 2014). Full cycle: Death Magus (B, M14/219), Flame Magus (R, M14/220 / M15/233), Mind Magus (U, M14/221 / M15/234), Sun Magus (W, M14/222), Wild Magus (G, M14/223). [Scryfall: m14/220, m15/233]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Magic 2015 (M15) was released July 18, 2014 as the penultimate annual core set before Wizards retired the core set line after Magic Origins (2015). M15 introduced the updated card frame with artist credit moved to lower-left. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'A symbol of passion in indifferent times.' No speaker attributed. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Trigger fires on ANY land with the Mountain subtype, not just cards named Mountain — shocklands like Sacred Foundry also trigger it. EDHREC rank 15,867 — long-tail card, primarily seen in mono-red lifegain or burn-offset strategies. [Scryfall oracle text; EDHREC rank via Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Daniel Ljunggren illustrated both M15 cycle reprints (Flame Magus and Mind Magus), making him the sole artist for the two M15 members of a five-card cycle. [Scryfall artist field, both cards]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Staff of the Mind Magus", "set": "M15", "note": "direct cycle partner, same artist, same set, same wave"},
+    {"name": "Staff of the Death Magus", "set": "M14", "note": "cycle member, black alignment, M14-only printing"},
+    {"name": "Staff of the Sun Magus", "set": "M14", "note": "cycle member, white alignment, M14-only printing"},
+    {"name": "Staff of the Wild Magus", "set": "M14", "note": "cycle member, green alignment, M14-only printing"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

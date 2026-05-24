@@ -50,6 +50,9 @@ art_crop_image: cards/_images/magic-the-gathering/commander-streets-of-new-capen
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/9/793f0ac2-39b8-4cb2-aeac-f901bf5bd7ea.jpg?1673483962
 oracle_text: Whenever you draw a card, you may pay {1}. If you do, put a +1/+1 counter on this creature and create a 1/1 blue Tentacle creature token.
 mana_cost: "{1}{U}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

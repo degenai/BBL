@@ -44,6 +44,10 @@ oracle_text: "{2}{B}{G}: Adapt 2. (If this creature has no +1/+1 counters on it,
 mood: horror
 time_of_day: night
 setting: forest
+mana_cost: "{B}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

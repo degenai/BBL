@@ -53,6 +53,9 @@ mood: action
 time_of_day: indeterminate
 setting: indoor
 mana_cost: "{1}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/e/9e71190b-c96c-
 flavor_text: Poets dream the verses of otherworldly stories. Artificers dream the blueprints of otherplanar artifacts.
 oracle_text: Vigilance
 mana_cost: "{3}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

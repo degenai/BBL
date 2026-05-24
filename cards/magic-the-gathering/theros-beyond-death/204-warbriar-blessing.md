@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/204-warbri
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/1/11d64cab-2ed1-46d9-8034-0c2ba3f2e1ed.jpg?1581480932
 oracle_text: Enchant creature you control\nWhen this Aura enters, enchanted creature fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)\nEnchanted creature gets +0/+2.
 mana_cost: "{1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

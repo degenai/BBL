@@ -12,19 +12,27 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image: cards/_images/magic-the-gathering/war-of-the-spark/95-lazotep-behemoth.png
 average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-24
 date_added: 2026-05-16
 last_seen: 2026-05-23
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'War of the Spark'
 review_good: false
 review_bad: false
 review_notes: ""
 mana_cost: "{4}{B}"
+reference_image_source_url: https://cards.scryfall.io/png/front/b/4/b4be6f22-e9e8-462a-956b-e1c78bbadacc.png?1557576497
+artist: Zezhou Chen
+art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/95-lazotep-behemoth--art.jpg
+art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/4/b4be6f22-e9e8-462a-956b-e1c78bbadacc.jpg?1557576497
+flavor_text: \"I know I should be more concerned. But a big, blue zombie-potamus from beyond the stars? This is what they're invading us with?\"\n—Mileva, Boros legionnaire
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - manual-review

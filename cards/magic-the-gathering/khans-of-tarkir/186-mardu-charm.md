@@ -52,6 +52,9 @@ oracle_text: Choose one —\n• Mardu Charm deals 4 damage to target creature.\
 mana_cost: "{R}{W}{B}"
 characters:
   - ktk-clan-charm-cycle
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

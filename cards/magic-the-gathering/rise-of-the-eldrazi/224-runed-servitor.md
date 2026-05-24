@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/d/9dbbbbf6-e3ed-
 flavor_text: Scholars had puzzled for centuries over the ruins at Tal Terig. Its secrets had always lived within one rune-carved head.
 oracle_text: When this creature dies, each player draws a card.
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

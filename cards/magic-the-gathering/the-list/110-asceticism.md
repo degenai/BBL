@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/2/72eefa85-39de-
 flavor_text: \"Let my ignominy build walls thicker than iron and stronger than darksteel.\"\n—Thrun, the last troll
 oracle_text: "Creatures you control have hexproof.\\n{1}{G}: Regenerate target creature. (The next time it would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)"
 mana_cost: "{3}{G}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

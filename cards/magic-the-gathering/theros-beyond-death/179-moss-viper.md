@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/4/a4d35ec4-0e0d-
 flavor_text: Nylea watches over all the creatures of the forest except for the snakes. Blessed by Pharika, they can take care of themselves.
 oracle_text: Deathtouch
 mana_cost: "{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

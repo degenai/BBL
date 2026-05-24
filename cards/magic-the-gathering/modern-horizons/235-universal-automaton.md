@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - automaton
   - construct
   - robot
@@ -22,7 +22,7 @@ tags_hub:
   - shapeshifter
   - alchemy
   - arcane-technology
-tags_filter:
+tags_filter: []
   - duo
   - 2-figures
   - mid-shot
@@ -39,9 +39,9 @@ market_price: 0.58
 market_price_as_of: 2026-05-24
 date_added: 2026-05-07
 last_seen: 2026-05-23
-art_match_confidence: high
-needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Modern Horizons'
+art_match_confidence: low
+needs_manual_review: true
+manual_review_reason: Set 'Modern Horizons' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 reference_image_source_url: https://cards.scryfall.io/png/front/5/3/53c682e2-c90f-4f4b-9010-00b099e85518.png?1691760808
 mood: other
 time_of_day: indeterminate
@@ -62,18 +62,12 @@ tags:
 
 ![235-universal-automaton](../../_images/magic-the-gathering/modern-horizons/235-universal-automaton.png)
 
-A polished brass humanoid automaton stands in three-quarter view, its segmented metal plates catching warm light. Its featureless faceplate tilts toward a glowing violet crystalline shard clutched in its right hand — the shard radiates a soft purple glow that washes the figure's torso. A second, near-identical automaton stands further back in the dim workshop, partially obscured by shadow. The background reads as an interior space — laboratory or arcane workshop — rendered in cool blue-grey tones that contrast with the gold-warm foreground figure. The mood is quiet, investigative, almost reverent: a constructed being studying a piece of magical material.
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-**Subject:** A brass-and-gold humanoid automaton standing in a workshop, gripping a glowing violet crystalline shard; a second, similar automaton is visible behind it
 
-**Composition:** mid-shot, narrative, figures: duo, facing: three-quarter
-**Setting:** indoor, indeterminate
-**Foreground:** Brass humanoid automaton holding a glowing violet shard  *(palette: brass, gold, warm-amber, violet, magenta-glow)*
-**Background:** Dim workshop or laboratory interior with a second automaton in shadow  *(palette: cool-blue, slate-grey, deep-shadow, muted-teal)*
-**Mood / lighting:** other, rim
-**Emotion read:** Featureless faceplate, but body language reads as curious / studious — head tilted toward the shard it examines
-**Objects:** crystal-shard, glowing-gem, automaton-armor, metal-plating
-**Creatures:** automaton, construct, shapeshifter
-**Iconography:** glowing-crystal
-**Genre cues:** fantasy, steampunk, arcane-tech, high-fantasy
+**Subject:** 
+
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

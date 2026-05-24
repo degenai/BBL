@@ -58,6 +58,9 @@ art_crop_image: cards/_images/magic-the-gathering/dragon-s-maze/109-tithe-drinke
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/0/e069aa06-35b0-4af8-89cb-af653708ed32.jpg?1562936862
 oracle_text: Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nExtort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)
 mana_cost: "{W}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

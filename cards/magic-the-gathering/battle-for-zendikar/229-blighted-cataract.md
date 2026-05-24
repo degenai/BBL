@@ -44,6 +44,9 @@ oracle_text: "{T}: Add {C}.\\n{5}{U}, {T}, Sacrifice this land: Draw two cards."
 mood: grim
 time_of_day: indeterminate
 setting: mountain
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

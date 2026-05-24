@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/9/a90c1ad0-83bd-
 flavor_text: \"There's nothing quite as satisfying as delivering a good kick to the face.\"\n—Adrasteia, Akroan captain
 oracle_text: Destroy target tapped creature.
 mana_cost: "{1}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

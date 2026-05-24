@@ -18,6 +18,21 @@ market_price: 0.24
 market_price_as_of: 2026-05-24
 date_added: 2026-05-24
 last_seen: 2026-05-23
+art_match_confidence: none
+needs_manual_review: true
+manual_review_reason: No reference image found via scryfall for set 'War of the Spark'
 ---
 
 # Servo Token (War of the Spark)
+
+## Vision
+
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+
+
+**Subject:** 
+
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
+

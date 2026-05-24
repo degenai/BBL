@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/d/2dc0bafd-debc-
 flavor_text: \"Nicely done, Jace. You always were good at disappearing acts.\"\n—Liliana Vess
 oracle_text: Return target spell or creature to its owner's hand.
 mana_cost: "{1}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

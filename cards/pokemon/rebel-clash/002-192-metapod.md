@@ -48,6 +48,9 @@ ip_confidence: high
 ip_verified: true
 characters:
   - caterpie-line
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

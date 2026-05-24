@@ -47,6 +47,9 @@ oracle_text: Draw 2 cards. If Wyndon Stadium is in play, draw 2 more cards.\nYou
 mood: other
 time_of_day: indeterminate
 setting: indoor
+image_width: 734
+image_height: 1024
+image_quality: high
 tags:
   - card
   - pokemon

@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/6/7618fb0b-099c-
 flavor_text: A capable mage can tune its focus, refracting mana through each disk in turn to cast any spell they desire.
 oracle_text: "{T}: Add {C}.\\n{1}, {T}: Add one mana of any color."
 mana_cost: "{2}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed
