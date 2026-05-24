@@ -38,7 +38,7 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
 flavor_text: After a 10-hour struggle, a fisherman was able to pull one up and confirm its existence.
-oracle_text: "Signs of Evolution (Grass): Search your deck for a Dratini, a Dragonair, and a Dragonite, reveal them, and put them into your hand. Then, shuffle your deck.\nTail Smack (Lightning) 10"
+oracle_text: "Signs of Evolution (Grass): Search your deck for a Dratini, a Dragonair, and a Dragonite, reveal them, and put them into your hand. Then, shuffle your deck.\\nTail Smack (Lightning) 10"
 review_good: false
 review_bad: false
 review_notes: ""

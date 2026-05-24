@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/6/b6a5adee-3482-
 flavor_text: Exercise kindness, for nothing remains small forever.\n—Alacrian proverb
 oracle_text: Target creature gets +4/+4 and gains trample until end of turn.
 mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

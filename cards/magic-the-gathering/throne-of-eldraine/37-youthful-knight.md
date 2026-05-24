@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/d/3d1a3fec-39de-
 flavor_text: \"In the wilds, your true training will begin.\"\n—Syr Alin, the Lion's Claw
 oracle_text: First strike
 mana_cost: "{1}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

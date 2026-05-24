@@ -48,6 +48,7 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: ocean
+mana_cost: "{7}"
 tags:
   - card
   - vision-passed

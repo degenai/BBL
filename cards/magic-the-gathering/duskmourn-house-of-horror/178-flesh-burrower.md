@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - insect
   - parasite
   - body-horror
@@ -23,7 +23,7 @@ tags_hub:
   - decay
   - glow
   - monster
-tags_filter:
+tags_filter: []
   - solo
   - close-up
   - forward-facing
@@ -50,6 +50,10 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/60499c90-a512-
 flavor_text: Symptoms of a burrower bite include fevers, chills, gangrene, subcutaneous writhing, a growing urge to eat the flesh of the living, and if you're lucky, death.
 oracle_text: Deathtouch\nWhenever this creature attacks, another target creature you control gains deathtouch until end of turn.
 mana_cost: "{1}{G}"
+manual_review_reason: "No reference image found via scryfall for set 'Duskmourn: House of Horror'"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed
@@ -58,21 +62,14 @@ tags:
 
 ## Vision
 
-![178-flesh-burrower](../../_images/magic-the-gathering/duskmourn-house-of-horror/178-flesh-burrower.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A close-up body-horror composition: a dark, segmented insect-like burrower forces its way out of (or into) a host body, its head wreathed in glowing green tendrils that spill outward like fanged petals. The wound itself glows acid-green, suggesting infection or radiant decay. Surrounding tendrils and bristly hair-like growths frame the central rupture. The palette is dominated by sickly greens, blacks, and bruised purples, with the glow providing the only bright accent. Strong horror-vibe imagery — parasitic, visceral, fungal-meets-insectile.
 
-**Subject:** A grotesque burrowing insect creature with a segmented body emerging from torn flesh, surrounded by writhing tendrils or roots; vivid green glow radiates from the wound channel
+**Subject:** 
 
-**Composition:** close-up, action, figures: solo, facing: forward
-**Setting:** other, indeterminate
-**Foreground:** burrowing insect creature emerging from a torn flesh wound with tendrils  *(palette: acid-green, black, dark-purple, blood-red)*
-**Background:** indistinct dark organic surface — flesh or hide of the host  *(palette: black, deep-green, bruise-purple)*
-**Mood / lighting:** horror, rim
-**Emotion read:** predatory, invasive, alien menace
-**Creatures:** insect, parasite, burrower, tendril
-**Iconography:** wound, glow, tendril
-**Genre cues:** body-horror, horror, fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

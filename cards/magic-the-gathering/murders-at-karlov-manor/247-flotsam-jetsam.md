@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - water
   - drowning
   - underwater
@@ -23,7 +23,7 @@ tags_hub:
   - river
   - night-water
   - investigation
-tags_filter:
+tags_filter: []
   - split-card
   - duo
   - scene-mode
@@ -33,15 +33,15 @@ tags_filter:
   - mill
   - investigate
   - multicolor-blue-black-green
-reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/247-flotsam-jetsam.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.16
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/c/1/c1500cbf-5619-465e-a97b-75e676ce789b.png?1706900060
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 artist: Anastasia Ovchinnikova
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/247-flotsam-jetsam--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/1/c1500cbf-5619-465e-a97b-75e676ce789b.jpg?1706900060
@@ -50,6 +50,7 @@ mood: grim
 time_of_day: indeterminate
 setting: ocean
 mana_cost: "{1}{G/U} // {4}{U/B}{U/B}"
+manual_review_reason: No reference image found via scryfall for set 'Murders at Karlov Manor'
 tags:
   - card
   - vision-passed
@@ -58,19 +59,12 @@ tags:
 
 ## Vision
 
-![247-flotsam-jetsam](../../_images/magic-the-gathering/murders-at-karlov-manor/247-flotsam-jetsam.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-A two-part split card with horizontal orientation, both halves rendered in deep cold blues and murky teals. The Flotsam side shows a body submerged just below a rippling water surface, pale skin against the dark depths, light beams piercing down through the water column above. The Jetsam side depicts a darker scene of an arm or hand at the waterline, evoking the disposal of evidence or a corpse into a river or canal; a sleek fish or aquatic creature passes through the frame. Both scenes share a forensic, evidence-disposal mood appropriate to the Karlov Manor murder-mystery setting — quiet, cold, and grim.
 
-**Subject:** A split card showing two related water-disposal scenes. The Flotsam half depicts a pale, lifeless figure floating face-up just beneath a dark water surface, viewed from below with light filtering down. The Jetsam half shows a hand emerging from dark water clutching a weighted bundle or sack while a fish swims past.
+**Subject:** 
 
-**Composition:** scene, narrative, figures: duo, facing: n/a
-**Setting:** ocean, indeterminate, calm
-**Foreground:** a submerged pale body on the Flotsam side; a hand and aquatic creature on the Jetsam side  *(palette: pale-white, deep-blue, teal, black)*
-**Background:** murky underwater depths fading to black, with surface light penetrating from above  *(palette: midnight-blue, teal, black, slate-grey)*
-**Mood / lighting:** grim, backlit
-**Emotion read:** lifeless stillness; the body is inert, the disposal hand is anonymous and unhurried
-**Objects:** weighted-bundle, rippling-water-surface
-**Creatures:** fish
-**Genre cues:** fantasy, noir, mystery
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

@@ -41,7 +41,7 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
 flavor_text: It delivers headbutts with the water bubble on its head. Small Pokémon get sucked into the bubble, where they drown.
-oracle_text: "[Ability: Water Bubble] Prevent all damage done to this Pokémon by attacks from your opponent's Fire Pokémon.\nAqua Edge (WaterColorlessColorless) 70"
+oracle_text: "[Ability: Water Bubble] Prevent all damage done to this Pokémon by attacks from your opponent's Fire Pokémon.\\nAqua Edge (WaterColorlessColorless) 70"
 review_good: false
 review_bad: false
 review_notes: ""

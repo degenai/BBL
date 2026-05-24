@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/8/38a0136e-a637-
 flavor_text: \"It wandered slowly across the landscape, calling out in its lonely voice, but no other castles answered its cries.\"\n—*Beyond the Great Henge*
 oracle_text: "Defender\\n{7}: This creature gets +2/+0 and gains trample until end of turn. It can attack this turn as though it didn't have defender."
 mana_cost: "{7}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

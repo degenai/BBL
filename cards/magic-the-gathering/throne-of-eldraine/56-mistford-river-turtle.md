@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/c/0c78c386-c64b-
 flavor_text: The fae raised the turtle from a tiny hatchling. They taught it whom to ferry—and whom to drown.
 oracle_text: Whenever this creature attacks, another target attacking non-Human creature can't be blocked this turn.
 mana_cost: "{3}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

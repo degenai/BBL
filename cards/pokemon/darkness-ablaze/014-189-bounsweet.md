@@ -39,7 +39,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Yuka Morii
 flavor_text: Its body gives off a sweet, fruity scent that is extremely appetizing to bird Pokémon.
-oracle_text: "Synthesis (Colorless): Search your deck for a Grass Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.\nFlop (GrassColorless) 20"
+oracle_text: "Synthesis (Colorless): Search your deck for a Grass Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.\\nFlop (GrassColorless) 20"
 mood: peaceful
 time_of_day: day
 setting: forest

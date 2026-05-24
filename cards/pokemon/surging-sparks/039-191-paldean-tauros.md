@@ -34,10 +34,10 @@ market_price: 0.13
 market_price_as_of: 2026-05-24
 date_added: 2026-05-16
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/sv8/18_hires.png
+reference_image_source_url: https://images.pokemontcg.io/sv8/39_hires.png
 art_match_confidence: high
 needs_manual_review: false
-oracle_text: "Rear Kick (Fire) 30\\nSpirited Tackle (FireColorlessColorless) 90+: If your opponent's Active Pokémon is a Stage 1 Pokémon, this attack does 90 more damage."
+oracle_text: "Upthrusting Horns (ColorlessColorless) 30: You may put 2 Energy attached to your opponent's Active Stage 2 Pokémon into their hand.\\nJet Headbutt (WaterWaterColorless) 100"
 image_width: 733
 image_height: 1024
 image_quality: high

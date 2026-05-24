@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/3/03d0365e-6dee-
 flavor_text: The gardens around Karlov Manor are oddly bereft of birdsong.
 oracle_text: "Trample\\nBasic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
 mana_cost: "{4}{G}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

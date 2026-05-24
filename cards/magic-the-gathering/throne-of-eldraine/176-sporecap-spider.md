@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/b/7bc33252-145f-
 flavor_text: After years of taunts and aerial assaults from Rankle's minions, the witches of Maraleaf Forest acquired new familiars.
 oracle_text: Reach
 mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

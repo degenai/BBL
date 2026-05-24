@@ -43,7 +43,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Yuka Morii
 flavor_text: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit.
-oracle_text: "Call for Family (Colorless): Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.\nLive Coal (Fire) 10"
+oracle_text: "Call for Family (Colorless): Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.\\nLive Coal (Fire) 10"
 mood: peaceful
 time_of_day: indeterminate
 setting: mountain

@@ -56,6 +56,10 @@ oracle_text: Put a +1/+1 counter on each attacking creature you control.
 mood: grim
 time_of_day: indeterminate
 setting: other
+mana_cost: "{2}{R/W} // {4}{W/U}{W/U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

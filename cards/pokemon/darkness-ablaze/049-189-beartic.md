@@ -41,7 +41,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Masakazu Fukuda
 flavor_text: It swims through frigid seas, searching for prey. From its frozen breath, it forms icy fangs that are harder than steel.
-oracle_text: Slash (ColorlessColorless) 40
+oracle_text: "Slash (ColorlessColorless) 40\\nFrozen Slice (WaterColorlessColorless) 150: This Pokémon also does 50 damage to itself."
 Frozen Slice (WaterColorlessColorless) 150: This Pokémon also does 50 damage to itself.
 image_width: 734
 image_height: 1024

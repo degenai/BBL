@@ -27,15 +27,15 @@ tags_filter:
   - mid-shot
   - portrait
   - creature-stage1
-reference_image: 
+reference_image: cards/_images/pokemon/mega-evolution/014-132-nuzleaf.png
 average_cost_paid: 0
 market_price: 0.04
 market_price_as_of: 2026-05-24
 date_added: 2026-05-19
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/me1/14_hires.png
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 oracle_text: Pound (Grass) 30\nLow Kick (GrassColorless) 50
 image_width: 733
 image_height: 1024

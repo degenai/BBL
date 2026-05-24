@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/aetherdrift/152-alacrian-jagua
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2bd40bca-aa54-4e52-8d48-b3709a11e633.jpg?1738356479
 oracle_text: "Vigilance\\nWhenever this creature attacks while saddled, it gets +2/+2 until end of turn.\\nSaddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
 mana_cost: "{4}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

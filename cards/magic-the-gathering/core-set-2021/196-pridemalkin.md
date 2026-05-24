@@ -51,6 +51,10 @@ artist: Karl Kopinski
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/196-pridemalkin--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/f/df520254-0c72-496b-9222-263ca9d3c5d5.jpg?1594737133
 oracle_text: When this creature enters, put a +1/+1 counter on target creature you control.\nEach creature you control with a +1/+1 counter on it has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)
+mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

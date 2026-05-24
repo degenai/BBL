@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cfa6ed13-7bba-
 flavor_text: With shifting forms and no angel to pray to, Innistrad's werewolves were especially susceptible to Emrakul's influence.
 oracle_text: Target creature you control deals damage equal to its power to target creature or planeswalker you don't control. If you control an Eldrazi, you gain 3 life.
 mana_cost: "{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

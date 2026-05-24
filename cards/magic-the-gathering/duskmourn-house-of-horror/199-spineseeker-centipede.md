@@ -49,6 +49,9 @@ art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/199-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/5/b50d697c-8358-429b-8f79-7ad9d01a5edd.jpg?1726286608
 oracle_text: When this creature enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nDelirium — This creature gets +1/+2 and has vigilance as long as there are four or more card types among cards in your graveyard.
 mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

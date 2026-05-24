@@ -40,7 +40,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: tetsuya koizumi
 flavor_text: It drives its opponents to exhaustion with its agile maneuvers, then ends the fight with a flashy finishing move.
-oracle_text: "Windfall (Colorless): Shuffle your hand into your deck. Then, draw 5 cards.\nSpeed Attack (Colorless) 30"
+oracle_text: "Windfall (Colorless): Shuffle your hand into your deck. Then, draw 5 cards.\\nSpeed Attack (Colorless) 30"
 image_width: 734
 image_height: 1024
 image_quality: high

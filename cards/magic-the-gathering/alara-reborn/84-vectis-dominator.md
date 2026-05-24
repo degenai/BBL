@@ -43,6 +43,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/c/1cfb7589-a53e-
 flavor_text: \"I appreciate the artistry of the telemins, but the creatures of the other worlds provide a much more dramatic performance.\"\n—Ennor, mentalist
 oracle_text: "{T}: Tap target creature unless its controller pays 2 life."
 mana_cost: "{1}{W}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

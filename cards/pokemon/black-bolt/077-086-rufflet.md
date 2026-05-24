@@ -29,15 +29,15 @@ tags_filter:
   - colorless-type
   - creature
   - flying
-reference_image: 
+reference_image: cards/_images/pokemon/black-bolt/077-086-rufflet.png
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-24
 date_added: 2026-05-14
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/zsv10pt5/77_hires.png
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 artist: Kedamahadaitai Yawarakai
 flavor_text: They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.
 oracle_text: Peck (Colorless) 10\nGlide (ColorlessColorless) 20

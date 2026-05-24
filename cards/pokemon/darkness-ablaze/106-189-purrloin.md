@@ -33,18 +33,18 @@ tags_filter:
   - indoor-scene
   - no-human
   - pokemon-stage-basic
-reference_image: 
+reference_image: cards/_images/pokemon/darkness-ablaze/106-189-purrloin.png
 average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh3/106_hires.png
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 artist: sowsow
 flavor_text: It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.
-oracle_text: Dig Claws (Darkness) 10
+oracle_text: "Dig Claws (Darkness) 10\\nFake Out (ColorlessColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
 Fake Out (ColorlessColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
 mood: other
 time_of_day: magic-hour

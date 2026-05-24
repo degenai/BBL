@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/c/8cbac0e4-f79f-
 flavor_text: Some who die senseless deaths return as formless spirits, seeking answers where there are none.
 oracle_text: Flying\nWhen this creature enters, return up to one target non-Spirit creature to its owner's hand.
 mana_cost: "{3}{U}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

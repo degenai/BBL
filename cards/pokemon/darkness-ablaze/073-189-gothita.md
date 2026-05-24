@@ -39,7 +39,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Mizue
 flavor_text: Though they're still only babies, there's psychic power stored in their ribbonlike feelers, and sometimes they use that power to fight.
-oracle_text: "Fortunate Eye (Psychic): Look at the top 5 cards of your opponent's deck and put them back in any order.\nGentle Slap (PsychicColorless) 30"
+oracle_text: "Fortunate Eye (Psychic): Look at the top 5 cards of your opponent's deck and put them back in any order.\\nGentle Slap (PsychicColorless) 30"
 mood: peaceful
 time_of_day: day
 setting: indoor

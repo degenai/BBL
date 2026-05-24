@@ -33,18 +33,18 @@ tags_filter:
   - stage-1-evolution
   - creature-only
   - creature-collector
-reference_image: 
+reference_image: cards/_images/pokemon/darkness-ablaze/085-189-dugtrio.png
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh3/85_hires.png
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 artist: Yukiko Baba
 flavor_text: A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.
-oracle_text: "Dig (Fighting) 30: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.\nMud Bomb (FightingColorless) 70"
+oracle_text: "Dig (Fighting) 30: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.\\nMud Bomb (FightingColorless) 70"
 mood: comedic
 time_of_day: indeterminate
 setting: desert

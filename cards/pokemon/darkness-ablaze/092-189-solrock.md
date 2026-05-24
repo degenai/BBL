@@ -42,7 +42,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Miki Tanaka
 flavor_text: When it rotates itself, it gives off light similar to the sun, thus blinding its foes.
-oracle_text: "[Ability: Resistance Shade] If you have Lunatone in play, your opponent's Pokémon in play have no Resistance.\nRock Throw (FightingColorless) 30"
+oracle_text: "[Ability: Resistance Shade] If you have Lunatone in play, your opponent's Pokémon in play have no Resistance.\\nRock Throw (FightingColorless) 30"
 mood: sublime
 time_of_day: day
 setting: desert

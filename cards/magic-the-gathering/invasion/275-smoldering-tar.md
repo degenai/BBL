@@ -43,6 +43,9 @@ art_crop_image: cards/_images/magic-the-gathering/invasion/275-smoldering-tar--a
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fcdc55c0-c8ac-49d5-969b-9bf0ee8e696c.jpg?1562946036
 oracle_text: "At the beginning of your upkeep, target player loses 1 life.\\nSacrifice this enchantment: It deals 4 damage to target creature. Activate only as a sorcery."
 mana_cost: "{2}{B}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

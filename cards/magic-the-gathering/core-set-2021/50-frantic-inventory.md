@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/f/8f14abb0-0e9f-
 flavor_text: \"Another village, another angry mob. Why do I even bother unpacking?\"
 oracle_text: Draw a card, then draw cards equal to the number of cards named Frantic Inventory in your graveyard.
 mana_cost: "{1}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

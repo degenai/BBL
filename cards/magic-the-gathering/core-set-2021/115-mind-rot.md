@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/3/833a8604-92d5-
 flavor_text: Many an inventor has collapsed under the pressure to create a flawless design.
 oracle_text: Target player discards two cards.
 mana_cost: "{2}{B}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

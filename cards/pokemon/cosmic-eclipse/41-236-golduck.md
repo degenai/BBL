@@ -41,7 +41,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Shigenori Negishi
 flavor_text: Even fast-swimming fish Pokémon can be disabled by Golduck. It brings them to a standstill and seizes them.
-oracle_text: Scratch (Colorless) 30
+oracle_text: "Scratch (Colorless) 30\\nEnergy Loop (WaterColorless) 80: Put an Energy attached to this Pokémon into your hand."
 Energy Loop (WaterColorless) 80: Put an Energy attached to this Pokémon into your hand.
 mood: action
 time_of_day: day

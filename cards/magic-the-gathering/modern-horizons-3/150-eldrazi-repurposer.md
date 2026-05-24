@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/7/37f79ba7-7b65-
 flavor_text: \"I almost admire their ability to avoid waste. Almost.\"\n—General Tazri, allied commander
 oracle_text: "Devoid (This card has no color.)\\nWhen you cast this spell and when this creature dies, create a 0/1 colorless Eldrazi Spawn creature token with \\\"Sacrifice this token: Add {C}.\\\""
 mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

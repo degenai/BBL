@@ -53,6 +53,9 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/5-ardenvale
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/7/c7d5e394-8e41-442e-ae97-a478a61e1b9d.jpg?1572489629
 flavor_text: In a castle that prizes loyalty above all, the bond between knight and griffin is unmatched.
 mana_cost: "{1}{W}{W} // {1}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

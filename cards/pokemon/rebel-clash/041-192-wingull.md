@@ -44,7 +44,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: 0313
 flavor_text: It makes its nest on sheer cliffs. Riding the sea breeze, it glides up into the expansive skies.
-oracle_text: "Collect (Colorless): Draw a card.\nWave Splash (WaterColorless) 20"
+oracle_text: "Collect (Colorless): Draw a card.\\nWave Splash (WaterColorless) 20"
 mood: peaceful
 time_of_day: day
 setting: ocean

@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/1/51216ab0-9806-
 flavor_text: The touch of its many hands is almost gentle, at first. But then the grip tightens, and the mandibles dig in.
 oracle_text: Reach\nWhen this creature enters, you may discard a card or pay {2}. When you do, destroy target Room.
 mana_cost: "{3}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

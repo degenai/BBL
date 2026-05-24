@@ -31,15 +31,15 @@ tags_filter:
   - colorless-type
   - pokemon-basic
   - creature-normal
-reference_image: 
+reference_image: cards/_images/pokemon/darkness-ablaze/135-189-sentret.png
 average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh3/135_hires.png
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 artist: Mina Nakai
 flavor_text: It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind.
 oracle_text: "Call for Family (Colorless): Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."

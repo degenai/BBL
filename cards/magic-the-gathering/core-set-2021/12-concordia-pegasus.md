@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/600d3517-e370-
 flavor_text: In the cloudy skies and dim light of autumn, a flash of white wings is a reminder that better times lie ahead.
 oracle_text: Flying
 mana_cost: "{1}{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

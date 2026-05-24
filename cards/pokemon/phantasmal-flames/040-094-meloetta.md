@@ -41,7 +41,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: MINAMINAMI Take
 flavor_text: Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.
-oracle_text: "Soothing Melody (Psychic): Heal 120 damage from 1 of your Benched Psychic Pokémon.\nMagical Shot (PsychicColorless) 50"
+oracle_text: "Soothing Melody (Psychic): Heal 120 damage from 1 of your Benched Psychic Pokémon.\\nMagical Shot (PsychicColorless) 50"
 image_width: 733
 image_height: 1024
 image_quality: high

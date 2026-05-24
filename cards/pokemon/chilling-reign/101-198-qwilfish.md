@@ -43,7 +43,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Anesaki Dynamic
 flavor_text: The small spikes covering its body developed from scales. They inject a toxin that causes fainting.
-oracle_text: "[Ability: Bursting Needles] If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, put 6 damage counters on the Attacking Pokémon.\nPoison Jab (ColorlessColorless) 30: Your opponent's Active Pokémon is now Poisoned."
+oracle_text: "[Ability: Bursting Needles] If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, put 6 damage counters on the Attacking Pokémon.\\nPoison Jab (ColorlessColorless) 30: Your opponent's Active Pokémon is now Poisoned."
 image_width: 868
 image_height: 1212
 image_quality: high

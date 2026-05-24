@@ -41,7 +41,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Mina Nakai
 flavor_text: It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.
-oracle_text: |-
+oracle_text: Seed Bomb (Grass) 10\nBite (ColorlessColorless) 20
   Seed Bomb (Grass) 10
   Bite (ColorlessColorless) 20
 mood: peaceful

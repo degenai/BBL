@@ -42,7 +42,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Hasuno
 flavor_text: Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.
-oracle_text: "[Ability: Limber] This Pokémon can't be Paralyzed.\nSlashing Claw (DarknessColorlessColorless) 90"
+oracle_text: "[Ability: Limber] This Pokémon can't be Paralyzed.\\nSlashing Claw (DarknessColorlessColorless) 90"
 image_width: 734
 image_height: 1024
 image_quality: high

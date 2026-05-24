@@ -51,6 +51,9 @@ art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/40-charmed-
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/1/f1f97d9e-650b-4b69-8733-d80c8e0f723f.jpg?1572489844
 oracle_text: Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.
 mana_cost: "{1}{U}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

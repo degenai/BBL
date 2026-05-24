@@ -44,7 +44,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Misa Tsutsui
 flavor_text: Living with a savage, seafaring people has toughened this Pokémon's body so much that parts of it have turned to iron.
-oracle_text: "[Ability: Evolution Roar] You must discard 2 cards from your hand in order to use this Ability. Once during your turn, you may search your deck for a Galarian Perrserker, reveal it, and put it into your hand. Then, shuffle your deck.\nScratch (MetalColorless) 20"
+oracle_text: "[Ability: Evolution Roar] You must discard 2 cards from your hand in order to use this Ability. Once during your turn, you may search your deck for a Galarian Perrserker, reveal it, and put it into your hand. Then, shuffle your deck.\\nScratch (MetalColorless) 20"
 mood: action
 time_of_day: indeterminate
 setting: other

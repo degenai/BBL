@@ -56,6 +56,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/c/5c23869b-c99a-
 flavor_text: \"My family was saved thanks to a single Boros soldier. It's why I joined the Legion. I will be the protector now.\"
 oracle_text: Target creature gets +1/+0 until end of turn.\nDraw a card.
 mana_cost: "{W}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

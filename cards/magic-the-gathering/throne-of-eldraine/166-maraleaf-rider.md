@@ -54,6 +54,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/b/1b2b198d-493c-
 flavor_text: They both hunger for battle.
 oracle_text: "Sacrifice a Food: Target creature blocks this creature this turn if able."
 mana_cost: "{1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

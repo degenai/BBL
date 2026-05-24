@@ -43,7 +43,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Saya Tsuruta
 flavor_text: A plan was recently announced to gather many Pikachu and make an electric power plant.
-oracle_text: Tail Whap (Colorless) 10
+oracle_text: "Tail Whap (Colorless) 10\\nThunder Shock (LightningColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
 Thunder Shock (LightningColorless) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
 mood: action
 time_of_day: indeterminate

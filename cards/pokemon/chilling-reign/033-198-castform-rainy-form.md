@@ -51,7 +51,7 @@ suspected_ip: Castform (Pokemon)
 ip_confidence: high
 ip_verified: true
 flavor_text: This is Castform's form when pelted by rain. In an experiment where it was placed in a shower, this Pokémon didn't change to this form.
-oracle_text: "[Ability: Weather Reading] If you have 8 or more Stadium cards in your discard pile, ignore all Energy in this Pokémon's attack costs.\nRainfall (WaterColorless): This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+oracle_text: "[Ability: Weather Reading] If you have 8 or more Stadium cards in your discard pile, ignore all Energy in this Pokémon's attack costs.\\nRainfall (WaterColorless): This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
 characters:
   - castform-forms-cycle
 image_width: 868

@@ -42,7 +42,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: miki kudo
 flavor_text: Legend has it that the residents of a sunken ancient city changed into these Pokémon.
-oracle_text: "Recover (Colorless): Discard an Energy from this Pokémon and heal all damage from it.\nRain Splash (Water) 10"
+oracle_text: "Recover (Colorless): Discard an Energy from this Pokémon and heal all damage from it.\\nRain Splash (Water) 10"
 image_width: 868
 image_height: 1212
 image_quality: high

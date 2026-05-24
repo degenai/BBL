@@ -50,6 +50,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/b/cb0e6279-8a66-
 flavor_text: Those who only believe themselves infected with lycanthropy can be as dangerous as those who really are.
 oracle_text: Enchant creature\nEnchanted creature gets +2/+2 and attacks each combat if able.
 mana_cost: "{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

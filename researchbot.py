@@ -230,7 +230,12 @@ def parse_frontmatter(text: str) -> dict:
         if ":" not in line:
             continue
         k, _, v = line.partition(":")
-        out[k.strip()] = v.strip()
+        v = v.strip()
+        # Strip matching surrounding quotes (csv2mdbot's yaml_safe_scalar wraps any
+        # value containing `: ` etc. in double quotes; comparisons fail without strip).
+        if len(v) >= 2 and ((v[0] == '"' and v[-1] == '"') or (v[0] == "'" and v[-1] == "'")):
+            v = v[1:-1]
+        out[k.strip()] = v
     return out
 
 

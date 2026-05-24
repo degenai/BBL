@@ -39,7 +39,7 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
 flavor_text: A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards it enemies.
-oracle_text: Wave Splash (WaterColorless) 30
+oracle_text: "Wave Splash (WaterColorless) 30\\nDisarming Voice (WaterWaterColorless) 50: Your opponent's Active Pokémon is now Confused."
 Disarming Voice (WaterWaterColorless) 50: Your opponent's Active Pokémon is now Confused.
 review_good: false
 review_bad: false

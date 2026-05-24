@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/9/393fc485-d3c1-
 flavor_text: \"I'll make ice chimes of your bones.\"
 oracle_text: Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
 mana_cost: "{2}{U}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

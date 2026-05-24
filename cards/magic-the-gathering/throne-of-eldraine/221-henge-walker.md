@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/9/9925f0bc-8685-
 flavor_text: Everything that inhabits Garenbrig is affected by the wild magic flowing through the Great Henge.
 oracle_text: Adamant — If at least three mana of the same color was spent to cast this spell, this creature enters with a +1/+1 counter on it.
 mana_cost: "{3}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

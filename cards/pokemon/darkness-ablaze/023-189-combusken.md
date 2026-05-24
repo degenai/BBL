@@ -39,7 +39,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: kodama
 flavor_text: During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power.
-oracle_text: Smash Kick (Fire) 20
+oracle_text: "Smash Kick (Fire) 20\\nHeat Beak (FireColorlessColorless) 40: Your opponent's Active Pokémon is now Burned."
 Heat Beak (FireColorlessColorless) 40: Your opponent's Active Pokémon is now Burned.
 mood: action
 time_of_day: indeterminate

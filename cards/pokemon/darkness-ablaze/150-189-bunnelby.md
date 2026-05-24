@@ -33,15 +33,15 @@ tags_filter:
   - colorless-energy
   - basic-pokemon
   - common-rarity
-reference_image: 
+reference_image: cards/_images/pokemon/darkness-ablaze/150-189-bunnelby.png
 average_cost_paid: 0
 market_price: 0.09
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh3/150_hires.png
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 artist: Tomokazu Komiya
 flavor_text: It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.
 oracle_text: "Mad Party (ColorlessColorless) 20×: This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack."

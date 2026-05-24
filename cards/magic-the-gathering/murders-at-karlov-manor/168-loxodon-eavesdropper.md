@@ -49,6 +49,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/b/bbbf8c3a-6c74-
 flavor_text: He's all ears.
 oracle_text: "When this creature enters, investigate. (Create a Clue token. It's an artifact with \\\"{2}, Sacrifice this token: Draw a card.\\\")\\nWhenever you draw your second card each turn, this creature gets +1/+1 and gains vigilance until end of turn."
 mana_cost: "{3}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

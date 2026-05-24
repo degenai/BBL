@@ -53,6 +53,9 @@ oracle_text: When this creature enters or dies, surveil 1. (Look at the top card
 mana_cost: "{1}{G}"
 characters:
   - valgavoth
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -41,7 +41,7 @@ reference_image_source_url: https://images.pokemontcg.io/swsh3/167_hires.png
 art_match_confidence: high
 needs_manual_review: false
 artist: 5ban Graphics
-oracle_text: |-
+oracle_text: Play this card as if it were a 70-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play.\nThis card can't be affected by any Special Conditions, and it can't retreat.\nYou may play any number of Item cards during your turn.
   Play this card as if it were a 70-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play.
   This card can't be affected by any Special Conditions, and it can't retreat.
   You may play any number of Item cards during your turn.

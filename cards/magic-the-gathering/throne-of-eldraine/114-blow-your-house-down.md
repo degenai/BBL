@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/0/c04b85e7-a401-
 flavor_text: \"You think these walls will protect you? My, you have a dim view of the power of the wilds.\"\n—Marawen, barrow witch
 oracle_text: Up to three target creatures can't block this turn. Destroy any of them that are Walls.
 mana_cost: "{2}{R}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

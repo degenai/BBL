@@ -28,15 +28,15 @@ tags_filter:
   - forward-facing
   - psychic-type
   - creature
-reference_image: 
+reference_image: cards/_images/pokemon/mega-evolution/067-132-gimmighoul.png
 average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-24
 date_added: 2026-05-14
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/me1/67_hires.png
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 oracle_text: Slap (Colorless) 10
 image_width: 733
 image_height: 1024

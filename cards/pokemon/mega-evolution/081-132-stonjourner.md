@@ -28,15 +28,15 @@ tags_filter:
   - action
   - fighting-type
   - pokemon-species
-reference_image: 
+reference_image: cards/_images/pokemon/mega-evolution/081-132-stonjourner.png
 average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-24
 date_added: 2026-05-19
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/me1/81_hires.png
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 oracle_text: "Stony Kick (Fighting) 20: This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)\\nBoundless Power (FightingFightingColorless) 140: During your next turn, this Pokémon can't use attacks."
 image_width: 733
 image_height: 1024

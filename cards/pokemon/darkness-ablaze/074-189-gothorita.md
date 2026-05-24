@@ -40,7 +40,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: sowsow
 flavor_text: It's said that when stars shine in the night sky, this Pokémon will spirit away sleeping children. Some call it the Witch of Punishment.
-oracle_text: "Whiny Voice (Psychic): Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into their deck.\nDouble Spin (PsychicColorless) 30×: Flip 2 coins. This attack does 30 damage for each heads."
+oracle_text: "Whiny Voice (Psychic): Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into their deck.\\nDouble Spin (PsychicColorless) 30×: Flip 2 coins. This attack does 30 damage for each heads."
 mood: grim
 time_of_day: twilight
 setting: mountain

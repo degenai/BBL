@@ -48,6 +48,7 @@ image_quality: high
 mood: action
 time_of_day: day
 setting: desert
+mana_cost: "{3}{W}"
 tags:
   - card
   - vision-passed

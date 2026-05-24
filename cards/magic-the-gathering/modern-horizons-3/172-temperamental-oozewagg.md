@@ -53,6 +53,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/6/6625df2e-7046-
 flavor_text: Its position on the food chain causes great confusion in everyone from hunters to other monsters.
 oracle_text: "{2}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)\\nModified creatures you control have trample. (Equipment, Auras you control, and counters are modifications.)"
 mana_cost: "{3}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

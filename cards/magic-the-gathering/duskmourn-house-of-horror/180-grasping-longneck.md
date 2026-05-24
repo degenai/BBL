@@ -51,6 +51,9 @@ mood: horror
 time_of_day: night
 setting: indoor
 mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

@@ -40,7 +40,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: KEIICHIRO ITO
 flavor_text: Its two sharp scythes are more than just weapons. It uses them with dexterity to dress its prey before eating.
-oracle_text: "Swords Dance (Colorless): During your next turn, this Pokémon's Blinding Scythe attack does 70 more damage (before applying Weakness and Resistance).\nBlinding Scythe (Colorless) 20"
+oracle_text: "Swords Dance (Colorless): During your next turn, this Pokémon's Blinding Scythe attack does 70 more damage (before applying Weakness and Resistance).\\nBlinding Scythe (Colorless) 20"
 mood: action
 time_of_day: day
 setting: other

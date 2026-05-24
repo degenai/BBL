@@ -34,11 +34,11 @@ market_price: 0.07
 market_price_as_of: 2026-05-24
 date_added: 2026-05-14
 last_seen: 2026-05-23
-reference_image_source_url: https://images.pokemontcg.io/ex3/3_hires.png
-art_match_confidence: low
-needs_manual_review: true
+reference_image_source_url: https://images.pokemontcg.io/me1/85_hires.png
+art_match_confidence: high
+needs_manual_review: false
 oracle_text: "Vise Grip (Colorless) 30\\nCutting Riposte (DarknessDarknessColorless) 130: If this Pokémon has any damage counters on it, this attack can be used for Darkness."
-image_width: 733
+image_width: 734
 image_height: 1024
 image_quality: high
 mood: action

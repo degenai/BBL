@@ -42,7 +42,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Miki Tanaka
 flavor_text: The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.
-oracle_text: "Mushroom Tackle (Grass) 30: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.\nSolar Beam (GrassGrassColorless) 110"
+oracle_text: "Mushroom Tackle (Grass) 30: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.\\nSolar Beam (GrassGrassColorless) 110"
 mood: other
 time_of_day: day
 setting: forest

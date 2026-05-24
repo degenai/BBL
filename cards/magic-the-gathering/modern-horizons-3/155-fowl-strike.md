@@ -51,6 +51,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/3/83b6c7ab-f42f-
 flavor_text: With a resounding wallop, the ancient battle between buzzard and druid was finally finished.
 oracle_text: "Destroy target creature with flying.\\nReinforce 2—{2}{G} ({2}{G}, Discard this card: Put two +1/+1 counters on target creature.)"
 mana_cost: "{1}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

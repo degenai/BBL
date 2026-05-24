@@ -45,7 +45,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: 0313
 flavor_text: When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.
-oracle_text: Flare (Fire) 30
+oracle_text: "Flare (Fire) 30\\nGiga Impact (ColorlessColorlessColorless) 110: During your next turn, this Pokémon can't attack."
 Giga Impact (ColorlessColorlessColorless) 110: During your next turn, this Pokémon can't attack.
 mood: cozy
 time_of_day: indeterminate

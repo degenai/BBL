@@ -31,15 +31,15 @@ tags_filter:
   - colorless-magic
   - common
   - basic-pokemon
-reference_image: 
+reference_image: cards/_images/pokemon/darkness-ablaze/151-189-fletchling.png
 average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh3/151_hires.png
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 artist: Midori Harada
 flavor_text: Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed.
 oracle_text: Tackle (Colorless) 20

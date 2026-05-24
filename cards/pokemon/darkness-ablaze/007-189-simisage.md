@@ -35,18 +35,18 @@ tags_filter:
   - grass-type
   - stage-1
   - pokemon-card
-reference_image: 
+reference_image: cards/_images/pokemon/darkness-ablaze/007-189-simisage.png
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh3/7_hires.png
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 artist: Hasegawa Saki
 flavor_text: Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.
-oracle_text: Seed Bomb (Grass) 30
+oracle_text: "Seed Bomb (Grass) 30\\nGiga Impact (ColorlessColorlessColorless) 110: During your next turn, this Pokémon can't attack."
 Giga Impact (ColorlessColorlessColorless) 110: During your next turn, this Pokémon can't attack.
 mood: action
 time_of_day: day

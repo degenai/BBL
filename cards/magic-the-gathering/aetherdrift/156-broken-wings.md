@@ -52,6 +52,9 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/d/1d7d5b71-7c1b-
 flavor_text: An early lead puts a target on your back.
 oracle_text: Destroy target artifact, enchantment, or creature with flying.
 mana_cost: "{2}{G}"
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed

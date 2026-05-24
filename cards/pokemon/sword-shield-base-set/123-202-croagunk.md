@@ -41,7 +41,7 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via pokemontcg for set 'Sword & Shield Base Set'
 flavor_text: It makes frightening noises with its poison-filled cheek sacs. When opponents flinch, Croagunk hits them with a poison jab.
-oracle_text: |-
+oracle_text: Stampede (Colorless) 10\nLunge Out (DarknessColorless) 30
   Stampede (Colorless) 10
   Lunge Out (DarknessColorless) 30
 review_good: false

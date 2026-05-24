@@ -27,15 +27,15 @@ tags_filter:
   - forward-facing
   - action-mode
   - creature-stage1
-reference_image: 
+reference_image: cards/_images/pokemon/mega-evolution/063-132-grumpig.png
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-24
 date_added: 2026-05-19
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/me1/63_hires.png
-art_match_confidence: none
-needs_manual_review: true
+art_match_confidence: high
+needs_manual_review: false
 oracle_text: "[Ability: Energized Steps] Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Look at the top 4 cards of your deck and attach any number of Basic Energy cards you find there to your Pokémon in any way you like. Shuffle the other cards back into your deck.\\nPsychic Sphere (PsychicColorlessColorless) 60"
 image_width: 733
 image_height: 1024

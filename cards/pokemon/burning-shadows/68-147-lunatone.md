@@ -41,7 +41,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Shin Nagasawa
 flavor_text: Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.
-oracle_text: "[Ability: Heal Block] If you have Solrock in play, Pokémon (both yours and your opponent's) can't be healed.\nLunar Blast (FightingColorless) 30"
+oracle_text: "[Ability: Heal Block] If you have Solrock in play, Pokémon (both yours and your opponent's) can't be healed.\\nLunar Blast (FightingColorless) 30"
 mood: sublime
 time_of_day: night
 setting: void

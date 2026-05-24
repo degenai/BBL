@@ -48,6 +48,9 @@ artist: Gabor Szikszai
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/249-witch-s-cottage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/8/b87891cd-b457-4dff-8d18-a7eaf6748fc6.jpg?1572491253
 oracle_text: "({T}: Add {B}.)\\nThis land enters tapped unless you control three or more other Swamps.\\nWhen this land enters untapped, you may put target creature card from your graveyard on top of your library."
+image_width: 745
+image_height: 1040
+image_quality: high
 tags:
   - card
   - vision-passed
