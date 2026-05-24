@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - gate
   - fortress
   - gold
@@ -21,7 +21,7 @@ tags_hub: []
   - Ravnica
   - monumental
   - stone
-tags_filter: []
+tags_filter:
   - wide
   - abstract
   - no-face

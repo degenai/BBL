@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 characters:
   - endriders
-tags_hub: []
+tags_hub:
   - sunset
   - desert
   - canyon
@@ -25,7 +25,7 @@ tags_hub: []
   - wasteland
   - speed
   - cliffs
-tags_filter: []
+tags_filter:
   - wide-shot
   - scene-mode
   - no-figures

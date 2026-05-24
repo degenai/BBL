@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - lantern
   - light
   - artifact-object
@@ -23,7 +23,7 @@ tags_hub: []
   - gemstones
   - still-life
   - heraldry
-tags_filter: []
+tags_filter:
   - no-figure
   - no-face
   - object-only

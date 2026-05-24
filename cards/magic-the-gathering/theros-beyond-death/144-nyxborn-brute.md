@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - cyclops
   - giant
   - one-eyed
@@ -24,7 +24,7 @@ tags_hub: []
   - greek-myth
   - monster
   - nyx
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - three-quarter

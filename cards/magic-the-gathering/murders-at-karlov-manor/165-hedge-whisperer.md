@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - druid
   - nature-magic
   - hedge
@@ -23,7 +23,7 @@ tags_hub: []
   - green
   - investigator
   - spy
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - three-quarter

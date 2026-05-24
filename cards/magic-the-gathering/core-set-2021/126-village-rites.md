@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - ritual
   - sacrifice
   - cult
@@ -23,7 +23,7 @@ tags_hub: []
   - offering
   - crowd-gathering
   - occult
-tags_filter: []
+tags_filter:
   - group
   - mid-shot
   - forward-facing

@@ -10,6 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+symbols:
+  - energy
 tags_hub:
   - vehicle
   - steampunk

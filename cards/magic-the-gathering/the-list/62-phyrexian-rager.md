@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 characters:
   - phyrexia
-tags_hub: []
+tags_hub:
   - phyrexian
   - horror
   - skeleton
@@ -25,7 +25,7 @@ tags_hub: []
   - ribcage
   - biomechanical
   - predator
-tags_filter: []
+tags_filter:
   - solo
   - forward-facing
   - mid-shot

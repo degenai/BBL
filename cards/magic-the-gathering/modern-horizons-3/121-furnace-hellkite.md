@@ -13,7 +13,7 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: []
+tags_hub:
   - dragon
   - fire
   - attack
@@ -23,7 +23,7 @@ tags_hub: []
   - ferocity
   - furnace
   - power
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - forward-facing

@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - swamp
   - bog
   - marsh
@@ -25,7 +25,7 @@ tags_hub: []
   - twilight
   - greek-myth
   - theros
-tags_filter: []
+tags_filter:
   - basic-land
   - swamp-land
   - black-magic

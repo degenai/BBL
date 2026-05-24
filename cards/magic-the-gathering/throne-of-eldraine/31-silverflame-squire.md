@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - knight
   - squire
   - sword
@@ -23,7 +23,7 @@ tags_hub: []
   - mist
   - valor
   - fairy-tale
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - forward-facing

@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - market
   - fashion
   - aristocrat
@@ -22,7 +22,7 @@ tags_hub: []
   - nobility
   - charisma
   - disruption
-tags_filter: []
+tags_filter:
   - solo-focus
   - mid-shot
   - scene-mode

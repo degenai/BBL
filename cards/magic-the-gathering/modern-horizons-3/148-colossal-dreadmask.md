@@ -10,6 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+symbols:
+  - energy
 tags_hub:
   - monster
   - horror
@@ -76,3 +78,15 @@ The image is an extreme close-up of a massive alien or Eldrazi-adjacent creature
 **Creatures:** alien horror, eldrazi-adjacent creature, chitinous monster
 **Genre cues:** fantasy, cosmic horror, eldrazi
 
+## Trivia
+
+- **Set context / design callback** -- Colossal Dreadmask is a deliberate design callback to Colossal Dreadmaw, the beloved vanilla 6/6 green dinosaur with trample that first appeared in Ixalan (2017) and became a meme for its quintessential green-creature simplicity. Dreadmask gives any creature "the chance to be a Colossal Dreadmaw for the day" as one preview outlet put it, costing the same {4}{G}{G} as the original and granting the same +6/+6 and trample `[Dexerto: "Modern Horizons 3's Colossal Dreadmask turns iconic Creature into Equipment"; Scryfall: mana_cost, oracle_text]`.
+- **Flavor text** -- "No legs to quake, no lungs to bellow, but if you see its teeth, it's still too late." `[Scryfall: flavor_text]`
+- **Mechanical design: Living weapon** -- Living weapon first appeared in Mirrodin Besieged (2011), designed to represent the Phyrexian invasion flavor: the weapon creates its own 0/0 Phyrexian Germ bearer on entry. In MH3, the mechanic returns in a distinctly non-Phyrexian context -- attached to what reads as an Eldrazi-adjacent horror rather than a Phyrexian corruption, which represents an unusual flavor application of the mechanic `[Draftsim: "All 19 Living Weapon Cards in Magic Ranked"; Scryfall: oracle_text]`.
+- **Community sentiment** -- A Dexerto community roundup quotes one Reddit user: "I love how WotC has embraced the Colossal Dreadmaw meme," and another suggesting "Equipping this to a Dreadmaw would be peak Magic" -- capturing the card's reception as a knowing wink rather than a straight power design. Draftsim's living weapon ranking places Dreadmask at no. 10 of 19 living weapon cards, describing it as a "meme card" with limited practical applications outside niche commanders like Galea, Kindler of Hope `[Dexerto: "Modern Horizons 3's Colossal Dreadmask turns iconic Creature into Equipment"; Draftsim: "All 19 Living Weapon Cards in Magic Ranked"]`.
+
+### Related cards
+- Colossal Dreadmaw (Rivals of Ixalan / core sets) -- the direct callback subject; vanilla 6/6 green dinosaur with trample at {4}{G}{G}
+- Galea, Kindler of Hope (Adventures in the Forgotten Realms Commander) -- cited by Draftsim as one of the few Commanders where Dreadmask is genuinely playable
+- Kaldra Compleat (Modern Horizons 2, 27) -- the prestige living weapon; comparison point for how MH3 brings back the mechanic at lower power
+- Nettlecyst (Modern Horizons 2, 213) -- common living weapon comparison; the most-played living weapon per EDHREC

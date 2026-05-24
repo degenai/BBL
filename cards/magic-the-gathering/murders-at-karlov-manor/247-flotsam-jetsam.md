@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - water
   - drowning
   - underwater
@@ -23,7 +23,7 @@ tags_hub: []
   - river
   - night-water
   - investigation
-tags_filter: []
+tags_filter:
   - split-card
   - duo
   - scene-mode

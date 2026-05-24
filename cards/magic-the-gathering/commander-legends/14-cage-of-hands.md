@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - hands
   - grasping-hands
   - swarm
@@ -23,7 +23,7 @@ tags_hub: []
   - judgment
   - claws
   - mob
-tags_filter: []
+tags_filter:
   - enchantment
   - aura
   - white-magic

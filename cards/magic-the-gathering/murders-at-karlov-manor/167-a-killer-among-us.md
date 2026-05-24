@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - murder
   - mystery
   - accusation
@@ -22,7 +22,7 @@ tags_hub: []
   - suspects
   - confrontation
   - whodunit
-tags_filter: []
+tags_filter:
   - group
   - wide
   - scene-mode

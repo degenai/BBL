@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - drake
   - dragon
   - flight
@@ -22,7 +22,7 @@ tags_hub: []
   - metalwork
   - sky
   - clouds
-tags_filter: []
+tags_filter:
   - solo
   - wide-shot
   - scene-mode

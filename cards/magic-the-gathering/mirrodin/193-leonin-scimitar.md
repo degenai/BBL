@@ -76,3 +76,16 @@ A single curved scimitar floats centered against a flat, near-black background. 
 **Iconography:** lion-motif, curved-blade
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** — Leonin Scimitar was printed in Mirrodin (released October 2, 2003), the set that introduced the Equipment mechanic to Magic: The Gathering. Mark Rosewater, Mirrodin's lead designer, described Equipment as solving the long-standing design problem of how a creature could wield a weapon that persists after death -- unlike Aura enchantments, Equipment stays on the battlefield when its bearer is destroyed `[Scryfall: Mirrodin set; MTG Wiki: Equipment, via WebSearch snippet]`.
+- **Design / artist** -- Illustrated by Doug Chaffee, who was a prolific Magic artist active primarily from 1993 through the mid-2000s. Chaffee passed away in 2011. A retrospective at CoolStuffInc notes he specialized in equipment and object portraiture with dynamic composition, calling Leonin Scimitar one of the examples of his strengths in that genre `[CoolStuffInc: "The Art of Doug Chaffee"]`.
+- **Lore context** -- The Leonin are the lion-people of Mirrodin's Razor Fields, led by their warrior chief the Kha from the capital city Taj Nar. Their specialist craftspeople, known as "edgewrights," forged the weapons of the leonin warrior caste -- placing a scimitar styled with leonine motifs squarely within that craft tradition `[MTG Salvation Forums: "Origins of the Races of Mirrodin", via WebSearch snippet]`.
+- **Reprint history** -- Has been reprinted five times beyond the Mirrodin original: Tenth Edition (2007), Salvat 2011, Jumpstart 2022, and Foundations Jumpstart (November 2024) -- making it one of the most-reprinted common Equipments from the original Mirrodin block `[Scryfall: all printings of Leonin Scimitar]`.
+- **Mechanical reputation** -- At {1} to cast and {1} to equip for +1/+1, Leonin Scimitar is legal in Pauper and appears as a budget filler in equipment-synergy decks. EDHREC lists it in roughly 1,590 Commander decks, with top commanders including Kemba, Kha Regent and Sram, Senior Edificer -- but at 0.02% inclusion it is considered a low-priority slot even in equipment strategies `[EDHREC: Leonin Scimitar card page, via WebSearch snippet]`.
+
+### Related cards
+- Kemba, Kha Regent (Scars of Mirrodin, 8) -- top Commander for Equipment synergy; Kemba is also Leonin, tying the racial lore directly to the card's object
+- Sram, Senior Edificer (Aether Revolt, 27) -- the other dominant Equipment commander per EDHREC, frequently runs Leonin Scimitar as cheap equip trigger
+- Leonin Shikari (Mirrodin, 10) -- same set, same race; allows equipping at instant speed, directly synergizes with Leonin Scimitar
+- Puresteel Paladin (New Phyrexia, 18) -- the definitive Equipment-chain enabler; Leonin Scimitar is a 0-equip-cost trigger in Paladin decks with metalcraft active

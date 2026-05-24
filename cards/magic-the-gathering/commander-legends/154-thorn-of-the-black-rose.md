@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - assassin
   - rogue
   - leather-armor
@@ -22,7 +22,7 @@ tags_hub: []
   - noir
   - dark-fantasy
   - conspirator
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - portrait-mode

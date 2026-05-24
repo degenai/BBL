@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - knight
   - warrior
   - hammer
@@ -23,7 +23,7 @@ tags_hub: []
   - fairy-tale
   - strength
   - combat
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - action-mode

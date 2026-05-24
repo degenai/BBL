@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - wings
+  - corruption
+  - surrender
+  - embrace
+  - chains
+  - horror
+  - villain
+  - darkness
+  - ritual
+  - symmetry
+  - transformation
+  - gothic
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait
+  - black-magic
+  - instant
+  - no-face-obscured
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/101-give-in-to-violence.png
 average_cost_paid: 0
 market_price: 0.14
@@ -30,6 +49,28 @@ mana_cost: "{1}{B}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: void
 ---
 
 # Give In to Violence (Duskmourn: House of Horror)
+
+## Vision
+
+![101-give-in-to-violence](../../_images/magic-the-gathering/duskmourn-house-of-horror/101-give-in-to-violence.png)
+
+A figure in casual clothing stands centered with arms open wide in a posture of surrender or embrace. On either side, enormous dark feathered wings curl inward like claws, their tips bristling with jagged points. The background is a saturated crimson-magenta wash with ornate decorative framing elements. Chains hang from the wing joints on each side. The overall composition is symmetrical and confrontational, rendered in a bold graphic style with heavy ink lines and flat saturated color. The figure's face shows a slight smile or smirk, suggesting complicity rather than fear.
+
+**Subject:** A humanoid figure standing with arms spread wide, flanked by massive dark feathered wings curling inward from both sides, chains visible at the wing edges
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** void, indeterminate
+**Foreground:** Humanoid figure in casual clothing, arms spread wide  *(palette: magenta, dark-red, black, purple)*
+**Background:** Symmetrical dark wings curling inward, crimson wash background, chains, ornate border elements  *(palette: crimson, deep-red, magenta, black)*
+**Mood / lighting:** horror, rim
+**Emotion read:** smirk or slight smile — complicity, surrender, dark invitation
+**Objects:** chains
+**Iconography:** wings, chains, symmetrical-framing
+**Genre cues:** horror, fantasy, gothic
+

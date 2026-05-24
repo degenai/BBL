@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - forest
   - wood
   - carving
@@ -23,7 +23,7 @@ tags_hub: []
   - nature
   - artifact-object
   - offering
-tags_filter: []
+tags_filter:
   - no-figures
   - no-face
   - mid-shot

@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - fountain
   - ruins
   - jungle
@@ -23,7 +23,7 @@ tags_hub: []
   - sacred-site
   - overgrown
   - no-figures
-tags_filter: []
+tags_filter:
   - scene-mode
   - wide-shot
   - no-face

@@ -1,0 +1,49 @@
+{
+  "card_name": "Unstable Amulet",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "142",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "From Modern Horizons 3 (June 14, 2024). Previewed May 23, 2024 by Adam The Gathering on Twitter before official spoiler season.",
+      "sources": ["Scryfall: preview field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The second ability (1 damage to each opponent whenever you cast from anywhere other than hand) creates passive punishment for flashback, cascade, and exile-play strategies -- unusual for a common-rarity design tier artifact.",
+      "sources": ["Scryfall: oracle_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Energy-cycle flag: Unstable Amulet's {E}{E} ETB pairs directly with Aether Revolt (MH3), which pings when you gain energy counters. Alongside Inventor's Axe (MH3 126), it forms a two-card energy-artifact cluster in inventory from the same set.",
+      "sources": ["Scryfall: all_parts (combo piece: Energy Reserve MH3)", "Draftsim: MH3 Limited Set Review"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 4,016 -- most popular card in this batch. Approximately 34,725 Commander decks. 35% inclusion rate in Loot, the Key to Everything storm-adjacent Commander builds. Not Pauper-legal.",
+      "sources": ["EDHREC: Unstable Amulet card page, via WebSearch snippet", "Scryfall: legalities, edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Inventor's Axe", "set": "Modern Horizons 3", "note": "Same {E}{E}-on-entry pattern, same red artifact type; energy-lair co-member"},
+    {"name": "Aether Revolt", "set": "Modern Horizons 3", "note": "Scryfall combo piece; pings whenever Unstable Amulet generates energy counters"},
+    {"name": "Energy Reserve", "set": "Modern Horizons 3", "note": "Scryfall-listed combo piece; energy redistribution engine"},
+    {"name": "Loot, the Key to Everything", "set": "Modern Horizons 3", "note": "Primary Commander home at 35% inclusion rate per EDHREC"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": {
+    "collector_number_missing": false,
+    "mana_cost_present": true,
+    "color_magic_tag_present": false,
+    "color_magic_tag_note": "tags_filter is absent from this card's frontmatter entirely -- no red-magic or artifact tag in filter layer; may need janitor pass to add tags_filter block",
+    "edgelord_flag": "Unstable Amulet is the highest-EDHREC-rank card in this batch (4,016). Together with Inventor's Axe (MH3 126) and Colossal Dreadmask (MH3 148) forms a 3-card MH3 artifact cluster with energy and equipment overlap -- strongest substrate candidate for an MH3 energy lair."
+  }
+}

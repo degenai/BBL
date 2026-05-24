@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - elf
   - survivor
   - camera
@@ -23,7 +23,7 @@ tags_hub: []
   - wilderness
   - fugitive
   - documentation
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - three-quarter

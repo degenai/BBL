@@ -13,7 +13,7 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
-tags_hub: []
+tags_hub:
   - eldrazi
   - worship
   - idol
@@ -26,7 +26,7 @@ tags_hub: []
   - horror
   - false-god
   - cosmic
-tags_filter: []
+tags_filter:
   - crowd
   - wide
   - scene-mode

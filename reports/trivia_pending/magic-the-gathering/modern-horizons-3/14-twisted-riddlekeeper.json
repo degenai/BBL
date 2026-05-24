@@ -1,0 +1,49 @@
+{
+  "card_name": "Twisted Riddlekeeper",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "14",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "suspected_ip field is empty string; ip_verified: false was a stale default. No IP flag to resolve.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "From Modern Horizons 3 (June 14, 2024), where Eldrazi return as a major mechanical force with a new Emerge cycle. Eldrazi are distributed across all colors with colorless-hybrid mana costs.",
+      "sources": ["Scryfall: MH3 set", "Scryfall: oracle_text"]
+    },
+    {
+      "category": "design",
+      "text": "Type line is 'Creature -- Eldrazi Sphinx,' a rare compound type fusing two distinct MTG lineages. The combination implies a Sphinx whose nature has been subsumed by Eldrazi corruption, supported by both the card name and the art's maze-guardian imagery.",
+      "sources": ["Scryfall: type_line"]
+    },
+    {
+      "category": "mechanical",
+      "text": "8-cost (emerge {5}{C}{U}) 5/5 flier. Cast trigger puts stun counters on up to two permanents; a stun counter delays untapping by one full rotation, making it a genuine two-permanent tempo hit on entry.",
+      "sources": ["Scryfall: oracle_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC: approximately 1,770 Commander decks, rank 18,935 -- fringe inclusion. Eldrazi-tribal and Emerge-strategy commanders are primary homes. Not legal in Pauper.",
+      "sources": ["EDHREC: Twisted Riddlekeeper card page, via WebSearch snippet", "Scryfall: legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vexing Scuttler", "set": "Eldritch Moon", "note": "Established Emerge Eldrazi; common deckmate in Emerge strategies"},
+    {"name": "Elder Deep-Fiend", "set": "Eldritch Moon", "note": "Iconic Emerge threat; baseline comparison for Riddlekeeper's disruption value"},
+    {"name": "Wretched Gryff", "set": "Eldritch Moon", "note": "Pauper-era Emerge finisher; same sacrifice-to-reduce mechanic"},
+    {"name": "Riddlekeeper", "set": "Return to Ravnica", "note": "Shares the name root; sphinx-adjacent labyrinth guardian in Dimir guild -- thematic parallel"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": {
+    "collector_number_missing": false,
+    "mana_cost_present": true,
+    "color_magic_tag_present": false,
+    "color_magic_tag_note": "Card is colorless (Eldrazi) with blue color identity; multicolor-blue-colorless is in tags_filter which is correct per BBL convention",
+    "ip_verified_stale_note": "ip_verified: false in frontmatter but suspected_ip is empty string -- no actual IP to verify; field is a stale default, recommend janitor pass to flip ip_verified: true as a resolved no-op"
+  }
+}

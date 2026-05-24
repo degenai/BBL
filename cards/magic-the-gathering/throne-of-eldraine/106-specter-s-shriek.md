@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - scream
   - agony
   - torment
@@ -23,7 +23,7 @@ tags_hub: []
   - gothic
   - ritual
   - shadow
-tags_filter: []
+tags_filter:
   - solo
   - close-up
   - forward-facing

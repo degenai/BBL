@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - rat
+  - vermin
+  - night
+  - darkness
+  - omen
+  - animal
+  - horror
+  - predator
+  - stillness
+  - cracked-earth
+  - glowing-eyes
+  - sinister
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - portrait
+  - black-magic
+  - creature-rat
+  - no-humanoid
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/103-innocuous-rat.png
 average_cost_paid: 0
 market_price: 0.24
@@ -29,6 +48,29 @@ mana_cost: "{1}{B}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: night
+setting: dungeon
 ---
 
 # Innocuous Rat (Duskmourn: House of Horror)
+
+## Vision
+
+![103-innocuous-rat](../../_images/magic-the-gathering/duskmourn-house-of-horror/103-innocuous-rat.png)
+
+A large grey rat dominates the foreground, body low and pressed close to the cracked stone or tile surface below it. Its white-clawed front paws are splayed forward and it looks directly at the viewer. The background is dark and atmospheric — a tangle of bare black branches rises behind it, and two or three glowing red orbs hang in the upper middle distance. The palette is cool and desaturated except for those blood-red accents. The painting style is realistic and detailed on the rat itself, with a loose impressionistic quality in the background. The rat reads as mundane yet sinister given the environment.
+
+**Subject:** A large grey rat crouching low on a cracked stone floor, facing forward, set against a dark background of bare branches and red glowing orbs
+
+**Composition:** close-up, portrait, figures: solo, facing: forward
+**Setting:** dungeon, ruined, night
+**Foreground:** Large grey rat crouching on cracked stone, white claws visible  *(palette: slate-grey, white, dark-blue)*
+**Background:** Bare black branches, glowing red orbs, dark stone ground, standing water  *(palette: black, dark-grey, deep-red, charcoal)*
+**Mood / lighting:** horror, ambient
+**Emotion read:** alert, watchful, still — the calm before a threat
+**Objects:** cracked-stone-floor, standing-water
+**Creatures:** rat
+**Iconography:** red-orbs, bare-branches
+**Genre cues:** horror, fantasy, dark-fantasy
+

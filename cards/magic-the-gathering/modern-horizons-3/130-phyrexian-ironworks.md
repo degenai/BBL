@@ -15,6 +15,8 @@ ip_confidence: none
 ip_verified: false
 characters:
   - phyrexia
+symbols:
+  - energy
 tags_hub:
   - phyrexia
   - machinery

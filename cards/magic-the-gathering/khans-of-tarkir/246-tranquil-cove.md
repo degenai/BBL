@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - ocean
   - beach
   - coast
@@ -27,7 +27,7 @@ tags_hub: []
   - tranquil
   - rocks
   - tidepool
-tags_filter: []
+tags_filter:
   - land
   - no-face
   - no-figure

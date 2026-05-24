@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - construct
   - clockwork
   - spider
@@ -23,7 +23,7 @@ tags_hub: []
   - salvage
   - automaton
   - small-versus-large
-tags_filter: []
+tags_filter:
   - duo
   - mid-shot
   - three-quarter-facing

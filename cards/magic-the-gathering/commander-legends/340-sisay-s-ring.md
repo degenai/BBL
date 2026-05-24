@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - hands
   - map
   - ring
@@ -23,7 +23,7 @@ tags_hub: []
   - parchment
   - treasure
   - gold
-tags_filter: []
+tags_filter:
   - no-face
   - group
   - close-up

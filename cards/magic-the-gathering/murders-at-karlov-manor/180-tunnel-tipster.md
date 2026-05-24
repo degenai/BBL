@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - mole
   - burrow
   - tunnel
@@ -23,7 +23,7 @@ tags_hub: []
   - spy
   - moss
   - rodent
-tags_filter: []
+tags_filter:
   - solo
   - close-up
   - forward-facing

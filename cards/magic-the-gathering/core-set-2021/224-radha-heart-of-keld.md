@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - elf
   - warrior
   - dual-wielding
@@ -23,7 +23,7 @@ tags_hub: []
   - wilderness
   - rage
   - ranger
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - forward-facing

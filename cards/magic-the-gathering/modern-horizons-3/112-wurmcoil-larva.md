@@ -15,7 +15,7 @@ ip_confidence: none
 ip_verified: false
 characters:
   - phyrexia
-tags_hub: []
+tags_hub:
   - wurm
   - phyrexia
   - monster
@@ -25,7 +25,7 @@ tags_hub: []
   - corruption
   - horror
   - serpent
-tags_filter: []
+tags_filter:
   - duo
   - wide
   - scene-mode

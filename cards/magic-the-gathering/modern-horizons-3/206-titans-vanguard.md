@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - eldrazi
   - ruins
   - golem
@@ -23,7 +23,7 @@ tags_hub: []
   - temple
   - siege
   - predator
-tags_filter: []
+tags_filter:
   - duo
   - wide
   - scene-mode

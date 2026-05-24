@@ -15,7 +15,7 @@ ip_confidence: none
 ip_verified: false
 characters:
   - orzhov-syndicate
-tags_hub: []
+tags_hub:
   - gold
   - wealth
   - coin
@@ -28,7 +28,7 @@ tags_hub: []
   - labor
   - extraction
   - tithe
-tags_filter: []
+tags_filter:
   - duo
   - wide
   - scene-mode

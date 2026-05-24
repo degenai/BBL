@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - betrayal
   - music
   - headphones
@@ -27,7 +27,7 @@ tags_hub: []
   - moths
   - crown
   - survivor
-tags_filter: []
+tags_filter:
   - group
   - mid-shot
   - narrative-mode

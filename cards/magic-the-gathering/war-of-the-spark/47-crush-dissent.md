@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - soldier
   - armor
   - authority
@@ -23,7 +23,7 @@ tags_hub: []
   - imperial
   - coercion
   - duel
-tags_filter: []
+tags_filter:
   - duo
   - close-up
   - action

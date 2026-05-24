@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - merfolk
   - mutant
   - wings
@@ -22,7 +22,7 @@ tags_hub: []
   - ascension
   - ocean-creature
   - dragonfly
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - forward-facing

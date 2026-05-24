@@ -242,7 +242,20 @@ def parse_frontmatter(text: str) -> dict:
 
 def update_frontmatter_field(text: str, field: str, value: str) -> str:
     """Replace existing field or insert before closing `---`."""
-    pattern = rf"^{re.escape(field)}:.*$"
+    # For BLOCK_LIST_FIELDS, the pattern must also consume any contiguous block-form
+    # items below the matched line. Without this, re-writing `tags_hub: ["a","b"]` on
+    # a card that previously had `tags_hub:\n  - x\n  - y` leaves the block items as
+    # orphans (the wave-181/183 YAML-orphan-items bug). The fix is to make the regex
+    # for block-list fields swallow the orphan items in the same match.
+    try:
+        from bbl_schema import BLOCK_LIST_FIELDS  # type: ignore
+        is_block_list = field in BLOCK_LIST_FIELDS
+    except ImportError:
+        is_block_list = False
+    if is_block_list:
+        pattern = rf"^{re.escape(field)}:[^\n]*(?:\n[ \t]+-[^\n]*)*"
+    else:
+        pattern = rf"^{re.escape(field)}:.*$"
     # Use callable replacement: re.sub interprets backslash escapes in a string
     # replacement (so a value containing literal `\n` from _flatten_for_frontmatter
     # would get expanded to a real newline and break YAML). A callable bypasses

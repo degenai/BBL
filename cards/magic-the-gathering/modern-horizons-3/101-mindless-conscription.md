@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - zombie
   - undead
   - horde
@@ -22,7 +22,7 @@ tags_hub: []
   - conscription
   - dread
   - apocalypse
-tags_filter: []
+tags_filter:
   - crowd
   - wide
   - scene-mode

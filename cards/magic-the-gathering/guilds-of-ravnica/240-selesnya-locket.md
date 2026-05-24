@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - jewelry
   - locket
   - treasure
@@ -23,7 +23,7 @@ tags_hub: []
   - selesnya
   - guild-mark
   - still-life
-tags_filter: []
+tags_filter:
   - artifact
   - no-figure
   - close-up

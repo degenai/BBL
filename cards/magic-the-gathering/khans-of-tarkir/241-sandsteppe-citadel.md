@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - citadel
   - desert
   - fortress
@@ -23,7 +23,7 @@ tags_hub: []
   - sunlight
   - monument
   - stronghold
-tags_filter: []
+tags_filter:
   - land
   - tri-color-white-black-green
   - abzan

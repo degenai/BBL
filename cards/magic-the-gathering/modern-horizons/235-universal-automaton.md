@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - automaton
   - construct
   - robot
@@ -22,7 +22,7 @@ tags_hub: []
   - shapeshifter
   - alchemy
   - arcane-technology
-tags_filter: []
+tags_filter:
   - duo
   - 2-figures
   - mid-shot

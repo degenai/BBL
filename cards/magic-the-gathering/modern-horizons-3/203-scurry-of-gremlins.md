@@ -13,6 +13,8 @@ bundles: []
 suspected_ip: ""
 ip_confidence: none
 ip_verified: false
+symbols:
+  - energy
 tags_hub:
   - gremlin
   - swarm

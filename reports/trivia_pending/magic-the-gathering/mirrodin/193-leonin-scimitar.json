@@ -1,0 +1,54 @@
+{
+  "card_name": "Leonin Scimitar",
+  "game": "Magic: The Gathering",
+  "set": "Mirrodin",
+  "collector_number": "193",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Leonin Scimitar was printed in Mirrodin (released October 2, 2003), the set that introduced the Equipment mechanic to Magic. MRD lead designer Mark Rosewater described Equipment as solving the long-standing design problem of how a creature could wield a weapon that persists after its death -- unlike Auras, Equipment stays on the battlefield when its bearer is destroyed.",
+      "sources": ["Scryfall: Mirrodin set", "MTG Wiki: Equipment, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Doug Chaffee, who passed away in 2011. A CoolStuffInc retrospective by Vorthos Mike notes Chaffee specialized in equipment and object portraiture with dynamic composition, citing Leonin Scimitar as an example of his strength in that genre.",
+      "sources": ["CoolStuffInc: 'The Art of Doug Chaffee'", "Scryfall: artist field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Leonin are the lion-people of Mirrodin's Razor Fields; their specialist craftspeople called 'edgewrights' forged the weapons of the leonin warrior caste, placing a scimitar with leonine motifs directly in that craft tradition.",
+      "sources": ["MTG Salvation Forums: 'Origins of the Races of Mirrodin', via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Has been reprinted 5 times beyond the Mirrodin original: Tenth Edition (2007), Salvat 2011, Jumpstart 2022, and Foundations Jumpstart (2024) -- one of the most frequently reprinted common Equipments from the original Mirrodin block.",
+      "sources": ["Scryfall: all printings search"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC lists Leonin Scimitar in roughly 1,590 Commander decks at 0.02% inclusion, primarily under Kemba Kha Regent and Sram Senior Edificer. Legal in Pauper. Considered a budget filler slot even in dedicated equipment strategies.",
+      "sources": ["EDHREC: Leonin Scimitar card page, via WebSearch snippet", "Scryfall: legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kemba, Kha Regent", "set": "Scars of Mirrodin", "note": "Top Equipment commander on EDHREC; also Leonin, tying racial lore to the card"},
+    {"name": "Sram, Senior Edificer", "set": "Aether Revolt", "note": "Other dominant Equipment commander; frequently runs Leonin Scimitar as cheap equip trigger"},
+    {"name": "Leonin Shikari", "set": "Mirrodin", "note": "Same set, same race; allows equipping at instant speed, direct synergy"},
+    {"name": "Puresteel Paladin", "set": "New Phyrexia", "note": "Definitive Equipment-chain enabler; Leonin Scimitar is a free-equip trigger with metalcraft active"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": {
+    "collector_number_missing": true,
+    "collector_number_correct_value": "193",
+    "mana_cost_present": true,
+    "color_magic_tag_present": false,
+    "color_magic_tag_note": "Card is colorless (artifact) -- colorless-magic is in tags_filter which is correct per BBL convention"
+  }
+}

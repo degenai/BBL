@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - warrior
   - soldier
   - spear
@@ -25,7 +25,7 @@ tags_hub: []
   - greek-myth
   - classical-antiquity
   - lone-figure
-tags_filter: []
+tags_filter:
   - solo
   - wide-shot
   - scene-mode

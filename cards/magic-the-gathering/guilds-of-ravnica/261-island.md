@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - cityscape
   - skyline
   - gothic
@@ -23,7 +23,7 @@ tags_hub: []
   - haze
   - no-figures
   - architecture
-tags_filter: []
+tags_filter:
   - wide-shot
   - scene-mode
   - no-face

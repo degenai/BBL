@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - haunted-house
   - staircase
   - liminal-space
@@ -23,7 +23,7 @@ tags_hub: []
   - the-house
   - impossible-architecture
   - twilight-realm
-tags_filter: []
+tags_filter:
   - no-figures
   - wide-shot
   - scene-mode

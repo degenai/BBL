@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - standing-stone
   - menhir
   - runes
@@ -24,7 +24,7 @@ tags_hub: []
   - investigation
   - ancient-magic
   - monolith
-tags_filter: []
+tags_filter:
   - no-figure
   - scene-mode
   - mid-shot

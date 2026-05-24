@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - fire
   - explosion
   - resurrection
@@ -22,7 +22,7 @@ tags_hub: []
   - spectacle
   - violence
   - cavern
-tags_filter: []
+tags_filter:
   - wide-shot
   - scene-mode
   - group

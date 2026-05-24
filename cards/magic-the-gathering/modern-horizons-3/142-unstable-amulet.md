@@ -10,6 +10,8 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
+symbols:
+  - energy
 tags_hub:
   - jewelry
   - amulet
@@ -71,3 +73,15 @@ An extreme close-up of an intricately crafted gold filigree pendant or locket, s
 **Iconography:** filigree scrollwork, red gemstone
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** -- Unstable Amulet is from Modern Horizons 3 (released June 14, 2024). It was previewed on May 23, 2024 by Adam The Gathering via Twitter before official spoiler season `[Scryfall: preview field]`.
+- **Mechanical design** -- A {1}{R} artifact with three abilities: enters with {E}{E}, deals 1 damage to each opponent whenever you cast a spell from anywhere other than your hand, and spends {E}{E} to exile and optionally play the top card of your library. The second ability is particularly notable -- it punishes opponents passively whenever you flash back, cascade, or otherwise cast from exile or graveyard, making it a sideboard threat against storm and graveyard strategies while being a value engine in its own right `[Scryfall: oracle_text]`.
+- **Energy cycle flag** -- Unstable Amulet is the third energy artifact in the current inventory alongside Inventor's Axe (MH3, no. 126) and Colossal Dreadmask (MH3, no. 148). All three share energy and artifact typelines; Unstable Amulet specifically pairs with Aether Revolt (MH3, no. 113), an instant that pings when you gain energy counters, turning the ETB {E}{E} into a free damage trigger `[Scryfall: all_parts (combo piece: Energy Reserve MH3); Draftsim: MH3 Limited Set Review]`.
+- **Mechanical reputation** -- EDHREC rank 4,016 -- the most popular of the five cards in this batch by EDHREC rank. Appears in approximately 34,725 Commander decks. Particularly strong in Loot, the Key to Everything storm-adjacent builds (35% inclusion rate) where casting from exile is a core mechanic. Uncommon rarity; not Pauper-legal `[EDHREC: Unstable Amulet card page, via WebSearch snippet; Scryfall: legalities, edhrec_rank]`.
+
+### Related cards
+- Inventor's Axe (Modern Horizons 3, 126) -- same set, same {E}{E}-on-entry pattern, red artifact; energy-lair co-member
+- Aether Revolt (Modern Horizons 3, 113) -- Scryfall lists as combo piece; pings whenever Unstable Amulet generates energy
+- Energy Reserve (Modern Horizons 3) -- Scryfall-listed combo piece; allows energy redistribution
+- Loot, the Key to Everything (MH3) -- primary Commander home with 35% inclusion rate per EDHREC

@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - griffin
   - wings
   - flight
@@ -23,7 +23,7 @@ tags_hub: []
   - stone-architecture
   - beasts
   - freedom
-tags_filter: []
+tags_filter:
   - no-figure
   - creature-absent
   - wide-shot

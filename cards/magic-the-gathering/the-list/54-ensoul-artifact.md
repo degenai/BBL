@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - scissors
   - tool
   - haunted-object
@@ -23,7 +23,7 @@ tags_hub: []
   - ethereal
   - magical-aura
   - household-object
-tags_filter: []
+tags_filter:
   - no-figures
   - close-up
   - object-focus

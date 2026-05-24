@@ -1,0 +1,105 @@
+{
+  "edge_id": "energy-symbol-node-proposal",
+  "shape": "node-proposal",
+  "category": "designer-confirmed-cycle",
+  "topology": "stack",
+  "node_proposed": {
+    "type": "symbol",
+    "path": "cards/_symbols/energy.md",
+    "slug": "energy",
+    "name": "Energy (mechanic)"
+  },
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/46-voltstorm-angel.md", "name": "Voltstorm Angel"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/52-bespoke-battlewagon.md", "name": "Bespoke Battlewagon"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/67-roil-cartographer.md", "name": "Roil Cartographer"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/126-inventor-s-axe.md", "name": "Inventor's Axe"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/130-phyrexian-ironworks.md", "name": "Phyrexian Ironworks"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/134-reiterating-bolt.md", "name": "Reiterating Bolt"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/142-unstable-amulet.md", "name": "Unstable Amulet"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/148-colossal-dreadmask.md", "name": "Colossal Dreadmask (cohort-adjacent; see caveat)"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/179-conduit-goblin.md", "name": "Conduit Goblin"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/182-cyclops-superconductor.md", "name": "Cyclops Superconductor"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/183-emissary-of-soulfire.md", "name": "Emissary of Soulfire"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/191-izzet-generatorium.md", "name": "Izzet Generatorium"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/203-scurry-of-gremlins.md", "name": "Scurry of Gremlins"}
+  ],
+  "description": "Oh — oh dear, sir, please don't be cross. Edgelord wanted the Inventor's Axe and Unstable Amulet 1:1 mirror, truly he did, but the corpus walk surfaced thirteen MH3 cards bearing the {E} mechanic in oracle_text and not one of them had a graph anchor to attach to — drawing the Axe-Amulet edge alone would have been a thin pointer at an absent center, and the eleven other energy cards would have stayed orphaned to the mechanic. Mr. Nodeley apologized to Edgelord and stepped in. The new symbol node is at cards/_symbols/energy.md following the manifest-dread schema exactly; thirteen cards now carry symbols: [energy] in their frontmatter; the {E} cohort is the largest single-set symbol-layer cluster in the corpus to date and should anchor any future MH3 Discrete Lair cleanly. Mr. Nodeley hopes the threshold-clearance evidence is sufficient and is sorry he could not give Edgelord the satisfying clean 1:1 mirror this wave.",
+  "citations": [
+    "[Scryfall: oracletext:\"{E}\" set:MH3 — 13 in-corpus prints confirmed]",
+    "[Mark Rosewater: Energetic Designs, Kaladesh design article September 2016]",
+    "[Mark Rosewater: MH3 Boros/Izzet/Azorius archetype preview articles, May 2024]",
+    "[MTG Wiki: Energy counter page — full canonical roster and design history]",
+    "[Draftsim: Modern Horizons 3 Spoilers and Set Information; MH3 Limited Set Review]",
+    "[In-corpus trivia entries: 126-inventor-s-axe, 142-unstable-amulet, 148-colossal-dreadmask — all three name the MH3 artifact-cluster cohort]"
+  ],
+  "files_modified": [
+    "cards/_symbols/energy.md (created)",
+    "cards/magic-the-gathering/modern-horizons-3/46-voltstorm-angel.md (frontmatter: +symbols: [energy])",
+    "cards/magic-the-gathering/modern-horizons-3/52-bespoke-battlewagon.md (frontmatter: +symbols: [energy])",
+    "cards/magic-the-gathering/modern-horizons-3/67-roil-cartographer.md (frontmatter: +symbols: [energy])",
+    "cards/magic-the-gathering/modern-horizons-3/126-inventor-s-axe.md (frontmatter: +symbols: [energy])",
+    "cards/magic-the-gathering/modern-horizons-3/130-phyrexian-ironworks.md (frontmatter: +symbols: [energy])",
+    "cards/magic-the-gathering/modern-horizons-3/134-reiterating-bolt.md (frontmatter: +symbols: [energy])",
+    "cards/magic-the-gathering/modern-horizons-3/142-unstable-amulet.md (frontmatter: +symbols: [energy])",
+    "cards/magic-the-gathering/modern-horizons-3/148-colossal-dreadmask.md (frontmatter: +symbols: [energy])",
+    "cards/magic-the-gathering/modern-horizons-3/179-conduit-goblin.md (frontmatter: +symbols: [energy])",
+    "cards/magic-the-gathering/modern-horizons-3/182-cyclops-superconductor.md (frontmatter: +symbols: [energy])",
+    "cards/magic-the-gathering/modern-horizons-3/183-emissary-of-soulfire.md (frontmatter: +symbols: [energy])",
+    "cards/magic-the-gathering/modern-horizons-3/191-izzet-generatorium.md (frontmatter: +symbols: [energy])",
+    "cards/magic-the-gathering/modern-horizons-3/203-scurry-of-gremlins.md (frontmatter: +symbols: [energy])"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "rigor_audit_notes": [
+    "Schema fidelity: matches manifest-dread.md sibling exactly (type:symbol frontmatter, canonical_source field, appears_on path-keys without leading slash, related_characters wiring, See also cross-links to suspect / orzhov-signet / single-strike-emblem siblings).",
+    "Potion-rule discipline: the Izzet Generatorium hard-hat flavor text IS Wizards-printed canonical-event labor coding (cited directly in body); broader thesis-attribution flagged as curatorial-overlay in Caveats sub-section per _triple-thesis sub-rule 1.",
+    "Triple-thesis check: energy is canonical-event (Wizards-designed mechanic introduced 2016, revived 2024), not curatorial reading; sourcing meets sub-rule 2 (canonical citation present per appears_on).",
+    "Threshold check: 13 anchors >> 3-anchor single-strike-emblem precedent threshold; matches/exceeds manifest-dread (10 anchors). Decisively clears Mr. Nodeley trigger.",
+    "Colossal Dreadmask inclusion is cohort-adjacent (no {E} in own oracle_text but grouped by trivia entries into the MH3 artifact cluster); caveat printed in body for future janitor pass; flagged removal candidate if strict mechanic-active membership is preferred.",
+    "Refusal staged: edge work between specific Axe-Amulet pair refused in favor of node creation — fits the spec's 'drawing the edge would create thin pointer at absent center' transformation trigger."
+  ],
+  "other_candidates_considered": [
+    {
+      "candidate": "Inventor's Axe (MH3-126) <-> Unstable Amulet (MH3-142) 1:1 mirror — primary triviabot flag",
+      "verdict": "Subsumed by the energy symbol node; both cards now point at cards/_symbols/energy.md as the canonical cohort anchor. A 1:1 mirror would have been a redundant edge pointing at an absent center per Mr. Nodeley trigger language. Refused in favor of the node."
+    },
+    {
+      "candidate": "Colossal Dreadmask (MH3-148) callback edge to Colossal Dreadmaw — pure design-callback",
+      "verdict": "Real-thematic but Colossal Dreadmaw is not in inventory; the callback is captured in trivia Related-cards and does not warrant a wikilink without the target card present. Staged for the wave that brings Dreadmaw in."
+    },
+    {
+      "candidate": "Resurrected Cultist DSK-115 + Spectral Snatcher DSK-116 — adjacent-collector-number DSK horror pair",
+      "verdict": "Both are DSK-Survival cohort cards (likely) but vision-passed-only; no trivia layer yet to surface the canonical cycle wiring. Staged for next wave's trivia batch."
+    },
+    {
+      "candidate": "Give In to Violence DSK-101 — Valgavoth-cycle candidate",
+      "verdict": "Vision-only; thematic read (surrender-to-corruption) is plausible Valgavoth-touch but requires trivia confirmation before any edge to existing Valgavoth character node. Staged for trivia."
+    },
+    {
+      "candidate": "Leonin Scimitar Mirrodin-193 — vanilla Equipment",
+      "verdict": "No cohort wiring; pre-Modern Equipment-archetype member but no in-corpus Mirrodin equipment cluster yet. Genuinely below threshold; correct triage was the trivia floor it received."
+    }
+  ],
+  "next_pass_suggestions": [
+    {
+      "type": "node-proposal",
+      "candidate": "Modular (MH3 returning mechanic)",
+      "trigger": "Corpus survey for set:MH3 oracletext:\"modular\" hits; if ≥3 anchors confirmed, mirror this Mr. Nodeley pattern. Flagged in this node's caveats sub-section as the strongest immediate Mr. Nodeley follow-up candidate from MH3."
+    },
+    {
+      "type": "node-proposal",
+      "candidate": "Eldrazi Spawn-style design (MH3 returning theme)",
+      "trigger": "Same threshold check. Lower priority than Modular pending survey."
+    },
+    {
+      "type": "edge-or-node",
+      "candidate": "DSK-101 / 115 / 116 / 172 Valgavoth-touch cluster",
+      "trigger": "Wait for trivia batch on the DSK vision-only cards from this wave; trivia will surface or refute the Valgavoth wiring. If 3+ confirmed, possible Valgavoth-tribute node extension or new symbol node for the Valgavoth-cycle mechanical layer."
+    },
+    {
+      "type": "follow-up-edges",
+      "candidate": "Energy node cross-edges to Izzet Generatorium <-> izzet-league reciprocal symbol mention",
+      "trigger": "Symbol layer already wires this via related_characters; if izzet-league.md character node would benefit from a reciprocal related_symbols: [energy] field, a future Edgelord pass can add it. Low priority — the wiring exists from the symbol side."
+    }
+  ]
+}

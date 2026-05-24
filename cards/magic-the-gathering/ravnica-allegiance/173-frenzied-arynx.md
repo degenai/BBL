@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - cat
   - beast
   - monster
@@ -21,7 +21,7 @@ tags_hub: []
   - wild
   - teeth
   - claws
-tags_filter: []
+tags_filter:
   - solo
   - forward-facing
   - mid-shot

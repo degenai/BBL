@@ -83,3 +83,15 @@ A massive creature crouches on a narrow stone ledge or plinth, facing slightly l
 **Iconography:** maze, medallion, wings, spiral
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** -- Twisted Riddlekeeper is from Modern Horizons 3 (released June 14, 2024), where Eldrazi return as a major force. MH3's Eldrazi are distributed across all colors and include a new cycle of colorless-hybrid Eldrazi designed for the Emerge mechanic, which lets you reduce the casting cost by sacrificing a smaller creature `[Scryfall: MH3 set; Scryfall: oracle_text]`.
+- **Creature type** -- Twisted Riddlekeeper has the type line "Creature -- Eldrazi Sphinx," a compound creature type fusing the ancient alien horrors of the Blind Eternities with the arcane riddle-keepers of MTG lore. The Eldrazi Sphinx combination is rare; the fusion evokes a Sphinx whose original nature has been subsumed or twisted by Eldrazi corruption -- which the card name and art both support `[Scryfall: type_line]`.
+- **Mechanical design** -- An 8-cost (emerge {5}{C}{U}) 5/5 flier whose cast trigger puts stun counters on up to two target permanents. Stun counters entered MH3 alongside Eldrazi as a re-introduced mechanic from earlier sets; a permanent with a stun counter cannot untap normally, effectively meaning the triggered lock lasts until the opponent's second untap step -- a genuine two-permanent tempo hit `[Scryfall: oracle_text]`.
+- **Mechanical reputation** -- EDHREC lists Twisted Riddlekeeper in approximately 1,770 Commander decks, with Eldrazi-tribal and Emerge-strategy commanders as primary homes. EDHREC rank 18,935 marks it as a fringe inclusion. It is not legal in Pauper; legal in Modern, Legacy, Vintage, Commander `[EDHREC: Twisted Riddlekeeper card page, via WebSearch snippet; Scryfall: legalities]`.
+
+### Related cards
+- Vexing Scuttler (Eldritch Moon) -- established Emerge vehicle Eldrazi; common deckmate for Emerge strategies that run Twisted Riddlekeeper
+- Wretched Gryff (Eldritch Moon) -- pauper-era Emerge finisher; same sacrifice-to-reduce pattern
+- Elder Deep-Fiend (Eldritch Moon) -- the iconic Emerge threat; tapping comparison point for Riddlekeeper's stun-counter disruption
+- Riddlekeeper (Return to Ravnica) -- shares the name root; a sphinx-adjacent labyrinth guardian in the Dimir guild; not mechanically related but thematically resonant

@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - swamp
   - ghost
   - ferryman
@@ -23,7 +23,7 @@ tags_hub: []
   - twilight
   - afterlife
   - ritual
-tags_filter: []
+tags_filter:
   - duo
   - wide-shot
   - scene-mode

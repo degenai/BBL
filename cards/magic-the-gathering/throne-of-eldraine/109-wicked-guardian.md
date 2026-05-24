@@ -11,7 +11,7 @@ quantity: 1
 held_for_lair: 0
 bundles:
   - tithe
-tags_hub: []
+tags_hub:
   - noble
   - throne
   - servant
@@ -24,7 +24,7 @@ tags_hub: []
   - robed-figure
   - villain
   - fairy-tale
-tags_filter: []
+tags_filter:
   - duo
   - mid-shot
   - forward-facing

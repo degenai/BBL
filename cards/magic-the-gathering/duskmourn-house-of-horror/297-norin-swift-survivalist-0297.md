@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - survivor
   - fleeing
   - haunted-house
@@ -23,7 +23,7 @@ tags_hub: []
   - labyrinth
   - pursuit
   - horror
-tags_filter: []
+tags_filter:
   - red-magic
   - duo
   - mid-shot

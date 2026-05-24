@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - rebellion
   - last-stand
   - resistance
@@ -22,7 +22,7 @@ tags_hub: []
   - survival
   - solidarity
   - courage
-tags_filter: []
+tags_filter:
   - group
   - wide
   - narrative

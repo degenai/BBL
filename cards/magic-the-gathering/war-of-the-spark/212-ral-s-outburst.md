@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - lightning
   - storm
   - spellcaster
@@ -23,7 +23,7 @@ tags_hub: []
   - sky
   - outburst
   - duel
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - three-quarter-facing

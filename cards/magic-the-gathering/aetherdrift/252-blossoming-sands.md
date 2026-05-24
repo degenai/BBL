@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - desert
   - canyon
   - flowers
@@ -23,7 +23,7 @@ tags_hub: []
   - sky
   - rock-formation
   - growth
-tags_filter: []
+tags_filter:
   - no-figures
   - wide-shot
   - scene-mode

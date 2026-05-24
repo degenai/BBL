@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - dog
   - overgrowth
   - vines
@@ -21,7 +21,7 @@ tags_hub: []
   - Ravnica
   - beast
   - rot
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - forward-facing

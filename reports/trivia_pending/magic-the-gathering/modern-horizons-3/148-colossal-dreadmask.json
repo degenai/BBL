@@ -1,0 +1,49 @@
+{
+  "card_name": "Colossal Dreadmask",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "148",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Deliberate design callback to Colossal Dreadmaw, the beloved vanilla 6/6 green dinosaur meme creature. Same mana cost ({4}{G}{G}), same stat boost (+6/+6), same trample. The card lets any creature 'be a Colossal Dreadmaw for the day.'",
+      "sources": ["Dexerto: 'Modern Horizons 3's Colossal Dreadmask turns iconic Creature into Equipment'", "Scryfall: mana_cost, oracle_text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"No legs to quake, no lungs to bellow, but if you see its teeth, it's still too late.\"",
+      "sources": ["Scryfall: flavor_text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Living weapon first appeared in Mirrodin Besieged (2011) to represent Phyrexian invasion flavor. Colossal Dreadmask uses the mechanic in MH3 in a non-Phyrexian, Eldrazi-horror context -- an unusual flavor departure for the keyword.",
+      "sources": ["Draftsim: 'All 19 Living Weapon Cards in Magic Ranked'", "Scryfall: oracle_text"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment: Dexerto roundup quotes Reddit users calling it a WotC embrace of the Dreadmaw meme; 'Equipping this to a Dreadmaw would be peak Magic.' Draftsim's living weapon ranking places it at no. 10 of 19, describing it as a meme card with limited serious play outside niche commanders.",
+      "sources": ["Dexerto: 'Modern Horizons 3's Colossal Dreadmask turns iconic Creature into Equipment'", "Draftsim: 'All 19 Living Weapon Cards in Magic Ranked'"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Colossal Dreadmaw", "set": "Rivals of Ixalan / Core Set 2019", "note": "Direct callback subject; same stats, same cost, same trample"},
+    {"name": "Galea, Kindler of Hope", "set": "Adventures in the Forgotten Realms Commander", "note": "Cited by Draftsim as one of few Commanders where Dreadmask is genuinely playable"},
+    {"name": "Kaldra Compleat", "set": "Modern Horizons 2", "note": "Prestige living weapon from MH2; comparison for MH3's lower-power living weapon return"},
+    {"name": "Nettlecyst", "set": "Modern Horizons 2", "note": "Most-played living weapon per EDHREC; baseline for how living weapon equipment lands in Commander"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": {
+    "collector_number_missing": false,
+    "mana_cost_present": true,
+    "color_magic_tag_present": false,
+    "color_magic_tag_note": "green-magic appears in tags_filter which is correct per BBL convention",
+    "edgelord_flag": "Colossal Dreadmask is the third MH3 artifact/equipment in inventory (with Inventor's Axe 126 and Unstable Amulet 142). Distinct from the energy pair -- its living-weapon mechanic and Dreadmaw-callback identity make it a meme-resonance anchor rather than an energy-economy piece. Could justify a separate lair angle (Dreadmaw-homage / big-green creatures) or fold into a broader MH3-artifacts cluster."
+  }
+}

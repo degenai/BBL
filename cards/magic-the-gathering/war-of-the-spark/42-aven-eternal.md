@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - bird
   - wings
   - flight
@@ -23,7 +23,7 @@ tags_hub: []
   - soldier
   - feathers
   - skeleton
-tags_filter: []
+tags_filter:
   - solo
   - mid-shot
   - forward-facing

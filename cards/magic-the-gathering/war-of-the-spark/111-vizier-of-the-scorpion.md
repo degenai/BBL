@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
+tags_hub:
   - vizier
   - zombie
   - undead
@@ -23,7 +23,7 @@ tags_hub: []
   - necropolis
   - wizard
   - legion
-tags_filter: []
+tags_filter:
   - group
   - mid-shot
   - forward-facing

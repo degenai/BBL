@@ -10,6 +10,8 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
+symbols:
+  - energy
 tags_hub:
   - axe
   - fire
@@ -74,3 +76,15 @@ The art crop shows a single ornate weapon hanging mounted on a stone wall betwee
 **Iconography:** scrollwork, fire, weapon-mounted
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** -- Modern Horizons 3 (released June 14, 2024) is a Modern-legal direct-to-Modern set designed to inject powerful cards without going through Standard rotation. Energy is one of MH3's primary mechanical themes, appearing across all three Boros, Izzet, and Azorius archetypes at common and uncommon `[Scryfall: MH3 set; Draftsim: Modern Horizons 3 Spoilers and Set Information]`.
+- **Mechanical design** -- Inventor's Axe is a one-mana red Equipment with Flash that enters attached to a creature and provides +2/+0 while generating two energy counters. Its equip cost of {E}{E} (pay two energy) creates a recursive loop with its own ETB grant, so the first equip after entry is effectively free if energy hasn't been spent elsewhere -- a compact design that rewards energy-dense boards `[Scryfall: oracle_text]`.
+- **Energy cycle flag** -- Inventor's Axe shares the energy-grants-on-entry pattern with Unstable Amulet (also MH3, no. 142) and Colossal Dreadmask (MH3, no. 148) in the inventory. All three are artifacts and all three participate in MH3's energy economy. Inventor's Axe and Unstable Amulet both generate {E}{E} on entry, making them potential substrates for an energy-themed lair `[Scryfall: MH3 card pool; Draftsim: MH3 Limited Set Review]`.
+- **Mechanical reputation** -- EDHREC rank 15,696 (lower = more popular); listed as a pauper-legal common, which makes it accessible in budget energy builds. Scryfall marks it as a combo piece alongside Energy Reserve (MH3), the MH3 instant that redistributes energy counters `[Scryfall: all_parts field; EDHREC rank]`.
+
+### Related cards
+- Unstable Amulet (Modern Horizons 3, 142) -- same set, same energy-on-entry pattern, same artifact type; potential energy-lair co-member
+- Colossal Dreadmask (Modern Horizons 3, 148) -- same set, equipment, living-weapon; thematically adjacent to an MH3 artifact weapons cluster
+- Energy Reserve (Modern Horizons 3) -- listed by Scryfall as a direct combo piece for Inventor's Axe
+- Aether Revolt (Modern Horizons 3, 113) -- MH3 energy payoff that pings for each energy-counter grant; pairs with Inventor's Axe's ETB
