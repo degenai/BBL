@@ -16,6 +16,7 @@ appears_on:
   - magic-the-gathering/duskmourn-house-of-horror/9-fear-of-abduction
   - magic-the-gathering/duskmourn-house-of-horror/55-fear-of-failed-tests
   - magic-the-gathering/duskmourn-house-of-horror/56-fear-of-falling
+  - magic-the-gathering/duskmourn-house-of-horror/97-fear-of-lost-teeth
   - magic-the-gathering/duskmourn-house-of-horror/98-fear-of-the-dark
   - magic-the-gathering/duskmourn-house-of-horror/134-fear-of-being-hunted
   - magic-the-gathering/duskmourn-house-of-horror/135-fear-of-burning-alive
@@ -80,16 +81,14 @@ Per Scryfall set DSK API query (`s:dsk name:"Fear of"`), the cycle has fourteen 
 - **Fear of Surveillance** (DSK-11, white uncommon) — third white slot; phobia of being watched / scrutinized.
 - **Fear of Impostors** (DSK-57, blue uncommon) — third blue slot; phobia of impostor syndrome / Capgras delusion / replaced-by-doppelgangers. Wave 39 roster-pass addition.
 - **Fear of Isolation** (DSK-58, blue uncommon) — fourth blue slot; phobia of being alone / abandoned.
-- **Fear of Lost Teeth** (DSK-97, black uncommon) — first black slot; the universal anxiety-dream of teeth crumbling and falling out, rendered as a Nightmare. Wave 39 roster-pass addition; previously thought to be a single black slot, the actual canonical roster shows two.
-- **Fear of the Dark** (DSK-98, black **rare**) — second black slot. Independently corroborated by the Say Its Name (DSK-197) trivia: same artist (Sam Wolfe Connelly), same Conte medium, part of Connelly's Duskmourn cluster, flagged "not in current inventory."
 - **Fear of Missing Out** (DSK-136, red **rare**) — completes the 134-135-136 red block alongside Being Hunted and Burning Alive. The vernacular FOMO acronym rendered as a Nightmare.
 
-**On-disk but not yet enriched** — physically in inventory (Collectr CSV imported), awaiting vision and trivia passes before they can attach to this node:
+**Vision-enriched, trivia-pending** — these in-corpus members are vision-passed and attached to the cycle node via `characters: fear-of-cycle` frontmatter, but await trivia for full Connections sections:
 
-- **Fear of Lost Teeth** (DSK-97, black common, qty 4) — first black slot; the universal anxiety-dream of teeth crumbling and falling out. Bare card stub as of 2026-05-21; not yet vision-passed.
-- **Fear of the Dark** (DSK-98, black common, qty 4) — note: Scryfall lists DSK-98 at common, not the rare slot previously assumed; the body's rare-cluster discussion below predates this correction. Bare card stub as of 2026-05-21; not yet vision-passed.
+- **Fear of Lost Teeth** (DSK-97, black common, qty 4, Oriana Menendez art) — first black slot; the universal anxiety-dream of teeth crumbling and falling out, rendered as a wide-jawed fleshy creature trailing a cloud of screaming pale-blue ghost-faces above a fleeing spider-legged dental chair. Flavor text: *"As it drew closer, Sam felt her own teeth wriggle in their sockets, as if they wanted to leap out and join the thing."* Vision-passed 2026-05-16; attached wave 161.
+- **Fear of the Dark** (DSK-98, black common, J.P. Targete art) — second black slot. Note: Scryfall lists DSK-98 at common, not the rare slot the body's rare-cluster discussion originally assumed. Vision-passed; attached prior wave.
 
-The corpus is **7 of 14 enriched** as of 2026-05-21 (Abduction, Failed Tests, Falling, Being Hunted, Burning Alive, Exposure, Infinity), with two further members on disk as un-enriched stubs (Lost Teeth, the Dark). Five acquisitions away from full canonical cycle coverage.
+The corpus is **9 of 14 attached** as of 2026-05-24 (Abduction, Failed Tests, Falling, Lost Teeth, the Dark, Being Hunted, Burning Alive, Exposure, Infinity). Five acquisitions away from full canonical cycle coverage (Immobility, Surveillance, Impostors, Isolation, Missing Out remain out-of-corpus).
 
 ## Cross-edges
 
@@ -105,6 +104,7 @@ The cycle interacts mechanically and thematically with adjacent Duskmourn design
 - [[9-fear-of-abduction]]
 - [[55-fear-of-failed-tests]]
 - [[56-fear-of-falling]]
+- [[97-fear-of-lost-teeth]]
 - [[98-fear-of-the-dark]]
 - [[134-fear-of-being-hunted]]
 - [[135-fear-of-burning-alive]]

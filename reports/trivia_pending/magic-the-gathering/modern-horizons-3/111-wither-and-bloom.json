@@ -1,0 +1,36 @@
+{
+  "card_name": "Wither and Bloom",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "111",
+  "task_profile": "ip-priority",
+  "ip_decision": "refute",
+  "ip_outcome_note": "The flavor text attributes a quote to 'Dina, Witherbloom mage-student' but Dina is the speaker of the flavor quote, not the depicted figure. Wither and Bloom is an Instant (not a creature card), and its art by Richard Kane Ferguson depicts an unnamed robed humanoid with a crown in an underground chamber — a thematic scene for the Witherbloom college aesthetic. Dina, Soul Steeper is a Legendary Creature — Dryad Druid (art by Chris Rahn, STX-178); a dryad figure by a different artist. No visual identifier of Dina appears in this art. Flavor-quoted speaker is not equivalent to depicted figure on a non-creature card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The flavor quote — 'Death itself is nothing to cry about. The real tragedy is letting a death go to waste.' — is attributed to Dina, Witherbloom mage-student, a Legendary Dryad Druid from Strixhaven: School of Mages (STX-178, illustrated by Chris Rahn). Dina's philosophy of life-from-death exploitation is the thematic spine of Witherbloom college; the quote recontextualizes the Wither and Bloom spell (kill a creature, then optionally grow a counter on an ally from exile) as Witherbloom doctrine in action. [Scryfall: flavor_text for MH3-111; Scryfall card lookup STX-178 for Dina, Soul Steeper character]",
+      "sources": ["Scryfall: MH3-111 flavor_text", "Scryfall: STX-178 Dina, Soul Steeper"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Richard Kane Ferguson, one of MTG's foundational artists who has painted over 60 cards since his debut in the Legends set (1994). Ferguson's original paintings command significant auction prices — the Dakkon, Shadow Slayer original sold for $31,000 in 2021. His appearance on MH3 (2024) reflects a periodic return to the game; his previous MH3-era resurfacing included Blackblade Reforged (2019), his first MTG illustration in a decade. [Scryfall: artist; hipstersofthecoast.com: Dakkon Shadow Slayer painting sells for $31,000; hipstersofthecoast.com: Blackblade Reforged sells for $8,000]",
+      "sources": ["Scryfall", "hipstersofthecoast.com: Dakkon Shadow Slayer $31k", "hipstersofthecoast.com: Blackblade Reforged $8k"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A {1}{B} Instant that gives a creature -3/-3 until end of turn — a clean kill on most small creatures — with a graveyard-activated mode ({1}{B}, exile from graveyard as sorcery) that places a +1/+1 counter on a creature you control. The two modes encode the Witherbloom 'wither and bloom' philosophy mechanically: take life, then recycle it. Legal in Pauper and Modern. EDHREC rank 15,290. [Scryfall: oracle_text, mana_cost, legalities, edhrec_rank:15290]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dina, Soul Steeper", "set": "Strixhaven: School of Mages", "note": "The flavor-text speaker; Legendary Dryad Druid, Witherbloom college"},
+    {"name": "Dakkon, Shadow Slayer", "set": "Commander Legends: Battle for Baldur's Gate", "note": "Richard Kane Ferguson's most iconic MTG work; original sold $31k"},
+    {"name": "Infuse with Vitality", "set": "Strixhaven: School of Mages", "note": "Witherbloom-watermarked life-from-death spell, same college philosophy"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "",
+    "ip_confidence": "none"
+  }
+}

@@ -10,8 +10,28 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - fugitive
+  - wanted-poster
+  - evasion
+  - noir
+  - street
+  - disguise
+  - outlaw
+  - mystery
+  - rogue
+  - surveillance
+  - identity
+  - traveller
+tags_filter:
+  - duo
+  - mid-shot
+  - narrative
+  - three-quarter
+  - black-magic
+  - creature-human
+  - suspect-mechanic
+  - faces-right
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/101-repeat-offender.png
 average_cost_paid: 0
 market_price: 0.09
@@ -30,6 +50,28 @@ mana_cost: "{1}{B}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: indeterminate
+setting: urban
 ---
 
 # Repeat Offender (Murders at Karlov Manor)
+
+## Vision
+
+![101-repeat-offender](../../_images/magic-the-gathering/murders-at-karlov-manor/101-repeat-offender.png)
+
+The scene is set in a dim stone-arched corridor or gateway, with natural light coming from an arched opening in the background. In the foreground, a figure — dressed in a purple sash, layered travelling clothes, and a decorative headband — turns their head back over their shoulder with a guarded, wary expression. Multiple pouches and accessories hang at their belt. In the background to the left, a second figure holds up a printed or drawn wanted poster; a face sketch is clearly visible on the paper. The framing implies the foreground figure is the subject of the poster, caught in the moment of evading recognition. The palette is muted blue-green stone tones with warm highlights on the figures.
+
+**Subject:** Two humanoid figures in a stone archway interior: a foreground figure in travelling clothes glances back over her shoulder while a background figure holds up a wanted poster bearing a face sketch
+
+**Composition:** mid-shot, narrative, figures: duo, facing: three-quarter
+**Setting:** urban, gothic, indeterminate
+**Foreground:** Figure in travelling clothes with purple sash turning back warily, belt-pouches visible  *(palette: purple, warm-brown, cream, teal)*
+**Background:** Stone archway corridor, second figure holding wanted poster, arched opening with grey-green ambient light  *(palette: slate-grey, teal, off-white)*
+**Mood / lighting:** grim, soft
+**Emotion read:** wariness and evasion in the foreground figure; the glance-back suggests awareness of being watched or recognized
+**Objects:** wanted-poster, belt-pouches, headband
+**Iconography:** wanted-poster, face-sketch
+**Genre cues:** fantasy, noir, mystery
+

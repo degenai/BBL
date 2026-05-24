@@ -52,9 +52,9 @@ image_quality: high
 mood: sublime
 time_of_day: indeterminate
 setting: dungeon
-suspected_ip: Dina
-ip_confidence: low
-ip_verified: false
+suspected_ip: ""
+ip_confidence: none
+ip_verified: true
 ---
 
 # Wither and Bloom (Modern Horizons 3)
@@ -63,8 +63,8 @@ ip_verified: false
 
 ![111-wither-and-bloom](../../_images/magic-the-gathering/modern-horizons-3/111-wither-and-bloom.png)
 
-> [!warning] Suspected IP: **Dina** (confidence: low, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP refuted
+> Vision flagged Dina (Witherbloom mage-student) based on the flavor text attribution. Dina is the speaker of the flavor quote, not the depicted figure. This is an Instant card; the art (by Richard Kane Ferguson) depicts an unnamed Witherbloom mage in a ritual scene. Dina, Soul Steeper is a Legendary Dryad Druid illustrated by Chris Rahn (STX-178) — a different artist, different card type, different visual profile. Confirmed via Scryfall type_line and STX-178 character lookup.
 
 A robed humanoid figure stands at the center of a cavernous underground chamber, arms loosely extended to their sides, palms open. They wear what appears to be a crown or ornate headpiece with upward-projecting elements. Flanking them on both sides are tall stone columns or pillars overgrown with organic material, and candelabras with small visible flames. At their feet, a bird — consistent in silhouette with a crow or raven — casts a shadow or sits as a dark shape on the stone floor. The overall painting style is loose, watercolor-like, with Richard Kane Ferguson's characteristic layered wash technique. The palette is muted gold, olive-green, dusty teal, and grey, with warm candlelight accents. A heraldic emblem or crest is visible at the lower right edge of the image. The flavor text names Dina, a Witherbloom mage-student, though the figure depicted is not definitively confirmed as her versus another Witherbloom character by visual identifier alone.
 
@@ -81,3 +81,14 @@ A robed humanoid figure stands at the center of a cavernous underground chamber,
 **Iconography:** crown, heraldic-crest, candle-flames, bird-silhouette
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **IP refuted** — Vision flagged Dina (Witherbloom mage-student) because the flavor text is attributed to her. Dina is the quote's speaker, not the depicted figure. Wither and Bloom is an Instant; its art depicts an unnamed Witherbloom mage in a ritual/summoning scene. Dina, Soul Steeper (STX-178) is a Legendary Creature — Dryad Druid illustrated by Chris Rahn — different artist, card type, and visual profile. No Dina visual identifier (dryad physiology, specific color scheme, etc.) appears in this art. `[Scryfall: MH3-111 type_line; Scryfall: STX-178 Dina, Soul Steeper artist and type_line]`
+- **Flavor text** — "Death itself is nothing to cry about. The real tragedy is letting a death go to waste." — Dina, Witherbloom mage-student. The quote encapsulates Witherbloom college's philosophy of extracting value from death, which the card mechanically embodies: kill a creature (-3/-3), then optionally exile the card from your graveyard to grow an ally (+1/+1 counter). `[Scryfall: flavor_text]`
+- **Design** — Art by Richard Kane Ferguson, one of MTG's foundational illustrators since the Legends set (1994), with over 60 cards across 15+ years. His original paintings have sold for significant sums at auction: Dakkon, Shadow Slayer at $31,000 (2021) and Blackblade Reforged at $8,000 (2019). His presence on MH3 (2024) reflects a continued periodic return to the game. `[Scryfall: artist; hipstersofthecoast.com: Dakkon painting $31k (2021); hipstersofthecoast.com: Blackblade Reforged painting $8k (2019)]`
+- **Mechanical** — A {1}{B} Instant with a graveyard-activated second mode ({1}{B}, exile from graveyard as sorcery: +1/+1 counter on a creature you control). Legal in Pauper and Modern. EDHREC rank 15,290. `[Scryfall: oracle_text, legalities, edhrec_rank:15290]`
+
+### Related cards
+- Dina, Soul Steeper (Strixhaven: School of Mages, 178) — the flavor-text speaker; Legendary Dryad Druid, Witherbloom college
+- Dakkon, Shadow Slayer (Commander Legends: Battle for Baldur's Gate) — Richard Kane Ferguson's most storied MTG work
+- Infuse with Vitality (Strixhaven: School of Mages) — Witherbloom-watermarked life-from-death spell, same college philosophy

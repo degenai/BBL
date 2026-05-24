@@ -1,0 +1,36 @@
+{
+  "card_name": "Scurrilous Sentry",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "108",
+  "task_profile": "ip-priority",
+  "ip_decision": "refute",
+  "ip_outcome_note": "The flavor text explicitly identifies the depicted figure as one of Queen Marchesa's agents ('Queen Marchesa's agents always manage to find the exact evidence they're looking for'), not the queen herself. The rose medallion visible in the art is consistent with Marchesa's Black Rose faction symbolism but is a faction marker worn by her agents, not a unique visual identifier of Marchesa the person. Queen Marchesa is a Legendary Creature (Human Assassin, Mardu colors, CN2-78) illustrated by Kieran Yanner; this card is a mono-black common Human Knight Rogue illustrated by Leonardo Santanna. The depicted figure is an unnamed Marchesa operative.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The card's flavor text — 'Queen Marchesa's agents always manage to find the exact evidence they're looking for' — places the depicted figure in the political world of Fiora (plane of the Conspiracy sets), where Marchesa d'Amati, the Black Rose, rules Paliano through networks of spies and assassins. The rose medallion visible at the cape clasp is a Black Rose faction marker. The figure is an unnamed operative in this network, not Marchesa herself. [Scryfall: flavor_text; MTG Wiki: Marchesa d'Amati, via WebSearch snippet]",
+      "sources": ["Scryfall", "MTG Wiki: Marchesa d'Amati via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Scurrilous Sentry reintroduces the connive mechanic in MH3. Connive was originally introduced in Streets of New Capenna (April 2022) as the Obscura family's signature ability. It returned in Modern Horizons 3 alongside other curated mechanics to increase Modern's mechanical density. As a {3}{B} 2/3 with menace that connives on enter-or-attack, it is a repeatable card-selection engine. Legal in Pauper and Modern. EDHREC rank 15,656. [Scryfall: oracle_text, keywords, edhrec_rank:15656; magic.wizards.com: Modern Horizons 3 Mechanics; coolstuffinc.com: Mechanics of Magic Overview Connive]",
+      "sources": ["Scryfall", "magic.wizards.com: Modern Horizons 3 Mechanics", "coolstuffinc.com: Mechanics of Magic — Connive"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Leonardo Santanna. Modern Horizons 3 (set code MH3) released 2024-06-14 as a draft-innovation set designed to inject new and returning mechanics directly into the Modern card pool without passing through Standard. It was the third in the Modern Horizons series. [Scryfall: artist, released_at, set_type:draft_innovation]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Queen Marchesa", "set": "Conspiracy: Take the Crown", "note": "The named character the depicted agent serves; Legendary Creature, CN2-78"},
+    {"name": "Ledger Shredder", "set": "Streets of New Capenna", "note": "Connive's breakout card from its debut set"},
+    {"name": "Raffine, Scheming Seer", "set": "Streets of New Capenna", "note": "Connive's marquee legendary from its debut set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "",
+    "ip_confidence": "none"
+  }
+}

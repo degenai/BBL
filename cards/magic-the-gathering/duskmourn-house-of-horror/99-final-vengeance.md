@@ -76,3 +76,13 @@ A humanoid figure with short hair, wearing a jacket with a bright yellow-green c
 **Iconography:** gaping-maw, clawed-hands, glowing-eyes
 **Genre cues:** horror, fantasy, dark-fantasy
 
+## Trivia
+
+- **Mechanical reputation** — A {B} sorcery that exiles a creature at the cost of sacrificing a creature or enchantment. Pauper community compares it directly to Bone Shards (MH2): same mana cost and sacrifice structure, but Bone Shards allows discard instead. Final Vengeance compensates with exile (not destroy) and the option to sacrifice an enchantment — meaningful in Duskmourn's enchantment-creature environment. Commander's Herald's DSK Pauper/Budget review called it "a Bone Shards that does exile" and flagged it as solid for token-sacrifice shells. EDHREC rank 5,449 — stronger Commander uptake than the adjacent Fear-of cycle cards. `[Scryfall: oracle_text, edhrec_rank:5449; commandersherald.com: DSK Pauper/Budget Set Review]`
+- **Flavor text** — "The cries of survivor and cellarspawn mingled in a single, terrible roar as they plunged into the fathomless depths." Cellarspawn are Horror-type creatures in Duskmourn — manifestations of the House-god Valgavoth's daydreams. The flavor narrates mutual-destruction: the survivor exiles the cellarspawn at the cost of their own life, mirroring the card's sacrifice mechanic. `[Scryfall: flavor_text; magic.wizards.com: The Legends of Duskmourn; MTG Wiki via WebSearch snippet]`
+- **Design** — Art by David Szabo. The card carries no enchantment frame effect (unlike the Fear-of Nightmare cycle members in DSK), confirming it is a pure Sorcery outside that subtheme. `[Scryfall: artist, frame_effects]`
+
+### Related cards
+- Bone Shards (Modern Horizons 2) — mechanical analog, {B} sacrifice-cost removal, direct Pauper comparison
+- Ancient Cellarspawn (Duskmourn: House of Horror Commander) — named cellarspawn, referenced in flavor text
+- Deadly Dispute (Adventures in the Forgotten Realms) — Pauper staple in same sacrifice-shell archetype

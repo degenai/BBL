@@ -10,8 +10,28 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - masked-figure
+  - gothic
+  - stalker
+  - cathedral
+  - cloak
+  - flight
+  - noir
+  - predator
+  - menace
+  - disguise
+  - white-mask
+  - orzhov
+tags_filter:
+  - solo
+  - wide
+  - action
+  - away
+  - black-magic
+  - creature-horror
+  - flying
+  - disguise-mechanic
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/78-basilica-stalker.png
 average_cost_paid: 0
 market_price: 0.09
@@ -29,6 +49,28 @@ mana_cost: "{5}{B}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: indeterminate
+setting: indoor
 ---
 
 # Basilica Stalker (Murders at Karlov Manor)
+
+## Vision
+
+![78-basilica-stalker](../../_images/magic-the-gathering/murders-at-karlov-manor/78-basilica-stalker.png)
+
+The composition is viewed from sharply above, looking down at a lone figure suspended in the air within a tall gothic interior. The figure wears a sweeping black cloak with gold trim and decorative detail, white gloves, and a smooth white mask beneath a wide-brimmed black hat. The arms are slightly extended, giving a sense of effortless flight or descent. Below and to the left, the floor features a sun motif medallion. Gothic columns and high arched walls flank the figure. A small lantern or chandelier hangs in the left midground. The palette is monochromatic — blacks, greys, warm stone-tones — with the white mask and gloves as the brightest contrast points.
+
+**Subject:** A cloaked figure in a white mask and wide-brimmed hat glides through a gothic cathedral interior, depicted from a dramatic overhead angle
+
+**Composition:** wide, action, figures: solo, facing: away
+**Setting:** indoor, gothic, indeterminate
+**Foreground:** Masked, cloaked figure in mid-air descent, arms extended, black cloak billowing  *(palette: black, white, gold, charcoal)*
+**Background:** Gothic cathedral columns and high stone walls, sun-motif floor medallion visible below  *(palette: warm-stone, grey, amber)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** silent menace; the figure descends with predatory calm, face obscured
+**Objects:** wide-brimmed-hat, mask, cloak, lantern, sun-medallion
+**Iconography:** sun-sigil, white-mask, gothic-architecture
+**Genre cues:** fantasy, gothic, noir
+

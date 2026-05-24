@@ -1,0 +1,42 @@
+{
+  "card_name": "Fear of Lost Teeth",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "97",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fear of Lost Teeth is part of the DSK Fear-of cycle — a 14-card cohort of Enchantment Creature — Nightmare cards whose names all begin with 'Fear of...', each personifying a specific phobia as an embodied, stalking creature. The cycle spans all five colors. Fear of Lost Teeth is the cycle's black common rendering of odontophobia. [Scryfall: type_line 'Enchantment Creature — Nightmare', set Duskmourn: House of Horror]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At {B} for a 1/1, Fear of Lost Teeth is among the most efficient death-trigger engines in Pauper. Its on-death ability (1 damage to any target, gain 1 life) synergizes with mono-black sacrifice and enchantment archetypes in the format. EDHREC data shows inclusion in approximately 8,903 decks, with an EDHREC rank of 10,602 among all Commander-legal cards. [Scryfall: legalities pauper:legal; EDHREC: Fear of Lost Teeth card page, via WebSearch snippet]",
+      "sources": ["Scryfall", "EDHREC via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"As it drew closer, Sam felt her own teeth wriggle in their sockets, as if they wanted to leap out and join the thing.\" The unnamed Sam is a survivor POV character recurring through DSK's flavor-text fiction, grounding the horror in a relatable human perspective against the House's monsters. [Scryfall: flavor_text field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Oriana Menendez, released 2024-09-27 as part of Duskmourn: House of Horror (set code DSK). Duskmourn was a horror-themed plane designed as a sentient house — the vision design team was led by Annie Sardelis. [Scryfall: artist, released_at; magic.wizards.com: Duskmourn House of Horror Vision Design Handoff Part 1]",
+      "sources": ["Scryfall", "magic.wizards.com: Duskmourn Vision Design Handoff"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fear of the Dark", "set": "Duskmourn: House of Horror", "note": "Same Fear-of Nightmare cycle, DSK-98, black slot"},
+    {"name": "Fear of Missing Out", "set": "Duskmourn: House of Horror", "note": "Red member of the Fear-of cycle, cross-color cycle sibling"},
+    {"name": "Ancient Cellarspawn", "set": "Duskmourn: House of Horror Commander", "note": "Named cellarspawn creature, same set world context"},
+    {"name": "Bone Shards", "set": "Modern Horizons 2", "note": "Comparable Pauper-playable B sacrifice-cost removal at same price point"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

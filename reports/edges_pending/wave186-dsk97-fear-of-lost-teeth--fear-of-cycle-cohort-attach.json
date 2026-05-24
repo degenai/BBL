@@ -1,0 +1,31 @@
+{
+  "edge_id": "wave161-dsk97-fear-of-lost-teeth--fear-of-cycle-cohort-attach",
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/97-fear-of-lost-teeth.md", "name": "Fear of Lost Teeth (DSK-97)"},
+    {"type": "character", "path": "cards/_characters/fear-of-cycle.md", "name": "Fear-of cycle (Duskmourn phobia-Nightmares)"}
+  ],
+  "description": "DSK-97 Fear of Lost Teeth joins the canonical Fear-of cycle as the first black slot. Predicate is the Scryfall `s:dsk name:\"Fear of\"` name-prefix query — load-bearing, designer-coordinated, fourteen-member roster. Card is vision-enriched (tags_hub populated wave 84-ish, Oriana Menendez art, full Vision body) and meets the cycle's attachment threshold. Precedent: DSK-98 (Fear of the Dark) was attached pre-trivia using the same canonical-name predicate, so this attach honors established Edgelord doctrine for this node. Side cleanup: node body's 'On-disk but not yet enriched' section was stale (claimed DSK-97 and DSK-98 were un-enriched stubs; they aren't); refactored into 'Vision-enriched, trivia-pending' subsection and corrected the corpus-coverage count from '7 of 14' to '9 of 14'.",
+  "citations": [
+    "[Scryfall: set DSK, query s:dsk name:\"Fear of\"]",
+    "[MTG Wiki: Duskmourn: House of Horror — Cycles section]",
+    "[Per-card Scryfall page DSK-97: type_line Enchantment Creature — Nightmare, oracle_text death-trigger 1 damage + 1 life, flavor_text Sam-teeth-wriggling]",
+    "[Wizards: Duskmourn Vision Design Handoff — Annie Sardelis, phobias-as-antagonists thesis]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/97-fear-of-lost-teeth.md",
+    "cards/_characters/fear-of-cycle.md"
+  ],
+  "other_candidates_considered": [
+    "Trivia-side Connections bullets between DSK-97 and the other cycle members — deferred. DSK-97 does not yet have a `## Trivia` section; cycle-member Connections bullets in other cards (Being Hunted, Burning Alive) are trivia-tier work, not Edgelord work. When triviabot writes the DSK-97 trivia, the Connections section will be populated then.",
+    "No stronger orphan-completion or replacement candidate surfaced in a quick corpus walk. The parent's staged move was correct."
+  ],
+  "next_pass_suggestions": [
+    "DSK-97 Fear of Lost Teeth needs trivia pass (currently vision-only, no `## Trivia` section) — feed it to bbl-triviabot when slate space allows. Same for DSK-98 Fear of the Dark (vision-only, attached but no trivia).",
+    "Five Fear-of cycle members remain out-of-corpus (Immobility, Surveillance, Impostors, Isolation, Missing Out). Watch future Collectr CSV uploads; full cycle completion would be 14/14 attached.",
+    "Node body's flavor speculation about 'three rares (the Dark, Missing Out, Infinity)' is now partially incorrect — Scryfall has DSK-98 at common, not rare. Caveats section already flagged this in a side-note; a future enlightened pass could rewrite the rare-cluster paragraph cleanly."
+  ],
+  "edgelord_mood": "blueballed-by-fanout"
+}

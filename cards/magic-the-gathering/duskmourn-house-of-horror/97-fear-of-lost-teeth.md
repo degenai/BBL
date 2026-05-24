@@ -10,6 +10,8 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
+characters:
+  - fear-of-cycle
 tags_hub:
   - teeth
   - ghost
@@ -75,3 +77,15 @@ A large fleshy creature with a wide-open tooth-filled jaw occupies the left side
 **Iconography:** screaming-faces, teeth, circular-aperture
 **Genre cues:** horror, fantasy, body-horror
 
+## Trivia
+
+- **Set context** — Fear of Lost Teeth is part of the DSK Fear-of cycle, a 14-card cohort of Enchantment Creature — Nightmare cards whose names begin with "Fear of...", each personifying a specific phobia as a stalking creature spanning all five colors. DSK-97 is the cycle's black common slot — odontophobia, the fear of teeth. `[Scryfall: type_line, set]`
+- **Mechanical reputation** — At {B} for a 1/1 with a death trigger (1 damage to any target, gain 1 life), it slots into Pauper mono-black sacrifice and enchantment archetypes as an efficient drain piece. EDHREC tracks it in approximately 8,903 Commander decks. `[Scryfall: legalities pauper:legal; EDHREC: Fear of Lost Teeth card page, via WebSearch snippet]`
+- **Flavor text** — "As it drew closer, Sam felt her own teeth wriggle in their sockets, as if they wanted to leap out and join the thing." The unnamed Sam is a survivor POV character recurring across DSK's flavor-text fiction, grounding the plane's horrors in a relatable human perspective. `[Scryfall: flavor_text]`
+- **Design** — Art by Oriana Menendez. Duskmourn's vision design was led by Annie Sardelis; the set frames its horror around a sentient, self-contained House that is the plane itself. `[Scryfall: artist; magic.wizards.com: Duskmourn House of Horror Vision Design Handoff Part 1]`
+
+### Related cards
+- Fear of the Dark (Duskmourn: House of Horror, 98) — same Fear-of Nightmare cycle, black slot at common
+- Fear of Missing Out (Duskmourn: House of Horror) — red cycle sibling, cross-color cohort
+- Ancient Cellarspawn (Duskmourn: House of Horror Commander) — named cellarspawn creature from the same plane's lore
+- Bone Shards (Modern Horizons 2) — Pauper-playable {B} sacrifice-cost removal for mechanical comparison

@@ -1,0 +1,41 @@
+{
+  "card_name": "Final Vengeance",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "99",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "mechanical",
+      "text": "Final Vengeance is a {B} sorcery that exiles a creature at the cost of sacrificing a creature or enchantment. In Pauper it has been compared to Bone Shards (MH2), which offers the same 1-mana sacrifice-cost removal — Bone Shards is generally considered the stronger card since it allows discard rather than sacrifice, but Final Vengeance's exile effect (rather than destroy) and the option to sacrifice an enchantment (relevant in Duskmourn's enchantment-creature-heavy environment) give it distinct applications. Commander's Herald's DSK Pauper review called it 'a Bone Shards that does exile' and noted it as solid for token-sacrifice shells. EDHREC rank 5,449, indicating stronger Commander uptake than its Fear-of cycle neighbors. [Scryfall: oracle_text, mana_cost, edhrec_rank:5449; commandersherald.com: DSK Pauper/Budget Set Review]",
+      "sources": ["Scryfall", "commandersherald.com: DSK Pauper/Budget Set Review"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The flavor text — \"The cries of survivor and cellarspawn mingled in a single, terrible roar as they plunged into the fathomless depths\" — references cellarspawn, the Horror-type creatures of Duskmourn that are manifestations of the House-god Valgavoth's daydreams. Ancient Cellarspawn (DSC) is a named example of this creature type. The flavor narrates a mutual-destruction death plunge, matching the card's sacrifice-cost mechanic: the caster destroys both the cellarspawn and one of their own. [Scryfall: flavor_text; magic.wizards.com: The Legends of Duskmourn; WebSearch snippet: Duskmourn MTG Wiki on cellarspawn]",
+      "sources": ["Scryfall", "magic.wizards.com: The Legends of Duskmourn", "MTG Wiki via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Art by David Szabo, released 2024-09-27. The card carries no enchantment frame effect (unlike the Fear-of Nightmare cycle cards in DSK), confirming it is a pure Sorcery and not part of the animate-enchantment mechanical subtheme. [Scryfall: artist, released_at, frame_effects field is absent]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Final Vengeance is legal in Standard, Pioneer, Modern, Legacy, Vintage, Pauper, and Commander as of release date 2024-09-27. No restricted or banned status across tracked formats. [Scryfall: legalities]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Bone Shards", "set": "Modern Horizons 2", "note": "Mechanical analog — {B} sacrifice-cost removal, often compared directly"},
+    {"name": "Ancient Cellarspawn", "set": "Duskmourn: House of Horror Commander", "note": "Named cellarspawn creature, referenced in flavor text"},
+    {"name": "Deadly Dispute", "set": "Adventures in the Forgotten Realms", "note": "Pauper staple in same sacrifice-archetype shell"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Fear of the Dark",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "98",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Fear of the Dark is the black common slot of the Fear-of cycle (14-card Enchantment Creature — Nightmare cohort, Duskmourn: House of Horror), personifying nyctophobia — the fear of the dark — as a 5/5 creature. Its mechanics directly encode the flavor: the attack trigger grants menace and deathtouch only when the defending player controls no Glimmer creatures, meaning the darkness itself becomes predatory once the lights (Glimmer) are gone. [Scryfall: oracle_text, type_line, set]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Sam Wolfe Connelly, who has a dedicated cluster of work across Duskmourn including Say Its Name (DSK-197). Connelly's MTG catalogue extends back to Avacyn Restored (2012), spanning over 22 cards across multiple sets. [Scryfall: artist, set; Gatherer artist search: Sam Wolfe Connelly via WebSearch snippet]",
+      "sources": ["Scryfall", "Gatherer artist search via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The first thing it kills is the light.\" Six words encoding the card's mechanical condition (no Glimmer creatures = no light = the creature triggers) directly into its flavor — a clean rules-flavor lock. [Scryfall: flavor_text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a {4}{B} 5/5 common, Fear of the Dark is a sizeable threat for Pauper and is legal in that format. Its conditional menace+deathtouch trigger creates a cross-mechanic dependency on the Glimmer creature subtype introduced in DSK, making it mechanically bound to its set context rather than universally applicable. EDHREC rank 12,463 among all Commander-legal cards. [Scryfall: legalities pauper:legal, cmc:5, power:5, toughness:5, edhrec_rank:12463]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Fear of Lost Teeth", "set": "Duskmourn: House of Horror", "note": "Same Fear-of cycle, adjacent collector number DSK-97"},
+    {"name": "Say Its Name", "set": "Duskmourn: House of Horror", "note": "Also illustrated by Sam Wolfe Connelly in DSK"},
+    {"name": "Glimmer of Hope", "set": "Duskmourn: House of Horror", "note": "Glimmer creature subtype — mechanical counterpart to this card's trigger condition"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

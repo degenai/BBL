@@ -76,6 +76,18 @@ A large abstract horror figure fills the frame. The form is loosely humanoid but
 **Iconography:** reaching-hands, hollow-cavity, dissolving-form
 **Genre cues:** horror, fantasy, expressionist
 
+## Trivia
+
+- **Set context** — Fear of the Dark is the black common slot of the DSK Fear-of cycle (14-card Enchantment Creature — Nightmare cohort), personifying nyctophobia as a 5/5 creature. The mechanics directly encode the flavor: the attack trigger grants menace and deathtouch only when the defending player controls no Glimmer creatures — the darkness becomes predatory once the lights are gone. `[Scryfall: oracle_text, type_line, power, toughness]`
+- **Flavor text** — "The first thing it kills is the light." Six words that lock the card's mechanical condition (no Glimmer = no light = trigger fires) directly into flavor — a clean rules-flavor correspondence. `[Scryfall: flavor_text]`
+- **Design** — Art by Sam Wolfe Connelly, whose Duskmourn cluster also includes Say Its Name (DSK-197). Connelly's MTG work spans back to Avacyn Restored (2012), with over 22 cards across multiple sets. `[Scryfall: artist; Gatherer artist search via WebSearch snippet]`
+- **Mechanical reputation** — At {4}{B} for a 5/5 common, it is Pauper-legal but sees limited play; the Glimmer dependency limits universality to DSK-context decks. EDHREC rank 12,463. `[Scryfall: legalities pauper:legal, edhrec_rank:12463]`
+
+### Related cards
+- Fear of Lost Teeth (Duskmourn: House of Horror, 97) — adjacent Fear-of cycle member, same artist set (DSK)
+- Say Its Name (Duskmourn: House of Horror, 197) — also by Sam Wolfe Connelly in DSK
+- Glimmer of Hope (Duskmourn: House of Horror) — Glimmer creature subtype, mechanical counterpart to this card's trigger condition
+
 ## Connections
 
 - [[fear-of-cycle]] — Member of the Duskmourn Fear-of cycle (designer-coordinated 14-card cohort of Enchantment Creature — Nightmare cards whose names all begin with "Fear of...", each personifying a specific phobia as an embodied stalking creature). This Fear of the Dark (DSK-98) is the cycle's black slot rendering of the genre-classical primal phobia — the night itself as predator, *"The first thing it kills is the light"* per the printed flavor. Per the cohort node's caveat, Scryfall lists DSK-98 at common (the node body had previously assumed rare from the original Wizards roster table — the corpus print resolves the rarity question in favor of common). Mechanically a `{4}{B}` Nightmare whose attack trigger conditionally grants menace and deathtouch when the defending player controls no Glimmer creatures — an explicit cross-cohort wire to the DSK Glimmer-creature subtheme (the card *literally* rules-text-checks the absence of light to gain its predatory abilities, encoding the flavor at the rules level). Artist **Sam Wolfe Connelly** is the same artist as Say Its Name (DSK-197), already cross-referenced in the fear-of-cycle node body as part of Connelly's Duskmourn cluster. With this attachment the cohort's BBL corpus coverage advances from 7/14 to 8/14 canonical members. `[Scryfall: Fear of the Dark DSK-98 — type_line, oracle_text, flavor_text, rarity, artist; MTG Wiki: Duskmourn: House of Horror — Cycles section]`
