@@ -1,10 +1,10 @@
 ---
 type: symbol
-name: Energy (mechanic)
+name: Energy Counter (mechanic)
 aliases:
-  - energy
   - energy-counter
   - energy-counters
+  - energy
   - energy-mechanic
   - "{E}"
 faction: ~
@@ -33,7 +33,7 @@ tags:
   - layer
   - symbol
 ---
-# Energy (mechanic)
+# Energy Counter (mechanic)
 
 The iconographic-and-rules-text primitive of the **Energy counter** mechanic introduced in *Kaladesh* (KLD, 2016-09-30) and revived in *Modern Horizons 3* (MH3, 2024-06-14) as one of MH3's three signature returning mechanics (alongside Modular and Eldrazi Spawn-style design). Energy is a designer-coordinated player-resource keyword: cards generate `{E}` (energy counters) on triggers (most commonly enters-the-battlefield) and spend `{E}` on activated abilities or alternative costs. The counters live on the player, not on permanents, and persist across turns — a non-mana resource pool that runs in parallel to the mana economy. The marker is a first-class graph-relevant mechanical primitive parallel to [[suspect]], [[manifest-dread]], and [[single-strike-emblem]]: a designer-coordinated cohort identifier that crosses multiple cards in a set, marks them as members of a designer-stated thematic program, and provides the canonical iconographic anchor for any bundle assembled around the program.
 

@@ -14,7 +14,7 @@ suspected_ip: ""
 ip_confidence: none
 ip_verified: false
 symbols:
-  - energy
+  - energy-counter
 tags_hub:
   - gremlin
   - swarm

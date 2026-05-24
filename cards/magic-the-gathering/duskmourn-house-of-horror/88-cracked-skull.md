@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 4
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - skull
+  - blade
+  - portrait
+  - tattoo
+  - grim
+  - villain
+  - violence
+  - warrior
+  - blood
+  - headband
+  - male-figure
+tags_filter:
+  - solo
+  - close-up
+  - forward-facing
+  - black-magic
+  - enchantment-aura
+  - portrait-mode
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/88-cracked-skull.png
 average_cost_paid: 0
 market_price: 0.11
@@ -30,6 +47,28 @@ mana_cost: "{2}{B}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: indeterminate
+setting: other
 ---
 
 # Cracked Skull (Duskmourn: House of Horror)
+
+## Vision
+
+![88-cracked-skull](../../_images/magic-the-gathering/duskmourn-house-of-horror/88-cracked-skull.png)
+
+An extreme close-up portrait of a heavily bearded male figure. He presses a blade flat against his forehead, the edge running along his brow line, with visible blood. He wears a cloth headband or bandage. His gaze is directed toward the viewer — intense, strained, unflinching. His forearm is visible, bearing a tattoo with a design that is illegible at this resolution. He wears dark clothing, possibly armored. The lighting is harsh and high-contrast: a bright white source from below left washes his face in stark light against a pale, nearly blown-out background. The mood is one of grim endurance and controlled violence.
+
+**Subject:** a bearded male figure pressing a blade flat against his own forehead, close-up portrait
+
+**Composition:** close-up, portrait, figures: solo, facing: forward
+**Setting:** other, indeterminate
+**Foreground:** bearded male figure holding a blade against his forehead, heavily detailed face and forearm with tattoo  *(palette: pale skin, dark gray, steel gray, muted red)*
+**Background:** blown-out pale white, minimal detail  *(palette: white, off-white)*
+**Mood / lighting:** grim, harsh
+**Emotion read:** grim endurance — eyes fixed on the viewer, expression controlled and intense despite apparent pain
+**Objects:** blade, headband, bandage
+**Iconography:** tattoo
+**Genre cues:** dark fantasy, horror
+

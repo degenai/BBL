@@ -74,3 +74,14 @@ A figure in casual clothing stands centered with arms open wide in a posture of 
 **Iconography:** wings, chains, symmetrical-framing
 **Genre cues:** horror, fantasy, gothic
 
+## Trivia
+
+- **Set context** — Duskmourn: House of Horror (set code DSK, released 2024-09-27) is set on a unique plane consisting of a single supernatural haunted house rather than a continent or world. The set draws consciously from 1970s-1990s horror cinema, with cards directly referencing The Texas Chain Saw Massacre, The Shining, and The Blair Witch Project. `[Wizards.com: "Duskmourn: House of Horror Mechanics", Matt Tabak, 2024-08-31]` `[GamesRadar: "How MTG Duskmourn captures the '80s horror vibe"]`
+- **Flavor text** — "Come. Strip yourself of flesh and fear. Hunt for me. *Entertain* me." — The Lord of Pain `[Scryfall]`. The Lord of Pain is the de facto leader of the razorkin — survivors who have been converted into hunters — and exists only within the screens throughout the House, coaxing vulnerable survivors to join his cult via whispered transmissions. His design draws on two horror archetypes: the recorded-message traps of John Kramer (Jigsaw, *Saw*) and the pain-as-transcendence philosophy of Pinhead (*Hellraiser*). `[MTG Wiki: "Lord of Pain", via WebSearch snippet]`
+- **Design** — Give In to Violence is a {1}{B} instant that grants +2/+2 and lifelink, a clean combat trick at common. It is legal in Pauper, Standard, Pioneer, Modern, and Commander `[Scryfall]`. With an EDHREC rank of 13,722, it sits in the middle of the DSK black commons by inclusion rate — functional but not widely sought outside limited formats `[Scryfall: edhrec_rank field]`.
+- **Artist** — Illustrated by Septian Fajrianto, an Indonesian digital artist whose MTG work spans several recent sets `[Scryfall: artist field]`. No published Hipsters of the Coast artist spotlight was found for Fajrianto as of this research pass.
+
+### Related cards
+- The Lord of Pain (DSK Commander no. 3) — the named speaker of the flavor text; a legendary creature card for the Commander precon
+- Razorkin Needlehead (DSK) — creature type that the Lord of Pain commands; illustrates the razorkin faction this card's lore references
+- Chainsaw (DSK) — another DSK card directly referencing classic 1980s horror (Texas Chain Saw Massacre), same set-design horror-cinema frame

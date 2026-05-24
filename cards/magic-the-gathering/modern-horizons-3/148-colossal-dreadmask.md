@@ -11,7 +11,7 @@ quantity: 2
 held_for_lair: 0
 bundles: []
 symbols:
-  - energy
+  - energy-counter
 tags_hub:
   - monster
   - horror

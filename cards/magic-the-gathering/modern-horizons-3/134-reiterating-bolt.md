@@ -16,7 +16,7 @@ ip_verified: false
 characters:
   - izzet-league
 symbols:
-  - energy
+  - energy-counter
 tags_hub:
   - lightning
   - mage

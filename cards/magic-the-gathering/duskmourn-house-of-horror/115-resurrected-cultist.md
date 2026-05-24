@@ -74,3 +74,14 @@ A hooded figure bursts upward from the ruins of what appears to be a wooden coff
 **Iconography:** glowing-eyes, broken-coffin, ornate-gem
 **Genre cues:** dark-fantasy, horror, fantasy
 
+## Trivia
+
+- **Set context** — Resurrected Cultist is a common black creature in Duskmourn: House of Horror (DSK, released 2024-09-27), a horror-themed set set on a single supernatural haunted house plane. It is typed as Human Cleric, placing it in the cultist faction that populates the house's more organized supernatural hierarchies. `[Scryfall: type_line and set_name fields]`
+- **Mechanics** — The card combines two DSK-era mechanics: Delirium (requiring four or more card types in the graveyard to activate its self-recursion) and the Finality Counter. Delirium originated in the *Shadows over Innistrad* block (2016) as a graveyard-threshold condition; its return in DSK is thematically coherent — both sets are horror planes with graveyard emphasis. The Finality Counter is a deciduous counter introduced in *The Lost Caverns of Ixalan* (2023) to cleanly track "if this creature would die, exile it instead" — it replaced forgettable in-text reminder clauses with a visible counter, solving a decades-old memory issue. `[Scryfall: oracle_text field]` `[Draftsim: "Finality Counters in MTG: Rules, History, and Best Cards"]`
+- **Mechanical profile** — Resurrected Cultist is a 4/1 for {2}{B} — above-rate power for its cost, balanced by 1 toughness making it fragile in combat. Its self-recursion via Delirium ({2}{B}{B}) lets it come back once, but the Finality Counter prevents a second resurrection, capping the loop by design. EDHREC rank 23,837 — one of the lower-included DSK commons, reflecting that its Delirium condition requires significant graveyard setup for a common. `[Scryfall: power/toughness and edhrec_rank fields]`
+- **Artist** — Illustrated by Tyler Walpole, a veteran MTG illustrator with many Wizards credits over multiple years and sets `[Scryfall: artist field]`.
+
+### Related cards
+- Rite of the Moth (DSK) — another DSK black card that returns creatures with a Finality Counter; same mechanic pairing in the same set
+- Gloomhunter (Shadows over Innistrad) — an early Delirium common; illustrates how Delirium moved from Innistrad to DSK as a recurring horror-plane keyword
+- Eternal Scourge (EMN) — a creature with graveyard-exile-prevention design that preceded the Finality Counter concept as a different solution to the "escaping graveyard loops" design problem

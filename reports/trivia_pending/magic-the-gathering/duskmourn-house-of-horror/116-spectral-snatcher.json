@@ -1,0 +1,41 @@
+{
+  "card_name": "Spectral Snatcher",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "116",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Spectral Snatcher is a common black Spirit in Duskmourn: House of Horror (DSK, 2024-09-27). As a Spirit in a haunted-house set, it represents entities that were once inhabitants of the house and have never left.",
+      "sources": ["Scryfall: type_line and set_name fields"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Ward (discard a card) is an evergreen keyword introduced in Strixhaven (2021); the discard-cost variant is relatively rare compared to the more common mana-tax Ward, and fits DSK's hand-pressure design theme. Swampcycling {2} lets the card convert to a Swamp when the 6-mana cost is uncastable, making it a dual-mode infrastructure card.",
+      "sources": ["Scryfall: oracle_text and keywords fields", "Draftsim: Ward in MTG: Rules, History, and FAQ"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 6/5 for {4}{B}{B} is a large body at common. EDHREC rank 13,985. Not legal in TLR format. The Swampcycling pulls double duty — threatening finisher or land-fetch depending on board state.",
+      "sources": ["Scryfall: edhrec_rank and legalities fields"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Domenico Cava, an Italian illustrator with recent MTG creature art credits. No published Hipsters of the Coast artist spotlight found as of this research pass.",
+      "sources": ["Scryfall: artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Troll of Khazad-dum", "set": "Modern Horizons 2", "note": "Another large black common with Swampcycling {2} — benchmark for the dual-mode design"},
+    {"name": "Westgate Regent", "set": "Adventures in the Forgotten Realms", "note": "Earlier MTG precedent for Ward (discard a card) cost variant"},
+    {"name": "Phantom Nightmare", "set": "Duskmourn: House of Horror", "note": "Another DSK Spirit filling the large-haunted-entity slot in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

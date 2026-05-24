@@ -1,0 +1,38 @@
+{
+  "edge_id": "ragged-playmate-dsk150--dsk-toy-horror-cohort-attach",
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/duskmourn-house-of-horror/150-ragged-playmate.md", "name": "Ragged Playmate (DSK-150, C)"},
+    {"type": "character", "path": "cards/_characters/dsk-toy-horror.md", "name": "Toy horror cohort (Duskmourn corrupted-childhood artifact-creatures)"}
+  ],
+  "description": "Five-of-N now. Ragged Playmate is the textbook miss-from-the-original-roster — Scryfall-verified type_line is Artifact Creature — Toy (red mana cost {1}{R} threw the initial read; the subtype is the load-bearing predicate, not the color). Cohort's three signals all hit: (a) Toy creature subtype on type_line, (b) corrupted-childhood-object art register (a button-eyed ragdoll in faded overalls, the textbook patched-stuffed-toy iconography), (c) repair-corruption / abandonment-survivor flavor with named owner — 'You tried to throw me away, Henry. I don't like that at all.' The Henry flavor is the cohort's repair-corruption thesis stated from the *discard* angle, which the parent tsukumogami hub explicitly names as the Tsukumogami-ki emaki's load-bearing motif (the tale of abandoned utensils plotting revenge on the owners who threw them out). Adding the *ragdoll-revenant* archetype to the four prior archetypes (stuffed-animal-mauler, patchwork-construct, jester-toy-ambush, corrupted-appliance) gives the cohort a non-redundant 5-archetype substrate. Also breaks the Domenico-Cava-trio single-artist dominance (Kaitlyn McCulley's first major MTG credit), so the layer-node now reads as a designer-coordinated cohort rather than a within-set artist run. The card sits at ~48% of Arabella, Abandoned Doll commander decks per EDHREC — the Toy-tribal commander synergy is canonical and confirms designer intent.",
+  "citations": [
+    "[Scryfall: api.scryfall.com/cards/dsk/150 — type_line: 'Artifact Creature — Toy', verified 2026-05-24]",
+    "[Scryfall: 150-ragged-playmate flavor_text and oracle_text]",
+    "[Wizards of the Coast / MTG Wiki: Toy subtype introduced in Duskmourn: House of Horror, 2024-09-27]",
+    "[Mark Rosewater: Top of the Duskmourning Part 1 and Part 2, Making Magic, 2024-09 — cursed-toy / killer-doll register]",
+    "[EDHREC: Ragged Playmate appears in ~48% of Arabella, Abandoned Doll commander decks]",
+    "[cards/_hubs/tsukumogami.md — Tsukumogami-ki emaki discard-as-trigger motif]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/150-ragged-playmate.md",
+    "cards/_characters/dsk-toy-horror.md"
+  ],
+  "edgelord_mood": "blueballed-by-fanout",
+  "other_candidates_considered": [
+    "Killer's Mask (DSK-104) — slasher-implements equipment, NOT a Toy artifact creature; belongs to a different DSK register (slasher-implements / weapons-of-the-killer) and would be a candidate for a future `dsk-slasher-implements` cohort if Chainsaw, Killer's Mask, and the named slasher weapons are co-enriched — not standing this up on one card.",
+    "Miasma Demon (DSK-109) — demon creature, no Toy subtype, no possessed-object register; routes nowhere new.",
+    "Popular Egotist (DSK-114) — Human Survivor; could route to the survival-archetype cohort if that node is later expanded but the cohort currently scopes to improvised-survival-grammar artifacts not human survivors.",
+    "Sporogenic Infection (DSK-117) — Aura, body-horror-fungal register, no cohort fit.",
+    "Anthropede (DSK-167) — Creature — Horror Insect, body-horror register, no Toy or possessed-object subtype; routes nowhere new.",
+    "Enlightened-replacement option considered and rejected: no existing edge on Ragged Playmate to refactor — this is a clean stack-attach, not a replacement."
+  ],
+  "next_pass_suggestions": [
+    "Scryfall sweep for the full s:dsk t:toy roster — 11 Toy artifact creatures per the Ragged Playmate trivia citation — to surface other in-corpus members that may need cohort-attach (Twitching Doll and Piggy Bank are named in the Ragged Playmate related-cards list and should be checked for inventory status).",
+    "Bashful Beastie (DSK-169) is in corpus and was vision-passed in the same batch — verify whether it carries the Toy subtype; if so, sixth attach candidate.",
+    "Dollmaker's Shop (DSK Room) mentioned in Anthropede's related-cards — when Rooms cohort gets stood up, the toy-horror ↔ rooms edge across destroyer-and-destroyed becomes legible.",
+    "Wave 92 YAML block-form check: Ragged Playmate's existing tags_hub and tags_filter were already block-form; the new `characters:` field was added in block form per discipline."
+  ]
+}

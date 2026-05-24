@@ -32,6 +32,8 @@ tags_filter:
   - scene-mode
   - creature
   - red-magic
+characters:
+  - dsk-toy-horror
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/150-ragged-playmate.png
 average_cost_paid: 0
 market_price: 0.06

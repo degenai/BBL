@@ -1,0 +1,41 @@
+{
+  "card_name": "Give In to Violence",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "101",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmourn: House of Horror (DSK, 2024-09-27) is set on a plane that is a single supernatural haunted house. The set draws on 1970s-1990s horror cinema including The Texas Chain Saw Massacre, The Shining, and The Blair Witch Project.",
+      "sources": ["Wizards.com: Duskmourn House of Horror Mechanics (Matt Tabak, 2024-08-31)", "GamesRadar: How MTG Duskmourn captures the 80s horror vibe"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Come. Strip yourself of flesh and fear. Hunt for me. Entertain me.\" — The Lord of Pain. The Lord of Pain is the de facto leader of the razorkin, existing only within the House's screens, coaxing survivors into conversion. His design draws on John Kramer (Jigsaw, Saw) and Pinhead (Hellraiser).",
+      "sources": ["Scryfall: flavor_text field", "MTG Wiki: Lord of Pain, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Give In to Violence is a {1}{B} instant granting +2/+2 and lifelink until end of turn. Legal in Pauper, Standard, Pioneer, Modern, Commander. EDHREC rank 13,722 — functional combat trick, middle-of-the-road inclusion for the DSK black commons.",
+      "sources": ["Scryfall: legalities and edhrec_rank fields"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Septian Fajrianto, an Indonesian digital artist active across recent MTG sets. No published artist spotlight found as of this research pass.",
+      "sources": ["Scryfall: artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "The Lord of Pain", "set": "DSK Commander", "note": "Named speaker of the flavor text; his lore grounds the card's seduction-into-violence framing"},
+    {"name": "Razorkin Needlehead", "set": "Duskmourn: House of Horror", "note": "Illustrates the razorkin faction the Lord of Pain commands"},
+    {"name": "Chainsaw", "set": "Duskmourn: House of Horror", "note": "Same horror-cinema design frame — direct 1980s slasher reference in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

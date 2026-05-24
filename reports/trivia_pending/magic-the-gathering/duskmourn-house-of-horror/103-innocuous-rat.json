@@ -1,0 +1,41 @@
+{
+  "card_name": "Innocuous Rat",
+  "game": "Magic: The Gathering",
+  "set": "Duskmourn: House of Horror",
+  "collector_number": "103",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Innocuous Rat sits in the black creature suite of Duskmourn: House of Horror (DSK, 2024-09-27), a set built around the atmosphere of a single supernatural haunted house. The rat is a horror-movie staple — a mundane animal that signals something wrong nearby.",
+      "sources": ["Scryfall: set_name field", "Wizards.com: Planeswalker's Guide to Duskmourn, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Carries Manifest Dread, a DSK-original mechanic that upgrades original Manifest (Fate Reforged, 2015). Unlike original Manifest which blindly placed the top card face down, Manifest Dread lets the controller look at the top two cards, choose which becomes the face-down 2/2 and which goes to the graveyard — adding card selection and Delirium fueling simultaneously.",
+      "sources": ["Wizards.com: Duskmourn House of Horror Mechanics (Matt Tabak, 2024-08-31)", "DotEsports: MTG manifest dread mechanic in Duskmourn explained"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a 1/1 for {1}{B} that makes a 2/2 on death and mills a card, Innocuous Rat was assessed at DSK release as a usable Pauper blocker with limited competitive ceiling — manifested cards only pay off if flippable creatures land face down. EDHREC rank 11,625.",
+      "sources": ["Scryfall: edhrec_rank field", "CoolStuffInc: Duskmourn House of Horrors Pauper Review by Paige Smith, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Maxime Minard, a French concept artist with recent MTG credits.",
+      "sources": ["Scryfall: artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Manifest", "set": "Duskmourn: House of Horror", "note": "Scryfall-linked combo piece; defines the Manifest Dread mechanic rules text"},
+    {"name": "Miserable Failure", "set": "Duskmourn: House of Horror", "note": "Another DSK black common with Manifest Dread — same mechanic cycle"},
+    {"name": "Pack Rat", "set": "Return to Ravnica / M15", "note": "Establishes the ceiling of competitive rat-card power level for contrast"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

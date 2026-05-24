@@ -73,3 +73,14 @@ A spectral humanoid figure of extreme height and thinness floats near the center
 **Iconography:** wide-brimmed-hat, clawed-hands, trailing-mist
 **Genre cues:** horror, dark-fantasy, gothic
 
+## Trivia
+
+- **Set context** — Spectral Snatcher is a common black Spirit in Duskmourn: House of Horror (DSK, released 2024-09-27). As a Spirit creature in a haunted-house set, it occupies the category of entities that were once inhabitants of the house and have never left. `[Scryfall: type_line and set_name fields]`
+- **Mechanics** — The card carries two abilities. Ward (discard a card) is an evergreen keyword introduced in Strixhaven (2021) that taxes opponents for targeting the creature; the discard-cost variant — rather than the more common mana cost — is relatively uncommon and reflects the horror set's hand-pressure theme. Swampcycling {2} allows discarding the card to search for a Swamp, making a 6-mana common a useful piece of mana-fixing infrastructure in slow or multicolor black builds. `[Scryfall: oracle_text and keywords fields]` `[Draftsim: "Ward in MTG: Rules, History, and FAQ"]`
+- **Mechanical profile** — A 6/5 for {4}{B}{B} is a large body at common. The Swampcycling lets the card pull double duty: it either lands as a threatening finisher or cycles into a Swamp when the mana cost is uncastable. EDHREC rank 13,985. Notably not legal in TLR format. `[Scryfall: edhrec_rank and legalities fields]`
+- **Artist** — Illustrated by Domenico Cava, an Italian illustrator whose MTG credits include other recent creature arts. No published Hipsters of the Coast artist spotlight found for Cava as of this research pass. `[Scryfall: artist field]`
+
+### Related cards
+- Troll of Khazad-dum (MH2) — another large black common with Swampcycling {2}; benchmark for this card's dual-mode design
+- Westgate Regent (AFR) — an earlier MTG card with Ward (discard a card) cost; establishes the precedent for the discard-Ward variant `[Wargamer: MTG Ward rules guide, via WebSearch snippet]`
+- Phantom Nightmare (DSK) — another DSK Spirit that fills the large-haunted-entity slot in DSK black

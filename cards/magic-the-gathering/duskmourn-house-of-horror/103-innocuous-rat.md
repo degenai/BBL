@@ -74,3 +74,14 @@ A large grey rat dominates the foreground, body low and pressed close to the cra
 **Iconography:** red-orbs, bare-branches
 **Genre cues:** horror, fantasy, dark-fantasy
 
+## Trivia
+
+- **Set context** — Innocuous Rat is part of the black creature suite in Duskmourn: House of Horror (DSK, 2024-09-27), a set built around the atmosphere of a single supernatural haunted house. The rat fits thematically as a horror-movie staple — an apparently mundane animal that signals the presence of something wrong. `[Scryfall: set_name field]` `[Wizards.com: "Planeswalker's Guide to Duskmourn", via WebSearch snippet]`
+- **Mechanic** — Innocuous Rat carries Manifest Dread, a DSK-original mechanic that upgrades the original Manifest from *Fate Reforged* (2015). Where original Manifest blindly put the top card of the library face down, Manifest Dread lets the controller look at the top two cards, choose which goes face down as a 2/2 and which goes to the graveyard — providing card selection and fueling Delirium simultaneously. `[Wizards.com: "Duskmourn: House of Horror Mechanics", Matt Tabak, 2024-08-31]` `[DotEsports: "MTG manifest dread mechanic in Duskmourn explained"]`
+- **Mechanical reputation** — As a 1/1 for {1}{B} that generates a 2/2 on death and mills a card, Innocuous Rat was noted at DSK release as a usable Pauper blocker with a death trigger — but limited competitive ceiling because manifested creatures are only useful if they're creature cards worth flipping. EDHREC rank 11,625 among DSK cards. `[Scryfall: edhrec_rank field]` `[CoolStuffInc: "Duskmourn: House of Horrors Pauper Review" by Paige Smith, via WebSearch snippet]`
+- **Artist** — Illustrated by Maxime Minard, a French concept artist and illustrator whose MTG portfolio spans multiple recent sets `[Scryfall: artist field]`.
+
+### Related cards
+- Manifest (DSK no. 189) — the named helper card Scryfall links as a combo piece; explains the Manifest Dread mechanic rules text
+- Miserable Failure (DSK) — another DSK black common that uses Manifest Dread on an instant, same mechanic cycle
+- Pack Rat (RTR / M15) — the MTG rat with the widest competitive footprint; provides context for how far Innocuous Rat sits from the ceiling of rat-card power level
