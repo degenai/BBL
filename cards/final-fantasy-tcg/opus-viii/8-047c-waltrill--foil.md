@@ -29,10 +29,10 @@ tags_filter:
   - no-face
 reference_image: cards/_images/final-fantasy-tcg/opus-viii/8-047c-waltrill--foil.jpg
 average_cost_paid: 0
-market_price: 0.84
-market_price_as_of: 2026-05-19
+market_price: 0.99
+market_price_as_of: 2026-05-24
 date_added: 2026-05-17
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://storage.googleapis.com/marcieapi-images/8-047C_eg.jpg
 art_match_confidence: high
 needs_manual_review: false

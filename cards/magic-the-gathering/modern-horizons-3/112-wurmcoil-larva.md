@@ -36,10 +36,10 @@ tags_filter:
   - lifelink
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/112-wurmcoil-larva.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-19
+market_price: 0.17
+market_price_as_of: 2026-05-24
 date_added: 2026-05-11
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/c/c/cc9b30e0-3934-4e4c-bdd9-5b7696b45948.png?1717012109
 art_match_confidence: high
 needs_manual_review: false

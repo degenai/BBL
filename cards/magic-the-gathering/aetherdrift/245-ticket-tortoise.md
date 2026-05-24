@@ -32,10 +32,10 @@ tags_filter:
   - treasure
 reference_image: cards/_images/magic-the-gathering/aetherdrift/245-ticket-tortoise.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-19
+market_price: 0.05
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/f/a/fa178ed7-8f3a-45f0-817d-5fbc7993b04a.png?1738356856
 art_match_confidence: high
 needs_manual_review: false

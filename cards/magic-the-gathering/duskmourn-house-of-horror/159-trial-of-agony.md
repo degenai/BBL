@@ -1,7 +1,7 @@
 ---
 name: Trial of Agony
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 159
 rarity: U
 variance: Normal
@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/159-trial-of-agony.png
 average_cost_paid: 0
 market_price: 0.28
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-11
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/f/a/fa62f67a-d20f-4d99-b0a2-327634299c9f.png?1726286448
 art_match_confidence: high
 needs_manual_review: false

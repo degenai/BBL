@@ -31,10 +31,10 @@ tags_filter:
   - instant
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/181-jeskai-charm.png
 average_cost_paid: 0
-market_price: 0.27
-market_price_as_of: 2026-05-19
+market_price: 0.29
+market_price_as_of: 2026-05-24
 date_added: 2026-05-12
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/c/a/ca268705-ef04-4bf1-8a5d-866bb3e5bb61.png?1562793488
 art_match_confidence: high
 needs_manual_review: false

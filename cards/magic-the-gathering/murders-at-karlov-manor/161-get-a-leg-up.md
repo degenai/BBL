@@ -31,10 +31,10 @@ tags_filter:
   - scene-mode
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/161-get-a-leg-up.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-19
+market_price: 0.23
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/3/4/34e61e0f-d0f3-492a-92f1-36f72a91583a.png?1706241982
 art_match_confidence: high
 needs_manual_review: false

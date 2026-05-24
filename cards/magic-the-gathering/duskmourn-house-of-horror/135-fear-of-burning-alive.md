@@ -1,7 +1,7 @@
 ---
 name: Fear of Burning Alive
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 135
 rarity: U
 variance: Normal
@@ -39,9 +39,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/135-fear-of-burning-alive.png
 average_cost_paid: 0
 market_price: 0.29
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-11
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/b/2/b282f8e3-8b79-47e9-8c18-62284211442b.png?1726286352
 art_match_confidence: high
 needs_manual_review: false

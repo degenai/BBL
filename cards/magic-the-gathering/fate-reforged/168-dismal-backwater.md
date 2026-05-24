@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/fate-reforged/168-dismal-backwater.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-13
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/6/9/69005861-f228-444d-ae64-d36ec74b23da.png?1562826113
 art_match_confidence: high
 needs_manual_review: false

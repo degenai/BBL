@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/48-sheer-drop.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-12
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/7/5/75c85fa4-862d-4f94-9531-b62775838ab9.png?1562922839
 art_match_confidence: high
 needs_manual_review: false

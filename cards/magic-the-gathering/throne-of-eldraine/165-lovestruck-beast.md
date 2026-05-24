@@ -29,10 +29,10 @@ tags_filter:
   - 2-figures
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/165-lovestruck-beast.png
 average_cost_paid: 0
-market_price: 0.3
-market_price_as_of: 2026-05-19
+market_price: 0.28
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/4/c/4ccdef9c-1e85-4358-8059-8972479f7556.png?1572490606
 art_match_confidence: high
 needs_manual_review: false

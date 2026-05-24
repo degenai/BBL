@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/fate-reforged/166-blossoming-sands.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-13
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/2/4/247579f6-cf8c-4c61-aae6-e01c1d9237dc.png?1562823368
 art_match_confidence: high
 needs_manual_review: false

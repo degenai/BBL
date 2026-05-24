@@ -31,10 +31,10 @@ tags_filter:
   - faces-away
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/178-growth-spiral.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-19
+market_price: 0.33
+market_price_as_of: 2026-05-24
 date_added: 2026-05-13
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/7/c/7c77a6b1-ef06-4da5-8e86-a5204216cb77.png?1584831556
 art_match_confidence: high
 needs_manual_review: false

@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/105-smitten-swordmaster.png
 average_cost_paid: 0
 market_price: 0.29
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/f/8/f82541f2-b17c-45b4-87ff-f9b46d23578c.png?1572490242
 art_match_confidence: high
 needs_manual_review: false

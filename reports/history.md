@@ -21,3 +21,4 @@ Append-only log of every non-skipped run.
 - 2026-05-18 22:23:01  `collectrexport5_18_2026.csv`  hash:`4ccdc6007151`  singles[c=162 u=2499 z=0 a=0 k=2661]  sealed[c=0 u=18 z=0 a=0 k=18]
 - 2026-05-19 03:31:56  `collectrexport5_19_2026.csv`  hash:`49118f8503e8`  singles[c=43 u=2661 z=0 a=0 k=2704]  sealed[c=0 u=18 z=0 a=0 k=18]
 - 2026-05-19 03:32:36  `collectrexport5_19_2026.csv`  hash:`49118f8503e8`  singles[c=0 u=2704 z=0 a=0 k=2704]  sealed[c=0 u=18 z=0 a=0 k=18]
+- 2026-05-23 22:51:16  `collectrexport5_23_2026.csv`  hash:`7970957903ae`  singles[c=157 u=2703 z=1 a=1 k=2860]  sealed[c=3 u=17 z=1 a=1 k=20]

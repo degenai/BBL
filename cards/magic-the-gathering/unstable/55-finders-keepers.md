@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/unstable/55-finders-keepers.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-13
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/5/f/5f4b7148-e98f-40a4-95e3-ffdd2daa324b.png?1562914921
 art_match_confidence: high
 needs_manual_review: false

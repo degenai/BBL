@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-002-baby-rampaging-great-ape-baby.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-06
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401023454/78EBA0C4FDAEC13B252120A2397732660C813942/
 image_width: 624
 image_height: 871

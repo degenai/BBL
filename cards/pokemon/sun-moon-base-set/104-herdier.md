@@ -31,10 +31,10 @@ tags_filter:
   - creature-only
 reference_image: cards/_images/pokemon/sun-moon-base-set/104-herdier.jpg
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-19
+market_price: 0.19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-11
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://archives.bulbagarden.net/media/upload/e/e1/HerdierSunMoon104.jpg
 art_match_confidence: high
 needs_manual_review: false

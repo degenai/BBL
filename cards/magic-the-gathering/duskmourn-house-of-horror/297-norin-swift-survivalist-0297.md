@@ -1,7 +1,7 @@
 ---
 name: Norin, Swift Survivalist (0297)
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 297
 rarity: U
 variance: Normal
@@ -37,9 +37,9 @@ characters:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/297-norin-swift-survivalist-0297.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-11
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/4/9/49f0fdf4-3881-4327-924f-2c1b67ccda93.png?1726286390
 art_match_confidence: high
 needs_manual_review: false

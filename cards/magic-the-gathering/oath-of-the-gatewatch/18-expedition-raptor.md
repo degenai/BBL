@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/18-expedition-raptor.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-12
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/8/1/819d11eb-960b-4116-ba09-f03bff88b4e7.png?1562921136
 art_match_confidence: high
 needs_manual_review: false

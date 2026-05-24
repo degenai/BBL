@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/lorcana/reign-of-jafar/140-204-the-coachman-greedy-deceiver.jpg
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set8/140_72471be6dddeeb754476e213c78d82eb7a713652.jpg
 art_match_confidence: high
 needs_manual_review: false

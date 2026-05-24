@@ -37,9 +37,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/35-topple-the-statue.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-06
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/2/8/2829fa40-92e4-4017-aacd-9d9feae04aa2.png?1557576101
 art_match_confidence: high
 needs_manual_review: false

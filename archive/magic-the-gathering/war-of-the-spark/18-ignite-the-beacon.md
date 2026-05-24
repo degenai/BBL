@@ -7,7 +7,7 @@ rarity: R
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 0
 held_for_lair: 0
 bundles: []
 tags_hub:
@@ -54,6 +54,7 @@ suspected_ip: Ajani Goldmane
 ip_confidence: high
 ip_verified: false
 mana_cost: "{4}{W}"
+archived_on: 2026-05-23
 tags:
   - card
   - vision-passed

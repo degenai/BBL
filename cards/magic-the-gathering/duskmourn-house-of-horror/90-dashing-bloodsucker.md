@@ -1,7 +1,7 @@
 ---
 name: Dashing Bloodsucker
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 90
 rarity: U
 variance: Normal
@@ -35,9 +35,9 @@ symbols:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/90-dashing-bloodsucker.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/7/9/790a90cc-d36f-43b5-8423-89e30bdf7b9f.png?1726286186
 art_match_confidence: high
 needs_manual_review: false

@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/148-colossal-dreadmask.png
 average_cost_paid: 0
 market_price: 0.18
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/9/8/98164430-64c1-465f-b786-45753c965f44.png?1717012415
 art_match_confidence: high
 needs_manual_review: false

@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 4
+quantity: 5
 held_for_lair: 0
 bundles: []
 tags_hub:
@@ -30,10 +30,10 @@ tags_filter:
   - equipment
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/175-rosethorn-halberd.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-19
+market_price: 0.06
+market_price_as_of: 2026-05-24
 date_added: 2026-05-13
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'

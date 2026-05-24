@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-020-iron-wall-magetta.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-08
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400568152/F238FC9B32B980B6EBACD1B9F8E3BBFA26A47742/
 image_width: 624
 image_height: 874

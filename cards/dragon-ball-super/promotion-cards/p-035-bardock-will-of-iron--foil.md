@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/promotion-cards/p-035-bardock-will-of-iron--foil.png
 average_cost_paid: 0
 market_price: 0.3
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-05
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/P-035.png
 art_match_confidence: high
 needs_manual_review: false

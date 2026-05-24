@@ -1,7 +1,7 @@
 ---
 name: Ragged Playmate
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 150
 rarity: C
 variance: Normal
@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/150-ragged-playmate.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/0/0/000499a4-3f39-4d25-a2a2-b2f014e30754.png?1726286406
 art_match_confidence: high
 needs_manual_review: false

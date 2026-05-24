@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/51-stone-haven-medic.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-12
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/3/9/3956563b-bde3-4aec-93fe-e03bade49458.png?1562908505
 art_match_confidence: high
 needs_manual_review: false

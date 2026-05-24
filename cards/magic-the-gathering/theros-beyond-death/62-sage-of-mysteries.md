@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/62-sage-of-mysteries.png
 average_cost_paid: 0
 market_price: 0.26
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/4/1/4138fd65-e0c3-42a1-9c0d-4d5f20228b55.png?1581479476
 art_match_confidence: high
 needs_manual_review: false

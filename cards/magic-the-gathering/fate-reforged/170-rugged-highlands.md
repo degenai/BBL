@@ -33,10 +33,10 @@ tags_filter:
   - cycle-cohort
 reference_image: cards/_images/magic-the-gathering/fate-reforged/170-rugged-highlands.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-19
+market_price: 0.2
+market_price_as_of: 2026-05-24
 date_added: 2026-05-13
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/f/9/f9cfcbfc-f060-4610-a1ce-9437d6b32473.png?1562831764
 art_match_confidence: high
 needs_manual_review: false

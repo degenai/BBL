@@ -1,7 +1,7 @@
 ---
 name: Luminarch Aspirant
 game: "Magic: The Gathering"
-set: "Promo Pack: Zendikar Rising"
+set: 'Promo Pack: Zendikar Rising'
 collector_number: 24
 rarity: R
 variance: Normal
@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/magic-the-gathering/promo-pack-zendikar-rising/24-luminarch-aspirant.png
 average_cost_paid: 0
-market_price: 1.08
-market_price_as_of: 2026-05-19
+market_price: 1.11
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: "Set 'Promo Pack: Zendikar Rising' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing."

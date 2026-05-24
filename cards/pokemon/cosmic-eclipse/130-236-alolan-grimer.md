@@ -33,10 +33,10 @@ tags_filter:
   - dark-type
 reference_image: cards/_images/pokemon/cosmic-eclipse/130-236-alolan-grimer.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-19
+market_price: 0.18
+market_price_as_of: 2026-05-24
 date_added: 2026-05-08
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm12/130_hires.png
 art_match_confidence: high
 needs_manual_review: false

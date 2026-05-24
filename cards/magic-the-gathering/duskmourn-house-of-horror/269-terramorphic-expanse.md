@@ -1,7 +1,7 @@
 ---
 name: Terramorphic Expanse
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 269
 rarity: C
 variance: Normal
@@ -33,10 +33,10 @@ tags_filter:
   - basic-land-fetcher
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/269-terramorphic-expanse.png
 average_cost_paid: 0
-market_price: 0.36
-market_price_as_of: 2026-05-19
+market_price: 0.26
+market_price_as_of: 2026-05-24
 date_added: 2026-05-11
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/b/3/b379c8f1-817c-4f18-8f58-45c40504433e.png?1726286878
 art_match_confidence: high
 needs_manual_review: false

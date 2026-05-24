@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/final-fantasy-tcg/opus-iii/3-122c-artemicion.jpg
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-17
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://storage.googleapis.com/marcieapi-images/3-122C_eg.jpg
 art_match_confidence: high
 needs_manual_review: false

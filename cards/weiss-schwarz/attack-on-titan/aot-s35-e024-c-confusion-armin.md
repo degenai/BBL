@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/weiss-schwarz/attack-on-titan/aot-s35-e024-c-confusion-armin.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-05
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/a/aot_s35/AOT_S35_E024.png
 art_match_confidence: high
 needs_manual_review: false

@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/aetherdrift/246-walking-sarcophagus.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/8/9/89ccbd73-9414-48a3-bdcf-e838fcffc08f.png?1738356856
 art_match_confidence: high
 needs_manual_review: false

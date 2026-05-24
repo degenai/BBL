@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/12-flutterfox.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/7/6/769cddf0-2078-456b-a622-057571464fe7.png?1572489672
 art_match_confidence: high
 needs_manual_review: false

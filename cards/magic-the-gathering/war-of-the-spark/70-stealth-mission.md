@@ -29,10 +29,10 @@ tags_filter:
   - sorcery
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/70-stealth-mission.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-19
+market_price: 0.13
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/7/d/7ddfd4f5-7fe1-4a22-9a85-bd9b75b16380.png?1557576330
 art_match_confidence: high
 needs_manual_review: false

@@ -31,10 +31,10 @@ tags_filter:
   - pokemon-ghost-type
 reference_image: cards/_images/pokemon/ascended-heroes/090-217-shuppet.jpg
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-19
+market_price: 0.05
+market_price_as_of: 2026-05-24
 date_added: 2026-05-19
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://images.scrydex.com/pokemon/me2pt5-90/large
 art_match_confidence: high
 needs_manual_review: false

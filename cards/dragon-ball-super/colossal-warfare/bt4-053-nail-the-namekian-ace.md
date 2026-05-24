@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-053-nail-the-namekian-ace.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-053_Nail_the_Namekian_Ace.png?v=1534074799
 art_match_confidence: high
 needs_manual_review: false

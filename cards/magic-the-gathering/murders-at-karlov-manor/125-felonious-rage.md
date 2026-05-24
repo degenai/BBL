@@ -29,10 +29,10 @@ tags_filter:
   - instant
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/125-felonious-rage.png
 average_cost_paid: 0
-market_price: 0.26
-market_price_as_of: 2026-05-19
+market_price: 0.25
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/4/5/4538d6a8-a24a-40e3-b894-45a30882c92a.png?1706241861
 art_match_confidence: high
 needs_manual_review: false

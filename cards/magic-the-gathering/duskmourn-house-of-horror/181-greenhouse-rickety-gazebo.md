@@ -1,7 +1,7 @@
 ---
 name: Greenhouse // Rickety Gazebo
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 181
 rarity: U
 variance: Normal
@@ -36,10 +36,10 @@ symbols:
   - rooms
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/181-greenhouse-rickety-gazebo.png
 average_cost_paid: 0
-market_price: 0.27
-market_price_as_of: 2026-05-19
+market_price: 0.28
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/a/2/a22e8038-0706-47ec-bfda-f421a4912774.png?1726780671
 art_match_confidence: high
 needs_manual_review: false

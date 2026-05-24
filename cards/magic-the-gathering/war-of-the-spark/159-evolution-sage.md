@@ -32,10 +32,10 @@ tags_filter:
   - creature-elf-druid
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/159-evolution-sage.png
 average_cost_paid: 0
-market_price: 2.87
-market_price_as_of: 2026-05-19
+market_price: 2.83
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/b/4/b4042db8-6032-49a2-bc96-ad15f55db6c3.png?1557576899
 art_match_confidence: high
 needs_manual_review: false

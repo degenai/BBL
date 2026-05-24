@@ -1,7 +1,7 @@
 ---
 name: Say Its Name
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 197
 rarity: C
 variance: Normal
@@ -36,10 +36,10 @@ tags_filter:
   - green-magic
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/197-say-its-name.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-19
+market_price: 0.14
+market_price_as_of: 2026-05-24
 date_added: 2026-05-11
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/9/4/94c58683-b5f2-4863-9562-6f6be1ec21fe.png?1726286600
 art_match_confidence: high
 needs_manual_review: false

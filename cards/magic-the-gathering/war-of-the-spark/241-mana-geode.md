@@ -32,10 +32,10 @@ tags_filter:
   - mana-rock
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/241-mana-geode.png
 average_cost_paid: 0
-market_price: 0.29
-market_price_as_of: 2026-05-19
+market_price: 0.3
+market_price_as_of: 2026-05-24
 date_added: 2026-05-06
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/1/7/17315a12-a7f8-45ba-ac3b-a62c789e75d0.png?1557577433
 art_match_confidence: high
 needs_manual_review: false

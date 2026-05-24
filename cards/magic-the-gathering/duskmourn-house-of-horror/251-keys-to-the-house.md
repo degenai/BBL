@@ -1,7 +1,7 @@
 ---
 name: Keys to the House
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 251
 rarity: U
 variance: Normal
@@ -33,10 +33,10 @@ tags_filter:
   - portrait-mode
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/251-keys-to-the-house.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-19
+market_price: 0.19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/8/c/8c11a413-7f33-4b63-bdd9-e143e529f56d.png?1726286811
 art_match_confidence: high
 needs_manual_review: false

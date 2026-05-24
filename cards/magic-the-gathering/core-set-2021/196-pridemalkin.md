@@ -38,9 +38,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/core-set-2021/196-pridemalkin.png
 average_cost_paid: 0
 market_price: 0.3
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-06
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/d/f/df520254-0c72-496b-9222-263ca9d3c5d5.png?1594737133
 art_match_confidence: high
 needs_manual_review: false

@@ -1,5 +1,5 @@
 ---
-name: "Zeal: Doted Younger Brother"
+name: 'Zeal: Doted Younger Brother'
 game: Weiss Schwarz
 set: The Seven Deadly Sins
 collector_number: SDS/SX03-094 C
@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/weiss-schwarz/the-seven-deadly-sins/sds-sx03-094-c-zeal-doted-younger-brother.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-17
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/s/sds_sx03/SDS_SX03_094.png
 art_match_confidence: high
 needs_manual_review: false

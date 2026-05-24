@@ -1,7 +1,7 @@
 ---
 name: Pyretic Ritual
 game: "Magic: The Gathering"
-set: "Mystery Booster: Retail Exclusives"
+set: 'Mystery Booster: Retail Exclusives'
 collector_number: 153
 rarity: C
 variance: Foil
@@ -33,10 +33,10 @@ tags_filter:
   - figureless
 reference_image: cards/_images/magic-the-gathering/mystery-booster-retail-exclusives/153-pyretic-ritual--foil.png
 average_cost_paid: 0
-market_price: 15.05
-market_price_as_of: 2026-05-19
+market_price: 15.12
+market_price_as_of: 2026-05-24
 date_added: 2026-05-07
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: "Set 'Mystery Booster: Retail Exclusives' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing."

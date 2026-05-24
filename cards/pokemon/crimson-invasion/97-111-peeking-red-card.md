@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/pokemon/crimson-invasion/97-111-peeking-red-card.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-08
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm4/97_hires.png
 art_match_confidence: high
 needs_manual_review: false

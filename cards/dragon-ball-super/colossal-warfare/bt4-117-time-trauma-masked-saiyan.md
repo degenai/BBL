@@ -32,10 +32,10 @@ tags_filter:
   - armor
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-117-time-trauma-masked-saiyan.png
 average_cost_paid: 0
-market_price: 0.01
-market_price_as_of: 2026-05-19
+market_price: 0.07
+market_price_as_of: 2026-05-24
 date_added: 2026-05-05
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401042958/29B7539317FF7494EA898F42BA167595862C5195/
 image_width: 624
 image_height: 864

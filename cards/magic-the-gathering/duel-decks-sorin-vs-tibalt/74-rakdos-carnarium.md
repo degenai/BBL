@@ -1,7 +1,7 @@
 ---
 name: Rakdos Carnarium
 game: "Magic: The Gathering"
-set: "Duel Decks: Sorin vs. Tibalt"
+set: 'Duel Decks: Sorin vs. Tibalt'
 collector_number: 74
 rarity: C
 variance: Normal
@@ -36,10 +36,10 @@ tags_filter:
   - crowd
 reference_image: cards/_images/magic-the-gathering/duel-decks-sorin-vs-tibalt/74-rakdos-carnarium.png
 average_cost_paid: 0
-market_price: 0.42
-market_price_as_of: 2026-05-19
+market_price: 0.41
+market_price_as_of: 2026-05-24
 date_added: 2026-05-07
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

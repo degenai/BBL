@@ -31,10 +31,10 @@ tags_filter:
   - no-face
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-119-tokitoki-time-creator.png
 average_cost_paid: 0
-market_price: 0.02
-market_price_as_of: 2026-05-19
+market_price: 0.01
+market_price_as_of: 2026-05-24
 date_added: 2026-05-12
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401043270/025725E49B7DA8D620830EA56DC12C2671051D69/
 image_width: 624
 image_height: 864

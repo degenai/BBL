@@ -31,10 +31,10 @@ tags_filter:
   - basic-pokemon
 reference_image: cards/_images/pokemon/fates-collide/1-shuckle.png
 average_cost_paid: 0
-market_price: 0.32
-market_price_as_of: 2026-05-19
+market_price: 0.33
+market_price_as_of: 2026-05-24
 date_added: 2026-05-08
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/xy10/1_hires.png
 art_match_confidence: high
 needs_manual_review: false

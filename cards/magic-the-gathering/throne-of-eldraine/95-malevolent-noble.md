@@ -39,9 +39,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/95-malevolent-noble.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/6/b/6bc7e996-151f-4d88-8e1e-91bb88f5db02.png?1572490179
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/95-malevolent-noble--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/b/6bc7e996-151f-4d88-8e1e-91bb88f5db02.jpg?1572490179

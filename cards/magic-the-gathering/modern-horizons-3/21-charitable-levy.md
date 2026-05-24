@@ -38,9 +38,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/21-charitable-levy.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-11
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/4/a/4a5cab75-546c-4760-97b7-4591de9e6662.png?1717011365
 art_match_confidence: high
 needs_manual_review: false

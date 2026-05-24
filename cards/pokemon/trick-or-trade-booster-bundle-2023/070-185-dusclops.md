@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/pokemon/trick-or-trade-booster-bundle-2023/070-185-dusclops.png
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-19
+market_price: 0.13
+market_price_as_of: 2026-05-24
 date_added: 2026-05-15
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/ex8/7_hires.png
 art_match_confidence: low
 needs_manual_review: true

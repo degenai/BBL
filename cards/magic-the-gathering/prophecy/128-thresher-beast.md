@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/prophecy/128-thresher-beast.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/5/7/57996732-c9e4-4271-9d5f-2a8c77f8d177.png?1562911143
 art_match_confidence: high
 needs_manual_review: false

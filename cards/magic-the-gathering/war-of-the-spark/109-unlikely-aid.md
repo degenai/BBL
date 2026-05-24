@@ -33,10 +33,10 @@ tags_filter:
   - instant
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/109-unlikely-aid.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-19
+market_price: 0.1
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/9/c/9c260c5c-e796-4f81-9e15-0c5be75106b9.png?1557576580
 art_match_confidence: high
 needs_manual_review: false

@@ -29,10 +29,10 @@ tags_filter:
   - extra-card
 reference_image: cards/_images/dragon-ball-super/galactic-battle/bt1-106-recoome-eraser-gun.png
 average_cost_paid: 0
-market_price: 0.11
-market_price_as_of: 2026-05-19
+market_price: 0.21
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278400579239/20B52668482EFD346DA5ADADEF9D0CE544FA414E/
 image_width: 624
 image_height: 874

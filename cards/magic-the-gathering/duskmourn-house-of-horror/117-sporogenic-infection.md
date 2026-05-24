@@ -1,7 +1,7 @@
 ---
 name: Sporogenic Infection
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 117
 rarity: U
 variance: Normal
@@ -29,10 +29,10 @@ tags_filter:
   - enchantment-aura
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/117-sporogenic-infection.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-19
+market_price: 0.22
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/e/a/eaae086e-0781-4f4d-bc9c-a98228bc380c.png?1726286285
 art_match_confidence: high
 needs_manual_review: false

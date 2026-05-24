@@ -33,10 +33,10 @@ tags_filter:
   - storyborn
 reference_image: cards/_images/lorcana/whispers-in-the-well/39-204-cauldron-born-mindless-horde.jpg
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-19
+market_price: 0.06
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/39_e83d1331a9d9055f1a429cac1fb3a4841f58bd62.jpg
 art_match_confidence: high
 needs_manual_review: false

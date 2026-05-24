@@ -1,7 +1,7 @@
 ---
 name: Living Phone
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 20
 rarity: C
 variance: Normal
@@ -34,9 +34,9 @@ characters:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/20-living-phone.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/8/2/8266f93b-f91c-4427-a222-075ceb0be3af.png?1726285933
 art_match_confidence: high
 needs_manual_review: false

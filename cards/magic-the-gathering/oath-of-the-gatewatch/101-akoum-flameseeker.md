@@ -31,10 +31,10 @@ tags_filter:
   - creature-human-shaman-ally
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/101-akoum-flameseeker.png
 average_cost_paid: 0
-market_price: 0.04
-market_price_as_of: 2026-05-19
+market_price: 0.05
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/6/e/6ef4e1e2-7961-47d2-bb55-9168ea201214.png?1562917172
 art_match_confidence: high
 needs_manual_review: false

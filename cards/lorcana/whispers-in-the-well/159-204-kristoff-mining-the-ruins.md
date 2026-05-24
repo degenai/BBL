@@ -34,10 +34,10 @@ tags_filter:
   - ally
 reference_image: cards/_images/lorcana/whispers-in-the-well/159-204-kristoff-mining-the-ruins.jpg
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-19
+market_price: 0.16
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/159_28c903fa6f7fa76494f161d0592d75e939071eea.jpg
 art_match_confidence: high
 needs_manual_review: false

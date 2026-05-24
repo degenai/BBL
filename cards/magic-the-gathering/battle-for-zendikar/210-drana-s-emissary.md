@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: 
 average_cost_paid: 0
-market_price: 0.39
-market_price_as_of: 2026-05-19
+market_price: 0.38
+market_price_as_of: 2026-05-24
 date_added: 2026-05-18
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 ---
 
 # Drana's Emissary (Battle for Zendikar)

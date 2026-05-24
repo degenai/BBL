@@ -29,9 +29,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/150-curious-pair.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-13
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/7/f/7f78a570-d776-42f2-a609-6da0156c8de7.png?1572490513
 art_match_confidence: high
 needs_manual_review: false

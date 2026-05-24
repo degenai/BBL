@@ -1,7 +1,7 @@
 ---
 name: Spineseeker Centipede
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 199
 rarity: C
 variance: Normal
@@ -34,10 +34,10 @@ tags_filter:
   - mono-green
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/199-spineseeker-centipede.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-19
+market_price: 0.15
+market_price_as_of: 2026-05-24
 date_added: 2026-05-10
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/b/5/b50d697c-8358-429b-8f79-7ad9d01a5edd.png?1726286608
 art_match_confidence: high
 needs_manual_review: false

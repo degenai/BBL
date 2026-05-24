@@ -32,10 +32,10 @@ tags_filter:
   - soulshift
 reference_image: cards/_images/magic-the-gathering/champions-of-kamigawa/248-venerable-kumo.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-19
+market_price: 0.1
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/3/0/308566ed-18cc-4e3b-b5ab-d5b17795f2f1.png?1562758912
 art_match_confidence: high
 needs_manual_review: false

@@ -35,10 +35,10 @@ tags_filter:
   - no-figure
 reference_image: cards/_images/magic-the-gathering/core-set-2021/166-traitorous-greed.png
 average_cost_paid: 0
-market_price: 0.23
-market_price_as_of: 2026-05-19
+market_price: 0.2
+market_price_as_of: 2026-05-24
 date_added: 2026-05-06
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/a/b/ab7052f1-9736-47b6-9da3-8c5ca925ab54.png?1594736826
 art_match_confidence: high
 needs_manual_review: false

@@ -36,10 +36,10 @@ tags_filter:
   - blue-magic
 reference_image: cards/_images/magic-the-gathering/core-set-2021/51-frost-breath.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-19
+market_price: 0.17
+market_price_as_of: 2026-05-24
 date_added: 2026-05-06
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/3/9/393fc485-d3c1-4826-933d-89f66df769d4.png?1594735496
 art_match_confidence: high
 needs_manual_review: false

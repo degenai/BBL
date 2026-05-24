@@ -34,10 +34,10 @@ tags_filter:
   - ally
 reference_image: cards/_images/lorcana/winterspell/53-204-marshmallow-cranky-climber--cold-foil.jpg
 average_cost_paid: 0
-market_price: 0.83
-market_price_as_of: 2026-05-19
+market_price: 0.84
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set11/53_065e4c1c937e34a183e07950a935a9c4ed6c2b2e.jpg
 art_match_confidence: high
 needs_manual_review: false

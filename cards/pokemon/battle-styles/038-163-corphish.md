@@ -32,10 +32,10 @@ tags_filter:
   - pokemon-creature
 reference_image: cards/_images/pokemon/battle-styles/038-163-corphish.jpg
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-19
+market_price: 0.11
+market_price_as_of: 2026-05-24
 date_added: 2026-05-15
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://archives.bulbagarden.net/media/upload/9/93/CorphishBattleStyles38.jpg
 art_match_confidence: high
 needs_manual_review: false

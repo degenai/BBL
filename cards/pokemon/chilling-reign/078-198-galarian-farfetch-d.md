@@ -33,10 +33,10 @@ tags_filter:
   - single-strike
 reference_image: cards/_images/pokemon/chilling-reign/078-198-galarian-farfetch-d.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-19
+market_price: 0.14
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh6/78_hires.png
 art_match_confidence: high
 needs_manual_review: false

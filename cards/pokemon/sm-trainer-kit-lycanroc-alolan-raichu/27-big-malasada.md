@@ -1,7 +1,7 @@
 ---
 name: Big Malasada
 game: Pokemon
-set: "SM Trainer Kit: Lycanroc & Alolan Raichu"
+set: 'SM Trainer Kit: Lycanroc & Alolan Raichu'
 collector_number: 27
 rarity: Common
 variance: Normal
@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/pokemon/sm-trainer-kit-lycanroc-alolan-raichu/27-big-malasada.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-07
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm1/114_hires.png
 art_match_confidence: low
 needs_manual_review: true

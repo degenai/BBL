@@ -34,10 +34,10 @@ tags_filter:
   - group
 reference_image: cards/_images/lorcana/whispers-in-the-well/74-204-finnick-tiny-terror.jpg
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-19
+market_price: 0.09
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/74_1a416ccee8a368953e5f9241496f829fb714236f.jpg
 art_match_confidence: high
 needs_manual_review: false

@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/195-sage-of-the-inward-eye.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/2/9/297c336b-3f70-4518-b1f1-7b773774895d.png?1562784071
 art_match_confidence: high
 needs_manual_review: false

@@ -1,7 +1,7 @@
 ---
 name: Miasma Demon
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 109
 rarity: U
 variance: Normal
@@ -29,10 +29,10 @@ tags_filter:
   - creature-demon
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/109-miasma-demon.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-19
+market_price: 0.18
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/6/d/6d167c00-75ff-4301-855a-8319b89e3689.png?1726286255
 art_match_confidence: high
 needs_manual_review: false

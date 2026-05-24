@@ -30,10 +30,10 @@ tags_filter:
   - devoid
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/77-unfathomable-truths.png
 average_cost_paid: 0
-market_price: 0.27
-market_price_as_of: 2026-05-19
+market_price: 0.15
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/f/9/f95b8eb1-4dbb-4bb9-aa31-b7a12e3b4618.png?1717011831
 art_match_confidence: high
 needs_manual_review: false

@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/theros/195-kragma-warcaller.png
 average_cost_paid: 0
 market_price: 0.17
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-13
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/7/8/78791fc6-054f-45eb-b8b0-28f2512d72b6.png?1562820128
 art_match_confidence: high
 needs_manual_review: false

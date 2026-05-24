@@ -1,7 +1,7 @@
 ---
 name: Betrayer's Bargain
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 126
 rarity: U
 variance: Normal
@@ -41,9 +41,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/126-betrayer-s-bargain.png
 average_cost_paid: 0
 market_price: 0.06
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-11
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/7/9/7956ae00-8f0c-48f0-8110-19ff53863876.png?1726286318
 art_match_confidence: high
 needs_manual_review: false

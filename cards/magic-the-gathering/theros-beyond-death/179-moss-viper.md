@@ -34,10 +34,10 @@ tags_filter:
   - deathtouch
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/179-moss-viper.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-19
+market_price: 0.24
+market_price_as_of: 2026-05-24
 date_added: 2026-05-06
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

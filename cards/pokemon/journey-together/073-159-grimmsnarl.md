@@ -34,10 +34,10 @@ tags_filter:
   - dark-palette
 reference_image: cards/_images/pokemon/journey-together/073-159-grimmsnarl.png
 average_cost_paid: 0
-market_price: 0.04
-market_price_as_of: 2026-05-19
+market_price: 0.05
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sv9/73_hires.png
 art_match_confidence: high
 needs_manual_review: false

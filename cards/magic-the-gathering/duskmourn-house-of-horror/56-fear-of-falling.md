@@ -1,7 +1,7 @@
 ---
 name: Fear of Falling
 game: "Magic: The Gathering"
-set: "Duskmourn: House of Horror"
+set: 'Duskmourn: House of Horror'
 collector_number: 56
 rarity: U
 variance: Normal
@@ -35,10 +35,10 @@ tags_filter:
   - no-face
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/56-fear-of-falling.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-19
+market_price: 0.06
+market_price_as_of: 2026-05-24
 date_added: 2026-05-11
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/0/e/0e814e48-cd9d-428f-90e2-74d97cb9c8f1.png?1726286065
 art_match_confidence: high
 needs_manual_review: false

@@ -34,10 +34,10 @@ tags_filter:
   - pokemon-tcg
 reference_image: cards/_images/pokemon/vivid-voltage/164-185-stone-fighting-energy.png
 average_cost_paid: 0
-market_price: 0.11
-market_price_as_of: 2026-05-19
+market_price: 0.08
+market_price_as_of: 2026-05-24
 date_added: 2026-05-11
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh4/164_hires.png
 art_match_confidence: high
 needs_manual_review: false

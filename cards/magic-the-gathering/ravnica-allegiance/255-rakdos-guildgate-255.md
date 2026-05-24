@@ -31,9 +31,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/255-rakdos-guildgate-255.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-13
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/2/6/26f7e55d-d4c9-4755-ab87-a592ba3fb64f.png?1584832312
 art_match_confidence: high
 needs_manual_review: false

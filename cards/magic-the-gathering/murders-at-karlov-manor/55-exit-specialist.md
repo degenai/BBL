@@ -35,10 +35,10 @@ symbols:
   - disguise
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/55-exit-specialist.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-19
+market_price: 0.06
+market_price_as_of: 2026-05-24
 date_added: 2026-05-11
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/2/6/268f142d-9fb1-4673-b804-add1f08dacb9.png?1706241600
 art_match_confidence: high
 needs_manual_review: false

@@ -32,10 +32,10 @@ tags_filter:
   - action-mode
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/130-mad-ratter.png
 average_cost_paid: 0
-market_price: 0.25
-market_price_as_of: 2026-05-19
+market_price: 0.24
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/9/a/9a4cabcc-fb29-4bf2-b5ba-32b8c96aefd6.png?1572490392
 art_match_confidence: high
 needs_manual_review: false

@@ -7,7 +7,7 @@ rarity: Common
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub:
@@ -30,10 +30,10 @@ tags_filter:
   - pokemon-card
 reference_image: cards/_images/pokemon/destined-rivals/138-182-arven-s-maschiff.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-19
+market_price: 0.04
+market_price_as_of: 2026-05-24
 date_added: 2026-05-19
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sv10/138_hires.png
 art_match_confidence: high
 needs_manual_review: false

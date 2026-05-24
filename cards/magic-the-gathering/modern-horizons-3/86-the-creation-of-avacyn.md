@@ -33,10 +33,10 @@ tags_filter:
   - black-magic
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/86-the-creation-of-avacyn.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-19
+market_price: 0.26
+market_price_as_of: 2026-05-24
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/2/7/27d701aa-df93-4f0e-b1e3-d081487eb456.png?1720196507
 art_match_confidence: high
 needs_manual_review: false

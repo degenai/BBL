@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/214-bronze-sable.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-07
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/e/8/e8ba6d7d-fad0-4af1-be12-44be326a031e.png?1593860900
 art_match_confidence: high
 needs_manual_review: false

@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 tags_hub:
@@ -33,10 +33,10 @@ tags_filter:
   - proliferate
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/23-martyr-for-the-cause.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-19
+market_price: 0.23
+market_price_as_of: 2026-05-24
 date_added: 2026-05-16
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/a/c/acfbc8ca-a574-461e-92ea-c6010daa8230.png?1557576012
 art_match_confidence: high
 needs_manual_review: false

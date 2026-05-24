@@ -37,9 +37,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/aetherdrift/156-broken-wings.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-10
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/1/d/1d7d5b71-7c1b-4fc2-a5ec-7285e17ffe0f.png?1738356489
 art_match_confidence: high
 needs_manual_review: false

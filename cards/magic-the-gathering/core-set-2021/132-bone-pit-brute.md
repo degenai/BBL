@@ -39,9 +39,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/core-set-2021/132-bone-pit-brute.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-24
 date_added: 2026-05-06
-last_seen: 2026-05-19
+last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/6075e0a3-a0ab-4a11-8ad2-7dabb071d309.png?1594736498
 art_match_confidence: high
 needs_manual_review: false
