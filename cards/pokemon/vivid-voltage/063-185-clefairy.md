@@ -40,7 +40,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: HYOGONOSUKE
 flavor_text: It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.
-oracle_text: Pound (Psychic) 10
+oracle_text: "Pound (Psychic) 10\\nMini-Metronome (ColorlessColorless): Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
 Mini-Metronome (ColorlessColorless): Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.
 image_width: 734
 image_height: 1024

@@ -41,7 +41,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Shigenori Negishi
 flavor_text: It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.
-oracle_text: "Stun Needle (Lightning) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.\nShocking Pursuit (LightningColorless) 20×: This attack does 20 damage for each damage counter on your opponent's Active Pokémon."
+oracle_text: "Stun Needle (Lightning) 20: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.\\nShocking Pursuit (LightningColorless) 20×: This attack does 20 damage for each damage counter on your opponent's Active Pokémon."
 mood: action
 time_of_day: night
 setting: void

@@ -37,7 +37,7 @@ market_price: 0.01
 market_price_as_of: 2026-05-24
 date_added: 2026-05-07
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401004722/6987A1ED94BA891D7837C9928648D55A5ABD0B1A/
+reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/BT3-011.png
 art_match_confidence: high
 needs_manual_review: false
 mood: action
@@ -46,9 +46,9 @@ setting: void
 suspected_ip: Trunks
 ip_confidence: high
 ip_verified: true
-image_width: 624
-image_height: 871
-image_quality: med
+image_width: 260
+image_height: 363
+image_quality: low
 characters:
   - trunks
 tags:

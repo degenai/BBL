@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - sentinel
   - meadow
   - grass
@@ -23,7 +23,7 @@ tags_hub:
   - alert
   - cute
   - daylight
-tags_filter:
+tags_filter: []
   - solo
   - forward-facing
   - mid-shot
@@ -31,15 +31,15 @@ tags_filter:
   - colorless-type
   - pokemon-basic
   - creature-normal
-reference_image: cards/_images/pokemon/darkness-ablaze/135-189-sentret.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.13
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh3/135_hires.png
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 artist: Mina Nakai
 flavor_text: It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind.
 oracle_text: "Call for Family (Colorless): Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
@@ -52,6 +52,7 @@ ip_verified: false
 image_width: 734
 image_height: 1024
 image_quality: high
+manual_review_reason: No reference image found via pokemontcg for set 'Darkness Ablaze'
 tags:
   - card
   - pokemon
@@ -62,24 +63,14 @@ tags:
 
 ## Vision
 
-![135-189-sentret](../../_images/pokemon/darkness-ablaze/135-189-sentret.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-> [!warning] Suspected IP: **Sentret** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-A small round-bodied mammal Pokemon with brown-and-cream coloring, large round dark eyes, and rounded ears. Its long tail with dark ring stripes is clearly visible. The creature stands upright in or among tall grass blades in a bright well-lit meadow. The pose is alert, consistent with the sentinel lookout behavior described in its flavor text. The background is bright green and light, giving a cheerful open-air meadow feel.
+**Subject:** 
 
-**Subject:** Sentret, a small brown ferret-like Pokemon with a striped ringed tail, standing alert in tall grass in a bright meadow
-
-**Composition:** mid-shot, portrait, figures: solo, facing: forward
-**Setting:** forest, day, clear
-**Foreground:** Small brown ferret-like Pokemon with striped tail standing upright in tall grass  *(palette: brown, cream, tan, dark-brown)*
-**Background:** Bright green meadow with tall grass blades and light sky  *(palette: green, light-green, pale-yellow, white)*
-**Mood / lighting:** peaceful, soft
-**Emotion read:** alert and watchful — upright posture, wide eyes scanning the surroundings
-**Creatures:** sentret, ferret, small-mammal
-**Iconography:** striped-tail, grass
-**Genre cues:** anime, fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Connections
 

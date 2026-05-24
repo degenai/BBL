@@ -36,9 +36,9 @@ market_price: 0.18
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408082155/8EDEC939530292E01D250DB1955D7D75A46CE57D/
-image_width: 624
-image_height: 871
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-066_Announcer_Ever-Curious.png?v=1537556045
+image_width: 645
+image_height: 900
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false

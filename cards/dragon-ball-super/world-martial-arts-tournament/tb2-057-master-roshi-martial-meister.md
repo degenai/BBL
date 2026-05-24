@@ -36,9 +36,9 @@ market_price: 0.1
 market_price_as_of: 2026-05-24
 date_added: 2026-05-14
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408080871/5B138078E6764F045832EF183D069E4B3F0D795B/
-image_width: 624
-image_height: 871
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-057_Master_Roshi_Martial_Meister.png?v=1534965331
+image_width: 646
+image_height: 900
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false

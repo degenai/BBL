@@ -41,7 +41,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh4/164_hires.png
 art_match_confidence: high
 needs_manual_review: false
-oracle_text: |-
+oracle_text: As long as this card is attached to a Pokémon, it provides Fighting Energy.\nThe Fighting Pokémon this card is attached to takes 20 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance).
   As long as this card is attached to a Pokémon, it provides Fighting Energy.
   The Fighting Pokémon this card is attached to takes 20 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance).
 mood: other

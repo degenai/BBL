@@ -34,9 +34,9 @@ market_price: 0.04
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408080269/4DFE173AB5BA83B5A2AC9F041B8499102362AED1/
-image_width: 624
-image_height: 871
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-053_Toughened_Up_Krillin.png?v=1534964457
+image_width: 646
+image_height: 900
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false

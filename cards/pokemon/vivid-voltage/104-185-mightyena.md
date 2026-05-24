@@ -40,7 +40,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Aya Kusube
 flavor_text: It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork.
-oracle_text: "Ferocious Bellow (Darkness) 20: During your opponent's next turn, the Defending Pokémon's attacks do 50 less damage (before applying Weakness and Resistance).\nPitch-Black Fangs (DarknessColorlessColorless) 100"
+oracle_text: "Ferocious Bellow (Darkness) 20: During your opponent's next turn, the Defending Pokémon's attacks do 50 less damage (before applying Weakness and Resistance).\\nPitch-Black Fangs (DarknessColorlessColorless) 100"
 image_width: 734
 image_height: 1024
 image_quality: high

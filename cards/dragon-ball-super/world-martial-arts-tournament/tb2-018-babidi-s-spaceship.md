@@ -35,9 +35,9 @@ market_price: 0.05
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408075150/F589AFA512706847D69DA78E0BF803468E239278/
-image_width: 624
-image_height: 871
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-018_Babidi_s_Spaceship.png?v=1534963036
+image_width: 646
+image_height: 900
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false

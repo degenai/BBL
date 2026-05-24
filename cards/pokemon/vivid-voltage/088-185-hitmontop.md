@@ -39,7 +39,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Sanosuke Sakuma
 flavor_text: It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground.
-oracle_text: "Cycle Draw (Colorless): Discard a card from your hand. If you do, draw 3 cards.\nTornado Kick (FightingColorlessColorless) 50+: If you played Bea from your hand during this turn, this attack does 80 more damage."
+oracle_text: "Cycle Draw (Colorless): Discard a card from your hand. If you do, draw 3 cards.\\nTornado Kick (FightingColorlessColorless) 50+: If you played Bea from your hand during this turn, this attack does 80 more damage."
 image_width: 734
 image_height: 1024
 image_quality: high

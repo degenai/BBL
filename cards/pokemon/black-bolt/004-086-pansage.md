@@ -40,7 +40,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: kurumitsu
 flavor_text: This Pokémon dwells deep in the forest. Eating a leaf from its head whisks weariness away as if by magic.
-oracle_text: "Collect (Colorless): Draw a card.\nScratch (ColorlessColorless) 30"
+oracle_text: "Collect (Colorless): Draw a card.\\nScratch (ColorlessColorless) 30"
 image_width: 733
 image_height: 1024
 image_quality: high

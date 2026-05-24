@@ -40,7 +40,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: SATOSHI NAKAI
 flavor_text: A now-vanished desert culture treasured these Pokémon. Appropriately, when Heliolisk came to the Galar region, treasure came with them.
-oracle_text: "Eerie Impulse (Lightning): Flip a coin. If heads, discard an Energy from 1 of your opponent's Pokémon.\nThunder (LightningColorless) 120: This Pokémon also does 30 damage to itself."
+oracle_text: "Eerie Impulse (Lightning): Flip a coin. If heads, discard an Energy from 1 of your opponent's Pokémon.\\nThunder (LightningColorless) 120: This Pokémon also does 30 damage to itself."
 mood: action
 time_of_day: day
 setting: desert

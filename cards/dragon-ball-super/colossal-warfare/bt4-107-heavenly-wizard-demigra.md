@@ -33,10 +33,10 @@ market_price: 0.3
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401041271/1036E3439119BC6EE3347050A15BE708FC5C5B78/
-image_width: 624
-image_height: 864
-image_quality: med
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-107_Heavenly_Wizard_Demigra.png?v=1529705734
+image_width: 869
+image_height: 1213
+image_quality: high
 art_match_confidence: high
 needs_manual_review: false
 mood: grim

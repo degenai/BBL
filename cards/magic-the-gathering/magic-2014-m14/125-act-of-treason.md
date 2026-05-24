@@ -78,3 +78,15 @@ Against a blazing red-orange background, a winged humanoid figure — white-feat
 **Iconography:** wings, sword, fire
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Flavor text** — "Rage courses in every heart, yearning to betray its rational prison." — Sarkhan Vol. The quote is both Sarkhan's personal manifesto and a mechanical description of the card's effect: the stolen creature's own rage is the lever that turns it against its controller. "Rational prison" frames civilization and reason as the unnatural constraint, with fury as the baseline natural state. [Scryfall flavor_text]
+- **Flavor-text speaker** — Sarkhan Vol is a dragon-worshipping Planeswalker from Tarkir who spent years as a servant of Nicol Bolas before becoming disillusioned with Bolas's "conniving, woefully undragonlike" nature. At M14's release (July 2013), Sarkhan had appeared on cards since Shards of Alara (2008), but the main Tarkir storyline resolving his arc would not arrive until Khans of Tarkir (2014). [Wizards.com: "Sarkhan Vol Planeswalker" lore profile; Card Kingdom Blog: "MTG Character Profile: Sarkhan Vol"]
+- **Design history** — First printed in Magic 2010 (M10, no. 124, July 2009), Act of Treason has 18 total printings through Ravnica Remastered (2024) — one of the most reprinted red temporary-control sorceries in the game. Printings include Gatecrash (2013), Khans of Tarkir (2014), Ravnica Allegiance (2019), Jumpstart (2020), and Ravnica Remastered (2024). The M14 art is by Eric Deschamps. [Scryfall prints search; Scryfall artist field]
+- **Mechanical context** — EDHREC rank 4,694. A staple in Red sacrifice-based Commander strategies where the one-turn steal converts into permanent removal via Goblin Bombardment, Altar of Dementia, or similar outlets. Legal in Modern, Pioneer, Legacy, Vintage, Pauper, and Commander. [Scryfall edhrec_rank; Scryfall legalities]
+
+### Related cards
+- Sarkhan Vol (Shards of Alara) — the Planeswalker who speaks the flavor-text quote; his plus ability also temporarily steals a creature
+- Threaten (Onslaught) — the predecessor card with identical effect; Act of Treason is a functional reprint with new art and flavor
+- Insurrection (Onslaught) — the "big brother" version that steals all creatures simultaneously; same design lineage
+- Claim the Firstborn (Throne of Eldraine) — cheaper version restricted to CMC 3 or less; direct upgrade discussion in Pauper and Pioneer

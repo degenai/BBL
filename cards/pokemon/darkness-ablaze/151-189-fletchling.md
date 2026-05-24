@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - bird
   - cherry-blossom
   - spring
@@ -23,7 +23,7 @@ tags_hub:
   - seasonal
   - pastel
   - firebird
-tags_filter:
+tags_filter: []
   - solo
   - mid-shot
   - faces-right
@@ -31,15 +31,15 @@ tags_filter:
   - colorless-magic
   - common
   - basic-pokemon
-reference_image: cards/_images/pokemon/darkness-ablaze/151-189-fletchling.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.03
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh3/151_hires.png
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 artist: Midori Harada
 flavor_text: Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed.
 oracle_text: Tackle (Colorless) 20
@@ -52,6 +52,7 @@ ip_verified: true
 image_width: 734
 image_height: 1024
 image_quality: high
+manual_review_reason: No reference image found via pokemontcg for set 'Darkness Ablaze'
 tags:
   - card
   - pokemon
@@ -63,24 +64,14 @@ tags:
 
 ## Vision
 
-![151-189-fletchling](../../_images/pokemon/darkness-ablaze/151-189-fletchling.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-> [!note] IP verified: **Fletchling**
-> Confirmed — Game Freak-internal species (National Pokedex no. 661, Gen VI Kalos). Normal/Flying base of Talonflame line. No external IP concern. [Bulbapedia: Fletchling, via WebSearch]
 
-A small bird perches quietly against a soft, pastel pink background filled with the suggestion of cherry blossoms. The bird has a distinctive orange-red head and upper face, with a white and pale grey body and dark wing markings. Its posture is calm and still, facing to the right. The art style is delicate and painterly with soft edges, giving the image a gentle, seasonal quality. The contrast between the warm orange-red of the head and the cool pinks of the background is the dominant visual note.
+**Subject:** 
 
-**Subject:** Fletchling, a small bird with orange-red head and pale body, perched against a soft pink cherry blossom background
-
-**Composition:** mid-shot, portrait, figures: solo, facing: right
-**Setting:** other, day, calm
-**Foreground:** small perched bird with orange-red head, pale body and dark wing markings  *(palette: orange-red, white, grey, dark-brown)*
-**Background:** soft pink with cherry blossom shapes  *(palette: pink, pale-pink, white)*
-**Mood / lighting:** peaceful, soft
-**Emotion read:** calm, still, serene
-**Creatures:** bird, small-bird
-**Iconography:** cherry-blossoms
-**Genre cues:** anime
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

@@ -38,7 +38,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Masakazu Fukuda
 flavor_text: Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.
-oracle_text: Heat Blast (FireColorlessColorless) 60
+oracle_text: "Heat Blast (FireColorlessColorless) 60\\nBright Flame (FireFireColorlessColorless) 180: Discard 2 Energy from this Pokémon."
 Bright Flame (FireFireColorlessColorless) 180: Discard 2 Energy from this Pokémon.
 image_width: 734
 image_height: 1024

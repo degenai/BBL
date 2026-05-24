@@ -39,7 +39,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Aya Kusube
 flavor_text: Honedge evolves into twins. The two blades rub together to emit a metallic sound that unnerves opponents.
-oracle_text: Slash (MetalColorless) 30
+oracle_text: "Slash (MetalColorless) 30\\nDouble Slash (MetalMetalColorless) 80×: Flip 2 coins. This attack does 80 damage for each heads."
 Double Slash (MetalMetalColorless) 80×: Flip 2 coins. This attack does 80 damage for each heads.
 image_width: 734
 image_height: 1024

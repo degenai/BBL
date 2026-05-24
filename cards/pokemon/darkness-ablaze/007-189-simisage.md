@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 characters:
   - elemental-monkey-trio
-tags_hub:
+tags_hub: []
   - monkey
   - primate
   - forest
@@ -25,7 +25,7 @@ tags_hub:
   - sunlight
   - foliage
   - trickster
-tags_filter:
+tags_filter: []
   - solo
   - mid-shot
   - forward-facing
@@ -35,15 +35,15 @@ tags_filter:
   - grass-type
   - stage-1
   - pokemon-card
-reference_image: cards/_images/pokemon/darkness-ablaze/007-189-simisage.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-24
 date_added: 2026-05-11
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh3/7_hires.png
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 artist: Hasegawa Saki
 flavor_text: Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.
 oracle_text: Seed Bomb (Grass) 30
@@ -58,6 +58,7 @@ ip_verified: true
 image_width: 734
 image_height: 1024
 image_quality: high
+manual_review_reason: No reference image found via pokemontcg for set 'Darkness Ablaze'
 tags:
   - card
   - pokemon
@@ -69,25 +70,14 @@ tags:
 
 ## Vision
 
-![007-189-simisage](../../_images/pokemon/darkness-ablaze/007-189-simisage.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-> [!warning] Suspected IP: **Simisage (Pokemon)** (confidence: high, verified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-A bright, kinetic illustration of Simisage mid-leap through a dense leafy canopy. The green-furred simian Pokemon has a darker green dorsal mane, pale cream face and chest, and signature leaf-frond crests sprouting from its head and tail tip. It is captured in motion with arms outstretched, sun-dappled light filtering through the surrounding palm-like fronds. The composition is forward-facing and energetic, framed by overlapping foliage in saturated greens with patches of warm yellow light. The mood reads playful and wild, leaning into the flavor-text note about its ill-tempered, tail-swinging combat style.
+**Subject:** 
 
-**Subject:** Simisage, a green simian Pokemon with leaf-tipped crown and tail, leaping through a sunlit forest canopy
-
-**Composition:** mid-shot, action, figures: solo, facing: forward
-**Setting:** forest, day, clear
-**Foreground:** Simisage mid-leap with arms extended, surrounded by drooping palm-like fronds  *(palette: leaf-green, lime, cream, yellow-green)*
-**Background:** dense forest canopy with overlapping leaves and dappled sunlight  *(palette: deep-green, olive, warm-yellow, shadow-green)*
-**Mood / lighting:** action, backlit
-**Emotion read:** spirited, mischievous, agile
-**Objects:** leaf-fronds, palm-leaves
-**Creatures:** simian-pokemon, monkey
-**Iconography:** leaf-crest
-**Genre cues:** fantasy, anime, creature-collector
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

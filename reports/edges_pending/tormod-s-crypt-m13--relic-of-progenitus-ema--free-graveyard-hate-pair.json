@@ -1,0 +1,54 @@
+{
+  "edge_id": "tormod-s-crypt-m13--relic-of-progenitus-ema--free-graveyard-hate-pair",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/magic-2013-m13/219-tormod-s-crypt.md",
+      "name": "Tormod's Crypt (M13)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/eternal-masters/231-relic-of-progenitus.md",
+      "name": "Relic of Progenitus (Eternal Masters)"
+    }
+  ],
+  "description": "Canonical free graveyard-hate artifact pair — the two colorless cheap-or-free graveyard exile artifacts that compete for the same Legacy/Modern/Pauper/Commander sideboard slot. Tormod's Crypt (0-mana, sac-to-exile-one-player) is the elder; Relic of Progenitus (1-mana, tap-incremental OR sac-all-plus-cantrip) is the cantrip-replacement upgrade. Each card's own pre-existing Related-cards list already named the other, so the substrate was already there in both nodes' trivia — Connections just makes it traversable.",
+  "citations": [
+    "[Scryfall: Tormod's Crypt oracle_text, mana_cost, legalities]",
+    "[Scryfall: Relic of Progenitus oracle_text, mana_cost, legalities]",
+    "[MTGGoldfish: Brewer's Minute — Building a Modern Sideboard — Graveyard Hate]",
+    "[TCGPlayer: What Kind of Graveyard Hate Should You Run in Pauper MTG]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/magic-2013-m13/219-tormod-s-crypt.md",
+    "cards/magic-the-gathering/eternal-masters/231-relic-of-progenitus.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "other_candidates_considered": [
+    {
+      "pair": "act-of-treason-m14 <-> sarkhan-s-catharsis-war",
+      "category": "flavor-speaker-identity",
+      "verdict": "rejected-this-pass",
+      "reason": "Sarkhan Vol is the flavor-text speaker on Act of Treason (not the depicted figure), and Sarkhan's Catharsis is canonically Sarkhan's anti-Bolas spell. Real but oblique — flavor-attribution edges are weaker than mechanical-cohort or direct-depiction edges. If a Sarkhan character node were ever commissioned (currently the corpus has only these two SV-touching cards, below the 3-anchor threshold), this would auto-attach via Protocol 2 frontmatter, making a 1:1 edge here premature."
+    },
+    {
+      "pair": "vastwood-gorger-m12 <-> frantic-strength-dsk",
+      "category": "place-name-overlap",
+      "verdict": "rejected-not-an-edge",
+      "reason": "Vastwood Gorger is from the Vastwood (Zendikar/Ondu); Frantic Strength's trivia merely references Vines of Vastwood as the genre-defining green combat-trick. The connection is mediated by a third card we don't own. Place-name overlap is not an edge."
+    },
+    {
+      "pair": "whispersilk-cloak-m11 / titanic-growth-m13 — internal mode candidates",
+      "category": "core-set-utility-staple-singleton",
+      "verdict": "no-edge-found",
+      "reason": "Whispersilk Cloak's nearest corpus mates would be Swiftfoot Boots / Lightning Greaves / Invisible Stalker (none in corpus per grep). Titanic Growth's nearest would be Giant Growth / Vines of Vastwood / Might of Old Krosa (none in corpus). Both are singleton-reprint commons-tier staples with no current corpus partner."
+    }
+  ],
+  "next_pass_suggestions": [
+    "Watch for a third graveyard-hate artifact entering the corpus (Leyline of the Void, Soul-Guide Lantern, Nihil Spellbomb, Soul Warden's Journal); at N>=3 the mr-nodeley-eligible candidate is a 'free graveyard hate' or 'colorless sideboard staple' cohort/symbol node, anchored by Tormod + Relic + the third entrant.",
+    "Sarkhan-Vol character node staged — currently 2 anchors (Sarkhan's Catharsis as depiction; Act of Treason as flavor-speaker), below the 3-anchor threshold. Trigger condition: a third Sarkhan-touching card enters the corpus."
+  ]
+}

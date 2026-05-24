@@ -40,7 +40,7 @@ market_price: 0.01
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401005186/7D90B1F94AF3726F2B2D3C96EAE12B6979F44BF2/
+reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/BT3-014.png
 art_match_confidence: high
 needs_manual_review: false
 mood: action
@@ -49,9 +49,9 @@ setting: mountain
 suspected_ip: Uub
 ip_confidence: high
 ip_verified: true
-image_width: 624
-image_height: 871
-image_quality: med
+image_width: 260
+image_height: 363
+image_quality: low
 tags:
   - card
   - dbs

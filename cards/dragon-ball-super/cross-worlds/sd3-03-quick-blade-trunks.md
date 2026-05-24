@@ -34,10 +34,10 @@ market_price: 0.29
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401488192/F7A65DBDCDCDF10D3B9E563386CB9173176EC3F4/
-image_width: 624
-image_height: 871
-image_quality: med
+reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/SD3-03.png
+image_width: 260
+image_height: 363
+image_quality: low
 art_match_confidence: high
 needs_manual_review: false
 mood: action

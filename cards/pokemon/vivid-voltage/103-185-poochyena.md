@@ -42,7 +42,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: ryoma uratsuka
 flavor_text: It has a very tenacious nature. Its acute sense of smell lets it chase a chosen prey without ever losing track.
-oracle_text: |-
+oracle_text: Bite (Darkness) 10\nRear Kick (ColorlessColorless) 20
   Bite (Darkness) 10
   Rear Kick (ColorlessColorless) 20
 image_width: 734

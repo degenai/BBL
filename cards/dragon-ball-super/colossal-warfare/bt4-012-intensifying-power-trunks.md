@@ -36,10 +36,10 @@ market_price: 0.11
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401024959/51E986DE51DF3C5DA1CB800ECE9262084EB92D31/
-image_width: 624
-image_height: 871
-image_quality: med
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-012_Intensifying_Power_Trunks.png?v=1529505811
+image_width: 870
+image_height: 1210
+image_quality: high
 art_match_confidence: high
 needs_manual_review: false
 mood: action

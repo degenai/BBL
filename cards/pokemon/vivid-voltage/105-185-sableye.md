@@ -40,7 +40,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: KEIICHIRO ITO
 flavor_text: This Pokémon is feared. When its gemstone eyes begin to glow with a sinister shine, it's believed that Sableye will steal people's spirits away.
-oracle_text: "Filch (Colorless): Draw a card.\nTorment (ColorlessColorless) 30: Choose 1 of your opponent's Active Pokémon's attacks. During your opponent's next turn, that Pokémon can't use that attack."
+oracle_text: "Filch (Colorless): Draw a card.\\nTorment (ColorlessColorless) 30: Choose 1 of your opponent's Active Pokémon's attacks. During your opponent's next turn, that Pokémon can't use that attack."
 image_width: 734
 image_height: 1024
 image_quality: high

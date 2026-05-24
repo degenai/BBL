@@ -41,7 +41,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: HYOGONOSUKE
 flavor_text: It is said to have the ability to grant any wish for just one week every thousand years.
-oracle_text: "[Ability: Stellar Wish] Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may look at the top 5 cards of your deck, reveal a Trainer card you find there, and put it into your hand. Then, shuffle the other cards back into your deck, and this Pokémon is now Asleep.\nSlap (MetalColorless) 30"
+oracle_text: "[Ability: Stellar Wish] Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may look at the top 5 cards of your deck, reveal a Trainer card you find there, and put it into your hand. Then, shuffle the other cards back into your deck, and this Pokémon is now Asleep.\\nSlap (MetalColorless) 30"
 image_width: 734
 image_height: 1024
 image_quality: high

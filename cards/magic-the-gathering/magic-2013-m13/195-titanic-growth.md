@@ -77,3 +77,15 @@ A colossal wolf — its fur dark with a mane around its face, eyes glowing a viv
 **Iconography:** glowing eyes
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Design history** — Titanic Growth was first printed in Magic 2012 (M12, no. 198, July 2011) and has been one of the most consistently reprinted green pump instants in the core-set era, appearing in 11 printings including M12 through M15, Magic Origins, Core Sets 2019-2021, Phyrexia: All Will Be One, and Wilds of Eldraine (2023). The M13 printing (no. 195) is the Ryan Pancoast wolf-pup illustration. [Scryfall prints search]
+- **Flavor text** — "The pup looked over the treetops, eyeing the man who just yesterday had kicked her. Suddenly, her hunger was infused with pure delight." No named speaker; the text is a compressed revenge narrative — a wolf pup grows large enough to overtop the human who abused her, and her satisfaction is as much emotional as physical. [Scryfall flavor_text]
+- **Artist** — Ryan Pancoast illustrated this version and sells artist proofs of Titanic Growth from his official store starting at $5.00. Hipsters of the Coast documented the Pancoast Titanic Growth illustration as a featured card in a Vintage Artist Constructed infect list — in that context the pump instant is part of an active combo package, not incidental flavor. Pancoast has illustrated over 125 MTG cards since 2009. [ryanpancoast.com artist proofs store; Hipsters of the Coast "Vintage Artist Constructed — Ryan Pancoast" (2018)]
+- **Mechanical context** — EDHREC rank 6,201. A clean +4/+4 instant for two mana; Pauper and Limited staple, outclassed in Commander by trample-granting pump variants. Legal in Standard, Modern, Pioneer, Legacy, Vintage, Pauper, and Commander. [Scryfall edhrec_rank; Scryfall legalities]
+
+### Related cards
+- Giant Growth (Alpha) — the original +3/+3 pump instant; same design lineage as Titanic Growth
+- Might of Old Krosa (Time Spiral) — efficient green pump instant paired with Titanic Growth in Pauper infect lists
+- Vines of Vastwood (Zendikar) — pump instant with hexproof rider; direct format competitor in Pauper infect
+- Scale Up (Modern Horizons) — later green pump spell in the same design space; commonly discussed as the format upgrade that displaced Titanic Growth in infect strategies

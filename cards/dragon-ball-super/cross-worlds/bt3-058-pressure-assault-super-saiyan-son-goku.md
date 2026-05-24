@@ -36,12 +36,12 @@ market_price: 0.09
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278401012615/84A2119562A29EFAA45FE1C9F34306FECC9A456D/
+reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/BT3-058.png
 art_match_confidence: high
 needs_manual_review: false
-image_width: 624
-image_height: 871
-image_quality: med
+image_width: 260
+image_height: 363
+image_quality: low
 mood: action
 time_of_day: indeterminate
 setting: void

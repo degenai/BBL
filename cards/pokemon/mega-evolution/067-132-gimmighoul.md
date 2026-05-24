@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - treasure
   - gold
   - ghost
@@ -21,22 +21,22 @@ tags_hub:
   - greed
   - cute
   - hoard
-tags_filter:
+tags_filter: []
   - solo
   - mid-shot
   - portrait
   - forward-facing
   - psychic-type
   - creature
-reference_image: cards/_images/pokemon/mega-evolution/067-132-gimmighoul.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.05
 market_price_as_of: 2026-05-24
 date_added: 2026-05-14
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/me1/67_hires.png
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 oracle_text: Slap (Colorless) 10
 image_width: 733
 image_height: 1024
@@ -47,6 +47,7 @@ setting: indoor
 suspected_ip: "Gimmighoul"
 ip_confidence: high
 ip_verified: false
+manual_review_reason: No reference image found via pokemontcg for set 'Mega Evolution'
 tags:
   - card
   - pokemon
@@ -57,23 +58,12 @@ tags:
 
 ## Vision
 
-![067-132-gimmighoul](../../_images/pokemon/mega-evolution/067-132-gimmighoul.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-> [!warning] Suspected IP: **Gimmighoul (#999)** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-A small, round ghost-like creature peeks out from inside an ornate golden treasure chest overflowing with gold coins. The creature has large round blue eyes and a pale grey body barely visible above the chest's rim. The treasure chest itself dominates the foreground — heavily decorated, golden, and filled with glittering coins. The setting appears to be an indoor space with pale marble-like walls in the background. The palette is gold, yellow, pale grey, and pastel purple.
+**Subject:** 
 
-**Subject:** Gimmighoul, a small ghost-like creature peeking from inside an old treasure chest
-
-**Composition:** mid-shot, portrait, figures: solo, facing: forward
-**Setting:** indoor, gothic, indeterminate
-**Foreground:** small ghost-like creature with large eyes peeking from ornate golden treasure chest full of coins  *(palette: gold, yellow, pale-grey, purple)*
-**Background:** pale indoor setting with marble-like walls  *(palette: pale-grey, white, beige)*
-**Mood / lighting:** comedic, soft
-**Emotion read:** mischievous, hiding, peeking
-**Objects:** treasure-chest, gold-coins
-**Creatures:** ghost, ghost-creature
-**Iconography:** treasure-chest, coins
-**Genre cues:** anime
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

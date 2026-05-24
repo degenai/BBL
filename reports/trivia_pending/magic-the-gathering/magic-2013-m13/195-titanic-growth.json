@@ -1,0 +1,43 @@
+{
+  "card_name": "Titanic Growth",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2013 (M13)",
+  "collector_number": "195",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "mana_cost_flag": null,
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Titanic Growth was first printed in Magic 2012 (M12, no. 198, July 2011) and has been one of the most consistently reprinted green pump instants in the core-set era, appearing in 11 printings including Magic 2012 through 2015, Magic Origins, Core Set 2019 through 2021, Phyrexia: All Will Be One, and Wilds of Eldraine (2023). The M13 printing (no. 195) carries Ryan Pancoast's wolf-pup illustration. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The pup looked over the treetops, eyeing the man who just yesterday had kicked her. Suddenly, her hunger was infused with pure delight.\" — flavor text on the M13 printing. No named speaker; the text is a micro-narrative of predatory revenge — a wolf pup grows to dwarf the human who abused her, and her satisfaction is as much emotional as physical. [Scryfall flavor_text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Ryan Pancoast illustrated the M13 version and sells artist proofs of Titanic Growth through his official store (ryanpancoast.com) starting at $5.00. Hipsters of the Coast documented Pancoast's Titanic Growth illustration as a featured card in a Vintage Artist Constructed infect deck — in that context the pump spell is part of an active combo package, not just flavor. Pancoast has illustrated over 125 MTG cards since 2009, including Ugin, the Spirit Dragon and Mordenkainen. [ryanpancoast.com artist proofs store; Hipsters of the Coast 'Vintage Artist Constructed – Ryan Pancoast' (2018)]",
+      "sources": ["ryanpancoast.com", "Hipsters of the Coast: Vintage Artist Constructed – Ryan Pancoast (2018)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 6,201 — moderate Commander adoption. Titanic Growth is a clean +4/+4 instant for two mana, making it a Pauper and Limited staple but outclassed in Commander by Giant Growth variants and trample-granting alternatives. Legal in Standard, Modern, Legacy, Vintage, Pauper, Pioneer, and Commander as of 2024. [Scryfall edhrec_rank; Scryfall legalities]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Giant Growth", "set": "Alpha", "note": "The original +3/+3 instant that Titanic Growth supersizes; same design lineage"},
+    {"name": "Might of Old Krosa", "set": "Time Spiral", "note": "Efficient green pump instant frequently paired or compared to Titanic Growth in Pauper infect lists"},
+    {"name": "Vines of Vastwood", "set": "Zendikar", "note": "Green pump instant with hexproof rider; direct format competitor to Titanic Growth in Pauper infect"},
+    {"name": "Scale Up", "set": "Modern Horizons", "note": "Later green pump spell in same design space; commonly discussed as the 'upgrade' to Titanic Growth in infect strategies"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

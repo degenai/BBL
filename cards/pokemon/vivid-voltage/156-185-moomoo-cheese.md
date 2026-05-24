@@ -46,7 +46,7 @@ artist: 5ban Graphics
 mood: cozy
 time_of_day: indeterminate
 setting: other
-oracle_text: |-
+oracle_text: Heal 30 damage from up to 2 of your Pokémon that have Energy attached.\nYou may play any number of Item cards during your turn.
   Heal 30 damage from up to 2 of your Pokémon that have Energy attached.
   You may play any number of Item cards during your turn.
 image_width: 734

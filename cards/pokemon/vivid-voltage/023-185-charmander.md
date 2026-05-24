@@ -43,7 +43,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: MAHOU
 flavor_text: It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.
-oracle_text: "Collect (Fire): Draw a card.\nFlare (FireFire) 30"
+oracle_text: "Collect (Fire): Draw a card.\\nFlare (FireFire) 30"
 mood: peaceful
 time_of_day: indeterminate
 setting: other

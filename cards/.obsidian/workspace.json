@@ -11,10 +11,14 @@
             "id": "d8f5c0117373da05",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "pokemon/mega-evolution/029-132-sizzlipede.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "029-132-sizzlipede"
             }
           }
         ]
@@ -182,6 +186,27 @@
   },
   "active": "d8f5c0117373da05",
   "lastOpenFiles": [
+    "pokemon/mega-evolution/070-132-onix.md",
+    "magic-the-gathering/magic-2012-m12/200-vastwood-gorger.md.tmp.22516.dcc329c3b329",
+    "_images/lorcana/whispers-in-the-well/184-204-david-xanatos-steel-clan-leader.jpg",
+    "_images/lorcana/whispers-in-the-well",
+    "_images/lorcana",
+    "_images/final-fantasy-tcg/opus-viii/8-088c-layle.jpg",
+    "_images/final-fantasy-tcg/opus-viii/8-087c-monk.jpg",
+    "_images/final-fantasy-tcg/opus-viii/8-086c-moogle-knight.jpg",
+    "_images/final-fantasy-tcg/opus-viii/8-077c-titan-ex.jpg",
+    "_images/final-fantasy-tcg/opus-viii/8-072r-ignis-ex.jpg",
+    "_images/final-fantasy-tcg/opus-viii/8-069r-apururu.jpg",
+    "_images/final-fantasy-tcg/opus-viii/8-065c-archer.jpg",
+    "_images/final-fantasy-tcg/opus-viii/8-059c-basilisk.jpg",
+    "_images/final-fantasy-tcg/opus-viii/8-057c-ninja-xiv.jpg",
+    "_images/final-fantasy-tcg/opus-viii",
+    "_images/final-fantasy-tcg",
+    "_images/dragon-ball-super/judge-promotion-cards",
+    "_images/dragon-ball-super/expansion-deck-box-set-08-magnificent-collection-forsaken-warrior",
+    "_images/pokemon/white-flare",
+    "magic-the-gathering/eternal-masters/231-relic-of-progenitus.md.tmp.22516.72d39945c44d",
+    "magic-the-gathering/magic-2013-m13/219-tormod-s-crypt.md.tmp.22516.cfd5d3121371",
     "pokemon/white-flare/028-086-vanillish.md",
     "pokemon/white-flare/056-086-liepard.md",
     "pokemon/white-flare/009-086-accelgor.md",
@@ -206,27 +231,6 @@
     "pokemon/twilight-masquerade/047-167-corphish.md",
     "pokemon/twilight-masquerade/074-167-bellibolt.md",
     "pokemon/twilight-masquerade/137-167-aipom.md",
-    "pokemon/temporal-forces/047-162-wiglett.md",
-    "pokemon/temporal-forces/030-162-victini.md",
-    "pokemon/stellar-crown",
-    "pokemon/scarlet-violet-base-set",
-    "pokemon/paldean-fates",
-    "pokemon/paldea-evolved",
-    "_characters/ktk-gain-lands.md.tmp.22516.6e9984c0b8a8",
-    "magic-the-gathering/magic-2011-m11/211-ornithopter.md.tmp.22516.bd150494d349",
-    "magic-the-gathering/khans-of-tarkir/246-tranquil-cove.md.tmp.22516.ca8f064b10d7",
-    "magic-the-gathering/khans-of-tarkir/245-tomb-of-the-spirit-dragon.md.tmp.22516.545268fb72df",
-    "magic-the-gathering/khans-of-tarkir/241-sandsteppe-citadel.md.tmp.22516.7dd270e75f70",
-    "magic-the-gathering/khans-of-tarkir/228-witness-of-the-ages.md.tmp.22516.563435148e90",
-    "_images/pokemon/surging-sparks/156-191-oranguru.png",
-    "_images/pokemon/surging-sparks/151-191-bouffalant.png",
-    "_images/pokemon/surging-sparks/148-191-swablu.png",
-    "_images/pokemon/surging-sparks/137-191-turtonator.png",
-    "_images/pokemon/surging-sparks/127-191-bronzong.png",
-    "_images/pokemon/surging-sparks/114-191-glimmet.png",
-    "_images/pokemon/surging-sparks/101-191-paldean-tauros.png",
-    "_images/pokemon/surging-sparks/094-191-flittle.png",
-    "_images/pokemon/surging-sparks/064-191-stunfisk.png",
-    "_images/pokemon/surging-sparks/055-191-iron-bundle.png"
+    "pokemon/temporal-forces/047-162-wiglett.md"
   ]
 }

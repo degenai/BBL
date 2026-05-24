@@ -42,7 +42,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Akira Komayama
 flavor_text: The Farfetch'd of the Galar region are brave warriors, and they wield thick, tough leeks in battle.
-oracle_text: "Rock Smash (Fighting) 10+: Flip a coin. If heads, this attack does 30 more damage.\nPierce (ColorlessColorless) 30"
+oracle_text: "Rock Smash (Fighting) 10+: Flip a coin. If heads, this attack does 30 more damage.\\nPierce (ColorlessColorless) 30"
 mood: action
 time_of_day: day
 setting: mountain

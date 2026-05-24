@@ -40,7 +40,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: sowsow
 flavor_text: Its tail has a small brain of its own. Beware! If you get close, it may react to your scent by biting.
-oracle_text: "Psypower (Psychic): Put 2 damage counters on your opponent's Pokémon in any way you like.\nCommanding Tail (PsychicColorless) 30: You may have your opponent shuffle their hand into their deck. If you do, your opponent draws 4 cards."
+oracle_text: "Psypower (Psychic): Put 2 damage counters on your opponent's Pokémon in any way you like.\\nCommanding Tail (PsychicColorless) 30: You may have your opponent shuffle their hand into their deck. If you do, your opponent draws 4 cards."
 mood: peaceful
 time_of_day: day
 setting: other

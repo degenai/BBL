@@ -41,7 +41,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: SATOSHI NAKAI
 flavor_text: It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.
-oracle_text: Slash (Fire) 20
+oracle_text: "Slash (Fire) 20\\nRaging Flames (FireFire) 60: Discard the top 3 cards of your deck."
 Raging Flames (FireFire) 60: Discard the top 3 cards of your deck.
 characters:
   - charizard-line

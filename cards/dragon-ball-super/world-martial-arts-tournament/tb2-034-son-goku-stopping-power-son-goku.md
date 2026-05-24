@@ -36,9 +36,9 @@ market_price: 0.15
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408077467/F811BC02A6E86486803AD1AA99C14B4A6A378720/
-image_width: 624
-image_height: 871
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-034_Son_Goku_-_Stopping_Power_Son_Goku.png?v=1534965607
+image_width: 646
+image_height: 900
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false

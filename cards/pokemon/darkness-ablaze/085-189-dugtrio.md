@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - underground
   - burrowing
   - earth
@@ -22,7 +22,7 @@ tags_hub:
   - desert
   - no-face-human
   - small-creature
-tags_filter:
+tags_filter: []
   - group
   - 3-figures
   - mid-shot
@@ -33,15 +33,15 @@ tags_filter:
   - stage-1-evolution
   - creature-only
   - creature-collector
-reference_image: cards/_images/pokemon/darkness-ablaze/085-189-dugtrio.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.06
 market_price_as_of: 2026-05-24
 date_added: 2026-05-08
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh3/85_hires.png
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 artist: Yukiko Baba
 flavor_text: A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.
 oracle_text: "Dig (Fighting) 30: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.\nMud Bomb (FightingColorless) 70"
@@ -55,6 +55,7 @@ ip_verified: true
 image_width: 734
 image_height: 1024
 image_quality: high
+manual_review_reason: No reference image found via pokemontcg for set 'Darkness Ablaze'
 tags:
   - card
   - pokemon
@@ -66,25 +67,14 @@ tags:
 
 ## Vision
 
-![085-189-dugtrio](../../_images/pokemon/darkness-ablaze/085-189-dugtrio.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-> [!note] IP verified: **Dugtrio (Pokemon)**
-> Confirmed via PokemonTCG.io API (`swsh3-85`, name=Dugtrio, evolvesFrom=Diglett, National Pokedex no. 051) and Wikipedia: Diglett and Dugtrio.
 
-Three rounded brown mole-like creatures with pink bulbous noses, beady black eyes, and small protruding teeth poke up through cracked dirt mounds at the center of the scene. The trio is arranged in a tight cluster, two in front and one peeking behind, all facing roughly forward. The ground is fissured around them where they have burst through, and small loose pebbles sit on the surface. The background is a flat stylized earthen orange-brown that suggests an underground cross-section or sun-baked badland, with a few darker rocks scattered along the horizon. The composition is mid-shot and creature-forward, with no human figure present.
+**Subject:** 
 
-**Subject:** Dugtrio, a trio of brown mole-creature heads emerging from cracked earthen mounds
-
-**Composition:** mid-shot, portrait, figures: group, facing: forward
-**Setting:** desert, indeterminate, clear
-**Foreground:** three brown mole-creature heads emerging from cracked dirt mounds with loose pebbles  *(palette: brown, tan, pink, black)*
-**Background:** flat earthen orange-brown ground with scattered dark rocks  *(palette: orange, rust, ochre, brown)*
-**Mood / lighting:** comedic, soft
-**Emotion read:** alert, mildly mischievous, blank-faced determination
-**Objects:** dirt-mounds, pebbles, cracked-earth
-**Creatures:** mole-creature, dugtrio
-**Iconography:** fighting-energy-symbol
-**Genre cues:** anime, fantasy, creature-collector
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 
 ## Trivia
 

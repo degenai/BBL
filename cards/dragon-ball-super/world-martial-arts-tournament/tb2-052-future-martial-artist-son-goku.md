@@ -34,10 +34,10 @@ market_price: 0.12
 market_price_as_of: 2026-05-24
 date_added: 2026-05-06
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408080144/5570BE08229E25BF2C87ED521DAB7083DA39E9E6/
-image_width: 624
-image_height: 871
-image_quality: med
+reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/TB2-052.png
+image_width: 260
+image_height: 363
+image_quality: low
 art_match_confidence: high
 needs_manual_review: false
 mood: action

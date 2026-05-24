@@ -1,0 +1,44 @@
+{
+  "card_name": "Vastwood Gorger",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2012 (M12)",
+  "collector_number": "200",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "mana_cost_flag": null,
+  "collector_number_flag": "MISSING from frontmatter — Scryfall confirms collector_number is 200; pre-capture era gap. Same root cause as wave-168 DSK sweep.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vastwood Gorger originated in Zendikar (ZEN, no. 192, October 2009) — a plane defined by dangerous terrain and apex predators, where even the land itself is hostile. The Vastwood is one of Zendikar's great forests on Ondu, home to oversized fauna that reflects the plane's land-magic amplification. The card was reprinted in M12 (2011), M13 (2012), and Magic Origins (2015) before being placed on The List. [Scryfall set field; Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Vastwood Gorger is a vanilla 5/6 for six mana with no abilities. Its EDHREC rank of 23,859 reflects very low Commander adoption — the card is a bulk common used primarily in Limited formats and beginner decks rather than competitive or curated Commander lists. [Scryfall edhrec_rank; Scryfall oracle_text (empty)]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The gorger's insect-like eyes pick up the slightest movement in any direction. Its body then whips toward its prey with startling speed, swallowing it in one engulfing gulp.\" — flavor text from the M12 printing. Printed without a named speaker; the text functions as naturalist field-notes, giving a creature with no oracle text an implied ecological identity. [Scryfall flavor_text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Kieran Yanner has illustrated all known printings of Vastwood Gorger. Yanner is a longtime MTG and genre-fiction illustrator whose MTG work spans Zendikar through Modern Horizons. The M12 printing retains the same art as the Zendikar original. [Scryfall artist field across prints]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Vastwood Hydra", "set": "Magic 2014", "note": "Same Vastwood setting; shares the 'Vastwood' name prefix, Zendikar forest plane"},
+    {"name": "Pelakka Wurm", "set": "Zendikar", "note": "Fellow high-CMC Zendikar Wurm; commonly discussed alongside Gorger as a budget green finisher in beginner formats"},
+    {"name": "Garruk's Companion", "set": "Magic 2011", "note": "Vanilla green aggro creature from same core-set era; frequently cited in the same 'vanilla stats' design discussion"},
+    {"name": "Gnarlid Colony", "set": "Zendikar Rising", "note": "Vastwood-adjacent Zendikar green creature; part of the Zendikar forest ecosystem"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

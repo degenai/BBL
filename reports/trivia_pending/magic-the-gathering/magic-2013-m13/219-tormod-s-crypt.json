@@ -1,0 +1,44 @@
+{
+  "card_name": "Tormod's Crypt",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2013 (M13)",
+  "collector_number": "219",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "mana_cost_flag": null,
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Tormod's Crypt is named after Tormod, a Dominarian necromancer (also called 'Tormod, the Desecrator') who operated during the Dark Age on Dominaria. Tormod was caught robbing graves near the city of Alsoor, executed by a Church-of-Tal-incited mob, and interred in the extravagant crypt his undead minions had built — only for the grave robberies to resume shortly afterward, with Tormod's coffin found empty. The M13 flavor text ('Dominaria's most extravagant crypt nevertheless holds an empty grave') directly references this escape from death. [WebSearch: mtg.wiki Tormod; Scryfall flavor_text]",
+      "sources": ["WebSearch: mtg.wiki/page/Tormod", "Scryfall flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Originally printed in The Dark (DRK, no. 112, August 1994) — one of Magic's earliest expansions — Tormod's Crypt is among the oldest graveyard-hate artifacts in the game, predating Leyline of the Void by a decade. The original Dark printing was illustrated by Christopher Rush, who also illustrated Black Lotus. The M13 printing (art by Lars Grant-West) is one of 14 total printings including Chronicles, Time Spiral Timeshifted, Commander 2014, Core Set 2021, Dominaria Remastered, and Mystery Booster 2 (2024). [Scryfall prints search; WebSearch: Christopher Rush The Dark]",
+      "sources": ["Scryfall", "WebSearch: Christopher Rush / The Dark"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Tormod's Crypt costs zero mana, enters untapped, and sacrifices to exile a target player's entire graveyard — making it one of the cheapest and most format-agnostic graveyard hate pieces in the game. EDHREC rank 1,831 reflects consistent Commander adoption. It sees play in Legacy and Vintage as well as in Pauper, where not having graveyard interaction active on turn one can decide games. [Scryfall edhrec_rank; Scryfall mana_cost; TappedOut forum thread 'Graveyard Removal Rocks Survey']",
+      "sources": ["Scryfall", "TappedOut: Graveyard Removal Rocks Survey"]
+    },
+    {
+      "category": "design",
+      "text": "A named card companion was printed in Commander Legends (2020): Tormod, the Desecrator (Legendary Creature — Zombie Wizard), which creates Zombie tokens whenever cards leave a graveyard. The companion card retroactively canonizes the lore figure behind the Crypt's name. A second related card, Tormod's Cryptkeeper, was printed in Modern Horizons 2 (2021). [Scryfall search: name:Tormod]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tormod, the Desecrator", "set": "Commander Legends", "note": "Legendary creature that canonizes the lore figure named on this card; creates Zombie tokens when cards leave graveyards"},
+    {"name": "Tormod's Cryptkeeper", "set": "Modern Horizons 2", "note": "Named artifact creature in the Tormod design lineage"},
+    {"name": "Relic of Progenitus", "set": "Shards of Alara", "note": "The primary format competitor: draw-replacing graveyard exile vs. Tormod's free whole-graveyard exile"},
+    {"name": "Leyline of the Void", "set": "Guildpact", "note": "The heavy-artillery graveyard hate that replaced Tormod's Crypt in many Legacy sideboards when continuous replacement became preferable"},
+    {"name": "Soul-Guide Lantern", "set": "Theros Beyond Death", "note": "A later free-on-death graveyard exile artifact frequently compared to Tormod's Crypt in format discussions"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

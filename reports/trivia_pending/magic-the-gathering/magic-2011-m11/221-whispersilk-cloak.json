@@ -1,0 +1,43 @@
+{
+  "card_name": "Whispersilk Cloak",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2011 (M11)",
+  "collector_number": "221",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "mana_cost_flag": null,
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "First printed in Darksteel (DST, no. 160, February 2004), Whispersilk Cloak is one of the longest-running Equipment reprints in the game, appearing in 15 printings through 2024 including Tenth Edition, Magic 2010, Magic 2011, multiple Commander and Planechase sets, and as recently as Duskmourn: House of Horror Commander (2024). [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC ranks Whispersilk Cloak at position 323 overall among all Commander-legal cards, placing it in the top tier of Equipment staples. A noted tension in the card's design: equipping it to a creature grants unblockability and shroud simultaneously, meaning you cannot then target your own creature with additional pump spells or Equipment abilities — the card is described by EDHREC's pauper commander coverage as 'the holy grail of Pauper evasion Equipment' but advises equipping it last for exactly this reason. [Scryfall edhrec_rank field; EDHREC article 'Pauper Commander – Bruenor Battlehammer']",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "The M11 printing is illustrated by Daren Bader, whose art depicts a robed figure crouching on a gothic rooftop — a different illustration from the original Darksteel printing (illustrated by Luca Zontini). Bader's version has been the more widely reprinted of the two, appearing in Commander and Planechase products through the 2020s. [Scryfall artist field; WebSearch via CardKingdom/Scryfall listing]",
+      "sources": ["Scryfall", "WebSearch: CardKingdom Darksteel listing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Modern, Legacy, Vintage, Commander, Pauper, and Pauper Commander as of 2024 — not legal in Standard or Pioneer. Penny Dreadful rank 7649, indicating very low redemption value in that budget format. [Scryfall legalities field]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Swiftfoot Boots", "set": "Commander 2011", "note": "Same Equipment slot in most Commander lists — grants haste + hexproof instead of shroud + unblockable; the two are frequently discussed as competing choices"},
+    {"name": "Lightning Greaves", "set": "Commander 2011", "note": "The other premier protection Equipment; shroud + haste; paired with Whispersilk Cloak as the 'speed vs. evasion' Equipment axis"},
+    {"name": "Eldrazi Conscription", "set": "Rise of the Eldrazi", "note": "Aura commonly attached to Whispersilk Cloak-equipped unblockable creatures in combo strategies"},
+    {"name": "Invisible Stalker", "set": "Innistrad", "note": "Creature that naturally combines hexproof + unblockable, often discussed alongside Whispersilk Cloak as similar effect delivery"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

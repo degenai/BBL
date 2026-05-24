@@ -2,7 +2,7 @@
 name: Vastwood Gorger
 game: "Magic: The Gathering"
 set: Magic 2012 (M12)
-collector_number: 
+collector_number: 200 
 rarity: C
 variance: Normal
 grade: Ungraded
@@ -70,3 +70,16 @@ A colossal worm or serpentine creature dominates the composition, its segmented 
 **Creatures:** worm-creature, giant serpent, multi-eyed beast
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Vastwood Gorger originated in Zendikar (ZEN, no. 192, October 2009), a plane defined by dangerous terrain and apex predators where even the land itself generates lethal force. The Vastwood is one of Zendikar's great forests on the continent of Ondu; oversized fauna like the Gorger reflect the plane's land-magic amplification. The card was reprinted in M12 (2011), M13 (2012, no. 196), and Magic Origins (2015) before landing on The List. [Scryfall set field; Scryfall prints search]
+- **Flavor text** — "The gorger's insect-like eyes pick up the slightest movement in any direction. Its body then whips toward its prey with startling speed, swallowing it in one engulfing gulp." The text has no named speaker and reads as naturalist field-notes, giving a vanilla creature (no oracle text abilities) an implied ecological identity in place of mechanical description. [Scryfall flavor_text]
+- **Mechanical context** — Vastwood Gorger is a vanilla 5/6 for six mana with no keyword abilities. EDHREC rank 23,859 reflects minimal Commander adoption; the card is a bulk-common mainstay in Limited and beginner decks, not curated or competitive lists. [Scryfall edhrec_rank; Scryfall oracle_text: empty]
+- **Design** — Artist Kieran Yanner illustrated all known printings; the M12 art is the same image as the Zendikar original. Yanner is a prolific MTG illustrator whose work spans Zendikar through Modern Horizons. [Scryfall artist field across prints]
+
+> [!warning] Missing frontmatter: `collector_number` is blank. Scryfall confirms the correct value is 200. Pre-capture era gap — same root cause as the wave-168 DSK sweep.
+
+### Related cards
+- Vastwood Hydra (Magic 2014) — shares the Vastwood name prefix and Zendikar forest setting
+- Pelakka Wurm (Zendikar) — fellow high-CMC Zendikar Wurm; commonly discussed alongside Gorger as a budget green finisher in beginner formats
+- Gnarlid Colony (Zendikar Rising) — Vastwood-adjacent Zendikar green creature, part of the same forest ecosystem

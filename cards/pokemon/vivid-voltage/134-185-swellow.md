@@ -40,7 +40,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: kodama
 flavor_text: It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.
-oracle_text: "Quick Attack (Colorless) 20+: Flip a coin. If heads, this attack does 40 more damage.\nEnergy Assist (ColorlessColorless) 40: Attach up to 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon."
+oracle_text: "Quick Attack (Colorless) 20+: Flip a coin. If heads, this attack does 40 more damage.\\nEnergy Assist (ColorlessColorless) 40: Attach up to 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon."
 mood: action
 time_of_day: day
 setting: other

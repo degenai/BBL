@@ -10,7 +10,7 @@ condition: Near Mint
 quantity: 3
 held_for_lair: 0
 bundles: []
-tags_hub:
+tags_hub: []
   - fire
   - insect
   - centipede
@@ -21,21 +21,21 @@ tags_hub:
   - aggression
   - creature
   - orange
-tags_filter:
+tags_filter: []
   - solo
   - mid-shot
   - three-quarter
   - fire-magic
   - action
-reference_image: cards/_images/pokemon/mega-evolution/029-132-sizzlipede.png
+reference_image: 
 average_cost_paid: 0
 market_price: 0.07
 market_price_as_of: 2026-05-24
 date_added: 2026-05-14
 last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/me1/29_hires.png
-art_match_confidence: high
-needs_manual_review: false
+art_match_confidence: none
+needs_manual_review: true
 oracle_text: Ram (Fire) 10\nCombustion (FireFireColorless) 50
 image_width: 733
 image_height: 1024
@@ -47,6 +47,7 @@ subject_known_ip: true
 suspected_ip: Sizzlipede
 ip_confidence: high
 ip_verified: false
+manual_review_reason: No reference image found via pokemontcg for set 'Mega Evolution'
 tags:
   - card
   - pokemon
@@ -57,21 +58,12 @@ tags:
 
 ## Vision
 
-![029-132-sizzlipede](../../_images/pokemon/mega-evolution/029-132-sizzlipede.png)
+> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
 
-> [!warning] Suspected IP: **Sizzlipede** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
-A red segmented arthropod creature with a round, dark-rimmed head and vivid orange body segments is depicted in a dynamic coiling pose. Its body curves sharply, with each segment outlined in a warm orange tone against a fiery reddish-orange background. The background suggests heat and kinetic energy with angled geometric shapes implying motion or impact. The palette is dominated by reds, oranges, and warm browns, reinforcing the fire-type theme. The overall impression is aggressive and in-motion.
+**Subject:** 
 
-**Subject:** Sizzlipede, a segmented red and orange centipede-like creature with a round head, curled in a dynamic action pose
-
-**Composition:** mid-shot, action, figures: solo, facing: three-quarter
-**Setting:** other, indeterminate, fire
-**Foreground:** Red segmented centipede creature coiled in a striking pose  *(palette: red, orange, dark-brown)*
-**Background:** Fiery orange-red background with angular geometric streaks suggesting motion  *(palette: orange, red, amber)*
-**Mood / lighting:** action, harsh
-**Emotion read:** aggressive, coiled and ready to strike
-**Creatures:** centipede-creature, arthropod
-**Genre cues:** anime, fantasy
+**Composition:** figures: , facing: 
+**Setting:** 
+**Mood / lighting:**
 

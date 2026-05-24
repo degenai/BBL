@@ -44,7 +44,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Sanosuke Sakuma
 flavor_text: Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.
-oracle_text: |-
+oracle_text: Sand Spray (Fighting) 10\nPierce (ColorlessColorless) 20
   Sand Spray (Fighting) 10
   Pierce (ColorlessColorless) 20
 mood: peaceful

@@ -75,3 +75,15 @@ A robed assassin in a deep blue-violet hooded cloak crouches in concealment atop
 **Iconography:** hood, cloak, concealment
 **Genre cues:** fantasy, gothic, noir
 
+## Trivia
+
+- **Design history** — First printed in Darksteel (DST, no. 160, February 2004), Whispersilk Cloak is one of the longest-running Equipment reprints in the game, appearing in 15 printings through 2024 across Tenth Edition, Magic 2010, Magic 2011, multiple Commander and Planechase sets, and Duskmourn: House of Horror Commander. [Scryfall prints search]
+- **Art variant** — The M11 printing uses art by Daren Bader showing a robed figure on a gothic rooftop at night, a distinct illustration from the original Darksteel version (illustrated by Luca Zontini). Bader's version has been the more widely reprinted of the two, carried into Commander and Planechase products through the 2020s. [Scryfall artist field; WebSearch: CardKingdom Darksteel listing]
+- **Mechanical reputation** — EDHREC ranks Whispersilk Cloak at overall position 323 among Commander-legal cards, placing it among the top Equipment staples in the format. The card's built-in tension: shroud prevents you from targeting your own creature after equipping, so EDHREC's pauper commander coverage calls it "the holy grail of Pauper evasion Equipment" and advises equipping it last to avoid locking out other combat tricks. [Scryfall edhrec_rank; EDHREC article "Pauper Commander – Bruenor Battlehammer"]
+- **Format legalities** — Legal in Modern, Legacy, Vintage, Commander, Pauper, and Pauper Commander; not legal in Standard or Pioneer. [Scryfall legalities]
+
+### Related cards
+- Swiftfoot Boots (Commander 2011) — same Equipment slot in most Commander lists; hexproof + haste vs. shroud + unblockable; the two are the dominant competing choices
+- Lightning Greaves (Commander 2011) — the other premier protection Equipment (shroud + haste); frequently paired in "speed vs. evasion" Equipment discussions
+- Eldrazi Conscription (Rise of the Eldrazi) — Aura commonly stacked on Whispersilk Cloak-equipped unblockable creatures in combo lines
+- Invisible Stalker (Innistrad) — creature that delivers hexproof + unblockable natively; often discussed alongside Whispersilk Cloak as a comparable evasion package

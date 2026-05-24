@@ -36,9 +36,9 @@ market_price: 0.1
 market_price_as_of: 2026-05-24
 date_added: 2026-05-05
 last_seen: 2026-05-23
-reference_image_source_url: https://steamusercontent-a.akamaihd.net/ugc/2336874278408074464/104D8144693F1F03F5C640DD0425E91A6A9FA5D1/
-image_width: 624
-image_height: 871
+reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-013_Dark_Duo_Babidi.png?v=1534962238
+image_width: 646
+image_height: 900
 image_quality: med
 art_match_confidence: high
 needs_manual_review: false

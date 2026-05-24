@@ -1,0 +1,44 @@
+{
+  "card_name": "Act of Treason",
+  "game": "Magic: The Gathering",
+  "set": "Magic 2014 (M14)",
+  "collector_number": "125",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "mana_cost_flag": null,
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "\"Rage courses in every heart, yearning to betray its rational prison.\" — Sarkhan Vol. The flavor text is a statement of Sarkhan Vol's worldview: he believes that the drive toward fury and chaos is natural and that civilization or reason is what is artificial ('rational prison'). The line reads as both a personal manifesto and a mechanical description of the effect — the stolen creature's own rage is the lever. [Scryfall flavor_text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Sarkhan Vol, the flavor-text speaker, is a dragon-worshipping Planeswalker from Tarkir who served Nicol Bolas before becoming disillusioned with Bolas's 'conniving, woefully undragonlike' nature. At the time of Magic 2014's release (July 2013), Sarkhan had already appeared on cards in Shards of Alara, Conflux, and Rise of the Eldrazi, but the main Tarkir storyline resolving his arc would not arrive until Khans of Tarkir (2014). The M14 attribution of his flavor-text voice frames Act of Treason as a dragon-cultist's philosophy of violence. [Wizards.com: 'Sarkhan Vol Planeswalker' lore profile; WebSearch: Sarkhan Vol character history]",
+      "sources": ["Wizards.com: Sarkhan Vol Planeswalker lore page", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Act of Treason was first printed in Magic 2010 (M10, no. 124, July 2009) and has 18 total printings through Ravnica Remastered (2024) — making it one of the most reprinted red temporary-control sorceries in the game. Printings include Gatecrash, Khans of Tarkir, Ravnica Allegiance, Jumpstart, and Ravnica Remastered. The M14 printing is illustrated by Eric Deschamps, who is known for his dynamic figurative composition work across the core set era. [Scryfall prints search; Scryfall artist field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 4,694 — solid Commander presence as a Red staple for sacrifice-based strategies (Goblin Bombardment, Altar of Dementia, etc.) where the one-turn steal becomes permanent removal on the opponent's best creature. Legal in Modern, Pioneer, Legacy, Vintage, Pauper, Commander, and Historic. [Scryfall edhrec_rank; Scryfall legalities]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sarkhan Vol", "set": "Shards of Alara", "note": "The Planeswalker who speaks the flavor-text quote; his +1 ability also temporarily steals creatures"},
+    {"name": "Insurrection", "set": "Onslaught", "note": "The 'big brother' version — steal ALL creatures at once; same design lineage"},
+    {"name": "Threaten", "set": "Onslaught", "note": "The predecessor card with identical effect; Act of Treason is a functional reprint with new art and flavor"},
+    {"name": "Frantic Salvage", "set": "various", "note": "Red sacrifice-engine card frequently paired with Act of Treason in sacrifice-combo Commander builds"},
+    {"name": "Claim the Firstborn", "set": "Throne of Eldraine", "note": "Cheaper version restricted to CMC 3 or less; direct format upgrade discussion in Pauper and Pioneer"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

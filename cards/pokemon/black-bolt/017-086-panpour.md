@@ -41,7 +41,7 @@ art_match_confidence: high
 needs_manual_review: false
 artist: Makura Tami
 flavor_text: The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.
-oracle_text: "Collect (Colorless): Draw a card.\nScratch (ColorlessColorless) 30"
+oracle_text: "Collect (Colorless): Draw a card.\\nScratch (ColorlessColorless) 30"
 image_width: 733
 image_height: 1024
 image_quality: high

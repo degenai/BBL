@@ -89,3 +89,7 @@ A weathered circular artifact, half-stone half-wood, is set into the gnarled bas
 - Tormod's Crypt (The Dark) — classic zero-mana graveyard-nuke, frequent comparison piece in sideboard discussions
 - Nihil Spellbomb (Scars of Mirrodin) — direct mechanical parallel: colored cantrip graveyard wipe vs. Relic's colorless incremental approach
 - Leyline of the Void (Magic 2011) — competing Modern/Pauper graveyard hate piece, different deployment mode
+
+## Connections
+
+- [[219-tormod-s-crypt]] — Canonical free graveyard-hate artifact pair. Both are colorless cheap-or-free graveyard exile artifacts that compete for the same Legacy/Modern/Pauper/Commander sideboard slot; Tormod's Crypt (zero mana, sacrifice to exile one player's graveyard) and Relic of Progenitus (one mana, tap for incremental exile OR sacrifice for all-graveyards-plus-cantrip) are the two long-standing colorless sideboard staples that sideboard guides treat as the speed-vs-flexibility choice. Each card's own Related-cards list already names the other, with Tormod predating Relic by ~14 years and Relic offering the cantrip-replacement upgrade. `[Scryfall: Tormod's Crypt + Relic of Progenitus oracle_text, mana_cost, legalities; MTGGoldfish "Brewer's Minute: Building a Modern Sideboard — Graveyard Hate"; TCGPlayer "What Kind of Graveyard Hate Should You Run in Pauper MTG"]`
