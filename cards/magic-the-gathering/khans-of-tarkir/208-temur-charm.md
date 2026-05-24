@@ -50,6 +50,8 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/208-temur-char
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/2/e2ee3e36-a849-42b0-b84b-027a08427c35.jpg?1562794960
 oracle_text: Choose one —\n• Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.\n• Counter target spell unless its controller pays {3}.\n• Creatures with power 3 or less can't block this turn.
 mana_cost: "{G}{U}{R}"
+characters:
+  - ktk-clan-charm-cycle
 tags:
   - card
   - vision-passed
@@ -74,3 +76,15 @@ A solitary figure stands centered on a rocky outcrop in a high mountain pass, sw
 **Iconography:** arcane-sigil, rune, circle-of-power
 **Genre cues:** fantasy, high-fantasy, shamanic
 
+## Trivia
+
+- **Set context / charm cycle** — Temur Charm is one of five clan charms in Khans of Tarkir (released September 26, 2014), alongside Abzan Charm, Jeskai Charm, Sultai Charm, and Mardu Charm — each an uncommon instant for its wedge's three colors. Wizards designed the KTK charms as the lone exception to the set's multicolor mana-cost convention: every other uncommon gold card in the set costs more than one mana of each of its clan's three colors, but the charms each cost exactly one of each. This made them uniquely splash-friendly in Limited drafts. `[Scryfall]` `[Wizards of the Coast, "Khans of Tarkir Design Handoff, Part 2"]`
+- **Design / reprint** — Temur Charm carries the Temur watermark. Scryfall confirms exactly 2 printings: the original KTK (September 2014) and Commander 2020 (April 2020, the Ikoria Commander set). Both printings use the same Mathias Kollros art. Its EDHREC rank of 7,075 makes it the second-most-played card among this batch, indicating meaningful Commander adoption. `[Scryfall]`
+- **Modes** — The charm's three modes map to the Temur's identity: the fight mode (+1/+1 pump then fights) enables Ferocious-style power contests; the soft counterspell (pay 3 or counter) reflects the Temur's blue splash disruption; the evasion mode (power-3-or-less creatures can't block) turns large Temur creatures into unblockable threats — a direct callback to Ferocious philosophy. The third mode's timing note: creatures with power 3 or less that enter AFTER the charm resolves also can't block that turn. `[Scryfall oracle_text]` `[Wizards of the Coast, "Mechanics of Khans of Tarkir"]`
+- **Design context — Ferocious** — The Temur clan's signature mechanic Ferocious received a Storm Scale rating of 7 from Mark Rosewater and was identified as "the least-liked mechanic of the Khans of Tarkir set," though he noted it could return in a set where it's "the perfect fit." The charm's third mode is effectively a one-shot Ferocious payoff: it becomes most devastating when you control the large creatures the Temur mechanic demands. `[Wizards of the Coast, "Storm Scale: Khans of Tarkir Block," 2016]`
+
+### Related cards
+- Abzan Charm (Khans of Tarkir, no. 157) — charm cycle member
+- Jeskai Charm (Khans of Tarkir, no. 175) — charm cycle member (trivia-passed wave 176)
+- Mardu Charm (Khans of Tarkir, no. 182) — charm cycle member (trivia-passed wave 177)
+- Sultai Charm (Khans of Tarkir, no. 207) — charm cycle member

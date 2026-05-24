@@ -10,8 +10,23 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - hypnosis
+  - pendulum
+  - sleep
+  - psychic
+  - dark
+  - ominous
+  - dream
+  - night
+  - mystery
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait-mode
+  - psychic-type
+  - creature
+  - stage-1
 reference_image: cards/_images/pokemon/sun-moon-base-set/60-hypno.png
 average_cost_paid: 0
 market_price: 0.18
@@ -31,6 +46,12 @@ flavor_text: As a matter of course, it makes anyone it meets fall asleep and has
 image_width: 600
 image_height: 835
 image_quality: med
+mood: grim
+time_of_day: indeterminate
+setting: void
+suspected_ip: Hypno
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -42,12 +63,20 @@ tags:
 
 ![60-hypno](../../_images/pokemon/sun-moon-base-set/60-hypno.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Hypno** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+The cached image appears to be 'Dark Hypno' from the Team Rocket set, not 'Hypno' from Sun & Moon Base Set as indicated in the frontmatter. The card frame text clearly reads 'Dark Hypno' and the frame design matches the Team Rocket era style. The art shows the Hypno creature (recognizable humanoid Pokemon holding a pendulum ring) but this is a different card from a different set. The curator should source the correct Sun & Moon Base Set Hypno image before running a full vision pass. The Hypno creature itself is visible: a bipedal, vaguely humanoid creature with a pendulum-like ring, standing against a dark background — but tagging against this mismatched art risks polluting the graph with wrong-card metadata.
 
-**Subject:** 
+**Subject:** IMAGE MISMATCH — card frame reads 'Dark Hypno' (Team Rocket era) not 'Hypno' from Sun & Moon Base Set; vision pass halted per mismatch rule
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** void, indeterminate
+**Foreground:** Hypno creature with pendulum ring — but from wrong card printing  *(palette: yellow, dark-grey, black)*
+**Background:** dark indeterminate background  *(palette: dark-grey, black)*
+**Mood / lighting:** grim, chiaroscuro
+**Emotion read:** ominous, hypnotic
+**Objects:** pendulum, ring
+**Creatures:** humanoid-pokemon
+**Iconography:** pendulum
+**Genre cues:** anime, fantasy

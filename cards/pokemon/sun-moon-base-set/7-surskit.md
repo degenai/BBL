@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - water
+  - insect
+  - small
+  - cute
+  - summer
+  - fountain
+  - sunny
+  - nature
+  - bug
+  - pond
+  - garden
+  - playful
+tags_filter:
+  - solo
+  - forward-facing
+  - mid-shot
+  - portrait-mode
+  - creature
+  - basic
 reference_image: cards/_images/pokemon/sun-moon-base-set/7-surskit.png
 average_cost_paid: 0
 market_price: 0.11
@@ -31,6 +49,12 @@ artist: Kyoko Umemoto
 image_width: 734
 image_height: 1024
 image_quality: high
+mood: peaceful
+time_of_day: day
+setting: other
+suspected_ip: Surskit
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -42,12 +66,20 @@ tags:
 
 ![7-surskit](../../_images/pokemon/sun-moon-base-set/7-surskit.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Surskit** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+A small, round-bodied insect creature stands near or on a water surface, its four thin legs touching the surface in the manner of a water-strider. Its body is compact and rounded with a cheerful, upturned expression. A star-shaped or spiked protrusion extends upward from its head. The setting is bright and sunny — stone architecture (what reads as a fountain or low wall) is visible in the background along with lush green grass and foliage. The water surface catches light in bright blues and whites. The overall mood is light, playful, and summery.
 
-**Subject:** 
+**Subject:** Surskit, a small aquatic insect Pokemon standing on or near water with a cheerful expression, in a sunny outdoor setting
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, organic, day, clear
+**Foreground:** Surskit on water surface, round body, spike protrusion on head  *(palette: sky-blue, white, pale-yellow)*
+**Background:** stone fountain or wall, green grass, bright daylight  *(palette: green, stone-grey, bright-blue, white)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** cheerful, carefree, content
+**Objects:** water-surface
+**Creatures:** insect-creature, water-strider
+**Iconography:** spike-protrusion, water-walking
+**Genre cues:** anime, fantasy

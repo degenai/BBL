@@ -1,0 +1,42 @@
+{
+  "card_name": "Heart-Piercer Bow",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "221",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Heart-Piercer Bow is a Mardu-watermark uncommon equipment from KTK (September 2014). The Mardu Horde are Tarkir's speed-obsessed cavalry clan, and the bow's flavor grounds it in that identity: the finest Mardu bows are fictional relics carved from dragon bone.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Designed by an ancient artificer, the finest Mardu bows are carved from dragon bone and strung with the wind itself.' The 'wind itself' line is characteristic of KTK Mardu mythologizing — the clan's relationship with wind and speed is a recurring motif. The 'ancient artificer' is unnamed in any canonical source; do not conflate with named Mardu characters.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "4 printings over a decade: KTK (2014), Core Set 2020, Jumpstart 2022, Commander Masters 2023. Breadth of reprints reflects sustained Commander interest. Scryfall's all_parts field designates it as a combo piece with Renowned Weaponsmith (a creature that tutors specifically for Heart-Piercer Bow or Vial of Dragonfire) and Vial of Dragonfire — a named Scryfall-recognized trio.",
+      "sources": ["Scryfall prints search", "Scryfall all_parts"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Rules distinction: the damage from the triggered ability is dealt BY the equipment, not the equipped creature. A defending creature with protection from artifacts can still be targeted by the trigger, but will not take the damage. Commonly paired with deathtouch creatures for repeated 1-damage pings that kill; the interaction works because deathtouch applies to combat damage from the creature, not the bow's separate triggered damage.",
+      "sources": ["Scryfall oracle_text", "MTGAssist.com rules note via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Renowned Weaponsmith", "set": "Khans of Tarkir / Core Set 2020 / Commander Masters", "note": "Tutors specifically for Heart-Piercer Bow or Vial of Dragonfire; Scryfall-linked combo piece"},
+    {"name": "Vial of Dragonfire", "set": "Khans of Tarkir", "note": "The other artifact in the Renowned Weaponsmith tutor trio"},
+    {"name": "Mardu Charm", "set": "Khans of Tarkir", "note": "Shares Mardu watermark; clan anchor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": []
+}

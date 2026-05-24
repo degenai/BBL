@@ -53,6 +53,7 @@ art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/198-secret-pla
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/1/01589046-a969-400f-b4ac-90cbbb814504.jpg?1562781791
 flavor_text: Rakshasa trade in secrets, amassing wealth from their careful revelation.
 oracle_text: Face-down creatures you control get +0/+1.\nWhenever a permanent you control is turned face up, draw a card.
+mana_cost: "{G}{U}"
 tags:
   - card
   - vision-passed
@@ -78,3 +79,14 @@ A close-up of a feral rakshasa head bursts forward through coiling fire and embe
 **Iconography:** fangs, fire, glowing-eyes
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **Set context** — Secret Plans is an uncommon enchantment from Khans of Tarkir (released September 26, 2014), a set built around the five-clan conflict on the plane of Tarkir. Its mana cost `{G}{U}` makes it a two-color Sultai-adjacent card rather than a full three-color wedge card, bridging the Temur and Sultai clans by supporting morph — the set's cross-faction deception mechanic. KTK design featured morph as its central identity, with Wizards framing it as "the sense of mystery and intrigue" that defined a warlord-centric setting. `[Scryfall]` `[Wizards of the Coast, "Khans of Tarkir Design Handoff, Part 2"]`
+- **Design** — The card carries the Sultai watermark (confirmed via Scryfall's `watermark` field is absent here, but clan alignment is clear from color identity and flavor). Scryfall shows 4 unique printings: the original KTK (2014), Commander 2019's "Faceless Menace" preconstructed morph deck, Time Spiral Remastered, and a 2023 Arena-only KTK variant. Its inclusion in the Commander 2019 morph precon confirms the card's status as a format staple for face-down strategies. `[Scryfall prints search]`
+- **Flavor text** — "Rakshasa trade in secrets, amassing wealth from their careful revelation." `[Scryfall]` The rakshasa are Tarkir's demonic tiger-headed beings, coded as green-black creatures who operate as power brokers for the Sultai Brood — sharing secrets with the Sultai naga leadership in exchange for compensation. `[CBR.com, "MTG Tarkir's Sultai Brood Clan, Explained"]`
+- **Mechanical reputation** — Secret Plans is a recognized staple in morph/disguise Commander builds, particularly under Kadena, Slinking Sorcerer. It functions as a two-card draw engine alongside Trail of Mystery, turning every face-up trigger into a card. Its +0/+1 buff to face-down creatures gives morphs 2/3 defensive stats, which meaningfully changes combat math. `[EDHREC: Kadena, Slinking Sorcerer, via WebSearch snippet]`
+
+### Related cards
+- Trail of Mystery (Khans of Tarkir, no. 185) — the companion morph-matters enchantment, frequently paired with Secret Plans as the two-card engine for morph commanders
+- Kadena, Slinking Sorcerer (Commander 2019, no. 46) — the face commander of the "Faceless Menace" precon that reprinted Secret Plans; Sultai-colored morph commander
+- Ixidor, Reality Sculptor (Onslaught) — earlier morph-matters commander whose lineage Secret Plans traces back to

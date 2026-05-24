@@ -1,0 +1,45 @@
+{
+  "card_name": "Temur Charm",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "208",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Temur Charm completes the five-clan KTK charm cycle: Abzan Charm, Jeskai Charm, Sultai Charm, Mardu Charm, Temur Charm — one for each wedge clan, each an uncommon instant. The charms were the ONLY uncommon gold cards in the set that did not cost more than one mana of each clan's three colors; all other uncommon multicolor cards cost more. This made them uniquely splash-friendly in Limited.",
+      "sources": ["Scryfall", "Wizards of the Coast: Khans of Tarkir Design Handoff Part 2 (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Temur Charm has exactly 2 printings: KTK (September 2014) and Commander 2020 (April 2020, the Ikoria-era Commander set). Both use the same Mathias Kollros art. EDHREC rank 7,075 — highest among this wave's five cards, indicating meaningful Commander adoption.",
+      "sources": ["Scryfall prints search", "Scryfall edhrec_rank"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Three modes mapped to Temur identity: (1) pump + fight = power-contest Ferocious style; (2) soft counterspell (pay 3 or counter) = blue splash disruption; (3) power-3-or-less creatures can't block = large-creature evasion. Mode 3 applies to creatures that enter AFTER the charm resolves that turn. No flavor text.",
+      "sources": ["Scryfall oracle_text", "Wizards of the Coast: Mechanics of Khans of Tarkir"]
+    },
+    {
+      "category": "design",
+      "text": "Design context — Ferocious: Mark Rosewater rated Ferocious a Storm Scale 7 and described it as 'the least-liked mechanic of the Khans of Tarkir set,' while noting it could return under the right conditions. Temur Charm's third mode (blocking restriction based on power 3 or less) is effectively a one-shot Ferocious payoff.",
+      "sources": ["Wizards of the Coast: Storm Scale: Khans of Tarkir Block, 2016"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Abzan Charm", "set": "Khans of Tarkir", "note": "KTK charm cycle member"},
+    {"name": "Jeskai Charm", "set": "Khans of Tarkir", "note": "KTK charm cycle member (trivia-passed wave 176)"},
+    {"name": "Mardu Charm", "set": "Khans of Tarkir", "note": "KTK charm cycle member (trivia-passed wave 177)"},
+    {"name": "Sultai Charm", "set": "Khans of Tarkir", "note": "KTK charm cycle member"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": [
+    "CHARM CYCLE COHORT TRIGGER: Temur Charm is the 3rd of 5 KTK clan charms to be trivia-passed (Jeskai wave 176, Mardu wave 177, Temur this wave). This satisfies the staged 'KTK five-clan charm cycle' cohort trigger condition. Edgelord should commission the cohort node. Abzan Charm and Sultai Charm remain untrivia-passed."
+  ]
+}

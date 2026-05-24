@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - sumo
+  - fighter
+  - strength
+  - big-body
+  - stars
+  - cosmic
+  - warrior
+  - display
+  - brawler
+  - champion
+  - muscle
+tags_filter:
+  - solo
+  - forward-facing
+  - mid-shot
+  - action-mode
+  - creature
+  - stage-1
 reference_image: cards/_images/pokemon/sun-moon-base-set/68-hariyama.png
 average_cost_paid: 0
 market_price: 0.16
@@ -31,6 +48,12 @@ oracle_text: "Push Out (FightingColorlessColorless) 60: Your opponent switches t
 image_width: 400
 image_height: 550
 image_quality: med
+mood: action
+time_of_day: night
+setting: space
+suspected_ip: Hariyama
+ip_confidence: high
+ip_verified: false
 tags:
   - card
   - pokemon
@@ -42,12 +65,19 @@ tags:
 
 ![68-hariyama](../../_images/pokemon/sun-moon-base-set/68-hariyama.png)
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+> [!warning] Suspected IP: **Hariyama** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
 
+A large, stocky humanoid creature dominates the frame in a dynamic open-armed stance, suggesting a challenge or display of force. Its body is broad and heavy-set with wide spread arms and a forward-leaning posture consistent with the sumo wrestler archetype. It wears a decorated garment across its midsection — colorful and patterned, though fine details are below resolution. The background is a deep cosmic starfield with warm amber-orange tones bleeding in from below, suggesting either a volcanic or sunset environment layered beneath the night sky. The card frame appears to be from an older EX-era printing rather than Sun & Moon, though the creature depicted is unambiguously Hariyama.
 
-**Subject:** 
+**Subject:** Hariyama, a large sumo-proportioned fighting-type Pokemon in a wide-armed action pose against a starfield background
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
-
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** space, night
+**Foreground:** Hariyama in wide-armed display stance  *(palette: warm-tan, orange-yellow, teal-accent)*
+**Background:** deep starfield with amber-orange lower gradient  *(palette: black, deep-blue, amber, orange)*
+**Mood / lighting:** action, ambient
+**Emotion read:** challenging, dominant, powerful display
+**Creatures:** sumo-creature, humanoid-fighter
+**Iconography:** decorated-garment, wide-stance
+**Genre cues:** anime, fantasy, cosmic

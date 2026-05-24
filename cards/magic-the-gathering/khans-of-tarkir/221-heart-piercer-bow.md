@@ -76,3 +76,14 @@ A close-up rendering of an elaborate recurve bow held drawn, the limbs sweeping 
 **Iconography:** bow-and-arrow, tassel
 **Genre cues:** fantasy, mongol-steppe, nomadic
 
+## Trivia
+
+- **Set context** — Heart-Piercer Bow is an uncommon equipment artifact from Khans of Tarkir (released September 26, 2014), carrying the Mardu watermark. The Mardu Horde are Tarkir's speed-obsessed cavalry clan, and the bow's flavor grounds it in that identity: the finest Mardu bows are fictional relics carved from the bones of Tarkir's dragons. `[Scryfall]`
+- **Flavor text** — "Designed by an ancient artificer, the finest Mardu bows are carved from dragon bone and strung with the wind itself." `[Scryfall]` The "strung with the wind itself" line is characteristic of KTK's mythologizing flavor voice — the Mardu relationship with wind and speed is a recurring motif across clan identity. The "ancient artificer" is unnamed and unidentified in any canonical source found during research; do not conflate with any named Mardu character.
+- **Design / reprints** — Heart-Piercer Bow has 4 printings: KTK (2014), Core Set 2020, Jumpstart 2022, and Commander Masters 2023. The breadth of reprints across a decade reflects sustained Commander interest. Scryfall's `all_parts` field links it as a combo piece alongside Renowned Weaponsmith (a creature that tutors specifically for Heart-Piercer Bow or Vial of Dragonfire) and Vial of Dragonfire — these three cards form a named Scryfall-recognized combo cluster. `[Scryfall all_parts]`
+- **Rules note** — The damage triggered by Heart-Piercer Bow is dealt BY the equipment, not by the equipped creature. This distinction matters for protection, shroud, and indestructibility — a creature with protection from artifacts can still be targeted (the bow's trigger targets), but the creature wouldn't be dealt damage from a source it has protection from. Relevant in deathtouch-bow builds where players pair it with deathtouch creatures for repeated pings. `[Scryfall oracle_text, confirmed via MTGAssist.com rules note via WebSearch snippet]`
+
+### Related cards
+- Renowned Weaponsmith (Khans of Tarkir, also reprinted M20 / Commander Masters) — tutors specifically for Heart-Piercer Bow or Vial of Dragonfire; Scryfall-linked combo piece
+- Vial of Dragonfire (Khans of Tarkir) — the other artifact in the Renowned Weaponsmith tutor trio
+- Mardu Charm (Khans of Tarkir, no. 182) — shares Mardu watermark; clan context anchor

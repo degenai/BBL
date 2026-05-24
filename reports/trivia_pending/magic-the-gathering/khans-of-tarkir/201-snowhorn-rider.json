@@ -1,0 +1,44 @@
+{
+  "card_name": "Snowhorn Rider",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "201",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Snowhorn Rider is a Temur watermark common from Khans of Tarkir (September 2014). The Temur Frontier are arctic survivalists whose signature mechanic Ferocious rewards controlling a creature with power 4 or greater.",
+      "sources": ["Scryfall", "Wizards of the Coast: Mechanics of Khans of Tarkir"]
+    },
+    {
+      "category": "design",
+      "text": "A 5/5 with Trample for six mana, Snowhorn Rider is a Ferocious ENABLER, not a Ferocious card — its stat line satisfies the power-4+ threshold for other Temur spells. Morph cost equals its face-up cost, making the morph a bluffing tool rather than a mana-efficiency play. Never reprinted — KTK first printing is the only one.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Sure-footed, strong-willed, and ill-tempered — and so is the ram.' A double-subject joke: the first clause describes the rider; 'and so is the ram' pivots to the snowhorn mount. The 'ram' is the snowhorn beast native to Tarkir's arctic Temur territories, not a literal ram.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 29,319 — well into obscure territory for Commander. Pauper-legal per Scryfall but sees no meaningful play. Carried near-zero competitive footprint in KTK limited at six mana.",
+      "sources": ["Scryfall edhrec_rank", "Scryfall legalities.pauper: legal"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Trail of Mystery", "set": "Khans of Tarkir", "note": "Temur morph-ramp enchantment; what large morph creatures like this were paired with"},
+    {"name": "Savage Punch", "set": "Khans of Tarkir", "note": "Common Temur fight spell with Ferocious upgrade; Snowhorn Rider's 5 power enables the bonus"},
+    {"name": "Surrak Dragonclaw", "set": "Khans of Tarkir", "note": "The Temur Khan; clan anchor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": [
+    "TEMUR FEROCIOUS COHORT WATCH: Snowhorn Rider is a Temur-watermark Ferocious enabler (5/5 body meets power-4+ threshold). Flag for Temur Ferocious cohort watch-list per dispatch instructions."
+  ]
+}

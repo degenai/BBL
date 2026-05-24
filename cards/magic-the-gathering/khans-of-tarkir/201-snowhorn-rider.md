@@ -80,3 +80,14 @@ A huge tusked, horned, shaggy white-and-cream beast surges forward through swirl
 **Creatures:** mammoth, snowhorn, tusked-beast, horned-beast
 **Genre cues:** fantasy, high-fantasy
 
+## Trivia
+
+- **Set context** — Snowhorn Rider is a common creature from Khans of Tarkir (released September 26, 2014) bearing the Temur clan watermark. The Temur Frontier are arctic survivalists who "rely on savagery to survive Tarkir's brutal landscape," and their signature mechanic Ferocious rewards controlling a creature with power 4 or greater. `[Scryfall]` `[Wizards of the Coast, "Mechanics of Khans of Tarkir"]`
+- **Design** — At 5/5 with Trample for six mana, Snowhorn Rider is a Ferocious enabler rather than a Ferocious card: its stat line satisfies the power-4-or-greater threshold for other Temur Ferocious spells. Its Morph cost of `{2}{G}{U}{R}` is identical to its face-up cost, making the morph mostly a bluffing tool rather than a mana-efficiency play. Scryfall confirms it has never been reprinted — the KTK first printing remains the only one. `[Scryfall]`
+- **Flavor text** — "Sure-footed, strong-willed, and ill-tempered — and so is the ram." `[Scryfall]` The joke is a double subject: the first clause describes the rider, and "and so is the ram" pivots to the snowhorn mount itself. The "ram" is the snowhorn beast — a shaggy horned creature native to Tarkir's arctic Temur territories — not a literal ram. The flavor text's deadpan reversal is a characteristic of KTK's creature-flavor writing.
+- **Mechanical reputation** — Snowhorn Rider carried a near-zero competitive footprint in KTK limited — a six-mana common 5/5 with morph was outclassed by cheaper Ferocious enablers and more efficient threats. EDHREC rank of 29,319 places it well into obscure territory for Commander. `[Scryfall edhrec_rank]` The card is pauper-legal (Scryfall `legalities.pauper: legal`), though it sees no meaningful play in that format either. `[Scryfall]`
+
+### Related cards
+- Trail of Mystery (Khans of Tarkir, no. 185) — Temur morph-ramp enchantment that makes morphs cheaper, relevant context for what large morph creatures like this were paired with
+- Savage Punch (Khans of Tarkir, no. 143) — common Temur fight spell with a Ferocious upgrade; Snowhorn Rider's 5 power enables the bonus
+- Surrak Dragonclaw (Khans of Tarkir, no. 199) — the Temur Khan, relevant Temur clan anchor

@@ -1,0 +1,42 @@
+{
+  "card_name": "Sultai Soothsayer",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "205",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Sultai Soothsayer is a Sultai-watermark uncommon from KTK (September 2014). The Sultai Brood are the set's decadent empire: naga leaders who maintain power through undead armies, political manipulation, and bargains with the rakshasa — demonic beings who share secrets with the Sultai naga in exchange for compensation.",
+      "sources": ["Scryfall", "CBR.com: MTG Tarkir's Sultai Brood Clan, Explained"]
+    },
+    {
+      "category": "design",
+      "text": "3 printings: KTK (2014), The List, and Double Masters 2022. The Double Masters 2022 reprint (premium draft set) indicates continued Commander demand. Scryfall type line is 'Creature — Snake Shaman,' placing her with the Sultai naga using the 'Snake' creature subtype.",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'The naga of the Sultai Brood made deals with dark forces to keep their power.' A clan-level statement rather than a character attribution. The 'dark forces' are the rakshasa, left unnamed — fitting the Sultai culture of hidden allegiances.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 2/5 for five mana that enters, digs four cards, puts one in hand, mills the other three. The milling is synergistic: KTK's Delve spells (Treasure Cruise, Dig Through Time, Murderous Cut) use graveyard cards as payment, and the Soothsayer feeds those costs while filtering. EDHREC rank 24,247.",
+      "sources": ["Scryfall oracle_text", "Scryfall edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tasigur, the Golden Fang", "set": "Khans of Tarkir", "note": "Sultai Khan; his Delve mechanic uses graveyard cards the Soothsayer mills"},
+    {"name": "Sultai Charm", "set": "Khans of Tarkir", "note": "Shares Sultai watermark; clan charm cycle anchor"},
+    {"name": "Murderous Cut", "set": "Khans of Tarkir", "note": "Delve instant that benefits directly from graveyard fill the Soothsayer provides"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "flags": []
+}

@@ -49,6 +49,8 @@ mood: sublime
 time_of_day: indeterminate
 setting: indoor
 mana_cost: "{U}{R}{W}"
+characters:
+  - ktk-clan-charm-cycle
 tags:
   - card
   - vision-passed

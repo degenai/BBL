@@ -81,3 +81,14 @@ A naga shaman rises from coiled serpent coils, her humanoid torso lean and bare-
 **Iconography:** orb, coiled-serpent
 **Genre cues:** fantasy, dark-fantasy, occult
 
+## Trivia
+
+- **Set context** — Sultai Soothsayer is an uncommon creature from Khans of Tarkir (released September 26, 2014) carrying the Sultai watermark. `[Scryfall]` The Sultai Brood are the set's decadent empire: naga leaders who rule from jungle palaces, maintaining power through undead armies, political manipulation, and bargains with the rakshasa — demonic beings who share secrets with the Sultai naga in exchange for compensation. `[CBR.com, "MTG Tarkir's Sultai Brood Clan, Explained"]`
+- **Design / reprints** — The card has 3 printings: the original KTK (2014), The List, and Double Masters 2022. The Double Masters 2022 reprint (a premium draft set) suggests mild ongoing Commander demand. Scryfall type line reads "Creature — Snake Shaman," placing her mechanically with the naga as "Snake" subtype — the same creature type used for the Sultai naga across the block. `[Scryfall]`
+- **Flavor text** — "The naga of the Sultai Brood made deals with dark forces to keep their power." `[Scryfall]` This is a clan-level statement rather than a character attribution — one of several Sultai cards that name the clan's defining ideological transaction: power maintained through pacts rather than strength. The "dark forces" are the rakshasa, though the flavor line deliberately keeps them unnamed, fitting the Sultai's culture of hidden allegiances.
+- **Mechanical profile** — A 2/5 body for five mana that enters, digs four cards, puts one in hand, and mills the other three. The milling is synergistic rather than incidental in Sultai: KTK featured Delve spells (Treasure Cruise, Dig Through Time, Murderous Cut) that use the graveyard as a resource. The Soothsayer feeds those costs while filtering the hand. EDHREC rank 24,247. `[Scryfall]`
+
+### Related cards
+- Tasigur, the Golden Fang (Khans of Tarkir, no. 101) — the Sultai Khan; his Delve mechanic uses graveyard cards the Soothsayer mills
+- Sultai Charm (Khans of Tarkir, no. 207) — the Sultai clan charm; shares watermark
+- Murderous Cut (Khans of Tarkir, no. 101) — Delve instant that benefits from graveyard fill

@@ -1,0 +1,55 @@
+{
+  "edge_id": "ktk-clan-charm-cycle--node-proposal-wave-178",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/ktk-clan-charm-cycle.md", "name": "KTK clan charm cycle (five wedge-color uncommon modal instants)"},
+    {"type": "card", "path": "cards/magic-the-gathering/khans-of-tarkir/181-jeskai-charm.md", "name": "Jeskai Charm (KTK-181)"},
+    {"type": "card", "path": "cards/magic-the-gathering/khans-of-tarkir/186-mardu-charm.md", "name": "Mardu Charm (KTK-186)"},
+    {"type": "card", "path": "cards/magic-the-gathering/khans-of-tarkir/208-temur-charm.md", "name": "Temur Charm (KTK-208)"}
+  ],
+  "description": "Oh, terribly sorry, sir — Edgelord stepped aside. I do hope you don't mind. The wave-176 self-staged trigger fired this wave (Temur Charm's trivia pass brought the count to 3 of 5 strict-membership charms enriched: Jeskai-181 wave 176, Mardu-186 wave 177, Temur-208 this wave), and writing a 1:1 mirror today would only have been a half-measure with 4 more mirrors needed when Sultai and Abzan eventually land. Better to anchor the cycle now, if it's not too much trouble. The node carries the Wizards-canonical roster (one charm per clan, wedge colors, modal-instant slot, single-artist visual signature on all five Mathias Kollros originals) and the design-handoff citations that name the cycle as a deliberate Limited-format mana-cost-convention exception.",
+  "citations": [
+    "[Wizards of the Coast: Khans of Tarkir Design Handoff, Part 2 (Rosewater / Stoddard, 2014)]",
+    "[Wizards of the Coast: Planeswalker's Guide to Khans of Tarkir, Part 1 (2014-09-03)]",
+    "[Wizards of the Coast: Planeswalker's Guide to Khans of Tarkir, Part 2 (2014)]",
+    "[Wizards of the Coast: Mechanics of Khans of Tarkir (2014)]",
+    "[Wizards of the Coast: Storm Scale: Khans of Tarkir Block (Rosewater, 2016)]",
+    "[Scryfall: s:ktk t:instant w:m]",
+    "[MTG Wiki: Khans of Tarkir set page, Cycles section]"
+  ],
+  "files_modified": [
+    "cards/_characters/ktk-clan-charm-cycle.md",
+    "cards/magic-the-gathering/khans-of-tarkir/181-jeskai-charm.md",
+    "cards/magic-the-gathering/khans-of-tarkir/186-mardu-charm.md",
+    "cards/magic-the-gathering/khans-of-tarkir/208-temur-charm.md",
+    "reports/janitor_triage.md"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "next_pass_suggestions": [
+    {
+      "candidate": "Mathias Kollros artist node",
+      "rationale": "All five original KTK charm cycle printings illustrated by Mathias Kollros — single-artist visual signature is unusually load-bearing for a five-card designer-coordinated MTG cycle, and the artist's Scryfall credit count (161 cards as of 2026 per the Mardu Charm trivia, MTG debut Return to Ravnica 2012) suggests further cross-set BBL presence worth disambiguating. Defer until ≥3 Kollros credits in corpus surface beyond the three KTK charms already pointed; the threshold may already be met or close to it depending on what else Kollros illustrated that BBL holds — confirm via grep on `artist: Mathias Kollros` across the corpus before commissioning."
+    },
+    {
+      "candidate": "Temur Ferocious cohort node",
+      "rationale": "Snowhorn Rider KTK-201 trivia-passed wave 178 brings the latent Temur-Ferocious-watch cohort to 3 corpus members (Feed-the-Clan KTK-132, Tusked-Colossodon KTK-155, Snowhorn-Rider KTK-201) but Snowhorn Rider does not strictly require Ferocious as a payoff — it pays a discount when you control a creature with power 4+, which is mechanically the Ferocious predicate but not the keyword. Whether to commission a Temur-Ferocious cohort node depends on whether Surrak Dragonclaw, Savage Knuckleblade, or Savage Punch arrive next (strict Ferocious payoff cards). Future-watch; this wave's Edgelord/Nodeley action is consumed by the charm cycle commission."
+    },
+    {
+      "candidate": "Crabrawler line two-stage cohort (SMB-72 + SMB-43)",
+      "rationale": "Both vision-only, neither trivia-passed. Pre-evolution Crabrawler (vision wave 178) + evolved Crabominable (vision wave 177) form a two-stage Pokémon evolution line but the threshold-for-cohort-commission discipline requires at least one trivia pass for the canonical mechanical-entanglement citation (per Edgelord evolution-line discipline). Defer until either card receives a trivia pass; bare two-stage vision-only is too thin per the Potion Rule wikilink discipline."
+    }
+  ],
+  "potion_rule_check": {
+    "triple_thesis_attribution_attempted": false,
+    "wedge_color_identity_treated_as_designer_evidence_not_curatorial_overlay": true,
+    "labor_rebellion_stewardship_hub_attached": false,
+    "note": "The cycle node body explicitly refuses triple-thesis hub attribution per the Potion Rule. Wizards' five-clan philosophical-virtue mapping is canonical-event (cited in Planeswalker's Guide articles); BBL's labor-or-extraction reading of e.g. the Mardu hand-disruption mode would be curatorial-overlay and is deferred to bundle-tier copy, not stamped on related_hubs."
+  },
+  "other_candidates_considered": [
+    "1:1 mirror Jeskai-Charm ↔ Mardu-Charm via 'designer-confirmed cycle membership' — rejected; thin solution given the cycle has a missing-node-would-unlock-future-edges shape (the same edge would need to be drawn 9 more times as the cycle fills out), and Edgelord topology-tag would be 'mirror' but the right shape is 'stack' anchored on the new node.",
+    "1:1 mirror Temur-Charm ↔ Snowhorn-Rider via 'Temur Ferocious mechanical adjacency' — rejected; Snowhorn Rider's power-4+ discount is the Ferocious predicate but not the keyword, and the Temur Charm's third mode is also not strictly Ferocious-keyworded. The mechanical entanglement is real but oblique; better to surface as future-watch for the Temur Ferocious cohort node rather than draw a thin pairwise edge.",
+    "1:N stack on a future `mathias-kollros` artist node — deferred; node not yet commissioned and this wave's single-action budget is consumed by the higher-priority cycle commission. Surfaced in next_pass_suggestions."
+  ]
+}
