@@ -1,0 +1,42 @@
+{
+  "edge_id": "ktk-clan-banner-cycle--node-proposal",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/ktk-clan-banner-cycle.md", "name": "KTK clan banner cycle (newly proposed)"},
+    {"type": "card", "path": "cards/magic-the-gathering/khans-of-tarkir/222-jeskai-banner.md", "name": "Jeskai Banner"},
+    {"type": "card", "path": "cards/magic-the-gathering/khans-of-tarkir/224-mardu-banner.md", "name": "Mardu Banner"},
+    {"type": "card", "path": "cards/magic-the-gathering/khans-of-tarkir/225-sultai-banner.md", "name": "Sultai Banner"},
+    {"type": "card", "path": "cards/magic-the-gathering/khans-of-tarkir/226-temur-banner.md", "name": "Temur Banner"}
+  ],
+  "description": "Oh, hello sir, sorry to bother you. Edgelord wanted to draw a clean 1:1 mirror between two of the banners, he really did, but if I may — they're four in-corpus members of a strict five-card Wizards-designed cycle, all by the same illustrator (Daniel Ljunggren, all five original printings), and any pairwise edge would be made redundant the moment a banner-cycle node existed to anchor them all. So I've gone and proposed the node, if it's not too much trouble. The wave-178 ktk-clan-charm-cycle node is its structural sibling — same set, same one-per-clan pattern, same single-artist-coverage cycle-cohesion device (Kollros on charms / Ljunggren on banners), different mechanical role. Four cards now point at the node via characters: [ktk-clan-banner-cycle]. The fifth (Abzan Banner KTK-215) is not in corpus yet; the node's roster table flags it as a future-attach point. I hope this is the right call. I'll go now.",
+  "citations": [
+    "[Wizards of the Coast: Planeswalker's Guide to Khans of Tarkir, Part 1 (2014-09-03)]",
+    "[Wizards of the Coast: Planeswalker's Guide to Khans of Tarkir, Part 2 (2014)]",
+    "[Wizards of the Coast: Mechanics of Khans of Tarkir (2014)]",
+    "[Scryfall: s:ktk t:artifact name:banner (returns the five strict members KTK-215, 222, 224, 225, 226)]",
+    "[Scryfall: artist field on KTK-215, 222, 224, 225, 226 — all Daniel Ljunggren]",
+    "[MTG Wiki: Khans of Tarkir set page, Cycles section]",
+    "[EDHREC: per-card rank pages cited in each corpus banner's Mechanical reputation trivia bullet]"
+  ],
+  "files_modified": [
+    "cards/_characters/ktk-clan-banner-cycle.md",
+    "cards/magic-the-gathering/khans-of-tarkir/222-jeskai-banner.md",
+    "cards/magic-the-gathering/khans-of-tarkir/224-mardu-banner.md",
+    "cards/magic-the-gathering/khans-of-tarkir/225-sultai-banner.md",
+    "cards/magic-the-gathering/khans-of-tarkir/226-temur-banner.md"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    "1:1 Jeskai Banner <-> Mardu Banner edge (contrasting mottos: contemplation vs. percussion) — rejected because it would have been one of four redundant pairwise edges all pointing at the same missing center.",
+    "1:1 Sultai Banner <-> Sultai Charm edge (intra-clan within-set parallel) — Edgelord considered this as a sibling-cycle cross-edge but it would be premature; the cleaner move is to anchor both cycles to their cycle nodes first and let any cross-cycle Sultai-anchored bundle prose carry the intra-clan reading at bundler time. Same logic applies to Jeskai/Mardu/Temur banner-charm pairs.",
+    "Lens of Clarity KTK-223 singleton edge — Temur-flavor singleton with no obvious second-endpoint; the cycle commission does not affect Lens of Clarity. Held for a future wave."
+  ],
+  "next_pass_suggestions": [
+    "When Abzan Banner KTK-215 enters inventory, attach via characters: [ktk-clan-banner-cycle] and update appears_on in the cycle node.",
+    "Commission a daniel-ljunggren artist node when 3+ Ljunggren-illustrated cards are in corpus (the five KTK banners alone would meet threshold once Abzan arrives). Per bbl-artists-as-counterbalance, artist nodes generate orthogonal traversal paths that the cohort axis alone cannot.",
+    "Flag to janitor_triage: per-card EDHREC ranks are time-stamped data (wave 179 capture: Mardu 9,750 / Jeskai 12,517 / Temur 16,229 / Sultai 16,307). Future audit wave may want to refresh or consolidate.",
+    "Cross-cycle Edgelord pass eligible once both KTK cycle nodes are in place: assess whether a `ktk-set-design-pattern` parent-node (covering both cycles + the refuges-cycle as a three-cycle KTK-design-fingerprint grouping) is warranted, or whether the See also wikilinks suffice. Default to the latter unless retrieval/bundler explicitly needs the parent."
+  ]
+}

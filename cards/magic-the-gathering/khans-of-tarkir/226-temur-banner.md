@@ -29,7 +29,10 @@ tags_filter:
   - mid-shot
   - forward-facing
   - artifact
-  - colorless-magic
+  - multicolor-blue-red-green
+  - blue-magic
+  - red-magic
+  - green-magic
   - object-mode
   - muted-palette
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/226-temur-banner.png
@@ -51,6 +54,8 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/9/9990bdff-c27a-
 flavor_text: Savagery to survive, courage to triumph.
 oracle_text: "{T}: Add {G}, {U}, or {R}.\\n{G}{U}{R}, {T}, Sacrifice this artifact: Draw a card."
 mana_cost: "{3}"
+characters:
+  - ktk-clan-banner-cycle
 tags:
   - card
   - vision-passed
@@ -76,3 +81,16 @@ A bleached predator skull, fanged jaws agape, sits lashed atop a structure of da
 **Iconography:** skull-totem, war-banner, tribal-standard
 **Genre cues:** fantasy, tribal, shamanic
 
+## Trivia
+
+- **Set context** — Temur Banner represents the Temur Frontier, Tarkir's wilderness clan who value savagery and physical might. Their clan symbol is the dragon's claw; their mechanic is Ferocious (bonus when you control a creature with power 4 or greater). The Temur roam the frozen tundra and high mountain passes under Khan Surrak Dragonclaw `[Scryfall watermark; Wizards Planeswalker's Guide to KTK, 2014-09-03]`
+- **Flavor text** — "Savagery to survive, courage to triumph." No speaker attributed. The two-clause motto format is consistent across the entire banner cycle; Temur's is the only motto to pair savagery (a raw, animalistic virtue) with courage (a volitional one), suggesting the Temur see brutality and bravery as inseparable `[Scryfall]`
+- **Design** — Illustrated by Daniel Ljunggren, who painted all four non-Abzan banners in the cycle. The Temur Banner is the only one in the cycle depicted as a totem rather than a textile flag: an animal skull on crossed poles, consistent with the clan's shamanic and hunter-gatherer identity. Temur Banner carries the temur clan watermark on the card frame `[Scryfall artist and watermark fields]`
+- **Cycle position** — Temur Banner (no. 226) is the highest collector number among the five banners. Abzan Banner sits at no. 215; the four others (Jeskai 222, Mardu 224, Sultai 225, Temur 226) cluster near the artifact section of KTK's numbering with Lens of Clarity (223) inserted between Jeskai and Mardu `[Scryfall]`
+
+### Related cards
+- Abzan Banner (Khans of Tarkir, no. 215) — cycle anchor
+- Jeskai Banner (Khans of Tarkir, no. 222) — cycle sibling
+- Mardu Banner (Khans of Tarkir, no. 224) — cycle sibling
+- Sultai Banner (Khans of Tarkir, no. 225) — cycle sibling
+- Temur Charm (Khans of Tarkir) — Temur-aligned instant; thematic parallel in the clan cycle structure

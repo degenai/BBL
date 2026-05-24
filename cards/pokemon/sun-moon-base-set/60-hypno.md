@@ -39,8 +39,8 @@ needs_manual_review: false
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 oracle_text: "Meditate (ColorlessColorless) 20+: This attack does 10 more damage for each damage counter on your opponent's Active Pokémon.\\nHypnoblast (PsychicColorlessColorless) 70: Your opponent's Active Pokémon is now Asleep."
 review_good: false
-review_bad: false
-review_notes: ""
+review_bad: true
+review_notes: "Cached image is Dark Hypno (Team Rocket era, ~2000), not the Sun & Moon Base Set Hypno. Fuzzy-set-code fallback stalled on a stale download. Source URL https://images.pokemontcg.io/sm1/60_hires.png is correct; needs re-download to overwrite the cached PNG. Surfaced wave 178 by vision pass."
 artist: OOYAMA
 flavor_text: As a matter of course, it makes anyone it meets fall asleep and has a taste of their dreams. Anyone having a good dream, it carries off.
 image_width: 600

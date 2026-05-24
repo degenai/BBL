@@ -54,6 +54,8 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/6/1695cf35-8f7c-
 flavor_text: Power to dominate, cruelty to rule.
 oracle_text: "{T}: Add {B}, {G}, or {U}.\\n{B}{G}{U}, {T}, Sacrifice this artifact: Draw a card."
 mana_cost: "{3}"
+characters:
+  - ktk-clan-banner-cycle
 tags:
   - card
   - vision-passed
@@ -79,3 +81,16 @@ A tall ceremonial standard rises from a swampy, overgrown ruin. The banner-pole 
 **Iconography:** serpent, naga, skull, clan-standard, sultai-crest
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **Set context** — Sultai Banner represents the Sultai Brood, Tarkir's necromantic clan who value ruthlessness above all. Their clan symbol is the dragon's fang; their mechanic is Delve (exile cards from the graveyard to reduce spell costs). The naga ruling caste controls vast sibsig (undead) armies; Khan Sidisi, Blood Tyrant, leads the clan `[Scryfall watermark; Wizards Planeswalker's Guide to KTK, 2014-09-03]`
+- **Flavor text** — "Power to dominate, cruelty to rule." No speaker attributed. Of the five banner mottos, Sultai's is the only one that names cruelty as an explicit clan virtue, which mirrors the Sultai's stated lore identity: they do not merely defeat enemies, they subjugate and exploit them `[Scryfall; Wizards Planeswalker's Guide to KTK]`
+- **Design** — Illustrated by Daniel Ljunggren. The art depicts a serpentine finial (naga or serpent skull) atop the banner pole, embedding the Sultai's reptilian iconography directly into the physical standard. Sultai Banner carries the sultai clan watermark on the card frame `[Scryfall artist and watermark fields]`
+- **Mechanical reputation** — Sultai Banner has the second-lowest EDHREC rank among the four banners in this batch (16,307), compared to Mardu (9,750), Jeskai (12,517), and Temur (16,229). Sultai commanders tend to be graveyard-centric and often have access to more powerful fixing options, which may suppress Banner inclusion relative to Mardu `[Scryfall edhrec_rank]`
+
+### Related cards
+- Abzan Banner (Khans of Tarkir, no. 215) — cycle anchor
+- Jeskai Banner (Khans of Tarkir, no. 222) — cycle sibling
+- Mardu Banner (Khans of Tarkir, no. 224) — cycle sibling
+- Temur Banner (Khans of Tarkir, no. 226) — cycle sibling
+- Sultai Charm (Khans of Tarkir) — Sultai-aligned instant; thematic parallel in the clan cycle structure

@@ -1,0 +1,54 @@
+{
+  "card_name": "Jeskai Banner",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "222",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Jeskai Banner is one of five clan banner artifacts in Khans of Tarkir (released 2014-09-26), each representing a wedge color identity. The Jeskai Way venerates cunning and enlightenment, using the dragon's eye as their clan symbol. Lead designer: Mark Rosewater.",
+      "sources": ["Scryfall", "Wizards Planeswalker's Guide to KTK, 2014-09-03"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Discipline to persevere, insight to discover.\" No speaker attributed. The two-clause motto structure is shared across all five banners in the cycle, condensing each clan's philosophy into an epigram.",
+      "sources": ["Scryfall flavor_text field"]
+    },
+    {
+      "category": "design",
+      "text": "All four non-Abzan banners in the cycle (Jeskai 222, Mardu 224, Sultai 225, Temur 226) were illustrated by Daniel Ljunggren. The card carries the Jeskai clan watermark on the card frame.",
+      "sources": ["Scryfall artist field", "Scryfall watermark field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Jeskai Banner has an EDHREC rank of 12,517 — mid-range among the five banners. Mardu Banner (rank 9,750) is the most-included. All five are legal in pauper commander.",
+      "sources": ["Scryfall edhrec_rank field", "EDHREC card page metadata"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Abzan Banner (KTK no. 215, not no. 220) completes the five-banner cycle. KTK no. 220 is Ghostfire Blade, a different artifact. The banner cycle spans nos. 215, 222, 224, 225, 226 — non-consecutive due to set numbering.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Abzan Banner", "set": "Khans of Tarkir", "note": "Fifth cycle member, no. 215, Abzan colors W/B/G, also by Daniel Ljunggren"},
+    {"name": "Mardu Banner", "set": "Khans of Tarkir", "note": "Cycle sibling, no. 224"},
+    {"name": "Sultai Banner", "set": "Khans of Tarkir", "note": "Cycle sibling, no. 225"},
+    {"name": "Temur Banner", "set": "Khans of Tarkir", "note": "Cycle sibling, no. 226"},
+    {"name": "Jeskai Charm", "set": "Khans of Tarkir", "note": "Jeskai-aligned multicolor cycle parallel"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "notes": {
+    "abzan_banner_in_corpus": "NOT IN CORPUS — KTK-220 is Ghostfire Blade; Abzan Banner is KTK-215 and has no file under cards/magic-the-gathering/khans-of-tarkir/",
+    "cycle_cohort_trigger": "4 of 5 KTK banners now trivia-passed (Jeskai 222, Mardu 224, Sultai 225, Temur 226). Abzan Banner (KTK-215) is NOT in corpus. Edgelord cycle-cohort trigger condition: 4/5 banners trivia-passed in corpus; Edgelord should assess whether to create a KTK banner cohort node with a note that Abzan Banner is a corpus gap.",
+    "mana_cost_check": "mana_cost: {3} present in frontmatter — no missing mana_cost flag",
+    "color_magic_tags_check": "tags_filter contains blue-magic, red-magic, white-magic — color tags present"
+  }
+}

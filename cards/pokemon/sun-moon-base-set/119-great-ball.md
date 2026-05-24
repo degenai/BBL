@@ -38,8 +38,8 @@ needs_manual_review: false
 manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
 oracle_text: Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.\nYou may play as many Item cards as you like during your turn (before your attack).
 review_good: false
-review_bad: false
-review_notes: ""
+review_bad: true
+review_notes: "Cached image is Team Aqua's Great Ball — a different similarly-named card, not the Sun & Moon Base Set Great Ball. Fuzzy-set-code fallback stalled on a stale download. Source URL https://images.pokemontcg.io/sm1/119_hires.png is correct; needs re-download to overwrite the cached PNG. Surfaced wave 175 by vision pass."
 artist: Ryo Ueda
 image_width: 700
 image_height: 990

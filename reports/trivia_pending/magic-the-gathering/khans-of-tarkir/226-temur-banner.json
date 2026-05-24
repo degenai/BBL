@@ -1,0 +1,50 @@
+{
+  "card_name": "Temur Banner",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "226",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Temur Banner represents the Temur Frontier, Tarkir's wilderness clan whose value is savagery and physical might. Clan symbol is the dragon's claw; mechanic is Ferocious (bonus when controlling a creature with power 4 or greater). Khan Surrak Dragonclaw leads the clan across frozen tundra and mountain passes.",
+      "sources": ["Scryfall watermark field", "Wizards Planeswalker's Guide to KTK, 2014-09-03"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Savagery to survive, courage to triumph.\" No speaker attributed. Temur's is the only banner motto to pair an animalistic virtue (savagery) with a volitional one (courage), suggesting the clan sees brutal survival instinct and deliberate bravery as inseparable qualities.",
+      "sources": ["Scryfall flavor_text field"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Daniel Ljunggren. Temur Banner is the only banner in the five-card cycle depicted as a totemic object rather than a textile flag: an animal skull on crossed wooden poles with hanging feathers and cords, consistent with the Temur's shamanic hunter-gatherer identity. Carries the temur clan watermark.",
+      "sources": ["Scryfall artist field", "Scryfall watermark field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Temur Banner (no. 226) is the highest collector number in the five-banner cycle. The full spread is: Abzan (215), Jeskai (222), Mardu (224), Sultai (225), Temur (226) — with Lens of Clarity (223) inserted between Jeskai and Mardu in KTK's artifact numbering block.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Abzan Banner", "set": "Khans of Tarkir", "note": "Cycle anchor, no. 215"},
+    {"name": "Jeskai Banner", "set": "Khans of Tarkir", "note": "Cycle sibling, no. 222"},
+    {"name": "Mardu Banner", "set": "Khans of Tarkir", "note": "Cycle sibling, no. 224"},
+    {"name": "Sultai Banner", "set": "Khans of Tarkir", "note": "Cycle sibling, no. 225"},
+    {"name": "Temur Charm", "set": "Khans of Tarkir", "note": "Temur-aligned instant; thematic parallel in the clan cycle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "notes": {
+    "abzan_banner_in_corpus": "NOT IN CORPUS — Abzan Banner is KTK-215; no file found",
+    "cycle_cohort_trigger": "4 of 5 KTK banners now trivia-passed in corpus (Jeskai 222, Mardu 224, Sultai 225, Temur 226). Abzan Banner (KTK-215) is NOT in corpus. Edgelord trigger: consider creating KTK banner cohort node now at 4/5 trivia-passed, flagging Abzan Banner as corpus gap.",
+    "mana_cost_check": "mana_cost: {3} present — no flag",
+    "color_magic_tags_check": "tags_filter shows colorless-magic only — FLAG: Temur Banner produces G, U, R mana (color_identity G/R/U per Scryfall). The colorless-magic tag is technically not wrong (the card itself has no color), but green-magic, blue-magic, red-magic are absent from tags_filter where the other banners have their color tags. Recommend Edgelord or janitor review.",
+    "edhrec_rank_temur": 16229
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "card_name": "Mardu Banner",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "224",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mardu Banner represents the Mardu Horde, whose defining value in Khans of Tarkir is speed. The clan venerates the dragon's wings as their symbol; their mechanic is Raid (bonus if you attacked this turn). Khan Zurgo Helmsmasher leads the Mardu across the steppe and badlands.",
+      "sources": ["Scryfall watermark field", "Wizards Planeswalker's Guide to KTK, 2014-09-03"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Speed to strike, fury to smash.\" No speaker attributed. The motto's percussive violence contrasts sharply with the Jeskai clan's contemplative equivalent; both follow the five-banner cycle's two-clause epigram template.",
+      "sources": ["Scryfall flavor_text field"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Daniel Ljunggren. The art shows the banner as a post-battle marker planted in debris rather than a pre-battle rallying standard, consistent with the Mardu identity of fast strike and swift departure. Carries the mardu clan watermark on the frame.",
+      "sources": ["Scryfall artist field", "Scryfall watermark field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mardu Banner has an EDHREC rank of 9,750 — the highest inclusion rate among the four banners in this wave. This likely reflects the large pool of popular Mardu commanders (Alesha, Who Smiles at Death; Edgar Markov; Zurgo Helmsmasher) generating demand for R/W/B mana fixing.",
+      "sources": ["Scryfall edhrec_rank field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Abzan Banner", "set": "Khans of Tarkir", "note": "Cycle anchor, no. 215"},
+    {"name": "Jeskai Banner", "set": "Khans of Tarkir", "note": "Cycle sibling, no. 222"},
+    {"name": "Sultai Banner", "set": "Khans of Tarkir", "note": "Cycle sibling, no. 225"},
+    {"name": "Temur Banner", "set": "Khans of Tarkir", "note": "Cycle sibling, no. 226"},
+    {"name": "Mardu Charm", "set": "Khans of Tarkir", "note": "Mardu-aligned instant; thematic parallel in the clan cycle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "notes": {
+    "abzan_banner_in_corpus": "NOT IN CORPUS — Abzan Banner is KTK-215; no file at cards/magic-the-gathering/khans-of-tarkir/215-*",
+    "cycle_cohort_trigger": "4 of 5 KTK banners now trivia-passed in corpus. Edgelord should assess KTK banner cohort node creation with Abzan Banner flagged as corpus gap.",
+    "mana_cost_check": "mana_cost: {3} present in frontmatter — no flag needed",
+    "color_magic_tags_check": "tags_filter contains red-magic, black-magic, white-magic — color tags present"
+  }
+}

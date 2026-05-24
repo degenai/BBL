@@ -1,0 +1,51 @@
+{
+  "card_name": "Lens of Clarity",
+  "game": "Magic: The Gathering",
+  "set": "Khans of Tarkir",
+  "collector_number": "223",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Lens of Clarity is a colorless {1} artifact from Khans of Tarkir (released 2014-09-26). Unlike its numbered neighbors (the clan banners), it carries no clan watermark and is not aligned to any of the five Tarkir clans.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Its oracle text allows the controller to look at the top card of their library and at face-down creatures opponents control at any time. In KTK Limited, this directly countered the morph mechanic by denying opponents the bluff value of face-down creatures. A 2014 Magic Judges' Rules Tips ruling confirmed the card does NOT allow viewing face-down creature spells on the stack — only face-down permanents on the battlefield.",
+      "sources": ["Scryfall oracle_text", "Magic Judges' Rules Tips, 2014-10-29"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Water shifts and confuses, but as ice it holds the stillness of truth.\" Speaker: Arel the Whisperer. Arel is a Temur shaman whose quotes appear on multiple KTK cards; she is primarily a flavor-text personality associated with the Temur shamanic tradition rather than a named story-chapter character.",
+      "sources": ["Scryfall flavor_text field", "MTGSalvation: 'Arel the Whisperer' storyline thread, 2014"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Raymond Swanland, a prolific science fiction and fantasy illustrator with dozens of MTG credits. His KTK contributions include Lens of Clarity among others. Swanland's official portfolio site (raymondswanland.com) includes his MTG gallery.",
+      "sources": ["Scryfall artist field", "artofmtg.com KTK Raymond Swanland page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Pauper format (confirmed via Scryfall legalities), making it an accessible permanent top-of-library effect and morph/manifest monitor for that format.",
+      "sources": ["Scryfall legalities field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Jeskai Banner", "set": "Khans of Tarkir", "note": "Neighboring artifact in KTK set numbering (222 vs 223)"},
+    {"name": "Ashcloud Phoenix", "set": "Khans of Tarkir", "note": "Prominent KTK morph creature; Lens of Clarity reveals its identity"},
+    {"name": "Pine Walker", "set": "Khans of Tarkir", "note": "Another morph target in KTK limited where Lens is most relevant"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  },
+  "notes": {
+    "abzan_banner_in_corpus": "NOT IN CORPUS — Abzan Banner is KTK-215; no file found at cards/magic-the-gathering/khans-of-tarkir/220-*",
+    "mana_cost_check": "mana_cost: {1} present in frontmatter — no missing mana_cost flag",
+    "color_magic_tags_check": "tags_filter contains colorless-magic — correct for a colorless artifact with no color identity"
+  }
+}

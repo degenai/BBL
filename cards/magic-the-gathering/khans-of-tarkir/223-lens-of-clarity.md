@@ -75,3 +75,16 @@ Two large, gnarled hands rise from the lower edge of the frame to cup a luminous
 **Iconography:** orb, swirling-energy, cupped-hands
 **Genre cues:** fantasy, mystical
 
+## Trivia
+
+- **Set context** — Lens of Clarity is a colorless artifact from Khans of Tarkir (KTK, released 2014-09-26). Unlike its artifact neighbors in the set number run — the five clan banners — it is not clan-aligned: it carries no clan watermark, costs only {1}, and produces no mana `[Scryfall]`
+- **Mechanical role** — Its oracle text allows the controller to look at the top card of their library and at face-down creatures opponents control at any time. In KTK Limited, this made it a direct counter to the set's signature morph mechanic, denying opponents the bluff value of anonymous face-down creatures; a ruling from Magic Judges' Rules Tips (2014-10) confirmed it does NOT allow you to see face-down creature spells on the stack, only permanents already on the battlefield `[Magic Judges' Rules Tips, 2014-10-29]`
+- **Flavor text** — "Water shifts and confuses, but as ice it holds the stillness of truth." Speaker: Arel the Whisperer. Arel is a Temur shaman character whose quotes appear on multiple KTK cards; she is associated with the clan's shamanic tradition and described in community lore threads as a disciple of the Temur shaman tradition, primarily a flavor-text personality rather than a named story character `[Scryfall; MTGSalvation forums: "Arel the Whisperer" thread, 2014]`
+- **Artist** — Illustrated by Raymond Swanland, a prolific fantasy and science fiction illustrator with dozens of MTG credits across multiple sets. His KTK contributions include this card and at least one other from the set `[Scryfall artist field; artofmtg.com Raymond Swanland KTK page]`
+- **Format notes** — Legal in pauper (confirmed by Scryfall legality fields), making it one of the cheaper ways in that format to permanently observe the top of the library and monitor morph/manifest creatures `[Scryfall legalities]`
+
+### Related cards
+- Jeskai Banner (Khans of Tarkir, no. 222) — neighboring artifact in set numbering
+- Lens of Clarity has no functional reprints; the effect is unique to this printing as of KTK `[Scryfall prints_search_uri: single printing confirmed]`
+- Ashcloud Phoenix (Khans of Tarkir) — prominent KTK morph creature whose face-down identity Lens of Clarity could reveal
+- Pine Walker (Khans of Tarkir) — another relevant morph target in the same set

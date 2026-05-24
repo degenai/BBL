@@ -56,6 +56,8 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/e/fe10c56d-a8e1-
 flavor_text: Speed to strike, fury to smash.
 oracle_text: "{T}: Add {R}, {W}, or {B}.\\n{R}{W}{B}, {T}, Sacrifice this artifact: Draw a card."
 mana_cost: "{3}"
+characters:
+  - ktk-clan-banner-cycle
 tags:
   - card
   - vision-passed
@@ -80,3 +82,16 @@ A tall red banner streams from a spear-tipped pole driven into the rocky ground 
 **Iconography:** banner, heraldry, war-standard, spear, clan-sigil
 **Genre cues:** fantasy, war, heroic-fantasy
 
+## Trivia
+
+- **Set context** — Mardu Banner represents the Mardu Horde, whose core identity in Khans of Tarkir is speed. The clan venerates the dragon's wings as their symbol and their mechanic is Raid (bonus if you attacked this turn). The Mardu occupy the steppe and badlands of Tarkir's western reaches under Khan Zurgo Helmsmasher `[Scryfall watermark; Wizards Planeswalker's Guide to KTK, 2014-09-03]`
+- **Flavor text** — "Speed to strike, fury to smash." No speaker attributed; the epigram follows the banner cycle's consistent two-clause format naming clan virtues. Where Jeskai's motto is contemplative ("insight to discover"), Mardu's is blunt percussive action `[Scryfall]`
+- **Mechanical reputation** — Of the four banners in this batch, Mardu Banner is the most included in EDH, with an EDHREC rank of 9,750 vs. Jeskai (12,517), Temur (16,229), and Sultai (16,307). This likely reflects the large number of Mardu commander options (Alesha, Who Smiles at Death; Zurgo Helmsmasher; Edgar Markov etc.) generating demand for {R}{W}{B} fixing `[Scryfall edhrec_rank field]`
+- **Design** — Illustrated by Daniel Ljunggren, who painted all four non-Abzan banners in the cycle. The art depicts the banner as a post-battle marker rather than a pre-battle rallying standard: no figures, just the planted spear and smoking ruin behind it, consistent with the Mardu identity of fast strike and departure `[Scryfall artist field]`
+
+### Related cards
+- Abzan Banner (Khans of Tarkir, no. 215) — cycle anchor; same template
+- Jeskai Banner (Khans of Tarkir, no. 222) — cycle sibling
+- Sultai Banner (Khans of Tarkir, no. 225) — cycle sibling
+- Temur Banner (Khans of Tarkir, no. 226) — cycle sibling
+- Mardu Charm (Khans of Tarkir) — Mardu-aligned instant; thematic parallel within the set's clan cycle structure

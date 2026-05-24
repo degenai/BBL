@@ -55,6 +55,8 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/8/684dc050-a66b-
 flavor_text: Discipline to persevere, insight to discover.
 oracle_text: "{T}: Add {U}, {R}, or {W}.\\n{U}{R}{W}, {T}, Sacrifice this artifact: Draw a card."
 mana_cost: "{3}"
+characters:
+  - ktk-clan-banner-cycle
 tags:
   - card
   - vision-passed
@@ -79,3 +81,17 @@ A crimson banner emblazoned with a stylized white emblem snaps in the wind atop 
 **Iconography:** jeskai-emblem, white-sigil-on-red, heraldic-banner
 **Genre cues:** fantasy, wuxia, asian-inspired
 
+## Trivia
+
+- **Set context** — Jeskai Banner is one of five clan banner artifacts in Khans of Tarkir (released 2014-09-26), each produced to represent the wedge color identities of Tarkir's warring clans. The Jeskai Way embodies cunning and enlightenment, venerating the dragon's eye as their clan symbol; the set's lead designer was Mark Rosewater `[Scryfall set data; Wizards Planeswalker's Guide to KTK, 2014-09-03]`
+- **Flavor text** — "Discipline to persevere, insight to discover." The two-clause structure mirrors the flavor text for every banner in the cycle: each names two virtues in parallel, condensing the clan's philosophy into an epigram. No speaker is attributed; the text reads as a clan motto `[Scryfall]`
+- **Design** — All four non-Abzan banners in the cycle (Jeskai 222, Mardu 224, Sultai 225, Temur 226) were illustrated by Daniel Ljunggren, a Swedish fantasy artist with an extensive MTG portfolio spanning dozens of sets. The card carries the Jeskai clan watermark printed on the card frame `[Scryfall artist and watermark fields]`
+- **Mechanical reputation** — As a {3} mana rock that taps for any of the clan's three colors and sacrifices for a card draw, the banner cycle is a slow but functional ramp-and-replace tool. Jeskai Banner has an EDHREC rank of 12,517, placing it in the middle of the five-banner cycle by EDH inclusion; Mardu Banner (rank 9,750) is the most-included of the five `[Scryfall edhrec_rank; EDHREC card page metadata]`
+- **Cycle note** — Abzan Banner (KTK no. 215, flavor text: "Stone to endure, roots to remember.") completes the cycle at a non-sequential number; the four banners in this batch (nos. 222-226, skipping 223 which is Lens of Clarity) are clustered near the artifact section of the set's numbering `[Scryfall]`
+
+### Related cards
+- Abzan Banner (Khans of Tarkir, no. 215) — fifth member of the banner cycle; same template, Abzan colors (W/B/G), also by Daniel Ljunggren
+- Mardu Banner (Khans of Tarkir, no. 224) — cycle sibling
+- Sultai Banner (Khans of Tarkir, no. 225) — cycle sibling
+- Temur Banner (Khans of Tarkir, no. 226) — cycle sibling
+- Jeskai Charm (Khans of Tarkir) — another Jeskai-aligned multicolor artifact; cycle parallel within the set
