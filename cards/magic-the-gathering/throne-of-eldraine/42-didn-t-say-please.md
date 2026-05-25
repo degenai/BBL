@@ -50,7 +50,7 @@ setting: indoor
 artist: Jason A. Engle
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/42-didn-t-say-please--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/7/77500b53-0852-4d6a-bfe3-b1e8ef5a12cd.jpg?1572489858
-flavor_text: \"If you're in our home, we expect you to mind your manners.\"
+flavor_text: "\"If you're in our home, we expect you to mind your manners.\""
 oracle_text: Counter target spell. Its controller mills three cards.
 mana_cost: "{1}{U}{U}"
 image_width: 745

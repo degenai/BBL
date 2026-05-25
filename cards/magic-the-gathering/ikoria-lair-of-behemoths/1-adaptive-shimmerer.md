@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Jason Felix
 art_crop_image: cards/_images/magic-the-gathering/ikoria-lair-of-behemoths/1-adaptive-shimmerer--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/8/d8a2e243-e446-46c6-8a37-e26620951c41.jpg?1591230173
-flavor_text: \"You sure you want to see what emerges? You might not like it. It definitely won't like you.\"\n—Kinnan, bonder prodigy
+flavor_text: "\"You sure you want to see what emerges? You might not like it. It definitely won't like you.\"\n—Kinnan, bonder prodigy"
 oracle_text: Flash\nThis creature enters with three +1/+1 counters on it.
 mana_cost: "{5}"
 image_width: 745

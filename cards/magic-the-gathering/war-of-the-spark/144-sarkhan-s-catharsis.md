@@ -40,7 +40,7 @@ needs_manual_review: false
 artist: Zack Stella
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/144-sarkhan-s-catharsis--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/f/2f4b6f26-c66b-4048-9503-af0a886ef14f.jpg?1557576811
-flavor_text: \"You once brought havoc to my home and ruined my mind. I'm here to return the favor, Bolas.\"
+flavor_text: "\"You once brought havoc to my home and ruined my mind. I'm here to return the favor, Bolas.\""
 oracle_text: Sarkhan's Catharsis deals 5 damage to target player or planeswalker.
 image_width: 745
 image_height: 1040

@@ -50,7 +50,7 @@ needs_manual_review: false
 artist: Tuan Duong Chu
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/132-diversion-specialist--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/c/acc9b17c-4210-49f4-a920-b1dc9dfa950f.jpg?1726286339
-flavor_text: \"Hey! Fang-faces! Over here!\"
+flavor_text: "\"Hey! Fang-faces! Over here!\""
 oracle_text: "Menace (This creature can't be blocked except by two or more creatures.)\\n{1}, Sacrifice another creature or enchantment: Exile the top card of your library. You may play it this turn."
 mood: action
 time_of_day: indeterminate

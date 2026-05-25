@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: Brian Valeza
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/245-ticket-tortoise--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/a/fa178ed7-8f3a-45f0-817d-5fbc7993b04a.jpg?1738356856
-flavor_text: \"ADMIT ONE. ENJOY THE RACE.\"
+flavor_text: "\"ADMIT ONE. ENJOY THE RACE.\""
 oracle_text: "Defender\\nWhen this creature enters, if an opponent controls more lands than you, you create a Treasure token. (It's an artifact with \\\"{T}, Sacrifice this token: Add one mana of any color.\\\")"
 image_width: 745
 image_height: 1040

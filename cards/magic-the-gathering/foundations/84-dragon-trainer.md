@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Steve Prescott
 art_crop_image: cards/_images/magic-the-gathering/foundations/84-dragon-trainer--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/1/91bd75a1-cb54-4e38-9ce1-e8f32a73c6eb.jpg?1730488906
-flavor_text: \"I was hardly a month old when he hatched. We grew up together. Even shared a crib!\"
+flavor_text: "\"I was hardly a month old when he hatched. We grew up together. Even shared a crib!\""
 oracle_text: When this creature enters, create a 4/4 red Dragon creature token with flying.
 mood: peaceful
 time_of_day: indeterminate

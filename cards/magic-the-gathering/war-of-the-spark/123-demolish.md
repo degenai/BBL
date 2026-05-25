@@ -29,7 +29,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/0/b00211dd-6dd
 artist: Adam Paquette
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/123-demolish--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/0/b00211dd-6dd7-40d9-80f3-f909f6d112db.jpg?1557576665
-flavor_text: \"For every inch of land they take from us, we take it back or we burn it. Give them nothing.\"\n—Aurelia
+flavor_text: "\"For every inch of land they take from us, we take it back or we burn it. Give them nothing.\"\n—Aurelia"
 oracle_text: Destroy target artifact or land.
 image_width: 745
 image_height: 1040

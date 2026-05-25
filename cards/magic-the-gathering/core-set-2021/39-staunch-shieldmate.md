@@ -50,7 +50,7 @@ setting: indoor
 artist: Bartłomiej Gaweł
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/39-staunch-shieldmate--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/b/db17f25a-32d1-469b-bb5f-f1761e227990.jpg?1594735287
-flavor_text: \"Gilded with gold from a dragon's trove, it is! And etched with the image of the dragon I slew to take it.\"
+flavor_text: "\"Gilded with gold from a dragon's trove, it is! And etched with the image of the dragon I slew to take it.\""
 mana_cost: "{W}"
 image_width: 745
 image_height: 1040

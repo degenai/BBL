@@ -44,7 +44,7 @@ needs_manual_review: false
 artist: Mathias Kollros
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/130-phyrexian-ironworks--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/d/6d64e1a8-cb4f-4968-b3e0-c9ca7c7894a3.jpg?1717047318
-flavor_text: \"We have made a friend today.\"\n—Slobad, Iron Goblin
+flavor_text: "\"We have made a friend today.\"\n—Slobad, Iron Goblin"
 oracle_text: "Whenever you attack, you get {E} (an energy counter).\\n{T}, Pay {E}{E}{E}: Create a 3/3 colorless Phyrexian Golem artifact creature token. Activate only as a sorcery."
 mood: grim
 time_of_day: indeterminate

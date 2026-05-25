@@ -49,7 +49,7 @@ setting: mountain
 artist: Mike Bierek
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/51-frost-breath--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/9/393fc485-d3c1-4826-933d-89f66df769d4.jpg?1594735496
-flavor_text: \"I'll make ice chimes of your bones.\"
+flavor_text: "\"I'll make ice chimes of your bones.\""
 oracle_text: Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
 mana_cost: "{2}{U}"
 image_width: 745

@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Anthony S. Waters
 art_crop_image: cards/_images/magic-the-gathering/tempest/106-winged-sliver--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/3/03aa58b4-dbc2-414e-aa7a-f09360d59b3c.jpg?1562052324
-flavor_text: \"Everything around here has cut a deal with gravity.\"\n—Gerrard of the *Weatherlight*
+flavor_text: "\"Everything around here has cut a deal with gravity.\"\n—Gerrard of the *Weatherlight*"
 oracle_text: All Sliver creatures have flying.
 mana_cost: "{1}{U}"
 image_width: 745

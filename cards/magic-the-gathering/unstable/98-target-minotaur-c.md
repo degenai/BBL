@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Warren Mahy
 art_crop_image: cards/_images/magic-the-gathering/unstable/98-target-minotaur-c--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/a/aa3093a4-e115-4d88-b7c0-33dee8a11142.jpg?1562930901
-flavor_text: \"Not again!\"
+flavor_text: "\"Not again!\""
 oracle_text: Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 image_width: 745
 image_height: 1040

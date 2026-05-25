@@ -49,7 +49,7 @@ setting: other
 artist: Deruchenko Alexander
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/40-swift-response--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/9/a90c1ad0-83bd-471c-8d4c-e65bc2abaa18.jpg?1594735305
-flavor_text: \"There's nothing quite as satisfying as delivering a good kick to the face.\"\n—Adrasteia, Akroan captain
+flavor_text: "\"There's nothing quite as satisfying as delivering a good kick to the face.\"\n—Adrasteia, Akroan captain"
 oracle_text: Destroy target tapped creature.
 mana_cost: "{1}{W}"
 image_width: 745

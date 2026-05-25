@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Mathias Kollros
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/95-eldrazi-aggressor--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/2/62f3ec85-552d-4e28-939e-ab2c39e3e9c5.jpg?1562915027
-flavor_text: \"They employ a foul sort of teamwork.\"\n—General Tazri, allied commander
+flavor_text: "\"They employ a foul sort of teamwork.\"\n—General Tazri, allied commander"
 oracle_text: Devoid (This card has no color.)\nThis creature has haste as long as you control another colorless creature.
 image_width: 745
 image_height: 1040

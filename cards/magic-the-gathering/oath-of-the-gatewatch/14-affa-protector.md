@@ -45,7 +45,7 @@ characters:
   - zendikari-resistance
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/14-affa-protector--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/e/0e54ac79-fbaa-4385-869b-aaf31e33a11f.jpg?1562897950
-flavor_text: \"Through all the terrors we face, I hold on to the memory of the world before the Eldrazi came. I'd like to see that world again.\"
+flavor_text: "\"Through all the terrors we face, I hold on to the memory of the world before the Eldrazi came. I'd like to see that world again.\""
 oracle_text: Vigilance
 image_width: 745
 image_height: 1040

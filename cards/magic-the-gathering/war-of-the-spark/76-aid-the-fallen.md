@@ -29,7 +29,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/5/f/5f8bc010-f1a
 artist: Sara Winters
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/76-aid-the-fallen--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/f/5f8bc010-f1af-42a2-9009-2039cf3d8f0a.jpg?1557576370
-flavor_text: \"I never liked you. Now get up—we have a fight to finish.\"
+flavor_text: "\"I never liked you. Now get up—we have a fight to finish.\""
 oracle_text: Choose one or both —\n• Return target creature card from your graveyard to your hand.\n• Return target planeswalker card from your graveyard to your hand.
 image_width: 745
 image_height: 1040

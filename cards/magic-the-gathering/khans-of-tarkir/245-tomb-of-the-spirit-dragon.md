@@ -49,7 +49,7 @@ setting: mountain
 artist: Sam Burley
 art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/245-tomb-of-the-spirit-dragon--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/b/eb6be7ab-8fad-4606-b623-f2188219d60b.jpg?1562795503
-flavor_text: \"The voice calls me here, yet I see only bones. Is this more dragon trickery?\"\n—Sarkhan Vol
+flavor_text: "\"The voice calls me here, yet I see only bones. Is this more dragon trickery?\"\n—Sarkhan Vol"
 oracle_text: "{T}: Add {C}.\\n{2}, {T}: You gain 1 life for each colorless creature you control."
 tags:
   - card

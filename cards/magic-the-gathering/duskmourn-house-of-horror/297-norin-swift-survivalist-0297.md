@@ -46,7 +46,7 @@ needs_manual_review: true
 artist: Yigit Koroglu
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/297-norin-swift-survivalist-0297--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/9/49f0fdf4-3881-4327-924f-2c1b67ccda93.jpg?1726286390
-flavor_text: \"I don't know what it was! Why would I stick around to find out?\"
+flavor_text: "\"I don't know what it was! Why would I stick around to find out?\""
 oracle_text: Norin can't block.\nWhenever a creature you control becomes blocked, you may exile it. You may play that card from exile this turn.
 mood: horror
 time_of_day: indeterminate

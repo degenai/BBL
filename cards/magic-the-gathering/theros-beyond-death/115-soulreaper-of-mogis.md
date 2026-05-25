@@ -54,7 +54,7 @@ characters:
   - mogis
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/5/55e2f383-d2a0-4424-bf7a-79e82d6f691f.jpg?1616399505
-flavor_text: \"We offer to Mogis the blood of the weak, and in return he makes us strong.\"
+flavor_text: "\"We offer to Mogis the blood of the weak, and in return he makes us strong.\""
 oracle_text: "{2}{B}, Sacrifice a creature: Draw a card."
 mana_cost: "{2}{B}"
 image_width: 745

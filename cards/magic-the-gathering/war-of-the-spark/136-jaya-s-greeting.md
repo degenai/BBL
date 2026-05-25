@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: Victor Adame Minguez
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/136-jaya-s-greeting--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/c/ec66f169-5cf9-4d7c-a5ab-c64fc4801358.jpg?1561012721
-flavor_text: \"We have visitors? Well, it'd be rude not to give them a traditional Keral Keep welcome.\"
+flavor_text: "\"We have visitors? Well, it'd be rude not to give them a traditional Keral Keep welcome.\""
 oracle_text: Jaya's Greeting deals 3 damage to target creature. Scry 1.
 image_width: 745
 image_height: 1040

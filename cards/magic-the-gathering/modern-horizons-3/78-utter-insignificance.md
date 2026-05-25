@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: Lius Lasahido
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/78-utter-insignificance--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/0/3050ac06-4c16-4155-a97f-f6bc92709ee4.jpg?1717011839
-flavor_text: \"I used to think my life was meaningless. Now I know for certain.\"
+flavor_text: "\"I used to think my life was meaningless. Now I know for certain.\""
 oracle_text: "Flash\\nEnchant creature\\nEnchanted creature loses all abilities and has base power and toughness 1/1.\\n{2}{C}: Exile enchanted creature."
 image_width: 745
 image_height: 1040

@@ -48,7 +48,7 @@ setting: forest
 artist: Donato Giancola
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/34-true-love-s-kiss--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/3/23a4bac2-f6cb-4712-8510-a63657c43a5c.jpg?1589566341
-flavor_text: \"Be careful, dear. Some people deserve their curses.\"\n—Marawen, barrow witch
+flavor_text: "\"Be careful, dear. Some people deserve their curses.\"\n—Marawen, barrow witch"
 oracle_text: Exile target artifact or enchantment.\nDraw a card.
 mana_cost: "{2}{W}{W}"
 image_width: 745

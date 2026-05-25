@@ -44,7 +44,7 @@ needs_manual_review: false
 artist: Tim Hildebrandt
 art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/186-naturalize--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/b/2bac967b-f684-4916-b7f4-8fffdd752a93.jpg?1562827416
-flavor_text: \"When your cities and trinkets crumble, only nature will remain.\"\n—Garruk Wildspeaker
+flavor_text: "\"When your cities and trinkets crumble, only nature will remain.\"\n—Garruk Wildspeaker"
 oracle_text: Destroy target artifact or enchantment.
 image_width: 745
 image_height: 1040

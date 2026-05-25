@@ -51,7 +51,7 @@ setting: forest
 artist: Tianhua X
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/115-crow-of-dark-tidings--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/8/d8e0654c-8c84-47a7-ba0b-de5b1268c27b.jpg?1608909628
-flavor_text: \"Well, this can't be a good sign.\"\n—Old Rutstein
+flavor_text: "\"Well, this can't be a good sign.\"\n—Old Rutstein"
 oracle_text: Flying\nWhen this creature enters or dies, mill two cards. (Put the top two cards of your library into your graveyard.)
 mana_cost: "{2}{B}"
 image_width: 745

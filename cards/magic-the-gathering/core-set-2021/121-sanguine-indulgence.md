@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Andrey Kuzinskiy
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/121-sanguine-indulgence--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/b/abfcd08a-cfb5-4d34-b950-f57a88c5cb8e.jpg?1594736365
-flavor_text: \"Drink from the vein? How provincial.\"\n—Lord Duchorvin
+flavor_text: "\"Drink from the vein? How provincial.\"\n—Lord Duchorvin"
 oracle_text: This spell costs {3} less to cast if you've gained 3 or more life this turn.\nReturn up to two target creature cards from your graveyard to your hand.
 mana_cost: "{3}{B}"
 image_width: 745

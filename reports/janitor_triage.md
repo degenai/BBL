@@ -233,4 +233,4 @@ When a triviabot subagent reports it fell through to WebSearch because tier 2 Pu
 
 ## Closed
 
-(none yet — log items here with their resolution sha when they're done)
+- **wave-191: JSON-escape-leak in `flavor_text` / `oracle_text` (431 cards)** — `researchbot._flatten_for_frontmatter()` was JSON-escaping value content (`\"`, `\n`, `\\`) but `update_frontmatter_field()` wrote the result without an outer YAML quote wrap, producing malformed lines like `flavor_text: \"X\"` that Obsidian's strict YAML parser rejects. Surfaced by Alex flagging `112-vraska-s-finisher.md` (which also had a duplicate `name:` field — only 1 card corpus-wide had that, fixed in same pass). Source fix: `_flatten_for_frontmatter` now wraps escaped output in outer `"..."` when the original text contains `"`, `\n`, `\\`, or `\r`. Corpus sweep via `reports/_scratch/sweep_yaml_quote_wrap.py`. Resolved in commit covering Wave 191 bug-fix scope.

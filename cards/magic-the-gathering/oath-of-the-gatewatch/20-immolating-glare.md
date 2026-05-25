@@ -43,7 +43,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/2/f/2f468338-bb6
 artist: Daarken
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/20-immolating-glare--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/f/2f468338-bb66-4db0-a883-69095566092b.jpg?1562904646
-flavor_text: \"The sun can warm your skin or blister it, nurture your crops or wither them, light your path or blind you. She is a fickle friend, but a far worse enemy.\"\n—Nazra of the Stone Havens
+flavor_text: "\"The sun can warm your skin or blister it, nurture your crops or wither them, light your path or blind you. She is a fickle friend, but a far worse enemy.\"\n—Nazra of the Stone Havens"
 oracle_text: Destroy target attacking creature.
 image_width: 745
 image_height: 1040

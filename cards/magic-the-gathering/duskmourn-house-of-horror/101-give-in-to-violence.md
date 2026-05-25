@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Septian Fajrianto
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/101-give-in-to-violence--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/0/00ac1759-d4cc-41d5-a9b7-a89b80d2190c.jpg?1726286225
-flavor_text: \"Come. Strip yourself of flesh and fear. Hunt for me. *Entertain* me.\"\n—The Lord of Pain
+flavor_text: "\"Come. Strip yourself of flesh and fear. Hunt for me. *Entertain* me.\"\n—The Lord of Pain"
 oracle_text: Target creature gets +2/+2 and gains lifelink until end of turn.
 mana_cost: "{1}{B}"
 image_width: 745

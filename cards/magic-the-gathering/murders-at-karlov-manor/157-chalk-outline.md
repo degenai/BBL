@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Julia Griffin
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/157-chalk-outline--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/3/b3ff56c1-4153-4e15-9ac6-06d93fa2ae50.jpg?1706241961
-flavor_text: \"In your search for a suspect, never forget that the most important person is the victim.\"\n—Ezrim, Agency chief
+flavor_text: "\"In your search for a suspect, never forget that the most important person is the victim.\"\n—Ezrim, Agency chief"
 oracle_text: "Whenever one or more creature cards leave your graveyard, create a 2/2 white and blue Detective creature token, then investigate. (Create a Clue token. It's an artifact with \\\"{2}, Sacrifice this token: Draw a card.\\\")"
 image_width: 745
 image_height: 1040

@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: Sam Rowan
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/19-ironclad-krovod--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/f/afb16895-6542-405e-9793-154ffc439f23.jpg?1569418805
-flavor_text: \"We need to block the exits from the plaza! What's big, heavy, and available?\"\n—Gideon Jura
+flavor_text: "\"We need to block the exits from the plaza! What's big, heavy, and available?\"\n—Gideon Jura"
 image_width: 745
 image_height: 1040
 image_quality: high

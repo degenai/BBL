@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Yohann Schepacz
 art_crop_image: cards/_images/magic-the-gathering/eternal-masters/190-timberwatch-elf--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/d/5d902a83-5e39-4df3-a897-e9ac65a8209c.jpg?1580014956
-flavor_text: \"If you ever want to leave this forest, now's the time.\"
+flavor_text: "\"If you ever want to leave this forest, now's the time.\""
 oracle_text: "{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield."
 image_width: 745
 image_height: 1040

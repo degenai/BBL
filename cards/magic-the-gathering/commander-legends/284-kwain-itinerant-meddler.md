@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Lucas Graciano
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/284-kwain-itinerant-meddler--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/5/f571fef1-1fd2-4355-b803-5edccb6f4b94.jpg?1608911183
-flavor_text: \"Why so slow, why so slow? Hurry up! You never know what you'll find.\"
+flavor_text: "\"Why so slow, why so slow? Hurry up! You never know what you'll find.\""
 oracle_text: "{T}: Each player may draw a card, then each player who drew a card this way gains 1 life."
 image_width: 745
 image_height: 1040

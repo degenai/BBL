@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Zoltan Boros
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/193-improbable-alliance--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/4/0461867b-ec35-4d37-a398-5247e06c4afe.jpg?1572490770
-flavor_text: \"I agreed to light his way as long as he always had my back.\"\n—Squill, Mistford pixie
+flavor_text: "\"I agreed to light his way as long as he always had my back.\"\n—Squill, Mistford pixie"
 oracle_text: "Whenever you draw your second card each turn, create a 1/1 blue Faerie creature token with flying.\\n{4}{U}{R}: Draw a card, then discard a card."
 image_width: 745
 image_height: 1040

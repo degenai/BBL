@@ -50,7 +50,7 @@ setting: forest
 artist: Daren Bader
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/150-eldrazi-repurposer--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/7/37f79ba7-7b65-4387-b498-f770816ce8dd.jpg?1717012430
-flavor_text: \"I almost admire their ability to avoid waste. Almost.\"\n—General Tazri, allied commander
+flavor_text: "\"I almost admire their ability to avoid waste. Almost.\"\n—General Tazri, allied commander"
 oracle_text: "Devoid (This card has no color.)\\nWhen you cast this spell and when this creature dies, create a 0/1 colorless Eldrazi Spawn creature token with \\\"Sacrifice this token: Add {C}.\\\""
 mana_cost: "{2}{G}"
 image_width: 745

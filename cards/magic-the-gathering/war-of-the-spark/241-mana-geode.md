@@ -45,7 +45,7 @@ setting: desert
 artist: Raoul Vitale
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/241-mana-geode--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/7/17315a12-a7f8-45ba-ac3b-a62c789e75d0.jpg?1557577433
-flavor_text: \"I don't care if it's an all-powerful relic or a street vendor's lucky charm. If it brings you courage, wear it.\"\n—Saheeli Rai
+flavor_text: "\"I don't care if it's an all-powerful relic or a street vendor's lucky charm. If it brings you courage, wear it.\"\n—Saheeli Rai"
 oracle_text: "When this artifact enters, scry 1.\\n{T}: Add one mana of any color."
 mana_cost: "{3}"
 image_width: 745

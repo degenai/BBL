@@ -47,7 +47,7 @@ setting: void
 artist: Justyna Dura
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/311-coerced-to-kill-showcase--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/d/2dc9f352-5076-4b5f-9815-cf47abb63d5b.jpg?1706242132
-flavor_text: \"People are being brainwashed into these attacks. We must find the puppet master.\"\n—Alquist Proft
+flavor_text: "\"People are being brainwashed into these attacks. We must find the puppet master.\"\n—Alquist Proft"
 oracle_text: Enchant creature\nYou control enchanted creature.\nEnchanted creature has base power and toughness 1/1, has deathtouch, and is an Assassin in addition to its other types.
 mana_cost: "{3}{U}{B}"
 image_width: 745

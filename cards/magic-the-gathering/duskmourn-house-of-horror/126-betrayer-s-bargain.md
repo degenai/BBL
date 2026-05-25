@@ -50,7 +50,7 @@ needs_manual_review: true
 artist: Billy Christian
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/126-betrayer-s-bargain--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/9/7956ae00-8f0c-48f0-8110-19ff53863876.jpg?1726286318
-flavor_text: \"This is my way out. You'll have to find your own.\"\n—Winter, to Niko
+flavor_text: "\"This is my way out. You'll have to find your own.\"\n—Winter, to Niko"
 oracle_text: As an additional cost to cast this spell, sacrifice a creature or enchantment or pay {2}.\nBetrayer's Bargain deals 5 damage to target creature. If that creature would die this turn, exile it instead.
 mana_cost: "{1}{R}"
 mood: grim

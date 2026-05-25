@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Winona Nelson
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons/83-cordial-vampire--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/9/a90a1c44-ee0f-4c12-bfaf-6f371bcce167.jpg?1562201588
-flavor_text: \"Please, come in! Hors d'oeuvres are on the table.\"
+flavor_text: "\"Please, come in! Hors d'oeuvres are on the table.\""
 oracle_text: Whenever this creature or another creature dies, put a +1/+1 counter on each Vampire you control.
 mana_cost: "{B}{B}"
 image_width: 745

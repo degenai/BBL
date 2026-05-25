@@ -49,7 +49,7 @@ setting: other
 artist: Sidharth Chaturvedi
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/118-pestilent-haze--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/8/08b78aa8-a63a-4aa2-bb82-3fbf2595ed7c.jpg?1594736339
-flavor_text: \"Your crops will rot. The air itself will turn against you. You will suffer as I have suffered.\"\n—Karaz, outcast
+flavor_text: "\"Your crops will rot. The air itself will turn against you. You will suffer as I have suffered.\"\n—Karaz, outcast"
 oracle_text: Choose one —\n• All creatures get -2/-2 until end of turn.\n• Remove two loyalty counters from each planeswalker.
 mana_cost: "{1}{B}{B}"
 image_width: 745

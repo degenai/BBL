@@ -39,7 +39,7 @@ needs_manual_review: false
 artist: Tomas Duchek
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/130-goblin-maskmaker--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/1/6154a991-c602-4fca-91a3-3830060da60e.jpg?1706241877
-flavor_text: \"When you can't show your own face, try one of mine!\"
+flavor_text: "\"When you can't show your own face, try one of mine!\""
 oracle_text: Whenever this creature attacks, face-down spells you cast this turn cost {1} less to cast.
 image_width: 745
 image_height: 1040

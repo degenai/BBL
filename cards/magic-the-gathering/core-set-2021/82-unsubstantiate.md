@@ -48,7 +48,7 @@ setting: other
 artist: Victor Adame Minguez
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/82-unsubstantiate--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/d/2dc0bafd-debc-4b62-9fe0-56b4aad02484.jpg?1594735888
-flavor_text: \"Nicely done, Jace. You always were good at disappearing acts.\"\n—Liliana Vess
+flavor_text: "\"Nicely done, Jace. You always were good at disappearing acts.\"\n—Liliana Vess"
 oracle_text: Return target spell or creature to its owner's hand.
 mana_cost: "{1}{U}"
 image_width: 745

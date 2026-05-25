@@ -37,7 +37,7 @@ needs_manual_review: false
 artist: Matt Forsyth
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/128-galvanize--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/4/64ed3bfa-3294-45dd-825e-3afc2580f0d4.jpg?1706241871
-flavor_text: \"Why doesn't Kylox put an off switch on these things?!\"
+flavor_text: "\"Why doesn't Kylox put an off switch on these things?!\""
 oracle_text: Galvanize deals 3 damage to target creature. If you've drawn two or more cards this turn, Galvanize deals 5 damage to that creature instead.
 image_width: 745
 image_height: 1040

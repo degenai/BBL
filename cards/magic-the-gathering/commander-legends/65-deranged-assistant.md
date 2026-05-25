@@ -51,7 +51,7 @@ setting: indoor
 artist: Nils Hamm
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/65-deranged-assistant--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/3/73373421-c43d-4152-818a-55abc85b477a.jpg?1608909173
-flavor_text: \"Garl, adjust the slurry dispensers. Garl, fetch more corpses. Garl, quit crying and give me your brain tissue. If he doesn't stop being so rude, I'm quitting.\"
+flavor_text: "\"Garl, adjust the slurry dispensers. Garl, fetch more corpses. Garl, quit crying and give me your brain tissue. If he doesn't stop being so rude, I'm quitting.\""
 oracle_text: "{T}, Mill a card: Add {C}. (To mill a card, put the top card of your library into your graveyard.)"
 mana_cost: "{1}{U}"
 image_width: 745

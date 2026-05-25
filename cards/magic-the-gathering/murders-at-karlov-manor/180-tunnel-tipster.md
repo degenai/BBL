@@ -48,7 +48,7 @@ setting: forest
 artist: Leesha Hannigan
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/180-tunnel-tipster--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/e/3e29b890-35b9-4e2a-9b4c-9417ca7db31d.jpg?1706242095
-flavor_text: \"When your perp goes underground, I know where to find 'em.\"
+flavor_text: "\"When your perp goes underground, I know where to find 'em.\""
 oracle_text: "At the beginning of your end step, if a face-down creature entered the battlefield under your control this turn, put a +1/+1 counter on this creature.\\n{T}: Add {G}."
 mana_cost: "{1}{G}"
 manual_review_reason: No reference image found via scryfall for set 'Murders at Karlov Manor'

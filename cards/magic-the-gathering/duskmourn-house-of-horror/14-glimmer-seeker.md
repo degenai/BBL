@@ -52,7 +52,7 @@ needs_manual_review: false
 artist: Kev Fang
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/14-glimmer-seeker--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/f/7f06bbb1-0c7d-4803-9b35-8a2206803eed.jpg?1726285911
-flavor_text: \"Well, hello there. Want to come exploring?\"
+flavor_text: "\"Well, hello there. Want to come exploring?\""
 oracle_text: Survival — At the beginning of your second main phase, if this creature is tapped, draw a card if you control a Glimmer creature. If you don't control a Glimmer creature, create a 1/1 white Glimmer enchantment creature token.
 mood: other
 time_of_day: indeterminate

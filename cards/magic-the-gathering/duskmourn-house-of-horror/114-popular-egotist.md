@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Julia Metzger
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/114-popular-egotist--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/5/35e64605-8edb-4def-9522-765e90d1f0f3.jpg?1726286273
-flavor_text: \"I know you'd want me to live, bestie!\"
+flavor_text: "\"I know you'd want me to live, bestie!\""
 oracle_text: "{1}{B}, Sacrifice another creature or enchantment: This creature gains indestructible until end of turn. Tap it. (Damage and effects that say \\\"destroy\\\" don't destroy it.)\\nWhenever you sacrifice a permanent, target opponent loses 1 life and you gain 1 life."
 image_width: 745
 image_height: 1040

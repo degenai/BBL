@@ -45,7 +45,7 @@ needs_manual_review: false
 artist: Filip Burburan
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/87-run-away-together--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/7/d747d5f2-d3b0-44f9-92f0-781839386850.jpg?1608909383
-flavor_text: \"Virtue is virtue, whatever the heart that nurtures it.\"\n—Malacan, Vantress exile
+flavor_text: "\"Virtue is virtue, whatever the heart that nurtures it.\"\n—Malacan, Vantress exile"
 oracle_text: Choose two target creatures controlled by different players. Return those creatures to their owners' hands.
 image_width: 745
 image_height: 1040

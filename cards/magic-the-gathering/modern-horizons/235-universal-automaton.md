@@ -49,7 +49,7 @@ setting: indoor
 artist: Ben Maier
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons/235-universal-automaton--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/3/53c682e2-c90f-4f4b-9010-00b099e85518.jpg?1691760808
-flavor_text: \"Within minutes, the strange device was indistinguishable from the other upon my workbench.\"\n—Tocasia, journal entry
+flavor_text: "\"Within minutes, the strange device was indistinguishable from the other upon my workbench.\"\n—Tocasia, journal entry"
 oracle_text: Changeling (This card is every creature type.)
 mana_cost: "{1}"
 tags:

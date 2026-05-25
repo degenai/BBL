@@ -39,7 +39,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/3/c3d5088e-21d
 artist: Mark Poole
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/173-return-to-nature--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/3/c3d5088e-21d0-4255-a14c-ad950133a90e.jpg?1572490654
-flavor_text: \"Long after the magic wore off, the mice still dreamed of glorious galloping.\"\n—*Tales of the Fae*
+flavor_text: "\"Long after the magic wore off, the mice still dreamed of glorious galloping.\"\n—*Tales of the Fae*"
 oracle_text: Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Exile target card from a graveyard.
 image_width: 745
 image_height: 1040

@@ -44,7 +44,7 @@ needs_manual_review: false
 artist: Tony Foti
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/257-thinking-cap--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/d/6d2565e1-dd7b-462b-8270-a17913277793.jpg?1706242328
-flavor_text: \"I find that my greatest insights rarely arrive when my ears are cold.\"\n—Senior Inspector Holjo
+flavor_text: "\"I find that my greatest insights rarely arrive when my ears are cold.\"\n—Senior Inspector Holjo"
 oracle_text: "Equipped creature gets +1/+2.\\nEquip Detective {1}\\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)"
 image_width: 745
 image_height: 1040

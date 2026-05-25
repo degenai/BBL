@@ -49,7 +49,7 @@ needs_manual_review: false
 artist: G-host Lee
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/134-reiterating-bolt--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/1/51f57902-85d1-4c40-b79c-6cffafb4557a.jpg?1717012291
-flavor_text: \"Eureka! Now to show those fools at the Academy how easily I can replicate *these* results!\"
+flavor_text: "\"Eureka! Now to show those fools at the Academy how easily I can replicate *these* results!\""
 oracle_text: Replicate—Pay {E}{E}{E}. (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nReiterating Bolt deals 3 damage to target creature or planeswalker.
 mood: action
 time_of_day: indeterminate

@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Eric Deschamps
 art_crop_image: cards/_images/magic-the-gathering/dominaria/93-final-parting--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/e/de8803f6-9efa-4323-b8c5-29bdd5a48f9a.jpg?1562744124
-flavor_text: \"Sleep now, brother. That is the one gift I can give you.\"\n—Liliana Vess
+flavor_text: "\"Sleep now, brother. That is the one gift I can give you.\"\n—Liliana Vess"
 oracle_text: Search your library for two cards. Put one into your hand and the other into your graveyard. Then shuffle.
 mana_cost: "{3}{B}{B}"
 image_width: 745

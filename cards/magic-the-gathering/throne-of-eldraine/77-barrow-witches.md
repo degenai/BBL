@@ -50,7 +50,7 @@ setting: dungeon
 artist: Alex Brock
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/77-barrow-witches--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/5/45707c22-fce8-4dbd-9d19-73f08c68f449.jpg?1572490072
-flavor_text: \"Taste the sweetness, breath for breath. Keep the balance, death for death.\"\n—Barrow witch incantation
+flavor_text: "\"Taste the sweetness, breath for breath. Keep the balance, death for death.\"\n—Barrow witch incantation"
 oracle_text: When this creature enters, return target Knight card from your graveyard to your hand.
 mana_cost: "{4}{B}"
 image_width: 745

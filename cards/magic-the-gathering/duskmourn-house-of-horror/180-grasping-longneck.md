@@ -45,7 +45,7 @@ needs_manual_review: false
 artist: Mathias Kollros
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/180-grasping-longneck--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/f/7fddcd48-3efe-4b56-9d69-9659b3dc6021.jpg?1726286534
-flavor_text: \"We ran, but it was all around us—like a writhing, flailing forest of rubbery limbs and stabbing talons.\"\n—Survivor's journal
+flavor_text: "\"We ran, but it was all around us—like a writhing, flailing forest of rubbery limbs and stabbing talons.\"\n—Survivor's journal"
 oracle_text: Reach\nWhen this creature dies, you gain 2 life.
 mood: horror
 time_of_day: night

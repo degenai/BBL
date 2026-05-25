@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Deruchenko Alexander
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/85-aspect-of-lamprey--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/7/27157f01-8aed-4485-9f0f-9e7486492e6e.jpg?1581479695
-flavor_text: \"Some aspire to be mighty like the lion or the hydra. I am the parasite that feeds on them all.\"
+flavor_text: "\"Some aspire to be mighty like the lion or the hydra. I am the parasite that feeds on them all.\""
 oracle_text: Enchant creature you control\nWhen this Aura enters, target opponent discards two cards.\nEnchanted creature has lifelink.
 mana_cost: "{3}{B}"
 image_width: 745

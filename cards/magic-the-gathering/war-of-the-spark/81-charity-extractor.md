@@ -53,7 +53,7 @@ setting: indoor
 artist: Matt Stewart
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/81-charity-extractor--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/5/3594f726-cdbb-4b7d-bcfe-17d5f8cd5228.jpg?1557576411
-flavor_text: \"War or no war, your donations are due, as always.\"
+flavor_text: "\"War or no war, your donations are due, as always.\""
 oracle_text: Lifelink
 mana_cost: "{3}{B}"
 image_width: 745

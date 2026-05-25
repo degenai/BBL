@@ -44,7 +44,7 @@ needs_manual_review: false
 artist: John Stanko
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/62-sage-of-mysteries--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/1/4138fd65-e0c3-42a1-9c0d-4d5f20228b55.jpg?1581479476
-flavor_text: \"I see destruction, suffering, and one tormented glimmer of hope.\"
+flavor_text: "\"I see destruction, suffering, and one tormented glimmer of hope.\""
 oracle_text: Constellation — Whenever an enchantment you control enters, target player mills two cards.
 image_width: 745
 image_height: 1040

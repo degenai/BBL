@@ -40,7 +40,7 @@ needs_manual_review: false
 artist: Jonas De Ro
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/255-rakdos-guildgate-255--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/6/26f7e55d-d4c9-4755-ab87-a592ba3fb64f.jpg?1584832312
-flavor_text: \"My servants take pains for your pleasure, and take pleasure in your pain!\"\n—Rakdos
+flavor_text: "\"My servants take pains for your pleasure, and take pleasure in your pain!\"\n—Rakdos"
 oracle_text: "This land enters tapped.\\n{T}: Add {B} or {R}."
 image_width: 745
 image_height: 1040

@@ -49,7 +49,7 @@ setting: other
 artist: Jung Park
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/231-signpost-scarecrow--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/2/a2c5f336-c100-4bec-89d5-548f60064d7f.jpg?1572491077
-flavor_text: \"Accursed scarecrow! Sending folk in every direction is the same as sending them nowhere at all.\"\n—Corliss the Wanderer
+flavor_text: "\"Accursed scarecrow! Sending folk in every direction is the same as sending them nowhere at all.\"\n—Corliss the Wanderer"
 oracle_text: "Vigilance\\n{2}: Add one mana of any color."
 mana_cost: "{4}"
 image_width: 745

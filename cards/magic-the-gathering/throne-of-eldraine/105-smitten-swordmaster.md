@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Taylor Ingvarsson
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/105-smitten-swordmaster--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/8/f82541f2-b17c-45b4-87ff-f9b46d23578c.jpg?1572490242
-flavor_text: \"My quest? Why, to marry Ayara. Or die trying.\"
+flavor_text: "\"My quest? Why, to marry Ayara. Or die trying.\""
 image_width: 745
 image_height: 1040
 image_quality: high

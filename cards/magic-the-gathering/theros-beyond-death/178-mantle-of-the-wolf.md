@@ -51,7 +51,7 @@ characters:
   - nylea
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/178-mantle-of-the-wolf--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/3/83a786fa-4b86-40f7-ac58-1a05fb38fcdb.jpg?1581480687
-flavor_text: \"Be fearless, for a furious rebirth awaits you.\"\n—Nylea, god of the hunt
+flavor_text: "\"Be fearless, for a furious rebirth awaits you.\"\n—Nylea, god of the hunt"
 oracle_text: Enchant creature\nEnchanted creature gets +4/+4.\nWhen this Aura is put into a graveyard from the battlefield, create two 2/2 green Wolf creature tokens.
 mana_cost: "{3}{G}"
 image_width: 745

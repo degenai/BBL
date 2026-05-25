@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: YW Tang
 art_crop_image: cards/_images/magic-the-gathering/dominaria/99-lingering-phantom--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/3/2316239e-8fe6-467f-87e6-a3f4d19b860e.jpg?1562732666
-flavor_text: \"True power never dies, but lies awake, waiting for its name to be spoken.\"\n—*The Eldest Reborn*
+flavor_text: "\"True power never dies, but lies awake, waiting for its name to be spoken.\"\n—*The Eldest Reborn*"
 oracle_text: Whenever you cast a historic spell, you may pay {B}. If you do, return this card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)
 mana_cost: "{5}{B}"
 image_width: 745

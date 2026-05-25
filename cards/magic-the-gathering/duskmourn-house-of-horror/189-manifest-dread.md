@@ -44,7 +44,7 @@ needs_manual_review: false
 artist: Andrey Kuzinskiy
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/189-manifest-dread--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/6/a649265b-6c32-49e7-b6cb-6086c40d26e8.jpg?1726286570
-flavor_text: \"That's why I never travel without a flamethrower.\"\n—Rip, spawn hunter
+flavor_text: "\"That's why I never travel without a flamethrower.\"\n—Rip, spawn hunter"
 oracle_text: Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
 mood: horror
 time_of_day: indeterminate

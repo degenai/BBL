@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Chris Rallis
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/33-tune-up--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/8/f8bddc5f-8f25-4313-b5bb-e5eae2923878.jpg?1738356180
-flavor_text: \"For most people? The odds would be insurmountable,\" Daretti said.\n\"But we're not most people,\" Pia replied.
+flavor_text: "\"For most people? The odds would be insurmountable,\" Daretti said.\n\"But we're not most people,\" Pia replied."
 oracle_text: Return target artifact card from your graveyard to the battlefield. If it's a Vehicle, it becomes an artifact creature.
 image_width: 745
 image_height: 1040

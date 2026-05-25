@@ -22,7 +22,7 @@ art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: "Set 'Promo Pack: Zendikar Rising' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing."
 reference_image_source_url: https://cards.scryfall.io/png/front/8/6/86572747-8faa-4242-b059-07d11e6be1cd.png?1604197631
-flavor_text: \"Our feeble villages and tiny encampments stand only at the whim of the Roil.\"\n—*The Invokers' Tales*
+flavor_text: "\"Our feeble villages and tiny encampments stand only at the whim of the Roil.\"\n—*The Invokers' Tales*"
 oracle_text: Kicker {5} (You may pay an additional {5} as you cast this spell.)\nRoil Eruption deals 3 damage to any target. If this spell was kicked, it deals 5 damage instead.
 review_good: false
 review_bad: false

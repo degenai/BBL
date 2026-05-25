@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Mike Burns
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/256-sanitation-automaton--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/2/52608ba4-c47d-44e4-b624-dee2a3a42ae2.jpg?1706716416
-flavor_text: \"I am once again bursting with discarded theories. Disposal imminent.\"
+flavor_text: "\"I am once again bursting with discarded theories. Disposal imminent.\""
 oracle_text: When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 image_width: 745
 image_height: 1040

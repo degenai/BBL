@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Titus Lunter
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/183-wildwood-tracker--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/5/3538eba1-475a-4388-8a72-55ab7cd1027e.jpg?1572490709
-flavor_text: \"This one was wearing shoes made of glass. She'll be no ordinary prey.\"
+flavor_text: "\"This one was wearing shoes made of glass. She'll be no ordinary prey.\""
 oracle_text: Whenever this creature attacks or blocks, if you control another non-Human creature, this creature gets +1/+1 until end of turn.
 mana_cost: "{G}"
 image_width: 745

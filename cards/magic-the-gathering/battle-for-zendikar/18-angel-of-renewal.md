@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: Todd Lockwood
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/18-angel-of-renewal--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/f/0f882ac2-3cbc-4548-8c83-d2a7443991df.jpg?1562898637
-flavor_text: \"No more fear. No more failure. No more death. No more!\"
+flavor_text: "\"No more fear. No more failure. No more death. No more!\""
 oracle_text: Flying\nWhen this creature enters, you gain 1 life for each creature you control.
 mood: action
 time_of_day: indeterminate

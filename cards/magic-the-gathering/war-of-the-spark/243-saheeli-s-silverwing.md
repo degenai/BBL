@@ -51,7 +51,7 @@ setting: other
 artist: Daniel Ljunggren
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/243-saheeli-s-silverwing--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/b/dba77c07-5d23-4a1a-90a0-b8293848d637.jpg?1557577445
-flavor_text: \"Track the source of those thopters,\" Saheeli told her creation. \"And feel free to snack on as many as you want.\"
+flavor_text: "\"Track the source of those thopters,\" Saheeli told her creation. \"And feel free to snack on as many as you want.\""
 oracle_text: Flying\nWhen this creature enters, look at the top card of target opponent's library.
 mana_cost: "{4}"
 tags:

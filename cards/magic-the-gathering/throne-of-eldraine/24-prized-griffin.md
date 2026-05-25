@@ -51,7 +51,7 @@ setting: other
 artist: Jesper Ejsing
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/24-prized-griffin--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/7/877bd423-83ff-4a28-b0d2-447a7821bb8c.jpg?1572489744
-flavor_text: \"I wrote these tales with a quill made from a griffin's feather. And the winning of that feather is quite a tale itself.\"\n—Chulane, Teller of Tales
+flavor_text: "\"I wrote these tales with a quill made from a griffin's feather. And the winning of that feather is quite a tale itself.\"\n—Chulane, Teller of Tales"
 oracle_text: Flying
 mana_cost: "{4}{W}"
 image_width: 745

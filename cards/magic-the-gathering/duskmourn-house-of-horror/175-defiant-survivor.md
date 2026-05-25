@@ -47,7 +47,7 @@ needs_manual_review: false
 artist: Jessica Fong
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/175-defiant-survivor--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/2/327772f3-5a87-47af-9308-c1119ad2711d.jpg?1726286512
-flavor_text: \"The dark should be scared of me!\"
+flavor_text: "\"The dark should be scared of me!\""
 oracle_text: Survival — At the beginning of your second main phase, if this creature is tapped, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)
 image_width: 745
 image_height: 1040

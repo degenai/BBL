@@ -54,7 +54,7 @@ setting: other
 artist: Zoltan Boros
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/35-secure-the-scene--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d6467d96-e43a-4b1e-b6ce-578d991077b5.jpg?1594735209
-flavor_text: \"You know it's a great show when the Azorius arrest the props, too!\"\n—Judith, the Scourge Diva
+flavor_text: "\"You know it's a great show when the Azorius arrest the props, too!\"\n—Judith, the Scourge Diva"
 oracle_text: Exile target nonland permanent. Its controller creates a 1/1 white Soldier creature token.
 mana_cost: "{4}{W}"
 image_width: 745

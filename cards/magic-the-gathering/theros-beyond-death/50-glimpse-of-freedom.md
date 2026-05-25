@@ -29,7 +29,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/1/c1e9c025-1cd
 artist: Clint Cearley
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/50-glimpse-of-freedom--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/1/c1e9c025-1cdb-4da8-8d28-14ad5efb512d.jpg?1581479361
-flavor_text: \"Freedom lies in accepting a single path.\"\n—Nyklos, Meletian philosopher
+flavor_text: "\"Freedom lies in accepting a single path.\"\n—Nyklos, Meletian philosopher"
 oracle_text: Draw a card.\nEscape—{2}{U}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 image_width: 745
 image_height: 1040

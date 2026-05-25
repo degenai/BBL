@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: Anna Steinbauer
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/51-stone-haven-medic--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/9/3956563b-bde3-4aec-93fe-e03bade49458.jpg?1562908505
-flavor_text: \"These days, soldiers never stick around long enough for a proper healing. They just want me to knit them up so they can hurry back to the fight.\"
+flavor_text: "\"These days, soldiers never stick around long enough for a proper healing. They just want me to knit them up so they can hurry back to the fight.\""
 oracle_text: "{W}, {T}: You gain 1 life."
 mood: grim
 time_of_day: indeterminate

@@ -40,7 +40,7 @@ characters:
 artist: Jason Rainville
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/36-kor-entanglers--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/0/0039ead5-2afa-49d6-ae4a-45ae2118188a.jpg?1562895068
-flavor_text: \"We came into this world together. We fight for this world together. We'll leave this world together.\"
+flavor_text: "\"We came into this world together. We fight for this world together. We'll leave this world together.\""
 oracle_text: Rally — Whenever this creature or another Ally you control enters, tap target creature an opponent controls.
 mood: action
 time_of_day: day

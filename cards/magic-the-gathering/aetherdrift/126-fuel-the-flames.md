@@ -48,7 +48,7 @@ needs_manual_review: false
 artist: Nicholas Gregory
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/126-fuel-the-flames--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/2/624335fb-8a0b-4fa9-aefb-60ac641a7934.jpg?1738356412
-flavor_text: \"Our world died, but we survived. Funny how it's the opposite for you.\"\n—Rido, Endrider
+flavor_text: "\"Our world died, but we survived. Funny how it's the opposite for you.\"\n—Rido, Endrider"
 oracle_text: "Fuel the Flames deals 2 damage to each creature.\\nCycling {2} ({2}, Discard this card: Draw a card.)"
 mood: action
 time_of_day: indeterminate

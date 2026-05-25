@@ -40,7 +40,7 @@ needs_manual_review: false
 artist: Drew Tucker
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/77-unfathomable-truths--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/9/f95b8eb1-4dbb-4bb9-aa31-b7a12e3b4618.jpg?1717011831
-flavor_text: \"Maybe we are all just figments of Kozilek's imagination.\"\n—Anowon, the Ruin Sage
+flavor_text: "\"Maybe we are all just figments of Kozilek's imagination.\"\n—Anowon, the Ruin Sage"
 oracle_text: "Devoid (This card has no color.)\\nDraw three cards and create a 0/1 colorless Eldrazi Spawn creature token with \\\"Sacrifice this token: Add {C}.\\\""
 image_width: 745
 image_height: 1040

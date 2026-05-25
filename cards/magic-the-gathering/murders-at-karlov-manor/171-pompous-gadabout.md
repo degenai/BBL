@@ -42,7 +42,7 @@ needs_manual_review: true
 artist: Scott Murphy
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/171-pompous-gadabout--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/d/6d803b93-c1df-4a02-9dbb-d347c841d4d7.jpg?1706242068
-flavor_text: \"Stand aside, nobodies.\"
+flavor_text: "\"Stand aside, nobodies.\""
 oracle_text: During your turn, this creature has hexproof.\nThis creature can't be blocked by creatures that don't have a name.
 image_width: 745
 image_height: 1040

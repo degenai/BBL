@@ -51,7 +51,7 @@ setting: other
 artist: Anthony Palumbo
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/192-mortify--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/b/ebf6c0dc-5c7b-4170-99bc-2637ea44e716.jpg?1584831682
-flavor_text: \"Your debt is erased.\"\n—Hilgur, Orzhov euthanist
+flavor_text: "\"Your debt is erased.\"\n—Hilgur, Orzhov euthanist"
 oracle_text: Destroy target creature or enchantment.
 mana_cost: "{1}{W}{B}"
 image_width: 745

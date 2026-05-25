@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Yohann Schepacz
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/154-rolling-thunder--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/d/5dd980d5-c6d1-4834-977b-22e80f0b449d.jpg?1562917073
-flavor_text: \"Zendikar is always angry, though I've never seen that anger so precisely directed.\"\n—Nablus, North Hada trapper
+flavor_text: "\"Zendikar is always angry, though I've never seen that anger so precisely directed.\"\n—Nablus, North Hada trapper"
 oracle_text: Rolling Thunder deals X damage divided as you choose among any number of targets.
 image_width: 745
 image_height: 1040

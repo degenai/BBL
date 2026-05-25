@@ -46,7 +46,7 @@ setting: other
 artist: Tomasz Jedruszek
 art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/144-inordinate-rage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/0/d0f62bdc-50a0-41a0-ac37-9b0eeb21b6aa.jpg?1604197186
-flavor_text: \"In my years wandering this land I've seen a veritable menagerie of fantastic creatures, but one that has eluded me thus far is the fabled 'easygoing minotaur.'\"\n—Ko, expedition wizard
+flavor_text: "\"In my years wandering this land I've seen a veritable menagerie of fantastic creatures, but one that has eluded me thus far is the fabled 'easygoing minotaur.'\"\n—Ko, expedition wizard"
 oracle_text: Target creature gets +3/+2 until end of turn. Scry 1.
 mana_cost: "{1}{R}"
 image_width: 745

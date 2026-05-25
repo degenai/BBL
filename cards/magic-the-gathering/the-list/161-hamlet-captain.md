@@ -50,7 +50,7 @@ the_list_source_set: EMN
 artist: Wayne Reynolds
 art_crop_image: cards/_images/magic-the-gathering/the-list/161-hamlet-captain--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/d/fd8f9cd1-1c43-4778-b8e9-ce51b81984d3.jpg?1573513827
-flavor_text: \"Bloodsuckers, howlers, monsters from the beyond . . . it doesn't much matter. I won't have to face them alone.\"
+flavor_text: "\"Bloodsuckers, howlers, monsters from the beyond . . . it doesn't much matter. I won't have to face them alone.\""
 oracle_text: Whenever this creature attacks or blocks, other Humans you control get +1/+1 until end of turn.
 mana_cost: "{1}{G}"
 image_width: 745

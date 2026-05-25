@@ -47,7 +47,7 @@ characters:
   - foundway-associates
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/178-they-went-this-way--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/4/f4a31d4a-34bc-46b4-b20f-a5460191b35d.jpg?1706242086
-flavor_text: \"Running doesn't prove guilt, but innocent people don't typically flee into the North Ridge Forest.\"\n—Alst of the Foundway Associates
+flavor_text: "\"Running doesn't prove guilt, but innocent people don't typically flee into the North Ridge Forest.\"\n—Alst of the Foundway Associates"
 oracle_text: "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Investigate. (Create a Clue token. It's an artifact with \\\"{2}, Sacrifice this token: Draw a card.\\\")"
 mana_cost: "{2}{G}"
 image_width: 745

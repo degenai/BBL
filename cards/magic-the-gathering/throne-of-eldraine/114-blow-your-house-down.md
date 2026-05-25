@@ -48,7 +48,7 @@ setting: forest
 artist: Ravenna Tran
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/114-blow-your-house-down--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/0/c04b85e7-a401-42d5-9629-8d4b8c8a46b0.jpg?1746714728
-flavor_text: \"You think these walls will protect you? My, you have a dim view of the power of the wilds.\"\n—Marawen, barrow witch
+flavor_text: "\"You think these walls will protect you? My, you have a dim view of the power of the wilds.\"\n—Marawen, barrow witch"
 oracle_text: Up to three target creatures can't block this turn. Destroy any of them that are Walls.
 mana_cost: "{2}{R}"
 image_width: 745

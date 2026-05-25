@@ -56,7 +56,7 @@ ip_verified: true
 artist: Lie Setiawan
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/127-vito-thorn-of-the-dusk-rose--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.jpg?1594736442
-flavor_text: \"Through the blood of the wicked, we shall be redeemed. Let us pray.\"
+flavor_text: "\"Through the blood of the wicked, we shall be redeemed. Let us pray.\""
 oracle_text: "Whenever you gain life, target opponent loses that much life.\\n{3}{B}{B}: Creatures you control gain lifelink until end of turn."
 mana_cost: "{2}{B}"
 image_width: 745

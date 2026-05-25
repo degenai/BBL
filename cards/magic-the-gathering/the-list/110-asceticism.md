@@ -48,7 +48,7 @@ the_list_source_set: SOM
 artist: Daarken
 art_crop_image: cards/_images/magic-the-gathering/the-list/110-asceticism--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/2/72eefa85-39de-4f9f-aba1-7520b358c6c4.jpg?1573513060
-flavor_text: \"Let my ignominy build walls thicker than iron and stronger than darksteel.\"\n—Thrun, the last troll
+flavor_text: "\"Let my ignominy build walls thicker than iron and stronger than darksteel.\"\n—Thrun, the last troll"
 oracle_text: "Creatures you control have hexproof.\\n{1}{G}: Regenerate target creature. (The next time it would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)"
 mana_cost: "{3}{G}{G}"
 image_width: 745

@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: Caio Monteiro
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/59-one-with-the-stars--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/8/98b7070d-4b09-4390-aa21-1bc0aa2b629c.jpg?1581649081
-flavor_text: \"Take your place among the stars.\"\n—Kruphix, god of horizons
+flavor_text: "\"Take your place among the stars.\"\n—Kruphix, god of horizons"
 oracle_text: Enchant creature or enchantment\nEnchanted permanent is an enchantment and loses all other card types. (It still has its abilities, but it's no longer a creature.)
 image_width: 745
 image_height: 1040

@@ -54,7 +54,7 @@ setting: other
 artist: Jason Felix
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/103-lampad-of-death-s-vigil--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/8/e8c9ada9-ea25-4a96-a4be-e4cf8f7a014f.jpg?1581479856
-flavor_text: \"Grief-struck, she weeps for each mortal's final death.\"\n—Psemilla, Meletian poet
+flavor_text: "\"Grief-struck, she weeps for each mortal's final death.\"\n—Psemilla, Meletian poet"
 oracle_text: "{1}, Sacrifice a creature: Each opponent loses 1 life and you gain 1 life."
 mana_cost: "{1}{B}"
 image_width: 745

@@ -48,7 +48,7 @@ setting: other
 artist: James Ryman
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/188-heroic-intervention--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/3/43c037e3-7d1a-48ca-8ecc-276696592f62.jpg?1594737038
-flavor_text: \"Wherever the strong would harm the weak, I will be there.\"\n—Ajani Goldmane
+flavor_text: "\"Wherever the strong would harm the weak, I will be there.\"\n—Ajani Goldmane"
 oracle_text: Permanents you control gain hexproof and indestructible until end of turn.
 mana_cost: "{1}{G}"
 image_width: 745

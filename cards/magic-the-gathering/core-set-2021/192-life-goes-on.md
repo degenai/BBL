@@ -48,7 +48,7 @@ setting: desert
 artist: Daarken
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/192-life-goes-on--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/8/3888197f-5da4-4413-9cad-b37a12ba1e60.jpg?1594737084
-flavor_text: \"If you believe the God-Pharaoh tests you, charge with me to prove yourself. If you believe he betrayed us all, join with me to fight for tomorrow!\"\n—Samut, former Tah-crop initiate
+flavor_text: "\"If you believe the God-Pharaoh tests you, charge with me to prove yourself. If you believe he betrayed us all, join with me to fight for tomorrow!\"\n—Samut, former Tah-crop initiate"
 oracle_text: You gain 4 life. If a creature died this turn, you gain 8 life instead.
 mana_cost: "{G}"
 image_width: 745

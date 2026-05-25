@@ -39,7 +39,7 @@ needs_manual_review: false
 artist: Borja Pindado
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/175-sample-collector--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/6/76f7480c-82cc-4ddd-b619-c1a609c29a13.jpg?1706242077
-flavor_text: \"Whatever broke out of here is *at least* half bear... and I'd say some lizard as well.\"
+flavor_text: "\"Whatever broke out of here is *at least* half bear... and I'd say some lizard as well.\""
 oracle_text: Whenever this creature attacks, you may collect evidence 3. When you do, put a +1/+1 counter on target creature you control. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)
 image_width: 745
 image_height: 1040

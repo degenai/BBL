@@ -50,7 +50,7 @@ setting: other
 artist: Randy Vargas
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/68-tome-raider--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/0/e04ad850-5801-4654-a388-f86be20a43bf.jpg?1572490015
-flavor_text: \"Humans are so forgetful. Every page I steal becomes a secret they can't remember.\"
+flavor_text: "\"Humans are so forgetful. Every page I steal becomes a secret they can't remember.\""
 oracle_text: Flying\nWhen this creature enters, draw a card.
 mana_cost: "{2}{U}"
 image_width: 745

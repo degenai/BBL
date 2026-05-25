@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Francisco Miyara
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/147-vengeful-tracker--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/2/a247c9a0-0c65-47bc-92fd-bebe95cd35a3.jpg?1706241931
-flavor_text: \"I won't waste my time hunting down petty thieves while my brother's killer still walks free.\"
+flavor_text: "\"I won't waste my time hunting down petty thieves while my brother's killer still walks free.\""
 oracle_text: Whenever an opponent sacrifices an artifact, this creature deals 2 damage to them.
 mood: action
 time_of_day: night

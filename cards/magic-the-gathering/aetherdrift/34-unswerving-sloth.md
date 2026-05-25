@@ -44,7 +44,7 @@ needs_manual_review: false
 artist: Daren Bader
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/34-unswerving-sloth--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/2/12296a74-5d60-4ee3-aa53-2289f84da776.jpg?1738356183
-flavor_text: \"To victory . . . eventually!\"
+flavor_text: "\"To victory . . . eventually!\""
 oracle_text: "Whenever this creature attacks while saddled, it gains indestructible until end of turn. Untap all creatures you control.\\nSaddle 4 (Tap any number of other creatures you control with total power 4 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
 image_width: 745
 image_height: 1040

@@ -52,7 +52,7 @@ setting: forest
 artist: Steve Prescott
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/199-ranger-s-guile--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/2/02392840-f0c4-462e-84ce-9a7cdd9f5efb.jpg?1594737163
-flavor_text: \"You don't survive in the wild by standing in plain sight.\"\n—Garruk Wildspeaker
+flavor_text: "\"You don't survive in the wild by standing in plain sight.\"\n—Garruk Wildspeaker"
 oracle_text: Target creature you control gets +1/+1 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
 mana_cost: "{G}"
 image_width: 745

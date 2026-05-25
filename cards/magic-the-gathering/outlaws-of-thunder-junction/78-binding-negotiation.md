@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: Caroline Gariba
 art_crop_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/78-binding-negotiation--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/c/1c4c26b9-981f-47cf-b0f4-769e788d9537.jpg?1712355546
-flavor_text: \"The tighter I bind them, the looser their tongues become.\"
+flavor_text: "\"The tighter I bind them, the looser their tongues become.\""
 oracle_text: Target opponent reveals their hand. You may choose a nonland card from it. If you do, they discard it. Otherwise, you may put a face-up exiled card they own into their graveyard.
 image_width: 745
 image_height: 1040

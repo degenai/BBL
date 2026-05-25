@@ -45,7 +45,7 @@ needs_manual_review: false
 artist: Alfonso Santano
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/112-adrenaline-jockey--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/8/c8655373-320d-440d-b700-d03413f743fd.jpg?1738356376
-flavor_text: \"Either I win or we both lose. Take your pick.\"
+flavor_text: "\"Either I win or we both lose. Take your pick.\""
 oracle_text: Whenever a player casts a spell, if it's not their turn, this creature deals 4 damage to them.\nWhenever you activate an exhaust ability, put a +1/+1 counter on this creature.
 mood: action
 time_of_day: indeterminate

@@ -53,7 +53,7 @@ characters:
   - mogis
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/141-infuriate--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/5/85a74392-4056-428c-a807-b062957e838e.jpg?1581480233
-flavor_text: \"Renata launched a dozen arrows into the minotaur's thick hide, but the monster didn't slow its charge. The fury of Mogis was upon it.\"\n—Luphea of Setessa, *Histories*
+flavor_text: "\"Renata launched a dozen arrows into the minotaur's thick hide, but the monster didn't slow its charge. The fury of Mogis was upon it.\"\n—Luphea of Setessa, *Histories*"
 oracle_text: Target creature gets +3/+2 until end of turn.
 mana_cost: "{R}"
 image_width: 745

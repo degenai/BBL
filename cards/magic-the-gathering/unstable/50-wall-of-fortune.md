@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Tom Babbey
 art_crop_image: cards/_images/magic-the-gathering/unstable/50-wall-of-fortune--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/7/f766cfce-6edd-4e89-aa78-f30182120804.jpg?1562947239
-flavor_text: \"You need a six? All right everyone, she needs a six!\"
+flavor_text: "\"You need a six? All right everyone, she needs a six!\""
 oracle_text: Defender\nYou may tap an untapped Wall you control to have any player reroll a die that player rolled.
 mana_cost: "{1}{U}"
 image_width: 745

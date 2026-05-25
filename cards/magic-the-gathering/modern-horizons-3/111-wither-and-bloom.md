@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Richard Kane Ferguson
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/111-wither-and-bloom--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/5/95c2390f-71f1-4e42-83da-d603ca86a8d0.jpg?1717012101
-flavor_text: \"Death itself is nothing to cry about. The real tragedy is letting a death go to waste.\"\n—Dina, Witherbloom mage-student
+flavor_text: "\"Death itself is nothing to cry about. The real tragedy is letting a death go to waste.\"\n—Dina, Witherbloom mage-student"
 oracle_text: "Target creature gets -3/-3 until end of turn.\\n{1}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature you control. Activate only as a sorcery."
 mana_cost: "{1}{B}"
 image_width: 745

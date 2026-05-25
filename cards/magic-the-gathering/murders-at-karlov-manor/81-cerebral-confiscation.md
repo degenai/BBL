@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Lius Lasahido
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/81-cerebral-confiscation--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/c/3c3c3d15-b775-44a2-91ea-4abcc3cf2dba.jpg?1706241678
-flavor_text: \"Never rely on secondhand description. Always review the memory yourself.\"\n—Lazav
+flavor_text: "\"Never rely on secondhand description. Always review the memory yourself.\"\n—Lazav"
 oracle_text: Choose one —\n• Target opponent discards two cards.\n• Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
 mana_cost: "{2}{B}"
 image_width: 745

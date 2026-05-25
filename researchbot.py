@@ -418,13 +418,23 @@ def _flatten_for_frontmatter(text: str) -> str:
     """Collapse a multi-line string into a single line with literal `\\n`
     separators so it survives our regex-based frontmatter parser. Consumers
     that want to render multi-line can split on `\\n`. Strips leading/
-    trailing whitespace. Empty input returns empty string."""
+    trailing whitespace. Empty input returns empty string.
+
+    If the original text contained characters that needed JSON-style escaping
+    (`"`, `\\n`, `\\`), the output is wrapped in outer YAML double-quotes so
+    the rendered line `field: "<escaped>"` is valid YAML. Without the wrap,
+    `field: \\"X\\"` is malformed and Obsidian's parser rejects it
+    (wave-191 Vraska's Finisher trap)."""
     if not text:
         return ""
-    # Normalize line endings, then escape newlines + backslashes + double quotes
-    # so the value survives a YAML-style "key: value" line.
+    # Detect on the ORIGINAL text whether wrapping is needed — after escaping,
+    # the escaped versions of `"` and `\\n` look indistinguishable from prior
+    # legitimate-bareword content. Check first, escape second.
+    needs_quote_wrap = any(c in text for c in '"\n\\') or '\r' in text
     s = text.replace("\r\n", "\n").replace("\r", "\n").strip()
     s = s.replace("\\", "\\\\").replace("\"", "\\\"").replace("\n", "\\n")
+    if needs_quote_wrap:
+        return f'"{s}"'
     return s
 
 

@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Jason Rainville
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/141-seven-dwarves--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/6/464adbae-70ea-48e1-b8ae-b404766f7a5a.jpg?1739485462
-flavor_text: \"The gleam of rubies and my brothers and sisters by my side . . . what more could I want?\"\n—Brognold the Third
+flavor_text: "\"The gleam of rubies and my brothers and sisters by my side . . . what more could I want?\"\n—Brognold the Third"
 oracle_text: This creature gets +1/+1 for each other creature named Seven Dwarves you control.\nA deck can have up to seven cards named Seven Dwarves.
 mana_cost: "{1}{R}"
 image_width: 745

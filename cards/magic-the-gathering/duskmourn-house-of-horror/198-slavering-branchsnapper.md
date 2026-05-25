@@ -45,7 +45,7 @@ needs_manual_review: false
 artist: John Tedrick
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/198-slavering-branchsnapper--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/e/5ed7ca4d-5895-4074-8315-656363d14862.jpg?1726286606
-flavor_text: \"Hey, look! It made us a nice big path through the hedge maze!\"\n—Zimone
+flavor_text: "\"Hey, look! It made us a nice big path through the hedge maze!\"\n—Zimone"
 oracle_text: "Trample\\nForestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)"
 mood: horror
 time_of_day: twilight

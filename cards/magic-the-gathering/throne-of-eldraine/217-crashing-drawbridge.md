@@ -50,7 +50,7 @@ setting: other
 artist: Mark Behm
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/217-crashing-drawbridge--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/7/b7d7108f-635c-423b-988a-bc8fc4c6edef.jpg?1572490956
-flavor_text: \"The Northern Beacon flared, and even before the drawbridge finished its descent, the knights charged out.\"\n—*Legend of the Gilded Knights*
+flavor_text: "\"The Northern Beacon flared, and even before the drawbridge finished its descent, the knights charged out.\"\n—*Legend of the Gilded Knights*"
 oracle_text: "Defender\\n{T}: Creatures you control gain haste until end of turn."
 mana_cost: "{2}"
 image_width: 745

@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Nils Hamm
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons/65-rain-of-revelation--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/2/42230b38-c81a-4d76-ad17-1166f5f62312.jpg?1562201465
-flavor_text: \"As the sky opened up, we ran for shelter. Halfway there I came to the sudden realization that, already soaked, there might be more to gain from experiencing the rain than running from it.\"
+flavor_text: "\"As the sky opened up, we ran for shelter. Halfway there I came to the sudden realization that, already soaked, there might be more to gain from experiencing the rain than running from it.\""
 oracle_text: Draw three cards, then discard a card.
 mana_cost: "{3}{U}"
 image_width: 745

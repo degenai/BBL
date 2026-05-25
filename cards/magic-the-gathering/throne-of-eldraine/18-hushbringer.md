@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Bastien L. Deharme
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/18-hushbringer--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/6/663b3e6f-1099-4de8-a0a7-6f1919c38010.jpg?1722108727
-flavor_text: \"Let's begin this conversation again, and this time you will only listen.\"
+flavor_text: "\"Let's begin this conversation again, and this time you will only listen.\""
 oracle_text: Flying, lifelink\nCreatures entering or dying don't cause abilities to trigger.
 mana_cost: "{1}{W}"
 image_width: 745

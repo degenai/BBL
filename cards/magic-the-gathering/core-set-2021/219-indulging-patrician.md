@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Miranda Meeks
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/219-indulging-patrician--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/4/642e0c48-1f77-41e0-abbe-f570b757cd66.jpg?1594737387
-flavor_text: \"Just a nibble for now. I wouldn't want to ruin my appetite.\"
+flavor_text: "\"Just a nibble for now. I wouldn't want to ruin my appetite.\""
 oracle_text: Flying\nLifelink (Damage dealt by this creature also causes you to gain that much life.)\nAt the beginning of your end step, if you gained 3 or more life this turn, each opponent loses 3 life.
 mana_cost: "{1}{W}{B}"
 image_width: 745

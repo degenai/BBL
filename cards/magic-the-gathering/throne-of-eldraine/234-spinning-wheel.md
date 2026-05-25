@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Aaron Miller
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/234-spinning-wheel--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/7/070ff479-9d87-4ab6-aaaa-e96b9df0bac4.jpg?1572491113
-flavor_text: \"Though long forgotten, the wheel continued to turn, spinning fate from a dusty attic.\"\n—*Beyond the Great Henge*
+flavor_text: "\"Though long forgotten, the wheel continued to turn, spinning fate from a dusty attic.\"\n—*Beyond the Great Henge*"
 oracle_text: "{T}: Add one mana of any color.\\n{5}, {T}: Tap target creature."
 image_width: 745
 image_height: 1040

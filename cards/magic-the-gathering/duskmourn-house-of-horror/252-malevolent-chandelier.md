@@ -44,7 +44,7 @@ needs_manual_review: false
 artist: Mirko Failoni
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/252-malevolent-chandelier--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/f/ef09d296-4493-47f7-ad76-ad76c747df78.jpg?1726286812
-flavor_text: \"If you see a light moving toward you in the darkness, don't assume it's coming to help.\"\n—Winter
+flavor_text: "\"If you see a light moving toward you in the darkness, don't assume it's coming to help.\"\n—Winter"
 oracle_text: "Flying\\n{2}: Put target card from a graveyard on the bottom of its owner's library. Activate only as a sorcery."
 image_width: 745
 image_height: 1040

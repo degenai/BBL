@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Darek Zabrocki
 art_crop_image: cards/_images/magic-the-gathering/dominaria/92-feral-abomination--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/2/3292e262-4409-4f31-9de2-a232817a0734.jpg?1591101228
-flavor_text: \"Urborg used to be lovely—scenic volcanoes, respectable lich lords. Since the Cabal came with their nightmares and thrulls, it's all gone to the worms.\"\n—Mister Lostspoons, Skulltown gossip
+flavor_text: "\"Urborg used to be lovely—scenic volcanoes, respectable lich lords. Since the Cabal came with their nightmares and thrulls, it's all gone to the worms.\"\n—Mister Lostspoons, Skulltown gossip"
 oracle_text: Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
 mana_cost: "{5}{B}"
 image_width: 745

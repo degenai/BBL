@@ -53,7 +53,7 @@ setting: urban
 artist: Cliff Childs
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/252-orzhov-guildgate-252--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/b/cba5fb67-e161-4e89-be3e-c8021122ff19.jpg?1584832286
-flavor_text: \"So much wealth. So much splendor. So much temptation to believe the gilded lie.\"\n—Kaya
+flavor_text: "\"So much wealth. So much splendor. So much temptation to believe the gilded lie.\"\n—Kaya"
 oracle_text: "This land enters tapped.\\n{T}: Add {W} or {B}."
 image_width: 745
 image_height: 1040

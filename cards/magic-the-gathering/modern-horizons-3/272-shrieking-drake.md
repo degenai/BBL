@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Ian Miller
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/272-shrieking-drake--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/f/9f1cc39f-898c-4e92-82a0-a17606b60574.jpg?1717047439
-flavor_text: \"Kaervek believes the drakes' cries herald his victory; in truth, they mourn aloud for his impending demise.\"\n—Teferi
+flavor_text: "\"Kaervek believes the drakes' cries herald his victory; in truth, they mourn aloud for his impending demise.\"\n—Teferi"
 oracle_text: Flying\nWhen this creature enters, return a creature you control to its owner's hand.
 mood: action
 time_of_day: day

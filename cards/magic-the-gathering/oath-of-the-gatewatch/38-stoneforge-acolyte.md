@@ -43,7 +43,7 @@ characters:
   - zendikari-resistance
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/38-stoneforge-acolyte--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/5/a5b1ec11-48c3-49d8-9dcd-1da5ffaf9184.jpg?1562928479
-flavor_text: \"The stone speaks. We are merely interpreters.\"
+flavor_text: "\"The stone speaks. We are merely interpreters.\""
 oracle_text: "Cohort — {T}, Tap an untapped Ally you control: Look at the top four cards of your library. You may reveal an Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
 image_width: 745
 image_height: 1040

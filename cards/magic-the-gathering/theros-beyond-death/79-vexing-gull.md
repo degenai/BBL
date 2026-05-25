@@ -51,7 +51,7 @@ setting: ocean
 artist: Volkan Baǵa
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/79-vexing-gull--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/6/869fee23-df75-448d-9fca-6ba6713d459f.jpg?1581479638
-flavor_text: \"May the skies be clear of gales and gulls.\"\n—Meletian prayer
+flavor_text: "\"May the skies be clear of gales and gulls.\"\n—Meletian prayer"
 oracle_text: Flash\nFlying
 mana_cost: "{2}{U}"
 image_width: 745

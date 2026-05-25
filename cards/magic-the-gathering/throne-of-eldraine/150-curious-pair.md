@@ -38,7 +38,7 @@ needs_manual_review: false
 artist: Daarken
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/150-curious-pair--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/f/7f78a570-d776-42f2-a609-6da0156c8de7.jpg?1572490513
-flavor_text: \"It's gingerbread, like Mother makes. What is there to be afraid of?\"
+flavor_text: "\"It's gingerbread, like Mother makes. What is there to be afraid of?\""
 image_width: 745
 image_height: 1040
 image_quality: high

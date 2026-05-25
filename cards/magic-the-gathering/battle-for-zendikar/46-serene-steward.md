@@ -44,7 +44,7 @@ characters:
   - zendikari-resistance
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/46-serene-steward--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/0/702f5dd4-4dc7-4e2c-a30b-9286499433d8.jpg?1562921415
-flavor_text: \"I can give you strength, but you'll have to bring your own courage.\"
+flavor_text: "\"I can give you strength, but you'll have to bring your own courage.\""
 oracle_text: Whenever you gain life, you may pay {W}. If you do, put a +1/+1 counter on target creature.
 image_width: 745
 image_height: 1040

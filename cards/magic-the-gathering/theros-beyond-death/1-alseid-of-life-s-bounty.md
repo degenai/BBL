@@ -50,7 +50,7 @@ setting: other
 artist: Magali Villeneuve
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/1-alseid-of-life-s-bounty--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/6/36c8c075-9597-412e-9fc4-9d73b4405d12.jpg?1581478926
-flavor_text: \"Dawn-kissed, he nourishes the golden grain.\"\n—Psemilla, Meletian poet
+flavor_text: "\"Dawn-kissed, he nourishes the golden grain.\"\n—Psemilla, Meletian poet"
 oracle_text: "Lifelink\\n{1}, Sacrifice this creature: Target creature or enchantment you control gains protection from the color of your choice until end of turn."
 mana_cost: "{W}"
 image_width: 745

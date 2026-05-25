@@ -48,7 +48,7 @@ setting: void
 artist: Raymond Swanland
 art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/223-lens-of-clarity--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/c/3c82e2b8-f0f6-44da-83ee-8a671344ac62.jpg?1562785174
-flavor_text: \"Water shifts and confuses, but as ice it holds the stillness of truth.\"\n—Arel the Whisperer
+flavor_text: "\"Water shifts and confuses, but as ice it holds the stillness of truth.\"\n—Arel the Whisperer"
 oracle_text: You may look at the top card of your library and at face-down creatures you don't control any time.
 mana_cost: "{1}"
 image_width: 745

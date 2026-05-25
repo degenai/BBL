@@ -48,7 +48,7 @@ setting: dungeon
 artist: Yeong-Hao Han
 art_crop_image: cards/_images/magic-the-gathering/battlebond/248-tyrant-s-machine--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/c/2c697b0b-edba-491a-b40e-f88572a6e955.jpg?1562904061
-flavor_text: \"Though tempered differently, all wills can be broken.\"\n—Inquisitor Kyrik
+flavor_text: "\"Though tempered differently, all wills can be broken.\"\n—Inquisitor Kyrik"
 oracle_text: "{4}, {T}: Tap target creature."
 mana_cost: "{2}"
 image_width: 745

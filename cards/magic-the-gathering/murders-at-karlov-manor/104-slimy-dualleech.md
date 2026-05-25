@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Igor Krstic
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/104-slimy-dualleech--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/b/4bc803ad-f8a2-4198-a8a6-8d987b3d00fb.jpg?1706241753
-flavor_text: \"Isn't it gorgeous? It's my most efficient corpse eliminator! One head bites while the other chews.\"\n—Glogus, Golgari leechbreeder
+flavor_text: "\"Isn't it gorgeous? It's my most efficient corpse eliminator! One head bites while the other chews.\"\n—Glogus, Golgari leechbreeder"
 oracle_text: At the beginning of combat on your turn, target creature you control with power 2 or less gets +1/+0 and gains deathtouch until end of turn.
 image_width: 745
 image_height: 1040

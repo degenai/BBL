@@ -49,7 +49,7 @@ setting: other
 artist: Volkan Baǵa
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/202-steelclaw-lance--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/a/cafcf909-d726-4bc2-adf6-c12ca242f0c1.jpg?1572490835
-flavor_text: \"A traditional lance is fine for the Burning Yard, but in the wilds you need a nastier bite.\"\n—Kenver, Embereth weaponsmith
+flavor_text: "\"A traditional lance is fine for the Burning Yard, but in the wilds you need a nastier bite.\"\n—Kenver, Embereth weaponsmith"
 oracle_text: Equipped creature gets +2/+2.\nEquip Knight {1}\nEquip {3}
 mana_cost: "{B}{R}"
 image_width: 745

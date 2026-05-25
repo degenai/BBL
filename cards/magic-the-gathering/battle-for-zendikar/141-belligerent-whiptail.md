@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Jakub Kasper
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/141-belligerent-whiptail--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/5/a5b5b7d2-acb8-4aca-b9e7-67e59aeb384b.jpg?1722161253
-flavor_text: \"Whiptails can sense a traveler's footsteps from a great distance. Measuring that distance has been . . . difficult.\"\n—Jalun, Affa sentry
+flavor_text: "\"Whiptails can sense a traveler's footsteps from a great distance. Measuring that distance has been . . . difficult.\"\n—Jalun, Affa sentry"
 oracle_text: Landfall — Whenever a land you control enters, this creature gains first strike until end of turn.
 image_width: 745
 image_height: 1040

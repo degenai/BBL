@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Andrew Robinson
 art_crop_image: cards/_images/magic-the-gathering/mirage/86-ray-of-command--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/3/4361c600-7a97-46bf-8cc1-f3713d3c28ab.jpg?1562718799
-flavor_text: \"Heel.\"
+flavor_text: "\"Heel.\""
 oracle_text: Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.
 mana_cost: "{3}{U}"
 image_width: 745

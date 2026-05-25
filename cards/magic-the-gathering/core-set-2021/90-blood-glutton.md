@@ -48,7 +48,7 @@ setting: forest
 artist: Anna Podedworna
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/90-blood-glutton--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/8/28ff52a2-4223-4551-b388-b4dd21cc1437.jpg?1594736007
-flavor_text: \"Some savor the hunt. I savor the kill.\"
+flavor_text: "\"Some savor the hunt. I savor the kill.\""
 oracle_text: Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 mana_cost: "{4}{B}"
 image_width: 745

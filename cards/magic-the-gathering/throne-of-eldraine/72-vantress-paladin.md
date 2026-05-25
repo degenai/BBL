@@ -51,7 +51,7 @@ setting: other
 artist: Lucas Graciano
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/72-vantress-paladin--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/2/52dd633f-9a07-47df-adb1-36013fc2f43a.jpg?1576313470
-flavor_text: \"Someone knows where the king is. They can't expect to keep it a secret from us.\"
+flavor_text: "\"Someone knows where the king is. They can't expect to keep it a secret from us.\""
 oracle_text: Flying\nAdamant — If at least three blue mana was spent to cast this spell, this creature enters with a +1/+1 counter on it.
 mana_cost: "{3}{U}"
 image_width: 745

@@ -43,7 +43,7 @@ characters:
 artist: Greg Opalinski
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/35-kor-castigator--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/4/f4db2f0e-d7d4-417b-9b94-5ade727907e9.jpg?1562953058
-flavor_text: \"He told us not to worry, and he walked into the cavern. The swirling mass of Eldrazi parted to admit him, then closed in his wake.\"\n—Akiri, kor line-slinger
+flavor_text: "\"He told us not to worry, and he walked into the cavern. The swirling mass of Eldrazi parted to admit him, then closed in his wake.\"\n—Akiri, kor line-slinger"
 oracle_text: This creature can't be blocked by Eldrazi Scions.
 mood: action
 time_of_day: indeterminate

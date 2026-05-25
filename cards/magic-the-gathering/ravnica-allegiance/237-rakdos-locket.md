@@ -50,7 +50,7 @@ setting: indoor
 artist: Sung Choi
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/237-rakdos-locket--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/f/4fd60d9b-2282-4b32-9bff-efb2bcf87d22.jpg?1584832150
-flavor_text: \"This trinket will gain you admittance to some painfully exclusive gatherings.\"\n—Exava, blood witch
+flavor_text: "\"This trinket will gain you admittance to some painfully exclusive gatherings.\"\n—Exava, blood witch"
 oracle_text: "{T}: Add {B} or {R}.\\n{B/R}{B/R}{B/R}{B/R}, {T}, Sacrifice this artifact: Draw two cards."
 mana_cost: "{3}"
 image_width: 745

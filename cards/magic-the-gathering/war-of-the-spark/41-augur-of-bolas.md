@@ -49,7 +49,7 @@ setting: void
 artist: Alex Konstad
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/41-augur-of-bolas--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/1/d19fbfe6-69bb-452a-be3c-b9c625e23193.jpg?1557576145
-flavor_text: \"There is no future save the one my master wills.\"
+flavor_text: "\"There is no future save the one my master wills.\""
 oracle_text: When this creature enters, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 mana_cost: "{1}{U}"
 image_width: 745

@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Eric Deschamps
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/20-law-rune-enforcer--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/3/a3d39238-e21d-4345-84c8-648ef3a66703.jpg?1557575992
-flavor_text: \"See that no one enters or leaves New Prahv today. And notify me at once of any Planeswalker activity.\"\n—Dovin Baan
+flavor_text: "\"See that no one enters or leaves New Prahv today. And notify me at once of any Planeswalker activity.\"\n—Dovin Baan"
 oracle_text: "{1}, {T}: Tap target creature with mana value 2 or greater."
 image_width: 745
 image_height: 1040

@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Randy Vargas
 art_crop_image: cards/_images/magic-the-gathering/core-set-2020/205-woodland-champion--foil--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/5/250f5303-428a-478c-9bd5-2410f7fcc4dd.jpg?1592517480
-flavor_text: \"Every footfall on the forest floor is a heartbeat sending strength into my veins.\"
+flavor_text: "\"Every footfall on the forest floor is a heartbeat sending strength into my veins.\""
 oracle_text: Whenever one or more tokens you control enter, put that many +1/+1 counters on this creature.
 mana_cost: "{1}{G}"
 image_width: 745

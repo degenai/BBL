@@ -47,7 +47,7 @@ setting: other
 artist: Izzy
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/165-thrill-of-possibility--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/4/f4af156d-0fbf-4a4e-b0c1-db7e95be4903.jpg?1594736817
-flavor_text: \"Right now, in these first moments of creation, it is simultaneously nothing and everything.\"
+flavor_text: "\"Right now, in these first moments of creation, it is simultaneously nothing and everything.\""
 oracle_text: As an additional cost to cast this spell, discard a card.\nDraw two cards.
 mana_cost: "{1}{R}"
 image_width: 745

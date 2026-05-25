@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Randy Gallegos
 art_crop_image: cards/_images/magic-the-gathering/core-set-2019/183-giant-spider--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/0/80996b0d-cd44-445e-96de-677e0018255c.jpg?1562302899
-flavor_text: \"After everything I've survived, it's hard to be frightened by anything anymore.\"\n—Vivien Reid
+flavor_text: "\"After everything I've survived, it's hard to be frightened by anything anymore.\"\n—Vivien Reid"
 oracle_text: Reach (This creature can block creatures with flying.)
 mood: horror
 time_of_day: indeterminate

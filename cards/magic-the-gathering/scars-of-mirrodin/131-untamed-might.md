@@ -40,7 +40,7 @@ needs_manual_review: false
 artist: Erica Yang
 art_crop_image: cards/_images/magic-the-gathering/scars-of-mirrodin/131-untamed-might--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/7/17979f0e-bd39-449f-b4ed-9156c229223b.jpg?1562815001
-flavor_text: \"Beasts kill for their very survival. If you would have their strength, you must know their desperation.\"\n—Konnos, Sylvok sage
+flavor_text: "\"Beasts kill for their very survival. If you would have their strength, you must know their desperation.\"\n—Konnos, Sylvok sage"
 oracle_text: Target creature gets +X/+X until end of turn.
 image_width: 745
 image_height: 1040

@@ -49,7 +49,7 @@ setting: mountain
 artist: Heonhwa
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/37-youthful-knight--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/d/3d1a3fec-39de-4223-9da2-22749a58cd62.jpg?1572489827
-flavor_text: \"In the wilds, your true training will begin.\"\n—Syr Alin, the Lion's Claw
+flavor_text: "\"In the wilds, your true training will begin.\"\n—Syr Alin, the Lion's Claw"
 oracle_text: First strike
 mana_cost: "{1}{W}"
 image_width: 745

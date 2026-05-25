@@ -49,7 +49,7 @@ setting: indoor
 artist: Craig J Spearing
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/229-scalding-cauldron--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/1/710d2782-2b23-441f-9890-6fa9c923b701.jpg?1572491061
-flavor_text: \"It's a witch's trick, this cauldron full of pain. I wouldn't dump it on any but the wicked.\"
+flavor_text: "\"It's a witch's trick, this cauldron full of pain. I wouldn't dump it on any but the wicked.\""
 oracle_text: "{3}, {T}, Sacrifice this artifact: It deals 3 damage to target creature."
 mana_cost: "{1}"
 image_width: 745

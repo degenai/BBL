@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Jesper Ejsing
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/161-get-a-leg-up--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/4/34e61e0f-d0f3-492a-92f1-36f72a91583a.jpg?1706241982
-flavor_text: \"Apologies for using you like a stepladder. On the other hand, thank you, you're a wonderful stepladder!\"
+flavor_text: "\"Apologies for using you like a stepladder. On the other hand, thank you, you're a wonderful stepladder!\""
 oracle_text: Until end of turn, target creature gets +1/+1 for each creature you control and gains reach.
 image_width: 745
 image_height: 1040

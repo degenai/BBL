@@ -46,11 +46,10 @@ reference_image_source_url: https://cards.scryfall.io/png/front/f/8/f89fa379-7fa
 mood: grim
 time_of_day: night
 setting: void
-name: Vraska's Finisher
 artist: Igor Kieryluk
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/112-vraska-s-finisher--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/8/f89fa379-7fae-4fbf-8e31-0ef3645353c5.jpg?1557576597
-flavor_text: \"You might have pleaded your case with my queen earlier. Now I am here, and it is far too late.\"
+flavor_text: "\"You might have pleaded your case with my queen earlier. Now I am here, and it is far too late.\""
 oracle_text: When this creature enters, destroy target creature or planeswalker an opponent controls that was dealt damage this turn.
 mana_cost: "{2}{B}"
 image_width: 745

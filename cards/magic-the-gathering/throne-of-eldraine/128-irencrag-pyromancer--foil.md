@@ -50,7 +50,7 @@ setting: indoor
 artist: Jason Rainville
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/128-irencrag-pyromancer--foil--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a7b0ead-5629-429d-bede-8154f3fae96d.jpg?1572490380
-flavor_text: \"Fear of fire is a sensible instinct. If I were you, I'd be terrified.\"
+flavor_text: "\"Fear of fire is a sensible instinct. If I were you, I'd be terrified.\""
 oracle_text: Whenever you draw your second card each turn, this creature deals 3 damage to any target.
 mana_cost: "{2}{R}"
 image_width: 745

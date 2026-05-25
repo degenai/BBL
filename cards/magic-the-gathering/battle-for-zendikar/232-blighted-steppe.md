@@ -40,7 +40,7 @@ needs_manual_review: false
 artist: Yeong-Hao Han
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/232-blighted-steppe--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/4/f43df8ee-d3e4-419e-aed0-1059d95f9cab.jpg?1562952931
-flavor_text: \"When a limb is gangrenous, you cut it off. This is no different.\"\n—Greenweaver Mina
+flavor_text: "\"When a limb is gangrenous, you cut it off. This is no different.\"\n—Greenweaver Mina"
 oracle_text: "{T}: Add {C}.\\n{3}{W}, {T}, Sacrifice this land: You gain 2 life for each creature you control."
 mood: grim
 time_of_day: day

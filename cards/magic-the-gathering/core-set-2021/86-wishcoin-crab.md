@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: James Paick
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/86-wishcoin-crab--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/4/348955a0-e988-48d7-a6a0-a8045fcffd25.jpg?1594735938
-flavor_text: \"What wishes do they grant? Mostly pinching-related ones.\"\n—Omik, superintendent of waterworks
+flavor_text: "\"What wishes do they grant? Mostly pinching-related ones.\"\n—Omik, superintendent of waterworks"
 mana_cost: "{3}{U}"
 image_width: 745
 image_height: 1040

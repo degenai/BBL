@@ -39,7 +39,7 @@ needs_manual_review: false
 artist: Warren Mahy
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/133-innocent-bystander--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/8/085f4595-4ae5-428e-a934-e918774df6fd.jpg?1706241885
-flavor_text: \"Whoops, this isn't my street! Don't mind me! I'll just be on my way while you enjoy your . . . very sharp knives.\"
+flavor_text: "\"Whoops, this isn't my street! Don't mind me! I'll just be on my way while you enjoy your . . . very sharp knives.\""
 oracle_text: "Whenever this creature is dealt 3 or more damage, investigate. (Create a Clue token. It's an artifact with \\\"{2}, Sacrifice this token: Draw a card.\\\")"
 image_width: 745
 image_height: 1040

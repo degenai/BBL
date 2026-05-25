@@ -38,7 +38,7 @@ needs_manual_review: false
 artist: Adam Paquette
 art_crop_image: cards/_images/magic-the-gathering/ultimate-masters/146-seismic-assault--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/b/6b2eb4e6-4ce1-4f72-9b3d-b6a44b22bd2e.jpg?1547517387
-flavor_text: \"In a war for survival, Dominaria itself became a weapon. The malice is gone, but the danger remains.\"\n—Jhoira
+flavor_text: "\"In a war for survival, Dominaria itself became a weapon. The malice is gone, but the danger remains.\"\n—Jhoira"
 oracle_text: "Discard a land card: This enchantment deals 2 damage to any target."
 image_width: 745
 image_height: 1040

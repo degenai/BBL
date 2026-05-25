@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Dan Murayama Scott
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/30-gideon-s-reproach--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/5/453d8ec3-15ae-4851-9efb-161ca2ee6019.jpg?1562911221
-flavor_text: \"Suddenly, Gideon was there with us, clearing the way so that we could escape.\"\n—*The War Diaries*
+flavor_text: "\"Suddenly, Gideon was there with us, clearing the way so that we could escape.\"\n—*The War Diaries*"
 oracle_text: Gideon's Reproach deals 4 damage to target attacking or blocking creature.
 mood: action
 time_of_day: day

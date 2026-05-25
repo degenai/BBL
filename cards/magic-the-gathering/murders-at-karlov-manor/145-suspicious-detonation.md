@@ -42,7 +42,7 @@ characters:
   - foundway-associates
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/145-suspicious-detonation--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/e/6e280482-ed7e-4011-899e-096ff7bd4c41.jpg?1706241923
-flavor_text: \"Clearly someone wanted us to find this.\"\n—Runubi of the Foundway Associates
+flavor_text: "\"Clearly someone wanted us to find this.\"\n—Runubi of the Foundway Associates"
 oracle_text: This spell costs {3} less to cast if you've sacrificed an artifact this turn.\nThis spell can't be countered. (This includes by the ward ability.)\nSuspicious Detonation deals 4 damage to target creature.
 image_width: 745
 image_height: 1040

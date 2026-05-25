@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: Chase Stone
 art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/195-sage-of-the-inward-eye--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/9/297c336b-3f70-4518-b1f1-7b773774895d.jpg?1562784071
-flavor_text: \"No one petal claims beauty for the lotus.\"
+flavor_text: "\"No one petal claims beauty for the lotus.\""
 oracle_text: Flying\nWhenever you cast a noncreature spell, creatures you control gain lifelink until end of turn.
 image_width: 745
 image_height: 1040

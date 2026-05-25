@@ -46,7 +46,7 @@ needs_manual_review: false
 artist: Chris Cold
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/184-horrid-vigor--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/1/c175c998-7b80-4187-bdbc-5b6e0d7eac91.jpg?1726286550
-flavor_text: \"We set it on fire. It lived. We cut off its head. It lived. We fell to it, one by one. It lives.\"\n—Sunrise, survivor sentry
+flavor_text: "\"We set it on fire. It lived. We cut off its head. It lived. We fell to it, one by one. It lives.\"\n—Sunrise, survivor sentry"
 oracle_text: Target creature gains deathtouch and indestructible until end of turn.
 mood: horror
 time_of_day: indeterminate

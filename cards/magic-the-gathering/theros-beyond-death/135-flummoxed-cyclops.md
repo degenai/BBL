@@ -48,7 +48,7 @@ setting: other
 artist: Mark Behm
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/135-flummoxed-cyclops--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/f/1f70bcef-7ab6-4547-aca4-dd3ba68fd26b.jpg?1581480152
-flavor_text: \"A cyclops thinks slowly but strikes quickly. Try to keep it thinking.\"\n—Brigone, soldier of Meletis
+flavor_text: "\"A cyclops thinks slowly but strikes quickly. Try to keep it thinking.\"\n—Brigone, soldier of Meletis"
 oracle_text: Reach\nWhenever two or more creatures your opponents control attack, this creature can't block this combat.
 mana_cost: "{3}{R}"
 image_width: 745

@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Sidharth Chaturvedi
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/25-pouncing-lynx--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/3/9383956f-90bc-40e4-ae5c-503e98e21832.jpg?1557576029
-flavor_text: \"I don't understand. He's normally so well behaved!\"
+flavor_text: "\"I don't understand. He's normally so well behaved!\""
 oracle_text: During your turn, this creature has first strike.
 mana_cost: "{1}{W}"
 image_width: 745

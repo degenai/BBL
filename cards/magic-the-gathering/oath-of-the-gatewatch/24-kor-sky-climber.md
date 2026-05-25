@@ -45,7 +45,7 @@ needs_manual_review: true
 artist: Victor Adame Minguez
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/24-kor-sky-climber--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/4/54938334-ebad-4dde-82e6-8c854aef4a91.jpg?1562912220
-flavor_text: \"With rope, I can fly as far as the rope can reach. But with light, the sky is the limit.\"
+flavor_text: "\"With rope, I can fly as far as the rope can reach. But with light, the sky is the limit.\""
 oracle_text: "{1}{W}: This creature gains flying until end of turn."
 image_width: 745
 image_height: 1040

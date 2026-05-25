@@ -46,7 +46,7 @@ needs_manual_review: false
 artist: Carly Milligan
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/161-elvish-refueler--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/5/25dfbcb6-9b67-4151-b10f-dde70c5fd16d.jpg?1738356499
-flavor_text: \"Anyone running low?\"
+flavor_text: "\"Anyone running low?\""
 oracle_text: "During your turn, as long as you haven't activated an exhaust ability this turn, you may activate exhaust abilities as though they haven't been activated.\\nExhaust — {1}{G}: Put a +1/+1 counter on this creature. (Activate each exhaust ability only once.)"
 mood: other
 time_of_day: indeterminate

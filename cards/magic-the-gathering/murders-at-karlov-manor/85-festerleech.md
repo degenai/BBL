@@ -44,7 +44,7 @@ needs_manual_review: false
 artist: Helge C. Balzer
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/85-festerleech--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/3/83a6fa37-8351-403b-ae05-b67e9bf74bbb.jpg?1706241694
-flavor_text: \"Four Dead in Zombie Leech Attack, Dozens Nauseated\"\n—*Tenth District Times* headline
+flavor_text: "\"Four Dead in Zombie Leech Attack, Dozens Nauseated\"\n—*Tenth District Times* headline"
 oracle_text: "Whenever this creature deals combat damage to a player, you mill two cards.\\n{1}{B}: This creature gets +2/+2 until end of turn. Activate only once each turn."
 image_width: 745
 image_height: 1040

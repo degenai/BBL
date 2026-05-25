@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Viktor Titov
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/109-unlikely-aid--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/c/9c260c5c-e796-4f81-9e15-0c5be75106b9.jpg?1557576580
-flavor_text: \"No one will ever ride me again, Gideon. Expect no further favors.\"\n—Rakdos
+flavor_text: "\"No one will ever ride me again, Gideon. Expect no further favors.\"\n—Rakdos"
 oracle_text: Target creature gets +2/+0 and gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)
 image_width: 745
 image_height: 1040

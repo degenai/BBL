@@ -48,7 +48,7 @@ setting: other
 artist: Scott Murphy
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/134-burn-bright--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/1/f19b4a80-41e1-4c5f-869a-682f08543f12.jpg?1594736518
-flavor_text: \"From a great bonfire at the dawn of time, the first Gruul kindled their rage. The same flame burns in you.\"\n—Kroshkar, Gruul shaman
+flavor_text: "\"From a great bonfire at the dawn of time, the first Gruul kindled their rage. The same flame burns in you.\"\n—Kroshkar, Gruul shaman"
 oracle_text: Creatures you control get +2/+0 until end of turn.
 mana_cost: "{2}{R}"
 image_width: 745

@@ -48,7 +48,7 @@ setting: other
 artist: Grzegorz Rutkowski
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/148-weaselback-redcap--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/3/33a78207-fd76-4112-a257-54a25da6f818.jpg?1579623767
-flavor_text: \"I would rather cast myself into the abyss than let my blood stain the cap of those monsters.\"\n—Syr Alin, the Lion's Claw
+flavor_text: "\"I would rather cast myself into the abyss than let my blood stain the cap of those monsters.\"\n—Syr Alin, the Lion's Claw"
 oracle_text: "{1}{R}: This creature gets +2/+0 until end of turn."
 mana_cost: "{R}"
 image_width: 745

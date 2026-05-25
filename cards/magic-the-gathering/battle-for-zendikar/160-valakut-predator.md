@@ -40,7 +40,7 @@ needs_manual_review: false
 artist: Kev Walker
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/160-valakut-predator--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/8/88318272-8192-4d6d-a22a-eca87abb480d.jpg?1562927148
-flavor_text: \"Whatever volcanoes dream of, it seems like they always wake up grumpy.\"\n—Raff Slugeater, goblin shortcutter
+flavor_text: "\"Whatever volcanoes dream of, it seems like they always wake up grumpy.\"\n—Raff Slugeater, goblin shortcutter"
 oracle_text: Landfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn.
 image_width: 745
 image_height: 1040

@@ -50,7 +50,7 @@ setting: mountain
 artist: Caroline Gariba
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/54-keen-glidemaster--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/c/cce6289e-f665-4faa-8285-c843447f3e52.jpg?1594735543
-flavor_text: \"Fear is a rational response, but waiting won't make it any easier. Just jump!\"
+flavor_text: "\"Fear is a rational response, but waiting won't make it any easier. Just jump!\""
 oracle_text: "{2}{U}: Target creature gains flying until end of turn."
 mana_cost: "{1}{U}"
 image_width: 745

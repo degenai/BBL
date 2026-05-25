@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: Pete Venters
 art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/188-plummet--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/c/7cbac2e5-cc3a-4be1-9891-6098b1066de8.jpg?1562831439
-flavor_text: \"Let nothing own the skies but the wind.\"\n—Dejara, Giltwood druid
+flavor_text: "\"Let nothing own the skies but the wind.\"\n—Dejara, Giltwood druid"
 oracle_text: Destroy target creature with flying.
 image_width: 745
 image_height: 1040

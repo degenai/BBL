@@ -42,7 +42,7 @@ characters:
 artist: Dan Murayama Scott
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/33-kitesail-scout--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/8/68a07aad-4ed5-47ae-b04c-9b9919000f6c.jpg?1562919631
-flavor_text: \"The wind in one's hair, the sun on one's back, the joy of open skies . . . the next generation of kor must know this kind of peace.\"
+flavor_text: "\"The wind in one's hair, the sun on one's back, the joy of open skies . . . the next generation of kor must know this kind of peace.\""
 oracle_text: Flying
 mood: action
 time_of_day: sunset

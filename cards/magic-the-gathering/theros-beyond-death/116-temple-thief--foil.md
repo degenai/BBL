@@ -52,7 +52,7 @@ setting: indoor
 artist: Evyn Fong
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/116-temple-thief--foil--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/c/fc4a61aa-75d2-46bc-b13f-b863f5f49d32.jpg?1581479972
-flavor_text: \"I don't know if the gods watch over their temples, but I figure it's best to be stealthy just in case.\"
+flavor_text: "\"I don't know if the gods watch over their temples, but I figure it's best to be stealthy just in case.\""
 oracle_text: This creature can't be blocked by enchanted creatures or enchantment creatures.
 mana_cost: "{1}{B}"
 image_width: 745

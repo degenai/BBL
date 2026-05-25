@@ -44,7 +44,7 @@ needs_manual_review: false
 artist: Randy Gallegos
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/90-dashing-bloodsucker--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/9/790a90cc-d36f-43b5-8423-89e30bdf7b9f.jpg?1726286186
-flavor_text: \"There are worse things here than vampires.\"
+flavor_text: "\"There are worse things here than vampires.\""
 oracle_text: Eerie — Whenever an enchantment you control enters and whenever you fully unlock a Room, this creature gets +2/+0 and gains lifelink until end of turn.
 image_width: 745
 image_height: 1040

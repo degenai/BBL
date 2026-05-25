@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Joe Slucher
 art_crop_image: cards/_images/magic-the-gathering/dominaria/77-blessing-of-belzenlok--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d224940c-d87c-4317-9ca3-b704ef894a7b.jpg?1562743446
-flavor_text: \"My heart is not mine, it is Belzenlok's. All hearts are his, and all blood.\"\n—\"Rite of Belzenlok\"
+flavor_text: "\"My heart is not mine, it is Belzenlok's. All hearts are his, and all blood.\"\n—\"Rite of Belzenlok\""
 oracle_text: Target creature gets +2/+1 until end of turn. If it's legendary, it also gains lifelink until end of turn.
 mana_cost: "{B}"
 image_width: 745

@@ -40,7 +40,7 @@ needs_manual_review: false
 artist: Lie Setiawan
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/81-whirlwind-denial--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/e/9e127856-bedd-40a9-9e8e-d1f9fbefe07d.jpg?1581479658
-flavor_text: \"No, no, and ... no.\"
+flavor_text: "\"No, no, and ... no.\""
 oracle_text: For each spell and ability your opponents control, counter it unless its controller pays {4}.
 image_width: 745
 image_height: 1040

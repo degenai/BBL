@@ -49,7 +49,7 @@ setting: other
 artist: Heonhwa
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/52-flux-channeler--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/6/c6202e82-e159-482f-9224-292cb533171c.jpg?1557576219
-flavor_text: \"Inform our allies in the Tenth and throw the circuit. It's about to get weird.\"
+flavor_text: "\"Inform our allies in the Tenth and throw the circuit. It's about to get weird.\""
 oracle_text: Whenever you cast a noncreature spell, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 mana_cost: "{2}{U}"
 image_width: 745

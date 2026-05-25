@@ -50,7 +50,7 @@ setting: void
 artist: Zoltan Boros
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/144-nyxborn-brute--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/5/05bc4236-566f-401b-b9d7-f58126fa228b.jpg?1581480309
-flavor_text: \"One-eyed and frightful, the cyclops\nlifted a boulder and hurled it\nseaward from cliff's edge, shattering\nmasts and scattering sailors.\"\n—*The Callapheia*
+flavor_text: "\"One-eyed and frightful, the cyclops\nlifted a boulder and hurled it\nseaward from cliff's edge, shattering\nmasts and scattering sailors.\"\n—*The Callapheia*"
 mana_cost: "{3}{R}{R}"
 tags:
   - card

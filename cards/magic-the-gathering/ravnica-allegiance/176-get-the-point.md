@@ -42,7 +42,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/8/2/821c4ab5-eb7
 artist: Steve Argyle
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/176-get-the-point--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/2/821c4ab5-eb75-445a-bbec-e50af54dba7a.jpg?1584831541
-flavor_text: \"Vraska sees the grandeur in death but misses the hilarity.\"\n—Judith
+flavor_text: "\"Vraska sees the grandeur in death but misses the hilarity.\"\n—Judith"
 oracle_text: Destroy target creature. Scry 1.
 image_width: 745
 image_height: 1040

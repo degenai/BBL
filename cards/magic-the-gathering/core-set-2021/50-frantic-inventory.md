@@ -49,7 +49,7 @@ setting: indoor
 artist: Aaron Miller
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/50-frantic-inventory--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/f/8f14abb0-0e9f-448e-85d7-6cb71f756c56.jpg?1594735485
-flavor_text: \"Another village, another angry mob. Why do I even bother unpacking?\"
+flavor_text: "\"Another village, another angry mob. Why do I even bother unpacking?\""
 oracle_text: Draw a card, then draw cards equal to the number of cards named Frantic Inventory in your graveyard.
 mana_cost: "{1}{U}"
 image_width: 745

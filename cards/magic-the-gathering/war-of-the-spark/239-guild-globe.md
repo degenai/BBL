@@ -48,7 +48,7 @@ setting: void
 artist: Daniel Ljunggren
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/239-guild-globe--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/7/a7faf99e-f61f-46cb-a275-2e12c41f1e31.jpg?1557577419
-flavor_text: \"Hopefully Ravnica will prove harder to break.\"\n—Karn
+flavor_text: "\"Hopefully Ravnica will prove harder to break.\"\n—Karn"
 oracle_text: "When this artifact enters, draw a card.\\n{2}, {T}, Sacrifice this artifact: Add two mana of different colors."
 mana_cost: "{2}"
 image_width: 745

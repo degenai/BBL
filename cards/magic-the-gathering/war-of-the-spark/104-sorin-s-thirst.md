@@ -48,7 +48,7 @@ setting: void
 artist: Daarken
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/104-sorin-s-thirst--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/0/50eecfc2-452d-461c-a37c-8aa10183e5a0.jpg?1557576550
-flavor_text: \"I see you're out of the wall.\"\n—Nahiri
+flavor_text: "\"I see you're out of the wall.\"\n—Nahiri"
 oracle_text: Sorin's Thirst deals 2 damage to target creature and you gain 2 life.
 mana_cost: "{B}{B}"
 image_width: 745

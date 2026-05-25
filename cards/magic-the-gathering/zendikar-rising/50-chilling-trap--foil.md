@@ -49,7 +49,7 @@ setting: other
 artist: Johann Bodin
 art_crop_image: cards/_images/magic-the-gathering/zendikar-rising/50-chilling-trap--foil--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/60f9adfd-a940-4d62-894b-84f17c693a10.jpg?1604193730
-flavor_text: \"Serves you right for rushing ahead.\"\n—Kaliea, Sea Gate trapfinder
+flavor_text: "\"Serves you right for rushing ahead.\"\n—Kaliea, Sea Gate trapfinder"
 oracle_text: Target creature gets -4/-0 until end of turn. If you control a Wizard, draw a card.
 mana_cost: "{U}"
 tags:

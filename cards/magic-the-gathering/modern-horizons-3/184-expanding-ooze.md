@@ -47,7 +47,7 @@ needs_manual_review: false
 artist: Randy Gallegos
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/184-expanding-ooze--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/b/bbdb095d-b826-4e3e-8c61-0d408e52d6b8.jpg?1717012693
-flavor_text: \"It eats the royal garbage. Of course it's growing!\"\n—Prince Bolbuss
+flavor_text: "\"It eats the royal garbage. Of course it's growing!\"\n—Prince Bolbuss"
 oracle_text: "{B}{G}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)\\nWhenever this creature attacks, put a +1/+1 counter on target modified creature you control. (Equipment, Auras you control, and counters are modifications.)"
 mood: horror
 time_of_day: day

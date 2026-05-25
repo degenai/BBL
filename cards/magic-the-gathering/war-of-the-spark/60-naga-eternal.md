@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Johann Bodin
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/60-naga-eternal--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/f/0f244233-f2e8-48f8-9106-e7cd186efd51.jpg?1557576268
-flavor_text: \"I recognize that headdress. This one was feared even by her fellow initiates.\"\n—Samut
+flavor_text: "\"I recognize that headdress. This one was feared even by her fellow initiates.\"\n—Samut"
 image_width: 745
 image_height: 1040
 image_quality: high

@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Svetlin Velinov
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/82-witness-of-tomorrows--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/4/64cd9d60-826c-4b35-9684-dccb0880399e.jpg?1581479667
-flavor_text: \"As the future slips its way into the present, it ceases to be my concern.\"
+flavor_text: "\"As the future slips its way into the present, it ceases to be my concern.\""
 oracle_text: "Flying\\n{3}{U}: Scry 1."
 image_width: 745
 image_height: 1040

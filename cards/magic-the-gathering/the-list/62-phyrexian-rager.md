@@ -52,7 +52,7 @@ the_list_source_set: CMA
 artist: Stephan Martiniere
 art_crop_image: cards/_images/magic-the-gathering/the-list/62-phyrexian-rager--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/8/a87aa7f3-9582-4499-a1ec-d5385ffd94ed.jpg?1573510197
-flavor_text: \"I believe many worlds will bow to Phyrexia. Mirrodin is merely the first.\"\n—Sheoldred, Whispering One
+flavor_text: "\"I believe many worlds will bow to Phyrexia. Mirrodin is merely the first.\"\n—Sheoldred, Whispering One"
 oracle_text: When this creature enters, you draw a card and you lose 1 life.
 mana_cost: "{2}{B}"
 tags:

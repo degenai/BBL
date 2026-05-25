@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Seb McKinnon
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/189-deathsprout--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/d/6d615557-aea8-4057-9fbd-d62dd98edc13.jpg?1557577090
-flavor_text: \"They say nothing lasts forever. I say everything lasts forever, just not in the form you may be accustomed to.\"\n—Vraska
+flavor_text: "\"They say nothing lasts forever. I say everything lasts forever, just not in the form you may be accustomed to.\"\n—Vraska"
 oracle_text: Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 image_width: 745
 image_height: 1040

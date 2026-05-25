@@ -48,7 +48,7 @@ setting: indoor
 artist: Jason Rainville
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/110-vampire-opportunist--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/8/a8cf21a4-616d-48a5-a104-180c24491761.jpg?1557576586
-flavor_text: \"I think I cracked a fang.\"
+flavor_text: "\"I think I cracked a fang.\""
 oracle_text: "{6}{B}: Each opponent loses 2 life and you gain 2 life."
 mana_cost: "{1}{B}"
 image_width: 745

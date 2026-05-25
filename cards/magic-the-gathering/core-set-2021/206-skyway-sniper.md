@@ -49,7 +49,7 @@ setting: forest
 artist: Even Amundsen
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/206-skyway-sniper--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/7/1776f5b4-1292-460f-9719-e1b603cee46c.jpg?1594737232
-flavor_text: \"No sight is more beautiful than a clear sky.\"
+flavor_text: "\"No sight is more beautiful than a clear sky.\""
 oracle_text: "Reach (This creature can block creatures with flying.)\\n{2}{G}: This creature deals 1 damage to target creature with flying."
 mana_cost: "{G}"
 image_width: 745

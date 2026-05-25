@@ -53,7 +53,7 @@ setting: other
 artist: Volkan Baǵa
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/236-orzhov-locket--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/6/761e7188-bad1-4775-84a2-15da9a42a57c.jpg?1584832140
-flavor_text: \"It looks expensive, doesn't it? You have no idea...\"\n—Milana, Orzhov prelate
+flavor_text: "\"It looks expensive, doesn't it? You have no idea...\"\n—Milana, Orzhov prelate"
 oracle_text: "{T}: Add {W} or {B}.\\n{W/B}{W/B}{W/B}{W/B}, {T}, Sacrifice this artifact: Draw two cards."
 mana_cost: "{3}"
 image_width: 745

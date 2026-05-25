@@ -48,7 +48,7 @@ setting: other
 artist: Victor Adame Minguez
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/23-outflank--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/6/663e0208-81c3-4a76-bcc2-bc59cf8ca649.jpg?1572489739
-flavor_text: \"With the drum of hooves and a flash of blades, the monster's terrifying roar changed to a cry of fear.\"\n—*Legend of the Gilded Knights*
+flavor_text: "\"With the drum of hooves and a flash of blades, the monster's terrifying roar changed to a cry of fear.\"\n—*Legend of the Gilded Knights*"
 oracle_text: Outflank deals damage to target attacking or blocking creature equal to the number of creatures you control.
 mana_cost: "{W}"
 image_width: 745

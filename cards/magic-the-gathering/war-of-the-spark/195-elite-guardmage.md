@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: PINDURSKI
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/195-elite-guardmage--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/2/d2e40b14-48a2-4b9e-b767-e914cab04b30.jpg?1610393866
-flavor_text: \"Be careful. You'll have more than Dovin to contend with if you hope to breach New Prahv.\"\n—Lavinia, to Chandra Nalaar
+flavor_text: "\"Be careful. You'll have more than Dovin to contend with if you hope to breach New Prahv.\"\n—Lavinia, to Chandra Nalaar"
 oracle_text: Flying\nWhen this creature enters, you gain 3 life and draw a card.
 image_width: 745
 image_height: 1040

@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: Piotr Dura
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/103-shriekdiver--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/a/0a1c3148-7a6f-4963-af0b-18d9a156bf22.jpg?1557576544
-flavor_text: \"It's faster than we are. Draw its attention while the Ledev take aim!\"\n—Shauntal, Boros legionnaire
+flavor_text: "\"It's faster than we are. Draw its attention while the Ledev take aim!\"\n—Shauntal, Boros legionnaire"
 oracle_text: "Flying\\n{1}: This creature gains haste until end of turn."
 mana_cost: "{2}{B}"
 image_width: 745

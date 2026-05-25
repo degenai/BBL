@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Aaron Miller
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/40-ondu-greathorn--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/5/95d9668e-05dc-41c4-9326-ef4c0e15dd80.jpg?1562930312
-flavor_text: \"May your horns get lodged in an Eldrazi's bony face, ornery brute!\"\n—Bruse Tarl, Goma Fada nomad
+flavor_text: "\"May your horns get lodged in an Eldrazi's bony face, ornery brute!\"\n—Bruse Tarl, Goma Fada nomad"
 oracle_text: First strike\nLandfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn.
 mood: action
 time_of_day: twilight

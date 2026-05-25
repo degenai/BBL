@@ -40,7 +40,7 @@ needs_manual_review: false
 artist: Zoltan Boros & Gabor Szikszai
 art_crop_image: cards/_images/magic-the-gathering/alara-reborn/84-vectis-dominator--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/c/1cfb7589-a53e-4580-bd92-641fd4785934.jpg?1562640010
-flavor_text: \"I appreciate the artistry of the telemins, but the creatures of the other worlds provide a much more dramatic performance.\"\n—Ennor, mentalist
+flavor_text: "\"I appreciate the artistry of the telemins, but the creatures of the other worlds provide a much more dramatic performance.\"\n—Ennor, mentalist"
 oracle_text: "{T}: Tap target creature unless its controller pays 2 life."
 mana_cost: "{1}{W}{B}"
 image_width: 745

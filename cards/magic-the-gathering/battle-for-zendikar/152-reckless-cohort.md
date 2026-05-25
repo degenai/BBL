@@ -43,7 +43,7 @@ characters:
   - zendikari-resistance
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/152-reckless-cohort--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/7/77a4cdec-e5fc-4ea8-a7bc-f1109fadae3c.jpg?1562923276
-flavor_text: \"You have a family. Mine died at Sea Gate. You go to yours, and I'll go to mine.\"
+flavor_text: "\"You have a family. Mine died at Sea Gate. You go to yours, and I'll go to mine.\""
 oracle_text: This creature attacks each combat if able unless you control another Ally.
 image_width: 745
 image_height: 1040

@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: Seb McKinnon
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/177-grasping-thrull--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/6/56f82d97-ce50-490c-ad7f-46d70a73e454.jpg?1584831549
-flavor_text: \"Debt due! Debt due!\" The thrull's screeching makes children flinch and debtors quail. \"Debt due!\"
+flavor_text: "\"Debt due! Debt due!\" The thrull's screeching makes children flinch and debtors quail. \"Debt due!\""
 oracle_text: Flying\nWhen this creature enters, it deals 2 damage to each opponent and you gain 2 life.
 image_width: 745
 image_height: 1040

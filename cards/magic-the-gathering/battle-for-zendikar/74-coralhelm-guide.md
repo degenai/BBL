@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Viktor Titov
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/74-coralhelm-guide--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/3/33787a5b-d1d1-4d60-ba09-d9c98025e9b3.jpg?1562907023
-flavor_text: \"She knows every step of this coastline, both above and below the surface, and she has hideouts all along the way. She will get you there.\"\n—Jori En, expedition leader
+flavor_text: "\"She knows every step of this coastline, both above and below the surface, and she has hideouts all along the way. She will get you there.\"\n—Jori En, expedition leader"
 oracle_text: "{4}{U}: Target creature can't be blocked this turn."
 mana_cost: "{1}{U}"
 image_width: 745

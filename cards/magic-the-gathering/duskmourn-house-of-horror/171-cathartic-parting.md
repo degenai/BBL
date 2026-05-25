@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Miranda Meeks
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/171-cathartic-parting--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/a/6afc250a-854d-4555-ba78-db9283fa7c22.jpg?1726286497
-flavor_text: \"We got more than most people do. We got the chance to say goodbye.\"
+flavor_text: "\"We got more than most people do. We got the chance to say goodbye.\""
 oracle_text: The owner of target artifact or enchantment an opponent controls shuffles it into their library. You may shuffle up to four target cards from your graveyard into your library.
 image_width: 745
 image_height: 1040

@@ -50,7 +50,7 @@ the_list_source_set: E02
 artist: Zoltan Boros
 art_crop_image: cards/_images/magic-the-gathering/the-list/31-borderland-ranger--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/5/d5b9689f-e146-4b00-bcad-10e4112109a5.jpg?1573513209
-flavor_text: \"There's only one route from Kessig into Stensia. Unless you come with me.\"
+flavor_text: "\"There's only one route from Kessig into Stensia. Unless you come with me.\""
 oracle_text: When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 mana_cost: "{2}{G}"
 image_width: 745

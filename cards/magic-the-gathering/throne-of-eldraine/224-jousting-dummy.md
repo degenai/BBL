@@ -49,7 +49,7 @@ setting: other
 artist: Milivoj Ćeran
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/224-jousting-dummy--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/6/f6601056-af08-4239-97d5-5e11597fce18.jpg?1572491020
-flavor_text: \"Don't let it fool you. Many of us got our first scars from Syr Nobody.\"\n—Syr Layne, knight of Embereth
+flavor_text: "\"Don't let it fool you. Many of us got our first scars from Syr Nobody.\"\n—Syr Layne, knight of Embereth"
 oracle_text: "{3}: This creature gets +1/+0 until end of turn."
 mana_cost: "{2}"
 image_width: 745

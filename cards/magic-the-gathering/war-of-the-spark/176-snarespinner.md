@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Yeong-Hao Han
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/176-snarespinner--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/8/48a0fcc5-57d3-43ab-9e3d-0e015792239a.jpg?1680225495
-flavor_text: \"Let's lure the drakes to the webs over the Samok Stand. Keep the spiders content.\"\n—Aurelia
+flavor_text: "\"Let's lure the drakes to the webs over the Samok Stand. Keep the spiders content.\"\n—Aurelia"
 oracle_text: Reach\nWhenever this creature blocks a creature with flying, this creature gets +2/+0 until end of turn.
 mana_cost: "{1}{G}"
 image_width: 745

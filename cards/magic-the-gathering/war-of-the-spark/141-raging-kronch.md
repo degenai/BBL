@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Steve Prescott
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/141-raging-kronch--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/e/ae38aa2d-6c0e-409a-bfc7-ed4281457670.jpg?1557576793
-flavor_text: \"Seeing so much easy prey makes her crazy. See how she snorts and drools?\"\n—Dhuuz, kronch wrangler
+flavor_text: "\"Seeing so much easy prey makes her crazy. See how she snorts and drools?\"\n—Dhuuz, kronch wrangler"
 oracle_text: This creature can't attack alone.
 mana_cost: "{2}{R}"
 image_width: 745

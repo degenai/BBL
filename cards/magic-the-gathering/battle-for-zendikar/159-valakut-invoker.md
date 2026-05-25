@@ -41,7 +41,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/1/7/178c66b8-c57
 artist: Joseph Meehan
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/159-valakut-invoker--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/7/178c66b8-c577-49c6-9efc-7bab740e66b6.jpg?1562900685
-flavor_text: \"As long as we have walked this world, we have known it as a harsh and unforgiving place.\"\n—*The Invokers' Tales*
+flavor_text: "\"As long as we have walked this world, we have known it as a harsh and unforgiving place.\"\n—*The Invokers' Tales*"
 oracle_text: "{8}: This creature deals 3 damage to any target."
 image_width: 745
 image_height: 1040

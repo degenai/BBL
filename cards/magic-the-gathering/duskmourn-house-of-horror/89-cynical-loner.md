@@ -46,7 +46,7 @@ needs_manual_review: false
 artist: Miranda Meeks
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/89-cynical-loner--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/c/cc93bcb8-778d-491e-877b-e6ad432764cb.jpg?1726286181
-flavor_text: \"Thanks, but no thanks. I'm done with hope.\"
+flavor_text: "\"Thanks, but no thanks. I'm done with hope.\""
 oracle_text: This creature can't be blocked by Glimmers.\nSurvival — At the beginning of your second main phase, if this creature is tapped, you may search your library for a card, put it into your graveyard, then shuffle.
 image_width: 745
 image_height: 1040

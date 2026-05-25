@@ -49,7 +49,7 @@ setting: forest
 artist: Even Amundsen
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/154-bloom-hulk--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/d/fd1c9129-254d-4d1d-9d95-112292bd6bcc.jpg?1557576871
-flavor_text: \"Tread upon these flower beds at your own peril.\"\n—Emmara
+flavor_text: "\"Tread upon these flower beds at your own peril.\"\n—Emmara"
 oracle_text: When this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 mana_cost: "{3}{G}"
 image_width: 745

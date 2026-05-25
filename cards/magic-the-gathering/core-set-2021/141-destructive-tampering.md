@@ -49,7 +49,7 @@ setting: other
 artist: Titus Lunter
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/141-destructive-tampering--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/f/bfe6a3a9-8d62-47c4-a78b-9baa9133a540.jpg?1594736589
-flavor_text: \"I don't think they'll appreciate my . . . adjustments.\"\n—Karavin, renegade saboteur
+flavor_text: "\"I don't think they'll appreciate my . . . adjustments.\"\n—Karavin, renegade saboteur"
 oracle_text: Choose one —\n• Destroy target artifact.\n• Creatures without flying can't block this turn.
 mana_cost: "{2}{R}"
 image_width: 745

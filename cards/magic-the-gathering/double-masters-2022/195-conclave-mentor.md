@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Raoul Vitale
 art_crop_image: cards/_images/magic-the-gathering/double-masters-2022/195-conclave-mentor--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/e/2e2d72f6-bde3-49fb-976e-2d0c4dce60e3.jpg?1673148469
-flavor_text: \"I have faith in your potential.\"
+flavor_text: "\"I have faith in your potential.\""
 oracle_text: If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on that creature instead.\nWhen this creature dies, you gain life equal to its power.
 mana_cost: "{G}{W}"
 image_width: 745

@@ -41,7 +41,7 @@ characters:
   - foundway-associates
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/129-gearbane-orangutan--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/9/6900a344-a155-4ee1-a3ac-d6c28e024270.jpg?1706241871
-flavor_text: \"In her defense, thopters are very fun to smash.\"\n—Udol of the Foundway Associates
+flavor_text: "\"In her defense, thopters are very fun to smash.\"\n—Udol of the Foundway Associates"
 oracle_text: Reach\nWhen this creature enters, choose one —\n• Destroy up to one target artifact.\n• Sacrifice an artifact. If you do, put two +1/+1 counters on this creature.
 image_width: 745
 image_height: 1040

@@ -29,7 +29,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/7/674e408b-f05
 artist: Jehan Choo
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/134-invading-manticore--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/7/674e408b-f052-451c-9bf9-ac6f98753a9d.jpg?1557576743
-flavor_text: \"Fall back! You are no match for this.\"\n—Samut
+flavor_text: "\"Fall back! You are no match for this.\"\n—Samut"
 oracle_text: When this creature enters, amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)
 image_width: 745
 image_height: 1040

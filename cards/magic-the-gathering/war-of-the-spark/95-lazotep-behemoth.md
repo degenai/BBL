@@ -29,7 +29,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/4/b4be6f22-e9e
 artist: Zezhou Chen
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/95-lazotep-behemoth--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/4/b4be6f22-e9e8-462a-956b-e1c78bbadacc.jpg?1557576497
-flavor_text: \"I know I should be more concerned. But a big, blue zombie-potamus from beyond the stars? This is what they're invading us with?\"\n—Mileva, Boros legionnaire
+flavor_text: "\"I know I should be more concerned. But a big, blue zombie-potamus from beyond the stars? This is what they're invading us with?\"\n—Mileva, Boros legionnaire"
 image_width: 745
 image_height: 1040
 image_quality: high

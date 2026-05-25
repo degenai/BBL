@@ -44,7 +44,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/a/babcfccf-83d
 artist: Eric Deschamps
 art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/125-act-of-treason--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/a/babcfccf-83db-40e7-8a2c-f77358ba3cc0.jpg?1562834378
-flavor_text: \"Rage courses in every heart, yearning to betray its rational prison.\"\n—Sarkhan Vol
+flavor_text: "\"Rage courses in every heart, yearning to betray its rational prison.\"\n—Sarkhan Vol"
 oracle_text: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
 image_width: 745
 image_height: 1040

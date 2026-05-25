@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Winona Nelson
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/28-mighty-leap--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/e/4e25089b-5a5f-4cb5-9261-be6cb6b45b22.jpg?1562910799
-flavor_text: \"We may have lost faith in our gods, but we are far from losing faith in ourselves.\"\n—Munda, ambush leader
+flavor_text: "\"We may have lost faith in our gods, but we are far from losing faith in ourselves.\"\n—Munda, ambush leader"
 oracle_text: Target creature gets +2/+2 and gains flying until end of turn.
 image_width: 745
 image_height: 1040

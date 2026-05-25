@@ -50,7 +50,7 @@ setting: void
 artist: Scott Murphy
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/209-sphinx-s-insight--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/7/d71c2435-0312-4279-a9e1-fab7432756b7.jpg?1584831877
-flavor_text: \"Do not think me blind to your true mission...or your true master, Grand Arbiter.\"
+flavor_text: "\"Do not think me blind to your true mission...or your true master, Grand Arbiter.\""
 oracle_text: Draw two cards.\nAddendum — If you cast this spell during your main phase, you gain 2 life.
 mana_cost: "{2}{W}{U}"
 image_width: 745

@@ -50,7 +50,7 @@ setting: mountain
 artist: Billy Christian
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/18-falconer-adept--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/b/fb4733e6-6fe2-4460-ac9f-82feb583d790.jpg?1594734928
-flavor_text: \"My falcons are family, as much as any other member of my clan.\"
+flavor_text: "\"My falcons are family, as much as any other member of my clan.\""
 oracle_text: Whenever this creature attacks, create a 1/1 white Bird creature token with flying that's tapped and attacking.
 mana_cost: "{3}{W}"
 image_width: 745

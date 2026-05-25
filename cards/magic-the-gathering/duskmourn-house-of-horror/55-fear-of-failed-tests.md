@@ -45,7 +45,7 @@ needs_manual_review: false
 artist: Jana Heidersdorf
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/55-fear-of-failed-tests--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/8/a87c39df-7636-454b-8485-a1cc9362fd84.jpg?1726286059
-flavor_text: \"W-wait! What do you mean this quiz determines half our grade?\"\n—Zimone, muttering in her sleep
+flavor_text: "\"W-wait! What do you mean this quiz determines half our grade?\"\n—Zimone, muttering in her sleep"
 oracle_text: Whenever this creature deals combat damage to a player, draw that many cards.
 mana_cost: "{4}{U}"
 mood: horror

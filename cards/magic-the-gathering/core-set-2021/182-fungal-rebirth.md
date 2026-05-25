@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Nicholas Gregory
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/182-fungal-rebirth--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/0/4037e3b2-cb62-4f88-943d-3edcd6827c23.jpg?1594736973
-flavor_text: \"We're all food for something in the end.\"\n—Cevraya, Golgari shaman
+flavor_text: "\"We're all food for something in the end.\"\n—Cevraya, Golgari shaman"
 oracle_text: Return target permanent card from your graveyard to your hand. If a creature died this turn, create two 1/1 green Saproling creature tokens.
 mana_cost: "{2}{G}"
 image_width: 745

@@ -47,7 +47,7 @@ needs_manual_review: false
 artist: Michele Giorgi
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/58-roadside-blowout--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d6153a76-56f7-46ee-bba5-b62c0143388a.jpg?1738356242
-flavor_text: \"In cases of extreme emergency, just wing it.\"\n—Rocketeer safety manual, full text
+flavor_text: "\"In cases of extreme emergency, just wing it.\"\n—Rocketeer safety manual, full text"
 oracle_text: This spell costs {2} less to cast if it targets a permanent with mana value 1.\nReturn target creature or Vehicle an opponent controls to its owner's hand.\nDraw a card.
 mood: action
 time_of_day: magic-hour

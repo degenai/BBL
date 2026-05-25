@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Titus Lunter
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/243-azorius-guildgate-243--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/3/93cf5412-c711-41b4-ab3b-7788a0a22228.jpg?1584832215
-flavor_text: \"If the populace fears our authority, then I'd say we have an appropriately sensible populace.\"\n—Dovin Baan
+flavor_text: "\"If the populace fears our authority, then I'd say we have an appropriately sensible populace.\"\n—Dovin Baan"
 oracle_text: "This land enters tapped.\\n{T}: Add {W} or {U}."
 image_width: 745
 image_height: 1040

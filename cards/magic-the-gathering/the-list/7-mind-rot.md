@@ -51,7 +51,7 @@ the_list_source_set: W16
 artist: Steve Luke
 art_crop_image: cards/_images/magic-the-gathering/the-list/7-mind-rot--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/8/284afe0e-0e0e-44eb-ad75-08d4b6fc338d.jpg?1573510052
-flavor_text: \"It saddens me to lose a source of inspiration. This one seemed especially promising.\"\n—Ashiok
+flavor_text: "\"It saddens me to lose a source of inspiration. This one seemed especially promising.\"\n—Ashiok"
 oracle_text: Target player discards two cards.
 mana_cost: "{2}{B}"
 image_width: 745

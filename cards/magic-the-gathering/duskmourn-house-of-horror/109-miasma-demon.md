@@ -39,7 +39,7 @@ needs_manual_review: false
 artist: Mathias Kollros
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/109-miasma-demon--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/d/6d167c00-75ff-4301-855a-8319b89e3689.jpg?1726286255
-flavor_text: \"Hush, little ants. I can rid you of your troubles with a breath. All I ask in return is a drop of blood... and a promise.\"
+flavor_text: "\"Hush, little ants. I can rid you of your troubles with a breath. All I ask in return is a drop of blood... and a promise.\""
 oracle_text: Flying\nWhen this creature enters, you may discard any number of cards. When you do, up to that many target creatures each get -2/-2 until end of turn.
 image_width: 745
 image_height: 1040

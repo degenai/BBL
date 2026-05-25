@@ -49,7 +49,7 @@ setting: other
 artist: David Gaillet
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/131-merchant-of-the-vale--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/b/0b4399b6-e67f-40d8-8676-f5db7e04a6c9.jpg?1572490397
-flavor_text: \"Buying old, worn-out junk. Selling marvels of real value.\"
+flavor_text: "\"Buying old, worn-out junk. Selling marvels of real value.\""
 mana_cost: "{2}{R} // {R}"
 image_width: 745
 image_height: 1040

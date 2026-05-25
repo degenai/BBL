@@ -51,7 +51,7 @@ the_list_source_set: A25
 artist: Anastasia Ovchinnikova
 art_crop_image: cards/_images/magic-the-gathering/the-list/24-lunarch-mantle--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/6/b6eb3c20-e853-4399-a107-c3308b2e5d4e.jpg?1573505941
-flavor_text: \"A boon from the angels should never be cast aside.\"\n—Manfried Ulmach, Chief Inquisitor
+flavor_text: "\"A boon from the angels should never be cast aside.\"\n—Manfried Ulmach, Chief Inquisitor"
 oracle_text: "Enchant creature\\nEnchanted creature gets +2/+2 and has \\\"{1}, Sacrifice a permanent: This creature gains flying until end of turn.\\\""
 mana_cost: "{1}{W}"
 image_width: 745

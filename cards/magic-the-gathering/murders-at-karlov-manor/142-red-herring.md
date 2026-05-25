@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: Iris Compiet
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/142-red-herring--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/c/6c137a44-9ab6-4e59-8324-34d9dca8f5a6.jpg?1708201632
-flavor_text: \"Thopters are but one option in our suite of autonomous surveillance solutions.\"\n—Kylox
+flavor_text: "\"Thopters are but one option in our suite of autonomous surveillance solutions.\"\n—Kylox"
 oracle_text: "Haste\\nThis creature attacks each combat if able.\\n{2}, Sacrifice this creature: Draw a card."
 image_width: 745
 image_height: 1040

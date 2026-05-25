@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Kieran Yanner
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/21-courier-griffin--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/4/d/4d3afc71-f5db-45c3-96b2-8454b7f33542.jpg?1562913062
-flavor_text: \"Sea Gate has fallen. Survivors are on the move. Will send another griffin when we find refuge. Stay hidden. Stay safe.\"\n—Message from Tars Olan, kor world-gift
+flavor_text: "\"Sea Gate has fallen. Survivors are on the move. Will send another griffin when we find refuge. Stay hidden. Stay safe.\"\n—Message from Tars Olan, kor world-gift"
 oracle_text: Flying\nWhen this creature enters, you gain 2 life.
 mood: sublime
 time_of_day: sunset

@@ -44,7 +44,7 @@ symbols:
   - suspect
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/115-caught-red-handed--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/5/95bc5f89-2f01-40c4-9883-4c90ab89fcbb.jpg?1706241833
-flavor_text: \"Wait, stop! I've been framed! Extremely convincingly!\"
+flavor_text: "\"Wait, stop! I've been framed! Extremely convincingly!\""
 oracle_text: This spell can't be countered. (This includes by the ward ability.)\nGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Suspect it. (It has menace and can't block.)
 mood: comedic
 time_of_day: indeterminate

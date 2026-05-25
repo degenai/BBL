@@ -48,7 +48,7 @@ the_list_source_set: DDO
 artist: Jason Felix
 art_crop_image: cards/_images/magic-the-gathering/the-list/40-peel-from-reality--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d600d048-92ee-45f8-9db3-2fb8fc9cd879.jpg?1573508090
-flavor_text: \"Soulless demon, you are bound to me. Now we will both dwell in oblivion.\"
+flavor_text: "\"Soulless demon, you are bound to me. Now we will both dwell in oblivion.\""
 oracle_text: Return target creature you control and target creature you don't control to their owners' hands.
 mana_cost: "{1}{U}"
 image_width: 745

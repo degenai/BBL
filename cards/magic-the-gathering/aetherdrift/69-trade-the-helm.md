@@ -45,7 +45,7 @@ needs_manual_review: false
 artist: Lius Lasahido
 art_crop_image: cards/_images/magic-the-gathering/aetherdrift/69-trade-the-helm--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/b/eb0b5c09-6c21-4080-81c4-a8376deb729f.jpg?1738356269
-flavor_text: \"This looks like a winning vehicle. But you lot ain't a winning team.\"
+flavor_text: "\"This looks like a winning vehicle. But you lot ain't a winning team.\""
 oracle_text: "Exchange control of target artifact or creature you control and target artifact or creature an opponent controls.\\nCycling {2} ({2}, Discard this card: Draw a card.)"
 mood: action
 time_of_day: indeterminate

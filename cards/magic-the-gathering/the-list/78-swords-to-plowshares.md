@@ -50,7 +50,7 @@ the_list_source_set: VOC
 artist: Jesper Ejsing
 art_crop_image: cards/_images/magic-the-gathering/the-list/78-swords-to-plowshares--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/2/5287cab9-29f3-4516-b1f0-57ff6ebe889a.jpg?1693264063
-flavor_text: \"The arc of my blade has carved a path of light for the peace that will follow.\"
+flavor_text: "\"The arc of my blade has carved a path of light for the peace that will follow.\""
 oracle_text: Exile target creature. Its controller gains life equal to its power.
 mana_cost: "{W}"
 image_width: 745

@@ -43,7 +43,7 @@ needs_manual_review: false
 artist: Karl Kopinski
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/175-trickster-s-elk--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/1/812af562-853a-48a3-b428-ad891c54be5c.jpg?1717012625
-flavor_text: \"Wait. Is *that* one Dad?\"\n—Rowan Kenrith, to Will
+flavor_text: "\"Wait. Is *that* one Dad?\"\n—Rowan Kenrith, to Will"
 oracle_text: Bestow {1}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nEnchanted creature loses all abilities and is a green Elk creature with base power and toughness 3/3.
 image_width: 745
 image_height: 1040

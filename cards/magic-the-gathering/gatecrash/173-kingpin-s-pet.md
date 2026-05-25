@@ -46,7 +46,7 @@ characters:
   - orzhov-syndicate
 art_crop_image: cards/_images/magic-the-gathering/gatecrash/173-kingpin-s-pet--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/4/3465cf63-4f10-4b53-9703-69746364dbc7.jpg?1561822414
-flavor_text: \"Debt and death sound so similar, and thrulls are so hard of hearing. Mistakes are inevitable.\"\n—Milana, Orzhov prelate
+flavor_text: "\"Debt and death sound so similar, and thrulls are so hard of hearing. Mistakes are inevitable.\"\n—Milana, Orzhov prelate"
 oracle_text: Flying\nExtort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)
 image_width: 745
 image_height: 1040

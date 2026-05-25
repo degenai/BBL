@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: John Avon
 art_crop_image: cards/_images/magic-the-gathering/eternal-masters/68-quiet-speculation--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/d/cd12fd06-26c5-42d8-936c-fe10b778a561.jpg?1580014091
-flavor_text: \"The best foresight is hindsight.\"\n—Empress Llawan
+flavor_text: "\"The best foresight is hindsight.\"\n—Empress Llawan"
 oracle_text: Search target player's library for up to three cards with flashback and put them into that player's graveyard. Then the player shuffles.
 mana_cost: "{1}{U}"
 image_width: 745

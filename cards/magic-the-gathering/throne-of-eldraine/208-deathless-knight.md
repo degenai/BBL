@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Igor Kieryluk
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/208-deathless-knight--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/9/39c6e952-97b5-435c-a7fd-6271ddc23200.jpg?1572490881
-flavor_text: \"Headed to the wilds? Beware the dead riders who serve the Shadow Queen.\"\n—Scalan, Edgewall innkeeper
+flavor_text: "\"Headed to the wilds? Beware the dead riders who serve the Shadow Queen.\"\n—Scalan, Edgewall innkeeper"
 oracle_text: Haste\nWhen you gain life for the first time each turn, return this card from your graveyard to your hand.
 mana_cost: "{B/G}{B/G}{B/G}{B/G}"
 image_width: 745

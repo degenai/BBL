@@ -47,7 +47,7 @@ needs_manual_review: true
 artist: Elizabeth Peiró
 art_crop_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/27-savior-of-the-small--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/2/e2ed31ea-c278-4e8c-afa7-6d09af399345.jpg?1726285957
-flavor_text: \"You're safe, kiddo! For at least the next ten minutes. That's about all I can promise.\"
+flavor_text: "\"You're safe, kiddo! For at least the next ten minutes. That's about all I can promise.\""
 oracle_text: Survival — At the beginning of your second main phase, if this creature is tapped, return target creature card with mana value 3 or less from your graveyard to your hand.
 image_width: 745
 image_height: 1040

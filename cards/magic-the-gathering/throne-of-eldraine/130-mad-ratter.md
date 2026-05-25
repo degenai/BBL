@@ -42,7 +42,7 @@ needs_manual_review: false
 artist: Johann Bodin
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/130-mad-ratter--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a4cabcc-fb29-4bf2-b5ba-32b8c96aefd6.jpg?1572490392
-flavor_text: \"Gather round and tell me all from the courts and castles.\"
+flavor_text: "\"Gather round and tell me all from the courts and castles.\""
 oracle_text: Whenever you draw your second card each turn, create two 1/1 black Rat creature tokens.
 image_width: 745
 image_height: 1040

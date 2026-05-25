@@ -49,7 +49,7 @@ setting: forest
 artist: Emrah Elmasli
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/6-captivating-unicorn--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/3/13893599-0b87-4fc0-863d-f3e0ae51cc31.jpg?1581478965
-flavor_text: \"Gazing at the unicorn, I felt closer to the majesty of Nyx than I ever had before.\"\n—Oineus, traveling merchant
+flavor_text: "\"Gazing at the unicorn, I felt closer to the majesty of Nyx than I ever had before.\"\n—Oineus, traveling merchant"
 oracle_text: Constellation — Whenever an enchantment you control enters, tap target creature an opponent controls.
 mana_cost: "{4}{W}"
 image_width: 745

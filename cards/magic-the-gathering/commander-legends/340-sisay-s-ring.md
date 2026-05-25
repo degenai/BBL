@@ -48,7 +48,7 @@ setting: indoor
 artist: Donato Giancola
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/340-sisay-s-ring--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/0/20c0e608-0208-408a-b473-1e54caa96cea.jpg?1608911699
-flavor_text: \"With this ring, you have friends in worlds you've never heard of.\"\n—Sisay, Captain of the *Weatherlight*
+flavor_text: "\"With this ring, you have friends in worlds you've never heard of.\"\n—Sisay, Captain of the *Weatherlight*"
 oracle_text: "{T}: Add {C}{C}."
 mana_cost: "{4}"
 tags:

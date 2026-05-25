@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Donato Giancola
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/150-heartfire-immolator--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/6/869fb9f1-0d59-4874-aa52-ac665c3cc0e8.jpg?1594736682
-flavor_text: \"I'd rather go out in a blaze of glory than fade away and be forgotten.\"
+flavor_text: "\"I'd rather go out in a blaze of glory than fade away and be forgotten.\""
 oracle_text: "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\\n{R}, Sacrifice this creature: It deals damage equal to its power to target creature or planeswalker."
 mana_cost: "{1}{R}"
 image_width: 745

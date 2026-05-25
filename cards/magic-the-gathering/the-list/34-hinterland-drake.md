@@ -50,7 +50,7 @@ the_list_source_set: AER
 artist: Lake Hurwitz
 art_crop_image: cards/_images/magic-the-gathering/the-list/34-hinterland-drake--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/f/cf393788-1465-4d3b-95a8-0fd08d7f12e2.jpg?1573507714
-flavor_text: \"As a kid, I dreamed of flying on those wild drakes. They inspired me to build wings of my own.\"\n—Nadja Cloudtoucher, aerowright
+flavor_text: "\"As a kid, I dreamed of flying on those wild drakes. They inspired me to build wings of my own.\"\n—Nadja Cloudtoucher, aerowright"
 oracle_text: Flying\nThis creature can't block artifact creatures.
 mana_cost: "{2}{U}"
 image_width: 745

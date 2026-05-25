@@ -44,7 +44,7 @@ needs_manual_review: false
 artist: Nereida
 art_crop_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/95-neutralize-the-guards--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/60f1a481-598e-4e05-8471-eedb12a39022.jpg?1712355617
-flavor_text: \"Don't bother getting up. I'll see myself in.\"
+flavor_text: "\"Don't bother getting up. I'll see myself in.\""
 oracle_text: Creatures target opponent controls get -1/-1 until end of turn. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 image_width: 745
 image_height: 1040

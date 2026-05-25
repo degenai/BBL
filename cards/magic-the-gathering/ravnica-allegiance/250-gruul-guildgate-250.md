@@ -49,7 +49,7 @@ setting: forest
 artist: Alexander Forssberg
 art_crop_image: cards/_images/magic-the-gathering/ravnica-allegiance/250-gruul-guildgate-250--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/3/33d10573-1695-4a73-b92d-d478572b85ec.jpg?1584832262
-flavor_text: \"Beyond this gate there are no citizens, only predators and prey.\"\n—Domri Rade
+flavor_text: "\"Beyond this gate there are no citizens, only predators and prey.\"\n—Domri Rade"
 oracle_text: "This land enters tapped.\\n{T}: Add {R} or {G}."
 image_width: 745
 image_height: 1040

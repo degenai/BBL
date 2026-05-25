@@ -40,7 +40,7 @@ needs_manual_review: false
 artist: Leonardo Santanna
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/143-rubblebelt-braggart--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/9/f90f8691-210a-4bf0-9fc2-fb2efcf057fb.jpg?1706241918
-flavor_text: \"I did it! Double—no, triple homicide! In a building I set on fire. Yep, all me.\"
+flavor_text: "\"I did it! Double—no, triple homicide! In a building I set on fire. Yep, all me.\""
 oracle_text: Whenever this creature attacks, if it's not suspected, you may suspect it. (A suspected creature has menace and can't block.)
 image_width: 745
 image_height: 1040

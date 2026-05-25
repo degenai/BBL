@@ -40,7 +40,7 @@ needs_manual_review: false
 artist: Igor Kieryluk
 art_crop_image: cards/_images/magic-the-gathering/theros/219-prowler-s-helm--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/1/c100a22c-bf34-42b7-9339-4733698c0935.jpg?1562829057
-flavor_text: \"The youths prattle on about heroic deeds, but avoiding the noose is a feat more daring than their entire careers.\"\n—Basarios the Blade
+flavor_text: "\"The youths prattle on about heroic deeds, but avoiding the noose is a feat more daring than their entire careers.\"\n—Basarios the Blade"
 oracle_text: Equipped creature can't be blocked except by Walls.\nEquip {2}
 image_width: 745
 image_height: 1040

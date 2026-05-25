@@ -48,7 +48,7 @@ setting: forest
 artist: Shreya Shetty
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/252-scrounging-bandar--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/2/02c8aab5-ed0d-489d-87af-7eb3193b75db.jpg?1608910887
-flavor_text: \"It was right here a second ago . . .\"
+flavor_text: "\"It was right here a second ago . . .\""
 oracle_text: This creature enters with two +1/+1 counters on it.\nAt the beginning of your upkeep, you may move any number of +1/+1 counters from this creature onto another target creature.
 mana_cost: "{1}{G}"
 image_width: 745

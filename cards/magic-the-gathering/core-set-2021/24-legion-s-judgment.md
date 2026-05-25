@@ -49,7 +49,7 @@ setting: other
 artist: Lucas Graciano
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/24-legion-s-judgment--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/0/3/032f6c5a-8d88-4a55-a54b-28df42d801e1.jpg?1594735024
-flavor_text: \"My lance was once wielded by Venerable Tarrian. In his name and by his might, I cast you down!\"
+flavor_text: "\"My lance was once wielded by Venerable Tarrian. In his name and by his might, I cast you down!\""
 oracle_text: Destroy target creature with power 4 or greater.
 mana_cost: "{2}{W}"
 image_width: 745

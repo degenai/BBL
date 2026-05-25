@@ -49,7 +49,7 @@ setting: forest
 artist: Anthony Palumbo
 art_crop_image: cards/_images/magic-the-gathering/commander-legends/224-entourage-of-trest--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/7/87e65427-1191-4f5a-b4ca-c383eecd274e.jpg?1608910615
-flavor_text: \"The dim resort to violence, for which the nimble prepare.\"\n—Leovold, emissary of Trest
+flavor_text: "\"The dim resort to violence, for which the nimble prepare.\"\n—Leovold, emissary of Trest"
 oracle_text: When this creature enters, you become the monarch.\nThis creature can block an additional creature each combat as long as you're the monarch.
 mana_cost: "{4}{G}"
 image_width: 745

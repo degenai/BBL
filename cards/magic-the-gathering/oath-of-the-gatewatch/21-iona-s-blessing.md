@@ -43,7 +43,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/a/3/a30f26f7-518
 artist: David Gaillet
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/21-iona-s-blessing--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/3/a30f26f7-5181-4bf1-9084-5563b4996a3c.jpg?1562927930
-flavor_text: \"Walk now in my light. When the rest of the world closes its eyes, you will still see.\"\n—Iona
+flavor_text: "\"Walk now in my light. When the rest of the world closes its eyes, you will still see.\"\n—Iona"
 oracle_text: Enchant creature\nEnchanted creature gets +2/+2, has vigilance, and can block an additional creature each combat.
 image_width: 745
 image_height: 1040

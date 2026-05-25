@@ -50,7 +50,7 @@ setting: forest
 artist: Chris Rallis
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/177-syr-faren-the-hengehammer--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/a/9a8b1fea-3c5d-43d2-b4d2-e8938f3f7b9c.jpg?1572490675
-flavor_text: \"Words are pointless. It's what you do with your hammer that counts.\"
+flavor_text: "\"Words are pointless. It's what you do with your hammer that counts.\""
 oracle_text: Whenever Syr Faren attacks, another target attacking creature gets +X/+X until end of turn, where X is Syr Faren's power.
 mana_cost: "{G}{G}"
 tags:

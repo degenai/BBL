@@ -41,7 +41,7 @@ needs_manual_review: false
 artist: Livia Prima
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/40-ashiok-s-skulker--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/d/7dd5b0a1-104d-4e0f-82de-65487fbf01ff.jpg?1557576137
-flavor_text: \"Fear writhes and whispers in the shadows of your mind. It is the enemy you always knew would come.\"\n—Ashiok
+flavor_text: "\"Fear writhes and whispers in the shadows of your mind. It is the enemy you always knew would come.\"\n—Ashiok"
 oracle_text: "{3}{U}: This creature can't be blocked this turn."
 image_width: 745
 image_height: 1040

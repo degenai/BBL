@@ -53,7 +53,7 @@ setting: other
 artist: Gabor Szikszai
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/15-defiant-strike--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/c/5c23869b-c99a-49dd-9e29-fcc0eb63fad1.jpg?1594734879
-flavor_text: \"My family was saved thanks to a single Boros soldier. It's why I joined the Legion. I will be the protector now.\"
+flavor_text: "\"My family was saved thanks to a single Boros soldier. It's why I joined the Legion. I will be the protector now.\""
 oracle_text: Target creature gets +1/+0 until end of turn.\nDraw a card.
 mana_cost: "{W}"
 image_width: 745

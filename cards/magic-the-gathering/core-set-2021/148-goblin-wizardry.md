@@ -24,7 +24,7 @@ needs_manual_review: false
 artist: Izzy
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/148-goblin-wizardry--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/7/d7ac8bdd-851f-449d-a108-70578eabf254.jpg?1594736662
-flavor_text: \"Quiet in the library\" soon gave way to larger concerns.
+flavor_text: "\"Quiet in the library\" soon gave way to larger concerns."
 oracle_text: Create two 1/1 red Goblin Wizard creature tokens with prowess. (Whenever you cast a noncreature spell, they get +1/+1 until end of turn.)
 mana_cost: "{3}{R}"
 image_width: 745
