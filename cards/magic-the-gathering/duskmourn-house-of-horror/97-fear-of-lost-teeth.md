@@ -89,3 +89,7 @@ A large fleshy creature with a wide-open tooth-filled jaw occupies the left side
 - Fear of Missing Out (Duskmourn: House of Horror) — red cycle sibling, cross-color cohort
 - Ancient Cellarspawn (Duskmourn: House of Horror Commander) — named cellarspawn creature from the same plane's lore
 - Bone Shards (Modern Horizons 2) — Pauper-playable {B} sacrifice-cost removal for mechanical comparison
+
+## Connections
+
+- [[fear-of-cycle]] — Fear of Lost Teeth is one of two black slots in DSK's 14-card "Fear of" designer-coordinated Nightmare cycle, personifying odontophobia and the universal teeth-crumbling anxiety dream as a {B} 1/1 Enchantment Creature — Nightmare. Flavor text "As it drew closer, Sam felt her own teeth wriggle in their sockets, as if they wanted to leap out and join the thing" extends the body-horror past the depicted victim to the reader's own teeth — the cycle's most contagious-feeling flavor moment. The wide-jawed scaly creature trailing a cloud of screaming ghost-faces above a fleeing spider-legged dental chair renders the phobia with the darkly absurdist domestic-object register the set deploys throughout (haunted appliances as horror).

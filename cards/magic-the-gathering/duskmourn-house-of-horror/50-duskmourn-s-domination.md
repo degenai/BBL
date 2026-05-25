@@ -90,3 +90,7 @@ A loose, painterly, almost graffiti-style composition rendered in heavy brushwor
 - Valgavoth, Terror Eater (Duskmourn: House of Horror) — the entity named in flavor text; rules the House and is the House
 - Valgavoth's Faithful (Duskmourn: House of Horror) — willing servants of Valgavoth; thematic contrast with the involuntary thralls this Aura creates
 - Control Magic (Revised Edition and reprints) — mechanical ancestor of the control-steal Aura archetype
+
+## Connections
+
+- [[valgavoth]] — direct flavor-text citation and mechanical embodiment. The printed flavor `"All who enter the House hear Valgavoth's whispers, worming through their consciousness until they can no longer resist his influence"` names the demon and pairs his signature whisper-influence mechanic with an Aura that mechanically does exactly that — you control the enchanted creature; it loses all abilities. Per the Planeswalker's Guide, Valgavoth tailors each horror to the individual victim's deepest fears, making the dominance flavored as personally targeted possession rather than generic mind-control. `[Scryfall flavor_text]` `[Wizards: Planeswalker's Guide to Duskmourn]` `[in-corpus _characters/valgavoth.md direct flavor-text citation roster]`

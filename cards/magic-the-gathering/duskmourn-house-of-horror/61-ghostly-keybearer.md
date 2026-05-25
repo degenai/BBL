@@ -91,3 +91,7 @@ A luminous, mist-shrouded scene rendered almost entirely in cold blue tones. The
 - Valgavoth, Terror Eater (DSK) — the demon whose consumption of the Vendrell house expanded it into a plane
 - Restless Ridgeline (DSK) — example Room card the Keybearer interacts with mechanically
 - Eerie Interference (DSK) — exemplifies the Eerie mechanic that shares trigger conditions with Room unlocking
+
+## Connections
+
+- [[valgavoth]] — set-context citation via the Vendrell-house-to-plane origin. The card's flavor names the "original Vendrell house" — the ordinary suburban home the demon consumed and grew into the plane-spanning labyrinth during the Ascension. The Keybearer's predicament (a vigil that was once finite, now made infinite by the House's endless expansion) is a direct rendering of Valgavoth's cosmological effect on every survivor and spectral remnant trapped inside; the Rooms mechanic itself is the design-layer expression of the demon's labyrinth-body. `[Wizards: Duskmourn: House of Horror Mechanics]` `[in-corpus _characters/valgavoth.md set-context citation roster]`

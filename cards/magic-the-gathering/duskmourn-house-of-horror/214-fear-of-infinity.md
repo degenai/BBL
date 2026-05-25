@@ -94,3 +94,7 @@ A large winged creature coils in an ouroboros-like ring formation on a dark ston
 - Fear of Isolation (DSK, no. 58) -- blue "Fear of" Nightmare, same cycle
 - Fear of Sleep Paralysis (DSC, no. 12) -- the one DSC-exclusive "Fear of" Nightmare; same type line, Commander supplement member
 - Valgavoth's Terrors (DSK) -- thematic companion to Fear of Infinity in the set's nightmare-creature space
+
+## Connections
+
+- [[fear-of-cycle]] — Fear of Infinity is the UB multicolor rare capstone of DSK's 14-card "Fear of" designer-coordinated Nightmare cycle, the cycle's sole multicolor slot and one of its three rares (alongside Fear of the Dark and Fear of Missing Out). Its Eerie trigger recurring it from the graveyard whenever an enchantment enters or a Room fully unlocks mechanically embodies the cycle's "unkillable nightmare" thesis — flavor text "There are some nightmares so terrible, you're never truly rid of them" reads as a load-bearing mission statement for the entire cycle. The ouroboros-coiled winged serpent ringing a cluster of skull-spirits renders the phobia of infinity / cosmic recurrence as a contained-but-endless loop.

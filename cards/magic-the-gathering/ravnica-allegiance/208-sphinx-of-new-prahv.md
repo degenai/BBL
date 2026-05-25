@@ -83,3 +83,6 @@ A majestic sphinx dominates the frame, wings spread in a heraldic flying pose. I
 **Iconography:** golden-emblem, winged-figure, crown
 **Genre cues:** fantasy, mythic, high-fantasy
 
+## Connections
+
+- [[azorius-senate]] — The card is named for New Prahv, the white-stone tower-complex that is the Senate's architectural seat — the columned hall framing the sphinx is the guildhall itself, not a generic temple. The flavor text (*"Azorius sphinxes are loyal to the precepts of the law, not to any particular guildmaster — even one of their own kind"*) is a canonical statement of the institution's self-understanding: process over personality, the office above the office-holder. Sphinx-jurists occupy the Senate's high-prestige judicial offices, and this card depicts that sub-faction in its institutional-judicial role rather than as a free-agent mythic creature.

@@ -88,3 +88,7 @@ A grotesque creature dominates the center of the image in mid-flight. Its body i
 - Mourning Thrull (Guildpact) — flavor text establishes canonical thrull-creation lore: shed flesh of Orzhov patriarchs ascending to spirithood
 - Tithe Taker (RNA) — fellow Orzhov RNA common with Afterlife 1; shares the debt-collection register
 - Kingpin's Pet (Gatecrash) — earlier Orzhov flying-drain creature; predecessor in the Orzhov-labor-corrupted thesis chain
+
+## Connections
+
+- [[orzhov-syndicate]] — Grasping Thrull is the syndicate's debt-collection apparatus rendered at the constructed-labor tier, a bat-winged thrull formed (per Mourning Thrull's canonical lore) from the shed flesh of Orzhov patriarchs ascending to spirithood. The flavor text — `"Debt due! Debt due!"` — is unattributed because the thrull has no individual identity, only the function the guild built it for. Mechanically the card carries Afterlife alongside its enter-the-battlefield drain, the same Ravnica Allegiance keyword that encodes the syndicate's institutional thesis that death does not discharge service.

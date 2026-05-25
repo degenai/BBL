@@ -127,3 +127,7 @@ A red-skinned, sharply-horned creature is suspended in the center of the frame, 
 - **Temporal Isolation footnote precision** — The Hipsters "Designs of RNA" article specifically names Temporal Isolation (Time Spiral) as the disqualified near-precedent — structural footgun distinction (can't remove from combat) explained at length. `[Hipsters of the Coast: "Designs of RNA," 2019-01]`
 - **Detain-to-permanent-aura trajectory** — Detain (RTR 2012 keyword) → Lawmage's Binding (RNA 2019 enchantment). Same functional clause ("can't attack or block, activated abilities can't be activated"), different permanence — keyword temporary effect translated to permanent aura. `[MTG Wiki: Detain]`
 - **Jumpstart Rainbow deck** — Full 20-card deck contents confirmed. Lawmage's Binding is the deck's SOLE creature lockdown. `[Wizards: Jumpstart Decklists 2020-06-18; Scryfall JMP 453]`
+
+## Connections
+
+- [[azorius-senate]] — The two cobalt-and-white-robed casters channeling the binding are Azorius lawmages of the Lyev Column, the Senate's constabulary arm whose canonical job is to "create spells that compel or restrain beings." This is the highest-confidence Azorius-member depiction in the cohort — the card literally pictures the institutional enforcement act, with the restraint-spell visual canon (luminous white-blue ribbons of binding energy) reading straight off Wizards' own *Plane Shift: Ravnica* description of Azorius magic. The captive is a Rakdos-coded demon-figure, the target of the binding rather than a guild member; only the two casters edge here.

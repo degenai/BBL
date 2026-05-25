@@ -87,3 +87,7 @@ A young-looking humanoid figure with distinctively pink or rose-toned spiky hair
 - Oath's Power, Tapion (Colossal Warfare, BT4-039) — the heroic Tapion who shared the same oath Minotia also took
 - Hoi, Emissary of Flame (Colossal Warfare, BT4-042) — Hoi killed Minotia to free Hirudegarn's lower half
 - Impenetrable Defense Hirudegarn (Colossal Warfare, BT4-037) — the creature Minotia died to contain
+
+## Connections
+
+- [[wrath-of-the-dragon-saga]] — Bearer-brothers axis, younger brother. BT4-041 anchors the younger Konatsian sibling on the bearer-brothers axis: Tapion's brother who carried Hirudegarn's lower half sealed within himself and was killed early in the film when Hoi tracked him to his distant planet, freed him from his Music Box, and broke the lower-half seal as the inciting trigger of partial reassembly. Title-paralleled to BT4-040 Hidden Darkness Tapion under the saga's designer-coordinated "Hidden Darkness" two-card naming structure that signals the parallel fate of the two brothers. His inclusion as a Common despite limited screen time in the film signals Colossal Warfare's completionist intent in covering the full Wrath of the Dragon roster as a tight saga cluster.

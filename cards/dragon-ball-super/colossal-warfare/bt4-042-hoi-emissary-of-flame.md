@@ -86,3 +86,7 @@ A small, robed humanoid figure with an alien or non-human physiognomy occupies t
 - Hirudegarn, the Wanderer (Colossal Warfare, BT4-038) — Hirudegarn's final form; ultimately kills Hoi
 - Hidden Darkness Minotia (Colossal Warfare, BT4-041) — Hoi killed Minotia to break the lower-half seal
 - Oath's Power, Tapion (Colossal Warfare, BT4-039) — Tapion is the other target of Hoi's Music Box scheme
+
+## Connections
+
+- [[wrath-of-the-dragon-saga]] — Villain axis, sole occupant. BT4-042 anchors the entire villain axis of the saga's three-axis structure: the last surviving Kashvar emissary-priest who orchestrates the film's crisis by deception rather than combat, fabricating a victim cover story to manipulate the Z-Fighters into opening Tapion's Music Box. The "Emissary of Flame" framing captures Hoi's ceremonial-mode operating posture: power through ritual and proxy, never through direct fighting. His canonical death — crushed underfoot by the Hirudegarn he engineered into full reassembly — closes an apparatus-of-extraction loop where the operator becomes the first casualty of his own released weapon, structurally mirroring the [[babidi]] / Buu intra-franchise pair already documented at the cohort node's See also.

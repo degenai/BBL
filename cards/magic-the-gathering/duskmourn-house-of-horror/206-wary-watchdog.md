@@ -91,3 +91,7 @@ A scrappy, short-haired dog with mottled brown and tan fur stands rigid on what 
 - Valgavoth, Terror Eater (DSK, no. 407) -- the main villain referenced in Wary Watchdog's flavor text; named in the `characters` field
 - Glimmer of I Am Here (DSK) -- another Duskmourn card in the "hope vs. Valgavoth's fear" thematic axis
 - Surveil Lands cycle (DSK) -- multiple lands in the set trigger surveil, creating graveyard-synergy infrastructure Wary Watchdog feeds into
+
+## Connections
+
+- [[valgavoth]] — direct flavor-text citation. The card prints the canonical dog-as-defense lore verbatim: `"Valgavoth harbors a special loathing for dogs, whose mere presence provides a powerful antidote to the fear he craves."` Wargamer's Duskmourn coverage places dogs alongside Glimmers ("incarnations of hope that protect people") as forces Valgavoth canonically cannot exploit, making this common one of two cards in corpus (with Duskmourn's Domination) whose printed flavor names the demon by name. `[Scryfall flavor_text]` `[wargamer.com "MTG Duskmourn villain is a killer, but more importantly, he hates dogs"]` `[in-corpus _characters/valgavoth.md direct flavor-text citation roster]`

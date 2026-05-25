@@ -97,3 +97,7 @@ A towering, pale grey alien-like entity dominates the composition, its featurele
 - Fear of Failed Tests (DSK, no. 55) — Fear-of cycle cohort
 - Fear of Falling (DSK, no. 56) — Fear-of cycle cohort
 - Fear of Missing Out (DSK, no. 136) — Fear-of cycle cohort, rare rarity
+
+## Connections
+
+- [[fear-of-cycle]] — Fear of Abduction is one of three white slots in DSK's 14-card "Fear of" designer-coordinated Nightmare cycle, personifying the loved-one-vanished trope of abduction-horror cinema as a flying Enchantment Creature — Nightmare. The card has no flavor text, atypical for the cycle — its mechanical loop carries the narrative weight alone: an additional-cost exile of a creature you control (the "taken" victim), an opponent's creature exiled on entry (the abductee), both returning if the Nightmare leaves the battlefield. The vast pale alien face looming behind a domestic dressing table with skulls reflected in its black eyes renders the phobia as bedroom-invaded-by-cosmic-stillness, the abduction-horror genre's signature register.

@@ -91,3 +91,6 @@ A hooded figure in a tan cloak with red-accented undershirt is caught mid-stride
 - A Mysterious Creature (MKM) — the generic face-down token that represents Offender at Large when Disguised
 - Rubblebelt Braggart (MKM, no. 143) — also a large red creature at 5 CMC in MKM; thematic bookend in the criminal red commons
 
+## Connections
+
+- [[foundway-associates]] — Foundway-Associates roster card. Flavor speaker is **Imel** *of the Foundway Associates* — *"In a city this big, anyone can blend in."* — canonizing the rules-text rendering of the [[disguise]] mechanic as a Foundway-perspective observation about Ravnica's metropolitan scale (the in-fiction conditions that make Disguise legible). Imel is one of six named Foundway voices across the MKM corpus (Udol on Gearbane Orangutan; Imel here; Runubi on Suspicious Detonation; Algrom on Torch the Witness; Alst on They Went This Way; Linghu on Furtive Courier), an ensemble investigator-collective parallel-and-distinct from R.A.M.I. The card sits at the cross-section of the [[foundway-associates]] flavor-voice node and the [[disguise]] mechanical-symbol node — a load-bearing dual-anchor for MKM-cohesion bundle copy. `[Scryfall: flavor_text]` `[MTG Wiki: Murders at Karlov Manor]`

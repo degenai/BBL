@@ -92,3 +92,7 @@ A pale, fleshy creature moves down a spiral staircase in what appears to be a go
 - Fear of Abduction (DSK) — white variant of the Fear of cycle, higher rarity
 - Fear of the Dark (DSK) — black variant, menace and deathtouch
 - Valgavoth, Terror Eater (DSK) — major DSK horror creature with similar mouth/consumption imagery
+
+## Connections
+
+- [[fear-of-cycle]] — Fear of Exposure is the sole green slot in DSK's 14-card "Fear of" designer-coordinated Nightmare cycle, each member personifying a specific phobia as an Enchantment Creature — Nightmare. The flavor text "A mouth like that can never keep secrets" pairs with the art's gaping maw full of trapped human faces to literalize the phobia of secrets forced into the open. Its additional cost of tapping two untapped creatures and/or lands is unique within the cycle, structurally taxing the player to summon the embodied dread.

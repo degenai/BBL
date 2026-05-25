@@ -91,3 +91,7 @@ manual_review_reason: "No reference image found via scryfall for set 'Duskmourn:
 - Niko Aris (KHM, no. 225) — the planeswalker being abandoned; mythic `{X}{W}{U}{U}` whose Shard tokens are the mechanical version of the mirror-shard magic Niko ultimately uses to trap Winter at the end of the Duskmourn arc.
 - Valgavoth, Terror Eater (DSK) — the demon Winter is bargaining with; the cherry-wood-door, moth-motif antagonist behind every Duskmourn bargain card.
 - The Wanderer (DSK story cycle) — recurring planeswalker traveling with Niko and Nashi when Winter betrays them.
+
+## Connections
+
+- [[valgavoth]] — narrative-agent citation. Winter's contract with Valgavoth is the depicted story beat: deliver four lives in exchange for an escape door, and this card freezes the moment Winter abandons Niko Aris, the Wanderer, and Nashi to the cultists. Per Star City Games' Duskmourn Episode 6 recap, Valgavoth ultimately betrays Winter back — opening a door to Innistrad before dragging him into the House's bowels, making this card the canonical contract-with-the-demon beat of the demon-of-bargains archetype. `[Star City Games: "Valgavoth's True Form Is Revealed In Duskmourn Episode 6"]` `[in-corpus _characters/valgavoth.md narrative-agent citation roster]`

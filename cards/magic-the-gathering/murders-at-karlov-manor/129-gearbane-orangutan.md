@@ -88,3 +88,6 @@ A powerful orangutan stands upright with both arms raised overhead, gripping and
 - Kibo, Uktabi Prince (Unfinity) — Ape commander; Gearbane appears in 67% of Kibo EDH builds per EDHREC
 - Suspicious Detonation (MKM, no. 145) — artifact sacrifice outlet that primes Suspicious Detonation's cost reduction in the same turn
 
+## Connections
+
+- [[foundway-associates]] — Foundway-Associates roster card. Flavor speaker is **Udol** *of the Foundway Associates* — *"In her defense, thopters are very fun to smash."* — canonizing the depicted ape-vs-thopter scene as a Foundway-perspective field-observation beat in the dry-witted wisecracker register. Udol is one of six named Foundway voices across the MKM corpus (Udol here; Imel on Offender at Large; Runubi on Suspicious Detonation; Algrom on Torch the Witness; Alst on They Went This Way; Linghu on Furtive Courier), an ensemble investigator-collective canonized in the set's flavor architecture as parallel-and-distinct from R.A.M.I. (the Agency proper). The cross-edge locates the artifact-smashing red common inside the MKM field-investigation flavor layer rather than as standalone Izzet-property-damage. `[Scryfall: flavor_text]` `[MTG Wiki: Murders at Karlov Manor]`

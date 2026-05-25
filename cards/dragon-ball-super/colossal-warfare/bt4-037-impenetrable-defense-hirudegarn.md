@@ -88,3 +88,7 @@ A massive creature dominates the frame, rendered in dark greens, browns, and bla
 - Hidden Darkness Tapion (Colossal Warfare, BT4-040) — Tapion sealed the upper half of this creature within himself
 - Hidden Darkness Minotia (Colossal Warfare, BT4-041) — Minotia sealed the lower half within himself; his death freed it
 - Hoi, Emissary of Flame (Colossal Warfare, BT4-042) — Hoi freed Hirudegarn's lower half, triggering reassembly
+
+## Connections
+
+- [[wrath-of-the-dragon-saga]] — Monster axis, first form. BT4-037 anchors the insectoid pre-metamorphosis stage of the Phantom Majin on the monster axis of Bandai's designer-coordinated Hirudegarn Saga roster within Colossal Warfare (BT4). The "Impenetrable Defense" framing names the canonical near-invulnerability of the first form before its second-form metamorphosis (BT4-038 pairs as the post-transformation companion print). Sits inside the saga's three-axis structure as one half of the monster pair, distinct from the bearer-brothers axis (BT4-039/040/041) and the villain axis (BT4-042).

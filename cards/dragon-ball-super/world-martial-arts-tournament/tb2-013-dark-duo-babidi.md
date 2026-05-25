@@ -82,6 +82,10 @@ The card art focuses almost entirely on a close-up of a small alien figure. The 
 **Iconography:** evil-wizard-robes
 **Genre cues:** anime
 
+## Connections
+
+- [[babidi]] — Direct character depiction and anchor card for the Babidi cohort. This is the alien sorcerer son of Bibidi himself, ringmaster of the Buu Saga's revival operation and the namesake antagonist of DBS-TB02 *World Martial Arts Tournament*. Every other card in the TB02 villain cluster (Dabura, Spopovich & Yamu, Pui Pui, Yakon, the Spaceship) wires here through Babidi's Manipulation Sorcery hierarchy; this card *is* the foreman atop that vertical chain.
+
 ## Trivia
 
 - **Set context** — TB2-013 is a Common from DBS-TB02 (Themed Booster pack World Martial Arts Tournament), released September 21, 2019 by Bandai. The 125-card set focuses on the 25th Tenkaichi Budokai arc and the early Buu Saga, with 30 Commons, 18 Uncommons, 12 Rares, 8 Super Rares, 8 Special Rares, and 1 Secret Rare. `[dbs-cardgame.com: DBS-TB02 product page]`

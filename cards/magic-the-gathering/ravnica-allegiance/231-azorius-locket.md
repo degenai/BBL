@@ -83,3 +83,6 @@ A circular, silver-and-blue metallic locket dominates the frame, embossed with t
 **Iconography:** azorius-sigil, three-pointed-emblem, heraldic-crest, legal-script
 **Genre cues:** fantasy, bureaucratic-fantasy, heraldic
 
+## Connections
+
+- [[azorius-senate]] — The card depicts the guild's signature institutional artifact: a sigil-pendant required to be worn by Senate functionaries, whose stated purpose per the flavor text is internal surveillance (*"Mandatory lockets enable the tracking of all Senate personnel for improved security and efficiency." — Dovin Baan*). This is the institution stamping its own personnel with mandatory tracking-jewelry while calling it efficiency — the Senate's first act of coercion is on its own members, before everyone else. The angular three-pointed sigil on the pendant is canonically the Azorius guild crest, whose geometry encodes the three-column hierarchy (Jelenn / Lyev / Sova) of the institution itself.

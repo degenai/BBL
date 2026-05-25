@@ -81,3 +81,6 @@ A serene humanoid figure with blue-violet skin sits centered against a vast gold
 **Iconography:** halo, glyphs, blindfold, third-eye-implied, circle
 **Genre cues:** fantasy, mythic, arcane
 
+## Connections
+
+- [[azorius-senate]] — The flavor speaker addresses the Grand Arbiter directly (*"Do not think me blind to your true mission... or your true master, Grand Arbiter"*), naming the Senate's canonical leadership office and placing the depicted sphinx-oracle in subordination to it. This wires the card to the Azorius via the institutional address itself — Grand Arbiter is a guild-specific title, not a generic honorific. Where Sphinx of New Prahv depicts the Senate's institutional-judicial sphinx-jurist sub-faction, this card depicts the institutional-divinatory sphinx-oracle role; both wire to the same faction node from different functions within it.

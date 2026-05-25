@@ -86,3 +86,7 @@ A heavily armored figure crouches in a dynamic low stance, holding a large sword
 - Grasping Thrull (RNA) — Orzhov drain creature in the same set; both carry Afterlife; different cost tier in the sacrifice-for-spirits economy
 - Teysa Karlov (RNA) — legendary Orzhov figure who doubles Afterlife triggers; contextual commander for this card
 - Tithe Taker (RNA) — Afterlife 1 Orzhov human; shares the RNA spirit-token engine
+
+## Connections
+
+- [[orzhov-syndicate]] — Knight of the Last Breath is a Giant-Knight pressed into Orzhov service as an enforcer, the type-line itself flagging the contract: Giants in Ravnica lore typically run with the Gruul, and a Giant in dark gold-green Orzhov plate is canonically a guild-bound outlier rather than a native member. The sealed-helm with no visible face is consistent with Orzhov enforcer iconography across the guild's print history — the institution prefers its operatives anonymous and interchangeable. The card carries Afterlife 3 alongside a sacrifice activator, making it a dual converter of creature-life into 1/1 white-black flying Spirit tokens; the rules text alone (no flavor text needed) is the syndicate's doctrine that death is just another form of service.

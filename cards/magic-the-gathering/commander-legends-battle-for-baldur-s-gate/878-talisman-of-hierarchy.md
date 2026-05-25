@@ -86,3 +86,7 @@ tags:
 - Talisman of Progress (Mirrodin) — ally-colored Talisman (white/blue); original 2003 cycle
 - Orzhov Signet (Ravnica: City of Guilds) — same color identity, same function class; predates Talisman of Hierarchy by 14 years
 - Talisman of Creativity (Modern Horizons) — Izzet enemy-colored cycle companion, also painted by Lindsey Look
+
+## Connections
+
+- [[kaya]] — flavor-text speaker, no depiction. The card prints Kaya Cassir's voice ("You'll never get to the top if you don't know who's already there.") as the in-universe flavor of a generic Orzhov-coded mana rock, canonizing the depicted apparatus as a Kaya-perspective object — her register of Orzhov political instinct applied to a piece of guild treasure. This is Kaya in her Orzhov-guildmaster aspect (post-Ravnica Allegiance), and the line sits inside her sustained five-year flavor-voice arc across RNA-252, WAR-106, CLB-878, and MKM-159. [Scryfall: Talisman of Hierarchy flavor_text], [cards/_characters/kaya.md]

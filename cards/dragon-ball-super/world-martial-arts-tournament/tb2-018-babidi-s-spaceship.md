@@ -79,6 +79,10 @@ The image depicts the interior of a large domed or saucer-shaped spacecraft. The
 **Iconography:** spaceship, arena, dome
 **Genre cues:** anime, sci-fi
 
+## Connections
+
+- [[babidi]] — Apparatus-of-operation axis. The Spaceship is Babidi's primary infrastructure — a six-floor dungeon with combat guardians ascending in power (floor 1 Pui Pui → floor 2 Yakon → floor 3 Dabura), Babidi's control room on floor 5, and the Sealed Ball of Majin Buu on floor 6. It was canonically buried underground near the 25th World Martial Arts Tournament site so Spopovich and Yamu could deliver Gohan's drained energy quickly, making the location itself a deliberate component of the energy-harvest plan rather than just a setting.
+
 ## Trivia
 
 - **Set context** — Babidi's Spaceship functions as the central dungeon of the Babidi Saga. Its interior has 6 levels: the top floors house Babidi's combat guardians in descending strength (Pui Pui, Yakon, Dabura), floor 5 is Babidi's control room, and floor 6 contains the Sealed Ball holding Majin Buu. The ship was buried underground near the 25th World Martial Arts Tournament site — its proximity was deliberate, allowing Spopovich and Yamu to quickly deliver the drained energy from Gohan. `[Dragon Ball Wiki: Babidi's Spaceship]`

@@ -75,6 +75,10 @@ A tall humanoid figure with pale, almost white skin stands in a composed posture
 **Emotion read:** smug confidence, mild menace, alien composure
 **Genre cues:** anime, sci-fi
 
+## Connections
+
+- [[babidi]] — Floor-guardian axis. Pui Pui is the level-1 guardian of Babidi's Spaceship and the lowest tier of the combat hierarchy — a Planet Zoon native whose 10×-Earth-gravity origin is more bluster than power-floor (Vegeta dispatches him in base form). The card's subtitle *"Magician's Lackey"* names Babidi explicitly as the magician without depicting him, and Pui Pui's canonical role includes executing Yamu on Babidi's order immediately after the energy delivery — the disposable enforcer disposing of the more-disposable operatives one rung down.
+
 ## Trivia
 
 - **Character lore** — Pui Pui is the guardian of the first floor of Babidi's Spaceship and the weakest of Babidi's combat-tier henchmen. He hails from Planet Zoon, a world with 10x Earth's gravity — a fact he weaponizes as psychological intimidation. When Vegeta fought him on his home planet, Vegeta dispatched him in base form with contemptuous ease. `[Dragon Ball Wiki: Pui Pui; Official Dragon Ball site character showcase no. 173]`

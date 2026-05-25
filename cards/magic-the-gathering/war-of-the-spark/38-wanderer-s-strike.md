@@ -110,3 +110,7 @@ A cloaked figure in a wide-brimmed straw hat (sedge-hat/kasa silhouette) sweeps 
 - The Wandering Rescuer (Duskmourn: House of Horror) — most recent printing of the same character; EDHREC shows Wanderer's Strike at 15% inclusion in 796 Wandering Rescuer decks.
 - Kaito Shizuki (Kamigawa: Neon Dynasty, no. 226) — the Wanderer's childhood friend in Kamigawa canon; same Neon Dynasty story reveal that unmasked her.
 
+## Connections
+
+- [[azorius-senate]] — The depicted figure is the Wanderer, not an Azorius operative, but the card edges here through Lavinia's flavor speech (*"Precise, clean cuts. No one saw anything. Again. Tag the report with my code and file it."*) — Lavinia is the Senate's acting guildmaster and Grand Arbiter Pro Tem during the War of the Spark siege, and the bureaucratic-arrester voice (file the report, no witnesses, tag the code) is the institution covering for an off-the-books Wanderer assist on Ravnica. This is a *flavor-speaker-as-institutional-voice* relation, not a *depicted-figure-is-a-member* relation — the Lyev Column's record-keeping arm performing the off-the-books cleanup. The primary anchor for the depicted figure would be a future Wanderer character node; the Azorius edge here captures the secondary canonical relation per the Tamiyo precedent.
+

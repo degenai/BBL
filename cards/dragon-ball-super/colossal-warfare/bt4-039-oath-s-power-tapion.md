@@ -88,3 +88,7 @@ A humanoid warrior figure stands in a dynamic pose against a bright blue energy 
 - Hidden Darkness Minotia (Colossal Warfare, BT4-041) — Tapion's younger brother who carried Hirudegarn's other half
 - Impenetrable Defense Hirudegarn (Colossal Warfare, BT4-037) — the demon Tapion spent eternity containing
 - Trunks // Iron Vow Trunks (Colossal Warfare, BT4-023) — Trunks receives Tapion's sword; the saga's primary Leader
+
+## Connections
+
+- [[wrath-of-the-dragon-saga]] — Bearer-brothers axis, older brother heroic state. BT4-039 anchors the heroic side of the Tapion pair on the bearer-brothers axis: armored Konatsian warrior holding the Hero's Flute (ocarina) whose playing keeps Hirudegarn dormant inside him. The "Oath's Power" framing directly names the voluntary eternal containment commitment Tapion took alongside his brother Minotia after Hirudegarn was bisected by the Konatsian Guardian's enchanted sword. Designer-coordinated pair with BT4-040 Hidden Darkness Tapion (cursed-state counterpart) across the saga's two-state representation of the older brother — and the canonical retroactive sword retcon at the film's ending is what anchors the saga's Leader slot to Trunks rather than Goku.

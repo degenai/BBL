@@ -80,6 +80,10 @@ A large, muscular humanoid figure dominates the frame in a frontal pose with arm
 **Emotion read:** contemptuous, menacing, imperious — arms-crossed dominant posture
 **Genre cues:** anime, fantasy, villain
 
+## Connections
+
+- [[babidi]] — Enslaved-enforcer axis. Dabura, Supreme King of the Demon Realm, has been bound to Babidi's Manipulation Sorcery for roughly 300 years before the events of DBZ — canonically more powerful than Babidi as an individual fighter but locked into his coordinating function. The card's [Link] mechanic requiring Dark Duo Babidi to be on the battlefield to activate Dabura's Barrier mechanically encodes that codependent master-thrall relationship.
+
 ## Trivia
 
 - **Set context** — World Martial Arts Tournament (DBS-TB02) is a 2018 Bandai themed booster set focused on the 25th World Martial Arts Tournament arc and the Babidi/Majin Buu buildup. Dabura is the arc's principal enforcer before Buu's resurrection, and his presence here as a Common card reflects the set's intent to populate the Babidi Saga villain roster across all rarity tiers `[dbs-cardgame.com: TB02 product page]`.

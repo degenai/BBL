@@ -91,3 +91,7 @@ A humanoid figure with dark silhouetted skin is suspended at the center of a cur
 - Fear of Missing Out (DSK, no. 136) — red Nightmare in the cycle; named in the MaRo design article as the example card for the Nightmare creature type showcase
 - Zimone, All-Questioning (DSK) — Zimone's planeswalker card in the same set; the flavor-text dreamer made legend
 - Zimone, Mystery Unraveler (DSC) — Zimone's Commander-deck card in the DSK Commander product
+
+## Connections
+
+- [[fear-of-cycle]] — Fear of Failed Tests is one of four blue slots in DSK's 14-card "Fear of" designer-coordinated Nightmare cycle, personifying academic / test-anxiety dreams as a 2/7 Enchantment Creature — Nightmare. Its flavor text — Zimone Wola, the Quandrix mathematics-prodigy planeswalker from Strixhaven, muttering "What do you mean this quiz determines half our grade?" in her sleep — anchors the card to a named-character nightmare-dreamer, distinguishing it from the cycle's anonymous-victim flavor pattern. The vortex of test papers and fragmenting screaming faces from the figure's head render the phobia as a runaway anxiety attack pulling its dreamer into a swirling library.

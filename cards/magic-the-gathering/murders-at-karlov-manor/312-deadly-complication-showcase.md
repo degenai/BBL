@@ -83,3 +83,7 @@ A top-down noir crime-scene illustration framed by the Murders at Karlov Manor s
 **Iconography:** blood, corpse, crime-scene
 **Genre cues:** noir, mystery, victorian, gothic, detective-fiction
 
+## Connections
+
+- [[kaya]] — flavor-text-named, post-Etrata-capture aftermath beat. The flavor canonizes a Kaya-perspective scene: "Teysa's security was unrivaled. Etrata was locked up. Kaya was left with nothing but multiplying questions... and a dead friend." This is the MKM mid-mystery beat *after* The Chase Is On (MKM-116) — Etrata's capture does not resolve the murders, the investigation escalates, and Kaya's "dead friend" (canonically tied to her partnership with Alquist Proft in the Wizards-published MKM story arc) raises personal stakes. The corpse on the carpet is the canonical complication that pulls Kaya deeper into the case. [Scryfall: Deadly Complication (Showcase) flavor_text], [Wizards story pages: Murders at Karlov Manor 2024], [cards/_characters/kaya.md]
+

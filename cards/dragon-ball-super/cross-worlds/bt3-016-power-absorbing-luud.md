@@ -89,3 +89,8 @@ An enormous red robotic or mechanical humanoid figure dominates the frame, posed
 - Pan (BT3-009, Cross Worlds) — Pan was absorbed inside Luud and fought back from within his core
 - Hidden Ability, General Rilldo (BT3-020, Cross Worlds) — fellow Machine Mutant commander from the M-2 faction
 - Handy Giru (BT3-013, Cross Worlds) — Giru is also a Machine Mutant from M-2, but defected to the heroes' side
+
+## Connections
+
+- [[baby-dbgt]] — Luud is Dr. Myuu's constructed god-machine whose Doll Beam converts organic beings into dolls fed into a cauldron, with the collected energy intended to funnel to Baby for his restoration — an early-arc apparatus-of-extraction operating in Baby's service before Baby's main-stage entrance. The massive red mechanical giant depicted is the apex form Pan and Trunks confront on Planet Luud, where the cult's worship is canonically extracted-not-given. Wires here on the apparatus axis: Luud is one of Baby's instruments, the energy-pyramid feeder his restoration plan depends on, structurally the same extraction-not-donation grammar the later Revenge Death Ball will scale up to planetary level.
+

@@ -91,3 +91,7 @@ A scrawny demonic-bird-like creature is captured mid-plunge against a vast pale-
 - Fear of Impostors (DSK, no. 57) — blue Nightmare in cycle, flash + counterspell
 - Fear of Abduction (DSK, no. 9) — white Nightmare in cycle
 - Fear of Missing Out (DSK, no. 136) — red Nightmare; MaRo's design-article example card for the Nightmare creature type
+
+## Connections
+
+- [[fear-of-cycle]] — Fear of Falling is one of four blue slots in DSK's 14-card "Fear of" designer-coordinated Nightmare cycle, personifying vertigo and the endless-plummet dream as a 4/4 flying Enchantment Creature — Nightmare. Flavor text "It had been months since Jakob had started falling but only a few weeks since he'd run out of breath to scream" extends the phobia past panic into the horror of fall-as-routine, where the scream itself runs out. Its attack-trigger stripping -2/-0 and flying from a blocker mechanically literalizes the phobia — the creature that takes flight from its victims to leave them plummeting.

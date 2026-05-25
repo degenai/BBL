@@ -101,3 +101,7 @@ A spectral humanoid figure rendered entirely in glowing red and orange tones ris
 - Fear of Infinity (Duskmourn: House of Horror) — Black Eerie Nightmare; canonical example of the fear-as-enchantment design hook for the set.
 - Final Vengeance (Duskmourn: House of Horror) — Limited reviewers cite this as the B/R sacrifice-payoff that doubles up Infernal Phantom's death-damage trigger.
 
+## Connections
+
+- [[valgavoth]] — set-context citation specifying the moth-demon iconography. The card's trivia is the only corpus citation that explicitly names "the trapped moth-demon Valgavoth" as the Ascension's instigator, encoding the moth-coded visual register of the antagonist that subsequent cards (Say Its Name's "wings condemn everyone inside") elaborate. The ruined Victorian parlor erupting in spectral flame is exactly the kind of fear-state the demon farms from his trapped survivors — Eerie itself is the design-layer rendering of the House's wrongness pressing into every room. `[Wizards: Planeswalker's Guide to Duskmourn]` `[in-corpus _characters/valgavoth.md set-context citation roster]`
+

@@ -88,3 +88,7 @@ A large bipedal demonic figure looms in the foreground — this form is more hum
 - Hidden Darkness Tapion (Colossal Warfare, BT4-040) — Tapion carries Hirudegarn's upper half
 - Hoi, Emissary of Flame (Colossal Warfare, BT4-042) — Hoi engineered Hirudegarn's reassembly and release
 - Trunks // Iron Vow Trunks (Colossal Warfare, BT4-023) — saga Leader who faces Hirudegarn
+
+## Connections
+
+- [[wrath-of-the-dragon-saga]] — Monster axis, second form. BT4-038 anchors the humanoid post-metamorphosis stage of the Phantom Majin on the monster axis, paired-printed with BT4-037's insectoid first form to span the creature's full two-stage evolution across the saga. The "Wanderer" epithet matches Hirudegarn's canonical characterization in the 1995 film as a creature with "no sense of reason" — destruction without intent — eventually defeated by Goku's Dragon Fist in the film's climax (technique implicit; not represented as its own card in the cycle). Closes the monster axis of the three-axis Hirudegarn Saga structure inside Colossal Warfare's tight 037–042 cluster.

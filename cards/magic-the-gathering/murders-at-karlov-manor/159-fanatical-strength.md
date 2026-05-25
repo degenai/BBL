@@ -90,3 +90,7 @@ A robed figure in heavy green hooded garments charges out of darkness toward the
 - Ezrim, Agency Chief (MKM, no. 202) — the archon who enlisted Kaya; organizational context for the ambush
 - Fanatical Strength (MKM, no. 310 / 310†) — same card, showcase art variant with known printing error
 
+## Connections
+
+- [[kaya]] — flavor-text speaker, off-camera narrator. The lunging robed figure is approaching the implied viewer's position — and the flavor text canonizes that viewer as Kaya Cassir, who taunts the ambusher mid-attack ("'What is this? An ambush or a staring contest?' Kaya taunted. As if in answer, the robed figure lunged forward.") The card stages an MKM-storyline ambush beat from Kaya's first-person POV — her sardonic register in the face of a cultist mob is canon-defining for her MKM detective aspect alongside Alquist Proft. [Scryfall: Fanatical Strength flavor_text], [magic.wizards.com: The Legends and Characters of MKM], [cards/_characters/kaya.md]
+

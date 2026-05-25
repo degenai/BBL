@@ -89,3 +89,8 @@ A large, powerfully built humanoid figure stands in a wide combat stance, arms r
 - Vengeful Onslaught (Colossal Warfare, BT4-022) — Trunks vs. Baby confrontation card, same cluster
 - Baby, Vengeance Unleashed (Colossal Warfare, BT4-018) — Baby Leader Card, cluster anchor
 - Rampaging Great Ape Baby (Colossal Warfare) — Leader card showing Baby Vegeta's Great Ape form escalation
+
+## Connections
+
+- [[baby-dbgt]] — The card name "Vow Revenge" names Baby's central narrative axis directly: the Tuffle parasite's vow against the Saiyan race that exterminated his civilization on Planet Plant. The yellow-green muscled host body roaring with red-yellow discharge reads as a powered-up Baby Vegeta intermediate state, the host upgrade midway up the Tuffle-Parasite → Baby-Vegeta → Super-Saiyan → Golden-Great-Ape escalation ladder. Wires here because both the card name (revenge-axis) and the [Revenge] keyword mechanic mirror the character's canonical motivation in name *and* in rules text.
+

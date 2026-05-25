@@ -95,3 +95,7 @@ Two humanoid figures are suspended mid-leap above gothic spired rooftops at nigh
 - Etrata, Deadly Fugitive (Murders at Karlov Manor, no. 200) — the named fleeing figure; Dimir vampire assassin
 - Kaya, Ghost Assassin (Conspiracy: Take the Crown) — Kaya's debut card in MTG canon
 
+## Connections
+
+- [[kaya]] — verified depiction (IP-verified, high confidence). The pursuer in the flowing black coat channeling the pink-violet ethereal orb above Ravnica's gothic rooftops is Kaya Cassir; the flavor text names her explicitly ("not even a master assassin could give Kaya the slip") and the violet magic is her canonical phasing-magic visual signature continuous with Kaya, Ghost Assassin (CN2), Kaya, Bane of the Dead (RNA), and Kaya, Spirits' Justice (MKM-211). This is the corpus's one verified Kaya depiction and the canonical MKM-storyline beat where the Orzhov guildmaster catches Etrata after the Boros and Azorius failed. [Scryfall: The Chase Is On flavor_text], [cards/_characters/kaya.md]
+

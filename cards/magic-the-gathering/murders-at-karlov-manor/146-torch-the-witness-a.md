@@ -92,3 +92,6 @@ A top-down perspective looks down at a cracked stone floor where a dark, ashen o
 - Galvanize (MKM, no. 128) — red instant in MKM dealing damage with a draw-payoff clause; thematic pair
 - Suspicious Detonation (MKM, no. 145) — red removal sorcery with Foundway Associates flavor text; Runubi vs. Algrom as narrators
 
+## Connections
+
+- [[foundway-associates]] — Foundway-Associates roster card; the ensemble's most thematically load-bearing print. Flavor speaker is **Algrom** *of the Foundway Associates* — *"He was scheduled to meet me tomorrow with something important to share. This was no coincidence."* — canonizing the depicted assassination as a targeted silencing the Foundway Associates are actively investigating, in the witness-elimination-and-paranoia register that canonizes the MKM storyline's *witnesses-keep-dying* meta-mystery. Algrom is one of six named Foundway voices across the MKM corpus (Udol on Gearbane Orangutan; Imel on Offender at Large; Runubi on Suspicious Detonation; Algrom here; Alst on They Went This Way; Linghu on Furtive Courier), an ensemble investigator-collective parallel-and-distinct from R.A.M.I. — and Algrom's line is the one that frames the larger conspiracy as conspiracy. `[Scryfall: flavor_text]` `[MTG Wiki: Murders at Karlov Manor]`

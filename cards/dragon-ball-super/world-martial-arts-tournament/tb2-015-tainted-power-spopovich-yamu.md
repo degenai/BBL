@@ -81,6 +81,10 @@ Two large muscular fighters are depicted in a wide mid-shot. One figure has a sh
 **Iconography:** purple-energy, energy-extraction
 **Genre cues:** anime
 
+## Connections
+
+- [[babidi]] — Field-operative axis. Spopovich and Yamu are Babidi's tournament-infiltration sleeper agents, former human martial artists whose pre-existing traces of evil made them susceptible to his Manipulation Sorcery. They execute the energy-drain on Super Saiyan 2 Gohan at the 25th World Martial Arts Tournament — the canonical hinge of the entire saga — and Babidi murders both men within minutes of delivery (Spopovich via exploding magic, Yamu via Pui Pui's blast on his order), making the pair the cleanest illustration of the disposable-workforce position in Babidi's vertical hierarchy.
+
 ## Trivia
 
 - **Character lore** — Spopovich and Yamu were Babidi's sleeper agents at the 25th World Martial Arts Tournament. Both were former human martial artists whose traces of evil made them susceptible to Babidi's Manipulation Sorcery. Yamu was the more calculating of the two, twice restraining Spopovich from killing Videl mid-match because the mission — gathering energy — took priority. `[Dragon Ball Wiki: Yamu; Villains Wiki: Spopovich]`

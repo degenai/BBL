@@ -88,3 +88,7 @@ A striking composition in which a large skull or death-head image dominates the 
 - Hidden Darkness Minotia (Colossal Warfare, BT4-041) — parallel "Hidden Darkness" card for Tapion's brother Minotia
 - Impenetrable Defense Hirudegarn (Colossal Warfare, BT4-037) — the creature Tapion carries inside him
 - Hirudegarn, the Wanderer (Colossal Warfare, BT4-038) — Hirudegarn's second form; what erupts if Tapion's seal fully breaks
+
+## Connections
+
+- [[wrath-of-the-dragon-saga]] — Bearer-brothers axis, older brother cursed state. BT4-040 anchors the cursed side of the Tapion pair on the bearer-brothers axis: skull-of-Hirudegarn overlay literalizing the upper-body containment failing when Tapion cannot play his Hero's Flute. Paired-print companion to BT4-039 Oath's Power Tapion (heroic-state counterpart) and title-paralleled to BT4-041 Hidden Darkness Minotia under the saga's designer-coordinated "Hidden Darkness" two-card naming structure that signals the parallel fate of the Konatsian brothers. At $0.18 market this is the highest-valued Common in the cluster — the skull-over-warrior duality reads as a collector image beyond pure gameplay utility.

@@ -81,3 +81,8 @@ A gaunt undead figure dominates the frame, its head a cracked, eyeless skull lit
 **Iconography:** skull, scythe, death
 **Genre cues:** fantasy, dark-fantasy, gothic
 
+## Connections
+
+- [[kaya]] — flavor-text speaker, off-camera commentary. The skull-headed Dreadhorde Eternal reaper is the canonical target of Kaya's voice: "I know they're unstoppable fighters created to harvest souls — it's just they're so rude about it." This places her as Gatewatch co-leader against Nicol Bolas during *War of the Spark* (2019) — her institutional position as Orzhov guildmaster (from RNA earlier the same year) carried into the planeswalker resistance alongside Ral Zarek and Vraska. Her sardonic register applied to soul-harvesting Eternals is canonical Kaya-voice: ghost-hunter-by-trade making working notes on a competing soul-harvesting apparatus. [Scryfall: Spark Reaper flavor_text], [MTG Wiki: Kaya — Orzhov Usurper / War of the Spark arc], [cards/_characters/kaya.md]
+
+

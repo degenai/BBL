@@ -88,3 +88,8 @@ A tall figure with long flowing silver-white hair stands centrally, wearing a da
 - Vow Revenge (Colossal Warfare, BT4-020) — Baby Vegeta battle-roar card, same Baby Saga cluster
 - Vengeful Onslaught (Colossal Warfare, BT4-022) — Trunks vs. Baby confrontation, same cluster
 - Baby, Vengeance Unleashed (Colossal Warfare, BT4-018) — Baby Leader Card, cluster anchor
+
+## Connections
+
+- [[baby-dbgt]] — The Revenge Death Ball is canonically Baby Vegeta's strongest technique: a sphere of negative energy harvested from possessed Earthlings, structured as a Spirit Bomb whose every parameter has been inverted — coerced donors instead of willing, negative energy instead of positive, the planet as target instead of the antagonist. The depicted silver-white long-haired figure mid-charge IS that gather-and-pool moment, the apparatus-of-extraction in its operative state. Wires here because this card is the visual rendering of the inverted-Spirit-Bomb thesis that makes Baby BBL-relevant beyond his card-game architecture — the franchise's signature gather-from-allies moral mechanic flipped into its own canonical antithesis.
+

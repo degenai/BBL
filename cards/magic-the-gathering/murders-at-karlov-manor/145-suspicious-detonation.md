@@ -88,3 +88,6 @@ The art depicts a compact mechanical device resting on wooden plank flooring. Th
 - Gearbane Orangutan (MKM, no. 129) — artifact sacrifice outlet that enables Suspicious Detonation's 3-mana cost reduction in the same turn
 - Torch the Witness (MKM, no. 146) — red removal sorcery in MKM with Foundway Associates flavor text; thematic pair
 
+## Connections
+
+- [[foundway-associates]] — Foundway-Associates roster card. Flavor speaker is **Runubi** *of the Foundway Associates* — *"Clearly someone wanted us to find this."* — canonizing the Investigate-payoff scene as a Foundway-perspective scene-of-crime read in the suspicion-and-planted-evidence register (the artifact-sacrifice payoff framed as a setup, evidence deliberately surfaced). Runubi is one of six named Foundway voices across the MKM corpus (Udol on Gearbane Orangutan; Imel on Offender at Large; Runubi here; Algrom on Torch the Witness; Alst on They Went This Way; Linghu on Furtive Courier), an ensemble investigator-collective parallel-and-distinct from R.A.M.I. The cross-edge locates the uncounterable red removal sorcery inside the MKM crime-scene-procedural flavor layer. `[Scryfall: flavor_text]` `[MTG Wiki: Murders at Karlov Manor]`

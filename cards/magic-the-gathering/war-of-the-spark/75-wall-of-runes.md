@@ -81,3 +81,7 @@ A hooded, robed figure dressed entirely in deep blue stands centered in mid-shot
 **Iconography:** runes, glowing-script, arcane-glyphs
 **Genre cues:** fantasy, high-magic
 
+## Connections
+
+- [[azorius-senate]] — The depicted scribe is a generic hooded blue-mage rather than a named Azorius operative, but the Lavinia flavor (*"It's strangely satisfying seeing an undead killing machine from another world standing befuddled in front of a wall of text."*) wires the card to the Senate via institutional voice — Grand Arbiter Pro Tem dryly observing how the guild's paperwork *itself* functioned as a defensive bulwark against the Bolas invasion. The image of bureaucracy as battle-ready defense is the guild thesis compressed into a sneer: the institution's signature weapon is the volume of its rules. Same flavor-speaker-as-institutional-voice pattern as Wanderer's Strike — Lavinia carries the Azorius edge on both WAR commons even when the art shows no named member.
+

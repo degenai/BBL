@@ -97,3 +97,7 @@ A close-up of a cracked mirror dominates the frame. Within the fractured glass, 
 - Spineseeker Centipede (Duskmourn: House of Horror, no. 199) — already in inventory; green segmented-creature flavor visually adjacent to the chitinous mandibles framing Say Its Name's reflection
 - Overlord of the Balemurk (Duskmourn: House of Horror) — Travis Hall's Standard Altanak build slots Overlord as the early-game graveyard filler that pairs with Say Its Name; not in current inventory
 
+## Connections
+
+- [[valgavoth]] — set-context citation with wings-condemn iconography load. The card's trivia names Valgavoth as the demon "whose wings condemn everyone inside to feed his appetite for terror," making this the second corpus citation to specify the moth-demon's wing-coded visual register (Infernal Phantom is the first). The cracked-mirror, infested-reflection art operationalizes Valgavoth's plane-pervasive influence at the body-horror level: the House does not just trap victims, it grows into them, and Say-Its-Name rituals are the survivors' counter-magic against that occupation. `[Wizards: Planeswalker's Guide to Duskmourn]` `[in-corpus _characters/valgavoth.md set-context citation roster]`
+

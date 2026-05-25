@@ -89,3 +89,8 @@ Two figures are shown in clear confrontation. In the foreground on the left is a
 - Revenge Death Ball (Colossal Warfare, BT4-021) — Baby's signature attack, same cluster
 - Baby, Vengeance Unleashed (Colossal Warfare, BT4-018) — Baby Leader Card, cluster anchor
 - Grand Tour Spaceship (Cross Worlds, BT3-028) — Trunks: GT also appears in GT spaceship crew across sets
+
+## Connections
+
+- [[baby-dbgt]] — Depicts the early-arc confrontation phase where Baby targets Trunks before ultimately moving to Vegeta as his permanent host — the duo composition codes the parasite-vs-host scouting dynamic directly. The visual contrast between Baby's compact blue Tuffle form and Trunks's humanoid Saiyan build externalizes the possession-as-amplification arc in a single frame: the small alien selecting the large body it will inhabit. Wires here on the Baby axis (not solely Trunks) because Baby is the operative antagonist driving the scene's tension; a future trunks node would cross-reference this card without superseding the Baby anchor.
+

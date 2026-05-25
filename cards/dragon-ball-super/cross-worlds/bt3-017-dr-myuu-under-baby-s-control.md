@@ -89,3 +89,7 @@ An older-presenting humanoid figure with an oversized, smooth dome-like head lea
 - Hidden Ability, General Rilldo (BT3-020, Cross Worlds) — General Rilldo is Dr. Myuu's top general and commander of Planet M-2
 - Handy Giru (BT3-013, Cross Worlds) — Giru is a Machine Mutant originating in Myuu's creation network
 - Pan (BT3-009, Cross Worlds) — Pan was among the heroes who opposed Myuu's Black Star Dragon Ball Saga operation
+
+## Connections
+
+- [[baby-dbgt]] — The card subtitle "Under Baby's Control" names the GT plot reveal directly: Dr. Myuu is canonically both Baby's creator AND Baby's creation, the bootstrap paradox where Baby (Age 730) retroactively engineered his own creator (Age 740) into existence. The depicted dome-headed scientist hunched over a purple-pink orb reads as the apparatus-of-extraction moment where Myuu's Machine Mutant program is being driven by Baby's parasitic puppet-control — the orb is the dark-energy nucleus, not Myuu's own work. Wires here on the apparatus axis rather than as a Myuu-solo anchor because the card explicitly subordinates Myuu to Baby in its title — Myuu under Baby's control IS Baby's apparatus operating one of its instruments.

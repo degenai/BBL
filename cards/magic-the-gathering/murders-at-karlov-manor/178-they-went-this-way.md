@@ -77,3 +77,7 @@ A small bright purple-pink light source hovers low to a dim forest floor, castin
 **Iconography:** glowing-light, path, trail
 **Genre cues:** fantasy, mystery, detective
 
+## Connections
+
+- [[foundway-associates]] — Foundway-Associates roster card. Flavor speaker is **Alst** *of the Foundway Associates* — *"Running doesn't prove guilt, but innocent people don't typically flee into the North Ridge Forest."* — canonizing the depicted basic-land-search-plus-Investigate scene as a Foundway-perspective pursuit through specifically named Ravnican wilderness geography (the North Ridge Forest), establishing the Associates as field operatives with jurisdiction beyond the city proper. Alst is one of six named Foundway voices across the MKM corpus (Udol on Gearbane Orangutan; Imel on Offender at Large; Runubi on Suspicious Detonation; Algrom on Torch the Witness; Alst here; Linghu on Furtive Courier), an ensemble investigator-collective parallel-and-distinct from R.A.M.I. — Alst's tracking-and-procedural register pushes the noir-detective register into rural-margin territory. `[Scryfall: flavor_text]` `[MTG Wiki: Murders at Karlov Manor]`
+

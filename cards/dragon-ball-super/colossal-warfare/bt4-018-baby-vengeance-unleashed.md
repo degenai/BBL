@@ -89,3 +89,6 @@ A blue-skinned lean humanoid — Baby in his Tuffle Parasite form — stands in 
 - Blazing Spirit Son Goku (Colossal Warfare, BT4-005) — primary GT-era hero narratively opposing Baby
 - Power of Friendship Pan (Colossal Warfare, BT4-009) — Pan evaded Baby's possession and opposed him; narrative foil to this card
 
+## Connections
+
+- [[baby-dbgt]] — This is the BT4 cluster's mechanical engine piece, the [Union-Absorb] tutor Bandai explicitly designed to feed Baby cards onto the BT4-002 Leader. The composition encodes the possession arc directly: Baby small in the foreground, his Vegeta-host looming in shadow behind him — parasite and amplifier in a single frame. Anchors here because the named-subject *is* Baby in his Tuffle Parasite form, with the dual-figure composition externalizing the possession-as-amplification axis that defines the character's entire combat operating model.
