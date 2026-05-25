@@ -90,3 +90,7 @@ A male humanoid figure is depicted in a mid-shot combat stance, wearing what app
 - Supreme Showdown Son Goku (World Martial Arts Tournament, TB2-002) — Super Rare pair-partner; SSJ peak-power framing vs. this card's base-form discipline framing
 - Tiny Rivals Trunks (World Martial Arts Tournament, TB2-007) — tournament co-participant; Kid Trunks competed in the Junior Division of the same 25th Budokai
 - Babidi's Spaceship (World Martial Arts Tournament, TB2-018) — the Babidi arc interrupted the tournament Goku entered
+
+## Connections
+
+- [[son-goku]] — adult base-form Goku at the *25th World Martial Arts Tournament* in the canonical Turtle School orange-and-blue gi, depicting Goku deliberately suppressing power early in a tournament match to assess his opponent — the "test of strength" frames the base-form read as discipline, not limitation. TB2-020 pairs at the Rare tier with TB2-002 Supreme Showdown's Super Rare SS portrait as the cohort's base-form-vs-peak-power TB2 representation pair: the DBS TCG's regular pattern of using multi-card character representation within a single set to show different modes of the same character. Sits across from the lore-paired Vegeta tournament cards as the Saiyan-rivalry-resolves-at-the-Budokai matchup the Babidi plot canonically derailed. `[Source: dbs-cardgame.com TB2 card list]`

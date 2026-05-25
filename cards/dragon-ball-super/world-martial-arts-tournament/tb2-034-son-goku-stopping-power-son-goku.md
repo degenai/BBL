@@ -89,3 +89,6 @@ A spiky-haired fighter in an orange and dark-blue gi runs or strides forward wit
 - Tien Shinhan, Trading Moves (TB2-043, World Martial Arts Tournament) — same set
 - Best Buddy Chiaotzu (TB2-044, World Martial Arts Tournament) — same set
 
+## Connections
+
+- [[son-goku]] — adult-form Goku at the *28th World Martial Arts Tournament* (the closing scene of *Dragon Ball Z*) in the canonical scout-role rather than combatant-seeking-victory: Goku entered specifically to find Uub, the human reincarnation of Kid Buu, and deliberately held back to measure the boy's potential. The double-slash naming convention ("Son Goku // Stopping Power Son Goku") flags this card's participation in TB02's Link Card mechanic — two-card pairs that unlock additional effects when fielded together — placing this card structurally as the Goku-half of a Link pair within the 28th-Tournament narrative cluster. "Stopping Power" frames the entire arc-position: this is the only major tournament where Goku competed without intent to claim the title, the canonical succession beat that ends DBZ proper. `[Source: Bleeding Cool TB02 checklist; Dragon Ball Official Site: Uub]`

@@ -91,3 +91,7 @@ A Super Saiyan warrior dominates the frame from roughly mid-torso up in a low-an
 - Grand Tour Spaceship (Cross Worlds, BT3-028) — GT crew anchor from the same BT3 set
 - Explosive Spirit Son Goku (Cross Worlds, BT3-088) — Super Rare Goku from same BT3 set, higher rarity
 - Triple Flash SS4 Son Goku (Colossal Warfare, BT4-003) — GT Goku at SS4, power-level escalation across sets
+
+## Connections
+
+- [[son-goku]] — anchored to the *Son Goku: GT* incarnation (Bandai character tag explicit in trivia), specifically the SS-form adult-body subset in BT3's green Android 13 Saga era — a designer-coded color affiliation that disambiguates this GT-Goku print from the red-coded Baby Saga GT-Goku prints in BT4 (BT4-005, BT4-026). BT3-058 is a [Dual Attack] + [Auto] on-play KO Uncommon at 20,000 power — a tempo-aggressive removal piece, the parallel of BT4-026 Sneak Attack one set later in red. The orange-and-blue Turtle School gi and golden upright SS hair render the cohort's most-instantiated visual signature at maximum compositional intensity (low-angle, blazing-aura, forward-leaning). `[Source: Rochester CCG: BT3-058 card text; dbs-cardgame.com BT3 product page]`

@@ -91,3 +91,6 @@ A male figure with dark spiky hair and Goku's recognizable face wears an unusual
 - Repeated Force Vegito (Union Force BT2-012, Super Rare) — same BT2 set; the Potara-fusion payoff anchoring BT2's red archetype
 - Father-Son Kamehameha (Union Force BT2-098) — companion BT2 print depicting Goku and Gohan's canonical team attack
 
+## Connections
+
+- [[son-goku]] — adult-body Goku in Bandai's recurring "out-of-element costume" alternate-art design strand, depicting the canonical *cheerfully-undefeatable-protagonist* operating mode that Toriyama installed in 1984 — Goku's wide-eyed personality trait surfacing in non-combat civilian mode rather than mid-strike. Bandai character tag: Son Goku, era: Android Cell Saga; the blue formal-costume-with-ruffled-collar treatment makes this the cohort's lone novelty-costume print, mechanically deliberately low-power (a 2-cost cantrip that draws 1) to match the comedic flavor. Foregrounds the wide-eyed-curious half of Goku's canonical operating mode, the half routinely written out of his battle-card prints. `[Source: dbs-cardgame.com BT2 card database; Kanzenshuu Son Goku character discussion]`

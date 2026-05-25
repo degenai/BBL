@@ -91,3 +91,7 @@ A humanoid figure with spiky golden hair stands in a dynamic forward-leaning com
 - Gine, Here to Support (Colossal Warfare, BT4-074) — Goku's mother in the same set
 - Unbroken Dynasty Son Goku (Colossal Warfare, BT4-079) — adjacent Goku common in the same cluster
 - Bardock (various DBS sets) — Goku's father; appears as leader card supporting Goku's Lineage archetype
+
+## Connections
+
+- [[son-goku]] — SS-form Goku slotted into the BT4 *Goku's Lineage* yellow Swap-chain mechanic — Bandai's card-game-mechanical encoding of the canonical Goku family-tree (Bardock → Goku across all incarnations → Gohan → Goten → Pan). BT4-077's [Swap 4] is the mid-chain intermediate: a value-link that returns to hand and pulls a higher-cost Goku's Lineage card forward, sitting in the Swap escalation between BT4-079 base-Goku ([Swap 2]) and BT4-080 Golden Great Ape ([Swap 5]). The "Dynasty" subtitle is the cluster's connective tissue — three Goku forms inside a designed-as-one mini-cycle (Unbroken / Indomitable / Deadly Golden Great Ape). `[Source: dbs-cardgame.com BT4 strategy: yellow Goku's Lineage]`

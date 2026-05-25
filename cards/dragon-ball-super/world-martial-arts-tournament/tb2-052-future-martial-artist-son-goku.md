@@ -88,3 +88,7 @@ A fighter in an orange and blue martial arts gi crouches in a wide power-up stan
 - Toughened Up Krillin (World Martial Arts Tournament, TB2-053) — Krillin faced Goku in the 22nd Tenkaichi Budokai semi-finals; shared set and World Tournament trait
 - Master Roshi, Martial Meister (World Martial Arts Tournament, TB2-057) — Goku's teacher; same set
 
+## Connections
+
+- [[son-goku]] — anchored to the *Son Goku: Childhood* incarnation (Bandai character tag explicit in trivia, oracle text "Character: Son Goku: Childhood; Special Traits: Saiyan/World Tournament"), depicting the original-*Dragon Ball*-era child around the 22nd/23rd Tenkaichi Budokai — "Future Martial Artist" signals potential rather than power already realized. Yellow-color Super Combo (max 4 copies per deck) with a comeback trigger that draws and gains combo power when life is 5 or less under a World Tournament Leader, encoding the canonical position of young Goku as not-yet-fulfilled potential at the mechanical level. Cohort body's "DBS power-up / Universe Survival-era" provisional listing for this card was the pre-trivia placeholder; the locked-in Bandai character-tag places this print canonically in the Childhood incarnation alongside TB2-051 Unyielding Victory and BT4-079 Unbroken Dynasty. `[Source: DBZ Exchange TB2-052; CBR: "37 Years Ago Today, the Best Anime Tournament of All Time Began"]`
+

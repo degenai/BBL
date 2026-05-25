@@ -93,3 +93,7 @@ An enormous ape-like creature fills the frame, covered in golden fur with a wide
 - Gine, Here to Support (Colossal Warfare, BT4-074) — Goku's mother in the same set
 - Unbroken Dynasty Son Goku (Colossal Warfare, BT4-079) — base-form Goku adjacent common in the cluster
 - Baby Vegeta Golden Great Ape (Dragon Ball GT, Baby Saga) — canon parallel: Baby Vegeta also achieved this form in the same story arc
+
+## Connections
+
+- [[son-goku]] — anchored to the *Son Goku: GT* incarnation (Bandai character tag explicit in trivia, Leader-restricted to "Son Goku : GT"), specifically the GT-exclusive *Golden Great Ape* (Oozaru) transformation that occurs when a Saiyan in Super Saiyan form with a regrown tail looks at a full moon — Old Kai restores Goku's tail in the Baby Saga so the GT chain can ascend toward SS4. BT4-080 is the BT4 yellow Goku's Lineage Swap-chain apex common at 25,000 power with [Swap 5] and a tutor-on-play, the highest-cost cluster terminus above BT4-077 ([Swap 4]) and BT4-079 ([Swap 2]). The Leader-restriction locks the card to dedicated GT builds, encoding at the card-game-design level that the Golden Great Ape form is canonically GT-only. `[Source: Dragon Ball Wiki: Golden Great Ape; DBZ Exchange BT4-080]`

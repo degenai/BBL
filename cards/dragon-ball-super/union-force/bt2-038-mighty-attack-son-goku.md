@@ -89,3 +89,7 @@ A figure with black spiky hair in an orange-and-dark outfit lunges forward aggre
 - Bundle of Curiosity Son Goku (Union Force, BT2-072) — same set, alternate Goku print
 - Super Saiyan Son Goku (Union Force, BT2-005) — same set, Super Saiyan form escalation target
 - Awakening Rage Son Goku (Galactic Battle, BT1-059) — in-corpus predecessor from the previous set
+
+## Connections
+
+- [[son-goku]] — base-form adult Goku in BT2's blue-archetype shell — Bandai's deliberate color-coding split for Goku placed base-form Goku in blue (Universe 7 / Saiyan-blue archetype) while SS Goku prints appear in red and green depending on arc era. BT2-038 is the cheap-aggressive-pressure low-rarity anchor that chains into higher-cost Goku Evolve targets, including the BT2-037 SSB form one slot above. Forward-lunging extended-fist composition is the Uncommon-rarity standard for blue base-form Goku aggro — a body cheap enough to deploy turn 3 and force the opponent into defensive postures. `[Source: dbs-cardgame.com BT2 strategy: blue Saiyan; DBZ Exchange BT2-038]`

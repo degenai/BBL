@@ -91,3 +91,7 @@ Two Super Saiyan humanoid figures are depicted together in a dynamic composition
 - Fully Trained Super Saiyan Son Gohan (Union Force, BT2-074) — Gohan as the primary executor; the BT2 Gohan Battle Card is the canonical anchor for this technique
 - Son Goku (Union Force, any Cell Saga card) — Goku's spirit amplifies the beam from the afterlife
 - Cell (Perfect Form) (Union Force) — target of the finishing blow
+
+## Connections
+
+- [[son-goku]] — Goku-half of the canonical *Dragon Ball Z* Cell Games finishing blow (Season 6, Episode 26 "Save the World"), with Goku's spirit manifesting from the afterlife to amplify Gohan's one-armed SSJ2 Kamehameha and overpower Cell's counterblast. Dual-anchored across [[son-goku]] and [[son-gohan]] per the cohort body's father-and-son canonical-relation framing — the technique is named for the father-son labor-credit split that titles the card. Extra-card technique slot in BT2, sitting alongside BT4-097 Instant Transmission and TB2-049 Feet Kamehameha as the cohort's signature-technique Extras; canonically distinct from a solo Goku-Kamehameha by the spirit-amplification mechanic that requires both component-characters in the lore. `[Source: Dragon Ball Wiki: Father-Son Kamehameha Cell Games]`

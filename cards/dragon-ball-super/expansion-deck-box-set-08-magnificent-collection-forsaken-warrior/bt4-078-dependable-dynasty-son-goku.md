@@ -91,3 +91,6 @@ A male martial artist in an orange and blue gi runs toward the viewer at mid-sho
 - Son Gohan, Family of Justice (Galactic Battle, BT1-062) — Goku's Lineage heir
 - Father-Son Galick Gun (Union Force, BT2-063) — parallel family/lineage theme across the Vegeta bloodline
 
+## Connections
+
+- [[son-goku]] — base-form adult Goku in his earliest *Dragon Ball Z* power tier — Bandai's "Saiyan Saga" era tag locks this print to the pre-Super-Saiyan, pre-Namek baseline where Goku has just reunited with Earth's defenders against Raditz and Vegeta's invasion. BT4-078 is the [Swap 3] middle step in the BT4 yellow *Goku's Lineage* Swap chain, the tempo escalation upward from BT4-079 base-Childhood ([Swap 2]) toward heavier Goku's Lineage payoffs in the same set. Originally a Colossal Warfare common reprinted as a promo in Magnificent Collection: Forsaken Warrior (DBS-BE08, November 22, 2019) — the "Dependable Dynasty" subtitle frames Goku as patriarch-of-warrior-lineage rather than peak-power combatant, a foundation-layer card built to be cycled back into hand. `[Source: Pricecharting.com BT4-078; dbs-cardgame.com BT4 yellow strategy]`

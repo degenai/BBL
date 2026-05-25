@@ -89,3 +89,6 @@ A muscular humanoid figure in a tattered orange gi stands with arms raised high 
 - Dawn of Terror, Android 13 (Cross Worlds, BT3-070) — the set's headline villain leader; BT3-057 is the designated narrative counter in the same set
 - Senzu Bean (Galactic Battle / Mythic Booster, BT1-053) — healing Extra played in green Son Goku decks; mechanically paired with characters like this one
 
+## Connections
+
+- [[son-goku]] — adult SS-form Goku slotted into Cross Worlds' green Android 13 Saga column, depicting the canonical finishing technique from the *Dragon Ball Z: Super Android 13!* film (1992) where Goku absorbs the Spirit Bomb into his Super Saiyan form and punches through Super 13's core to destroy him — a technique unique to that film and distinct from a standard overhead Spirit Bomb release. BT3-057 is the climactic counter-card to BT3-070 Dawn of Terror Android 13 (the set's headline villain Leader), the green column's narrative pivot from villain-set-up to hero-payoff. EX-Evolve chain target sitting above lower-cost green Goku setup pieces, with a "damage to Drop Area" conditional on KOing opposing Son Gokus — the green-shell's Goku-vs-Goku metagame anti-mirror clause. `[Source: Wikipedia: Dragon Ball Z: Super Android 13!; Dragon Ball Wiki: Spirit Bomb]`

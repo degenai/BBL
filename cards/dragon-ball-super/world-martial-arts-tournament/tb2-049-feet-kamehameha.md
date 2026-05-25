@@ -91,3 +91,7 @@ A fighter is caught mid-kick in a full-body wide composition. The figure has dar
 - Toughened Up Krillin (World Martial Arts Tournament, TB2-053) — fellow 23rd Tenkaichi Budokai participant; shared World Tournament trait
 - Master Roshi, Martial Meister (World Martial Arts Tournament, TB2-057) — Goku's teacher; same set and tournament context
 
+## Connections
+
+- [[son-goku]] — Goku-signature *technique* card depicting the canonical Feet Kamehameha that debuted in *Dragon Ball* anime episode 146 / manga chapter 188 during Goku's fight with Piccolo Jr. at the 23rd World Martial Arts Tournament — knocked head-first toward the ground, Goku fired the Kamehameha from his feet to reverse his fall and launch a double-punch counter. The technique has not appeared in the main manga or anime since; a single-use tournament-specific Goku-only variant whose outsized card-game and video-game legacy is locked into Bandai's TB2-049 design via the green-Son-Goku Leader requirement. Sits alongside BT4-097 Instant Transmission and BT2-098 Father-Son Kamehameha as the cohort's signature-technique Extras, attributable here to the original-Dragon-Ball childhood-era arc rather than the Z/Super sagas. `[Source: CBR: "Dragon Ball: Why The Feet Kamehameha Should Come Back"; DBZ Exchange TB2-049]`
+

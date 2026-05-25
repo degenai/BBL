@@ -92,3 +92,6 @@ A humanoid figure with golden Super Saiyan spiky hair and orange gi stands in a 
 - Prodigal Dynasty Son Goten (Colossal Warfare, BT4-085) — same Goku's Lineage trait family in the same set
 - Height of Mastery Son Goku (Colossal Warfare, BT4-075) — likely primary Goku's Lineage Leader that unlocks this card's free counter
 
+## Connections
+
+- [[son-goku]] — Goku-signature *technique* card depicting SS-form Goku executing the two-finger forehead Instant Transmission gesture, taught to Goku by Pybara of Planet Yardrat after Frieza's defeat on Namek and re-introduced during the Android/Cell arc as Goku's canonical teleportation method. BT4-097's [Permanent] condition keys off a Goku's Lineage Leader to grant a free [Counter Attack] negate-and-draw, mechanically wiring the technique to the dynasty axis even though the print is an Extra card rather than a Battle Card. Anchored at the technique-card layer rather than the figure-depiction layer, sitting alongside BT2-098 Father-Son Kamehameha and TB2-049 Feet Kamehameha as the cohort's signature-technique Extras. `[Source: Dragon Ball Wiki: Instant Transmission; CBR: Goku's Time on Yardrat]`

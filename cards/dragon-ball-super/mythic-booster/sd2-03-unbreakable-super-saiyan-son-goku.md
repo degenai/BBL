@@ -93,3 +93,6 @@ A Super Saiyan warrior fills the frame from roughly mid-thigh up in a dynamic lo
 - Chain Attack Trunks (Mythic Booster, SD2-05) — same Mythic Booster set, companion SD2 card
 - Son Gohan, Family of Justice (Galactic Battle, BT1-062) — Goku's Lineage heir
 
+## Connections
+
+- [[son-goku]] — adult SS-form Goku originating in DBS-SD02 "The Extreme Evolution" starter deck (January 2020) and reprinted in Mythic Booster (MB-01) with the gold-stamp alternate-art reprint treatment. SD2-03 carries [Barrier] as a setup-protection piece for EX-Evolve chains into higher-cost Goku cards — the "Unbreakable" subtitle mapping exactly to the Barrier function (a body opponents cannot touch when it arrives). The mixed-blue-and-gold aura layering blue energy into the golden SS field is a designer-team aesthetic nod toward Goku's further-transformation potential, consistent with the starter deck's "Extreme Evolution" theme of continuous power escalation — visually ambiguous between SS and SSB but mechanically anchored as standard SS. `[Source: dbs-cardgame.com MB-01 product page; TotalCards.net SD2-03]`

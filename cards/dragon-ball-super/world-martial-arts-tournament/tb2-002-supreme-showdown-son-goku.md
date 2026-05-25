@@ -90,3 +90,7 @@ An extreme close-up of a Super Saiyan figure's face and upper chest dominates th
 - Test of Strength Son Goku (World Martial Arts Tournament, TB2-020) — second Goku in the same set; Rare rarity, base-form contrast to this Super Rare SSJ portrait
 - Vegeta (World Martial Arts Tournament) — Goku's scheduled opponent at the 25th tournament; the "supreme showdown" that was interrupted
 - Babidi's Spaceship (World Martial Arts Tournament, TB2-018) — the Babidi plot that derailed Goku's tournament return
+
+## Connections
+
+- [[son-goku]] — adult SS-form Goku at the *25th World Martial Arts Tournament* — King Yemma's one-day-of-life arc where Goku descends from the afterlife to compete and his scheduled showdown against Vegeta (canonically one of the most anticipated matchups in the series) is interrupted by the Babidi plot before completion. TB2-002 occupies the second collector-number slot in the TB2 set, placing Goku at the face of the themed product — the marquee-character convention by which low numbers within a rarity tier signal premier-character status. The extreme close-up portrait composition with golden aura and crackling lightning is the DBS TCG's visual language for high-rarity Goku cards: proximity signals power intensity rather than action posing, contrasting the disciplined base-form pair-partner TB2-020 Test of Strength in the same set. `[Source: dbs-cardgame.com TB2 card list; Dragon Ball Wiki: 25th World Martial Arts Tournament]`

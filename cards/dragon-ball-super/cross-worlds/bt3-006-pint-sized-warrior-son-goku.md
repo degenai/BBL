@@ -87,3 +87,6 @@ A small child figure wearing an orange martial arts gi is shown in a dynamic low
 - Unending Awakening (Cross Worlds, BT3-027) — same set; child Super Saiyan power-up card, thematic pairing
 - Unyielding Justice SS2 Trunks (Cross Worlds, BT3-061) — same set; Future Trunks pairing in BT3's narrative spread
 
+## Connections
+
+- [[son-goku]] — anchored to the *Son Goku: GT* incarnation (Bandai character tag explicit in trivia), the de-aged-child Goku of *Dragon Ball GT*'s Black Star Dragon Ball Saga reverted to child body by Emperor Pilaf's accidental wish while retaining all adult power and memory. BT3-006's [Auto] is a 7-card-dig tutor for red Son Goku: GT cards — the deepest consistency engine for GT-Goku decks at common rarity, sitting at the head of every GT-Goku-anchored red-deck list. The "Pint-sized Warrior" title directly references the de-aged-child framing and canonically disambiguates this print from the pre-Z Childhood-tagged BT4-079 per the corpus's child-body identification discipline. `[Source: dbs-cardgame.com BT3 strategy page; Wikipedia: Dragon Ball GT]`

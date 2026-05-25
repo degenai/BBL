@@ -86,3 +86,6 @@ A muscular fighter wearing a white martial arts gi with a dark belt lunges forwa
 - Trading Blows Son Goku (TB2-036, World Martial Arts Tournament) — Goku's match with Uub is the source scene for this card's lore
 - Wild Tiger, the Imposing (TB2-031, World Martial Arts Tournament) — same set, same tournament arc
 
+## Connections
+
+- [[son-goku]] — *lore-context* anchor: the depicted figure is Uub, but the card's titular "shocking latent ability" canonically references the in-universe moment Goku provoked Uub to rage at the 28th World Martial Arts Tournament to unlock his suppressed ki — the trigger condition the title literalizes. Goku is the source-character of the trigger, not the depicted figure; anchored at the canonical-lore-relation layer rather than the depiction layer. Dual-character frontmatter `[son-goku, uub]` carries this lore-vs-depiction distinction; sits in the TB2 28th-Tournament Goku-vs-Uub narrative cluster alongside TB2-034 Stopping Power, TB2-036 Trading Blows, and TB2-069 Seeds of the Future. `[Source: Dragon Ball Wiki: Uub; Game Rant "Dragon Ball: Who Is Uub?"]`

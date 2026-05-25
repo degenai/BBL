@@ -88,3 +88,6 @@ A small child figure wearing an orange martial arts gi is shown in a dynamic for
 - Pint-sized Warrior Son Goku (Cross Worlds, BT3-006) — parallel child-Goku card in BT3; same character archetype
 - Height of Mastery Son Goku (Colossal Warfare) — Swap chain endpoint; child Goku evolves toward this card in BT4 yellow strategy
 
+## Connections
+
+- [[son-goku]] — anchored to the *Son Goku: Childhood* incarnation (Bandai character tag explicit in trivia), the Power-Pole-wielding pre-Z child from *Dragon Ball* chapter 1 onward, depicting the canonical Nyoibō staff that descends from Sun Wukong of *Journey to the West* — Toriyama's source-character. BT4-079 is the opening link in the BT4 yellow *Goku's Lineage* Swap chain, the canonical dynasty entry-point that hands forward to higher-cost Goku's Lineage cards across the BT4 set. The Childhood-era tag canonically disambiguates this child-bodied print from the de-aged-adult-mind GT prints (BT3-006, BT4-005), per the corpus's child-body identification discipline. `[Source: dbs-cardgame.com BT4 yellow strategy; CBR: Goku's Power Pole]`

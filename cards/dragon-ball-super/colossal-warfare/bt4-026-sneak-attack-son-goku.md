@@ -89,3 +89,7 @@ A figure with dramatically upswept golden spiky hair charges forward in Super Sa
 - Pressure Assault Super Saiyan Son Goku (Cross Worlds, BT3-058) — parallel SSJ Goku Uncommon from the prior set
 - Triple Flash SS4 Son Goku (Colossal Warfare, BT4-003) — GT Goku at SS4 in same set, power-level escalation
 - Grand Tour Spaceship (Cross Worlds, BT3-028) — GT crew anchor card featuring Goku: GT
+
+## Connections
+
+- [[son-goku]] — anchored to the *Son Goku: GT* incarnation (Bandai character tag explicit in trivia), the SS-form adult-body subset where BT4 elevates GT-era Goku from support role to primary deck identity by establishing him as a named Leader Card for the Baby Saga. BT4-026's speed-line forward-rush composition compresses the canonical SS sneak-strike compositional archetype into common rarity, the parallel of BT3-058 Pressure Assault Goku one set earlier. Sits alongside the child-bodied BT4-005 Blazing Spirit print as the SS-form half of the BT4 GT-Goku tempo shell. `[Source: dbs-cardgame.com BT4 product page]`

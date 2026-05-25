@@ -89,3 +89,7 @@ A muscular humanoid figure with spiky golden hair screams with mouth wide open a
 - Overflowing Spirit SSGSS Son Goku (Galactic Battle, BT1-032) — same-set SSB form, higher rarity tier in the transformation stack
 - Determined Striker SSB Son Goku (Union Force, BT2-037) — in-corpus companion: same character, next set, SSB form
 - Mighty Attack Son Goku (Union Force, BT2-038) — in-corpus companion: base-form Goku in the same second set
+
+## Connections
+
+- [[son-goku]] — adult-form Goku captured at the canonical SS-emergence moment (Bandai era tag: Frieza Saga), depicting the screaming-mouth-open extreme-emotional-distress mechanism that canonically catalyzes Goku's first Super Saiyan transformation — the franchise's most-instantiated transformation beat. BT1-059 is a Super Rare green Battle Card (25,000 power) with an Evolve chain that rewards a Krillin in the Drop Area with [Triple Strike] — the inaugural set's mechanical encoding of the Turtle School ensemble around Goku's emergence. Sits alongside BT2-037 Determined Striker SSB (the controlled-god-ki SSB form one set later) as the corpus's SS-emergence-to-SSB-mastery transformation pair, mapping the canonical Z-to-DBS power escalation arc onto consecutive sets. `[Source: dbs-cardgame.com BT1 card database; TrollAndToad: Awakening Rage Son Goku BT1-059]`

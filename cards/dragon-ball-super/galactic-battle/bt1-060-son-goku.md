@@ -91,3 +91,6 @@ A male figure with dark spiky hair stands in a wide fighting stance, charging a 
 - Bundle of Curiosity Son Goku (Union Force BT2-072, Common) — same character, comedic alternate-art print in BT2
 - Trading Blows Son Goku (WMAT TB2-036, Common) — adult-Goku Battle of Gods-era parallel in the TB2 themed booster
 
+## Connections
+
+- [[son-goku]] — base-form adult Goku in the *Battle of Gods Saga* (the *Dragon Ball Super* opening arc where Goku first encounters Beerus, God of Destruction, and unlocks Super Saiyan God), per Bandai's character-tag field. BT1-060 carries the simplest possible title — just "Son Goku" — flagging this as Galactic Battle's namesake-untitled common, the canonical character-as-himself entry-point for the launch wave of the Dragon Ball Super Card Game. Charging-ki-blast composition in the orange-and-blue Turtle School gi, dark spiky hair — the cohort's most-distributed visual signature rendered into the most-mass-produced common in the game's history. `[Source: dbs-cardgame.com BT1 character database; PSA Set Registry: Galactic Battle]`

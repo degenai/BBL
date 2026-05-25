@@ -11,10 +11,14 @@
             "id": "d8f5c0117373da05",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "dragon-ball-super/galactic-battle/bt1-059-awakening-rage-son-goku.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bt1-059-awakening-rage-son-goku"
             }
           }
         ]
@@ -182,17 +186,17 @@
   },
   "active": "d8f5c0117373da05",
   "lastOpenFiles": [
-    "magic-the-gathering/duskmourn-house-of-horror/242-attack-in-the-box.md.tmp.22516.89c9f2f1db3a",
-    "magic-the-gathering/duskmourn-house-of-horror/20-living-phone.md.tmp.22516.e505891e2117",
-    "magic-the-gathering/duskmourn-house-of-horror/195-patchwork-beastie.md.tmp.22516.8e7ec2fd9116",
-    "pokemon/paldean-fates/074-091-maushold.md.tmp.22516.fa39f25bf314",
-    "pokemon/paldean-fates/074-091-maushold.md.tmp.22516.bb2653c1a64d",
-    "pokemon/paldean-fates/074-091-maushold.md.tmp.22516.0bd394d8f083",
-    "pokemon/paldean-fates/025-091-natu.md.tmp.22516.17f2b0bccd8d",
-    "pokemon/paldean-fates/025-091-natu.md.tmp.22516.aa556b9035bb",
-    "pokemon/paldean-fates/025-091-natu.md.tmp.22516.6817eba9fb9d",
-    "pokemon/paldean-fates/020-091-chinchou.md.tmp.22516.86d31e6f60ea",
-    "pokemon/paldean-fates/020-091-chinchou.md.tmp.22516.0025e78ffda3",
+    "dragon-ball-super/world-martial-arts-tournament/tb2-069-son-goku-uub-seeds-of-the-future.md.tmp.22516.7908a941acb7",
+    "dragon-ball-super/world-martial-arts-tournament/tb2-052-future-martial-artist-son-goku.md.tmp.22516.98013ef26e78",
+    "dragon-ball-super/world-martial-arts-tournament/tb2-051-unyielding-victory-son-goku.md.tmp.22516.779712dd531f",
+    "dragon-ball-super/world-martial-arts-tournament/tb2-049-feet-kamehameha.md.tmp.22516.c07fdc94a82d",
+    "dragon-ball-super/world-martial-arts-tournament/tb2-036-trading-blows-son-goku.md.tmp.22516.174ecbd0b6a5",
+    "dragon-ball-super/world-martial-arts-tournament/tb2-035-fateful-reunion-son-goku.md.tmp.22516.3f7a1c1ee9f8",
+    "dragon-ball-super/world-martial-arts-tournament/tb2-034-son-goku-stopping-power-son-goku.md.tmp.22516.b40cf3f943c7",
+    "dragon-ball-super/world-martial-arts-tournament/tb2-033-shocking-latent-ability.md.tmp.22516.d89db163385a",
+    "dragon-ball-super/world-martial-arts-tournament/tb2-020-test-of-strength-son-goku.md.tmp.22516.c4efde896ff1",
+    "dragon-ball-super/world-martial-arts-tournament/tb2-002-supreme-showdown-son-goku.md.tmp.22516.616fa539fb0d",
+    "dragon-ball-super/union-force/bt2-098-father-son-kamehameha.md.tmp.22516.1b4441df7dad",
     "magic-the-gathering/war-of-the-spark/112-vraska-s-finisher.md",
     "_characters/chronoa.md",
     "_artists/richard-kane-ferguson.md",

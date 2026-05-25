@@ -93,3 +93,7 @@ The card depicts a large, spherical spacecraft descending or hovering against a 
 - Pressure Assault Super Saiyan Son Goku (Cross Worlds, BT3-058) — GT Goku from the same BT3 set
 - Vengeful Onslaught (Colossal Warfare, BT4-022) — Trunks: GT in Baby Saga context, same character
 - Pan (Cross Worlds) — named in Grand Tour Spaceship card text; key GT crew member
+
+## Connections
+
+- [[son-goku]] — Goku-bearing *vehicle* card depicting the canonical *Dragon Ball GT* traveling-party crew — child-body Goku, Trunks, Pan — assembled around the Bulma-designed spherical spacecraft they crew across the universe to recover the seven Black Star Dragon Balls with a one-year countdown before Earth's destruction. BT3-028's Extra-card text tutors any "Son Goku: GT", "Trunks: GT", "Pan", or "Giru" card from the top 7 of deck — the canonical card-game-mechanical encoding of the four-member GT crew. Triple-anchored across [[son-goku]], [[trunks]], and [[pan]] per the cohort body's explicit recognition of this print as the trio's traveling-party anchor — the GT co-protagonist relation that no single-character node can carry alone. `[Source: Dragon Ball Wiki: Grand Tour Spaceship; Big Orbit Cards BT3-028]`

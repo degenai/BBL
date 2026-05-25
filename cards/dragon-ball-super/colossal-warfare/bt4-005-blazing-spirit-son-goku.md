@@ -90,3 +90,6 @@ A young male figure in an orange gi rushes forward with a raised fist, dark spik
 - Blaze of Glory Son Gohan (Colossal Warfare, BT4-006) — Goku's son; same red GT-era Baby Saga cluster
 - Power of Friendship Pan (Colossal Warfare, BT4-009) — Goku's granddaughter; the three GT space-arc protagonists appear across BT4's red pool
 
+## Connections
+
+- [[son-goku]] — anchored to the *Son Goku: GT* incarnation (Bandai character tag explicit in trivia), specifically the child-bodied Baby Saga subset where adult-mind-in-child-body Goku fights the Tuffle-parasite antagonist Baby through SS, SS3, and SS4 forms. BT4-005 is a [Barrier]-keyword red aggro-shell common — the resilience tool that lets the de-aged Goku body absorb a hit and keep advancing, mechanically encoding the GT premise that adult power survives the de-aging. Sits alongside BT4-026 Sneak Attack (SS form) and BT3-006 Pint-sized Warrior (child-body tutor) as the GT-Goku set-spanning shell. `[Source: dbs-cardgame.com BT4 product page; Dragon Ball Wiki: Baby Saga]`

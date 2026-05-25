@@ -89,3 +89,6 @@ A young fighter in an orange martial arts gi and blue undershirt throws a forwar
 - Tien Shinhan, Trading Moves (TB2-043, World Martial Arts Tournament) — same set
 - Best Buddy Chiaotzu (TB2-044, World Martial Arts Tournament) — same set; Tien and Chiaotzu also attended the 28th Tournament
 
+## Connections
+
+- [[son-goku]] — adult base-form Goku at the *28th World Martial Arts Tournament* in close-quarters exchange mode rather than ki-beam-exchange — "Trading Blows" captures the canonical restraint Goku deliberately maintained while matching Uub's pace, the only major tournament where Goku competed without intent to claim the title. Sits in the TB2 28th-Tournament Goku-vs-Uub narrative cluster alongside TB2-034 Stopping Power (Goku-Uub Link half) and TB2-033 Shocking Latent Ability (Uub's lore-trigger), at common rarity as the cluster's mass-availability combo-fodder anchor. The orange-gi base-form composition is the cohort's most-distributed running-forward visual signature, encoded again here for the 28th-Tournament era after similar treatments at the 25th (TB2-020) and the 21st/23rd (TB2-051, TB2-052) eras. `[Source: Game Rant: Dragon Ball Who Is Uub; PriceCharting TB2-036]`

@@ -87,3 +87,7 @@ A young male-presenting fighter with dark spiky hair runs forward in an orange g
 - Fateful Reunion Chi-Chi (TB2-037, World Martial Arts Tournament) — mechanical synergy partner in the cycle; likely the blue figure in the background
 - Son Goku // Full Power Son Goku (P-044, Promotion Cards) — same character in powered-up state; anchor card for Goku in the corpus
 
+## Connections
+
+- [[son-goku]] — adult Goku at the *23rd Tenka'ichi Budokai* — the tournament where Goku reunites with Chi-Chi as adults, leading to their engagement and marriage per the original *Dragon Ball* manga arc (chapter 188 onward); the secondary blue-gi figure in the background is consistent with Chi-Chi's tournament costume at this event. TB2-035 anchors a named "Fateful Reunion" mechanical synergy cycle paired with TB2-037 Fateful Reunion Chi-Chi — the cycle models reunion as mutual power amplification, with TB2-035's [Auto] granting +10,000 power to itself and any other Fateful Reunion Goku in play. The art surfaces Chi-Chi as the cohort's first card-level surfacing of the canonical Goku-Chi-Chi marriage relation (the Goku's Lineage matriarch slot the cohort body parks as a deferred family-tree relation pending corpus density). `[Source: Kanzenshuu: 23rd Tenka'ichi Budokai arc; TCGPlayer TB2-035]`
+

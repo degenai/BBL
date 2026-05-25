@@ -89,3 +89,7 @@ A figure with upswept blue-tinted spiky hair stands in a confident fighting stan
 - Mighty Attack Son Goku (Union Force, BT2-038) — in-corpus same-set companion: base-form Goku
 - Repeated Force Vegito (Union Force, BT2-012) — same set, Potara-Fusion combined form including Goku as one component
 - Super Saiyan Son Goku (Union Force, BT2-005) — same set, alternative Goku print
+
+## Connections
+
+- [[son-goku]] — adult Goku in the *Super Saiyan Blue* (Super Saiyan God Super Saiyan) transformation state in Bandai's "Future Trunks Saga" era — the *Dragon Ball Super* alternate-timeline arc against Goku Black and Zamasu where SSB has reached its mature, mastered state. BT2-037's composed-calm composition directly contrasts the screaming-emergence of BT1-059 Awakening Rage Son Goku one set earlier: the corpus's encoding of Bandai's art-direction distinction between the raw-emotional SS threshold and the controlled-god-ki SSB mastery. Rare Blue Battle Card with a 3-or-fewer-life Counter that converts a Saiyan-heavy hand into an emergency tempo reversal, mechanically punishing aggressive life-denial against blue Saiyan decks. `[Source: dbs-cardgame.com BT2 card database; Dragon Ball Wiki: Super Saiyan Blue]`
