@@ -90,3 +90,7 @@ A young male figure with pale, silvery-lavender spiky hair flies forward toward 
 - Impenetrable Defense Hirudegarn (Colossal Warfare, BT4-037) — the kaiju centerpiece Trunks fights
 - Hoi, Emissary of Flame (Colossal Warfare, BT4-042) — the villain who sets the Hirudegarn Saga in motion
 - Hidden Darkness Tapion (Colossal Warfare, BT4-040) — Tapion's inner demon visualized; narrative counterpart
+
+## Connections
+
+- [[trunks]] — Future Trunks rendered as the blue-energy Leader for the BT4 Hirudegarn Saga, anchored to the Trunks cohort's *Wrath of the Dragon film canon* aspect slot (the non-main-manga-but-Bandai-designer-coordinated saga register). The card canonizes the retroactive *Brave-Sword-via-Tapion* lineage that the Z manga elided — Tapion's sword-handoff to young Trunks at the film's close is the in-universe explanation for the blade adult Future Trunks carries. Dual-anchored across [[trunks]] and [[wrath-of-the-dragon-saga]]; the BT4-023 Leader card is structurally the corpus's saga-anchor for both. `[CBR: Where Did Trunks Get His Sword]` `[Wikipedia: Dragon Ball Z: Wrath of the Dragon]`
