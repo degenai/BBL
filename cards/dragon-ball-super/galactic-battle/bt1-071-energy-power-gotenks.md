@@ -95,3 +95,8 @@ A young, small-stature fusion fighter stands in a mid-shot composition with a co
 - Son Gohan, Family of Justice (Galactic Battle, BT1-062) — same set; Trunks (Gotenks' fusion component) is Vegeta's son, paralleling Gohan's position as Goku's heir
 - Father-Son Galick Gun (Union Force, BT2-063) — Trunks is one of Gotenks' fusion components; thematic youth-Saiyan link
 
+## Connections
+
+- [[trunks]] — Gotenks Fusion-Dance dual-anchor (Trunks-half-of-fusion register). The cohort body's Gotenks slot names this card explicitly as the BT1 inaugural-set print whose Common-rarity inclusion signals the fusion-character's centrality to the DBS Card Game's competitive-archetype identity from launch; canonical Metamoran fusion-vest (black-and-white sleeveless with white sash), two-tone hair (Goten's darker base + Trunks' lighter prominent section), cocky-confidence stance encoding the canonical Trunks-arrogance-meets-Goten-fearlessness fusion-personality. Dual-anchored across this node and [[son-goten]] per the canonical Fusion-Dance combined-character anchor pattern the three Gotenks corpus prints (BT1-071 + BT2-015 + BT4-034) share. `[Source: Dragon Ball Wiki: Gotenks; Saiyan Warrior: Gotenks character profile]`
+- [[son-goten]] — Gotenks Fusion-Dance dual-anchor (Goten-half-of-fusion register). The Goten cohort body's Gotenks-Fusion-Dance slot names this same card with the same Metamoran-vest-and-two-tone-hair canon framing; the Buu-Saga Hyperbolic Time Chamber Piccolo-training arc canonically produces Gotenks, with both component-personalities preserved inside the combined-form. `[Source: Dragon Ball Wiki: Gotenks Is Born]`
+

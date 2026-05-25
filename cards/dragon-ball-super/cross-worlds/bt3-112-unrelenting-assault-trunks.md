@@ -89,3 +89,7 @@ A young male-presenting humanoid figure with light-colored hair stands in a comp
 - Reliable Trunks (BT3-010, Cross Worlds) — GT-era Trunks; third Trunks variant in BT3
 - Shocking Future Son Goku (BT3-007, Cross Worlds) — GT Goku shares the Cross Worlds set with this Xeno Trunks card
 - Pan (BT3-009, Cross Worlds) — GT-era ally in the same set
+
+## Connections
+
+- [[trunks]] — Trunks-Xeno aspect anchor (Dark Demon Realm Saga register). The cohort body's Trunks-Xeno slot names this card explicitly as the corpus's sole Xeno-incarnation print; the *Black*-color Over Realm 3 mechanic encodes the Dark Empire / Time Patroller protagonist register at the DBSCG rules-text layer per the Cross Worlds designer's note. The cohort caveat is load-bearing here: Trunks: Xeno is canonically a continuity-distinct character from main-timeline Future Trunks (Bandai character-tag *Trunks: Xeno*, not *Trunks: Future*); conflating the two is a graph-error the cohort explicitly guards against. The Xeno-incarnation's canonical adversarial relation to [[xenoverse-villains]] (Demigra, Towa, Mira) gives this card the cohort's principal hero-vs-Time-Breakers axis. `[Source: Dragon Ball Wiki: Trunks: Xeno; CBR.com on Xeno Trunks]`

@@ -95,3 +95,7 @@ A bald, bare-chested male figure wearing a deep crimson draped garment cinched a
 - Iroas, God of Victory (JOU, no. 102) — the god who presides over the Iroan Games
 - Favored Hoplite (THS, no. 10) — Heroic-mechanic parallel from original Theros
 
+## Connections
+
+- [[theros-pantheon]] — Iroan Games champion canonically presiding-deity'd by Iroas (god of victory, red-white twin of Mogis), per MTG Wiki Iroas page and in-corpus trivia naming the games as Iroas-presided at Akros with the winner-receives-a-personal-visit-from-the-god prize structure. The card carries the Greek-mythology Olympic-homage axis of the parent pantheon's design: an institutional just-war / athletic-honor register that codifies the Iroas-cult's counterweight to the [[mogis]] blood-tithe doctrine at the same fifteen-god roster. Already double-anchored at the [[iroas]] sub-node as the corpus's only single-figure Iroan Games champion depiction. `[Scryfall: thb/137; MTG Wiki: Iroas, God of Victory; Iroan Games]`
+

@@ -101,6 +101,10 @@ A foreground figure in flowing red and blue robes stands atop a grassy rise, rai
 - Delney, Streetwise Lookout (Murders at Karlov Manor) — third-cited EDHREC home; doubles ETB triggers on small creatures, multiplying the soldier payload.
 
 
+## Connections
+
+- [[theros-pantheon]] — Heliod-cult hoplite procession on a sunlit hill marching toward a hilltop shrine, with the *"Zeal is the sharpest blade, and piety the strongest shield"* flavor functioning as anonymous Theran-cult-maxim rather than named-speaker attribution. The devotion-to-white-token-creation oracle is the canonical mechanical signature of white-god-cult devotion (a near-verbatim reprise of Evangel of Heliod THS-2013), structurally locating the depicted procession as devotion-to-Heliod even without name-in-flavor. Sole anchor at the parent pantheon cohort (no Heliod solo sub-node currently exists in the BBL graph; parent caveats note Heliod as next-watch sub-node candidate at 1-2 anchors). `[Scryfall: thb/33; MTG Wiki: Heliod, God of the Sun]`
+
 ## Bundle Use
 
 ### Tithe (2026-05-11)

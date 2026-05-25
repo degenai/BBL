@@ -96,3 +96,7 @@ A monumental cairn of weaponry rises at center frame: round hoplite-style shield
 - Hero of the Games (THB, no. 137) — Iroan Games champion card with Iroas-cult flavor; in corpus
 - The First Iroan Games (THB, no. 170) — saga depicting the founding of the Iroas-presided athletic competition; not in corpus
 - Mogis, God of Slaughter (BNG, no. 151) — designer-confirmed twin of Iroas; the slaughter-doctrine counterpart to this card's just-war flavor register
+
+## Connections
+
+- [[theros-pantheon]] — Iroas-cult artifact named directly in the card title; the votive-armory of weapons-from-honored-champions is canonical Iroas-cult architecture per MTG Wiki Iroas page, structurally encoding the pantheon's just-war / athletic-honor register at the architectural rather than figural tier. The +1/+1-counter-on-attack equipment loop mechanizes the cult-doctrine: martial honor accrues through repeated combat rather than the blood-tithe extraction of the [[mogis]] twin-cult. Already double-anchored at the [[iroas]] sub-node as the corpus's only Iroas-name-in-card-title card and the only Commander-Legends-printing Iroas anchor. `[Scryfall: cmr/299; MTG Wiki: Iroas, God of Victory; Akros]`

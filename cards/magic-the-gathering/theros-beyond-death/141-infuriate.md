@@ -97,3 +97,7 @@ A bull-headed minotaur warrior dominates the frame, its dark fur and curved horn
 - Infuriate (STA, no. 104/ja) — Japanese alternate art (Yangyang & Xiaji)
 - Skophos Warleader (THB, no. 154) — fellow Mogis-worshipping minotaur in the same set
 
+## Connections
+
+- [[theros-pantheon]] — Mogis-flavor-attributed THB card naming the god directly as the supernatural cause of battle-rage (*"The fury of Mogis was upon it"*), spoken by the recurring THB historian Luphea of Setessa whose *Histories* function as the set's deliberate flavor-cycle source-text. The depicted arrow-pierced charging minotaur encodes the apparatus-of-extraction face of the pantheon's devotion-mechanic: Mogis's signature operating mode is the provocation of supernatural battle-fury that overrides mortal pain and self-preservation. Already double-anchored at the [[mogis]] sub-node alongside Portent of Betrayal as the set's Mogis-direct-flavor pair within the broader six-card Mogis-cult stack. `[Scryfall flavor_text: thb/141; MTG Wiki: Mogis, God of Slaughter]`
+

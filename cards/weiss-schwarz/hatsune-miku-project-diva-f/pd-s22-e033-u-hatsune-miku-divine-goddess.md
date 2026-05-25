@@ -76,3 +76,7 @@ A young female-presenting anime figure stands in a dynamic pose, arms slightly e
 **Iconography:** halo, twin-tails
 **Genre cues:** anime, fantasy, idol, vocaloid
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Miku in a celestial-goddess module: white-and-teal robe with white fur trim, large gold halo behind her, deep starfield background. The "Divine" / sublime register reads as one of the higher-rarity ceremonial modules in the Project DIVA F catalog and pairs cleanly with the *Dark Angel* common (PD/S22-E067) as the cohort's sacred-vs-fallen module dyad.
+

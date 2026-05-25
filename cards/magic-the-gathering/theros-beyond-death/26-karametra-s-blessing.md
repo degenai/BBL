@@ -80,3 +80,7 @@ A powerful stag rears up on its hind legs in a dynamic, almost heraldic pose. It
 **Iconography:** antlers, rearing-pose, heraldic-beast
 **Genre cues:** fantasy, mythological, heraldic
 
+## Connections
+
+- [[theros-pantheon]] — Karametra-named instant whose card title invokes the pantheon's green-white goddess of harvests (canonical Greek-mythology homage to Demeter); the rearing-stag-with-branching-antlers iconography is canonical Karametra-blessing imagery per MTG Wiki Karametra page, framing the agricultural-deity's domain as cultivation rather than extraction. The hexproof-and-indestructible-if-enchanted oracle clause is a constellation-payoff effect rewarding Nyx-touched enchantment-creatures on the battlefield, mechanically locating the card within the pantheon's devotion-and-constellation design-language signature. Sole anchor at the parent pantheon cohort (no Karametra solo sub-node currently exists in the BBL graph; single-card depth at present). `[Scryfall: thb/26; MTG Wiki: Karametra, God of Harvests]`
+

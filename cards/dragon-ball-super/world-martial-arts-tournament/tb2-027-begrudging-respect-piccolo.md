@@ -92,3 +92,7 @@ A tall green-skinned humanoid figure with prominent pointed ears and a bald or t
 - Awkward Situation Trunks (World Martial Arts Tournament, TB2-026) — Piccolo also trained Trunks for fusion
 - Dark Duo Babidi (World Martial Arts Tournament, TB2-013) — the primary antagonist Piccolo was pursuing when he forfeited his tournament match
 
+## Connections
+
+- [[namekian]] — Highest-instantiation Namekian / Buu-Saga canonical-Piccolo anchor. This card carries the canonical Piccolo green-skin + white-cape + weighted-turban signature across the entire DBZ + DBS continuity, the corpus's clearest single-figure visual anchor for the franchise's most-instantiated Namekian and the canonical Earth-side Demon Clan exemplar reformed into the Gohan-mentor adopted-uncle role that anchors much of the franchise's emotional weight. The qty-2 multi-copy print is a value lever for any future Namekian-themed Discrete Lair per the bundle-anchor potential noted on the cohort node. `[Dragon Ball Wiki: Piccolo]` `[[namekian]]`
+

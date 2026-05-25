@@ -75,3 +75,7 @@ A figure with long teal twin-tail pigtails wears a black and pink frilled dress 
 **Emotion read:** confident, poised, performative stage presence
 **Genre cues:** anime, idol, j-pop
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Miku in the *Honey Whip* module: black-and-pink frilled stage dress with long black gloves against a vivid magenta-pink void background. The performative confectionery-stage register sits in the catalog alongside *Star Vocalist* as Miku's pop-stage module tier — distinct from the celestial *Divine Goddess* / *Dark Angel* ceremonial dyad and from the dark-industrial *Factory Tyrant*.
+

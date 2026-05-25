@@ -87,3 +87,7 @@ An anime figure with short blond hair stands in a relaxed, casual pose, one hand
 - Kagamine Len "Bad Boy" (A) (Hatsune Miku -Project DIVA- f, PD/S22-E084a) — twin character, same cohort, parallel card in this wave
 - ACUTE (Hatsune Miku -Project DIVA- f, PD/S22-E098R RRR) — top-rarity pull; features Rin alongside Len and KAITO
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Rin in a Project DIVA F *School Swimwear* module: blue school swimsuit, neck-length hair (the module shortens her standard cut), warm yellow background. Unlocks only after clearing all songs on Hard difficulty before becoming purchasable for 60,000 DIVA Points — one of the more gated module-unlock costumes in the source game, sitting in this cohort as the slice-of-life / casual-register Rin alongside her *Melancholic* and *Append* performance modules.
+

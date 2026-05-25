@@ -81,3 +81,7 @@ A blue-skinned merfolk wizard with long flowing hair and trailing finlike adornm
 **Iconography:** wave, raised-arms-casting
 **Genre cues:** fantasy, mythic-greek
 
+## Connections
+
+- [[theros-pantheon]] — Two-god flavor card whose attribution crosses Thassa's and Erebos's domains (*"Thassa's favor followed him to the Underworld. Even the waves of Nerono obeyed his will"*) — Thassa (god of the sea, mono-blue, Poseidon-homage) blesses a mortal whose journey continues past death into Erebos's Underworld via Nerono, one of the canonical Underworld rivers. The damage-then-mill oracle text mechanizes the flavor's cross-domain mortal journey: every point of damage dealt becomes a card sent from library to graveyard, structurally parallel to Thassa's tide-as-passage and Erebos's claim-on-the-dead. Sole anchor at the parent pantheon cohort (no Thassa or Erebos solo sub-node currently exists in the BBL graph). `[Scryfall flavor_text: thb/77; MTG Wiki: Thassa, God of the Sea; Erebos, God of the Dead]`
+

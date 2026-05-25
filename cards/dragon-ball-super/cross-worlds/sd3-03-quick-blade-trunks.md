@@ -90,3 +90,7 @@ A young male-presenting humanoid with light-colored hair stands mid-action, hold
 - Supreme Kai of Time, World's Protector (Cross Worlds, BT3-113) — Chronoa, Trunks' commander in the Time Patrol
 - Rushing Warrior Pan (Cross Worlds, SD2-04) — Pan, Trunks' GT-era traveling companion
 
+## Connections
+
+- [[trunks]] — Future-Trunks aspect anchor (Brave Sword + Dark Invasion / Xenoverse-Time-Patrol-precursor register). The cohort body's Future-Trunks slot names this card explicitly as the corpus's Brave-Sword-with-blue-ki-energy print and notes its SD3 "Dark Invasion" starter-deck placement positions Trunks in the Xenoverse-adjacent Time-Patrol-as-player-guide framing — Bandai character-tag *Trunks* (incarnation-ambiguous) lets the print live across both the Z-canon Future-Trunks register and the Xeno register the same Cross Worlds wave introduces. The Brave Sword is one of the cohort's canonical Future-and-Xeno-spanning visual identifiers per the functional-canon section (Future Trunks' Z-canon weapon; the cohort's BT3-112 Xeno-print preserves the same weapon in the continuity continuation). `[Source: Dragon Ball Wiki: Future Trunks' Sword; CBR: Future Trunks Sword Power Explained]`
+

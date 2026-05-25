@@ -85,3 +85,7 @@ A radiant unicorn with a metallic gold and opalescent coat stands in a forest gl
 **Iconography:** horn, sunbeam
 **Genre cues:** fantasy, high-fantasy, mythic
 
+## Connections
+
+- [[theros-pantheon]] — Two-god flavor card from original Theros (2013) staging a canonical pantheon-internal romance (*"Purphoros once loved Nylea, the god of the hunt. His passion inspired his most astounding works of art"*) — Purphoros (god of the forge, red, Hephaestus-homage) and Nylea (god of the hunt, green, Artemis-homage) named in a single mythopoeia line that frames the depicted unicorn as Purphoros's craftwork-inspired-by-Nylea. The opalescent metallic coat reads as smithwork-art per the flavor's framing rather than as a living-creature depiction. Already double-anchored at the [[nylea]] sub-node as the borderline anchor whose Nylea-attribution rests on pantheon-relation flavor rather than cult-operative depiction. `[Scryfall flavor_text: ths/218; MTG Wiki: Nylea, God of the Hunt; Purphoros, God of the Forge]`
+

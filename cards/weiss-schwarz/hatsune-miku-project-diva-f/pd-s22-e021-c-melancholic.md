@@ -86,3 +86,7 @@ A close-up portrait of an anime character with a short haircut, rendered in a br
 - MEIKO "Blue Crystal" (PD/S22, E056) — Crypton Vocaloid bandmate, same booster set
 - Kagamine Len (PD/S22) — Rin's canonical twin, paired CV02 release
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — depicts Kagamine Rin in the *Melancholic* song module: Junky's *Melancholic* (2012) is a canonical Vocaloid track originally sung by Rin, and the lime-green hoodie / yellow accessories / headphones costume is the song-title-as-module-name licensing pattern this set uses. The card title is the song name; the depicted figure is Rin — same dual-anchor (character + named module) shape as the other PD/S22 cohort members.
+

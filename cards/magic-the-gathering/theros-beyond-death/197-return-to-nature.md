@@ -80,3 +80,7 @@ A long, ornate golden spear lies cracked and broken on the dim forest floor. Gre
 **Iconography:** broken-spear, divine-weapon, overgrowth
 **Genre cues:** fantasy, mythological
 
+## Connections
+
+- [[theros-pantheon]] — Two-god flavor card citing the in-canon Theros text *The Cosmogony* (*"Far-seeing Kruphix glimpsed the end: Heliod's spear cast down and broken"*), naming Kruphix (god of horizons, blue-green) as the cosmology-glimpsing seer and Heliod (god of the sun, white) as the spear-bearing sun-god whose canonical divine implement lies broken on the depicted forest floor. The depicted golden weapon reclaimed by vines stages the canonical end-of-pantheon vision: the gods' divine implements consumed by nature, the pantheon's institutional power not eternal but subject to the forest's slow patience. Sole anchor at the parent pantheon cohort (no Kruphix or Heliod solo sub-node currently exists in the BBL graph). `[Scryfall flavor_text: thb/197; MTG Wiki: Kruphix, God of Horizons; Heliod, Sun-Crowned]`
+

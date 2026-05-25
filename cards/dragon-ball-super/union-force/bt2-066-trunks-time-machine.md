@@ -93,3 +93,8 @@ A dome-shaped vehicle occupies the center of the frame — a rounded capsule-cor
 - Future Bulma (various) — engineer of the Time Machine; the uncredited labor anchor
 - Capsule Corporation cards (various) — institutional origin of the technology
 
+## Connections
+
+- [[trunks]] — Future-Trunks signature artifact (time-machine / canonical-vehicle register). The cohort body's functional-canon section names Bulma's Capsule Corporation engineering work as the canonical mechanism that built the time machine Future Trunks uses to travel from the Cell-saga-future timeline; BT2-066 is the corpus's depiction of that artifact, anchoring the Future-Trunks aspect at the *future-tense-as-personal-stakes operating mode* canonical-vehicle layer that Toriyama installed in 1991. The cohort's *first major time-displaced hero* thesis travels through this object: no time machine, no Cell-saga-future-timeline intervention, no franchise time-travel template. `[Source: Dragon Ball Wiki: Time Machine; Kanzenshuu: HOPE!! inscription discussion]`
+- [[bulma]] — engineer-of-record (Future Bulma / Capsule Corporation register). The card's `characters: [bulma, trunks]` dual-anchor wires Bulma at the time-machine-engineer axis; the canonical artifact-and-engineer pairing — Bulma builds, Trunks travels — is the load-bearing apparatus-of-extraction-style attribution discrepancy the card's trivia bullet documents: Bulma's labor under Android occupation makes the entire Trunks arc possible, but Trunks receives public credit, not Bulma. `[Source: Dragon Ball Wiki: Future Bulma]`
+

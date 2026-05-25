@@ -76,3 +76,7 @@ A mid-shot of a blond-haired youth in a distinctly styled sailor-collar uniform 
 **Iconography:** sailor-collar, yellow-scarf, blond-hair
 **Genre cues:** anime, vocaloid, idol
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Len's *Original* / default module: the canonical baseline appearance for his voicebank-character identity and the reference design from which subsequent module variants (Crane, Trickster, Bad Boy, etc.) derive. The white-and-black sailor-collar uniform with yellow scarf accent reads as the published-product visual the rest of the PD/S22 Len printings inflect against.
+

@@ -94,3 +94,7 @@ A slender green-skinned humanoid figure with Namekian cranial ridges stands faci
 - Piccolo, Kami's Successor (Colossal Warfare, BT4-046) — Designated Namekian Leader whose title references Kami directly
 - Nail, the Namekian Ace (Colossal Warfare, BT4-053) — Consecutive Namekian block companion
 - Gift of Power Guru (Colossal Warfare, BT4-052) — Guru is the Namek counterpart to Kami as elder authority figure
+
+## Connections
+
+- [[namekian]] — Dragon Clan / Earth-side Guardian anchor. This card depicts Kami, the canonical *Good half* of the original Earth-arriving Namekian (King Piccolo being the *Evil half*) — the franchise's foundational character-twist that the Demon Clan and Dragon Clan moral split operates on a single biological substrate rather than a species-difference. The slender figure in white-and-purple cloak with staff matches Kami's signature visual identifier per Dragon Ball Wiki's Kami page, and the sky-toned background depicts the Sky Palace (Earth-side Namekian institutional seat). `[Dragon Ball Wiki: Kami]` `[[namekian]]`

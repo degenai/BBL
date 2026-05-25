@@ -93,3 +93,8 @@ A single fighter in a disguise costume fills the mid-shot frame. The defining vi
 - Tiny Rivals Trunks (World Martial Arts Tournament, TB2-007) — the other half; Trunks instigated the scheme and drove the plan
 - Android 18 (various DBS sets) — the fighter who exposed Mighty Mask by cutting the costume in half with a Destructo Disc
 
+## Connections
+
+- [[trunks]] — Kid-Trunks aspect dual-anchor (Mighty Mask combined-disguise / Junior-Tournament-adult-bracket-infiltration register). The cohort body's Kid-Trunks caveat names the present-timeline child Trunks raised by Bulma and Vegeta on Earth, Junior Tournament cohort partner with Son Goten; TB2-008 is canonically the narrative-resolution of the TB2-007 Tiny Rivals card — the costume Goten and Trunks become when their Junior-Division rivalry pivots into adult-bracket collaboration. Per the canonical Buu-Saga beat, Trunks lured the real Mighty Mask away, knocked him out, and instigated the scheme; the dual-Super-Saiyan-transformation inside the costume canonically inflates the disguise and triggers Android 18's Destructo-Disc bisection and disqualification. `[Source: Dragon Ball Wiki: Mighty Mask]`
+- [[son-goten]] — Mighty Mask combined-disguise dual-anchor (Goten-top-half register). The Goten cohort body's *Mighty Mask infiltration* slot names this same card explicitly as the canonical narrative-resolution of the TB2-004 / TB2-007 paired-print; the canonical Goten-top-half-Trunks-bottom-half stacking arrangement (per Dragon Ball Wiki) makes the dual-attribution structurally identical to the Father-Son Kamehameha precedent the [[son-gohan]] and [[son-goku]] nodes share. `[Source: Dragon Ball Wiki: Mighty Mask]`
+

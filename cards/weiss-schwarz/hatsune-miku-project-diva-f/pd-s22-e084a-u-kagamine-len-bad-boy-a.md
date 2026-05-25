@@ -89,3 +89,7 @@ A young-presenting anime figure with short, spiky blond hair leans forward in a 
 - ACUTE (Hatsune Miku -Project DIVA- f, PD/S22-E098R RRR) — highest-rarity pull in the set; features Len alongside Rin and KAITO in the ACUTE song module
 - Hatsune Miku "Summer Memories" (Hatsune Miku -Project DIVA- f, PD/S22-E029S SR) — title character of the set, same licensed game
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Len in a red-and-black geometric-jacket module with headphones; the (A) suffix indicates the Weiss Schwarz dual-art printing (an E084b variant exists with alternate composition). The *Bad Boy* module unlocks via clearing Toraboruta-P's "Unhappy Refrain" in Project DIVA F and reads as the rebel-coded counterpart to Len's clean idol-default *Original* module in this cohort.
+

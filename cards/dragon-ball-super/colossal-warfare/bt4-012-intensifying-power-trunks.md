@@ -90,3 +90,7 @@ A young male figure with light-colored hair stands in a powered-up pose, ki ener
 - Dependable Mom Bulma (Colossal Warfare, BT4-013) — Bulma is Trunks' mother
 - Blazing Spirit Son Goku (Colossal Warfare, BT4-005) — Goku is the third member of the GT space-arc trio alongside Trunks and Pan
 
+## Connections
+
+- [[trunks]] — GT-Trunks aspect anchor (Baby Saga register). The cohort body's GT-Trunks slot names this card explicitly as the *Baby-Saga power-escalation* corpus print where the Tuffle parasite Baby progressively infects the Saiyan lineage and Trunks fights through Saiyan-corruption stakes. Era tag *Baby Saga* + Bandai character-tag *Trunks: GT* + the looking-over-shoulder mid-transformation art-direction encode the *intensifying* (not finished-transformation) framing canonical to the GT Baby-Saga arc. `[Source: WebSearch: DBZ Exchange BT4-012; Dragon Ball Wiki: Trunks (GT)]`
+

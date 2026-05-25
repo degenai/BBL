@@ -92,3 +92,7 @@ Two distinct figures occupy the foreground. The shorter figure on the left wears
 - Kami, the Watcher (Colossal Warfare, BT4-054) — The Namekian figure beside Popo on this card is Kami; adjacent in the set
 - Piccolo, Kami's Successor (Colossal Warfare, BT4-046) — After Kami merged with Piccolo, Popo serves Piccolo as the new Guardian
 - Nail, the Namekian Ace (Colossal Warfare, BT4-053) — Part of same consecutive Namekian block BT4-052 through BT4-057
+
+## Connections
+
+- [[namekian]] — Sky Palace / Earth-side institutional-seat anchor. Mr. Popo is canonically NOT a Namekian (a djinn-type magical Sky Palace attendant of unspecified race per Dragon Ball Wiki); the card anchors here via the Kami-half of the depicted duo and via the Sky Palace itself as the Earth-side Namekian-Guardian's seat-of-operation — the white dome architecture in the background is the canonical Lookout. Future Sky-Palace-anchored cards (Dende-as-new-Guardian prints, Lookout location-cards) would attach via the same Kami-side / institutional-seat anchor pattern. `[Dragon Ball Wiki: Mr. Popo]` `[Dragon Ball Wiki: Kami's Lookout]` `[[namekian]]`

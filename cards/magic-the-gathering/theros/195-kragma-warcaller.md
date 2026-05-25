@@ -89,3 +89,7 @@ Two minotaurs — large, muscular, bull-headed humanoids with prominent curved h
 - Mogis, God of Slaughter (Born of the Gods, no. 151) — the patron deity of Theran minotaurs; Kragma serves this power structure
 - Rageblood Shaman (Theros, no. 152) — Minotaur tribal companion providing trample where Kragma provides haste and power
 - Deathbellow War Cry (Theros Beyond Death, no. 86) — Minotaur tribal tutor in the same Mogis-herd register
+
+## Connections
+
+- [[theros-pantheon]] — Minotaur tribal lord from original Theros (2013); the depicted war-herd is canonically Mogis-servitor per Wizards lore, with the "meat-hunger" flavor functioning as Mogis-doctrinal language for the minotaur race's bloodlust. The card is the corpus's only non-THB Mogis-cult anchor and the only original-Theros entry in the pantheon's broader 18-card stack, mechanizing the slaughter-doctrine via tribal haste-and-power for the herd Mogis commands to perpetual war. Already double-anchored at the [[mogis]] sub-node as the borderline anchor whose Mogis-attribution rests on canonical-lore-and-trivia rather than direct name-in-flavor-text. `[Scryfall flavor_text: ths/195; MTG Wiki: Mogis, God of Slaughter]`

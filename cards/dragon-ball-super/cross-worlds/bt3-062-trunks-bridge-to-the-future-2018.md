@@ -92,3 +92,7 @@ A young male-presenting warrior fills roughly three-quarters of the frame in a d
 - Future Gohan (various DBS sets) — Trunks' mentor who died fighting Androids; his loss is what forged Trunks' resolve
 - Goku Black (various DBS sets) — the antagonist that forces Trunks to travel to the past for help in DBS
 
+## Connections
+
+- [[trunks]] — Future-Trunks aspect anchor (Future Trunks Saga base-form / Bridge-between-timelines register). The cohort body's Future-Trunks slot names this card explicitly as the corpus print that canonicalizes Future Trunks' franchise-narrative role: *the character whose existence bridges two timelines (Z-present and the Cell-saga-future) and whose stakes are the future itself as a moral and existential frontier*. Short blue-tinted hair + dark jacket + canonical red scarf = DBS Future Trunks Saga (2016) costume per the cohort's visual-identifier caveat distinguishing the 2016 redesign from Toei's earlier purple-hair Z-canon coloring. `[Source: Dragon Ball Wiki: Future Trunks; CBR: Future Trunks timeline]`
+

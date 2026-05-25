@@ -74,3 +74,7 @@ tags:
 **Setting:** 
 **Mood / lighting:**
 
+## Connections
+
+- [[theros-pantheon]] — Iroas-cult flavor card naming the god twice in one block: once as the invoked deity (*"Iroas will watch over you"*) and once via the named cult-priest Verenis attributing the speech, distilling the just-war doctrine into the three imperatives *charge bravely / fight selflessly / act honorably*. The flavor speaker (Verenis, priest of Iroas) canonicalizes the cult-priest operative class as structurally parallel to Mogis-cult minotaur shamans; the watch-over language registers the god-mortal relation as protective oversight rather than transactional extraction. Already double-anchored at the [[iroas]] sub-node as the corpus's clearest single-card distillation of Iroas-doctrine via canonical pantheon-voice flavor. `[Scryfall flavor_text: thb/25; MTG Wiki: Iroas, God of Victory]`
+

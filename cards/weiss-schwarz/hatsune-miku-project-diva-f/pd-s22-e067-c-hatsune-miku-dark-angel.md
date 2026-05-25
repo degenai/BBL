@@ -85,3 +85,7 @@ An anime figure with long prominent green twintails stands with arms folded acro
 - Hatsune Miku "Electron Diva" (PD/S22, XR parallel) — higher-rarity Miku card in the same booster pool
 - MEIKO "Blue Crystal" (PD/S22-E056S, SR) — Vocaloid bandmate from the same booster set
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Miku in a black-feathered fallen-angel module, the dark inversion of the *Divine Goddess* register (PD/S22-E033 U). The two cards form the cohort's sacred-vs-fallen Miku module dyad, both unlocked via specific song clears (*Dark Angel* via Buriru-P's "Secret Police") and both depicting Miku at her most ceremonial / costume-theatrical extremes within the PD/S22 catalog.
+

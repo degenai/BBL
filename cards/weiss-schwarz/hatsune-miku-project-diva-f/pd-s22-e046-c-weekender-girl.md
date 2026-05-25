@@ -74,3 +74,7 @@ An anime figure with long teal twintail hair stands in a bright, energetic pose 
 **Objects:** sunglasses
 **Genre cues:** anime, music, vocaloid, j-pop, sci-fi
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Miku appearance tied to the *Weekender Girl* song module by kz (livetune); the song is a canonical Project DIVA F track and the depicted character is Miku. Same song-title-as-module-name licensing pattern as *Melancholic* (Rin / Junky) in this cohort — the card's title names the song, the figure is the Vocaloid licensed to perform it in the SEGA catalog.
+

@@ -86,3 +86,7 @@ A framed Weiss Schwarz card depicting an anime figure in a white and black sleev
 - Kagamine Len (Hatsune Miku -Project DIVA- f) — twin counterpart; same set, mirror soul design concept
 - Hatsune Miku (various, PD/S22) — titular character and set headliner
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Rin in the *Append* module: white-and-black mechanical-transparent aesthetic corresponding to the Crypton Append voicebank release (December 27, 2010), which added Power / Warm / Sweet vocalization styles. The card's Level-2 Change effect explicitly retrieves Kagamine Rin "Original" from the waiting room, modeling the voicebank-extension relationship at the rules layer — the only PD/S22 corpus member where the cohort's voicebank-variant identity is encoded mechanically.
+

@@ -93,3 +93,7 @@ A muscular green-skinned humanoid with Namekian cranial features stands in a bra
 - Nail, the Namekian Ace (Colossal Warfare, BT4-053) — Universe 7 Namekian warrior counterpart in the same block
 - Newfound Power Son Gohan (Colossal Warfare, BT4-048) — Gohan co-fought Saonel and Pilina during the Tournament of Power
 - Piccolo, Kami's Successor (Colossal Warfare, BT4-046) — Piccolo co-fought Saonel and Pilina; the BT4 Namekian Leader Card
+
+## Connections
+
+- [[namekian]] — Universe 6 fusion-Namekian anchor and dozens-of-warriors-fused mechanic citation. This card depicts Saonel, the Universe 6 Namekian who (with Pirina) canonically absorbed *most of Universe 6's Namekian population* before the Tournament of Power — each warrior carrying the collective power of dozens of fused fellow-Namekians, the corpus's most lore-dense single citation of the race-signature permanent-biological-fusion mechanic operating at scale. The card title *Namekian Duo* directly references the Saonel-and-Pirina canonical pairing per Dragon Ball Wiki's Saonel page; Pirina is not in corpus. `[Dragon Ball Wiki: Saonel]` `[[namekian]]`

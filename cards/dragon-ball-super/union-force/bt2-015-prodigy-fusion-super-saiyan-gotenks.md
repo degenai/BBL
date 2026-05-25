@@ -92,3 +92,8 @@ A young Super Saiyan fighter is shown in a mid-shot, body slightly angled, in a 
 - Goten (various) — one of the two fusees
 - Trunks (various) — one of the two fusees
 
+## Connections
+
+- [[trunks]] — Gotenks Fusion-Dance dual-anchor (Trunks-half-of-fusion register, SS-tier). The cohort body's Gotenks slot names this card explicitly as the *Prodigy Fusion* corpus print where the Metamoran-Fusion-Dance combined-form's canonical age-versus-power discrepancy is foregrounded — the fusion's child-component-ages produce an SS3-capable fighter at canonically-pre-adolescent biological age, the franchise's clearest example of the *combined-form-amplifies-component-potential-beyond-component-individual-limits* design device. Dual-anchored across this node and [[son-goten]] per the canonical Fusion-Dance combined-character anchor pattern. `[Source: Dragon Ball Wiki: Gotenks; GameRant: All Forms of Gotenks Explained]`
+- [[son-goten]] — Gotenks Fusion-Dance dual-anchor (Goten-half-of-fusion register, SS-tier). The Goten cohort body's Gotenks-Fusion-Dance slot frames this same print as the canonical SS-tier fusion-prodigy; the Hyperbolic Time Chamber Piccolo-training arc produces the Buu-Saga power-ceiling that Super-Buu eventually breaks via the canonical absorption beat. `[Source: Dragon Ball Wiki: Gotenks]`
+

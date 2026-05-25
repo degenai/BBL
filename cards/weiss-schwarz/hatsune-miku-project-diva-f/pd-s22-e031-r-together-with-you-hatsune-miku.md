@@ -75,3 +75,7 @@ A mid-shot of a teal-haired figure with long twin tails in a light, flowing cost
 **Iconography:** twin-tails, sparkle-motif, open-hand-gesture
 **Genre cues:** anime, vocaloid, idol
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Miku in the *Together with You* module: flowing pale-teal-and-white costume, open-palm forward reach toward the viewer, soft pink-and-teal sparkle background. The warm intimate-concert register contrasts directly with Factory Tyrant's industrial defiance and is one of the connective / audience-facing modules in the Project DIVA F catalog — the cohort's emotional inversion of the dark-stage Miku slate.
+

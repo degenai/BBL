@@ -82,3 +82,7 @@ A bare-chested, heavily muscled figure crouches low in a dense forest, mid-trans
 **Iconography:** transformation, aura, pack
 **Genre cues:** fantasy, mythology
 
+## Connections
+
+- [[theros-pantheon]] — Nylea-direct-speech flavor card with first-person attribution to the goddess of the hunt (*"Be fearless, for a furious rebirth awaits you." — Nylea, god of the hunt*), the canonical pantheon-voice register structurally parallel to a Wizards-confirmed in-canon speech-act. The aura's death-trigger (when destroyed, create two 2/2 Wolf tokens) is the rules-text rendering of the *furious rebirth* doctrine: the enchanted creature's death becomes a multiplied wolf-pack regenesis, mechanizing Nylea's domain as the regenerative-cycle of predation-and-renewal rather than static stewardship. Already double-anchored at the [[nylea]] sub-node as the corpus's only Nylea-direct-speech flavor card. `[Scryfall flavor_text: thb/178; MTG Wiki: Nylea, God of the Hunt]`
+

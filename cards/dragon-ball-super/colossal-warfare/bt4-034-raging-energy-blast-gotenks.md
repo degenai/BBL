@@ -89,3 +89,8 @@ A muscular figure with voluminous golden spiky hair stands with arms spread wide
 - Son Goten (Colossal Warfare) — fusion component, appears as Battle Card in BT4
 - Trunks: GT (Colossal Warfare) — fusion component, also appears as Baby Saga Battle Card in same set
 - Vengeful Onslaught (Colossal Warfare, BT4-022) — Trunks vs. Baby confrontation, same set
+
+## Connections
+
+- [[trunks]] — Gotenks Fusion-Dance dual-anchor (Trunks-half-of-fusion register). The cohort body names this card explicitly in the Gotenks slot as the BT4 cross-arc print where Gotenks operates as the Buu-Saga power-level contrast anchor against BT4's GT Baby Saga primary theme; voluminous SS-form long-spiky hair distinguishes Gotenks-SS from the BT1-071 base-form Metamoran-vest profile. Canonical Fusion-Dance combined-character dual-anchor pattern wires this print at both Trunks (Trunks-half) and [[son-goten]] (Goten-half) cohort nodes per the precedent the three corpus Gotenks prints (BT1-071 + BT2-015 + BT4-034) share. `[Source: Dragon Ball Wiki: Gotenks; GameRant: All Forms of Gotenks]`
+- [[son-goten]] — Gotenks Fusion-Dance dual-anchor (Goten-half-of-fusion register). The Goten cohort body's Gotenks slot names this card explicitly with the same Metamoran-vest-distinguishing canon framing; the Buu-Saga Hyperbolic Time Chamber Piccolo-training arc produced the canonical SS3 milestone that BT4-034's SS-tier art canonically encodes one transformation tier below. `[Source: Dragon Ball Wiki: Gotenks Is Born]`

@@ -88,3 +88,7 @@ A young child with short light-colored hair is shown in a mid-shot with a clearl
 - Begrudging Respect Piccolo (World Martial Arts Tournament, TB2-027) — later trained Trunks for the fusion against Buu
 - Top of His Game Son Gohan (World Martial Arts Tournament, TB2-021) — Gohan was present for the adult bracket simultaneously
 
+## Connections
+
+- [[trunks]] — Kid-Trunks aspect anchor (Junior-Tournament-slice-of-life register). The cohort body's Kid-Trunks caveat frames the present-timeline child Trunks raised by Bulma and Vegeta on Earth, canonical Junior Tournament cohort partner with Son Goten; TB2-026 is the slice-of-life pendant to TB2-007's Tiny Rivals action-mode register — same canonical Kid-Trunks incarnation, lobby-and-aftermath mode rather than ki-blast mode. The card's "Awkward Situation" register canonically reads against the Saiyan-prince-heir gravity Vegeta projects onto his son: the cohort's *moral-compass-to-Vegeta foil* role surfaces here as comedic embarrassment rather than combat resolve, slice-of-life as counter-canon to the broader cohort's combat-focused register. `[Source: Dragon Ball Wiki: World Martial Arts Tournament; CBR: Dragon Ball Goten vs Trunks]`
+

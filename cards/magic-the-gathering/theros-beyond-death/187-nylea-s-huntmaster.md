@@ -82,3 +82,7 @@ A centaur figure stands in profile within a sun-dappled forest, body angled to t
 **Iconography:** petals, forest-light
 **Genre cues:** fantasy, high-fantasy, mythic
 
+## Connections
+
+- [[theros-pantheon]] — Nylea-named THB card whose centaur shaman is the goddess of the hunt's canonical cult-operative class (centaurs are Theros's principal Nylea-aligned race per MTG Wiki Nylea page); the *"Nature is stillness and savagery in equal measure"* flavor distills her domain's dual register, and the oracle text uses devotion-to-green as the +X/+0 multiplier — the mechanical signature of green-god-devotion. The card stages the pantheon's stewardship-of-the-commons face: the huntmaster works inside the forest's natural cycle, not as its owner. Already double-anchored at the [[nylea]] sub-node as the headline anchor and the only Nylea-direct-named card in the corpus. `[Scryfall flavor_text: thb/187; MTG Wiki: Nylea, God of the Hunt]`
+

@@ -89,3 +89,7 @@ A tall green-skinned humanoid figure stands in a wide action stance with one arm
 - Son Gohan, Family of Justice (Galactic Battle, BT1-062) — Gohan is Piccolo's canonical student; mentor-student pair complete within BT1
 - Human Shield Krillin (Galactic Battle, BT1-072) — both Piccolo and Krillin occupy the stewardship register in different modes: mentor vs. loyal human shield
 
+## Connections
+
+- [[namekian]] — Highest-instantiation Namekian / post-Nail-fusion-state anchor. This card depicts Piccolo in his canonical post-Nail-fusion state during the Frieza Saga — the in-canon power increase that boosted him to Frieza's-Second-Form-challenger threshold, and the corpus's earliest cross-set Piccolo print after the BT4 Colossal Warfare Namekian-block coverage. Piccolo is the franchise's most-instantiated Namekian and the canonical Earth-side Demon Clan exemplar reformed across the Z-era arcs into a protagonist-aligned warrior. `[Dragon Ball Wiki: Piccolo]` `[CBR: Namekian Fusion]` `[[namekian]]`
+

@@ -82,3 +82,7 @@ A tall, gaunt skeletal figure in tattered, flowing dark robes stands at center o
 **Iconography:** death, psychopomp, ferryman, soul-passage
 **Genre cues:** fantasy, mythology, greek-myth, dark-fantasy
 
+## Connections
+
+- [[theros-pantheon]] — Athreos, God of Passage (Journey into Nyx 2014, mythic; this print is the Mystery Booster Cards / The List reprint at 146). The pantheon's white-black psychopomp deity, canonical Greek-mythology homage to Charon the ferryman of the dead, and the corpus's only printed god-card (as opposed to god-referencing card) in the broader 18-anchor pantheon stack — structurally the cohort's headline entry. The oracle's *"As long as your devotion to white and black is less than seven, Athreos isn't a creature"* canonically encodes the devotion-threshold animation logic that defines the pantheon's mechanical signature; the depicted coin-pouch is Athreos's canonical ferryman's-toll iconography. `[Scryfall: tlist/146; MTG Wiki: Athreos, God of Passage; Pantheon of Theros]`
+

@@ -95,3 +95,7 @@ Two figures occupy the frame in a tense, dramatic scene. A smaller green-skinned
 - King Piccolo, Lord of Terror (Colossal Warfare, SD4-04) — Namekian leader the Counter's bonus condition references
 - Indomitable Dynasty SS Son Goku (Colossal Warfare, BT4-077) — contrasting hero card in the same set
 - Fused with Nail Piccolo (Dragon Ball Legends) — named card for the post-fusion state; potential archive node
+
+## Connections
+
+- [[namekian]] — Fusion-mechanic-as-race-signature anchor. The card's two-figure composition (smaller collapsed green Namekian below, larger looming figure above) admits two adjacent canonical readings — Nail's body broken by Frieza, or the Nail-into-Piccolo permanent-fusion power-transfer beat — and the card's Counter mechanic (sacrifice life cards for hand advantage when Leader is Namekian) structurally encodes the sacrifice register. The dual-readability is preserved at the race-anchor level: both readings cite the race-signature permanent-biological-fusion mechanic that distinguishes Namekian Assimilation from Fusion Dance and Potara per Dragon Ball Wiki's Namekian Fusion entry. `[Dragon Ball Wiki: Namekian Fusion]` `[Dragon Ball Wiki: Nail]` `[[namekian]]`

@@ -100,3 +100,7 @@ A close-to-mid shot of a teal-haired figure with long twin tails in a dark punk-
 - **Sales / reception** — PD F PS Vita Japan opened #1 with 158,607 first-week copies; ~390K shipped by April 2013. SEGA devs publicly acknowledged budget "may have been too big" — outsold by Persona 4: Golden in the same window. `[SEGAbits, 2012]`
 - **Long commercial tail** — Factory Tyrant module released as SEGA Super Premium (SPM) arcade-prize figure in March 2017 (240mm); added to Project DIVA Arcade Future Tone May 28 2015 — three years past the original game. Japanese title: "Wagamama Koubachou" (literally "Selfish Plant Manager"). `[MyFigureCollection.net]`
 - **Song still culturally active** — Original Niconico upload (Aug 27 2012) ~592K views per Vocaloid Rankings tracker; 2021 V4X YouTube remake crossed 1M views. `[Vocaloid Rankings; VocaDB]`
+
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Miku in the *Factory Tyrant* module: dark structured punk-industrial jacket with choker-style collar, vivid red eyes (a hallmark identifier distinguishing this module from default-eye Miku printings), against a dark industrial-stage backdrop. The defiant register reads as the dark-punk counterpart to the Divine Goddess / Dark Angel ceremonial inversions in the same set, and at PD/S22-E027 RR it is one of the premium Double Rare module-printing pulls in the cohort.

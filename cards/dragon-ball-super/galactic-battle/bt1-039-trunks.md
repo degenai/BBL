@@ -89,3 +89,7 @@ A young fighter is shown in a mid-shot action pose, body turned slightly with fi
 - King Cold, Father of the Emperor (Galactic Battle, BT1-091) — Future Trunks kills both Frieza and King Cold upon arrival in the main timeline; BT1-091 is the antagonist Trunks dispatches
 - Frieza, The Galactic Emperor (Galactic Battle, BT1-084) — Future Trunks' first on-screen act in the main timeline is killing Frieza
 
+## Connections
+
+- [[trunks]] — Future-Trunks aspect anchor (Z-canon Frieza-Saga debut register). The cohort body's Future-Trunks slot frames the Z-canon / DBS-continuation incarnation broadly; this BT1-039 print sits in the Z-canon-debut subregister — the canonical arrival-from-the-future-timeline moment where Future Trunks kills Frieza and King Cold on Earth before the Z-warriors realize who he is. Blue jacket + swept light hair + golden aura = the Frieza-and-Cell-Saga signature look the cohort's caveat distinguishes from the 2016 DBS Future Trunks Saga red-scarf redesign (BT3-062) and from GT Trunks' brown-jacket adult continuation. The inaugural BT1 set's inclusion of Future Trunks as a Common signals the character's load-bearing Z-canon centrality to the DBS Card Game from launch. `[Source: Dragon Ball Wiki: Future Trunks; CBR: Future Trunks' Life in Dragon Ball Z and Dragon Ball Super]`
+

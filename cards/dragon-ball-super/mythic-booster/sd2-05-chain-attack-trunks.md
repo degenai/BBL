@@ -91,3 +91,7 @@ A male figure with spiky golden Super Saiyan hair lunges toward the viewer in a 
 - Unbreakable Super Saiyan Son Goku (Mythic Booster, SD2-03) — same Mythic Booster set, companion SD2 card
 - Tenacious Vegeta (Galactic Battle, BT1-066) — Vegeta is Trunks' father, thematic father-son pair
 
+## Connections
+
+- [[trunks]] — Future-Trunks aspect anchor (Future Trunks Saga SS-tier register). The cohort body's Future-Trunks slot names this card explicitly as the canonical Future-Trunks-Saga SS-tier corpus print; spiky golden SS hair + electric-lightning ki aura + night-void background = the canonical apocalyptic-future aesthetic that the DBS 2016 Future Trunks arc (episodes 47-76) installs into Trunks' visual register. Originally from DBS-SD02 "The Extreme Evolution" starter deck (January 2020) and reprinted in Mythic Booster MB-01 with new alternate art + gold stamp; Bandai character-tag *Trunks: Future* per the cohort caveat's per-print incarnation identifier discipline. `[Source: dbs-cardgame.com: Mythic Booster MB-01; CBR: Future Trunks' Life in Dragon Ball Z and Super]`
+

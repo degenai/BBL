@@ -82,3 +82,7 @@ The card art — viewed at medium resolution through the Weiss Schwarz card fram
 **Iconography:** teal-twintails, school-uniform, glasses
 **Genre cues:** anime
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Miku in an azure-and-navy stage module with celestial accents and a deep-sky palette. Among the Miku module printings in PD/S22, this Common sits alongside *Honey Whip*, *Dark Angel*, and the *Weekender Girl* song-module-Miku slate as the cohort's mid-cost module-variant tier — the depicted school-jacket-and-glasses inflection is the *Deep Sky* costume's canonical Project DIVA F appearance.
+

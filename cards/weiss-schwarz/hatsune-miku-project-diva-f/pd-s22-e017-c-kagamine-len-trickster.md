@@ -76,3 +76,7 @@ A close-up portrait of an anime character with a short haircut and large blue-gr
 **Iconography:** top-hat
 **Genre cues:** anime, vocaloid, music
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Len in the *Trickster* module variant: black top hat and dark stage costume in a mischievous-performer register that sits in the catalog alongside Bad Boy as the playful/rebel-coded Len modules. The top-hat-and-theatrical-grin design is one of the more flavor-driven module variants in the PD/S22 Len slate, contrasting with the Original module's clean idol-default register.
+

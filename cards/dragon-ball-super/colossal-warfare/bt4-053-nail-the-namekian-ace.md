@@ -93,3 +93,7 @@ A muscular green-skinned humanoid figure with distinctive Namekian antenna-like 
 - Kami's Power Piccolo (Colossal Warfare, BT4-049) — Piccolo is the direct beneficiary of Nail's merger; thematic payoff for Nail's sacrifice
 - Kindhearted Namekian Dende (Colossal Warfare, BT4-055) — Fellow Namekian in the same consecutive block
 - Popo, Guardian's Aide (Colossal Warfare, BT4-056) — Consecutive Namekian block companion
+
+## Connections
+
+- [[namekian]] — Frieza-Saga warrior-type anchor. This card depicts Nail — Grand Elder Guru's personal bodyguard, the strongest Namekian warrior on Planet Namek during the Frieza Saga, and the canonical *fusion recipient* whose Namekian-fusion-with-Piccolo (after sustaining fatal injuries from Frieza) is the in-canon explanation for Piccolo's massive mid-saga power jump and the corpus's clearest single-warrior citation of the race's signature permanent-biological-merge mechanic. Subtitle *the Namekian Ace* quotes the canonical designation per Dragon Ball Wiki's Nail page. `[Dragon Ball Wiki: Nail]` `[[namekian]]`

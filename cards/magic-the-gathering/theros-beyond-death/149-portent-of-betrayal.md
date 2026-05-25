@@ -85,3 +85,7 @@ tags:
 - Portent of Betrayal (THS, no. 133) — original 2013 printing with different art
 - Skophos Warleader (THB, no. 154) — sacrifice outlet that synergizes with stolen creatures
 
+## Connections
+
+- [[theros-pantheon]] — Mogis-flavor-attributed THB card naming the god directly as the cause of mortal-on-mortal betrayal (*"Mogis can fan a small flame of resentment into an inferno of madness"*), canonicalizing the pantheon's god-of-slaughter as the supernatural agent who provokes warriors to turn on their own ranks. The temporary-mind-control oracle effect (gain control + untap + haste) is the rules-text rendering of the flavor's psychological-warfare doctrine: Mogis fans resentment, the mortal acts as Mogis's hand against their ally. Already double-anchored at the [[mogis]] sub-node alongside Infuriate as the set's Mogis-direct-flavor pair within the broader six-card Mogis-cult stack. `[Scryfall flavor_text: thb/149; MTG Wiki: Mogis, God of Slaughter]`
+

@@ -94,3 +94,7 @@ An extremely large, corpulent elder figure with green skin dominates the frame. 
 - Kindhearted Namekian Dende (Colossal Warfare, BT4-055) — Dende received Guru's power unlock and gained healing abilities
 - Kami, the Watcher (Colossal Warfare, BT4-054) — Kami as Earth-guardian counterpart to Guru's Namek-patriarch role
 - Newfound Power Son Gohan (Colossal Warfare, BT4-048) — Gohan received Guru's unlock on Namek; the power eventually evolved into his Ultimate form
+
+## Connections
+
+- [[namekian]] — Dragon Clan elder-tier anchor. This card depicts Grand Elder Guru, the canonical leader of the Dragon Clan and the race's eldest living member during the Frieza Saga — the patriarch whose innate power-unlock ability is the in-canon narrative ground for Krillin's, Gohan's, and Dende's Namek-Saga power-ups, and who is canonically the *creator of the Namekian Dragon Balls* whose summoning of Porunga distinguishes the second canonical Dragon-Ball-generating system from Earth's Shenron-set. The card's title *Gift of Power* directly names the canonical unlock-mechanic. `[Dragon Ball Wiki: Grand Elder Guru]` `[[namekian]]`

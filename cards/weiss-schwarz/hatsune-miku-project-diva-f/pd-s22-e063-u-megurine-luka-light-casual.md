@@ -75,3 +75,7 @@ A figure with long flowing pink hair stands in a relaxed three-quarter pose agai
 **Emotion read:** relaxed, calm, approachable — casual non-performative stance
 **Genre cues:** anime, idol, j-pop
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Luka in the *Light & Casual* module: pink-haired three-quarter pose in a soft-toned everyday outfit against a pale neutral void background. **First Megurine Luka entry in the BBL corpus** — Luka is Crypton's CV03 voicebank (January 30, 2009), the first bilingual Crypton voicebank (Japanese + English) and the third member of the Character Vocal Series alongside Miku (CV01) and the Kagamine pair (CV02); the *Light & Casual* module is the catalog's relaxed-everyday-Luka register, contrasting with her performative-stage modules elsewhere in the set.
+

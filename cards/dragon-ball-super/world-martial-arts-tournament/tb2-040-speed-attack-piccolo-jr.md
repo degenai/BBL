@@ -90,3 +90,7 @@ A green-skinned humanoid figure with a large pale turban-style head wrap and poi
 - Trusting Relationship Kami (World Martial Arts Tournament, TB2-046) — Kami and Piccolo Jr. are the two halves of the Nameless Namekian; their fusion is Kami's canonical arc resolution
 - Awakening Talent Pan (World Martial Arts Tournament, TB2-024) — Piccolo mentored Gohan who is Pan's father; mentor-chain connects these three cards
 - Fateful Reunion Chi-Chi (World Martial Arts Tournament, TB2-037) — Chi-Chi and Piccolo are the two primary competing influences on Gohan's upbringing; canonical tension
+
+## Connections
+
+- [[namekian]] — Demon Clan / King-Piccolo-reincarnation anchor. This card depicts Piccolo Jr. — the complete reincarnation of King Piccolo, born from the spat-egg the Demon King produced as he died and inheriting all his father's memories, which canonically demonstrates the Demon Clan's race-signature *asexual reproduction by orally spat egg* mechanic operating across-generations rather than within-saga. The 23rd Tenkaichi *Ma Junior* alias and the canonical post-Goku-defeat villain-to-mentor pivot are the foundation of the franchise's Piccolo-reforms-into-stewardship arc per Dragon Ball Wiki's Piccolo page. `[Dragon Ball Wiki: Piccolo]` `[[namekian]]`

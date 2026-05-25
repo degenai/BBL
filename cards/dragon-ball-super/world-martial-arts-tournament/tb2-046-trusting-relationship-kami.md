@@ -88,3 +88,7 @@ An elderly green-skinned Namekian figure in white and blue robes stands in a com
 ### Related cards
 - Speed Attack Piccolo Jr. (World Martial Arts Tournament, TB2-040) — Piccolo is Kami's other half; their fusion is Kami's canonical arc resolution
 - Trusting Relationship Kami (World Martial Arts Tournament, TB2-046) — self-reference; sidecar anchor
+
+## Connections
+
+- [[namekian]] — Dragon Clan / Earth-side Guardian anchor (second corpus Kami print). The red kanji circle on the white-and-blue robes is Kami's canonical Guardian-of-Earth signature — the `神` (kami / god) glyph identifying him as Earth's Guardian per Dragon Ball Wiki's Kami page — and the card's *Trusting Relationship* title indexes the canonical Kami-permanently-fuses-with-Piccolo Android-Saga endpoint where the stewardship-tier elder dissolves into the next-generation protector. The TB2-046 print pairs with BT4-054 *Kami, the Watcher* as the corpus's two-print Kami coverage spanning two DBSCG sets. `[Dragon Ball Wiki: Kami]` `[[namekian]]`

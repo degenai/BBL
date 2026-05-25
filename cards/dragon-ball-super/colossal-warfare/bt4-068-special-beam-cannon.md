@@ -89,3 +89,7 @@ A green-skinned figure with pointed ears and a distinctive physique is shown per
 - Piccolo, Special Beam Cannon Unleashed (Assault of the Saiyans) — later card featuring the same technique; same move, later era
 - Titanic Ambition Lord Slug (Colossal Warfare, BT4-059) — fellow [Bond] Namekian in BT4; narrative pair to Piccolo in BT4 design concept
 
+## Connections
+
+- [[namekian]] — Technique-as-race-signifier anchor. This card depicts the Makankōsappō (Special Beam Cannon), Piccolo's signature canonical technique — and canonically a *Namekian-Demon-Clan-tradition energy attack* whose precursor template is King Piccolo's own Antenna Beam, making the card a corpus citation of the race's combat-traditions at the technique-cycle level rather than at the character-depiction level. Card skill text Leader-locks the +10000 power bonus to Piccolo specifically, mechanically encoding the technique's named-character anchor. `[Dragon Ball Wiki: Makankōsappō]` `[[namekian]]`
+

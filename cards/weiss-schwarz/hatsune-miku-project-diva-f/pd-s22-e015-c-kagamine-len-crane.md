@@ -77,3 +77,7 @@ A blonde-haired figure in a red and black jacket-and-shorts outfit strikes a dyn
 **Iconography:** radial-burst, idol-costume
 **Genre cues:** anime
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Len in the *Crane* module: red-and-black jacket-and-shorts costume in a dynamic standing pose against a red-and-white radial-burst backdrop. The *Crane* module name corresponds to the *Senbonzakura* / *Crane* song-cycle module tier in the Project DIVA catalog — Kurousa-P's *Senbonzakura* is the canonical Kagamine-twins-paired Project DIVA track that licenses associated module variants.
+

@@ -81,3 +81,7 @@ A vivid green serpent with chartreuse-yellow scaling along its underbelly is coi
 **Creatures:** snake, viper
 **Genre cues:** fantasy
 
+## Connections
+
+- [[theros-pantheon]] — Two-god flavor card whose single-line attribution (*"Nylea watches over all the creatures of the forest except for the snakes. Blessed by Pharika, they can take care of themselves"*) is the corpus's clearest canonical Wizards-published attestation of the forest-as-commons register at the pantheon-tier. The linguistic register is explicit stewardship — Nylea *watches over* the creatures rather than owning them — and the snakes-excepted clause stages the pantheon-internal division-of-domains between Nylea (forest creatures) and Pharika (god of affliction, serpents and poison) as designer-coordinated pantheon-design. Already double-anchored at the [[nylea]] sub-node as the corpus's clearest watch-over-language anchor. `[Scryfall flavor_text: thb/179; MTG Wiki: Nylea, God of the Hunt; Pharika, God of Affliction]`
+

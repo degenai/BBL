@@ -90,3 +90,8 @@ A young child with short light-colored hair extends one arm forward in an attack
 - Mighty Mask, Powers Combined (World Martial Arts Tournament, TB2-008) — Trunks and Goten in disguise as Mighty Mask in the same tournament arc
 - Vegeta, Power Misused (World Martial Arts Tournament, TB2-006) — Vegeta is Trunks's father; both appear in TB2
 
+## Connections
+
+- [[trunks]] — Kid-Trunks aspect anchor (Junior-Division-paired-print register). The cohort body's Kid-Trunks slot names this card explicitly as the corpus's primary Kid-Trunks anchor — designer-coordinated paired-print with TB2-004 Tiny Rivals Son Goten per the canonical Buu-Saga Junior Division Goten-and-Trunks final-match arc; matched art-style + energy-burst color treatments confirm the designer-coordination at the print-object level. Lavender hair + sleeveless top + child-sized frame = canonical Kid-Trunks identifiers distinguishing this incarnation from Future / GT / Xeno per the cohort's hair-color caveat. `[Source: Dragon Ball Wiki: Trunks; Dragon Ball Wiki: World Martial Arts Tournament]`
+- [[son-goten]] — Junior Tournament cohort partner (Link-Card pair register). The Goten cohort body's *Tiny Rivals* slot frames the TB2-004 / TB2-007 designer-coordinated paired-print as the canonical entry point for the Goten-and-Trunks Junior Tournament cohort, with TB2-008 Mighty Mask Powers Combined as the narrative-resolution combined-disguise card. `[Source: Official DBS Card Game: WMAT Design Concept]`
+

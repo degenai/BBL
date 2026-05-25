@@ -83,3 +83,7 @@ A maroon-and-crimson winged creature with a long sinuous body and outstretched f
 **Iconography:** arrow, wings
 **Genre cues:** fantasy, mythological
 
+## Connections
+
+- [[theros-pantheon]] — Nylea-signature-bow flavor card whose one-line attribution (*"An arrow from Nylea's bow never fails to find its mark"*) canonicalizes the goddess of the hunt's longbow as the supernatural cause of the depicted falling beast — her signature divine implement structurally parallel to Heliod's spear, Thassa's bident, and Mogis's ebon greataxe per MTG Wiki Nylea page. The destroy-target-creature-with-flying oracle is the rules-text rendering of the canonical iconography: every flying creature struck down on Theros is, in canon, struck by Nylea's bow. Already double-anchored at the [[nylea]] sub-node as the corpus's canonical longbow-iconography anchor. `[Scryfall flavor_text: thb/194; MTG Wiki: Nylea, God of the Hunt]`
+

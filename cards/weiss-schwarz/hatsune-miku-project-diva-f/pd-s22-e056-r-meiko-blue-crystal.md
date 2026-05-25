@@ -93,3 +93,7 @@ The card art — viewed at medium resolution through the Weiss Schwarz card fram
 - KAITO (PD/S22) — pre-CVS Crypton Vocaloid male counterpart to MEIKO
 - Megurine Luka (PD/S22) — CV03, Crypton's third Character Vocal Series character
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — MEIKO in the *Blue Crystal* module: sapphire-blue open-collar jacket with puffed sleeves, matching epaulets and gloves, against dramatic stage lighting. MEIKO is the only MEIKO entry in the BBL corpus and represents Crypton's original-era female voicebank (pre-CV-series, original Yamaha Vocaloid engine, November 2004) distinct from the CV-series Miku/Rin/Len/Luka — her presence anchors the older-Vocaloid-engine end of the cohort's voicebank-history spectrum.
+

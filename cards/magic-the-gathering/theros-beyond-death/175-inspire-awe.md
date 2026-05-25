@@ -82,3 +82,7 @@ A tall figure draped in flowing pale robes stands on a stone outcrop with both a
 **Iconography:** raised-arms, rallying-pose, divine-figure
 **Genre cues:** fantasy, greek-myth, mythic
 
+## Connections
+
+- [[theros-pantheon]] — Nylea-manifestation flavor card whose single-line attribution (*"Nylea appeared amid the howl of a hundred beasts"*) canonicalizes the depicted divine event as the goddess of the hunt's appearance amid her beast-pack, with the raised-arms-on-rocky-outcrop iconography aligning with canonical Nylea-manifestation imagery per MTG Wiki Nylea page. The damage-prevention-except-by-enchanted-or-enchantment-creatures oracle is a constellation-payoff effect (THB's signature mechanic-axis) that rewards Nyx-touched permanents on the battlefield, mechanically locating this card within the pantheon's devotion-and-constellation design-language signature. Already double-anchored at the [[nylea]] sub-node as the corpus's clearest Nylea-direct-depiction-likely anchor via flavor-event attribution. `[Scryfall flavor_text: thb/175; MTG Wiki: Nylea, God of the Hunt]`
+

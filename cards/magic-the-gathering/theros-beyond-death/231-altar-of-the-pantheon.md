@@ -90,3 +90,7 @@ A monumental classical temple crowns a sun-warmed hilltop, its white-marble colo
 - Athreos, Shroud-Veiled (Theros Beyond Death, no. 269) — THB God; same Altar lifegain synergy
 - Alseid of Life's Bounty (Theros Beyond Death, no. 1) — same set; fellow Theros enchantment-support piece in corpus
 - Chromatic Lantern (Return to Ravnica, no. 224) — comparable color-fixer artifact often compared to Altar in mana-rock design discussions
+
+## Connections
+
+- [[theros-pantheon]] — Architectural-tier pantheon anchor whose card name invokes the pantheon as a single body, with the depicted hilltop Greek temple framing the cohort's institutional architecture rather than any one god's cult. The oracle text bundles all gods under a single devotion-boost (your devotion to each color and each color combination increased by one) and pays off lifegain on controlling a God, a Demigod, or a legendary enchantment — mechanizing the pantheon-as-unified-body at the rules-text tier and structurally counterposing the named-god cards (Athreos, Mogis-cult, Nylea-cult, Iroas-cult) whose anchors point at individual deities. The corpus's clearest pantheon-scope-rather-than-single-god-scope card. `[Scryfall: thb/231; MTG Wiki: Pantheon of Theros]`

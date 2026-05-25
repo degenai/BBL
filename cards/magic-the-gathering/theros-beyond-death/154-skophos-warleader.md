@@ -97,3 +97,7 @@ A bull-headed minotaur warrior surges forward through a battlefield engulfed in 
 - Minotaur Sureshot (HOU, no. 92) — earlier Minotaur Warrior in the creature type pool
 - Infuriate (THB, no. 141) — same set, the Mogis-touched minotaur that appears in that card's flavor text
 
+## Connections
+
+- [[theros-pantheon]] — Mogis-polis-canonical THB card whose flavor names the setting on the card itself (*"The minotaur polis of Skophos boasts grand temples to the god of slaughter"*), with the burning Greek-style temples in the background depicted as canonical Mogis-temples per MTG Wiki Skophos page. The sacrifice-for-menace oracle activation ({R}, sacrifice another creature or enchantment: +1/+0 and menace) mechanically mirrors the Mogis-cult doctrine of slaughter-as-tribute at the rules-text tier — Skophos minotaurs offer lives to their god and grow stronger for it. Already double-anchored at the [[mogis]] sub-node as the corpus's canonical Skophos-polis anchor within the broader six-card Mogis-cult stack. `[Scryfall flavor_text: thb/154; MTG Wiki: Skophos; Mogis, God of Slaughter]`
+

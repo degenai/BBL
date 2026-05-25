@@ -81,3 +81,7 @@ A gnarled, leafless dark tree stands alone at the center of the composition, its
 **Iconography:** forbidden-fruit, lone-tree, underworld
 **Genre cues:** fantasy, mythology, dark-fantasy, greek-mythology
 
+## Connections
+
+- [[theros-pantheon]] — Erebos-realm geography card whose flavor names the underworld locale directly (*"One spiny tree with bitter fruit grows in the realm of Tizerus, outside the palace of Erebos"*) — Tizerus is one of the five rivers/realms of Erebos's Underworld and the geography Elspeth crosses in her canonical THB escape arc per the *Theros Beyond Death Story Summary* (Wizards of the Coast, 2020-01-10). The Escape oracle keyword (the set's signature mechanic, exile cards from graveyard to return to play) is the rules-text rendering of the canonical rebellion-against-the-pantheon's-claim-on-the-dead, with this card sitting at the geography-anchor of the set's protagonist arc. Sole anchor at the parent pantheon cohort (no Erebos solo sub-node currently exists in the BBL graph). `[Scryfall flavor_text: thb/96; MTG Wiki: Erebos, God of the Dead; Wizards: Theros Beyond Death Story Summary, 2020-01-10]`
+

@@ -91,3 +91,7 @@ A Super Saiyan fighter stands in a mid-shot composition with upright spiky golde
 - Future Gohan (various DBS sets) — Trunks' mentor in the alternate timeline; the source of his resolve
 - Goku Black (various DBS sets) — the primary antagonist of the Future Trunks Saga arc; the reason Trunks pushes to SS2 and beyond
 
+## Connections
+
+- [[trunks]] — Future-Trunks aspect anchor (Future Trunks Saga / Goku Black arc register). The cohort body's Future-Trunks slot names this card explicitly as the corpus's *Unyielding Justice* anchor for the DBS 2016 Future Trunks Saga's SS2-tier engagement against Zamasu and Goku Black; sleeveless dark vest + electric-lightning-arcs golden hair = canonical SS2 marker per the Bandai *Trunks: Future* character-tag the cohort's caveat names as the per-print incarnation identifier. The card pairs designer-coordinated with BT3-062 (base-form) as the cohort's two-card Future-Trunks-Saga representation within BT3. `[Source: Dragon Ball Wiki: Future Trunks Saga; CBR: Goku Black & Zamasu's Plan Explained]`
+

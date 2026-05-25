@@ -74,3 +74,7 @@ A figure with long teal twintail pigtails is captured mid-pose in a dynamic, ene
 **Emotion read:** exuberant, performative, energetic — raised arm in classic stage-gesture pose
 **Genre cues:** anime, idol, j-pop
 
+## Connections
+
+- [[project-diva-f-vocaloid-roster]] — Miku in the *Star Vocalist* module: stage costume mid-performance with raised-arm gesture against a magenta dot-pattern concert backdrop. The exuberant on-stage-mid-song register is the Project DIVA F catalog's canonical *live-concert-Miku* module tier and pairs cleanly with *Honey Whip* as the cohort's pop-stage Miku slate, distinct from the ceremonial (Divine Goddess / Dark Angel) and dark-industrial (Factory Tyrant) module poles.
+
