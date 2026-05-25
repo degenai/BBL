@@ -90,3 +90,7 @@ A large, powerfully built alien figure dominates the frame in full battle armor.
 - Trunks (Galactic Battle, BT1-039) — Future Trunks kills both King Cold and Frieza upon arrival in the main timeline
 - Ginyu // Ginyu, The Malicious Transformation (Galactic Battle, BT1-085) — the Ginyu Force serves the Cold/Frieza empire hierarchy
 
+## Connections
+
+- [[frieza-force]] — King Cold is the canonical founder of what became the Planet Trade Organization (originally the Cold Force) and the apex patriarch of the empire's dynastic structure. BT1-091's title "Father of the Emperor" makes the founder-operator dyad explicit: Cold built the apparatus; Frieza inherited and operated it. The Frieza-clan bio-armor scaled up considerably in body mass relative to Frieza's slim first form visually communicates a dynasty of compounding power — the apparatus existed before Frieza and was destroyed in the main timeline only when Future Trunks killed both Cold and Frieza upon arrival from the future.
+

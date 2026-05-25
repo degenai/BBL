@@ -82,3 +82,7 @@ tags:
 - Kor Hookmaster (Zendikar) — original Kor hook-and-rope warrior card
 - Kor Skyfisher (Zendikar) — classic Kor flyer; long Modern and Pauper playable
 - Kor Spiritdancer (Rise of the Eldrazi) — same race; premier Kor card for enchantment-based builds
+
+## Connections
+
+- [[kor]] — Kor Sky Climber extends the cohort into Oath of the Gatewatch as the corpus's only OGW kor anchor, carrying the rope-and-light flight philosophy that defines the kor's relationship to Zendikar's vertical terrain. The flavor "with rope, I can fly as far as the rope can reach. But with light, the sky is the limit" maps the cohort's tool-mastery-into-spiritual-transcendence progression at a single common-slot card.

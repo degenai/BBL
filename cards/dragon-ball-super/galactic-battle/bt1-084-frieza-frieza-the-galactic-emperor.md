@@ -92,3 +92,7 @@ A slim, imposing alien figure stands in a composed commanding pose wearing disti
 - Ginyu // Ginyu, The Malicious Transformation (Galactic Battle, BT1-085) — Ginyu Force is Frieza's elite squad; both are flip-card Uncommons at adjacent BT1 numbers
 - Trunks (Galactic Battle, BT1-039) — Future Trunks kills Frieza upon arrival in the main timeline
 
+## Connections
+
+- [[frieza-force]] — Frieza is the operating emperor of the Planet Trade Organization, the canonical apex of the Cold-family extraction-empire dyad (founder King Cold, operator Frieza). BT1-084 is the corpus's primary Frieza anchor in first-form depiction; the flip mechanic encodes the canonical four-form escalation Toriyama wrote across the Namek arc. The card carries the Galactic Battle BT1 Yellow archetype's Leader-tier weight — the apex card the BT1-109 Frieza's Call search-engine ultimately points back toward.
+

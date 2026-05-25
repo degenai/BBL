@@ -88,3 +88,7 @@ A humanoid figure hangs from a wooden-and-fabric hang-glider/kite apparatus, fly
 - Kitesail Corsair (XLN) — later Kor Scout using the same kitesail technology in the Ixalan block
 - Kitesail Freebooter (XLN) — thematically adjacent kitesail creature; illustrates how the technology persists across planes/sets in kor lore
 - Akiri, Line-Slinger (C16) — the legendary kor who embodies the kitesail/rope discipline depicted in the art
+
+## Connections
+
+- [[kor]] — Kitesail Scout is the canonical render of the kor's signature kitesail technology — wood-and-fabric glider apparatus piloted through Zendikar's vertical canyon terrain. The flavor text's "next generation of kor must know this kind of peace" line is one of the cohort's clearest aspirational-survival registers, framing wartime reconnaissance as stewardship of a cultural ideal.

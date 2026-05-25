@@ -103,3 +103,7 @@ A young woman with long dark wavy hair leans forward into a cavern filled with h
 - Lionheart Glimmer (Duskmourn: House of Horror, no. 019) — white Cat Glimmer whose flavor text marks the survivors' turn from prey to hunter
 - Acrobatic Cheerleader (Duskmourn: House of Horror, no. 001) — the other low-CMC white Human Survivor with Survival, completing the white-Survivor opener pair
 
+## Connections
+
+- [[dsk-survival-archetype]] — the white-side Survivor opener for the cohort: type-line `Creature — Human Survivor` carrying the Survival trigger at second main phase, on a wonderstruck-explorer figure reaching toward a Glimmer in a tendril-filled cavern. Sits at the cohort's **wonder** affective pole opposite Cynical Loner's despair and Defiant Survivor's fight; mechanically tethered to the [[manifest-dread]]-adjacent Glimmer enchantment-token economy that the Survivor cohort feeds.
+

@@ -89,6 +89,10 @@ A close-up of a pale-skinned alien humanoid face with distinctive Frieza-clan fe
 - BT1-086 Frieza, Emperor of Universe 7 (Galactic Battle) — BT1-era standard Frieza Leader card
 - BT3-003 Victorious Fist Super Saiyan 3 Son Goku (Cross Worlds) — card enabled by P-028 in the turn-two kill line per official strategy article
 
+## Connections
+
+- [[frieza-force]] — Mecha Frieza is the cybernetically-rebuilt form of Frieza after his death at Future Trunks's hands, the canonical embodiment of the Planet Trade Organization's second-life: the empire as an institution outlives any single apex emperor. P-028's "Bionic Strike Mecha Frieza" awakened side is the corpus's anchor for the mechanically-rebuilt-Frieza tier, narratively bridging the Namek-era empire and the post-Resurrection-F revived Frieza Force under Sorbet's command. Watch-listed and errata'd by Bandai for enabling turn-two kill strategies in the Yellow Frieza-Army splash decks, the card sits inside the same Frieza's Army archetype the BT1-109 Frieza's Call search-engine locates.
+
 > [!warning] IP: **Frieza (Dragon Ball franchise)**
 > Frieza is a character owned by Bandai/Toei Animation. This card is a licensed product (Dragon Ball Super Card Game, published by Bandai). The card itself is official licensed merchandise — no reproduction risk. Note for bundle copy: use the card name as printed; do not reproduce character art in any original marketing material without a Bandai licensing agreement.
 > Sources: Card name on both sides of P-028; `[WebSearch: dbs-cardgame.com]`

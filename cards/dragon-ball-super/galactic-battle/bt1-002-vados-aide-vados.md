@@ -95,3 +95,7 @@ A slender humanoid figure stands at center in a confident fighting stance, holdi
 - Scheming Champa (Galactic Battle, BT1-006) — Champa is Vados's paired destroyer god
 - Manipulating God Champa (Galactic Battle, BT1-007) — second Champa card; same destroyer god Vados serves
 - Energy Boost Beerus (Galactic Battle, BT1-042) — Beerus is the U7 counterpart to Vados's charge Champa
+
+## Connections
+
+- [[universe-6-tournament-cohort]] — command-tier trainer-attendant anchor for the cohort. Vados is canonically the angel attendant of Champa and the elder sister of Whis — both children of the Grand Minister — and the canonical combat-instructor who teaches Champa's mortal warriors and accompanies them to tournament venues per Dragon Ball Wiki's Vados page. The card sits at the cohort's command-tier alongside Champa (BT1-006 + BT1-007), the two together constituting the destroyer-god / angel-attendant dyad that fields the U6 mortal-roster against Universe 7. Vados's training-attendant role is the cohort's canonical stewardship-register anchor — the *care-within-the-deployed-cohort* axis per the cohort node's dual-hub `related_hubs: [labor, stewardship]` attribution — distinct from the labor-tier apparatus-of-extraction the destroyer-god-deploys-mortals reading carries. `[Dragon Ball Wiki: Vados]` `[[universe-6-tournament-cohort]]`

@@ -92,3 +92,7 @@ A young figure in green short-sleeved clothing stands in a low fighting stance, 
 - Oblivious Bookworm (DSK) — another Survival creature in green, shares the manifest dread trigger package
 - Paranormal Analyst (DSK) — UG manifest dread payoff, pairs with Defiant Survivor in ramp-into-manifest builds
 - Horrors of the Deep (DSK) — Manifest Dread is a cross-set mechanical thread across many DSK green cards
+
+## Connections
+
+- [[dsk-survival-archetype]] — the cohort's **prey-turns-predator** thesis statement printed verbatim in flavor: *"The dark should be scared of me!"* — typed `Creature — Human Survivor` with the Survival trigger firing a [[manifest-dread]] when the survivor outlasts combat. Dual-codes the cohort with the manifest-dread symbol layer at the rules layer (one of two corpus members carrying both axes alongside Conductive Machete), structurally bridging the Survivor cohort and the set's graveyard-feed mechanical spine. Sits at the cohort's **fight** affective pole opposite Norin's flight, Cautious Survivor's document, and Glimmer Seeker's wonder.

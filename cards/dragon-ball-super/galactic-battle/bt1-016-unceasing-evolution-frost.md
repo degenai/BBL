@@ -95,4 +95,8 @@ A non-humanoid alien figure occupies the center of the frame, rendered in teal a
 - Cabba (Galactic Battle and later sets) — Universe 6 Saiyan fighter; same team as Frost
 - Frieza (Multiple sets) — Frost is the Universe 6 Frieza-race analogue — same species, parallel escalation arc
 
+## Connections
+
+- [[universe-6-tournament-cohort]] — Frieza-race U6-counterpart anchor for the cohort. Frost is canonically the Universe-6 mirror to Universe-7 Frieza per Dragon Ball Wiki's Frost page — same Frieza-race horned-and-mutated-humanoid biology, parallel emperor-class galactic-tyrant role, but a divergent canonical narrative: Frost publicly positions himself as a peacemaker ending galactic conflicts while secretly instigating those same wars for profit, exposed at the Tournament of Destroyers when his concealed wrist-needle poison-cheat against Goku and Piccolo gets him disqualified. The "Unceasing Evolution" title cites the canonical Frieza-race transformation escalation Frost runs through at the tournament against Vegeta. Within the cohort's apparatus-of-extraction reading, Frost is the U6 fighter whose rule-cheating is canonically Z-antagonist villainy *not* refusal-as-political-praxis — the cohort node's rebellion-hub absence rests partly on Frost's positioning. `[Dragon Ball Wiki: Frost; Dragon Ball Wiki: Tournament of Destroyers]` `[[universe-6-tournament-cohort]]`
+
 

@@ -87,3 +87,7 @@ Two humanoid figures occupy the foreground in dynamic combat poses. Both have di
 - Kabira Evangel (Zendikar) — original Kor Ally from the Zendikar block; precursor to the BFZ Ally rally design
 - Allies' Ambush (Battle for Zendikar) — instant that taps creatures in Ally-matters context; cross-references Kor Entanglers' tap-down utility
 
+## Connections
+
+- [[kor]] — Kor Entanglers depicts two kor warriors mid-coordination with the cohort's signature rope-and-hook entangler weaponry — the canonical duo-render of the kor's teamwork ethos. The flavor "We came into this world together. We fight for this world together. We'll leave this world together" is one of the cohort's clearest war-oath compressions, binding traditional nomadic individualism into mutual-survival coordination against the Eldrazi.
+

@@ -90,3 +90,7 @@ A young fighter is depicted from roughly the waist up in a dynamic three-quarter
 - Razor's Edge Yakon (World Martial Arts Tournament, TB2-017) — fellow Babidi Saga villain in the same TB2 set
 - Quick Rush Trunks (Cross Worlds, BT3-011) — Trunks is Gohan's generational peer among half-Saiyan adolescent DBS TCG heroes
 
+## Connections
+
+- [[son-gohan]] — Buu-Saga adolescence / 25th World Tournament register. TB2-003 depicts the canonical 16-year-old green-Piccolo-given-gi adolescent Gohan as one half of the tournament's "Heroic Duo" pairing with his father Goku; Bandai's character tag is Son Gohan: Adolescence per the parent node's canonical aspect roster. The 10000-power-or-less KO-on-entry effect mechanically encodes Gohan's in-story role as the fighter who defeated Babidi's enforcer Dabura, anchoring TB2-003 as the direct counter to TB2-014 Dark Duo Dabura in the parent's victim-vs-operator labor-credit-erasure framing.
+

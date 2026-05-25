@@ -86,3 +86,7 @@ A humanoid figure stands on a rocky promontory in a three-quarter stance. The fi
 - Ally Encampment (Battle for Zendikar) — land supporting Ally tribal synergy in the same set
 - Kor Bladewhirl (Battle for Zendikar) — Kor-adjacent BFZ Ally, first-strike support for the same aggro package
 - Harabaz Druid (Worldwake) — original Zendikar-era Ally that defined the rally engine Expedition Envoy feeds into
+
+## Connections
+
+- [[kor]] — Expedition Envoy is a Kor Scout Ally, the canonical Battle for Zendikar scout-and-expedition-house cohort the kor race anchors. The "ready for anything" motto situates her in the kor's scout-tier expedition labor; the Eldrazi-amplification clause places her squarely in the BFZ-block kor-versus-Eldrazi narrative arc.

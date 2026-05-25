@@ -92,3 +92,7 @@ A stocky, broad-shouldered humanoid figure stands at center in a boxing-like gua
 - Vados // Aide Vados (Galactic Battle, BT1-002) — U6 cohort; numerically adjacent in the set
 - Raging Cabba (Galactic Battle, BT1-013) — U6 tournament teammate; both fought in the Champa Arc
 - Scheming Champa (Galactic Battle, BT1-006) — Champa recruited U6 fighters including Hit for the tournament
+
+## Connections
+
+- [[universe-6-tournament-cohort]] — legendary-assassin / time-skip-user anchor for the cohort. Hit is canonically Universe 6's strongest tournament representative per Dragon Ball Wiki's Hit page — the "Never-Miss" Legendary Hitman with a perfect contract record spanning over 1,000 years, whose signature Time-Skip technique gives Universe 6 its asymmetric combat advantage at the Tournament of Destroyers and again at the Tournament of Power. Hit is the cohort's apex-mortal-fighter and the canonical *mortal-warrior-labor deployed by destroyer-god-wager* anchor that the cohort's apparatus-of-extraction reading lands on most directly — Champa recruits Hit out of contract-killing as tournament-warrior-labor, Hit fights under god-wager stakes carrying full consequence-risk while Champa carries none. `[Dragon Ball Wiki: Hit; Dragon Ball Wiki: Tournament of Destroyers]` `[[universe-6-tournament-cohort]]`

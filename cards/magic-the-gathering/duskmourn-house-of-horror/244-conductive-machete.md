@@ -91,3 +91,7 @@ A figure in the lower portion of the frame raises a large flat-bladed machete ov
 - Bear Trap (DSK, no. 243) -- common-object horror weapon in same set, same design register
 - Baseball Bat (DSK, no. 209) -- another DSK common-object horror weapon
 - Whisperwood Elemental (FRF) -- key Manifest card from Fate Reforged, the mechanic's original home
+
+## Connections
+
+- [[dsk-survival-archetype]] — the cohort's manifest-dread-tethered Equipment: a colorless artifact whose enter trigger manifests dread and auto-attaches to the new 2/2, depicting a figure raising an electrified flat-bladed machete overhead in mid-shout. One of two corpus members (alongside Defiant Survivor) that dual-code the cohort with the [[manifest-dread]] symbol layer at the rules layer — the cohort's structural bridge to the set's graveyard-feed mechanical spine via the improvised-weapon predicate.

@@ -93,3 +93,6 @@ A young humanoid male figure crouches in an aggressive combat stance, body coile
 - Height of Mastery Son Goku (Colossal Warfare, BT4-075) — the Goku's Lineage archetype endpoint the Swap chain targets
 - Broly: Br Leader (Magnificent Collection Forsaken Warrior, DBS-BE08) — the Silver Foil Leader card defining the deck product this card was reprinted in
 
+## Connections
+
+- [[son-gohan]] — Magnificent Collection dynasty register; Son Gohan: Youth aspect within the Goku's Lineage chain. BT4-084's character tag is canonically Son Gohan: Youth (Saiyan Saga era, traits Saiyan/Earthling/Goku's Lineage), placing this print as the chain's earliest generational anchor — the child whose latent power Raditz discovered, triggering the Saiyan arc. The Swap mechanic threads the Goku's Lineage roster the parent node's End-of-Z dynasty framing anchors at the character-lineage axis.

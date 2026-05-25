@@ -91,3 +91,7 @@ A rotund, purple cat-eared humanoid figure is depicted in a commanding pose, one
 - Scheming Champa (Galactic Battle, BT1-006) — companion Champa card; action vs. authority pose split in the same set
 - Energy Boost Beerus (Galactic Battle, BT1-042) — Beerus is Champa's twin sibling destroyer god
 - Vados // Aide Vados (Galactic Battle, BT1-002) — Vados is Champa's attendant
+
+## Connections
+
+- [[universe-6-tournament-cohort]] — destroyer-god command-tier anchor for the cohort, command-authority mode. The card sits at the second half of the designer-coordinated Champa-pair (paired with BT1-006's combat-aggression mode) — the "Manipulating God" title foregrounds Champa's role as *tournament architect rather than fighter*, the canonical mode where Champa does not personally compete but orchestrates through his universe's fielded mortal-warriors (Hit, Cabba, Frost, Botamo, Magetta) per Dragon Ball Wiki's Champa page. This is the cohort's apparatus-of-extraction reading at its most legible: the destroyer-god deploys mortal-class warrior-labor in a god-wager-feud against Universe 7 while himself watching, the mortals bearing all consequence-risk while the divine-class wagers carry none. BT1-006 + BT1-007 together encode Bandai's within-set two-card character mini-spotlight, structurally parallel to the Cabba / Cabba's Awakening BT1-013 + BT1-027 pair. `[Dragon Ball Wiki: Champa; Dragon Ball Wiki: Tournament of Destroyers]` `[[universe-6-tournament-cohort]]`

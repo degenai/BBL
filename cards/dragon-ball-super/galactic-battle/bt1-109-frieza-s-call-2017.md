@@ -92,3 +92,7 @@ A wide scene showing a large number of armored soldiers flying through the air i
 - Son Gohan, Family of Justice (Galactic Battle, BT1-062) — same set, opposing faction
 - Tenacious Vegeta (Galactic Battle, BT1-066) — same set; Vegeta was a Frieza Force soldier before defecting, making him the most prominent former target of this archetype
 
+## Connections
+
+- [[frieza-force]] — Frieza's Call is the corpus's load-bearing Frieza's Army search-engine card: its rules text ("Choose 1 Frieza's Army card of energy cost 2 or less from your deck") is the Bandai-canonical mechanism that mechanically encodes Frieza Force faction membership across the BT1 Yellow archetype. The wide-shot art deliberately centers anonymous rank-and-file soldiers in standardized purple-gray armor and the rounded Frieza-Force mothership rather than Frieza himself — the empire's authority established by aesthetic uniformity, not the emperor's face. As the BT1 archetype's primary tempo-and-search engine, this card is the rules-text equivalent of the apparatus's mass-deployment mechanism in card form.
+

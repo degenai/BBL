@@ -91,3 +91,6 @@ A Super Saiyan humanoid figure occupies the center frame in a mid-shot compositi
 - Son Goku, the Training Partner (Union Force) — Goku trained alongside Gohan in the chamber; canonical co-trainer pair
 - Son Gohan, the Fighter (various DBS sets) — same character tracked across multiple arcs in the DBS card game
 
+## Connections
+
+- [[son-gohan]] — Cell-Saga teen (SS Full Power) register. BT2-074 is the corpus's sole anchor for the canonical Hyperbolic-Time-Chamber-mastered Super Saiyan Full Power state where the form becomes as natural as base form. The "Fully Trained" subtitle is the canonical SS-Full-Power-mastered identifier; distinct from SS2 (which first triggered during the Cell Games outside the chamber upon Android 16's death) the parent node's Buu-Saga and Mystic aspect-slots anchor separately.

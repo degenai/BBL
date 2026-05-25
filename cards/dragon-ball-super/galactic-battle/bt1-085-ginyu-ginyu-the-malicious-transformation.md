@@ -92,3 +92,7 @@ A purple-skinned, horned humanoid figure strikes a dramatic battle pose at cente
 - Frieza, The Galactic Emperor (Galactic Battle, BT1-084) — Ginyu Force reports directly to Frieza; both are flip-card Uncommons in BT1 at adjacent card numbers
 - King Cold, Father of the Emperor (Galactic Battle, BT1-091) — King Cold originally founded the empire the Ginyu Force serves
 
+## Connections
+
+- [[frieza-force]] — Captain Ginyu leads the Ginyu Force, the five-member elite-mercenary squad that fills the canonical power-escalation tier between Frieza's standard henchmen and Frieza himself in the Namek arc. BT1-085 is the corpus's Ginyu Force leader anchor; the flip-card "Malicious Transformation" mechanic encodes Ginyu's canonical Body Change ability — the card transforms just as Ginyu inhabits new bodies. Within the Cold-family Planet Trade Organization hierarchy, Ginyu sits at the elite-squad layer beneath the named lieutenants and above the rank-and-file Appule tier.
+

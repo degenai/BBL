@@ -92,3 +92,7 @@ A figure wearing a black hooded cloak stands at roughly center-frame in a three-
 - Glimmer Seeker (DSK, 14) — another Human Survivor with Survival mechanic; illustrates the Glimmer/Survivor axis
 - Vile Mutilator (DSK) — noted alongside Cynical Loner in limited analysis as another high-ceiling conditional black card
 - Erratic Apparition (DSK) — another Miranda Meeks DSK illustration
+
+## Connections
+
+- [[dsk-survival-archetype]] — the cohort's keyword-only member: a Human (not Human Survivor) carrying the Survival ability word *without* the subtype, per Wizards' mechanics article noting Survival can appear on non-Survivor creatures. Slots into the cohort on the keyword predicate alone and serves as the black-side counterweight to the green-and-white-skewing Survivor roster; its graveyard-tutor Survival trigger plus *"Thanks, but no thanks. I'm done with hope."* flavor places it at the cohort's **despair** affective pole, opposite Defiant Survivor's defiance and Glimmer Seeker's wonder.

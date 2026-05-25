@@ -89,3 +89,7 @@ A close-up action shot of a large humanoid figure with mouth gaping wide open, f
 - Jeice (Galactic Battle, BT1) — Ginyu Force member; partnered with Burter
 - Guldo (Galactic Battle, BT1) — Ginyu Force member; time-stopping abilities
 - Vegeta (Galactic Battle, BT1) — primary target of the Recoome Eraser Gun on Namek
+
+## Connections
+
+- [[frieza-force]] — The Recoome Eraser Gun is Recoome's signature mouth-fired energy wave, canonically deployed against Vegeta on Namek before Krillin's interrupting strike shattered most of Recoome's teeth. BT1-106 forms the corpus's clearest within-set character-and-technique pairing with BT1-096 Ginyu Force Recoome — character card and signature-technique card ten collector numbers apart, both anchored to the same Ginyu Force elite-mercenary tier of Frieza's Planet Trade Organization. Mechanically a Yellow Extra Counter: Attack that triggers off the Yellow Leader, the card encodes Ginyu Force elite-squad membership within the BT1 Frieza's Army archetype.

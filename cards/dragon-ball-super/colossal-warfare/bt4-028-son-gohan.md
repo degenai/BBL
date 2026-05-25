@@ -90,3 +90,7 @@ A male figure with golden spiky hair stands in a powered-up combat stance. The g
 - Newfound Power Son Gohan (Colossal Warfare, BT4-048) — Uncommon Gohan in same set
 - Adoptive Father Son Gohan (Colossal Warfare, BT4-091) — Common Gohan variant in same set
 - Fully Trained Super Saiyan Son Gohan (Union Force, BT2-074) — earlier set Gohan, shows character evolution across the card game's timeline
+
+## Connections
+
+- [[son-gohan]] — GT-era Saiyan/Earthling de-trained-academic register. BT4-028 depicts the canonical Super Saiyan GT-era Gohan within the Baby Saga cluster, one of at least four Gohan prints across BT4 alongside BT4-006, BT4-048, and BT4-091. The card sits within the hero-coded pre-Baby-possession GT-era roster the parent node anchors as a distinct aspect from the Cell-Saga, Buu-Saga, and Mystic registers.

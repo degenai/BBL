@@ -86,3 +86,7 @@ tags:
 - Rootwise Survivor (Duskmourn: House of Horror, no. 196) — G/W Survivor in the same Survival cycle
 - Glimmer Seeker (Duskmourn: House of Horror, no. 14) — white DSK creature in the Survival cycle
 - Kor Skyfisher (Zendikar) — classic white Kor common; shares the creature type with Savior of the Small
+
+## Connections
+
+- [[dsk-survival-archetype]] — the cohort's **caretaker-survivor** beat: the only in-corpus member typed `Kor Survivor` rather than `Human Survivor` (Kor are likely non-native to Duskmourn, pulled into the House from another plane per MTG Wiki), and the only member whose Survival trigger is graveyard-recursion of a small creature card back to hand. Its flavor text — *"You're safe, kiddo! For at least the next ten minutes. That's about all I can promise."* — prints the cohort's **protect-the-smaller-one** mode, distinct from Defiant Survivor's *fight* and Norin's *flight* affective poles.

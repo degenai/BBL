@@ -94,4 +94,8 @@ A large, round, yellow bear-like creature stands at center in an open wide-armed
 - Hit (Galactic Battle and later sets) — Universe 6 team anchor; Tournament of Destroyers centerpiece
 - Cabba (Galactic Battle and later sets) — Universe 6 Saiyan; same team as Botamo
 
+## Connections
+
+- [[universe-6-tournament-cohort]] — bear-warrior / absorption-fighter anchor for the cohort. Botamo is canonically one of the five fighters Vados selects for Universe 6's team at the Tournament of Destroyers (alongside Hit, Cabba, Frost, and Magetta) per Dragon Ball Wiki's Botamo page — the canonical *selected-by-the-attendant-trainer* mortal-warrior whose recruitment beat exemplifies the cohort's apparatus-of-extraction reading: Vados (command-tier) hand-picks Botamo (mortal-tier) into the destroyer-god-wager apparatus. Botamo's canonical role is the rubber-bodied absorption-fighter, immune to punches and ki blasts but defeated by Goku via ring-out — an unkillable-but-immobilizable mechanic that recurs at the Tournament of Power where Vegeta knots his arms and rings him out again. The card title's blunt-faction-labeling ("of Universe 6") makes Botamo the cohort's most explicit on-card cohort-membership citation. `[Dragon Ball Wiki: Botamo; Dragon Ball Wiki: Tournament of Destroyers]` `[[universe-6-tournament-cohort]]`
+
 

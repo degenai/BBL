@@ -90,3 +90,7 @@ A large, muscular humanoid figure stands in a relaxed but imposing pose at cente
 - Appule (Galactic Battle, BT1-102) — fellow Frieza Force soldier in the same corpus batch; rank contrast (Ginyu Force elite vs. rank-and-file)
 - Captain Ginyu (Galactic Battle, BT1 cards) — Ginyu Force Leader anchoring the 5-member cohort
 - Jeice, Burter, Guldo (Galactic Battle, BT1) — remaining three Ginyu Force members; potential Nodeley node cohort
+
+## Connections
+
+- [[frieza-force]] — Recoome is the Ginyu Force's most physically imposing member and canonically the second-strongest after Captain Ginyu, anchoring the elite-squad's "muscle" tier within Frieza's Planet Trade Organization. BT1-096 sits in Galactic Battle's BT1-09x elite-mercenary cluster — the deliberate collector-number tier Bandai reserved for Ginyu Force elites above the BT1-10x rank-and-file. The dairy-pun naming pattern (Recoome=creme, Burter=butter, Jeice=cheese, Guldo=yogurt, Ginyu=Japanese for milk) is the designer-coordinated cohort-marker that signals Ginyu Force membership across all Bandai/Toei product.

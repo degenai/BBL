@@ -91,3 +91,7 @@ A broad-shouldered, bearded figure stands in a defensive crouch in a dark forest
 - Wandering Mind (Duskmourn: House of Horror) — Survivor creature type within DSK; same thematic creature class
 - Awakening of Vitu-Ghazi (War of the Spark, no. 148) — prior permanent land-animation effect; mechanical comparison point
 - Overlord's Huntmaster (Duskmourn: House of Horror) — another Survival-mechanic creature from the same set
+
+## Connections
+
+- [[dsk-survival-archetype]] — the cohort's land-animation Survival member: typed `Creature — Human Survivor` with Haste, the Survival trigger turns a target land into a permanent 3/3 Elemental with +1/+1 counters. EDHREC reports the card as one of the top Survivor-tribal synergy partners for Glimmer Seeker, anchoring the green-side typal pool the cohort draws from; the bearded figure in torn red wrappings reaching toward a supernatural tree is the *learned-to-talk-to-the-trees* register of the survivor archetype.

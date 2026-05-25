@@ -93,3 +93,7 @@ A rotund, cat-eared purple humanoid figure lunges forward aggressively, one arm 
 - Energy Boost Beerus (Galactic Battle, BT1-042) — Beerus is Champa's twin sibling destroyer god (U7)
 - Vados // Aide Vados (Galactic Battle, BT1-002) — Vados is Champa's angel attendant
 - Hit // Assassin Hit (Galactic Battle, BT1-003) — Hit was Champa's U6 tournament champion
+
+## Connections
+
+- [[universe-6-tournament-cohort]] — destroyer-god command-tier anchor for the cohort. Champa is canonically Universe 6's God of Destruction and the elder twin brother of Beerus (Universe 7) per Dragon Ball Wiki's Champa page — the only known sibling pair among DBS's twelve Gods of Destruction. The card sits at the cohort's command-tier alongside Vados (BT1-002, his angel attendant), the two together constituting the destroyer-god / angel-attendant dyad. BT1-006 is the *combat-aggression* half of the designer-coordinated Champa-pair (paired with BT1-007's command-authority half) — Bandai's within-set two-card character mini-spotlight encoding Champa's two operational modes. The combat-aggression pose anchors the cohort's apparatus-of-extraction reading: Champa is the canonical decision-maker who recruits, instructs, and fields the U6 mortal-roster against Universe 7 under destroyer-god-wager stakes (food, planets, ultimately universe-erasure). `[Dragon Ball Wiki: Champa]` `[[universe-6-tournament-cohort]]`

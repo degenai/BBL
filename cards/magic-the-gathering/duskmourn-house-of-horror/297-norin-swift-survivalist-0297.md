@@ -86,3 +86,7 @@ tags:
 - Boldwyr Intimidator (Morningtide) — mechanical reference point for the Coward creature subtype Norin carries
 - Pyrophobia (Magic Origins) — flavor text directly quotes Norin the Wary
 - Genesis Chamber (Darksteel) — classic Norin the Wary combo enabler in older EDH token builds
+
+## Connections
+
+- [[dsk-survival-archetype]] — the cohort's named-survivor anchor: a legendary `{R}` Human Coward (Norin the Wary stumbled through an Omenpath into Duskmourn, his Time Spiral Human Warrior subtype shifted to Coward as canonical lore beat) depicted mid-flight down a warped fleshy corridor with a spectral pursuer behind. Flavor text *"I don't know what it was! Why would I stick around to find out?"* prints the cohort's **flight** affective pole verbatim — the structural opposite of Defiant Survivor's *"The dark should be scared of me!"* fight pole. Cross-set echo: the FF-Falkenrath survivalist register is a possible adjacent anchor for any future Norin-flavor bundle drawing on the named-survivor axis.

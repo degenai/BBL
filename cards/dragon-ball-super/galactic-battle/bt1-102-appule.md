@@ -90,3 +90,7 @@ A purple-lavender-skinned alien soldier stands in an aggressive firing stance. T
 - Ginyu Force Recoome (Galactic Battle, BT1-096) — elite Frieza Force vs. rank-and-file contrast; same corpus batch
 - Frieza Leader cards (Galactic Battle, BT1) — the archetype head Appule would support
 - Zarbon (Galactic Battle, BT1) — Frieza lieutenant above Appule in the power hierarchy
+
+## Connections
+
+- [[frieza-force]] — Appule is the corpus's canonical rank-and-file anchor for Frieza's Planet Trade Organization: a mid-tier soldier above unnamed grunts but below Zarbon, Dodoria, and Cui, with his own Bandai/Toei Weekly Character Showcase entry (no. 224, August 2025) despite his minor story role. BT1-102 sits at the low end of Galactic Battle's BT1-10x rank-and-file collector-number tier — the deliberate hierarchy Bandai structured beneath the Ginyu Force BT1-09x elite-squad cluster. Appule's purple-spotted alien design and form-fitting Frieza Force soldier-suit anchor the empire's pan-species mass-conscription register at the soldier tier.

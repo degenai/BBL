@@ -94,3 +94,7 @@ A mechanical or robot-like creature stands at center in a compact, low-to-the-gr
 - Frost (Galactic Battle, BT1) — Universe 6 fighter; cheated against Goku and Piccolo in same arc
 - Botamo (Galactic Battle, BT1) — Universe 6 fighter; preceded Magetta's bout against Vegeta
 - Vados (Galactic Battle, BT1) — Universe 6 angel who selected the team, including Magetta
+
+## Connections
+
+- [[universe-6-tournament-cohort]] — Metalman / silicon-race anchor for the cohort. Magetta is canonically the Metalman-race tournament representative per Dragon Ball Official Site Showcase no. 188 — a silicon-based biological race from Galactic System 66,950 in Universe 6 whose bodies are filled with magma (the steam-pipe atop the head vents heat as a literal physiological stress-tell). Vados selects him for Universe 6's Tournament of Destroyers team alongside Hit, Cabba, Frost, and Botamo, the cohort's canonical attendant-selects-the-roster beat. The card's "Iron Wall" title cites Magetta's metal-body indestructibility — the canonical absorbed-Super-Saiyan-Vegeta's-Final-Flash-without-being-KO'd combat trait — which the on-card skill ("This card cannot be KO-ed in battle") faithfully translates. Vegeta canonically defeats him not by overpowering but by *insulting* him into refusal-of-combat, the Metalman race's emotional-fragility weakness that frames the cohort's mortal-warrior-tier as carrying real consequence-risk under tournament-pressure. `[Dragon Ball Official Site, Showcase no. 188: Otta Magetta; Dragon Ball Wiki: Auta Magetta]` `[[universe-6-tournament-cohort]]`

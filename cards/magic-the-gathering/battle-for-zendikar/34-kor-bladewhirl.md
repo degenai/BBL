@@ -89,3 +89,7 @@ A humanoid figure stands in a dynamic pose, one arm raised holding a cord attach
 - Munda, Ambush Leader (Battle for Zendikar) — named Kor Ally leader card in BFZ; the most prominent named Kor figure in the set's resistance narrative
 - Lantern Scout (Battle for Zendikar) — Kor Scout Ally with a lifelink Rally payoff; rounds out the BFZ Kor Ally sub-cycle
 
+## Connections
+
+- [[kor]] — Kor Bladewhirl renders the cohort's hook-and-chain weapon discipline directly: the spinning hooked blade is the kor's signature combat tool, and the flavor's "high-pitched whirl of a hook is the only battle cry she needs" centers that tool as cultural identifier. The Rally trigger granting first strike to all your creatures is the cohort's coordinated-defense thesis encoded mechanically.
+

@@ -86,3 +86,7 @@ A single baseball bat rests diagonally on weathered wooden floorboards in a dim 
 - Chainsaw (DSK) -- the marquee Duskmourn equipment, another everyday-object-as-horror-weapon artifact in the same aesthetic space
 - Baseball Bat // Bladed Bat (DSK, Room variant) -- check if a Room version exists; the bat shows up in multiple Duskmourn contexts
 - Survivor's Kit (DSK) -- other "found-object" equipment from the same survival-horror artifact cluster
+
+## Connections
+
+- [[dsk-survival-archetype]] — the cohort's most direct improvised-weapon Equipment: a mundane sports object retrofitted with nails and wire, charged with the same green electricity that crackles on Conductive Machete. Slots into the cohort on the improvised-weapon artifact predicate (no Survivor subtype or Survival keyword, but the subject is the survivor's tool); the bat-with-nails is the BBL-relevant *picket-sign-with-nails* register that ties the cohort to the [[labor]] and [[rebellion]] hub adjacencies in the cohort thesis.

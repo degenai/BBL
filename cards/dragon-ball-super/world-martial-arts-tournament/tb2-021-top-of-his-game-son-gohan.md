@@ -90,3 +90,7 @@ An adult male figure stands with confidence and barely-contained energy. The hai
 - Awkward Situation Trunks (World Martial Arts Tournament, TB2-026) — also present for the Junior Division
 - Begrudging Respect Piccolo (World Martial Arts Tournament, TB2-027) — Gohan's mentor, present at the tournament
 
+## Connections
+
+- [[son-gohan]] — Buu-Saga adolescence / 25th World Tournament register; SS2 demonstration moment. TB2-021 depicts canonical adolescent Gohan in the SS2 transformation triggered at Kibito's request — the canonical apparatus-of-extraction-victim register the parent node anchors as the structural inverse of the Cell Games credit-erasure: Spopovich and Yamu drain his energy for Babidi's Majin Buu revival within minutes of the demonstration. The "Top of His Game" title is canonically accurate-and-ironic simultaneously the parent's labor-publicly-visible-publicly-conscripted-publicly-disappeared thesis-stack reads.
+

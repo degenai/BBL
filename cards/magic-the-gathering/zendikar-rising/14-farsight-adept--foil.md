@@ -82,3 +82,7 @@ A lean, pale-skinned humanoid wizard stands at the lip of a soaring stone precip
 **Iconography:** cliff-edge, wind, lone-sentinel
 **Genre cues:** fantasy, high-fantasy
 
+## Connections
+
+- [[kor]] — Farsight Adept is the corpus's canonical Zendikar Rising kor anchor, depicting the cohort five years after the Eldrazi-invasion arc concluded — the post-arc cultural continuation. The robed-wizard-on-the-cliff register and Teetering Peaks flavor situate her in the kor's vertical-terrain mastery, with the windswept-sentinel composition rendering the cohort's prophet-on-the-mountain visual idiom at the ZNR common slot.
+

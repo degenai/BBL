@@ -90,3 +90,6 @@ A dark-haired young male figure stands in a wide fighting stance, arms extended,
 - Blazing Spirit Son Goku (Colossal Warfare, BT4-005) — Gohan's father; same GT red cluster
 - Intensifying Power Trunks (Colossal Warfare, BT4-012) — fellow GT-era half-Saiyan/Earthling; same Baby Saga combat pool
 
+## Connections
+
+- [[son-gohan]] — GT-era Saiyan/Earthling de-trained-academic register. BT4-006 depicts the canonical pre-Baby-possession hero-coded GT-era half-Saiyan adult; the Saiyan/Earthling Special Trait reflects Gohan's canonical hybrid heritage that the corpus's broader BT4 hybrid-lineage cluster (Pan BT4-009, Trunks BT4-012) shares. The Cell-Saga-peak-to-academic-de-training trajectory the GT era encodes places this card as the canonical "before-Baby-possession" anchor in the parent node's GT-aspect roster.

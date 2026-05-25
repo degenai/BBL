@@ -86,3 +86,7 @@ tags:
 - Veteran Survivor (DSK) — the example card Wizards used in their mechanics article to explain the Survival ability word
 - Hauntwoods Shrieker (DSK) — green DSK creature with survival-adjacent combat mechanics
 - Overlord of the Hauntwoods (DSK) — green mythic centerpiece of the DSK green archetype that Cautious Survivor feeds into
+
+## Connections
+
+- [[dsk-survival-archetype]] — the cohort's most explicit found-footage-horror beat: typed `Creature — Elf Survivor` with the Survival trigger, depicting a camerawoman whose broken recorder is the evidence she survived (whatever she saw). Sits at the cohort's **document** affective pole — the witness who came back but cannot or will not report what she encountered, distinct from Defiant Survivor's *fight* and Norin's *flight*.

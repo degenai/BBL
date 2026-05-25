@@ -90,3 +90,7 @@ A young male humanoid figure stands in a wide action stance with arms raised or 
 - Kami's Power Piccolo (Colossal Warfare, BT4-049) — Adjacent card; Piccolo absorbed both Nail and Kami, whose power-bestowal pattern parallels Gohan's unlock
 - Gift of Power Guru (Colossal Warfare, BT4-052) — Guru's power-unlock ability on Namek is the DBZ-era predecessor to Old Kai's unlock that created Ultimate Gohan
 - Nail, the Namekian Ace (Colossal Warfare, BT4-053) — Same Green Namekian cluster
+
+## Connections
+
+- [[son-gohan]] — Mystic / Ultimate Gohan power-unlock register. BT4-048 depicts the canonical Old-Kai-25-hour-ritual-unlocked untransformed-but-massively-power-elevated state — dark hair stays, no SS aura, exceeding SS3 Goku at debut in the Buu Saga. The card is the corpus's sole Mystic-state anchor and sits within the parent node's *latent-potential-as-power-source* designer-coordinated aspect-slot distinct from every SS-and-beyond Gohan print.

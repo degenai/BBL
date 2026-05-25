@@ -88,3 +88,7 @@ A small, squat, green-skinned alien figure stands at center frame in an action p
 - Sorbet, The Loyal Commander (BT1-092, Galactic Battle) — Sorbet's character card; the user of this technique
 - Crusher Ball (BT1-110, Galactic Battle) — fellow Yellow Extra from the same set depicting Jeice's signature move
 
+## Connections
+
+- [[frieza-force]] — Bad Ring Laser is canonically Sorbet's technique from Dragon Ball Z: Resurrection 'F' (2015), where Sorbet — the post-Frieza-era Planet Trade Organization commander who orchestrates Frieza's wish-revival — fires a thin piercing energy beam from his ring at Super Saiyan Blue Goku. BT1-108 is the corpus's anchor for the empire's post-Resurrection-F-era second-life commander tier, per wave 124's snip-corrective re-attribution from the Ginyu Force cohort to this Frieza Force parent. The card defined the early DBSCG Frieza-Army splash-yellow meta as the only single-yellow-energy counter-negation extra until its July 2019 ban.
+

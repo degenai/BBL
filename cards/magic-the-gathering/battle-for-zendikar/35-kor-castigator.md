@@ -89,3 +89,7 @@ A humanoid figure with a short beard and light-colored hair lunges or advances i
 - Cliffside Lookout (BFZ-20) — fellow Kor Scout Ally anchored in zendikari-resistance node
 - Kor Entanglers (BFZ-36) — fellow Kor Soldier Ally from BFZ; same block same Ally-tribal tier
 - Kitesail Scout (BFZ-33) — fellow BFZ kor in this batch
+
+## Connections
+
+- [[kor]] — Kor Castigator is the cohort's canonical anti-Eldrazi-evasion render: the "can't be blocked by Eldrazi Scions" oracle clause mechanically encodes the flavor's Akiri-narrated scene of a kor walking unimpeded into a swirling Eldrazi mass. The card centers the unnamed kor warrior as the actor and Akiri the line-slinger as the witness, anchoring the cohort's kor-versus-Eldrazi adversary structure at the common slot.

@@ -102,3 +102,7 @@ A young elf with pointed ears and a magenta headband sprawls across worn wooden 
 - Vines of Vastwood (Modern Masters 2015, no. 168) — {G} kicker instant for +4/+4 plus hexproof; the genre-defining green combat-trick that Frantic Strength's Flash-aura design echoes.
 - Rootwise Survivor (Duskmourn: House of Horror, no. 196) — mono-green Human Survivor anchoring the green-side Survivor typal pool any Taros-flavor bundle would draw from.
 
+## Connections
+
+- [[dsk-survival-archetype]] — the cohort's improvised-weapon Aura anchor: a young elf named Taros, friends dead and weapons broken, seizes a tambourine and turns it into a +2/+2 trample stake of last resort. Slots into the cohort on the third predicate axis (improvised-weapon artifact/Aura whose subject is the survivor's tool) rather than via subtype or keyword — the moment of *anything-becomes-a-weapon* that Wizards' Cabin-in-the-Woods source-material register builds toward.
+

@@ -91,3 +91,6 @@ A young male figure with spiky golden hair stands in a forward-leaning combat st
 - Father-Son Galick Gun (Union Force, BT2-063) — parallel family-bond framing across the two Saiyan bloodlines
 - Tenacious Vegeta (Galactic Battle, BT1-066) — same set, rival Saiyan cluster
 
+## Connections
+
+- [[son-gohan]] — End-of-Z / Galactic Battle dynasty register. BT1-062 is the corpus's sole Broly Saga era Gohan print; the "Family of Justice" subtitle maps Gohan's championship-lineage continuity onto the post-Buu-Saga adult-protector positioning the parent node anchors as the canonical hero-as-heir framing. The Cell-Saga-teen visual rendering on a DBS-film-continuity titled card layers past heroism onto present-era framing — the design move the parent's End-of-Z aspect-slot encodes.

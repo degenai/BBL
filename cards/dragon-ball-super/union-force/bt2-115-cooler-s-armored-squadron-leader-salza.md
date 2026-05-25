@@ -91,3 +91,7 @@ A tall humanoid figure stands in a theatrical, self-assured pose in mid-shot. Th
 - Dore, Cooler's Armored Squadron (various DBS sets) — second Armored Squadron member alongside Salza and Neiz
 - Neiz, Cooler's Armored Squadron (various DBS sets) — third Armored Squadron member; amphibian alien from planet Coola no. 6
 
+## Connections
+
+- [[frieza-force]] — Salza is captain of Cooler's Armored Squadron, the three-member mercenary platoon (Salza, Dore, Neiz) serving Cooler — Frieza's brother — in Dragon Ball Z: Cooler's Revenge (Toei theatrical film, July 1991), the canonical parallel-elite to Frieza's Ginyu Force within the broader Cold-family space empire. The shared-home-system canonical detail (Salza and Ginyu Force member Jeice both from planet Coola no. 98) establishes the Cold family's operational model as multi-sibling-deployment — both Frieza and Cooler ran parallel mercenary platoons under the dynasty umbrella. BT2-115 is the corpus's single anchor for this parallel-elite tier; the structural duplication shows the empire as a family business, not just one emperor's apparatus.
+
