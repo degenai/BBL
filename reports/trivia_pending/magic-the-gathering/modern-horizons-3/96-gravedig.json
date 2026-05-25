@@ -1,0 +1,47 @@
+{
+  "card_name": "Gravedig",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "96",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Gravedig is a common Sorcery from Modern Horizons 3 (released June 14, 2024), a draft-innovation set that introduces cards directly into Modern and Eternal formats without passing through Standard. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The Entwine mechanic on Gravedig originated in Mirrodin (2003). Head designer Mark Rosewater has stated he invented Entwine in a dream: 'I designed the entwine mechanic in a dream. I'd been trying to make a mechanic that fit Mirrodin and was thinking a lot about it. I went to sleep and dreamed it. I then excitedly woke up and wrote it down.' Outside the original Mirrodin block (Mirrodin, Darksteel, Fifth Dawn), new Entwine cards have appeared only in Modern Horizons, Modern Horizons 2, Commander 2019, and Modern Horizons 3 — roughly 31 total cards carrying the mechanic as of 2024. [Magic Untapped, citing Rosewater; Draftsim]",
+      "sources": ["Magic Untapped: 'Entwine: The Mechanic With A Very Odd Origin Story'", "Draftsim: 'Entwine in MTG: Rules, History, and Best Cards'"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Drew Baker has illustrated approximately 33 Magic cards. His work spans multiple sets including Innistrad, Streets of New Capenna, Conspiracy, Throne of Eldraine, and Modern Horizons 3 (including Winter Moon and Gravedig in the same set). Baker describes his style as 'Imaginative Realism' and is known for unconventional technical approaches: scumble and glaze methods, broken color, and atmospheric perspective. He has also illustrated Library of Alexandria, Karakas, and Reliquary Tower for Wizards. [Hipsters of the Coast: 'A Tale of Two Workshops', 2020; Scryfall artist search]",
+      "sources": ["Hipsters of the Coast: 'A Tale of Two Workshops' (2020)", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Gravedig is legal in Modern, Legacy, Vintage, Pauper, and Commander. Its EDHREC rank is 11,676, placing it in mid-tier Commander inclusion territory. The Entwine mode — paying {1}{B} plus {2} to get both a 2/2 Zombie token AND a creature returned from the graveyard — gives it meaningful flexibility at 4 mana total, which is why it sees more play than a one-mode spell of equal cost would. [Scryfall; EDHREC]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Scryfall records that Gravedig was previewed by r/magicTCG on May 27, 2024 as part of a community free-preview program from Wizards of the Coast — a practice MH3 used to distribute spoiler cards to content creators and community hubs ahead of release. [Scryfall preview metadata]",
+      "sources": ["Scryfall preview metadata (source_uri: old.reddit.com/r/magicTCG/comments/1d1uq94)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kaya's Guile", "set": "Modern Horizons", "note": "First Entwine card outside Mirrodin block; established the Modern Horizons pattern of new Entwine designs"},
+    {"name": "Lim-Dul's Vault", "set": "Mirrodin (Entwine origin set)", "note": "Mirrodin block — original Entwine print run context"},
+    {"name": "Winter Moon", "set": "Modern Horizons 3", "note": "Same set, same artist (Drew Baker) — natural cross-reference for artist node"},
+    {"name": "Zombify", "set": "Multiple", "note": "Functional cousin — black reanimation spell; comparison anchor for graveyard-return mode"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

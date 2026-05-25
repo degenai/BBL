@@ -73,3 +73,16 @@ Two figures occupy a dim interior space. On the right stands a tall, suited huma
 **Iconography:** spectral-face, memory-extraction
 **Genre cues:** fantasy, noir, dark-fantasy
 
+## Trivia
+
+- **Set context / flavor-text speaker** — Cerebral Confiscation's flavor text is attributed to Lazav — the shapeshifting guildmaster of House Dimir on Ravnica. Lazav appears in MKM as Lazav, Wearer of Faces (MKM no. 216), a Legendary Shapeshifter Detective whose ability lets him copy creatures exiled from graveyards when he investigates — mechanically modeling his identity-theft power. His presence on this flavor text reinforces Dimir's forensic-mind-invasion role in the murder investigation. `[Scryfall; MTG Wiki: Lazav via WebSearch]`
+- **Flavor text** — "Never rely on secondhand description. Always review the memory yourself." —Lazav. `[Scryfall]`
+- **Lore context: Lazav** — Lazav rose to power in House Dimir after the dissolution of Szadek (the previous Dimir guildmaster). He is described as a mindmage and shapeshifter of unknown origins who rebuilt Dimir's covert networks through assumed identities — stepping out as elderly widows, Azorius hussars, or Tin Street merchants as needed. The Cerebral Confiscation quote is entirely in character: for Lazav, firsthand psychic extraction is professional discipline, not exceptional cruelty. `[MTG Wiki: Lazav via WebSearch]`
+- **Mechanical** — A modal discard sorcery for {2}{B}: two-card blind discard OR hand-reveal with targeted chosen discard. EDHREC rank 16,721 — moderate Commander visibility for a common. Legal in Standard, Pioneer, Modern, Legacy, Vintage, Pauper, and Commander. Art by Lius Lasahido. `[Scryfall; EDHREC]`
+
+### Related cards
+- Lazav, Wearer of Faces (Murders at Karlov Manor, no. 216) — the flavor-text speaker; Legendary Shapeshifter Detective in this same set
+- Lazav, Dimir Mastermind (Gatecrash) — first Lazav card; canonical Dimir guildmaster across multiple Ravnica sets
+- Thoughtseize (Lorwyn / multiple) — benchmark targeted discard; design comparison for Cerebral Confiscation's targeted mode
+- Glimpse the Unthinkable (Ravnica: City of Guilds) — classic Dimir mind-extraction spell; thematic lineage for memory operations on Ravnica
+

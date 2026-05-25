@@ -1,0 +1,33 @@
+{
+  "edge_id": "agency-coroner-mkm075--agency-character-attach",
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/murders-at-karlov-manor/75-agency-coroner.md", "name": "Agency Coroner (MKM-75)"},
+    {"type": "character", "path": "cards/_characters/agency.md", "name": "The Agency (R.A.M.I.)"}
+  ],
+  "description": "Worst suggested workflow ever. Parent says 'consider authoring R.A.M.I. agency-cohort.' I walk the corpus. The agency node ALREADY EXISTS. Canonical name right in the title: 'The Agency (R.A.M.I.)'. Fourteen cards already attached. Parent's brief would have me double-author. I refuse to double-author and instead make the actual missing edge: Agency Coroner (MKM-75) was sync-drift-orphaned — name literally contains 'Agency,' card-internal trivia already states 'the coroner is an agent of R.A.M.I.,' yet the card had no characters: frontmatter and the agency node's appears_on list did not include it. One stack-attach to fix. The parent-dispatch-verify discipline working as designed; receipts in final-report.",
+  "citations": [
+    "[Scryfall: MKM-75 Agency Coroner — name and oracle text]",
+    "[in-MD trivia bullet, 75-agency-coroner.md line 78: 'The card's name is literal — the coroner is an agent of R.A.M.I.']",
+    "[Wizards.com: A First Look at Murders at Karlov Manor]",
+    "[MTG Wiki: Ravnican Agency of Magicological Investigations]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/murders-at-karlov-manor/75-agency-coroner.md",
+    "cards/_characters/agency.md"
+  ],
+  "other_candidates_considered": [
+    "Basilica Stalker (MKM-78) attach to agency — REFUSED. Vampire DETECTIVE subtype is suggestive, but the figure depicted is a predator descending in a mask over an Orzhov sun-medallion floor; trivia frames it as Orzhov-vampiric-enforcer-stalking-the-basilica. Agency node's own Exit-Specialist caveat applies: Disguise is used by both Agency operatives AND the criminal-side characters the Agency hunts. Without flavor-text Agency attribution, this card reads as either Agency-side or criminal-side. Pending MKM-story-article confirmation. Future-watch.",
+    "Repeat Offender (MKM-101) attach to agency — REFUSED. Card depicts a SUSPECT (wanted poster in art, flavor 'Blasted sketch artist did too good a job. Looks like it's time for me to lie low'). This is criminal-side, not Agency-side. Agency is the institution that ISSUES the wanted poster, not the figure DODGING it. Repeat Offender's correct future edge is to the suspect symbol node (its oracle text self-suspects), but that's a separate edge for a separate invocation — and even then it's a judgment call since the current suspect-symbol appears_on roster is creatures that ADD or REMOVE suspect status, not creatures that USE it. Deferred.",
+    "Agency Coroner attach to suspect symbol — DEFERRED. Coroner's oracle CONSUMES suspect status (double-draw if sacrificed creature was suspected) but does not add or remove it. Different relationship than the existing 5 appears_on cards. One decision per invocation; this stays for a future Edgelord pass to judge whether 'suspect-payoff' is the same edge as 'suspect-application.'"
+  ],
+  "next_pass_suggestions": [
+    "Resolve Basilica Stalker (MKM-78) Agency-vs-criminal-side disambiguation via MKM story articles. If story canon confirms it's an Agency Vampire Detective on assignment, attach to agency. If criminal-side, do not attach.",
+    "Audit other MKM cards for the same sync-drift class: corpus has 87 MKM-set cards, agency node lists 14 (now 15) appears_on, and at least Agency Outfitter / Exit Specialist / Cerebral Confiscation / Person of Interest / Offender at Large / Eliminate the Impossible — wait, several of those ARE already on the list. Run a fresh `grep -L 'characters:' cards/magic-the-gathering/murders-at-karlov-manor/*.md` against the agency node roster to surface missing-frontmatter cases like this Coroner one.",
+    "Consider whether `detective-creature-type` deserves a symbol node (the agency node's own caveat 4 flags this as a future candidate); 85+ Scryfall prints across MKM and reprints would clear threshold easily. Mr. Nodeley's territory, not Edgelord's."
+  ],
+  "parent_brief_verification": "Parent's claim 'R.A.M.I. agency-cohort candidate may meet threshold (Coroner, Stalker, Repeat Offender)' is structurally wrong on premise: the agency node already exists with R.A.M.I. as the canonical primary identifier. Parent appears to have surfaced a triviabot mention without verifying node-existence (bbl-parent-dispatch-verify memory applies). The correct read of the triviabot signal was 'three MKM cards lack characters: frontmatter pointing at the existing agency node' — sync-drift, not node-creation. Of the three named, only Agency Coroner is a clean attach. Receipts above.",
+  "edgelord_mood": "blueballed-by-fanout"
+}

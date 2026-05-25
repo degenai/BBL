@@ -1,0 +1,42 @@
+{
+  "card_name": "Kami of Jealous Thirst",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "98",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Kami of Jealous Thirst is a common Spirit from Modern Horizons 3 (released June 14, 2024). The flavor text places it explicitly in Towashi, the neon-lit megacity of Kamigawa: 'The bustle of life in Towashi opened up new avenues for less benevolent kami.' Towashi was introduced in Kamigawa: Neon Dynasty (February 2022), making this card a notable cross-set lore moment: a kami from Kamigawa's urban plane appearing as a named creature type in MH3, a non-Kamigawa set. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In Kamigawa: Neon Dynasty lore, Towashi is the central megacity of a modernized Kamigawa where kami and mortals now coexist — though uneasily. When the city expanded into the Jukai Forest, displaced kami attacked workers; the emperor brokered a truce. 'For the most part, mortals and kami now live in harmony, but not everyone has adapted the same way to the changing plane.' The Kami of Jealous Thirst's flavor text — 'less benevolent kami' exploiting Towashi's bustling crowds — fits precisely this lore tension between the peace treaty and kami who refuse to be pacified. [Wizards Planeswalker's Guide to Kamigawa: Neon Dynasty; Tumblr vorthos: 'The Lore of Kamigawa: Neon Dynasty - Towashi']",
+      "sources": ["Wizards.com: Planeswalker's Guide to Kamigawa: Neon Dynasty", "Tumblr: bacejelerenvorthos - Neon Dynasty Towashi lore"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, Kami of Jealous Thirst is a 1/3 Deathtouch Spirit for {2}{B}. Its activated ability ({4}{B}: each opponent loses 2 life, you gain 2 life — cost reduced to free if you've drawn 3+ cards this turn) is designed to reward high-draw strategies, which aligns it with blue-black shell decks. EDHREC rank is 19,086, indicating limited Commander adoption. Pauper legality makes it most relevant there. [Scryfall; EDHREC]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Full flavor text from Scryfall: 'The bustle of life in Towashi opened up new avenues for less benevolent kami.' No speaker attribution. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Boseiju, Who Endures", "set": "Kamigawa: Neon Dynasty", "note": "Towashi's defining landmark tree; same plane and setting as the flavor text"},
+    {"name": "Coiling Oracle", "set": "Dissension / various", "note": "Draw-reward creature archetype — same design space as the 3-card-drawn ability trigger"},
+    {"name": "Junji, the Midnight Sky", "set": "Kamigawa: Neon Dynasty", "note": "Named malevolent kami; same plane, same category of kami that refused peace"},
+    {"name": "Kaito Shizuki", "set": "Kamigawa: Neon Dynasty", "note": "Towashi-based planeswalker; cross-reference for Neon Dynasty urban setting"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

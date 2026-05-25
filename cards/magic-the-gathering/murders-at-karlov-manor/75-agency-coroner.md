@@ -40,6 +40,8 @@ reference_image_source_url: https://cards.scryfall.io/png/front/d/6/d63f2c23-e87
 art_match_confidence: high
 needs_manual_review: false
 artist: Uriah Voth
+characters:
+  - agency
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/75-agency-coroner--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/d/6/d63f2c23-e877-42e3-9362-5d003a173c6d.jpg?1706241661
 flavor_text: \"Well, cause of death seems pretty straightforward, but what else can you tell me, friend?\"

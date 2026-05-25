@@ -1,0 +1,41 @@
+{
+  "card_name": "Rot Farm Mortipede",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "102",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Murders at Karlov Manor (set code MKM, released 2024-02-09) is a murder-mystery set on the plane of Ravnica, centered on Alquist Proft and the Ravnican Agency of Magicological Investigations (R.A.M.I.). Unlike previous Ravnica sets, the focus is on cross-guild detective work rather than guild warfare. [Scryfall], [magic.wizards.com: Planeswalker's Guide to Murders at Karlov Manor]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/planeswalkers-guide-to-murders-at-karlov-manor"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Every week, the necropsy lab's unclaimed bodies are transferred to the Golgari for 'recycling.'\" The quote establishes a bureaucratic handoff pipeline from the city's forensic institutions to the Golgari Swarm — the guild defined by death-and-rebirth ecology — with the scare-quotes on 'recycling' doing double duty as dark humor and indictment. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The creature type is Insect, consistent with Golgari's predilection for vermin and arthropod creatures used as recyclers and scavengers in the death-ecology hierarchy. [Scryfall type_line], [MTG Wiki: Golgari Swarm]",
+      "sources": ["Scryfall", "MTG Wiki: Golgari Swarm"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Its ability triggers whenever creature cards LEAVE the graveyard (not just enter), rewarding sacrifice loops, reanimation, and exile-from-graveyard effects — a narrower and more technical graveyard trigger than most Golgari staples. Legal in pauper, commander, pioneer, and modern as of 2024. EDHREC rank 20,847 — low, indicating it sees modest commander play. [Scryfall legalities], [Scryfall edhrec_rank]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Golgari Rot Farm", "set": "Ravnica City of Guilds", "note": "The 'Rot Farm' in the card name refers to this iconic Golgari dual land — the shared name anchors the creature to the guild's agricultural-death identity"},
+    {"name": "Lotleth Troll", "set": "Return to Ravnica", "note": "Iconic Golgari graveyard-synergy creature from a prior Ravnica block; functional comparator for graveyard-matters design"},
+    {"name": "Alquist Proft, Master Sleuth", "set": "Murders at Karlov Manor", "note": "The set's detective protagonist — represents the city institution that feeds unclaimed bodies to the Golgari per the flavor text"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Scorching Dragonfire",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "139",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Throne of Eldraine (set code ELD, released 2019-10-04) is a fairy-tale-inspired set set on the plane of Eldraine, divided between the knightly Realm (five courts: Ardenvale, Vantress, Locthwain, Garenbrig, Embereth) and the magical wilds inhabited by the Fae. Ardenvale is the white-aligned court of loyalty and knighthood. [Scryfall], [magic.wizards.com: Planeswalker's Guide to Eldraine]",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/planeswalkers-guide-eldraine-2019-10-31"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"As the blaze raced toward her, Syr Ameril closed her eyes and pictured Castle Ardenvale so her last thoughts would be of home.\" Syr Ameril is not a named character with an independent card — the title 'Syr' is the honorific for knights of the Realm in Eldraine. The vignette casts Ardenvale as a place of deep knightly belonging, invoked at the moment of death. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Castle Ardenvale is a real card in the same set (ELD, card no. 238) — a land that produces white mana and can create 1/1 Human creature tokens. The flavor text of Scorching Dragonfire names it as a knight's last thought of home, making the two cards a micro-narrative pair within the set. [Scryfall: Castle Ardenvale ELD/238]",
+      "sources": ["Scryfall: Castle Ardenvale ELD/238"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The exile clause ('if that creature would die this turn, exile it instead') was a design choice to prevent recursive graveyard-based decks from getting value off the destroyed creature — relevant in the ELD Standard environment that included Cauldron Familiar and other sacrifice-value loops. EDHREC rank 11,946 — moderate commander play. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Castle Ardenvale", "set": "Throne of Eldraine", "note": "Named in flavor text as the dying knight's image of home; direct narrative pair"},
+    {"name": "Syr Gwyn, Hero of Ashvale", "set": "Commander 2019", "note": "Another 'Syr'-titled Eldraine knight; shows the honorific pattern in the set's knightly naming convention"},
+    {"name": "Bonecrusher Giant", "set": "Throne of Eldraine", "note": "Red removal-adjacent creature from ELD with similar 3-damage-to-creature design role in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Cerebral Confiscation",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "81",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cerebral Confiscation is a common Sorcery from Murders at Karlov Manor (released February 9, 2024). Its flavor text attributes the quote to Lazav, the Dimir guildmaster and shapeshifter who appears in MKM as Lazav, Wearer of Faces. Lazav's presence on Cerebral Confiscation reinforces his role in the set as a key schemer using memory-access and identity-theft in the murder investigation's backdrop. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Full flavor text from Scryfall: '\"Never rely on secondhand description. Always review the memory yourself.\" —Lazav'. Lazav is the shapeshifting guildmaster of House Dimir on Ravnica — a mindmage whose abilities include telepathy and assumed identities. The quote frames mind-invasion as professional discipline: eyewitness accounts are unreliable, direct psychic extraction is superior. [Scryfall]",
+      "sources": ["Scryfall", "MTG Wiki: Lazav (via WebSearch)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Lazav, Wearer of Faces (MKM no. 216) is a Legendary Shapeshifter Detective in this set whose ability lets him copy creatures exiled from graveyards when he investigates — mechanically modeling his identity-theft power. House Dimir's operational secrecy is a recurring Ravnica thread; Lazav rose to power after the dissolution of Szadek, the previous Dimir guildmaster, and rebuilt Dimir's networks through assumed identities. [Scryfall; MTG Wiki via WebSearch]",
+      "sources": ["Scryfall", "MTG Wiki: Lazav (via WebSearch)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cerebral Confiscation is a modal discard spell: two-card blind discard OR targeted hand-reveal and chosen discard. Its EDHREC rank is 16,721. Legal in Standard, Pioneer, Modern, Legacy, Vintage, Pauper, and Commander. Artist is Lius Lasahido. [Scryfall; EDHREC]",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lazav, Wearer of Faces", "set": "Murders at Karlov Manor", "note": "The flavor-text speaker; Legendary Shapeshifter Detective — direct named character link"},
+    {"name": "Lazav, Dimir Mastermind", "set": "Gatecrash", "note": "First Lazav card; canonical Dimir guildmaster across multiple Ravnica sets"},
+    {"name": "Thoughtseize", "set": "Lorwyn / multiple", "note": "Benchmark targeted discard spell; design comparison for Cerebral Confiscation's targeted mode"},
+    {"name": "Glimpse the Unthinkable", "set": "Ravnica: City of Guilds", "note": "Classic Dimir mind-extraction spell; thematic lineage for memory/mind operations on Ravnica"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

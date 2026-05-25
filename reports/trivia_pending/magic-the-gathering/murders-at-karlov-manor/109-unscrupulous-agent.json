@@ -1,0 +1,41 @@
+{
+  "card_name": "Unscrupulous Agent",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "109",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "MKM's detective theme extends to its black-aligned cards with the 'unscrupulous' variation: investigators who bend or break procedure to get results. The Ravnican Agency of Magicological Investigations (R.A.M.I.) exists as a cross-guild forensic authority, but black-aligned operatives in the set represent the shadow side of investigation — extortion, evidence theft, coercion — methods the official agencies can't use. [magic.wizards.com: Planeswalker's Guide to Murders at Karlov Manor]",
+      "sources": ["magic.wizards.com/en/news/feature/planeswalkers-guide-to-murders-at-karlov-manor"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Obtaining evidence through the 'proper' channels can take weeks of paperwork. Sometimes justice just can't wait.\" The ironic framing puts 'proper' in scare-quotes — mirroring the Rot Farm Mortipede's 'recycling' quote from the same set, a pattern of MKM black cards using quotation-mark irony to signal institutional bad faith. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Type line: Creature — Elf Detective. The 'Detective' creature type was introduced in MKM as a mechanical marker for the set's investigation theme. The Elf subtype places this figure in the broader Ravnican population — Elves appear across multiple Ravnica guilds, particularly Golgari and Simic. [Scryfall type_line]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The ETB effect forces an opponent to exile a card from hand — a 'lose a card forever' effect rather than discard (opponent doesn't discard to a graveyard; the card is gone). At 2 mana for a 1/1 with a one-sided exile effect, it is a role-player in aggressive black strategies but not a staple. EDHREC rank 20,243; penny_rank 1,322, indicating it sees very limited competitive play. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Alquist Proft, Master Sleuth", "set": "Murders at Karlov Manor", "note": "Set protagonist; the 'proper channels' Unscrupulous Agent disdains are presumably his methods"},
+    {"name": "Thoughtseize", "set": "Theros", "note": "Canonical black hand-disruption spell; Unscrupulous Agent's exile effect is a weaker but permanent-loss variation on the same design space"},
+    {"name": "Extract", "set": "Odyssey", "note": "Earlier card with exile-from-hand effect; precedent for this design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Alley Assailant",
+  "game": "Magic: The Gathering",
+  "set": "Murders at Karlov Manor",
+  "collector_number": "76",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Alley Assailant is a common Vampire Rogue from Murders at Karlov Manor (released February 9, 2024), set on the plane of Ravnica. The set re-frames Ravnica as a crime-fiction noir stage — a murder mystery rather than guild politics — with the Ravnican Agency of Magicological Investigations (R.A.M.I.) as the investigative body. [Scryfall; Wizards.com: Murders at Karlov Manor Mechanics]",
+      "sources": ["Scryfall", "Wizards.com: 'Murders at Karlov Manor Mechanics'"]
+    },
+    {
+      "category": "design",
+      "text": "Alley Assailant uses the Disguise mechanic — a variation on Morph introduced in MKM. A Disguise creature can be cast face down for {3} as a generic 2/2 with Ward 2, then flipped face up for its Disguise cost ({4}{B}{B}) at any time. The Ward 2 addition over classic Morph makes face-down creatures harder to remove, serving the set's theme of suspects hiding in plain sight. Scryfall confirms Alley Assailant has a mechanical relationship with 'A Mysterious Creature' (the face-down token card). [Scryfall; Wizards.com: 'Murders at Karlov Manor Mechanics'; CoolStuffInc: Jim Davis 'The Mechanics of Murders at Karlov Manor']",
+      "sources": ["Scryfall", "Wizards.com: 'Murders at Karlov Manor Mechanics'", "CoolStuffInc: Jim Davis, 'The Mechanics of Murders at Karlov Manor'"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Alley Assailant is a 3/3 that enters tapped and has an on-flip life-drain effect (opponent loses 3 life, you gain 3 life). Its EDHREC rank is 23,912 — low Commander adoption, consistent with face-down flip creatures being slow in multiplayer. It is legal in Standard, Pioneer, Modern, Legacy, Vintage, Pauper, and Commander as of 2024. [Scryfall; EDHREC]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Warren Mahy has illustrated numerous MTG cards across multiple sets. No artist interview specifically addressing Alley Assailant was found in this research pass. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "A Mysterious Creature", "set": "Murders at Karlov Manor", "note": "Scryfall links this as the face-down Disguise token for Alley Assailant and all MKM Disguise creatures"},
+    {"name": "Basilica Stalker", "set": "Murders at Karlov Manor", "note": "Same set, Vampire creature type — MKM vampire cohort"},
+    {"name": "Vesuvan Shapeshifter", "set": "Time Spiral", "note": "Classic face-down creature; design lineage for Disguise/Morph mechanics"},
+    {"name": "Bloodthirsty Blade", "set": "Commander 2019", "note": "Vampire-adjacent equipment; cross-reference for Vampire Rogue archetype"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

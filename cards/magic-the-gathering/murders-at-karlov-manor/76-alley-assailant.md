@@ -71,3 +71,14 @@ A gaunt, pale humanoid figure crouches at the top of a stone staircase inside a 
 **Objects:** stone staircase, wooden banister
 **Genre cues:** fantasy, horror, dark-fantasy
 
+## Trivia
+
+- **Set context** — Alley Assailant is a common Vampire Rogue from Murders at Karlov Manor (released February 9, 2024), set on Ravnica. The set reframes Ravnica through a crime-fiction noir lens — a murder mystery investigated by the Ravnican Agency of Magicological Investigations (R.A.M.I.) rather than guild politics. `[Scryfall; Wizards.com: "Murders at Karlov Manor Mechanics"]`
+- **Design: Disguise mechanic** — Disguise is MKM's variant of Morph. A Disguise creature can be cast face down for {3} as a generic 2/2 with Ward 2, then turned face up at any time for its Disguise cost. The Ward 2 addition over classic Morph makes face-down creatures harder to remove — serving the set's theme of suspects hiding in plain sight. Scryfall confirms a mechanical relationship between Alley Assailant and the "A Mysterious Creature" face-down token card. `[Scryfall; Wizards.com: "Murders at Karlov Manor Mechanics"; CoolStuffInc: Jim Davis, "The Mechanics of Murders at Karlov Manor"]`
+- **Mechanical** — A 3/3 Vampire Rogue that enters tapped. When flipped face up, target opponent loses 3 life and you gain 3 life. Full Disguise cost of {4}{B}{B} is steep; the drain payoff is meaningful in aggressive Pauper black shells. EDHREC rank 23,912 — low Commander adoption, consistent with face-down flip creatures being slow in multiplayer. Legal in Standard, Pioneer, Modern, Legacy, Vintage, Pauper, and Commander. `[Scryfall; EDHREC]`
+
+### Related cards
+- A Mysterious Creature (Murders at Karlov Manor) — Scryfall-linked face-down Disguise token; shared by all MKM Disguise creatures
+- Basilica Stalker (Murders at Karlov Manor) — same set, Vampire creature type; MKM vampire cohort
+- Vesuvan Shapeshifter (Time Spiral) — classic face-down Morph creature; design lineage for Disguise
+

@@ -21,6 +21,7 @@ appears_on:
   - magic-the-gathering/murders-at-karlov-manor/59-furtive-courier
   - magic-the-gathering/murders-at-karlov-manor/63-living-conundrum
   - magic-the-gathering/murders-at-karlov-manor/65-mistway-spy
+  - magic-the-gathering/murders-at-karlov-manor/75-agency-coroner
   - magic-the-gathering/murders-at-karlov-manor/113-case-of-the-burning-masks
   - magic-the-gathering/murders-at-karlov-manor/124-expose-the-culprit
   - magic-the-gathering/murders-at-karlov-manor/141-reckless-detective
@@ -62,6 +63,8 @@ Card art and flavor text that depicts the Agency as an *institution*: its detect
 
 - **Mistway Spy** (MKM-65, uncommon, Andrew Mar art) — a compact green-skinned humanoid (Simic-coded by the head-tendrils) bounds along a rain-swept stone canal ledge at night in a dense urban setting, reaching toward a glowing green street lamp. Mechanically a `{1}{U}` Flying Detective with Disguise — the **Disguise** mechanic is the MKM-signature "play face-down and reveal later" rules-text that mirrors the case's reveal-the-suspect investigative procedure. The card is the Agency's wet-work-at-night operational register: surveillance in the rain.
 
+- **Agency Coroner** (MKM-75, common, Uriah Voth art) — a stout pointed-eared humanoid in dark professional attire and pushed-up goggles leans over a white-draped mortuary table in a cool-lit interior, hands radiating warm violet magical energy toward the corpse. Scryfall's printed type-line is `Creature — Ogre Cleric` (not Detective by subtype), but the card's name is the literal R.A.M.I. attribution — *Agency* Coroner — and the in-card flavor text *"Well, cause of death seems pretty straightforward, but what else can you tell me, friend?"* is the canonical mortuary-interrogation register the Agency's forensic-procedure layer requires. Mechanically `{4}{B}` sacrifice-a-creature-to-draw-a-card, with a doubled draw if the sacrificed creature was Suspected — the rules-text rendering of *case-payoff: a suspect's corpse yields more evidence than an unsuspected one's*. This is the Agency's black-coded forensic-magic operational register, parallel to Gadget Technician's UR-coded forensic-engineering and Curious Inquiry's UU-coded forensic-deliberation. The Cleric subtype (vs. Detective) reads as the Agency's mortuary-specialist auxiliary — a ritualist who serves Agency casework without being a field detective themselves.
+
 - **Case of the Burning Masks** (MKM-113, uncommon, Bastien L. Deharme art) — a burning interior room viewed through a narrow dark doorframe, with a dark prone shape visible amid fire, debris, and smoke. Mechanically a `{1}{R}` enchantment Case (subtype Case — the MKM-signature case-to-solve mechanic); enters with 3 damage to a creature, solves when three or more sources dealt damage that turn, solved triggers an impulse-draw three. The card is the in-fiction *crime scene* — a Case literally in the type-line. The narrow-doorframe framing reads as the detective's POV: catastrophe witnessed through a crack in silence.
 
 - **Expose the Culprit** (MKM-124, uncommon, Ryan Valle art) — wide ballroom-reveal scene in a cathedral-like hall with arched windows and pink ambient light; a central figure in a green dress turns mid-stride as flowing red magical energy ribbons trail from the garment, watched by a formally-dressed crowd including a blue-skinned figure in an orange gown and a horned-helmed figure. Mechanically a `{1}{U}` instant with two modal lines, both Disguise-payoff: turn a face-down creature face-up, OR cloak a face-up Disguise-pile back down. The card is the Agency's case-resolution rendered as a rules-text: the detective forces the suspect's identity into the open. Seanan McGuire's *Magic Story* uses ballroom unmaskings as recurring investigative beats; this is the institutional set-piece of the MKM arc.
@@ -97,6 +100,7 @@ This is what BBL bundle copy can lean on without inventing canon: the Agency is,
 - [[59-furtive-courier]]
 - [[63-living-conundrum]]
 - [[65-mistway-spy]]
+- [[75-agency-coroner]]
 - [[113-case-of-the-burning-masks]]
 - [[124-expose-the-culprit]]
 - [[141-reckless-detective]]

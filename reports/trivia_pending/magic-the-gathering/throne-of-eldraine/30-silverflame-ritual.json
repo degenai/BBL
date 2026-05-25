@@ -1,0 +1,41 @@
+{
+  "card_name": "Silverflame Ritual",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "30",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ardenvale's defining ritual space is the Circle of Loyalty — an eternally burning silver fire at the center of the court. Aspiring knights must step into the silver flame to prove their loyalty; those who pass through unscathed are knighted within the circle itself. The art of Silverflame Ritual appears to depict this ceremony directly: five knights in radial formation around a glowing central sphere. [WebSearch: Ardenvale MTG Wiki, Planeswalker's Guide to Eldraine]",
+      "sources": ["magic.wizards.com/en/news/feature/planeswalkers-guide-eldraine-2019-10-31", "WebSearch: Ardenvale lore summary"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Tempered by fire and united in virtue, the knights of Ardenvale fight with a single, unbreakable will.\" The 'tempered by fire' phrasing directly connects to the Circle of Loyalty's silver fire ordeal; 'single, unbreakable will' is a mechanical callback to the vigilance granted by the Adamant bonus. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Adamant is a keyword mechanic introduced in Throne of Eldraine: when you spend at least three mana of a specific color on a spell, an additional effect triggers. Silverflame Ritual's Adamant bonus grants vigilance — fitting for Ardenvale, the white-loyalty court whose identity is defensive unity. The mechanic was previewed by Wizards in a September 2019 mechanics article. [Scryfall: keywords: Adamant], [magic.wizards.com: Throne of Eldraine mechanics 2019-09-04]",
+      "sources": ["Scryfall", "magic.wizards.com/en/articles/archive/feature/throne-eldraine-mechanics-2019-09-04"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At 4 mana for a sorcery that puts a +1/+1 counter on each creature you control (plus vigilance on Adamant), Silverflame Ritual is a go-wide anthem effect. EDHREC rank 19,269 — moderate commander visibility, especially in Selesnya or mono-white token decks. No longer legal in Standard as of the 2021 rotation. [Scryfall legalities], [Scryfall edhrec_rank]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Castle Ardenvale", "set": "Throne of Eldraine", "note": "The fortress home of the knightly order depicted in this ritual; same court, same set"},
+    {"name": "Worthy Knight", "set": "Throne of Eldraine", "note": "White Ardenvale knight creature from ELD that rewards casting Knights; shares the Ardenvale loyalty theme"},
+    {"name": "Scorching Dragonfire", "set": "Throne of Eldraine", "note": "Also in the BBL inventory from ELD; flavor text names a knight of Ardenvale meeting her death, tragic mirror of this ceremony of life and swearing-in"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

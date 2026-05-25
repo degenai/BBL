@@ -74,3 +74,15 @@ A large, horned, beast-like kami crouches at the base of a curved staircase, hol
 **Iconography:** theatrical-mask, East-Asian-script-signage
 **Genre cues:** fantasy, cyberpunk, anime, dark-fantasy
 
+## Trivia
+
+- **Set context / cross-set lore** — Kami of Jealous Thirst is a common Spirit from Modern Horizons 3 (released June 14, 2024). Its flavor text places it explicitly in Towashi — the neon megacity of Kamigawa: Neon Dynasty (2022) — making this a notable cross-set lore moment: a kami creature type from Kamigawa's plane appearing in a non-Kamigawa set, grounded in that plane's modern setting. `[Scryfall]`
+- **Flavor text** — "The bustle of life in Towashi opened up new avenues for less benevolent kami." No speaker attribution. `[Scryfall]`
+- **Lore context: Towashi** — In Kamigawa: Neon Dynasty lore, Towashi is the central megacity where kami and mortals coexist following a fragile peace treaty. The city's expansion into the Jukai Forest displaced and angered kami; the emperor brokered a truce halting urban sprawl. The Planeswalker's Guide notes that while "for the most part, mortals and kami now live in harmony," not all kami adapted to the new order — the Kami of Jealous Thirst fits precisely among those who found the city's crowds an opportunity for predation rather than coexistence. `[Wizards.com: Planeswalker's Guide to Kamigawa: Neon Dynasty]`
+- **Mechanical** — A 1/3 Deathtouch Spirit for {2}{B}. Its activated ability ({4}{B}: each opponent loses 2 life, you gain 2 life) costs {4}{B} less if you've drawn three or more cards this turn — effectively free in high-draw turns. EDHREC rank 19,086; most relevant in Pauper. `[Scryfall; EDHREC]`
+
+### Related cards
+- Boseiju, Who Endures (Kamigawa: Neon Dynasty) — Towashi's defining landmark tree; same plane and setting as the flavor text
+- Junji, the Midnight Sky (Kamigawa: Neon Dynasty) — named malevolent kami; same category of predatory spirit that refused peaceful coexistence
+- Kaito Shizuki (Kamigawa: Neon Dynasty) — Towashi-based planeswalker; cross-reference for the Neon Dynasty urban setting
+

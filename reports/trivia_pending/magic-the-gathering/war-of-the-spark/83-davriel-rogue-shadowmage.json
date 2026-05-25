@@ -1,0 +1,47 @@
+{
+  "card_name": "Davriel, Rogue Shadowmage",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "83",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card name is 'Davriel, Rogue Shadowmage'; Scryfall type_line is 'Legendary Planeswalker — Davriel'. The planeswalker subtype 'Davriel' is the direct canonical identifier — this IS Davriel Cane. MTG Wiki confirms the character. Wizards-internal character (not external IP). ip_verified set to true, ip_confidence raised to high.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Davriel Cane was created by fantasy novelist Brandon Sanderson for his free MTG novella 'Children of the Nameless' (December 2018). Wizards R&D had already designed a mono-black hand-disruption planeswalker shell for War of the Spark; when Sanderson's character proved a match, they retrofitted the design into Davriel, Rogue Shadowmage. Sanderson himself previewed the card on April 1, 2019. [MTG Wiki: Davriel Cane, Background section], [Scryfall: preview source: brandonsanderson.com]",
+      "sources": ["MTG Wiki: Davriel Cane (mtg.wiki)", "Scryfall preview field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "War of the Spark (set code WAR, released 2019-05-03) placed every planeswalker card in a single set — 36 planeswalkers across the rarities, with uncommon walkers like Davriel being a deliberate design experiment. Per the MTG Wiki, Davriel was lured to Ravnica by Nicol Bolas's Interplanar Beacon and trapped there by the Immortal Sun. His in-story goal was to appear useless so future world-saving crises would stop recruiting him. [MTG Wiki: Davriel Cane, War of the Spark section], [Scryfall]",
+      "sources": ["MTG Wiki: Davriel Cane (mtg.wiki)", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Davriel Cane is a pseudonym; the character's real name is unknown. He lives in Kessig on Innistrad, poses as 'Lord Greystone' at a local priory, and maintains a retinue of demons through contracts engineered to be nearly impossible for the demons to fulfill. He is a shadowmage who steals spells from the minds of other wizards temporarily. His planeswalker spark may not be his own — an Worldsoul Entity in his mind may be the source of his planeswalking ability. [MTG Wiki: Davriel Cane]",
+      "sources": ["MTG Wiki: Davriel Cane (mtg.wiki)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "No flavor text on the card [Scryfall: no flavor_text field]. EDHREC rank 11,422 and penny_rank 447 — Davriel sees meaningful play in mono-black discard and Oathbreaker formats. The -1 discard ability is efficient; the passive 2-damage trigger rewards keeping opponents hellbent. Legal in Pioneer, Modern, Legacy, Commander, and Oathbreaker. [Scryfall legalities and edhrec_rank]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment via Hipsters of the Coast review of 'Children of the Nameless' (Dec 2018): reviewer found Davriel 'occasionally grating in his constant disaffection' but ultimately 'understandable if not likable'; called the novella 'just a good, well-written story that happens to take place in the Magic multiverse.' [hipstersofthecoast.com: Children of the Nameless MTG Novella Review, 2018 — WebSearch snippet]",
+      "sources": ["hipstersofthecoast.com/2018/12/children-of-the-nameless-mtg-novella-review/, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Davriel, Soul Broker", "set": "Strixhaven: School of Mages (Mystical Archive)", "note": "Second Davriel planeswalker card; same character in a later appearance"},
+    {"name": "Davriel's Shadowfugue", "set": "War of the Spark", "note": "Associated card from WAR depicting Davriel's spell-stealing magic"},
+    {"name": "Davriel's Withering", "set": "War of the Spark", "note": "Associated WAR card from Davriel's retinue of cards in the set"},
+    {"name": "Cruel Celebrant", "set": "War of the Spark", "note": "Named in Brandon Sanderson's preview article as a party Davriel considered attending during the invasion — in-world detail from the preview post"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Davriel Cane",
+    "ip_confidence": "high"
+  }
+}

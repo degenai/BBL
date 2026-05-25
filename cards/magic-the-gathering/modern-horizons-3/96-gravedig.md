@@ -70,3 +70,16 @@ A stout figure in a dark coat is bent nearly double on a frost-dusted hillside, 
 **Objects:** shovel, scattered earth
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **Set context** — Gravedig is a common Sorcery from Modern Horizons 3 (released June 14, 2024), a draft-innovation set that introduces cards directly into Modern and Eternal formats without passing through Standard legality. `[Scryfall]`
+- **Design: Entwine's origin** — The Entwine mechanic first appeared in Mirrodin (2003). Mark Rosewater has stated he invented it in a dream: "I designed the entwine mechanic in a dream. I'd been trying to make a mechanic that fit Mirrodin and was thinking a lot about it. I went to sleep and dreamed it. I then excitedly woke up and wrote it down." Outside the original Mirrodin block, new Entwine cards have appeared only in Modern Horizons, Modern Horizons 2, Commander 2019, and Modern Horizons 3 — approximately 31 total cards carry the mechanic as of 2024. `[Magic Untapped: "Entwine: The Mechanic With A Very Odd Origin Story", citing Rosewater; Draftsim]`
+- **Design: artist** — Drew Baker has illustrated approximately 33 Magic cards across Innistrad, Streets of New Capenna, Conspiracy, Throne of Eldraine, and Modern Horizons 3. He also illustrated Winter Moon in the same MH3 set. Baker describes his style as "Imaginative Realism" and is known for scumble and glaze techniques, broken color, and atmospheric perspective. His portfolio includes Library of Alexandria, Karakas, and Reliquary Tower. `[Hipsters of the Coast: "A Tale of Two Workshops" (2020); Scryfall]`
+- **Mechanical** — Gravedig is legal in Modern, Legacy, Vintage, Pauper, and Commander. EDHREC rank 11,676 places it in mid-tier Commander inclusion. The Entwine option — paying {1}{B} plus the {2} Entwine cost for both a 2/2 Zombie token AND a creature returned from the graveyard — offers genuine flexibility at 4 mana total. `[Scryfall; EDHREC]`
+- **Community note** — Scryfall records that Gravedig was previewed by r/magicTCG on May 27, 2024 as part of Wizards' community free-preview program for MH3 spoiler season. `[Scryfall preview metadata]`
+
+### Related cards
+- Kaya's Guile (Modern Horizons) — first Entwine card outside Mirrodin block; established the Modern Horizons Entwine design pattern
+- Winter Moon (Modern Horizons 3, no. 213) — same set, same artist (Drew Baker)
+- Zombify (Onslaught / multiple) — functional cousin; black reanimation sorcery comparison anchor
+

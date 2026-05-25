@@ -72,3 +72,16 @@ Two slender, fully silhouetted dark figures stand on either side of a wide ornat
 **Iconography:** skull-form, symmetrical-energy-pattern, cauldron
 **Genre cues:** fantasy, dark-fantasy, horror
 
+## Trivia
+
+- **Set context / flavor-text speaker** — Macabre Reconstruction's flavor text is attributed to "Nelo, Agency coroner" — a named character associated with the Ravnican Agency of Magicological Investigations (R.A.M.I.). The R.A.M.I. was founded by Ezrim (a guildless archon) as a forensic investigation bureau handling crimes beyond the Azorius Senate's scope. Nelo is a flavor-text-only character; they do not appear as a named playable card in the set. The adjacent card Agency Coroner (MKM no. 75, art by Uriah Voth) depicts an unnamed Ogre Cleric in the same institutional role. `[Scryfall: Macabre Reconstruction; Scryfall: Agency Coroner MKM 75; Wizards.com: Planeswalker's Guide to Murders at Karlov Manor]`
+- **Flavor text** — "Eyewitness testimony, coming right up! Just let me finish regenerating their eyes." —Nelo, Agency coroner. `[Scryfall]`
+- **Mechanical** — Returns up to two creature cards from a graveyard to hand for {3}{B}, but costs {2} less if a creature was put into your graveyard this turn — effectively {1}{B} when any creature died that turn. EDHREC rank 14,700, indicating moderate Commander visibility for a common. Legal in Standard, Pioneer, Modern, Legacy, Vintage, and Commander. Not legal in Pauper. `[Scryfall; EDHREC]`
+- **Design: artist** — Sam Guay describes their practice as rooted in "dreams, folklore, and communion with the natural world," exploring "transformation and the strangeness of our world." They are the creator of the Blood Moon Tarot and The Saturnine Oracle. Macabre Reconstruction's symmetrical skull-energy composition and deep-blue-purple palette is consistent with Guay's occult-inflected illustration style. Guay sells original MKM prints including Macabre Reconstruction directly from their portfolio site. `[samguay.com: "The Artist"; samguay.squarespace.com]`
+
+### Related cards
+- Agency Coroner (Murders at Karlov Manor, no. 75) — same R.A.M.I. institution; Nelo named on Macabre Reconstruction, Agency Coroner depicts the unnamed creature occupying that role
+- Alquist Proft, Master Sleuth (Murders at Karlov Manor) — lead R.A.M.I. detective; same agency as Nelo the coroner
+- Unburial Rites (Innistrad) — two-creature graveyard return at sorcery speed; direct mechanical comparison
+- Victimize (Urza's Saga / multiple) — classic two-creature reanimation sorcery; benchmark in the same design space
+
