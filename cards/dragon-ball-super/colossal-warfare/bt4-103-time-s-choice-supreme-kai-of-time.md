@@ -94,3 +94,7 @@ A small humanoid figure with pink or lavender skin stands amid swirling pink and
 - Future Trunks (Various DBS sets) — canonical predecessor figure; timeline-correction is a shared thematic register
 - Mechikabura (Various DBS Heroes sets) — Chronoa's rival whose conflict led to her ascension as Supreme Kai of Time
 
+## Connections
+
+- [[chronoa]] — This is Chronoa's BT4 entry, the second Bandai-set Chronoa appearance and the canonical mid-Time-Patrol-arc operational portrait — depicted as the canonical petite pink-skinned figure with tall top-knot hairstyle and purple ceremonial outfit, surrounded by swirling pink-purple energy that reads as her time-magic aura. The card's "Time's Choice" title directly evokes Chronoa's core canonical dramatic tension as Supreme Kai of Time per Dragon Ball Wiki: she holds the deity-tier authority to erase Alternate Timelines from official history, but treats that power as a last resort because erasure destroys everyone inhabiting the erased timeline — the binary correct-vs-erase decision is built into her lore role as Time Patrol commander. This card is the corpus's most decisive stewardship-of-restraint canonical citation per the chronoa node's hub-attribution evidence base: a stewardship figure defined by restraint as much as power, anchoring the protagonist-side counter-pole to the [[xenoverse-villains]] node's Time Breakers across Bandai's BT3-and-BT4 Xenoverse arc.
+

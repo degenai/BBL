@@ -99,3 +99,7 @@ A long, serpentine elemental lizard sweeps diagonally across a near-black backgr
 - Chandra's Spitfire (Magic 2010) — direct mechanical predecessor; same noncombat-damage pump trigger; frequent community comparison point
 - Torbran, Thane of Red Fell (Throne of Eldraine) — strongest EDH synergy partner; his damage buff triggers Pyreling's condition
 - Guttersnipe (Return to Ravnica) — spell-damage engine that repeatedly triggers Pyreling in spell-heavy Commander builds
+
+## Connections
+
+- [[chandra-nalaar]] — Chandra Nalaar is the canonical pyromancer-planeswalker behind this serpentine fire-lizard; the possessive in the card name places it in her *Chandra's <Creature>* attribution cycle, and the flavor text (*"I think Chandra just wanted something to blame random scorch marks on." —Jace Beleren*) double-confirms the attribution by routing it through Chandra's Gatewatch teammate Jace Beleren. The Jace-as-speaker flavor is the second-most-load-bearing detail in the cycle: it indexes the Chandra ↔ Jace relationship documented through both characters' Magic Origins arcs and the WAR-era Gatewatch period. The Pyreling sits alongside [[137-chandra-s-magmutt]] as the two named M21 Chandra-companion creatures, with this card's serpentine register contrasting the Magmutt's loyal-hound register across the same elemental-conjuration suite.

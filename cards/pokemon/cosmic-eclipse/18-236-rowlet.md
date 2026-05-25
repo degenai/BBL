@@ -97,3 +97,7 @@ A small, round, owl-like creature perches on a tree branch. It has a compact rot
 - Decidueye (various) — final evolution Grass/Ghost; hooded archer with arrow-quill attacks
 - Litten (various) — Alola Fire starter; Gen 7 starter cohort
 - Popplio (various) — Alola Water starter; Gen 7 starter cohort
+
+## Connections
+
+- [[rowlet-line]] — This Cosmic Eclipse 18/236 print depicts the base stage of the canonical Rowlet/Dartrix/Decidueye Alola Grass-starter line (National Pokedex no. 722, Grass/Flying), the "Grass Quill Pokemon" offered as one of three first-partner Pokemon by Professor Kukui in Pokemon Sun and Moon (2016) and notable as the highest-base-HP unevolved starter in the franchise. The printed flavor text *"It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable"* establishes the species' feather-blade canon at the base stage, foreshadowing the line's blade-quill-to-arrow-quill design progression that completes at Decidueye's silent-archer apex. As the canonical final-Sun-and-Moon-set Rowlet print (Cosmic Eclipse SM12, the closing Sun & Moon series expansion before the Sword & Shield transition), this card sits at the base of the line's only-starter-with-typing-shift-at-apex structural signature — Grass/Flying base and middle stages giving way to Grass/Ghost (Alola) or Grass/Fighting (Hisuian) at Decidueye.

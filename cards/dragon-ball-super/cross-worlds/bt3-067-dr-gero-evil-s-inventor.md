@@ -95,4 +95,8 @@ An elderly humanoid figure with white hair stands wearing a distinctive tall bla
 - Android 17 / Android 18 (Various DBS sets) — Gero's forcibly-converted human creations; killed Gero after gaining autonomy
 - Cell (Various DBS sets) — Gero's ultimate creation, assembled from collected genetic material of multiple warriors
 
+## Connections
+
+- [[cell-saga-apparatus]] — **Engineer tier** of the designer-implicit three-card thesis-stack visualizing the Red Ribbon Army's mass-warrior-production apparatus at three escalating production-scale tiers across Union Force BT2 and Cross Worlds BT3. Dr. Gero is the architect-engineer who designed the entire Android program (Androids 13-20) plus Cell's bio-mechanical-assembly framework, plus the insect-spy-drone surveillance infrastructure that fed the mass-warrior-production logic with target data for years. Tier 1 of the apparatus's progressive autonomy-from-human-administration progression: the single-human-administrator-of-the-program is alive and operating the framework directly, with the posthumous-supercomputer-and-Cell-mitosis tiers downstream from this engineer-anchor.
+
 

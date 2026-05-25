@@ -83,6 +83,7 @@ A female humanoid figure stands in a relaxed pose wearing a large spherical mech
 
 ## Connections
 
+- [[bulma]] — Bulma is the Capsule Corporation heiress and the franchise's primary engineer across forty years of Dragon Ball canon (Akira Toriyama, Weekly Shonen Jump 1984–present), credited with inventing the Dragon Radar as a teenager and engineering the Z-canon time machine that brings Future Trunks back from his alternate timeline. This print is the **inventor-register** Bulma — the spherical mechanical helmet dominating the upper frame is the canonical engineering-protagonist visual signature, and the card name's "Multimech" suffix directly encodes multi-mechanism / multi-mech-suit invention. The card sits in a designer-coordinated inventor-and-explorer dyad with BT4-093 at adjacent collector numbers, distinct from the mom-register at BT4-013.
 - [[bt4-093-explorer-bulma]] — Same character (Bulma, Capsule Corp inventor) across adjacent Colossal Warfare collector numbers (BT4-092 + BT4-093) rendering the engineer-inventor incarnation register (mechanical-helmet inventor at BT4-092 + Capsule-Corp-tech hover-bike rider at BT4-093), distinct from BT4-013's mom-incarnation register. [Dragon Ball Wiki: Bulma]
 
 ## Trivia

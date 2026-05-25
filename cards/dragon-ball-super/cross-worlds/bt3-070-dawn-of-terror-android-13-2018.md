@@ -93,4 +93,8 @@ A large, powerfully built humanoid figure stands in an aggressive combat stance 
 - Android 14 (Various) — activated alongside Android 13 by Gero's supercomputer; 13 absorbs 14's components
 - Android 15 (Various) — activated alongside Android 13 by Gero's supercomputer; 13 absorbs 15's components
 
+## Connections
+
+- [[cell-saga-apparatus]] — **Product tier** of the designer-implicit three-card thesis-stack anchoring the Red Ribbon Army's mass-warrior-production apparatus at three escalating production-scale tiers. Android 13 is the canonical posthumous-completion product built by Gero's underground supercomputer after Androids 17 and 18 killed Gero, demonstrating the apparatus's posthumous-continuation logic — the program survives the engineer and continues producing warriors without him alive to operate it. The Red Ribbon Army cap is the visual lineage-marker tying this single-completed-Android-instance to the engineer tier upstream and to the Cell Jr. mass-product tier downstream as the apparatus's progressive autonomy-from-human-administration midpoint.
+
 

@@ -90,3 +90,6 @@ A short, bald figure stands in a guarded defensive stance with forearms raised a
 - Boost Attack Piccolo (Galactic Battle, BT1-045) — both Krillin and Piccolo occupy the stewardship register: Piccolo as mentor, Krillin as loyal human shield
 - Frieza, The Galactic Emperor (Galactic Battle, BT1-084) — Frieza's murder of Krillin is the canonical trigger for Goku's Super Saiyan transformation; cause-and-effect pair within BT1
 
+## Connections
+
+- [[krillin]] — anchors the canonical *defensive-shield-Z-Fighter* register on this card: the dark-purple-gi-under-white-and-gold-armor-vest configuration is the Bulma-issued Z-Fighter combat uniform from the Saiyan / Frieza Saga arcs, the defensive-block stance is the canonical Krillin operating-mode, and the card-subtitle "Human Shield" literalizes the canonical *labor-tier-fighter-who-shows-up-anyway-and-absorbs-the-cost* function that grounds Krillin's most-deaths-record across the franchise. This print is the corpus's single clearest *labor-tier-Z-Fighter-whose-death-cost-canonically-triggers-apex-power-Saiyan-transformation* anchor — the Frieza-kills-Krillin-on-Namek beat is canonically the exact moment Goku first transforms into Super Saiyan. Paired with TB2-053 (tournament-fighter-with-Chiaotzu-synergy) and TB2-041 (action-strike-rare-tier) across the three-anchor corpus span.

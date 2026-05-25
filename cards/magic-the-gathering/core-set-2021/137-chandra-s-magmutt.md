@@ -98,3 +98,7 @@ A medium-sized canine elemental composed entirely of fire stands in profile agai
 - Chandra, Heart of Fire (Core Set 2021) — headliner Chandra planeswalker anchoring the M21 Chandra theme
 - Chandra, Fire of Kaladesh (Magic Origins) — Chandra's origin card; Magmutt appears in ~44% of its EDH builds
 - Rin and Seri, Inseparable (Core Set 2021) — the other Dog-theme card in M21 that anchored the Hound-to-Dog rename announcement
+
+## Connections
+
+- [[chandra-nalaar]] — Chandra Nalaar is the canonical pyromancer-planeswalker conjuring this flame-elemental hound; the possessive in the card name and the flavor-text attribution (*"Is it purebred? No, but it's pure fire." —Chandra Nalaar*) place the Magmutt in her named *Chandra's <Creature>* attribution cycle. The character is not depicted on the card itself, but the cycle convention edges the card to Chandra through Wizards' canonical possessive-title test rather than visual presence. The Magmutt is the cheerful-companion register of the cycle — the pyromancer's pet, in the M21 slice-of-life set that paired her with two signature elemental companions (this and [[138-chandra-s-pyreling]]).

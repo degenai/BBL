@@ -80,3 +80,8 @@ A large, reddish-orange crab-insect creature is depicted with its body almost en
 **Creatures:** insect, crab, mushroom-host
 **Iconography:** mushroom
 **Genre cues:** anime, fantasy, horror
+
+## Connections
+
+- [[paras-line]] — Stage-1 Parasect (National Pokedex no. 47) at one of the line's four corpus prints and the corpus's most pronounced body-horror visual register; the Eri Yamaki Sun & Moon Base Set art stages the mushroom cap enormous and dominant in chiaroscuro lighting against a dark rocky cave-like setting, the host body almost entirely overshadowed. The printed flavor *"The large mushroom on its back controls it. It often fights over territory with Shiinotic"* is the species' canonical mushroom-as-controller Pokedex window with a unique-to-this-print Shiinotic-rivalry detail situating Parasect against the Generation VII Alola mushroom Pokemon. Open janitor item: the cached image is flagged `review_bad` as a wrong-printing capture (PriceCharting fallback URL documented in review_notes); membership at the line node remains valid because `appears_on:` predicates on species identity, not printing fidelity.
+

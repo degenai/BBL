@@ -99,3 +99,7 @@ Two figures fill a dark, close-quarters frame. The figure on the left stands in 
 - Liliana, Dreadhorde General (War of the Spark) — the other figure in this card's art
 - Nicol Bolas, Dragon-God (War of the Spark) — the antagonist whose contract Gideon absorbed
 - Gideon's Sacrifice (Murders at Karlov Manor Commander, no. 68) — 2024 reprint; same art and oracle text
+
+## Connections
+
+- [[gideon-jura]] — Gideon's Sacrifice is the death-moment Story Spotlight at the canonical climax of Gideon Jura's arc: the figure on the left being consumed by the crimson magical burst is Gideon at the exact instant of absorbing Liliana's demonic contract, using his hieromantic indestructibility-magic to transfer the killing blow onto himself so she could survive turning the God-Eternals against Nicol Bolas. The oracle text — *"All damage that would be dealt this turn to you and permanents you control is dealt to the chosen permanent instead"* — maps unusually literally onto the depicted beat, encoding the death-substitution in rules-text. This is the WAR death-and-elegy diptych's death half (Gideon's Triumph WAR-15 being the elegy half); both cards anchor here, and this one additionally multi-attributes to Liliana Vess as the second on-frame depicted figure named directly in the flavor text — *"To Liliana's surprise, the cost of betraying Bolas did not fall on her."*

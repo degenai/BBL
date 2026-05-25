@@ -94,3 +94,7 @@ A petite female-presenting deity figure stands against a swirling magenta and pi
 - Encroaching Threat Masked Saiyan (Cross Worlds, SD3-04) — Bardock brainwashed by Towa; the threat Chronoa's Time Patrol tracks
 - Power Aura Mira (Cross Worlds, SD3-05) — Towa's co-antagonist; Chronoa's principal enemies in the Xenoverse arc
 
+## Connections
+
+- [[chronoa]] — This card anchors Chronoa in her canonical Time-Patrol-commander register: the petite female-presenting deity figure with very large pink twin-tail hair and purple-and-pink ceremonial outfit with white trim is Chronoa's definitive published design across Dragon Ball Online, Xenoverse 1, Xenoverse 2, Super Dragon Ball Heroes, and Dragon Ball Daima per Dragon Ball Wiki. Cross Worlds (BT3) is canonically the first DBSCG set to heavily feature the Xenoverse / Dragon Ball Online timeline per Bleeding Cool's BT3 checklist, introducing the [[xenoverse-villains]]-cohort Time Breakers faction alongside heroic time-guardians like the Supreme Kai of Time — Chronoa is the protagonist-side counter-anchor to the antagonist-side Time Breakers operation Bandai built into this set. With qty 4 in inventory, BT3-113 is the highest-multiplicity Chronoa card in corpus and the principal bulk-disposal lever for any future Xenoverse-arc Discrete Lair per `[[bbl-multi-copy-bundles]]`.
+

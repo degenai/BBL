@@ -102,3 +102,7 @@ A back-facing figure in a long dark coat or robe stands at the center of the fra
 - *Furious Reprisal* (multiple printings) — direct mechanical cousin: red instant dealing 2 damage divided between targets; cited by EDHREC as a play-pattern relative.
 - *Dovin's Veto* (War of the Spark, WAR) — companion-cycle counterpart for Dovin Baan, the flavor-text target named in this card's quote.
 
+## Connections
+
+- [[chandra-nalaar]] — Chandra Nalaar is the back-facing robed pyromancer channeling the twin fire-helices in this art; the flavor text (*"Now that I've dealt with your little toys, I can focus on the real problem: you." —Chandra Nalaar, to Dovin Baan*) and her *Chandra's <Spell>* attribution-cycle naming both confirm the depiction. The art is by Aleksi Briclot, one of Chandra's signature artists (he also painted the original 2007 *Chandra Nalaar* from Lorwyn and *Chandra's Phoenix* from M12), and the silhouetted-against-fire composition is the canonical Briclot register for the character. This card anchors Chandra's *War of the Spark* combat register — Gatewatch frontline combatant during Bolas's Ravnica invasion, with the "little toys" being the Thopter constructs Dovin Baan engineered for Bolas.
+

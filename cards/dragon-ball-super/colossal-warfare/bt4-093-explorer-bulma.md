@@ -83,6 +83,7 @@ A female humanoid figure with longer hair sits astride a hover-bike or flying ve
 
 ## Connections
 
+- [[bulma]] — Bulma is the Capsule Corporation heiress and original Dragon Ball party member (chapter 1, Weekly Shonen Jump 1984), the teenager whose Dragon Radar invention initiates the entire franchise on her first expedition with Goku. This print is the **explorer-register** Bulma — the hover-bike is canonical Capsule Corp technology (the same family of capsule-deployed vehicles running across Dragon Ball, DBZ, and DBS), and the open-sky adventure framing maps directly to that original Dragon-Radar-expedition register that started everything. The card sits in a designer-coordinated inventor-and-explorer dyad with BT4-092 at adjacent collector numbers, distinct from the mom-register at BT4-013.
 - [[bt4-092-multimech-bulma]] — Same character (Bulma, Capsule Corp inventor) across adjacent Colossal Warfare collector numbers (BT4-092 + BT4-093) rendering the engineer-inventor incarnation register (mechanical-helmet inventor at BT4-092 + Capsule-Corp-tech hover-bike rider at BT4-093), distinct from BT4-013's mom-incarnation register. [Dragon Ball Wiki: Bulma]
 
 ## Trivia

@@ -80,3 +80,6 @@ A round, owl-like creature with a white facial disc and dark green body perches 
 **Creatures:** owl, bird
 **Genre cues:** anime, fantasy
 
+## Connections
+
+- [[rowlet-line]] — This Darkness Ablaze 012/189 Normal-variance print depicts the Stage-1 mid-form of the canonical Rowlet/Dartrix/Decidueye Alola Grass-starter line (National Pokedex no. 723, Grass/Flying), the "Blade Quill Pokemon" classified as "the dandy" for its grooming-perfectionist Pokedex canon. Same printing as the DAA-012 Reverse Holofoil sibling — same Mitsuhiro Arita illustrator authorship (Base Set Charizard / Pikachu / energy-type-symbols designer), same dark-coniferous-forest-at-twilight composition, same blade-quill flavor text rendering the species' precision-attack feather-canon at the mid-stage. As a separate inventory line per the standard BBL printing-variant-treats-as-distinct-print convention, this card attaches to the cohort node alongside its Reverse Holofoil sibling and the two Rowlet base-stage prints currently sitting at base-and-middle coverage of the line's three evolutionary stages (Decidueye apex pending future-acquisition).

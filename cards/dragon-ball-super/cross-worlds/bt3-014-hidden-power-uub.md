@@ -91,3 +91,7 @@ A young boy with dark skin stands in an aggressive fighting stance with fists ra
 - Uub Leader (World Martial Arts Tournament, TB2) — Uub appears as a leader card in the TB2 set, reflecting his continued importance across the DBS TCG line
 - Heroic Duo Son Gohan (World Martial Arts Tournament, TB2-003) — Gohan and Uub are both fighters introduced or developed during the Majin Buu / Babidi arc
 
+## Connections
+
+- [[uub]] — depiction-layer anchor: the figure is the canonical GT-era adolescent Uub after five years of off-world Goku-disciple training, depicted in the Bandai-canonical Black Star Dragon Ball Saga era designation. The card's *Hidden Power* subtitle names the canonical Kid-Buu-reincarnation premise — a human child whose body contains the compressed destructive force of the purest Majin Buu lineage, retained as raw ki while losing the regeneration and inherent-evil components per King Yemma's afterlife judgment of Goku's wish. BT3-014's unusually high 20000 power for Common rarity is the canonical Bandai mechanical-encoding of Uub's *strongest-human-fighter-despite-unassuming-child-appearance* canonical reputation. `[Source: Dragon Ball Wiki: Uub; dragon-ball-official.com: Weekly Character Showcase Uub]`
+

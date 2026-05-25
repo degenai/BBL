@@ -97,3 +97,7 @@ A humanoid figure with long dark hair stands in a power stance on a rocky landsc
 - Gideon's Sacrifice (WAR-14, Chris Rallis) — death-moment Story Spotlight; anchored in gideon-jura.md
 - Gideon's Phalanx (BFZ-32) — fellow BFZ Gideon-attribution instant; same set, same character cycle
 - Gideon's Defeat (HOU) — mid-arc attribution spell from Amonkhet block
+
+## Connections
+
+- [[gideon-jura]] — Gideon's Reproach is this corpus's sole Battle for Zendikar depiction of Gideon Jura, captured in the Ally-of-Zendikar phase swinging his canonical golden-energy sural (the whip-lasso weapon introduced in Magic Origins 2015 and consistent across every BFZ-era printing) against Ulamog's brood on the floating-rock columns of Zendikar. The flavor text — *"Suddenly, Gideon was there with us, clearing the way so that we could escape." — The War Diaries* — frames him in the labor-coded register that defines his entire arc: the front-line protector who appears to rescue civilians at his own cost, foreshadowing the WAR sacrifice that resolves his survivor's-guilt thread from Theros. Among the ~10 cards in the canonical *Gideon's <Spell>* attribution cycle, Reproach sits in the living-era half (pre-WAR) while Sacrifice and Triumph occupy the death-and-elegy half — this card is the BBL corpus's Ally-of-Zendikar anchor for the broader character.

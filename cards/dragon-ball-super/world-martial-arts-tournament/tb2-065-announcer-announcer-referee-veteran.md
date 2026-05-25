@@ -88,3 +88,7 @@ A male-presenting figure with blonde hair wears a dark suit and holds a large mi
 ### Related cards
 - Master Shen, Martial Meister (World Martial Arts Tournament, TB2-063) — Shen's match-fixing at the 22nd Tournament was narrated by this Announcer from the outside without his knowledge of the corruption
 - Unyielding Victory Jackie Chun (World Martial Arts Tournament, TB2-058) — the Announcer called Jackie Chun's matches without knowing the fighter was Master Roshi in disguise
+
+## Connections
+
+- [[wmat-tournament-announcer]] — Anchors the canonical Referee Veteran role-facet of the unnamed World Martial Arts Tournament Announcer, the franchise's longest-recurring service-labor figure who has officiated every Tenkaichi Budokai from chapter 33 of the manga in 1985 onward. The double-faced TB2-065 print encodes the role-escalation from announcer-on-mic to ringside-rules-arbiter, canonizing the *decades-of-ringside-experience* facet at the card-game level. Within the TB2 three-card Announcer mini-cycle (TB2-065 + TB2-066 + TB2-067), this card is the rules-arbitration anchor — the canonical decision-maker face of a character whose individual name has never been spoken across forty years of franchise output.

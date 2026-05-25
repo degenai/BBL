@@ -91,3 +91,7 @@ Three small figures fill the frame in a group composition, each in a crouched ag
 - Cell (Perfect Form) (Union Force) — progenitor of the Cell Jr. cohort; canonical parent card in BT2
 - Fully Trained Super Saiyan Son Gohan (Union Force, BT2-074) — Gohan SSJ2 is the in-universe answer to the Cell Jr. threat; his transformation was triggered by the Cell Jr. rampage
 - Android 16 (Union Force) — Android 16's death at the Cell Games is what triggered Gohan's SSJ2, ending the Cell Jr. rampage
+
+## Connections
+
+- [[cell-saga-apparatus]] — **Mass-product tier** of the designer-implicit three-card thesis-stack visualizing the Red Ribbon Army's mass-warrior-production apparatus at three escalating production-scale tiers across Union Force BT2 and Cross Worlds BT3. The seven Cell Jrs. spawned via cellular mitosis from Perfect Cell's tail during the Cell Games are the apex-Gero-design's own self-replication mechanism — mass-production no longer requires the engineer alive or even the supercomputer's posthumous administration, only the apex-product's own body manufacturing identical-power-level threats on demand. Tier 3 endpoint of the apparatus's progressive autonomy-from-human-administration progression: the android-as-factory-line motif at its canonical extreme, with the trivia bullet's "Apparatus note" already cross-citing Gero's bio-mechanical replication logic upstream.

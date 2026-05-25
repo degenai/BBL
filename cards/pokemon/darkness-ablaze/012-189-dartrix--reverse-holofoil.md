@@ -95,3 +95,7 @@ An owl-like creature perches on a branch in a darkened forest setting. The creat
 ### Related cards
 - Rowlet (Sun and Moon era, various) — pre-evolution, Alolan Grass starter
 - Decidueye (Sun and Moon era / Legends Arceus era) — final evolution; gains Ghost typing in Hisuian form
+
+## Connections
+
+- [[rowlet-line]] — This Darkness Ablaze 012/189 Reverse Holofoil print depicts the Stage-1 mid-form of the canonical Rowlet/Dartrix/Decidueye Alola Grass-starter line (National Pokedex no. 723, Grass/Flying), the "Blade Quill Pokemon" classified as "the dandy" in its Pokedex entries for its grooming-perfectionist preoccupation and reluctance to fight if its feathers get dirty. The printed flavor text *"It throws one knifelike feather after another at its enemies, and each one precisely strikes a weak point. These feathers are known as blade quills"* renders the species' feather-blade canon at its precision-attack escalation point — between Rowlet's general "feathers as sharp as blades" base register and Decidueye's arrow-quill silent-assassin apex. The Mitsuhiro Arita illustrator authorship (Base Set Charizard / Pikachu / energy-type-symbols designer extending his career into modern Sword & Shield era common slots) makes this print a structural cohort detail for the line's TCG print history — Arita's continued modern-common-card output is a designer-coordinated signature of the franchise's TCG illustration convention.

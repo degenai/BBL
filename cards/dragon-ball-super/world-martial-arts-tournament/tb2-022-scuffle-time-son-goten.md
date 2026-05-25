@@ -87,3 +87,6 @@ A young male figure in a dark martial arts gi is caught mid-scuffle, body angled
 - Top of His Game Son Gohan (World Martial Arts Tournament, TB2-021) — Gohan is Goten's older brother
 - Begrudging Respect Piccolo (World Martial Arts Tournament, TB2-027) — later trained Goten for fusion against Buu
 
+## Connections
+
+- [[son-goten]] — This print is the corpus's Buu-Saga 25th Tournament action-mode register, Bandai-tagged `Son Goten` and depicting child-Goten mid-brawl with blue ki gathering near one hand, hair untransformed before the Super Saiyan reveal. The "Scuffle Time" subtitle is designer-coordinated as a mechanical-synergy pair with TB2-028 Scuffle Time Mr. Buu — Goten gains +10,000 power and Active Mode when the named Buu print is in play, encoding the canonical *Junior Division as rough-and-tumble counterweight to the Babidi crisis* register at the mechanical layer. The card captures the rough-and-tumble brawl-between-best-friends tone of the Junior bracket while the Babidi harvest plot metastasizes one bracket over in the adult division.

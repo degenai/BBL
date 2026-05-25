@@ -74,3 +74,8 @@ An orange, crab-like insect creature crouches on a leaf or low ground among lush
 **Creatures:** insect, crab, mushroom-bearer
 **Iconography:** mushroom
 **Genre cues:** anime, fantasy, nature
+
+## Connections
+
+- [[paras-line]] — Base-stage Paras (National Pokedex no. 46) at one of the line's four corpus prints; the Ayaka Yoshida Sun & Moon Base Set art renders the canonical small orange crab-insect with two red-capped tochukaso mushrooms in a lush green forest-floor setting with dense ferns and filtered sunlight — the corpus's most pronounced naturalistic-forest-floor register for the species. The printed flavor *"No matter how much it eats, the mushrooms growing on its back steal away most of the nutrients it consumes"* is the species' canonical nutrient-theft-from-host Pokedex window, distinct from the DAB-003 "tochukaso are controlling the bug" flavor and staging an earlier phase of the parasitic-completion progression. Sibling Paras print to the Atsuko Nishida Darkness Ablaze 003/189 base-stage rendering, with the cross-set base-stage pair surfacing the line's designer-coordinated body-plan continuity across two generations of TCG production.
+

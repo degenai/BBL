@@ -91,3 +91,7 @@ A heavily armored humanoid figure crouches in an aggressive fighting stance on a
 - Ark Angel MR (FFTCG, Opus VIII or later) — Mithra Crystal Warrior cycle sibling; envy
 - Ark Angel GK (FFTCG, Opus VIII or later) — Galka Crystal Warrior cycle sibling; rage
 
+## Connections
+
+- [[ffxi-ark-angels-cycle]] — Ark Angel HM is the Hume Male Crystal Warrior of the FFXI Zilart Mission 14 boss quintet, embodying the canonical sin of Apathy and tuned to the Warrior job affinity per Square's 2002 Rise of the Zilart canon. Within the FFTCG Opus VIII designer-coordinated within-set placement, this print is the 8-001R Fire-Rare Forward whose Cross-Reaver-burst card-mechanic design (damage-doubling clause plus +3000 power when attacking at 3-cost) translates the Hume-Warrior boss-encounter signature into FFTCG terms. Of the five canonical Ark Angels, three are currently in BBL corpus (HM, GK EX, TT) — HM is the Apathy/Hume node of that three-of-five cohort coverage and the FFTCG Crystarium-rated premium aggressive rare of the set.
+

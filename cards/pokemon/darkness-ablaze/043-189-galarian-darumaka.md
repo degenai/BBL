@@ -82,3 +82,7 @@ A small, round, white creature with a compact spherical body sits amid a bright 
 **Objects:** snow, rocks
 **Genre cues:** anime, fantasy
 
+## Connections
+
+- [[galarian-regional-forms]] — Galarian Darumaka is the cohort's canonical Ice-type regional variant of the Unovan Fire-type Darumaka (National Pokedex no. 554), and this Shin Nagasawa Darkness Ablaze print is the second corpus printing of the species (the Rebel Clash 047/192 Akira Komayama print is the cohort node's cited entry, with the species itself a duplicate at the species-scope `appears_on:` list). The card's snowy-mountain backdrop and rotund white-and-pale-blue body anchor the cohort's **climate-driven-type-shift axis** — the variant lore canonizes long-term cold-region exposure as the in-canon adaptation mechanism (the fire sac literally atrophied and was replaced by a cold-generating organ), distinct from the Galarica-seed mechanism that anchors the Slowpoke / Ponyta lines and from the regional-cultural-practice mechanism that anchors Farfetch'd / Perrserker. As a Sword-version-exclusive base form evolving via Ice Stone into Galarian Darmanitan (the series' first Ice/Fire dual-type via Zen Mode), this card sits at the entry point of one of the cohort's Game Freak-coordinated regional-variant evolution lines.
+

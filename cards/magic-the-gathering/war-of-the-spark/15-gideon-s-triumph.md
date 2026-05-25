@@ -103,3 +103,7 @@ A close cropped composition shows a dark-haired, dark-complexioned warrior in bl
 - Gideon's Defeat (HOU, no. 14) — the Hour of Devastation Defeat cycle counterpart this card narratively inverts
 - Gideon's Sacrifice (WAR, no. 13) — companion narrative card in the same set depicting Gideon's death
 - Heartwarming Redemption (WAR, no. 18) — flavor text "Kytheon had known war every day of his life, now he finally knew peace" — Gideon's post-death epitaph card in the same set
+
+## Connections
+
+- [[gideon-jura]] — Gideon's Triumph is the elegy half of WAR's Gideon death-and-elegy diptych, depicting Gideon in blue-and-gold plate surveying a courtyard of fallen comrades with grim resolve rather than celebration — the aftermath beat to Gideon's Sacrifice (WAR-14) which renders the death itself. The flavor text — *"His triumph came not from victory over his enemies, but from the salvation of those who survived"* — is the canonical articulation of his arc-thesis per Hipsters of the Coast: survivor's-guilt originating on Theros when his Irregulars and mentor Hixus died under his command, resolved in WAR by trading his own life to save Liliana. This card multi-attaches: it anchors here as an individual-character depiction AND anchors [[war-gatewatch-triumph-cycle]] as the white member of the designer-coordinated five-card cycle (Jace's / Liliana's / Chandra's / Nissa's / Gideon's Triumph) that Mark Rosewater confirmed was built as a direct mirror of the Hour of Devastation Defeat cycle in which Bolas had routed the Gatewatch two years earlier.

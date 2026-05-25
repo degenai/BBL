@@ -90,3 +90,6 @@ A young child with spiky dark hair charges forward with both fists raised, body 
 - Mighty Mask, Powers Combined (World Martial Arts Tournament, TB2-008) — Goten and Trunks in disguise; TB2-008 depicts what Goten and Trunks become together in that tournament
 - Gotenks (various DBS sets) — the Fusion Dance result of Goten and Trunks; the apex of their combined power developed during the Buu arc
 
+## Connections
+
+- [[son-goten]] — This print is the corpus's primary Goten-as-Junior-Division-finalist anchor, the canonical seven-year-old at the 25th World Martial Arts Tournament whose Bandai-tagged `Son Goten` register opens the Buu-Saga child-fighter arc. TB2-004 is designer-coordinated as a paired-print with TB2-007 Tiny Rivals Trunks at the print-object level — matched art-style, energy-burst color treatments, and the canonical *Tiny Rivals* subtitle that names the Junior Tournament cohort itself. The charging-fists-raised pose and dark martial-arts gi render Goten before his canonical mid-fight Super Saiyan transformation, the moment in the Junior final where the franchise's youngest-known Super Saiyan reveals himself by accident.

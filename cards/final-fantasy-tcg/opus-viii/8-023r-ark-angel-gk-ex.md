@@ -85,3 +85,7 @@ A large armored figure crouches low in a dungeon or cave-like space bathed in de
 - Ark Angel HM (FFXI) — Hume Crystal Warrior, Apathy; sibling card
 - Ark Angel EV (FFXI) — Elvaan Crystal Warrior, Arrogance; sibling card
 
+## Connections
+
+- [[ffxi-ark-angels-cycle]] — Ark Angel GK is the Galka Crystal Warrior of the FFXI Zilart Mission 14 boss quintet, embodying the canonical sin of Rage and tuned to the Samurai job affinity (Meikyo Shisui into the Tachi: Yukikaze / Gekko / Kasha great-katana weapon-skill ladder, with the unique Dragonfall AoE-and-bind finisher) per Square's 2002 Rise of the Zilart canon. Within the FFTCG Opus VIII designer-coordinated within-set placement, this print is the 8-023R Fire-Rare Forward whose EX BURST freeze-all-opposing-Forwards card-mechanic design translates the Samurai-Galka mass-control boss-encounter signature into FFTCG terms — the "EX" suffix marks the EX BURST mechanic, the "GK" suffix marks the Galkan racial-affiliation. Of the five canonical Ark Angels, three are currently in BBL corpus (HM, GK EX, TT) — GK is the Rage/Galka node of that three-of-five cohort coverage and the highest-cost (6cp / 9000-power) member of the Opus VIII Fire-Rare cluster.
+

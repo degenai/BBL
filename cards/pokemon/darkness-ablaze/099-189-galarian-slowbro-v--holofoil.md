@@ -95,3 +95,7 @@ A large pink bipedal creature stands in a dynamic forward-leaning pose with one 
 - Galarian Slowbro V Full Art (Darkness Ablaze, 180/189) — alternate full-art version in the same set
 - Slowbro (various) — Kanto form counterpart, Water/Psychic, Shellder on tail not arm
 
+## Connections
+
+- [[galarian-regional-forms]] — Galarian Slowbro V is the cohort's first evolved-form Ultra Rare in corpus and the canonical anchor for the Galarica-seed mechanism's downstream evolutionary consequence: Galarian Slowpoke's long-term Galarica-spice diet reacts with the Shellder bite on the arm (rather than the tail, as in Kantonian Slowbro) to produce the variant's Poison/Psychic typing and the diagnostic shell-cannon redesign. The card mechanizes this directly at the rules layer — Rapid-Fire Poison Ability provides free per-turn poisoning while Active, and Tripping Shot (130 damage, retreat-lock) renders the gun-arm combat concept as a TCG attack — making this the cohort's clearest case of a specific environmental mechanism (Galarica-seed dietary accumulation) producing a specific anatomical-and-typing shift visible at both the art and rules layers. As an Isle of Armor DLC (June 2020) evolution requiring a Galarica Cuff crafted from eight Galarica Twigs, it sits on one branch of the Galarian Slowpoke evolution split (the Crown Tundra Galarian Slowking branch via Galarica Wreath is the sibling).
+

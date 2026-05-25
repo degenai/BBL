@@ -88,3 +88,7 @@ A short, stocky bald fighter in an orange martial arts gi stands in a braced, wi
 - Future Martial Artist Son Goku (World Martial Arts Tournament, TB2-052) — Krillin faced Goku in the 22nd Tenkaichi Budokai semi-finals; shared set and World Tournament trait
 - Master Roshi, Martial Meister (World Martial Arts Tournament, TB2-057) — Krillin is a student of Roshi's Turtle School; same set
 
+## Connections
+
+- [[krillin]] — anchors the canonical *Tenkaichi-Budokai-tournament-fighter-with-Chiaotzu-synergy* register on this card: the orange Turtle-School martial-arts gi is the canonical original-Dragon-Ball tournament uniform that anchors Krillin's 21st, 22nd, and 23rd Tenkaichi Budokai career per Dragon Ball Wiki, and the wide-legged braced-fighting-stance encodes the canonical *short-stocky-fighter-absorbs-the-blow* register that grounds his canonical record as the franchise's most-deaths-holder. The mechanical design (Critical-trigger only when TB2-056 Toughened Up Chiaotzu is in the Battle Area) literalizes the canonical 22nd-Tenkaichi-Budokai Krillin-and-Chiaotzu friendship arc — Chiaotzu's psychic support enabled Krillin's tournament run, and Bandai's design intent encodes the canonical *Krillin's-ceiling-requires-the-support-of-someone-he-trusts* operating-mode as a mechanical dependency. Held at qty 2 — a multi-copy lever per `[[bbl-multi-copy-bundles]]` for a future Krillin Discrete Lair; paired with BT1-072 (defensive-shield-Z-Fighter) and TB2-041 (action-strike-rare-tier) across the three-register corpus span.
+

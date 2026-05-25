@@ -94,3 +94,8 @@ A crab-like creature stands in a grassy area with a large red-capped mushroom wi
 ### Related cards
 - Paras (various) — pre-evolution; host still alive, mushroom growth at early stage
 - Parasect (Base Set and many subsequent prints) — Generation I origin species with an extensive TCG print history
+
+## Connections
+
+- [[paras-line]] — Stage-1 Parasect (National Pokedex no. 47) at one of the line's four corpus prints and the canonical body-horror apex of the cohort; the Miki Tanaka Darkness Ablaze art stages the spotted red-and-white mushroom cap dominating the silhouette with blank white eyes signaling zero independent will. The printed flavor *"The bug is mostly dead, with the mushroom on its back having become the main body"* is the franchise's clearest direct statement of the line's Cordyceps host-consumption canon, and this card is the corpus's in-line citation source for the predates-The-Last-of-Us design-history thread. Pairs with Paras 003/189 at the adjacent within-set collector slot to form the corpus's strongest within-set Paras-line cohesion stack — both stages of the line in a single Darkness Ablaze pair, structurally parallel to the Larvitar line's 086 + 087 within-DAB pair.
+

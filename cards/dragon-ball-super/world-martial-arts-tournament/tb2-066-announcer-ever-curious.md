@@ -88,3 +88,7 @@ A man in a formal suit and tie with styled blond hair and sunglasses holds a mic
 - Master Roshi, Martial Meister (World Martial Arts Tournament, TB2-057) — Roshi competed as Jackie Chun under the Announcer's watch at the 21st and 22nd tournaments; shared World Tournament trait
 - Risque Ranfan (World Martial Arts Tournament, TB2-062) — the Announcer hosted the 21st Tenkaichi Budokai where Ranfan competed; both are tournament-arc supporting cast
 
+## Connections
+
+- [[wmat-tournament-announcer]] — Anchors the canonical Ever-Curious / information-flow-controller role-facet of the World Martial Arts Tournament Announcer, the franchise's longest-recurring unnamed broadcast-labor figure. The top-7-deck tutor mechanic that fetches a World Tournament card to hand on play directly models his canonical narrative role as the person who controls what information reaches the audience at every Tenkaichi — including the canonical post-Cell-Games credit-erasure he silently broadcasts without disrupting. Within the TB2 three-card Announcer mini-cycle, this print is the consistency-engine anchor; at 1,000 power he is the wave's lowest-power Battle card by design, encoding the *observer-not-combatant* register at the mechanical level.
+

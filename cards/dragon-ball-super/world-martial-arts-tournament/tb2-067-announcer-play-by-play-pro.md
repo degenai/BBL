@@ -88,3 +88,7 @@ A blond-haired male figure in a suit and tie holds a microphone and gestures wit
 - Announcer, Ever-Curious (World Martial Arts Tournament, TB2-066) — same character; third version in the cycle with deck-search ability
 - Goku, Saiyan Raised on Earth (World Martial Arts Tournament) — primary protagonist of the tournament arc; the Announcer's most-called fighter
 
+## Connections
+
+- [[wmat-tournament-announcer]] — Anchors the canonical Play-By-Play Pro / broadcasting-spectacle-amplifier role-facet of the World Martial Arts Tournament Announcer, the franchise's longest-recurring unnamed service-labor figure across Dragon Ball, DBZ, GT, and Dragon Ball Super. The draw-2 ability triggered when 2+ World Tournament cards are in the Battle Area directly models his canonical hype-man role — his broadcasting presence amplifies the spectacle and the narrative stakes for the audience watching from outside the ring. Within the TB2 three-card Announcer mini-cycle, this is the spectacle-amplification anchor; the visual design pair-coordinates with TB2-066 (same character, different broadcast moment), making the two-card visual continuity one of the clearest examples of Bandai's designer-coordinated within-set role-facet disambiguation pattern.
+

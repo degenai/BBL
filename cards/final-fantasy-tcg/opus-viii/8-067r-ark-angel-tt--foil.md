@@ -87,3 +87,7 @@ A short, dark-cloaked humanoid figure stands in the foreground gripping a large 
 - Ark Angel HM (FFTCG Opus VIII) — Hume male archetype
 - Ark Angel MR (FFTCG Opus VIII) — Mithra-archetype, completes the five-boss quintet
 
+## Connections
+
+- [[ffxi-ark-angels-cycle]] — Ark Angel TT is the Tarutaru Crystal Warrior of the FFXI Zilart Mission 14 boss quintet, embodying the canonical sin of Cowardice and tuned to the Black-Mage-plus-Dark-Knight hybrid job affinity (Manafont plus Blood Weapon, full BLM+DRK spell ladder to level 75, with the signature Amon Drive AoE-plus-Paralysis-Petrification-Poison multi-status finisher) per Square's 2002 Rise of the Zilart canon. Within the FFTCG Opus VIII designer-coordinated within-set placement, this print is the 8-067R Fire-Rare Forward (foil variant in BBL corpus) whose card art renders the canonical Tarutaru oversized-hat-and-cloak silhouette gripping an outsized scythe — the scythe iconography references the Dark-Knight half of the hybrid encounter design. Of the five canonical Ark Angels, three are currently in BBL corpus (HM, GK EX, TT) — TT is the Cowardice/Tarutaru node of that three-of-five cohort coverage and the foil-Rare entry of the Opus VIII Fire-Rare cluster.
+

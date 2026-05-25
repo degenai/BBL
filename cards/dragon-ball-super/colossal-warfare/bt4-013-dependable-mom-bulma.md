@@ -79,6 +79,10 @@ A woman with short teal hair stands indoors, wearing a pink outfit. She is posed
 **Emotion read:** warm, dependable, encouraging
 **Genre cues:** anime
 
+## Connections
+
+- [[bulma]] — Bulma is the Capsule Corporation heiress, inventor of the Dragon Radar, and the franchise's civilian-engineering anchor across forty years of Dragon Ball canon (Akira Toriyama, Weekly Shonen Jump 1984–present); daughter of Dr. Brief, wife of Vegeta, mother of Future Trunks, Kid Trunks, and Bulla. This print is the **mom-register** Bulma — the soft-lit indoor portrait in pink that drops her into her GT-adjacent civilian-support mode, distinct from the inventor-register at BT4-092 and the explorer-register at BT4-093. The Dependable Mom framing canonically maps to her structural role as the family-and-logistics anchor that the warrior-arc protagonists' combat depends on, narratively invisible to most cosmic-scale plotting but load-bearing across every Z and Super saga.
+
 ## Trivia
 
 - **Mechanical design** — BT4-013 is a red Common Battle card (note: the tags_filter lists green-magic but confirmed red per retailer data). Stats: 5000 power, 5000 combo power, 1-red energy cost. Activate:Main ability — switch to Rest Mode: draw 1 card, then give one of your Battle Cards +5000 power for the turn. A rest-and-buff support piece rather than an aggressive attacker — one of very few non-combat-coded cards in BT4's Baby Saga red pool. Era: Baby Saga. `[Source: WebSearch: CoreTCG, Big Orbit Cards, DBZ Exchange BT4-013 listings]`

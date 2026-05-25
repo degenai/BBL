@@ -91,3 +91,6 @@ A young-looking humanoid figure with golden spiky Super Saiyan hair stands in a 
 - Instant Transmission (Colossal Warfare, BT4-097) — Goku's Lineage leader synergy card in the same set
 - Indomitable Dynasty SS Son Goku (Colossal Warfare, BT4-077) — likely the cost-4 Goku's Lineage target for this card's Swap skill
 
+## Connections
+
+- [[son-goten]] — This print is the corpus's GT-era Goten register, Bandai-tagged `Son Goten: GT` and placing the card in Dragon Ball GT continuity rather than Dragon Ball Z. The "Prodigal Dynasty" subtitle's *gifted-but-absent* framing is a designer acknowledgment of Goten's reduced narrative footprint in the Baby Saga relative to his Buu-Saga prominence — the canonical adolescent-young-adult Saiyan/Earthling cohort member who shifts from Z-era child-protagonist to GT-era supporting role. The Swap 4 mechanic that recycles this card into a higher-cost Goku's Lineage play mirrors that *prodigal heir bridge piece* register at the mechanical level rather than the board-finisher level.

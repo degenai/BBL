@@ -92,3 +92,7 @@ A small, rotund creature with a white and light-blue rounded body stands in a sn
 - Galarian Darmanitan (Rebel Clash) — evolution target via Ice Stone; same set
 - Galarian Darmanitan (Sword & Shield base set or later prints) — alternate prints of the evolution line
 - Darumaka (original Unova form) — the Fire-type predecessor whose regional divergence defines this form's lore
+
+## Connections
+
+- [[galarian-regional-forms]] — This Akira Komayama Rebel Clash print is the cohort node's cited entry for the Galarian Darumaka species (a second corpus printing exists at Darkness Ablaze 043/189 by Shin Nagasawa, treated as a species duplicate at the cohort's species-scope `appears_on:` list). The card carries the canonical Pokedex flavor statement for the cohort's **climate-driven-type-shift axis** — *"It lived in snowy areas for so long that its fire sac cooled off and atrophied. It now has an organ that generates cold instead"* — which is the cohort's clearest verbatim statement of long-term cold-region exposure as the in-canon adaptation mechanism, distinct from the Galarica-seed mechanism (Slowpoke / Ponyta lines) and the regional-cultural-practice mechanism (Farfetch'd / Perrserker). As a Sword-version-exclusive Ice-type base form evolving into Galarian Darmanitan via Ice Stone (the series' first Ice/Fire dual-type when in Zen Mode), this card is the entry point of one of the cohort's Game Freak-coordinated regional-variant evolution lines.
