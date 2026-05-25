@@ -1,0 +1,42 @@
+{
+  "card_name": "Wastescape Battlemage",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "17",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "suspected_ip was set to empty string — no actual IP to verify. Cleared as n/a.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Wastescape Battlemage is set on Zendikar, in the region of Tazeem, according to the MH3 art description documented in the Wizards 'Expanding Your Horizons: Eldrazi' design article. The 'wastescape' in the name references the desolate terrain left by the Eldrazi's consumption of the plane during Battle for Zendikar block [magic.wizards.com/en/news/making-magic/expanding-your-horizons-eldrazi].",
+      "sources": ["magic.wizards.com: Expanding Your Horizons: Eldrazi"]
+    },
+    {
+      "category": "design",
+      "text": "The card is a deliberate callback to the Planeshift Battlemage cycle (2001) — a five-card cycle of monocolor 2/2 creatures each with two off-color kicker costs providing distinct ETB effects. The Wizards design article states the MH3 team aimed to capture 'enough of the feel of a Battlemage' through the dual kicker structure, where the {G} kicker exiles an artifact or enchantment and the {1}{U} kicker bounces a creature — mirroring the original cycle's removal/utility split [magic.wizards.com: Expanding Your Horizons: Eldrazi].",
+      "sources": ["magic.wizards.com: Expanding Your Horizons: Eldrazi"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Wastescape Battlemage has the type line Eldrazi Wizard and costs {1}{C} — requiring colorless mana to cast. The {C} mana symbol, introduced in Oath of the Gatewatch (2016), is a design commitment: it cannot be paid by any colored mana, requiring Wastes or colorless-producing sources. This makes it a dedicated payoff for Eldrazi-tribal decks running colorless mana infrastructure. EDHREC rank 6372 — the strongest Commander adoption of this five-card batch [Scryfall type_line, mana_cost, EDHREC rank].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's dual kicker means it can answer both artifact/enchantment-based hate pieces and problematic creatures on the same turn when both kickers are paid — a flexible answer package on a body, echoing the 'Swiss Army knife' design intent of the original Planeshift Battlemages [magic.wizards.com: Expanding Your Horizons: Eldrazi; Planeshift design history via CoolStuffInc tour de cards article].",
+      "sources": ["magic.wizards.com: Expanding Your Horizons: Eldrazi", "coolstuffinc.com: Tour de Cards Planeshift and Apocalypse"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Thornscape Battlemage", "set": "Planeshift", "note": "The original Planeshift Battlemage this card callbacks — green 2/2, two off-color kicker ETBs"},
+    {"name": "Sunscape Battlemage", "set": "Planeshift", "note": "White member of the original Battlemage cycle"},
+    {"name": "Nulldrifter", "set": "Modern Horizons 3", "note": "Another MH3 Eldrazi discussed alongside Wastescape Battlemage in the Wizards design article"},
+    {"name": "Spawn-Gang Commander", "set": "Modern Horizons 3", "note": "MH3 Eldrazi that the design article identifies as drawing on Emrakul's Innistrad brood lineage — thematic companion to the MH3 Eldrazi suite"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

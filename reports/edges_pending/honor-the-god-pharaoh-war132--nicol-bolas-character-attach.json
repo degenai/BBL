@@ -1,0 +1,37 @@
+{
+  "edge_id": "honor-the-god-pharaoh-war132--nicol-bolas-character-attach",
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/132-honor-the-god-pharaoh.md", "name": "Honor the God-Pharaoh (WAR-132)"},
+    {"type": "character", "path": "cards/_characters/nicol-bolas.md", "name": "Nicol Bolas"}
+  ],
+  "description": "Worst pending-IP-flag ever sitting in plain sight. Walked the fresh slate -- seven freshly-enriched cards, six with no plausible character attach (Dub knighting-ceremony tag-bridge, Prismite golem solo, Hydra Trainer unnamed warrior, Insatiable Appetite ogre-and-peasants fairy-tale beat, Shining Armor knight equipment, Horrific Assault already fully wired to eldrazi). The seventh, Honor the God-Pharaoh, sits with manual-review on, suspected_ip: Nicol Bolas, ip_verified: false, AND a flavor text that literally says 'they revere only the God-Pharaoh' -- and god-pharaoh is in the nicol-bolas node aliases list. The depicted figures are Amonkhet Eternals, not Bolas himself, but the node body's own 'apparatus and its turning' subsection sets the precedent (Bontu's depicted-Bontu / narrative-Bolas wiring, Eldest Reborn's hooded-undead / title-names-Bolas wiring). One stack-attach. Suspected_ip resolves from low/unverified to high/verified, manual-review tag flips to vision-passed, body callout clears, node body absorbs a third apparatus card with the same load-bearing-name-in-flavor-text criterion. Closes the ip_resolution_for: nicol-bolas loop on a card that's been sitting orphaned since wave 16 (date_added 2026-05-16).",
+  "citations": [
+    "[Card flavor text, 132-honor-the-god-pharaoh.md line 51: 'In life, they revered a diverse pantheon of gods. Now they revere only the God-Pharaoh.']",
+    "[Node aliases, nicol-bolas.md line 8: 'god-pharaoh']",
+    "[Node body precedent, nicol-bolas.md lines 47-49: 'War of the Spark -- Bolas's apparatus and its turning' subsection with God-Eternal Bontu and The Eldest Reborn as load-bearing-name / narrative-agent wirings]",
+    "[MTG Wiki: Nicol Bolas -- God-Pharaoh title established during Amonkhet block (AKH/HOU 2017)]",
+    "[MTG Wiki: Eternal (creature) -- the Amonkhet Eternals are Bolas's zombified soldiers, harvested from Amonkhet's mortal population by his Trial-of-Zeal apparatus, deployed during WAR's Ravnica invasion as the Dreadhorde]",
+    "[Scryfall: WAR-132 mana cost, oracle text 'Amass Zombies 1' -- Dreadhorde mechanical signature; set:war filter places card in the Bolas-Falls cluster set]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/war-of-the-spark/132-honor-the-god-pharaoh.md",
+    "cards/_characters/nicol-bolas.md"
+  ],
+  "other_candidates_considered": [
+    "Dub (M21-16) <-> Shining Armor (ELD-29) as a knight-themed mirror -- REJECTED. Both are about knighthood, but they're in different sets (M21 / ELD) with no shared narrative beat, no shared canonical event, no shared character. Both depict generic-knight iconography; that's a tag-bridge, not an edge. Honor / knight / armor / heroic are tags; the hub system already captures them.",
+    "Insatiable Appetite (ELD-162) to a hypothetical eld-fairy-tale-giants character node -- REFUSED at node-creation tier. The card is a Jack-and-the-Beanstalk-coded fairy-tale beat (giant eats out 'house and home and shed and barn and flock and herd' is a near-direct quote of the English nursery-tale formula). But threshold check: the eld-cinderella-cycle node exists for the designer-confirmed Cinderella-coded cards; there's no parallel eld-jack-and-beanstalk-cycle commission, and one-card-with-a-fairy-tale-flavor-coding doesn't meet the 3+ threshold for a new cycle node. Stays as tags_hub coverage (fairy-tale + giant + gluttony) until more Jack-coded cards accumulate. Mr. Nodeley not warranted yet.",
+    "Hydra Trainer (MH3-159) to a hypothetical hydra-trainer character (the depicted woman is unnamed; no MTG Wiki character page) -- REFUSED. Triviabot's own research found no named-character attribution; the figure is a generic Human Warrior class card. Role (trainer) is not identity (named character). bbl-triviabot-no-role-identity-conflation rule applies.",
+    "Honor the God-Pharaoh attach to a hypothetical amonkhet-eternals character cohort node -- DEFERRED. The Eternals are a load-bearing Amonkhet-and-WAR cohort, but the current corpus inventory for Eternal-typed cards is unclear and the existing nicol-bolas node already absorbs them as apparatus. Splitting Eternals to their own node would require (a) 3+ Eternal-typed cards in corpus AND (b) a clean Bolas-vs-Eternals separation thesis (the Eternals being a distinct character-cohort from their tyrant-creator). Neither is established yet. If a future wave surfaces Eternal-typed cards (God-Eternal Kefnet, God-Eternal Oketra, God-Eternal Rhonas, Hour of Devastation Eternals) at threshold, Mr. Nodeley can propose then.",
+    "Horrific Assault (MH3-157) -> emrakul sub-node (the flavor text directly cites Emrakul by name) -- DEFERRED per the eldrazi node's own caveat: 'sub-character nodes warranted at sufficient corpus accumulation, deferred until then. Current corpus carries Emrakul as flavor-text citation (Horrific Assault) but no Titan-card-depicting anchors; threshold below sub-node creation.' Self-blocked by prior Edgelord-rigor work. Honoring the deferral."
+  ],
+  "next_pass_suggestions": [
+    "Audit other WAR cards for the same God-Pharaoh-flavor / Bolas-apparatus signature: WAR has 264 cards, the nicol-bolas node currently lists 4 WAR anchors (Prison Realm, Topple the Statue, Despark, God-Eternal Bontu, now Honor the God-Pharaoh = 5). The remaining ~24 WAR cards in corpus should be scanned for (a) flavor text naming God-Pharaoh / Bolas / the Elder Dragon, (b) Eternal-typed creature subtype, (c) Amass mechanic depictions of Dreadhorde Zombie armies, (d) Bolas's-statue depictions like Topple. Future-watch.",
+    "Triage parking lot candidate: bbl_edgelord_queue.py --unwired filter against the WAR subset should surface other ip_verified: false WAR cards sitting orphaned. The Honor the God-Pharaoh case took only flavor-text reading to close; there may be more like it.",
+    "Karp Doctrine parking: WAR commons in corpus that depict Eternals or amass-Zombies tokens are 50-cent-each bulk material, but the Bolas-apparatus thesis is what would let a Discrete Lair seed include them at curatorial premium. Sketchbook entry candidate for a 'Dreadhorde' or 'God-Pharaoh's Army' lair seed -- not a node, a bundle concept."
+  ],
+  "parent_brief_verification": "Parent's brief was the ~40-token lean-brief: 'ONE decision this invocation. Walk the corpus, decide on your own.' No claims to verify. Walked the fresh slate (7 cards from git status M lines), found the highest-yield attach. The other six refusals are documented in other_candidates_considered above with receipts.",
+  "edgelord_mood": "satisfied"
+}

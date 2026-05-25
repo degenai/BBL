@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - knight
+  - armor
+  - radiance
+  - heroic
+  - castle
+  - gold
+  - holy
+  - guardian
+  - sentinel
+  - shining
+  - medieval
+  - protection
+tags_filter:
+  - solo
+  - close-up
+  - portrait
+  - forward-facing
+  - artifact-equipment
+  - white-magic
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/29-shining-armor.png
 average_cost_paid: 0
 market_price: 0.13
@@ -29,6 +47,28 @@ mana_cost: "{1}{W}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: day
+setting: other
 ---
 
 # Shining Armor (Throne of Eldraine)
+
+## Vision
+
+![29-shining-armor](../../_images/magic-the-gathering/throne-of-eldraine/29-shining-armor.png)
+
+A knight in full plate armor stands in a low-angle view that makes them loom against a blue sky with drifting clouds. The armor is gold and white with elaborate pauldrons and a full helmet; brilliant light radiates outward from the chest piece as though the armor itself is a source of holy radiance. A sword hangs at the figure's left side. In the far lower-left background a gothic castle tower rises against the sky. The overall composition is heroic and aspirational — low angle, blazing light, open sky.
+
+**Subject:** A heavily armored knight standing against a bright blue sky, their gold-and-white plate armor blazing with radiant light at the chest. A sword hangs at their side; a castle tower is visible in the far background.
+
+**Composition:** close-up, portrait, figures: solo, facing: forward
+**Setting:** other, gothic, day, clear
+**Foreground:** Armored knight torso and helmet, radiant light from chest  *(palette: gold, white, bright silver)*
+**Background:** Blue sky with clouds, distant gothic castle tower  *(palette: sky blue, white, pale grey)*
+**Mood / lighting:** sublime, rim
+**Emotion read:** Steadfast, noble authority — upright posture, helmet raised, light emanating from the figure as an aura of power
+**Objects:** sword, plate armor, castle tower
+**Iconography:** radiant light, golden armor
+**Genre cues:** fantasy, medieval
+

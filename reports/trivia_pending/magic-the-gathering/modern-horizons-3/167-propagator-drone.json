@@ -1,0 +1,42 @@
+{
+  "card_name": "Propagator Drone",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "167",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Propagator Drone is typed Eldrazi Drone — the Drone sub-designation identifies it as a lesser spawn-form Eldrazi, distinct from the Eldrazi Processors and Eldrazi Scions seen in Battle for Zendikar. MH3's Eldrazi revival was the first time the full Eldrazi suite (titans, drones, spawn) returned to a Modern-legal set since Oath of the Gatewatch (2016) [Scryfall type_line; Dexerto MH3 Eldrazi return article].",
+      "sources": ["Scryfall", "Dexerto: MTG fans react to Eldrazi return in MH3"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Devoid (from Battle for Zendikar, 2015) makes the card colorless despite its {1}{G} mana cost. Importantly, Devoid does not affect color identity for Commander — Propagator Drone's color identity remains green [Scryfall oracle_text; Scryfall ruled note on Devoid color identity]. EDHREC rank 8019 — the highest among the five MH3 cards in this batch, reflecting solid Commander adoption in Eldrazi token builds [Scryfall EDHREC rank].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card fuses two mechanics from different eras: Devoid (Battle for Zendikar, 2015) and Evolve (Gatecrash, 2013, a Simic mechanic). Granting evolve to creature tokens — rather than to named creatures — is a novel application; the Eldrazi Spawn tokens it generates start at 0/1 and evolve upward when larger creatures enter, creating a self-reinforcing loop [Scryfall oracle_text; Scryfall MH3 Mechanics article reference].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Johann Bodin. First printing in MH3 — no reprint history [Scryfall prints data]. The card was listed on MTGSalvation's MH3 card database at release, noting the Eldrazi Drone type and the Eldrazi Spawn token relationship [MTGSalvation card entry for Propagator Drone].",
+      "sources": ["Scryfall", "MTGSalvation: Propagator Drone MH3 entry"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Eldrazi Repurposer", "set": "Modern Horizons 3", "note": "Same set; Scryfall search surfaced it alongside Propagator Drone as a related Eldrazi Spawn token generator"},
+    {"name": "Ulamog's Despoiler", "set": "Battle for Zendikar", "note": "Eldrazi Drone subtype predecessor — same creature type line"},
+    {"name": "Cultivator of Blades", "set": "Kaladesh", "note": "Exert-adjacent pump-on-attack creature for token-wide +X/+X — functional comp in token wide strategies"},
+    {"name": "Brood Monitor", "set": "Battle for Zendikar", "note": "Eldrazi Drone that creates Eldrazi Spawn tokens on enter — direct precursor to Propagator Drone's spawn-generation role"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

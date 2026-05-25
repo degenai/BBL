@@ -1,0 +1,42 @@
+{
+  "card_name": "Temperamental Oozewagg",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "172",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Temperamental Oozewagg has the creature type Ooze Brushwagg — a blend of two unusual subtypes. The Brushwagg subtype originated in Mirage (1996) with the card Brushwagg and survived the Grand Creature Type Update. After a roughly 25-year gap, the subtype returned in Ikoria: Lair of Behemoths (2020) with Almighty Brushwagg, then received additional printings in Outlaws of Thunder Junction (2024) and MH3 [WebSearch: Brushwagg creature type history, MTG Wiki via search snippet].",
+      "sources": ["MTG Wiki (via WebSearch snippet)", "Scryfall type_line"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Its position on the food chain causes great confusion in everyone from hunters to other monsters.\" — card flavor text [Scryfall flavor_text]. The line plays on the Ooze-Brushwagg hybrid's indeterminate threat level — neither apex predator nor clear prey — which maps onto the card's mechanical identity as a trample-enabler that only becomes threatening after adaptation.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Pete Venters, a veteran MTG artist who has illustrated over 300 cards since the game's earliest sets (Antiquities, 1994), including iconic cards such as Survival of the Fittest, Baron Sengir, Ensnaring Bridge, and Lhurgoyf. Venters served as Continuity Manager from Alliances through Urza's Saga, creating art descriptions, flavor text, and card names during that period. Temperamental Oozewagg is one of his MH3 contributions [WebSearch: Pete Venters career; magicuntapped.com Pete Venters artist feature].",
+      "sources": ["magicuntapped.com: Longtime MTG artist Pete Venters talks about his artwork", "Scryfall artist field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card was previewed on May 23, 2024 by Good Luck High Five alongside Expanding Ooze — the two cards were revealed as a paired Ooze preview showing MH3's Adapt+Modified synergy theme. Temperamental Oozewagg is Pauper-legal and functions as a modified trample-enabler at common-adjacent power, letting the whole team crash through blockers once any creature has been modified [Scryfall preview source; MTGSalvation preview thread; Scryfall legalities].",
+      "sources": ["Scryfall preview data (Good Luck High Five, 2024-05-23)", "MTGSalvation: MH3 Temperamental Oozewagg and Expanding Ooze preview thread"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Almighty Brushwagg", "set": "Ikoria: Lair of Behemoths", "note": "The Brushwagg that brought the subtype back after a 25-year gap — direct type predecessor"},
+    {"name": "Expanding Ooze", "set": "Modern Horizons 3", "note": "Co-previewed with Temperamental Oozewagg by Good Luck High Five — thematic pair in MH3's Ooze suite"},
+    {"name": "Vivien's Grizzly", "set": "War of the Spark", "note": "Green adapt creature in the same power-ceiling range, mechanical predecessor in the Adapt lineage"},
+    {"name": "Brushwagg", "set": "Mirage", "note": "The original Brushwagg from 1996 — the only prior black-bordered Brushwagg before Ikoria"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

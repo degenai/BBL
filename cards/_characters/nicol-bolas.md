@@ -18,6 +18,7 @@ appears_on:
   - magic-the-gathering/war-of-the-spark/35-topple-the-statue
   - magic-the-gathering/war-of-the-spark/190-despark
   - magic-the-gathering/war-of-the-spark/92-god-eternal-bontu
+  - magic-the-gathering/war-of-the-spark/132-honor-the-god-pharaoh
   - magic-the-gathering/the-list/90-the-eldest-reborn
 related_hubs:
   - rebellion
@@ -44,8 +45,9 @@ Card art that depicts Bolas himself — in flesh, in monumentalization, or in th
 
 All three carry Scryfall's `story_spotlight: true` flag, depict the same character at adjacent narrative beats, and were art-directed as part of the same set's twenty-seven-card story-spotlight cycle.
 
-- **War of the Spark — Bolas's apparatus and its turning** — two non-spotlight WAR cards that are Bolas's apparatus in the world (his harvested gods, his named-after-the-eldest-dragon resurrection saga) rather than his depiction:
+- **War of the Spark — Bolas's apparatus and its turning** — three non-spotlight WAR cards that are Bolas's apparatus in the world (his harvested gods, his Eternals, his named-after-the-eldest-dragon resurrection saga) rather than his depiction:
   - **God-Eternal Bontu** (WAR-92, Mythic, Lius Lasahido art) — one of the five Amonkhet gods Bolas zombified and deployed as Dreadhorde generals during the invasion of Ravnica. Bontu is the canonical narrative mechanism of Bolas's defeat: per MTG Wiki's WAR event page, after Gideon Jura died to lift Bolas's death-curse from Liliana Vess, Liliana commanded the God-Eternals to turn on Bolas; Bontu bit into Bolas and absorbed all the harvested sparks (including her own godhood's), then exploded from the overload. The depicted figure is Bontu (not Bolas), but the *narrative subject* of her role in the WAR storyline is Bolas's defeat-by-his-own-weapon, parallel to the Despark wiring. The die-to-library-third-from-top trigger encodes Bolas's boast that his God-Eternals cannot be permanently stopped. Card wires via narrative-agent criterion (same WAR Bolas-Falls cluster, named-by-MTG-Wiki as the defeat mechanism).
+  - **Honor the God-Pharaoh** (WAR-132, common, David Palumbo art) — three Amonkhet Eternals stand in synchronized devotional salute under a crimson-purple Ravnican sky, arms outstretched skyward in the canonical God-Pharaoh's salute first established in the Amonkhet block. Flavor text: *"In life, they revered a diverse pantheon of gods. Now they revere only the God-Pharaoh."* — the God-Pharaoh is Bolas's canonical Amonkhet title (per the aliases list above) and the line is the most economical statement in the corpus of Bolas's Amonkhet-theology apparatus: a population whose original polytheism was overwritten by a single tyrant-god. The depicted figures are Eternals (not Bolas), but the narrative subject is the worship-apparatus Bolas built — the same load-bearing-name-in-flavor-text criterion that wires The Eldest Reborn. Mechanically the card amasses Zombies, the WAR mechanical signature of Bolas's Dreadhorde armies. Card wires via load-bearing-name criterion (flavor text names the God-Pharaoh) and narrative-agent criterion (Eternals are Bolas's apparatus per MTG Wiki's Eternal page).
   - **The Eldest Reborn** (DOM-90, Uncommon, Ravenna Tran art; in corpus as PLST-DOM-90 Mystery Booster insert) — Saga whose title canonically names Nicol Bolas as "the Eldest" (the canonical eldest of Magic's original Elder Dragon cycle: Chromium, Arcades Sabboth, Palladia-Mors, Nicol Bolas, Vaevictis Asmadi) and whose three chapters mechanically storyboard Bolas's resurrection arc: opponent-sacrifice (corrupting allies), opponent-discard (psychic assault), reanimation (placing Bolas back into the world). EDHREC reports the card in approximately 52% of Nicol Bolas, the Ravager Commander builds and 63% of Bolas Planeswalker-focused builds — "Bolas in your Bolas deck" treated as mandatory. The figure depicted in the art is a hooded skeletal undead, not literally Bolas; the title and the inclusion-pattern wire the card here. Card wires via load-bearing-name criterion (the title is the canonical reference) and corroborating community inclusion-pattern (the deck-building evidence is itself proof of canonical interpretation).
 
 ## Appears on
@@ -56,6 +58,7 @@ All three carry Scryfall's `story_spotlight: true` flag, depict the same charact
 - [[35-topple-the-statue]]
 - [[190-despark]]
 - [[92-god-eternal-bontu]]
+- [[132-honor-the-god-pharaoh]]
 - [[90-the-eldest-reborn]]
 ## Canonical sources
 

@@ -81,3 +81,15 @@ Two alien-looking creatures occupy the frame against a background of orange and 
 **Iconography:** claws, alien form, canyon
 **Genre cues:** fantasy, sci-fi
 
+## Trivia
+
+- **Set context** — Wastescape Battlemage is set on Zendikar, in the region of Tazeem, per the art description documented in the Wizards 'Expanding Your Horizons: Eldrazi' design article. The 'wastescape' in the name references the ravaged terrain left by Eldrazi consumption of the plane during the Battle for Zendikar block `[magic.wizards.com/en/news/making-magic/expanding-your-horizons-eldrazi]`
+- **Design** — Deliberate callback to the Planeshift Battlemage cycle (2001) — five monocolor 2/2 creatures each with two off-color kicker costs providing distinct ETB effects. The Wizards design article states the team aimed to capture 'enough of the feel of a Battlemage' via the dual kicker structure. In MH3, the {G} kicker exiles an artifact or enchantment and the {1}{U} kicker bounces a creature — mirroring the original cycle's removal/utility split `[magic.wizards.com/en/news/making-magic/expanding-your-horizons-eldrazi; coolstuffinc.com: Tour de Cards Planeshift and Apocalypse]`
+- **Mechanical** — Type line is Eldrazi Wizard with mana cost {1}{C}. The {C} symbol (introduced Oath of the Gatewatch, 2016) cannot be paid with colored mana, making this a dedicated payoff for Eldrazi tribal builds running Wastes or colorless-producing permanents. EDHREC rank 6372 — strongest Commander adoption among this five-card batch `[Scryfall type_line, mana_cost, EDHREC rank]`
+- **Mechanical** — When both kickers are paid, the card answers both a problematic artifact/enchantment and a creature in the same cast, echoing the 'Swiss Army knife' design intent of the original Planeshift Battlemages `[magic.wizards.com: Expanding Your Horizons: Eldrazi; CoolStuffInc: Tour de Cards Planeshift]`
+
+### Related cards
+- Thornscape Battlemage (Planeshift) — the original green-member Battlemage this card callbacks; green 2/2 with two off-color kicker ETBs
+- Sunscape Battlemage (Planeshift) — white member of the original Battlemage cycle
+- Nulldrifter (Modern Horizons 3) — another MH3 Eldrazi discussed alongside Wastescape Battlemage in the Wizards design article
+- Spawn-Gang Commander (Modern Horizons 3) — MH3 Eldrazi the design article identifies as drawing on Emrakul's Innistrad brood lineage, thematic companion in MH3's Eldrazi suite

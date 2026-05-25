@@ -1,0 +1,42 @@
+{
+  "card_name": "Horrific Assault",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "157",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Modern Horizons 3 (released June 14, 2024) brought back all three Eldrazi titans — Ulamog, Kozilek, and Emrakul — and included an Eldrazi Incursion Commander precon. The set is not bound to a single chronological point on the story timeline, allowing it to draw on Eldrazi appearances across multiple planes [Scryfall set data, Dexerto coverage of MH3 Eldrazi return].",
+      "sources": ["Scryfall", "Dexerto: MTG fans react to Eldrazi return in MH3"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"With shifting forms and no angel to pray to, Innistrad's werewolves were especially susceptible to Emrakul's influence.\" — Scryfall. The flavor text grounds the card specifically on Innistrad during the Shadows over Innistrad / Eldritch Moon block, when Emrakul descended on the plane and her psychic corruption spread through shapeshifters and those lacking divine protection [Scryfall flavor_text field].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Horrific Assault is a one-mana green fight-variant sorcery — unusual in that it adds a life-gain rider (gain 3 life if you control an Eldrazi) rather than being a pure damage spell. It is legal in Pauper and sees play in Pauper Gruul Eldrazi and Infect archetypes as of 2025 [Scryfall legalities; MTGDecks.net Horrific Assault deck usage].",
+      "sources": ["Scryfall", "MTGDecks.net"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Justine Jones. This is a first printing with no prior reprint history [Scryfall prints_search_uri]. EDHREC rank 9991, indicating narrow use — the card's home is Pauper rather than Commander [Scryfall EDHREC rank field].",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Graf Rats", "set": "Eldritch Moon", "note": "Innistrad werewolf corrupted by Emrakul's influence — same flavor space as the flavor text"},
+    {"name": "Ulvenwald Hydra", "set": "Shadows over Innistrad", "note": "Innistrad creature that grew under Emrakul's shadow"},
+    {"name": "Emrakul, the Promised End", "set": "Eldritch Moon", "note": "The Eldrazi titan whose Innistrad influence the flavor text directly references"},
+    {"name": "Savage Swipe", "set": "Modern Horizons", "note": "MH1 one-mana fight sorcery — mechanical predecessor in the Modern Horizons fight-spell lineage"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

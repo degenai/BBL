@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - worship
+  - obedience
+  - undead
+  - zombie
+  - devotion
+  - salute
+  - army
+  - subjugation
+  - ritual
+  - tyranny
+  - amonkhet
+  - purple-sky
+  - soldiers
+tags_filter:
+  - group
+  - mid-shot
+  - narrative
+  - away-facing
+  - sorcery
+  - red-magic
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/132-honor-the-god-pharaoh.png
 average_cost_paid: 0
 market_price: 0.2
@@ -34,20 +53,35 @@ oracle_text: As an additional cost to cast this spell, discard a card.\nDraw two
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: twilight
+setting: urban
+suspected_ip: Nicol Bolas
+ip_confidence: high
+ip_verified: true
+characters:
+  - nicol-bolas
 tags:
   - card
-  - manual-review
+  - vision-passed
 ---
 # Honor the God-Pharaoh (War of the Spark)
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![132-honor-the-god-pharaoh](../../_images/magic-the-gathering/war-of-the-spark/132-honor-the-god-pharaoh.png)
 
+Three figures in smooth blue plate armor stand and gesture with arms raised and outstretched skyward in synchronized devotional posture — the God-Pharaoh's salute. The primary figure dominates the foreground, nearly featureless helmet tilted upward, both arms spread wide. A second figure stands to the right in the same pose; a third is partially visible at the lower left. The background is dramatic: a red-tinged purple sky churns above the dark silhouettes of narrow spired architecture (consistent with Ravnica under siege). The palette is entirely purple, blue, and crimson — no warmth anywhere. The figures' armor is smooth, mechanical, and devoid of individuality, evoking undead or ensorcelled soldiers rather than autonomous warriors.
 
-**Subject:** 
+**Subject:** Three blue-armored humanoid figures with arms raised in a wide, outstretched devotional gesture, set against a crimson and purple sky above a dark spired cityscape. The scene depicts Amonkhet Eternals performing the God-Pharaoh's salute.
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** mid-shot, narrative, figures: group, facing: away
+**Setting:** urban, gothic, twilight
+**Foreground:** Three blue-armored figures with arms raised in salute  *(palette: steel blue, dark navy, muted gold trim)*
+**Background:** Dark spired cityscape silhouette under a crimson-purple sky  *(palette: deep crimson, purple, dark violet, near-black)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** Absolute obedience — synchronized pose, no individual body language, arms raised in total submission
+**Objects:** spired architecture
+**Iconography:** raised-arms salute
+**Genre cues:** fantasy
 

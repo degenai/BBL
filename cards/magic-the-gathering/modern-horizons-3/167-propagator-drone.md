@@ -74,3 +74,15 @@ A large alien or Eldrazi-type creature dominates the center of the composition. 
 **Iconography:** eye-like nodules, dark spines
 **Genre cues:** fantasy, cosmic-horror
 
+## Trivia
+
+- **Set context** — Propagator Drone's type line is Eldrazi Drone. The Drone sub-designation identifies it as a lesser Eldrazi form, distinct from the Eldrazi Processors and Scions seen in Battle for Zendikar block. MH3 was the first Modern-legal set to feature a full Eldrazi suite (titans, drones, spawn tokens) since Oath of the Gatewatch (2016) `[Scryfall type_line; Dexerto: MTG fans react to Eldrazi return in MH3]`
+- **Mechanical** — Devoid (from Battle for Zendikar, 2015) makes this card colorless despite its {1}{G} cost. For Commander, Devoid does not remove color identity — Propagator Drone's color identity remains green `[Scryfall oracle_text, color_identity fields]`
+- **Design** — The card fuses mechanics from two different eras: Devoid (Battle for Zendikar, 2015) and Evolve (Gatecrash, 2013, a Simic guild mechanic). Granting Evolve to creature tokens rather than named creatures is a novel application — the 0/1 Eldrazi Spawn tokens it generates start small and grow as larger creatures enter, creating a self-reinforcing loop. EDHREC rank 8019 — the strongest Commander adoption in this five-card batch `[Scryfall; Scryfall EDHREC rank]`
+- **Design** — Illustrated by Johann Bodin. First printing in MH3; no prior reprint history. Listed at card release on MTGSalvation's MH3 card database, noting the Eldrazi Drone type and Eldrazi Spawn token relationship `[Scryfall; MTGSalvation card entry for Propagator Drone]`
+
+### Related cards
+- Eldrazi Repurposer (Modern Horizons 3) — co-set Eldrazi Spawn token generator surfaced alongside Propagator Drone in Scryfall related-cards data
+- Brood Monitor (Battle for Zendikar) — Eldrazi Drone that creates Eldrazi Spawn tokens on enter, direct role predecessor
+- Ulamog's Despoiler (Battle for Zendikar) — Eldrazi Drone subtype, same creature type line
+- Cultivator of Blades (Kaladesh) — token-wide pump-on-attack creature, functional comp in token-wide strategies

@@ -1,0 +1,42 @@
+{
+  "card_name": "Hydra Trainer",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "159",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Modern Horizons 3 was released June 14, 2024, as a direct-to-Modern draft innovation set. MH3 revisited roughly 40 returning mechanics including Exert (originally from Amonkhet, 2017) and Adapt (originally from Guilds of Ravnica, 2018). Hydra Trainer combines both on a single card — exert for the pump trigger, adapt to self-modify [Scryfall set data; Wizards MH3 Mechanics article; WebSearch MH3 returning mechanics coverage].",
+      "sources": ["Scryfall", "magic.wizards.com/en/news/feature/modern-horizons-3-mechanics"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Hydra Trainer is a 1/1 for {1}{G} whose exert pump scales with the total number of counters across all permanents you control — not just +1/+1 counters — making it a strong payoff in artifact-counter and energy-counter builds. The card was previewed on May 24, 2024 by @MagicNewGirl on Twitter/X [Scryfall preview source field]. EDHREC rank 11441 indicates narrow Commander adoption [Scryfall EDHREC rank].",
+      "sources": ["Scryfall preview data", "Dexerto: Hydra Trainer gives killer boost to counter decks"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Ryan Pancoast, a prolific MTG artist known for lush naturalistic fantasy work across multiple sets. The type line Human Warrior (not Human Druid or Human Ranger) signals the active, combat-focused framing of her bond — she directs the hydra in battle rather than tending it from afar [Scryfall type_line].",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Exert was introduced in Amonkhet (2017) with the flavor of citizens pushed to their physical limits by the god-Pharaoh Nicol Bolas. Its reappearance in MH3 strips the theological servitude flavor and recontextualizes the mechanic as trained mastery — a trainer pushing herself and her creatures to peak performance [Wizards Hour of Devastation Mechanics article, magic.wizards.com].",
+      "sources": ["magic.wizards.com/en/news/feature/hour-devastation-mechanics-2017-06-16"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Pelt Collector", "set": "Guilds of Ravnica", "note": "First Adapt-adjacent green counter creature, similar small-body-scales-up design space"},
+    {"name": "Steelbane Hydra", "set": "Throne of Eldraine", "note": "Counter-heavy hydra that rewards a high counter count, synergizes with Hydra Trainer's exert pump"},
+    {"name": "Ahn-Crop Crasher", "set": "Amonkhet", "note": "Original exert attacker — mechanical predecessor in the exert combat-pump lineage"},
+    {"name": "Incubation Druid", "set": "Ravnica Allegiance", "note": "Adapt creature that generates mana equal to counters, counter-count synergy overlap"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

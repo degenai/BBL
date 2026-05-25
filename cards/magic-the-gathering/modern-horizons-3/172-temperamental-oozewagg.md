@@ -80,3 +80,15 @@ A small green creature with a goblin-like face — large pointed ears, oversized
 **Creatures:** ooze, goblin, brushwagg
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — The creature type is Ooze Brushwagg, a blend of two uncommon subtypes. Brushwagg originated in Mirage (1996), survived the Grand Creature Type Update, then went ~25 years without a black-bordered printing until Almighty Brushwagg in Ikoria: Lair of Behemoths (2020). MH3 is only the fourth set to print a Brushwagg card, following Mirage, Ikoria, and Outlaws of Thunder Junction (2024) `[MTG Wiki via WebSearch snippet; Scryfall type_line]`
+- **Flavor text** — "Its position on the food chain causes great confusion in everyone from hunters to other monsters." The flavor text maps onto the card's mechanical identity: a 4/4 that only becomes a real trample-enabler after it Adapts or its allies are otherwise modified — neither obviously threatening nor obviously dismissible `[Scryfall]`
+- **Design** — Illustrated by Pete Venters, a veteran MTG artist since Antiquities (1994) who has illustrated over 300 cards including Survival of the Fittest, Baron Sengir, Ensnaring Bridge, and Lhurgoyf. Venters also served as Wizards' Continuity Manager from Alliances through Urza's Saga, writing art descriptions, flavor text, and card names during that period `[magicuntapped.com: Longtime MTG artist Pete Venters talks about his artwork; Scryfall artist field]`
+- **Mechanical** — Previewed May 23, 2024 by Good Luck High Five alongside Expanding Ooze — the two were revealed as a paired Ooze showcase of MH3's Adapt+Modified synergy theme. Legal in Pauper. Grants trample to all modified creatures you control — meaning any creature carrying Equipment, an Aura, or any counter benefits `[Scryfall preview data; MTGSalvation: MH3 Temperamental Oozewagg and Expanding Ooze preview thread; Scryfall legalities]`
+
+### Related cards
+- Almighty Brushwagg (Ikoria: Lair of Behemoths) — the card that revived the Brushwagg subtype after a 25-year gap; direct type predecessor
+- Brushwagg (Mirage) — the original 1996 Brushwagg, sole prior black-bordered printing before Ikoria
+- Expanding Ooze (Modern Horizons 3) — co-previewed with Temperamental Oozewagg, thematic MH3 Ooze pair
+- Vivien's Grizzly (War of the Spark) — green Adapt creature in a comparable power-ceiling range, Adapt lineage predecessor

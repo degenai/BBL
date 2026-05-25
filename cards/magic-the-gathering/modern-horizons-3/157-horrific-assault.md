@@ -80,3 +80,15 @@ A pale, robed angel kneels in a shadowed forest clearing, hands clasped in praye
 **Iconography:** wings, prayer-pose, corruption
 **Genre cues:** fantasy, body-horror, dark-fantasy, cosmic-horror
 
+## Trivia
+
+- **Set context** — Modern Horizons 3 (released June 14, 2024) returned all three Eldrazi titans and included an Eldrazi Incursion Commander precon. The set is not bound to a single chronological story point, drawing Eldrazi depictions from across multiple planes and timelines `[Scryfall set data; Dexerto: MTG fans react to Eldrazi return in MH3]`
+- **Flavor text** — "With shifting forms and no angel to pray to, Innistrad's werewolves were especially susceptible to Emrakul's influence." The text places this card on Innistrad during the Shadows over Innistrad / Eldritch Moon block, when Emrakul descended on the plane. Werewolves — creatures with inherently unstable forms — were among her most vulnerable thralls `[Scryfall]`
+- **Mechanical** — A one-mana green fight-sorcery with an Eldrazi life-gain rider (gain 3 life if you control an Eldrazi) is unusual in the fight-spell lineage; most fight effects have no secondary clause. Legal in Pauper and sees play in Pauper Gruul Eldrazi and Infect archetypes `[Scryfall legalities; MTGDecks.net Horrific Assault deck usage]`
+- **Design** — Illustrated by Justine Jones. First printing; no reprint history. EDHREC rank 9991 indicates niche use — its home is Pauper rather than Commander `[Scryfall]`
+
+### Related cards
+- Graf Rats (Eldritch Moon) — Innistrad creature corrupted by Emrakul's influence, same narrative space as the flavor text
+- Emrakul, the Promised End (Eldritch Moon) — the titan whose Innistrad influence the flavor text directly references
+- Ulvenwald Hydra (Shadows over Innistrad) — Innistrad creature that grew under Emrakul's encroaching shadow
+- Savage Swipe (Modern Horizons) — MH1 one-mana fight sorcery, mechanical predecessor in the Modern Horizons fight-spell lineage

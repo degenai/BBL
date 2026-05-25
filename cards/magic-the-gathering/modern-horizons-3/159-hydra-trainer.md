@@ -76,3 +76,15 @@ A woman with long braided hair stands in the center of the composition, holding 
 **Creatures:** hydra, serpentine creature
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Modern Horizons 3 (June 14, 2024) revisited roughly 40 returning mechanics. Hydra Trainer combines two on a single card: Exert (originally from Amonkhet, 2017) and Adapt (originally from Guilds of Ravnica, 2018) `[Scryfall set data; magic.wizards.com/en/news/feature/modern-horizons-3-mechanics]`
+- **Mechanical** — A 1/1 for {1}{G} whose exert pump scales with the total number of counters across all permanents you control — not just +1/+1 counters — making it a strong payoff in energy-counter and artifact-counter strategies. Previewed May 24, 2024 by @MagicNewGirl. EDHREC rank 11441 `[Scryfall preview data; Dexerto: Hydra Trainer gives killer boost to counter decks]`
+- **Design** — Illustrated by Ryan Pancoast. Type line Human Warrior (not Druid or Ranger) signals the card's combat framing: she directs the hydra in battle rather than tending it `[Scryfall type_line]`
+- **Flavor context** — Exert was introduced in Amonkhet (2017) with the flavor of citizens pushed past their limits under the god-Pharaoh. MH3 strips that servitude context and recasts the mechanic as skilled mastery — a trainer exerting herself and her creature at peak performance `[magic.wizards.com/en/news/feature/hour-devastation-mechanics-2017-06-16]`
+
+### Related cards
+- Ahn-Crop Crasher (Amonkhet) — original exert attacker, mechanical predecessor in the exert combat-pump lineage
+- Pelt Collector (Guilds of Ravnica) — green counter-scaling creature with a similar small-body-grows-large design
+- Steelbane Hydra (Throne of Eldraine) — counter-heavy hydra that rewards high counter counts, synergizes with Hydra Trainer's exert pump
+- Incubation Druid (Ravnica Allegiance) — Adapt creature that scales with counter count, mechanical overlap
