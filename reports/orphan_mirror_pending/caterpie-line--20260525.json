@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "caterpie-line",
+  "cohort_path": "cards/_characters/caterpie-line.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "cards/pokemon/rebel-clash/001-192-caterpie.md",
+      "bullet_text": "[[caterpie-line]] — Base-stage larval slot in the Caterpie/Metapod/Butterfree fast-metamorphosis Bug-line cohort. The print depicts Caterpie's canonical antenna-stench defensive mechanism rendered as printed Pokedex flavor (\"For protection, it releases a horrible stench from the antenna on its head to drive away enemies\"), with the red-tipped antenna prominent in Uta's painted-atmosphere nighttime-forest treatment — the Sword & Shield-era illustration register the cohort body cites as the post-digital painted-atmosphere counterpart to the Sugimori EVO-3 flat-style Base Set reprint. [Scryfall-equivalent: PokemonTCG.io swsh2-1 flavor_text; cohort node caterpie-line]",
+      "archetype_slot": "base-stage larval / antenna-stench defensive flavor / post-digital painted-atmosphere illustration register"
+    },
+    {
+      "card_path": "cards/pokemon/rebel-clash/002-192-metapod.md",
+      "bullet_text": "[[caterpie-line]] — Stage-1 chrysalis slot in the Caterpie/Metapod/Butterfree fast-metamorphosis Bug-line cohort, instantiating the cohort's canonical waiting-to-evolve passivity thread verbatim. The print depicts the Harden-and-wait stillness register with printed flavor \"It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack\", and Asako Ito's spare composition — pale background, suspended cocoon, no environmental action — directly illustrates that passivity. The cohort body names this print specifically as the visual register for the Metapod mid-stage waiting-to-evolve passivity thread. [PokemonTCG.io swsh2-2 flavor_text; cohort node caterpie-line]",
+      "archetype_slot": "Stage-1 chrysalis / Harden-and-wait passivity / spare-composition stillness register"
+    }
+  ],
+  "deferred": []
+}

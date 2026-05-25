@@ -104,4 +104,5 @@ A hooded male spellcaster in a heavy blue cloak stands at center with both arms 
 
 ## Connections
 
+- [[jace-beleren]] — instantiates the cohort's "Zendikar Rising — mirror-image kicker, Nahiri pursuit" aspect slot: Tyler Jacobson's mid-shot of cloaked Jace casting with both arms outstretched, the translucent doppelganger materializing from a burst of cyan energy beside him — the mirror-image composition the cohort body names as the ZNR aspect's defining visual register. Type-line `Legendary Planeswalker — Jace` is the strict canonical subtype identifier the cohort flags as reserved for printings of this single character, and the kicker copy-token's designed dodge of the legend rule (`"You can control one legendary Jace, Mirror Mage in addition to any number of nonlegendary copies"`) is the first-planeswalker-with-kicker mechanical signature the cohort body cites. `[cohort node: jace-beleren, Aspects in the corpus; Scryfall type_line + rulings]`
 

@@ -94,3 +94,7 @@ A massive dark creature with broad bat-like wings spread wide dominates the comp
 - Zygarde (various) — third Aura Trio member, Order Pokemon
 - Yveltal GX (Hidden Fates) — GX variant of the same Legendary
 
+## Connections
+
+- [[kalos-aura-trio]] — The cohort's *Destruction* anchor and Pokemon Y version-mascot member of the designer-coordinated Life / Death / Order triad introduced in Pokemon X and Y (Game Freak, October 2013). The card's flavor text — *"When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more."* — encodes the cohort's Death pole verbatim: Yveltal as the life-absorption-at-cocoon-rebirth terminus that balances Xerneas's life-bestowal and is moderated by Zygarde's ecosystem-regulation Order role. The Y-silhouette in the splayed-wings pose is the canonical visual identifier the cohort node names as Yveltal's anchor-cue `[cohort node body; PokemonTCG.io sm9-95]`.
+

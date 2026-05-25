@@ -94,3 +94,7 @@ A solitary robed figure with hood drawn stands in profile on a low hill or rocky
 - Iona, Shield of Emeria (Zendikar) — the named source character; a 9-mana legendary angel banned in Legacy
 - Iona's Blessing (Oath of the Gatewatch) — also in inventory; sister Iona-named card
 - Banishing Light (Journey into Nyx) — more efficient white exile enchantment; common comparison in the same removal slot
+
+## Connections
+
+- [[iona]] — judgment-deployment register of the Iona-named card cluster, paired with Iona's Blessing as the dual canonical-operating-mode anchor in the absence of the legendary-Iona card itself. The title-possessive (*Iona's* Judgment) attributes the mechanical payload (exile target creature or enchantment for {4}{W}) to Iona by canonical card-design convention; the depicted hooded figure on the hilltop is the recipient-or-witness of the divine beam, not Iona herself. The flavor text *"Beneath the gaze of angels, only the righteous may stand without fear"* operationalizes the canonical *seer-who-shields-against-named-threats* posture as a directly-invoked divine-judgment instrument, while predating the canonical tragic-arc disclosure that Iona's color-naming ability has no purchase against the colorless Eldrazi `[cohort node body]`.

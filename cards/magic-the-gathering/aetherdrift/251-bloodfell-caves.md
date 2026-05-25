@@ -84,3 +84,6 @@ tags:
 - Bloodfell Caves (Khans of Tarkir) — first printing of this oracle text
 - Endriders commander card (Aetherdrift) — faction represented in the flavor text
 
+## Connections
+
+- [[endriders]] — the racetrack-canyon land that carries the faction's theology. Flavor text reads *"To the Endriders, racing is worship. Their prayers rise on the howls of straining engines. Explosions punctuate their chorus of shouts, forming a hymn of glory to the open road and all roads to come."* `[Scryfall flavor_text]` — the cohort node names this card specifically as the printing where racing-as-worship gets stated outright rather than depicted; the desert-canyon racetrack at sunset is Gastal terrain, and the land itself is the hymn `[cohort node body]`.

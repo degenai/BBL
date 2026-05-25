@@ -1,0 +1,14 @@
+{
+  "cohort_slug": "alola-elite-four",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\alola-elite-four.md",
+  "batch_size": 1,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\burning-shadows\\119-147-olivia.md",
+      "bullet_text": "[[alola-elite-four]] — Rock-type member of Professor Kukui's founding Alola Pokemon League Elite Four roster, stationed at the Mount Lanakila summit as the canonical culmination of the Island Challenge, and the cohort's `vocations-not-jobs` archetype-slot exemplar through her Konikoni City jewelry-shop / lapidary civilian trade — Rock-type specialty and stone-craft vocation reinforcing each other as the cohort's most legible craft-folkway pairing. Per the cohort thesis, the Alola E4 is the first main-series Elite Four assembled *new* on-screen during the player's story arc rather than encountered as a pre-existing institutional body, and Olivia's dual Kahuna-plus-E4 seat is the founding charter's structurally-signature feature within the four-element type-coverage roster (Fighting / Rock / Ghost / Flying). `[cohort node body]`",
+      "archetype_slot": "Rock-type founding-charter E4 member; vocations-not-jobs cohort exemplar via Konikoni City jewelry-and-lapidary civilian trade; concurrent Kahuna-and-E4 dual-tier seat as the cohort's structurally-signature feature",
+      "notes": "Appended AFTER existing [[alola-kahunas]] bullet per Phase 2a coexistence pattern. Olivia genuinely holds both cohort roles per Pokemon canon (Akala Island Kahuna AND post-game E4 Rock-type seat). Cohort body's 'Cards in our corpus pointing here' section pre-anchored this card by name with the Rock-type-E4 + dual-role-with-Kahuna framing; bullet draws directly on the cohort's own articulation of Olivia's slot and the vocations-not-jobs thesis paragraph. EXACTLY ONE wikilink ([[alola-elite-four]]); other refs in backticks (`vocations-not-jobs`, `[cohort node body]`)."
+    }
+  ],
+  "deferred": []
+}

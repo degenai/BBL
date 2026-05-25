@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "alola-kahunas",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\alola-kahunas.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\burning-shadows\\119-147-olivia.md",
+      "bullet_text": "[[alola-kahunas]] — Rock-type Akala Island Kahuna, chosen by Tapu Lele to administer the Grand Trial at the Ruins of Life, and the cohort's structurally-signature `concurrent dual-tier Kahuna-and-E4 anchor`. The vision pass's \"orange-pink rocky formations\" backdrop and one-hand-raised confident pose iconographically lock both her Rock-type specialty and her Akala-Island Grand Trial setting; per the cohort body, she is the only character in main-series Pokemon canon to hold an Island Kahuna role and an Elite Four seat *simultaneously throughout* the player's storyline, distinct from Acerola's Trial-Captain-to-E4 *promotion* kinetics. `[cohort node body]`",
+      "archetype_slot": "concurrent dual-tier Kahuna-and-E4 anchor (Akala Rock-type Kahuna; Tapu Lele-sanctioned; only canonical Pokemon character to hold Kahuna + E4 seat simultaneously throughout storyline)"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\cosmic-eclipse\\193-236-guzma-hala.md",
+      "bullet_text": "[[alola-kahunas]] — Hala-side membership: Fighting-type Melemele Island Kahuna, chosen by Tapu Koko, the cohort's `senior-elder anchor` and the player's first Grand Trial opponent. The vision pass's \"white-bearded elder in white flowing robes with a floral lei\" beside Guzma is the canonical kahuna-and-failed-trial-attempter visual contrast designed into the TAG TEAM pairing — Hala is the Kahuna Guzma canonically failed against at Melemele's Grand Trial, the mentor figure who tried to redirect Guzma before the rejection of the Island Challenge path. This is the corpus's first Hala depiction, arriving via the TAG TEAM print rather than the canonical Hala solo Supporter (BUS-117, not in inventory). `[cohort node body; ## Trivia lore context]`",
+      "archetype_slot": "Melemele Fighting-type senior-elder Kahuna; kahuna-and-failed-trial-attempter narrative bridge (Hala-as-Kahuna paired with Guzma-as-failed-trial-attempter on a single TAG TEAM card)"
+    }
+  ],
+  "deferred": []
+}

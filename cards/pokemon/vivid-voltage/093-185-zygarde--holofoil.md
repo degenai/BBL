@@ -98,3 +98,7 @@ A segmented, serpentine creature dominates the frame in a forceful action pose. 
 - Xerneas (XY base set) — Aura Trio Life member; paired with Zygarde and Yveltal in the kalos-aura-trio character node
 - Yveltal (XY base set) — Aura Trio Death member; already wired to kalos-aura-trio node
 - Zygarde GX (Forbidden Light, no. 73/131) — later treatment of same character featuring Complete Forme art
+
+## Connections
+
+- [[kalos-aura-trio]] — The cohort's *Order* anchor and third-version balance member of the designer-coordinated Life / Death / Order triad introduced in Pokemon X and Y, depicted here in the iconic 50% Forme (the cellular-body serpent with the glowing green core cell). The card's flavor text — *"Born when all of Zygarde's cells have been gathered together, it uses force to neutralize those who harm the ecosystem."* — encodes the cohort's Order pole verbatim: Zygarde as the ecosystem-restoration arbiter that neutralizes whichever side has disrupted Kalos's natural balance between Xerneas's Life and Yveltal's Death. The Core Avenger oracle text scales damage when the player has more Prize cards remaining than the opponent — the from-behind ecosystem-restoration thesis encoded in board-state mechanics `[cohort node body; PokemonTCG.io swsh4-93]`.

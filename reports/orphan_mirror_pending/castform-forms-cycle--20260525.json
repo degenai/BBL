@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "castform-forms-cycle",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\castform-forms-cycle.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\brilliant-stars\\116-172-castform--reverse-holofoil.md",
+      "bullet_text": "[[castform-forms-cycle]] — the cohort's no-weather baseline (Normal Form, white-lavender body, cloud-dome silhouette). The cohort body frames this BRS-116 print as arriving \"the year after the Chilling Reign three-form-alternate-cycle, completing the four-form cycle across SWSH-era printings\" — the Brilliant Stars 2022 Normal-Form filled the Pokedex no. 351 baseline that the Chilling Reign 022-033-034 triptych left open. Per the cohort caveat, this print's `Double Draw` / `Hurricane` oracle does NOT carry the shared Weather Reading Ability — cohort affiliation is preserved through species identity, the four-form weather-trigger design citation, and within-cycle pairing with the Chilling Reign alternate-form prints.",
+      "archetype_slot": "no-weather baseline / Normal Form / completes-the-cycle-across-SWSH-printings"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\chilling-reign\\034-198-castform-snowy-form.md",
+      "bullet_text": "[[castform-forms-cycle]] — the cohort's Ice arm (hail/snow-trigger form, Ice-type, white snowflake-cloud body in a swirling lavender-blue blizzard scene). Flavor *\"This is Castform's form when caught in a hailstorm. Its whole body is chilled, and its skin is partially frozen!\"* instantiates the hail-trigger leg of the four-form weather-trigger structure (no-weather / sun / rain / hail) mapped to four primary types. The `Weather Reading` Ability and the CRE 033-034 within-set adjacency with Rainy Form anchor this print to the Chilling Reign simultaneous-print release that the cohort body identifies as \"the first English TCG release to print the complete four-form cycle simultaneously.\"",
+      "archetype_slot": "Ice arm / hail-trigger / Snowy Form / Weather Reading Ability + CRE 033-034 adjacency"
+    }
+  ],
+  "deferred": []
+}

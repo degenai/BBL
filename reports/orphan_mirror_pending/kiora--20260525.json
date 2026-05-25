@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "kiora",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\kiora.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\war-of-the-spark\\232-kiora-behemoth-beckoner.md",
+      "bullet_text": "[[kiora]] - WAR uncommon-walker slot: Kiora directly depicted in the leviathan-summoning moment on Ravnica, raising the canonically Thassa-stolen curved silver bident overhead atop the coiled body of a sea-leviathan. The `- Kiora` planeswalker subtype on the type-line is the strict canonical identifier; her hybrid `{2}{G/U}` cost and 7 starting loyalty mark her as the Simic-coded uncommon entry in the WAR cycle. `[cohort node body]` `[Scryfall type_line]`",
+      "archetype_slot": "WAR uncommon-walker slot (named planeswalker print) - Kiora on Ravnica, behemoth-summoning moment, bident-thief iconography"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\war-of-the-spark\\58-kiora-s-dambreaker.md",
+      "bullet_text": "[[kiora]] - WAR companion-spell slot: the leviathan Kiora summons, rendered as a separate card whose flavor speaker is Kiora herself - \"When your enemy flees, send the sea to pursue them.\" -Kiora. The card is the canonical conjurer-and-conjured pairing for the WAR cycle (the named planeswalker print at WAR-232 plus this `{5}{U}` 5/5 Leviathan with proliferate-on-ETB), and the dambreaker name is the in-fiction descriptor for a leviathan that breaks every constructed apparatus humans use to hold the sea back. `[Scryfall flavor_text]` `[cohort node body]`",
+      "archetype_slot": "WAR companion-spell slot - the leviathan she summons; conjurer-and-conjured pairing with Kiora as flavor speaker"
+    }
+  ],
+  "deferred": []
+}

@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "tamiyo",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\tamiyo.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\modern-horizons-3\\72-tamiyo-meets-the-story-circle.md",
+      "bullet_text": "[[tamiyo]] — Modern Horizons 3 Saga: the story-circle moment, Tamiyo's scholar-work rendered without a figure on the card, foregrounding the practice over the practitioner. The arranged circle of folded scrolls and tent-fold books inscribed with glowing blue calligraphy stages the encounter with the texts rather than the encounter with the character — the title \"Tamiyo Meets...\" names her while the composition invites the viewer into the scholar's seat. The three chapters (defend against attackers, discard-and-investigate, shuffle graveyard cards back into library) read as the mechanical loop of preserving and recovering stories — the labor itself.",
+      "archetype_slot": "Modern Horizons 3 Saga — the story-circle moment"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\the-list\\220-tamiyo-collector-of-tales.md",
+      "bullet_text": "[[tamiyo]] — Pre-compleation, Ravnica-arriving scholar: the green/blue Collector phase. The full-figure portrait of cowled Tamiyo holding an illuminated scroll against a stormy Ravnican sky is a direct depiction of her canonical spellcasting method (reading stories from scrolls), not generic scholar iconography. Mechanically the recursive toolbox — static blocks opponent-induced discard and sacrifice, +1 mills four to find a named card, −3 returns a card from graveyard to hand — renders the archive-work as gameplay: name what you want, dig for it, recover what you lost.",
+      "archetype_slot": "Pre-compleation, Ravnica-arriving scholar — green/blue Collector phase"
+    }
+  ],
+  "deferred": []
+}

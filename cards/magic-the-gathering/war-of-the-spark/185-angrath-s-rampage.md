@@ -83,3 +83,7 @@ A burly, shirtless brawler with long dark hair and a beard wields a glowing, fla
 **Iconography:** fire, whip, destruction
 **Genre cues:** fantasy, dark-fantasy
 
+## Connections
+
+- [[angrath]] — Canonical Angrath depiction in the War of the Spark Ravnica-arrival aspect; the shirtless bearded brawler with the glowing flame-trailing whip is the chains-as-magic visual identifier carried forward from the Ixalan-stranded-captain register (the slaver's apparatus rebranded as offensive fire-magic). Flavor text *"Grand city? No. This is nothing but another squalid cage."* is the cohort node's named example of the captor's-perspective lens persisting after escape — every plane reads as another cage to the minotaur who was literally caged on Ixalan by the Immortal Sun. `[cohort node body — Angrath WAR-185 aspect paragraph]`
+

@@ -1,0 +1,13 @@
+{
+  "cohort_slug": "war-gatewatch-triumph-cycle",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\war-gatewatch-triumph-cycle.md",
+  "batch_size": 1,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\war-of-the-spark\\55-jace-s-triumph.md",
+      "bullet_text": "[[war-gatewatch-triumph-cycle]] — the cycle's blue / Jace entry, instantiating all three designer-coordinated template axes the cohort node identifies: the mechanical template (`\"Draw two cards. If you control a Jace planeswalker, draw three cards instead.\"` is the `{2}{U}` sorcery conditional-upgrade slot), the flavor template (`\"His triumph was not in outsmarting Bolas's plan, but in understanding why ultimate power is self-defeating.\"` matches the cohort's `\"<Name>'s triumph came not from <X>, but from <Y>\"` construction verbatim), and the visual template (Kieran Yanner portrait of the named Gatewatch founder at a resolution beat). The cohort frames this entry's flavor as the cognitive triumph — *\"the mind-mage's resolution is comprehension, not conquest\"* — the cycle's in-set callback to Jace's Defeat (HOU no. 38). `[cohort node body: The design thesis section; Scryfall flavor_text + oracle_text]`",
+      "archetype_slot": "Triumph cycle blue / Jace entry — designer-coordinated three-axis template instantiation (mechanical + flavor + visual), per the cohort's 'The design thesis' section. Cohort body explicitly names Jace's triumph as 'the cognitive triumph; the mind-mage's resolution is comprehension, not conquest'."
+    }
+  ],
+  "deferred": []
+}

@@ -98,3 +98,7 @@ A sharply dressed figure in a dark suit with a red rose boutonniere stands in a 
 - Guzma (Burning Shadows, 115/147) — functional predecessor with identical Benched-to-Active effect; its Standard rotation created the demand Boss's Orders filled
 - Mewtwo V (various) — lore linchpin: the Pokemon Giovanni created, weaponized, and lost
 - Giovanni's Exile (various legacy sets) — other Giovanni-named Supporters across TCG history
+
+## Connections
+
+- [[team-rocket]] — anchors the Giovanni-as-Boss leadership slot for the faction-collective node; the Rebel Clash 154/192 print is specifically the Giovanni edition of the recurring Boss's Orders Villainous-Team-leader Supporter line (other prints depict Cyrus, Lysandre, Lusamine, Guzma, Rose, Penny). The card's commanding-gesture composition with dark suit + red rose boutonniere + shadowy subordinate silhouettes instantiates the cohort's "Boss with a Gym Leader front" institutional feature — Giovanni simultaneously running the Kanto criminal syndicate and the Viridian Gym is the franchise's foundational Boss-as-institutional-authority trope, and the on-card "Switch 1 of your opponent's Benched Pokemon with their Active Pokemon" effect is the mechanical translation of that command-and-control authority `[cohort node body: leadership / institutional verbs]`.

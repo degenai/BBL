@@ -88,3 +88,7 @@ A still-life arrangement on a worn wooden tabletop. A series of folded scrolls o
 **Iconography:** runic-script, calligraphy, geometric-pattern, blossom-motif
 **Genre cues:** fantasy, east-asian-inspired, scholarly
 
+## Connections
+
+- [[tamiyo]] — Modern Horizons 3 Saga: the story-circle moment, Tamiyo's scholar-work rendered without a figure on the card, foregrounding the practice over the practitioner. The arranged circle of folded scrolls and tent-fold books inscribed with glowing blue calligraphy stages the encounter with the texts rather than the encounter with the character — the title "Tamiyo Meets..." names her while the composition invites the viewer into the scholar's seat. The three chapters (defend against attackers, discard-and-investigate, shuffle graveyard cards back into library) read as the mechanical loop of preserving and recovering stories — the labor itself.
+

@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "team-rocket",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\team-rocket.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\rebel-clash\\154-192-boss-s-orders--holofoil.md",
+      "bullet_text": "[[team-rocket]] — anchors the Giovanni-as-Boss leadership slot for the faction-collective node; the Rebel Clash 154/192 print is specifically the Giovanni edition of the recurring Boss's Orders Villainous-Team-leader Supporter line (other prints depict Cyrus, Lysandre, Lusamine, Guzma, Rose, Penny). The card's commanding-gesture composition with dark suit + red rose boutonniere + shadowy subordinate silhouettes instantiates the cohort's 'Boss with a Gym Leader front' institutional feature — Giovanni simultaneously running the Kanto criminal syndicate and the Viridian Gym is the franchise's foundational Boss-as-institutional-authority trope, and the on-card 'Switch 1 of your opponent's Benched Pokemon with their Active Pokemon' effect is the mechanical translation of that command-and-control authority [cohort node body: leadership / institutional verbs].",
+      "archetype_slot": "Boss with a Gym Leader front / Giovanni leadership tier"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\destined-rivals\\179-182-team-rocket-s-venture-bomb.md",
+      "bullet_text": "[[team-rocket]] — anchors the Destined Rivals returning-villain mechanical line slot and the R-emblem iconography slot for the faction-collective node. Per the cohort body, the Destined Rivals (SV10, 2025) set introduced the `Team Rocket's` named-prefix mechanic that locks the deck into a Rocket-only operating mode, and Venture Bomb is one node of that mechanical ecosystem — the franchise-game-design-side returning-villain integration into TCG mechanics. The card art itself — round black bomb centered against a void background with a 'large red R on a black circular badge' instantiates the cohort's named 'black-uniform-with-red-R iconography' exactly, with the bomb's gamble-or-self-damage coin-flip effect ('Flip a coin. If heads, put 2 damage counters on 1 of your opponent's Pokemon. If tails, put 2 damage counters on your Active Pokemon') matching the cohort's rank-and-file Rocket Grunt operational register [cohort node body: Destined Rivals caveat + uniform iconography].",
+      "archetype_slot": "Destined Rivals returning-villain mechanical line + R-emblem iconography"
+    }
+  ],
+  "deferred": []
+}

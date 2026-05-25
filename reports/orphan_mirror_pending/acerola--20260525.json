@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "acerola",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\acerola.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\burning-shadows\\112-147-acerola.md",
+      "bullet_text": "[[acerola]] — Solo-character node membership at the **soft-portrait Sugimori-canonical register** slot of the within-character cross-print pair documented in the cohort body. This BUS-112 print is the corpus's canonical Acerola portrait at the league-NPC Supporter register: Ken Sugimori art, formal welcoming gesture in a light cream studio backdrop, the canonical SM3 Alola NPC Supporter staging mode. The Supporter effect — *\"Put 1 of your Pokémon that has any damage counters on it and all cards attached to it into your hand\"* — is the on-board mechanical encoding of her Aether House caretaker role at the Foundation's Ula'ula Island satellite branch, sheltering injured Pokemon and orphaned children, recovering the broken back to safety. Paired with the M-EVO-113 *dynamic action-impish register* print, BUS-112 anchors the formal half of the two-register cross-print mirror that the cohort node identifies as Acerola's defining within-character staging contrast. `[Bulbapedia: Acerola; oracle text per PokemonTCG.io API sm3-112]`",
+      "archetype_slot": "soft-portrait Sugimori-canonical register (within-character cross-print pair, formal half) — cohort body Caveats section explicitly identifies this slot for BUS-112"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\mega-evolution\\113-132-acerola-s-mischief.md",
+      "bullet_text": "[[acerola]] — Solo-character node membership at the **dynamic action-impish register** slot of the within-character cross-print pair documented in the cohort body. Where the earlier Burning Shadows print (BUS-112) stages Acerola in the soft-portrait Sugimori-canonical register, this M-EVO-113 print stages the same character in the action-impish counterpart: short purple hair, dark layered garments, lively lunging three-quarter pose, urban/structured setting, comedic-mood lighting. The Supporter's mechanical conditions — usable only when the opponent has 2 or fewer Prize cards, preventing all damage and effects from opponent's Pokemon ex to one of your Pokemon during the next turn — is the on-board encoding of Acerola's Ghost-type trickster register (delay, disguise, shield-from-attack, a sudden late-game reversal deployed when cornered). Together with BUS-112, this print completes the two-register cross-print mirror the cohort node identifies as Acerola's defining within-character staging contrast: formal welcoming gesture vs. dynamic impish action, same canonical character, two distinct compositional registers. `[Bulbapedia: Acerola; oracle text per PokemonTCG.io API]`",
+      "archetype_slot": "dynamic action-impish register (within-character cross-print pair, action half) — cohort body Caveats section explicitly identifies this slot for M-EVO-113"
+    }
+  ],
+  "deferred": []
+}

@@ -1,0 +1,13 @@
+{
+  "cohort_slug": "endriders",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\endriders.md",
+  "batch_size": 1,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\aetherdrift\\251-bloodfell-caves.md",
+      "bullet_text": "[[endriders]] - the racetrack-canyon land that carries the faction's theology. Flavor text reads \"To the Endriders, racing is worship. Their prayers rise on the howls of straining engines. Explosions punctuate their chorus of shouts, forming a hymn of glory to the open road and all roads to come.\" [Scryfall flavor_text] - the cohort node names this card specifically as the printing where racing-as-worship gets stated outright rather than depicted; the desert-canyon racetrack at sunset is Gastal terrain, and the land itself is the hymn [cohort node body].",
+      "archetype_slot": "racetrack-canyon land carrying the faction's theology (racing-as-worship statement card)"
+    }
+  ],
+  "deferred": []
+}

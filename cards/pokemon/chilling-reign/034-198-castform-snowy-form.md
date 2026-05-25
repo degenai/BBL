@@ -92,3 +92,7 @@ A small spherical white creature floats near center frame, its head topped with 
 - Castform Normal Form (various) — base form; same National Pokedex no. 351
 - Castform Sunny Form (various) — Fire-type form; part of the 4-form cycle
 - Castform Rainy Form (various) — Water-type form; part of the 4-form cycle
+
+## Connections
+
+- [[castform-forms-cycle]] — the cohort's Ice arm (hail/snow-trigger form, Ice-type, white snowflake-cloud body in a swirling lavender-blue blizzard scene). Flavor *"This is Castform's form when caught in a hailstorm. Its whole body is chilled, and its skin is partially frozen!"* instantiates the hail-trigger leg of the four-form weather-trigger structure (no-weather / sun / rain / hail) mapped to four primary types. The `Weather Reading` Ability and the CRE 033-034 within-set adjacency with Rainy Form anchor this print to the Chilling Reign simultaneous-print release that the cohort body identifies as "the first English TCG release to print the complete four-form cycle simultaneously."

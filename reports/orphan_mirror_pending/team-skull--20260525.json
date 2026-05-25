@@ -1,0 +1,19 @@
+{
+  "cohort_slug": "team-skull",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\team-skull.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\burning-shadows\\120-147-plumeria.md",
+      "bullet_text": "[[team-skull]] — named-leadership membership as the gang's sole Admin, the operational enforcer below Boss Guzma. The two-tone hair (light and dark sections) is Plumeria's canonical signature visual identifier per the cohort body, and the dark crop-top forest-setting portrait matches the Poison-type-specialist register documented across Bulbapedia. The card's Supporter mechanic — discard 2 cards from hand to discard an opponent's Energy — is the mutual-cost / 'you pay to punish' structure the cohort body identifies as mechanically coherent with her caretaker-with-tough-love 'big sister' framing toward the Skull Grunts. [cohort node body; ## Vision; ## Trivia mechanical note]",
+      "archetype_slot": "named-leadership: sole Admin (Plumeria) — caretaker / 'big sister' / Poison-type specialist / two-tone-hair signature visual identifier / mutual-cost Supporter mechanic mirroring tough-love framing"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\cosmic-eclipse\\193-236-guzma-hala.md",
+      "bullet_text": "[[team-skull]] — Guzma-side membership as the gang's Boss, depicted left-hand in the TAG TEAM frame in his canonical dark jacket and sunglasses casual confident lean. The cohort body identifies this exact card as the corpus's first Guzma depiction and reads the TAG TEAM's design conceit as precisely the kahuna-and-criminal-team-boss visual contrast — the senior tribal authority Guzma canonically failed to defeat at the Grand Trial standing beside the gang Guzma leads in the wake of that failure, 'the two narrative roles Guzma occupies in canon compressed into a single dual-character card.' The Stadium-tutor Supporter mechanic functions as the meta-mechanical equivalent of the Boss-and-Kahuna combination authorizing multi-axis deck construction. [cohort node body; ## Vision; ## Trivia lore context]",
+      "archetype_slot": "named-leadership: Boss (Guzma) — failed-Kahuna-trial-attempter / dark-jacket-and-sunglasses canonical visual register / TAG TEAM kahuna-and-criminal-team-boss visual-contrast design conceit / Stadium-tutor Supporter mechanic"
+    }
+  ],
+  "deferred": [],
+  "notes": "Both cards have explicit verbatim cohort-body coverage (Plumeria at lines 41 + 54; Guzma & Hala at lines 43 + 84). The Guzma & Hala bullet appends AFTER the pre-existing [[alola-kahunas]] bullet per parent brief — coexistence expected as the TAG TEAM card depicts both the Team Skull Boss and the Melemele Kahuna. Both bullets contain exactly one wikilink ([[team-skull]]) per wave-195 EXACTLY-ONE-WIKILINK rule. Other refs (cohort node body, Vision section, Trivia section) cited in plain prose or backticks."
+}

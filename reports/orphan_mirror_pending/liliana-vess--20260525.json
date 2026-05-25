@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "liliana-vess",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\liliana-vess.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\war-of-the-spark\\14-gideon-s-sacrifice.md",
+      "bullet_text": "[[liliana-vess]] - Gideon's Sacrifice is the WAR climax's death-substitution beat at the canonical Liliana anchor: the cohort node explicitly names this card as the second half of the WAR contract-breaking diptych, the moment 'in which the contract-breaking should have killed her and didn't, because Gideon's hieromancy transferred the killing blow.' The figure on the right in purple-dark robes recoiling in horror is Liliana - named directly in the card's flavor text 'To Liliana's surprise, the cost of betraying Bolas did not fall on her' - at the exact instant she discovers the cost of breaking her demonic contract with Bolas has fallen on Gideon instead. The card double-attributes per the cohort's multi-character characters: field standard, and pairs with Despark (WAR-190, the contract-breaking-act half) to form Liliana's WAR-arc cohort half of the four-card Gatewatch-climax cluster. [Scryfall: flavor_text + story_spotlight:true] [cards/_characters/liliana-vess.md: WAR diptych - death-substitution beat]",
+      "archetype_slot": "WAR diptych - death-substitution beat (Gideon's Sacrifice named verbatim in cohort body as the second half of the contract-breaking diptych)"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\war-of-the-spark\\190-despark.md",
+      "bullet_text": "[[liliana-vess]] - Despark is the WAR climax's contract-breaking beat at the canonical Liliana anchor: the cohort node explicitly names this card as the first half of the WAR contract-breaking diptych, 'the act of refusal' in which Liliana, having broken her demonic contract with Nicol Bolas, commands his corrupted God-Eternals to turn on him. The depicted dark-robed female spellcaster channeling violet-white energy in the foreground is Liliana herself - named directly in the card's flavor text 'Liliana whispered to whatever consciousness Oketra and Bontu had left. You are the gods. He is the usurper. You know what to do.' - and the exile-permanent-of-mana-value-4-or-greater oracle effect maps onto unmaking Bolas's apparatus of control (the elder dragon being the canonical permanent of mana value greater than 4). The card pairs with Gideon's Sacrifice (WAR-14, the death-substitution-beat half) to form Liliana's WAR-arc cohort half of the four-card Gatewatch-climax cluster, and multi-attributes to both this node and the antagonist anchor per the cohort's multi-character characters: field standard. [Scryfall: flavor_text + story_spotlight:true] [cards/_characters/liliana-vess.md: WAR diptych - contract-breaking beat]",
+      "archetype_slot": "WAR diptych - contract-breaking beat (Despark named verbatim in cohort body as the first half of the contract-breaking diptych, 'the act of refusal')"
+    }
+  ],
+  "deferred": []
+}

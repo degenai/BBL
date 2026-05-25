@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "iona",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\iona.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\commander-legends\\25-iona-s-judgment.md",
+      "bullet_text": "[[iona]] -- judgment-deployment register of the Iona-named card cluster, paired with Iona's Blessing as the dual canonical-operating-mode anchor in the absence of the legendary-Iona card itself. The title-possessive (*Iona's* Judgment) attributes the mechanical payload (exile target creature or enchantment for {4}{W}) to Iona by canonical card-design convention; the depicted hooded figure on the hilltop is the recipient-or-witness of the divine beam, not Iona herself. The flavor text *\"Beneath the gaze of angels, only the righteous may stand without fear\"* operationalizes the canonical *seer-who-shields-against-named-threats* posture as a directly-invoked divine-judgment instrument, while predating the canonical tragic-arc disclosure that Iona's color-naming ability has no purchase against the colorless Eldrazi `[cohort node body]`.",
+      "archetype_slot": "judgment-deployment register (Iona-named card cluster anchors the stewardship-verb across two canonical-operating-mode registers)"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\oath-of-the-gatewatch\\21-iona-s-blessing.md",
+      "bullet_text": "[[iona]] -- blessing-deployment register of the Iona-named card cluster, paired with Iona's Judgment as the dual canonical-operating-mode anchor in the absence of the legendary-Iona card itself. The flavor text speaks in Iona's own voice -- *\"Walk now in my light. When the rest of the world closes its eyes, you will still see.\" --Iona* -- locking the canonical-Zendikar-angel-lore engagement into the card via named-flavor-speaker attribution rather than depicted-art-subject; the bearded mortal warrior with the runic halo across the eyes is the blessing-recipient, and Iona is the canonical archangel who *kept her sight* through the angel-faction's halo-lowering response to the Eldrazi. The 3W Aura's +2/+2, vigilance, and multi-block payload renders the canonical *stewardship-extends-the-mortal-recipient's-defensive-capacity* operating mode at the BFZ-OGW common-and-uncommon Limited tier `[cohort node body]`.",
+      "archetype_slot": "blessing-deployment register (Iona-named card cluster anchors the stewardship-verb across two canonical-operating-mode registers)"
+    }
+  ],
+  "deferred": []
+}

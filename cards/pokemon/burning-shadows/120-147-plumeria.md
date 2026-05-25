@@ -91,3 +91,7 @@ A tall slender humanoid figure stands with arms slightly away from the body, pro
 - Guzma (Burning Shadows, no. 115/147) — Team Skull boss; Plumeria serves directly under him
 - Plumeria (Burning Shadows, no. 141/147) — Full Art version, same set
 
+## Connections
+
+- [[team-skull]] — named-leadership membership as the gang's sole Admin, the operational enforcer below Boss Guzma. The two-tone hair (light and dark sections) is Plumeria's canonical signature visual identifier per the cohort body, and the dark crop-top forest-setting portrait matches the Poison-type-specialist register documented across Bulbapedia. The card's Supporter mechanic — discard 2 cards from hand to discard an opponent's Energy — is the mutual-cost / "you pay to punish" structure the cohort body identifies as mechanically coherent with her caretaker-with-tough-love "big sister" framing toward the Skull Grunts. `[cohort node body; ## Vision; ## Trivia mechanical note]`
+

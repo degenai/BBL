@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "jace-beleren",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\jace-beleren.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\war-of-the-spark\\55-jace-s-triumph.md",
+      "bullet_text": "[[jace-beleren]] — instantiates the cohort's \"War of the Spark — Ravnica-trapped, third-eye-sigil moment\" aspect slot: Kieran Yanner's extreme close-up of cowled Jace with the arcane sigil etched in light across the brow, the meditative inward composition the cohort node names as the WAR aspect's defining visual register. Flavor text `\"His triumph was not in outsmarting Bolas's plan, but in understanding why ultimate power is self-defeating.\"` is the in-set retroactive Triumph against Bolas, captured at the lowest moment of Jace's Immortal-Sun internment that the cohort body frames as Act 1–2 of the WAR arc. `[cohort node: jace-beleren, Aspects in the corpus; Scryfall flavor_text]`",
+      "archetype_slot": "War of the Spark — Ravnica-trapped, third-eye-sigil moment"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\zendikar-rising\\63-jace-mirror-mage.md",
+      "bullet_text": "[[jace-beleren]] — instantiates the cohort's \"Zendikar Rising — mirror-image kicker, Nahiri pursuit\" aspect slot: Tyler Jacobson's mid-shot of cloaked Jace casting with both arms outstretched, the translucent doppelganger materializing from a burst of cyan energy beside him — the mirror-image composition the cohort body names as the ZNR aspect's defining visual register. Type-line `Legendary Planeswalker — Jace` is the strict canonical subtype identifier the cohort flags as reserved for printings of this single character, and the kicker copy-token's designed dodge of the legend rule (`\"You can control one legendary Jace, Mirror Mage in addition to any number of nonlegendary copies\"`) is the first-planeswalker-with-kicker mechanical signature the cohort body cites. `[cohort node: jace-beleren, Aspects in the corpus; Scryfall type_line + rulings]`",
+      "archetype_slot": "Zendikar Rising — mirror-image kicker, Nahiri pursuit"
+    }
+  ],
+  "deferred": []
+}

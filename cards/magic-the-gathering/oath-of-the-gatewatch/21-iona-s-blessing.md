@@ -89,3 +89,7 @@ An extreme close-up portrait of a bearded humanoid figure facing directly forwar
 - Iona, Shield of Emeria (Zendikar) — the named source character; the card she originates from
 - Iona's Judgment (Commander Legends) — also in inventory; sister Iona-named card
 - Linvala, Keeper of Silence (Rise of the Eldrazi) — fellow Zendikari archangel from the same plane and era
+
+## Connections
+
+- [[iona]] — blessing-deployment register of the Iona-named card cluster, paired with Iona's Judgment as the dual canonical-operating-mode anchor in the absence of the legendary-Iona card itself. The flavor text speaks in Iona's own voice — *"Walk now in my light. When the rest of the world closes its eyes, you will still see." —Iona* — locking the canonical-Zendikar-angel-lore engagement into the card via named-flavor-speaker attribution rather than depicted-art-subject; the bearded mortal warrior with the runic halo across the eyes is the blessing-recipient, and Iona is the canonical archangel who *kept her sight* through the angel-faction's halo-lowering response to the Eldrazi. The 3W Aura's +2/+2, vigilance, and multi-block payload renders the canonical *stewardship-extends-the-mortal-recipient's-defensive-capacity* operating mode at the BFZ-OGW common-and-uncommon Limited tier `[cohort node body]`.

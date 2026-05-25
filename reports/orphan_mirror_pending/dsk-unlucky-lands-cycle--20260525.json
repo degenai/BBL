@@ -1,0 +1,13 @@
+{
+  "cohort_slug": "dsk-unlucky-lands-cycle",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\dsk-unlucky-lands-cycle.md",
+  "batch_size": 1,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\duskmourn-house-of-horror\\258-etched-cornfield.md",
+      "bullet_text": "[[dsk-unlucky-lands-cycle]] — the rural-horror entry in Duskmourn's ten-card common dual-land cycle; the G/W member whose aerial-cornfield art with concentric crop-circle scoring and cyan-blue rift portals supplies the cycle's folk-horror-plus-cosmic-horror register. Flavor text \"They say those who lose their way in the fields gradually wither and grow brittle, until at last they put down roots and anchor into the soil as a whispering stalk.\" opens with the cycle's shared \"They say...\" urban-legend convention and names the cornfield as a specific haunted-vernacular place a Duskmourn-region storyteller would warn against. [Scryfall flavor_text; cohort node body]",
+      "archetype_slot": "the rural-horror entry / cornfield / folk-horror plus cosmic-horror register"
+    }
+  ],
+  "deferred": []
+}

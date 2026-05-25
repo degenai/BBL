@@ -107,3 +107,7 @@ A robed figure with long, straight pale hair stands at the foreground, draped in
 - Tamiyo, Inquisitive Student (Strixhaven, no. 248) — Younger Tamiyo as a Strixhaven student; same character earlier in her life.
 - The Tale of Tamiyo — Saga-style card narrating Tamiyo's story; canonical narrative companion piece per EDHREC.
 
+## Connections
+
+- [[tamiyo]] — Pre-compleation, Ravnica-arriving scholar: the green/blue Collector phase. The full-figure portrait of cowled Tamiyo holding an illuminated scroll against a stormy Ravnican sky is a direct depiction of her canonical spellcasting method (reading stories from scrolls), not generic scholar iconography. Mechanically the recursive toolbox — static blocks opponent-induced discard and sacrifice, +1 mills four to find a named card, −3 returns a card from graveyard to hand — renders the archive-work as gameplay: name what you want, dig for it, recover what you lost.
+

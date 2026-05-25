@@ -84,3 +84,7 @@ A colossal blue-grey sea serpent erupts from a violent ocean, its long ribbon-li
 **Creatures:** leviathan, sea-serpent
 **Genre cues:** fantasy
 
+## Connections
+
+- [[kiora]] — WAR companion-spell slot: the leviathan Kiora summons, rendered as a separate card whose flavor speaker is Kiora herself — *"When your enemy flees, send the sea to pursue them." —Kiora*. The card is the canonical conjurer-and-conjured pairing for the WAR cycle (the named planeswalker print at WAR-232 plus this `{5}{U}` 5/5 Leviathan with proliferate-on-ETB), and the dambreaker name is the in-fiction descriptor for a leviathan that breaks every constructed apparatus humans use to hold the sea back. `[Scryfall flavor_text]` `[cohort node body]`
+

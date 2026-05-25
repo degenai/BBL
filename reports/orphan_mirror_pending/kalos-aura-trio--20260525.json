@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "kalos-aura-trio",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\kalos-aura-trio.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\team-up\\95-yveltal--holofoil.md",
+      "bullet_text": "[[kalos-aura-trio]] - The cohort's Destruction anchor and Pokemon Y version-mascot member of the designer-coordinated Life / Death / Order triad introduced in Pokemon X and Y (Game Freak, October 2013). The card's flavor text - \"When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.\" - encodes the cohort's Death pole verbatim: Yveltal as the life-absorption-at-cocoon-rebirth terminus that balances Xerneas's life-bestowal and is moderated by Zygarde's ecosystem-regulation Order role. The Y-silhouette in the splayed-wings pose is the canonical visual identifier the cohort node names as Yveltal's anchor-cue [cohort node body; PokemonTCG.io sm9-95].",
+      "archetype_slot": "Destruction anchor / Pokemon Y version mascot / Y-silhouette splayed-wings visual identifier"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\vivid-voltage\\093-185-zygarde--holofoil.md",
+      "bullet_text": "[[kalos-aura-trio]] - The cohort's Order anchor and third-version balance member of the designer-coordinated Life / Death / Order triad introduced in Pokemon X and Y, depicted here in the iconic 50% Forme (the cellular-body serpent with the glowing green core cell). The card's flavor text - \"Born when all of Zygarde's cells have been gathered together, it uses force to neutralize those who harm the ecosystem.\" - encodes the cohort's Order pole verbatim: Zygarde as the ecosystem-restoration arbiter that neutralizes whichever side has disrupted Kalos's natural balance between Xerneas's Life and Yveltal's Death. The Core Avenger oracle text scales damage when the player has more Prize cards remaining than the opponent - the from-behind ecosystem-restoration thesis encoded in board-state mechanics [cohort node body; PokemonTCG.io swsh4-93].",
+      "archetype_slot": "Order anchor / 50% Forme glowing-green-core central cell visual identifier / third-version balance member"
+    }
+  ],
+  "deferred": []
+}

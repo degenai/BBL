@@ -1,0 +1,19 @@
+{
+  "cohort_slug": "angrath",
+  "cohort_path": "cards/_characters/angrath.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "cards/magic-the-gathering/war-of-the-spark/185-angrath-s-rampage.md",
+      "bullet_text": "[[angrath]] - Canonical Angrath depiction in the War of the Spark Ravnica-arrival aspect; the shirtless bearded brawler with the glowing flame-trailing whip is the chains-as-magic visual identifier carried forward from the Ixalan-stranded-captain register (the slaver's apparatus rebranded as offensive fire-magic). Flavor text 'Grand city? No. This is nothing but another squalid cage.' is the cohort node's named example of the captor's-perspective lens persisting after escape - every plane reads as another cage to the minotaur who was literally caged on Ixalan by the Immortal Sun. [cohort node body - Angrath WAR-185 aspect paragraph]",
+      "archetype_slot": "War of the Spark - Ravnica arrival; chains-as-magic via flame-trailing whip; captor's-perspective flavor (another squalid cage)"
+    },
+    {
+      "card_path": "cards/magic-the-gathering/war-of-the-spark/227-angrath-captain-of-chaos.md",
+      "bullet_text": "[[angrath]] - Canonical Angrath depiction in the War of the Spark Ravnica-arrival aspect, the minotaur warlord moment after escaping the Immortal Sun's seal. The horned figure with the bloodied axe and the manacles, hooks, and chain-links hanging from his belt is the chains-as-magic visual identifier the cohort node calls out as the Wizards-art-directed across-prints signature - the slaver's apparatus from Ixalan reused as battle-gear ornament on a free-spark planeswalker again. The -2: Amass Zombies ability is, per Rosewater's Blogatog clarification cited in the cohort node, Angrath using Bolas's Dreadhorde the way he used the Devil's Chains crew - labor he can compel - rather than serving the Bolas command structure. [cohort node body - Angrath WAR-227 aspect paragraph]",
+      "archetype_slot": "War of the Spark - Ravnica arrival; minotaur warlord moment; chains-as-magic via manacles-hooks-chains belt-rig; Amass-as-personal-coercion (Rosewater Blogatog)"
+    }
+  ],
+  "deferred": [],
+  "notes": "Both orphans had unambiguous archetype-slot matches in the cohort body - the cohort node WAR-aspect paragraph names both cards explicitly with the visual details and flavor reads each bullet quotes back. WAR-227 already had a pre-existing ## Connections section linking the cycle-sibling Kiora; appended the angrath bullet without disturbing the existing cycle bullet. Exactly-one-wikilink rule honored on both new bullets (no rebellion / orzhov-syndicate / nicol-bolas / sibling-card wikilinks even though the cohort body cites them)."
+}

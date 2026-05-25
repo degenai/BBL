@@ -94,3 +94,6 @@ Castform's Normal Form is depicted as a small, almost perfectly round creature w
 - Castform Sunny Form (Chilling Reign, no. 022/198) — completes the three alternate forms
 - Castform Snowy Form (Chilling Reign, no. 034/198) — fourth form in the cycle
 
+## Connections
+
+- [[castform-forms-cycle]] — the cohort's no-weather baseline (Normal Form, white-lavender body, cloud-dome silhouette). The cohort body frames this BRS-116 print as arriving "the year after the Chilling Reign three-form-alternate-cycle, completing the four-form cycle across SWSH-era printings" — the Brilliant Stars 2022 Normal-Form filled the Pokedex no. 351 baseline that the Chilling Reign 022-033-034 triptych left open. Per the cohort caveat, this print's `Double Draw` / `Hurricane` oracle does NOT carry the shared Weather Reading Ability — cohort affiliation is preserved through species identity, the four-form weather-trigger design citation, and within-cycle pairing with the Chilling Reign alternate-form prints.

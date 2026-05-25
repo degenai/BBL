@@ -109,4 +109,5 @@ A blue-skinned female figure with long tendril-like cyan hair stands triumphant 
 ## Connections
 
 - [[227-angrath-captain-of-chaos]] — Designer-confirmed cycle members. Both are uncommon planeswalkers from War of the Spark's twenty-uncommon-walker cycle, built to the same one-static/triggered-ability + one-loyalty-ability template that Mark Rosewater walked through in his preview article (Kiora: power-4 ETB-draw trigger + −1 untap; Angrath: menace static + −2 Amass Zombies). [magic.wizards.com: "Waging War of the Spark, Part 1", Mark Rosewater, 2019-04-01] [MTG Wiki: War of the Spark]
+- [[kiora]] — WAR uncommon-walker slot: Kiora directly depicted in the leviathan-summoning moment on Ravnica, raising the canonically Thassa-stolen curved silver bident overhead atop the coiled body of a sea-leviathan. The `— Kiora` planeswalker subtype on the type-line is the strict canonical identifier; her hybrid `{2}{G/U}` cost and 7 starting loyalty mark her as the Simic-coded uncommon entry in the WAR cycle. `[cohort node body]` `[Scryfall type_line]`
 

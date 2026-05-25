@@ -92,3 +92,7 @@ A high-angle, almost top-down view of a pale-green and tan cornfield stretching 
 - Floodfarm Verge (Duskmourn: House of Horror) — also by Randy Gallegos; his stated favorite of his DSK land commissions
 - Triskaidekaphobia (Shadows over Innistrad) — design predecessor; number-13 as mechanical trigger
 - Sunlit Marsh (Innistrad: Midnight Hunt) — earlier common dual land with a life-total "unless" condition; design lineage predecessor to unlucky lands
+
+## Connections
+
+- [[dsk-unlucky-lands-cycle]] — the rural-horror entry in Duskmourn's ten-card common dual-land cycle; the G/W member whose aerial-cornfield art with concentric crop-circle scoring and cyan-blue rift portals supplies the cycle's folk-horror-plus-cosmic-horror register. Flavor text *"They say those who lose their way in the fields gradually wither and grow brittle, until at last they put down roots and anchor into the soil as a whispering stalk."* opens with the cycle's shared "They say..." urban-legend convention and names the cornfield as a specific haunted-vernacular place a Duskmourn-region storyteller would warn against. `[Scryfall flavor_text; cohort node body]`

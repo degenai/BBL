@@ -94,3 +94,7 @@ A round black bomb sits centered in the image with a short lit fuse extending fr
 - Team Rocket's Mewtwo ex (Destined Rivals) — flagship chase card of the set's Japanese source
 - Team Rocket (original expansion, 2000) — thematic predecessor set from the Base Set era
 
+## Connections
+
+- [[team-rocket]] — anchors the Destined Rivals returning-villain mechanical line slot and the R-emblem iconography slot for the faction-collective node. Per the cohort body, the Destined Rivals (SV10, 2025) set introduced the `Team Rocket's` named-prefix mechanic that locks the deck into a Rocket-only operating mode, and Venture Bomb is one node of that mechanical ecosystem — the franchise-game-design-side returning-villain integration into TCG mechanics. The card art itself — round black bomb centered against a void background with a "large red R on a black circular badge" instantiates the cohort's named "black-uniform-with-red-R iconography" exactly, with the bomb's gamble-or-self-damage coin-flip effect ("Flip a coin. If heads, put 2 damage counters on 1 of your opponent's Pokemon. If tails, put 2 damage counters on your Active Pokemon") matching the cohort's rank-and-file Rocket Grunt operational register `[cohort node body: Destined Rivals caveat + uniform iconography]`.
+

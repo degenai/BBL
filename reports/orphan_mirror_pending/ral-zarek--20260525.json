@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "ral-zarek",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\ral-zarek.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\modern-horizons-3\\132-ral-and-the-implicit-maze.md",
+      "bullet_text": "[[ral-zarek]] — *Modern Horizons 3 Saga — Implicit Maze discovery, retrospective rendering* aspect. The figure in the white-and-red geometrically-patterned outfit crouching dynamically on the black volcanic surface amid looping fire arcs is Ral mid-maze-run, depicted in volcanic-surfing register. The three Saga chapters render the *Dragon's Maze* 2013 block championship arc as a retrospective nearly a decade later — Niv-Mizzet's lieutenant working the maze the dragon-parun ordered him to find. `[cohort node body: Modern Horizons 3 Saga aspect entry]`",
+      "archetype_slot": "Modern Horizons 3 Saga — Implicit Maze discovery, retrospective rendering"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\war-of-the-spark\\212-ral-s-outburst.md",
+      "bullet_text": "[[ral-zarek]] — *War of the Spark — Ravnica defection, lazotep-melting-point moment* aspect. The flavor attribution — *\"Time to find the melting point of lazotep.\" —Ral Zarek* — is the in-fiction announcement of Ral's defection from Bolas's payroll, with lazotep being the alchemical material Bolas used to encase the Eternal army. The card sits in the canonical \"Ral's <Spell>\" attribution cycle (Ral's Dispersal, Ral's Staticaster, Ral's Vanguard, Ral's Outburst) — non-planeswalker spells flavor-attributed to him as caster, the in-fiction equivalent of a magewright's lab notebook. `[Scryfall flavor_text; cohort node body: War of the Spark aspect entry + attribution-cycle section]`",
+      "archetype_slot": "War of the Spark — Ravnica defection, lazotep-melting-point moment"
+    }
+  ],
+  "deferred": []
+}
