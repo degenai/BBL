@@ -1,0 +1,41 @@
+{
+  "card_name": "Shining Armor",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "29",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Throne of Eldraine built a cycle of common Equipment with colored mana costs but generic equip costs. Shining Armor (no. 29) is the white member, alongside Crystal Slipper (the Cinderella-referencing red Equipment). The design intention was to push monocolor identity at common while keeping equip cost flexible.",
+      "sources": ["Wizards: 'Singing in the Eldraine,' 2019-09-16"]
+    },
+    {
+      "category": "design",
+      "text": "Shining Armor has Flash, which is mechanically unusual for Equipment: it allows instant-speed casting mid-combat, attaching to any Knight you control. The auto-attach on-enter clause rewards having Knights in play and makes the card feel like a rescue — the armor arrives just in time. The +0/+2 and vigilance bonus leans defensive rather than offensive.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "No flavor text. EDHREC rank 19,934; modest Commander uptake. In ELD Limited it was a useful flash blocker-pump for Knight-heavy white decks. First and only printing (no reprints). Legal in Pioneer, Modern, Legacy, Vintage, Pauper, and Commander.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Eric Deschamps is a long-tenured MTG illustrator who joined in Innistrad (2011) and has painted hundreds of cards, frequently handling heroic fantasy portraits and character pieces. No dedicated Hipsters of the Coast feature was found for this card specifically.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Crystal Slipper", "set": "Throne of Eldraine", "note": "Red Equipment in the same common Equipment cycle; Cinderella-referencing parallel to Shining Armor's knight-in-armor imagery"},
+    {"name": "Embereth Shieldbreaker", "set": "Throne of Eldraine", "note": "Common white Knight-support card in the same set; shares Knight-tribal context"},
+    {"name": "Steelclaw Lance", "set": "Throne of Eldraine", "note": "Common Equipment from ELD's black/red side; same cycle register, different color alignment"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

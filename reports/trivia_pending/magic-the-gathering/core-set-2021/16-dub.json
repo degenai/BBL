@@ -1,0 +1,46 @@
+{
+  "card_name": "Dub",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "16",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Dub was first printed in Dominaria (DOM, May 2018) before being reprinted in Core Set 2021 (M21, July 2020). Its flavor text roots it in New Benalia — the reconstituted Benalish nation organized around seven knightly Houses and the Church of Serra.",
+      "sources": ["Scryfall", "MTG Wiki: Benalia (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Dub has exactly two printings (Dominaria no. 15 and Core Set 2021 no. 16) with identical art by Bastien L. Deharme across both. The type-granting effect — turning any creature into a Knight — is the card's mechanical identity: it exists to enable Knight synergies in Dominaria's Knight-heavy white.",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Rise, knight of New Benalia.\" The speaker is unnamed but the phrasing is a formal conferral of knighthood. New Benalia is Benalia rebuilt on Dominaria as a military-mercantile power after the Phyrexian catastrophe.",
+      "sources": ["Scryfall", "MTG Wiki: Benalia (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Bastien L. Deharme (full name: Bastien Lecouffe Deharme) is a French digital artist known for dark atmospheric painterly imagery. Dub is notably quieter in register than his typical work. No dedicated Hipsters of the Coast feature was found.",
+      "sources": ["ArtStation: Bastien Lecouffe Deharme"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 18,112 indicates low Commander uptake. Primary home is budget Pauper and Pioneer Knight-tribal lists. Legal in Pauper, Pioneer, Modern, Legacy, Vintage, and Commander.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Knight of New Benalia", "set": "Dominaria", "note": "Fellow New Benalia Knight; shares the plane's Knight-tribal identity this card enables"},
+    {"name": "History of Benalia", "set": "Dominaria", "note": "Saga depicting the long arc of Benalia's knightly tradition; thematic anchor for the New Benalia world this card invokes"},
+    {"name": "Benalish Marshal", "set": "Dominaria", "note": "Premier Knight anthem in the same set; the deck Dub slots into"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

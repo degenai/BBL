@@ -72,3 +72,15 @@ A humanoid golem made entirely of interlocking crystal facets crouches low in wh
 **Iconography:** prismatic rainbow, crystal facets
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Prismite first appeared in War of the Spark (WAR, May 2019) as a colorless mana-fixer in a set dominated by multicolor Planeswalker cards; it was reprinted in Core Set 2020 (M20, July 2019) and again in Core Set 2021 (M21, July 2020). Three printings in three consecutive annual releases signals its value as a Limited and budget-casual mana-fixing utility. `[Scryfall prints search]`
+- **Flavor text** — *"Even its shadow is a dazzling rainbow."* The flavor text is the entire card's design pitch compressed to eleven words: a creature whose material nature converts any input energy into full-spectrum output. The shadow detail is the precise visual joke — even the negative space it casts is prismatic. `[Scryfall]`
+- **Design** — Prismite's oracle text is a single ability: `{2}: Add one mana of any color.` It is a 2/1 for two generic mana, requiring no colored mana to cast. This is the cleanest possible design for a colorless mana-filter: neutral body, neutral cost, pure rainbow output. The crystal-golem type is common visual grammar for artifact mana-fixers in MTG — compare Manalith, Pillar of Origins, and the Izzet Keyrune. `[Scryfall]`
+- **Artist** — Alayna Danner has illustrated more than 50 Magic cards, first contributing in Hour of Devastation (2017). Hipsters of the Coast has covered her work in multiple pieces noting she "has become one of the game's current go-to artists for landscapes." Prismite is a departure from her landscape specialty — a creature portrait — but keeps her clean, luminous palette. `[Hipsters of the Coast: "Alayna Danner Sells Two Storybook Originals," 2019]`
+- **Mechanical reputation** — EDHREC rank 13,835; sees play primarily in Pauper as a budget color-fixer in three-color lists that cannot reliably afford more expensive fixing. Legal in Pauper, Pioneer, Modern, Legacy, Vintage, and Commander. `[Scryfall]`
+
+### Related cards
+- Manalith (various) — 3-mana colorless mana rock with same function; the higher-cost predecessor Prismite partially replaced in some Pauper lists
+- Sylvok Explorer (Mirrodin) — earlier Pauper mana-fixer with a creature body; same role, different era
+- Chromatic Star (Time Spiral) — another cheap colorless mana-filter with a cantrip; shares the color-neutrality design space

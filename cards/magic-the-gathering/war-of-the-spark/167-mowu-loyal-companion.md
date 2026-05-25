@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - dog
+  - canine
+  - loyalty
+  - companion
+  - multi-tailed
+  - guardian
+  - spirit-animal
+  - archer
+  - war
+  - Ravnica
+  - collar
+tags_filter:
+  - green-magic
+  - duo
+  - mid-shot
+  - three-quarter
+  - narrative-mode
+  - creature
+  - legendary
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/167-mowu-loyal-companion.png
 average_cost_paid: 0
 market_price: 0.26
@@ -30,6 +48,40 @@ mana_cost: "{3}{G}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: urban
+subject_known_ip: true
+suspected_ip: Mowu
+ip_confidence: high
+ip_verified: false
 ---
 
 # Mowu, Loyal Companion (War of the Spark)
+
+## Vision
+
+![167-mowu-loyal-companion](../../_images/magic-the-gathering/war-of-the-spark/167-mowu-loyal-companion.png)
+
+> [!warning] Suspected IP: **Mowu** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A large canine creature occupies most of the frame, standing alert on broad stone steps. The body is reddish-brown with a paler muzzle and chest. Multiple long tails — three or more — flow behind and around the figure with a soft pink-lavender light, giving a fox-spirit quality. The creature wears a decorated collar with red and green accents. Its eyes glow red. To the upper right background, a small humanoid figure with a bow is drawn in a shooting stance on an elevated step or ledge, dressed in a green cloak. Stone columns in rose-lavender tones frame the scene. The canine is clearly the primary subject; the archer figure is secondary and small.
+
+**Subject:** Mowu, a large canine with multiple flowing tails, standing on stone steps
+
+**Composition:** mid-shot, narrative, figures: duo, facing: three-quarter
+**Setting:** urban, modern, indeterminate, calm
+**Foreground:** Large reddish-brown canine with multiple flowing tails, decorated collar  *(palette: reddish-brown, pink, lavender)*
+**Background:** Stone steps and columns in rose-lavender tones; small archer figure upper right  *(palette: lavender, rose, stone-grey)*
+**Mood / lighting:** action, ambient
+**Emotion read:** canine's posture is alert and ready; body language suggests protective vigilance
+**Objects:** collar, stone-steps, bow
+**Creatures:** canine, multi-tailed-creature
+**Iconography:** decorated-collar, glowing-eyes
+**Genre cues:** fantasy
+
+## Connections
+
+- [[164-jiang-yanggu-wildcrafter]] — Mowu is the canine companion of planeswalker Jiang Yanggu; this card's flavor text names Yanggu directly ("Wherever Yanggu goes, Mowu follows"), and the small green-cloaked archer figure in the upper-right background is Yanggu himself. Same set (WAR), designer-coordinated companion pair across two prints. [Scryfall: WAR-167 flavor text] [Scryfall: WAR-164 Jiang Yanggu, Wildcrafter] [MTG Wiki: Jiang Yanggu — Mowu]
+

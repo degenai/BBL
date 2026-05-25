@@ -1,0 +1,47 @@
+{
+  "card_name": "Honor the God-Pharaoh",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "132",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "IP already verified as Nicol Bolas (Wave 189, Edgelord-attached). Triviabot treated as resolved baseline; no re-verification needed.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "War of the Spark (WAR, May 2019) is the climax of Nicol Bolas's plan: using the Amonkhet block's trials to build an undead elite army (the Dreadhorde/Eternals), then opening a Planar Bridge to unleash them on Ravnica. Honor the God-Pharaoh depicts the Eternals performing their programmed devotional salute while Ravnica burns around them.",
+      "sources": ["Scryfall", "Wizards: 'War of the Spark Mechanics,' 2019-03-31"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"In life, they revered a diverse pantheon of gods. Now they revere only the God-Pharaoh.\" The God-Pharaoh is Nicol Bolas's Amonkhet title. The flavor text is a two-sentence theological dispossession: pre-existing Amonkhet faith stripped and replaced with singular worship of Bolas.",
+      "sources": ["Scryfall", "Wizards: 'War of the Spark Mechanics,' 2019-03-31"]
+    },
+    {
+      "category": "design",
+      "text": "Amass was the one new keyword in WAR, mechanically representing Bolas's ever-growing zombie horde. The Wizards mechanics article describes it as 'on the side of evil,' color-coded to Bolas's Grixis palette (blue, black, red). Honor the God-Pharaoh pairs Amass 1 with looting (discard + draw 2) at {2}{R}.",
+      "sources": ["Wizards: 'War of the Spark Mechanics,' 2019-03-31"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Eternals performing the salute are not named individual characters; they are the Dreadhorde — a mass undead army created from Amonkhet's dead champions who completed the trials of the five gods before Bolas embalmed and reanimated them. The card is linked to the nicol-bolas character node in this archive.",
+      "sources": ["Wizards: 'War of the Spark Mechanics,' 2019-03-31", "cards/_characters/nicol-bolas.md"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 14,180; sees play in Zombie Army/Amass tribal Commander lists and Pauper red-black looting builds. The discard-to-draw cost makes it card-neutral (minus the Amass token generated), giving marginal efficiency at common. Legal in Pioneer, Modern, Legacy, Vintage, Pauper, and Commander.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dreadhorde Invasion", "set": "War of the Spark", "note": "Permanent Amass engine from the same set; builds the same Zombie Army token over multiple turns"},
+    {"name": "God-Eternal Oketra", "set": "War of the Spark", "note": "One of the four God-Eternals created from Amonkhet's fallen gods; apex of the Dreadhorde's divine tier"},
+    {"name": "Nicol Bolas, Dragon-God", "set": "War of the Spark", "note": "The God-Pharaoh himself at planeswalker card level; the figure being honored by the card's depicted salute"},
+    {"name": "Hazoret the Fervent", "set": "Amonkhet", "note": "Last surviving Amonkhet god before Bolas's purge; represents the pre-Bolas Amonkhet pantheon the flavor text erases"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -75,3 +75,16 @@ A large, shirtless humanoid figure — noticeably oversized relative to the farm
 **Food/drink:** apple, fruit
 **Genre cues:** fantasy, fairy-tale
 
+## Trivia
+
+- **Set context** — Throne of Eldraine (ELD, October 2019) is a dual-register set: the Arthurian Court layer and the Grimm-fairy-tale Wilds layer. Giants and their relationship to food appear across multiple cards in the Wilds layer, drawing on "Jack and the Beanstalk" and related giant-folk-tale tropes. Insatiable Appetite is not one of the named fairy-tale cards (Beanstalk Giant, Giant Killer) but occupies the same register — the giant who consumes everything a smallfolk community has built. `[Wizards: "Singing in the Eldraine," 2019-09-16]` `[Wizards: "More Odds & Ends: Throne of Eldraine," 2019-10-21]`
+- **Flavor text** — *"He ate them out of house and home and shed and barn and flock and herd."* This is a progressive exhaustion catalog — the phrase "ate out of house and home" is a real English idiom, but ELD's flavor text extends it through every layer of agrarian infrastructure (shed, barn, flock, herd) to make the scale explicit. No speaker is named; the flavor text functions as folk-tale narration. `[Scryfall]`
+- **Design** — The Food mechanic originates in ELD: the design team noticed that a large fraction of their fairy-tale trope list involved food (Hansel and Gretel's breadcrumbs, Little Red Riding Hood's basket, Snow White's poisoned apple, Jack's magic beans), and built the Food artifact token as the mechanical chassis. Insatiable Appetite's bonus pump (+5/+5 vs +3/+3) for sacrificing a Food is the mechanical expression of that theme: the giant grows even stronger when fed. `[Wizards: "Singing in the Eldraine," 2019-09-16]`
+- **Mechanical note** — As a {1}{G} instant pump spell that scales with Food sacrifice, Insatiable Appetite sees play in ELD-era Limited where Food generation was a common green/white axis. It is a first (and only) printing with no reprints as of the Scryfall oracle search. Legal in Pioneer, Modern, Legacy, Vintage, Pauper, and Commander. `[Scryfall]`
+- **Artist** — Nils Hamm is a German fantasy illustrator with a long MTG career stretching back to Zendikar (2009). No dedicated artist feature on Hipsters of the Coast was found for this card. `[Scryfall]`
+
+### Related cards
+- Beanstalk Giant (ELD, no. 149) — the named "Jack and the Beanstalk" giant in the same set; shares the giant-eating-everything flavor register
+- Giant Killer (ELD, no. 14) — the Jack-figure in ELD's Jack-and-the-Beanstalk reference cycle; the smallfolk counterpoint to this card's giant perspective
+- Gilded Goose (ELD, no. 160) — the golden-goose fairy-tale Food generator; part of the same Food-token design ecosystem this card feeds on
+- Feasting Troll King (ELD, no. 152) — the apex giant feaster of the set; same flavor archetype at rare

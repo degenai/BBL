@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - giant
+  - chaos
+  - comedy
+  - crash
+  - town
+  - invasion
+  - brute-force
+  - oversized
+  - fairy-tale
+  - clumsy
+  - urban-disruption
+tags_filter:
+  - red-magic
+  - 3-figures
+  - mid-shot
+  - action-mode
+  - scene-mode
+  - instant
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/112-barge-in.png
 average_cost_paid: 0
 market_price: 0.1
@@ -30,6 +47,28 @@ mana_cost: "{R}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: comedic
+time_of_day: day
+setting: urban
 ---
 
 # Barge In (Throne of Eldraine)
+
+## Vision
+
+![112-barge-in](../../_images/magic-the-gathering/throne-of-eldraine/112-barge-in.png)
+
+A massive giant strides through what appears to be a stone-paved town plaza, arms flung wide in mid-motion. The giant is wearing crude wooden crate-like torso armor with red fabric or straps visible, and has a wide-open surprised expression with large hands splayed. To the left, a smaller figure on horseback reacts to the intrusion; to the right, a partially-visible figure reaches toward the giant. Architecture of pale stone columns lines the background. The composition captures the comedic chaos of the giant's scale relative to the setting.
+
+**Subject:** A giant in crude wooden armor crashes through a town plaza
+
+**Composition:** mid-shot, action, figures: group, facing: forward
+**Setting:** urban, modern, day, clear
+**Foreground:** Giant in mid-stride, wooden crate armor, arms outstretched  *(palette: tan, brown, red, grey)*
+**Background:** Stone plaza, pale stone columns, open sky  *(palette: pale-grey, white, stone)*
+**Mood / lighting:** comedic, soft
+**Emotion read:** giant's expression is wide-eyed and open-mouthed, conveying clueless energy; flanking figures show alarm
+**Objects:** wooden-crate-armor, stone-columns, plaza
+**Creatures:** horse
+**Genre cues:** fantasy, fairy-tale
+

@@ -1,0 +1,46 @@
+{
+  "card_name": "Prismite",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "235",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Prismite first appeared in War of the Spark (WAR, May 2019) as a colorless mana-fixer in a set dominated by multicolor Planeswalker cards. It was reprinted in Core Set 2020 (M20, July 2019) and again in Core Set 2021 (M21, July 2020). Three printings in three consecutive annual releases signals its value as a Limited and budget-casual mana-fixing utility.",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Even its shadow is a dazzling rainbow.\" The flavor text is the card's design pitch compressed to eleven words: the shadow detail is the precise visual joke — even the negative space the crystal casts is prismatic.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Prismite's oracle text is a single ability: {2}: Add one mana of any color. It is a 2/1 for two generic mana, requiring no colored mana to cast — the cleanest possible colorless mana-filter design. The crystal-golem type is common visual grammar for artifact mana-fixers in MTG.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Alayna Danner has illustrated more than 50 Magic cards, first contributing in Hour of Devastation (2017). Hipsters of the Coast notes she 'has become one of the game's current go-to artists for landscapes.' Prismite is a creature portrait rather than a landscape, but keeps her clean luminous palette.",
+      "sources": ["Hipsters of the Coast: 'Alayna Danner Sells Two Storybook Originals,' 2019"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 13,835; sees play primarily in Pauper as a budget color-fixer in three-color lists that cannot afford more expensive fixing. Legal in Pauper, Pioneer, Modern, Legacy, Vintage, and Commander.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Manalith", "set": "various", "note": "3-mana colorless mana rock with same function; higher-cost predecessor Prismite partially replaced in Pauper lists"},
+    {"name": "Sylvok Explorer", "set": "Mirrodin", "note": "Earlier Pauper mana-fixer with creature body; same role, different era"},
+    {"name": "Chromatic Star", "set": "Time Spiral", "note": "Cheap colorless mana-filter with cantrip; shares the color-neutrality design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

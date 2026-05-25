@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - fortification
+  - ward
+  - magic-glyph
+  - battlefield
+  - defense
+  - siege
+  - wood
+  - protection
+  - enchanted-structure
+  - ruin
+tags_filter:
+  - white-magic
+  - no-face
+  - none-figures
+  - wide-shot
+  - scene-mode
+  - creature-wall
+  - defender
 reference_image: cards/_images/magic-the-gathering/core-set-2021/44-warded-battlements.png
 average_cost_paid: 0
 market_price: 0.18
@@ -30,6 +47,28 @@ mana_cost: "{2}{W}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: day
+setting: other
 ---
 
 # Warded Battlements (Core Set 2021)
+
+## Vision
+
+![44-warded-battlements](../../_images/magic-the-gathering/core-set-2021/44-warded-battlements.png)
+
+A low-angle view of rough wooden battlements and watchtowers rising against a pale overcast sky. In the foreground, sharpened wooden stakes form a palisade. Two luminous golden magical sigils float in the air before the wall — the larger one displays a concentric-ring lattice pattern, the smaller echoes its form to the right. The overall palette is muted tan, brown, and grey with the sigils providing warm golden contrast. No figures are present; the scene is architecture and enchantment.
+
+**Subject:** Wooden fortifications with glowing magical ward-sigils
+
+**Composition:** wide, abstract, figures: none, facing: n/a
+**Setting:** other, ruined, day, calm
+**Foreground:** Sharpened wooden stakes and palisade logs, close-up low angle  *(palette: tan, brown, grey)*
+**Background:** Rough wooden battlements and watchtowers under overcast pale sky, distant birds  *(palette: grey, pale-blue, brown)*
+**Mood / lighting:** grim, ambient
+**Emotion read:** no figures; scene conveys defensive tension and foreboding calm
+**Objects:** wooden-palisade, watchtower, magical-sigils, wooden-stakes
+**Iconography:** concentric-ring-ward, floating-glyph
+**Genre cues:** fantasy, medieval
+

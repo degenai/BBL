@@ -1,0 +1,37 @@
+{
+  "edge_id": "jiang-yanggu-war164--mowu-war167--planeswalker-companion-mirror",
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/164-jiang-yanggu-wildcrafter.md", "name": "Jiang Yanggu, Wildcrafter (WAR-164)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/167-mowu-loyal-companion.md", "name": "Mowu, Loyal Companion (WAR-167)"}
+  ],
+  "description": "Two endpoints, must traverse from either side. Standard sigh. But the case is clean: WAR-167 (Mowu) flavor text literally says 'Wherever Yanggu goes, Mowu follows' — the dog's printed card NAMES the planeswalker on the other side of the edge. WAR-164 (Yanggu) art depicts Yanggu with a small spirit-dog companion at his side. WAR-167 art depicts the dog as the foregrounded subject with a small green-cloaked archer figure in the upper background — Yanggu himself, holding the bow. Same set. Designer-coordinated companion pair across two prints. Both vision-passed, neither had Connections. Cleanest available mirror in the wave-189-just-landed slate. No character node proposed: corpus has exactly TWO Yanggu-touching cards, below Mr. Nodeley's 3+ threshold; the 1:1 edge is the right shape today. If a Yanggu reprint or Mowu cameo lands in a future CSV, a Nodeley pass can promote.",
+  "citations": [
+    "[Scryfall: WAR-167 Mowu, Loyal Companion — flavor text 'Wherever Yanggu goes, Mowu follows—sometimes at his side, sometimes obscuring him from view entirely.']",
+    "[Scryfall: WAR-164 Jiang Yanggu, Wildcrafter — planeswalker card, art depicts Yanggu with small spirit-dog companion]",
+    "[MTG Wiki: Jiang Yanggu — Mowu]",
+    "[in-MD vision body, 167-mowu-loyal-companion.md line 69: 'small humanoid figure with a bow ... dressed in a green cloak' background figure]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/war-of-the-spark/164-jiang-yanggu-wildcrafter.md",
+    "cards/magic-the-gathering/war-of-the-spark/167-mowu-loyal-companion.md"
+  ],
+  "other_candidates_considered": [
+    "Mr. Nodeley jiang-yanggu character node proposal — REFUSED. Threshold is 3+ cards on a shared concept. Corpus has exactly 2 Yanggu-touching cards (WAR-164 and WAR-167). 1:1 mirror is the right shape today. Future-watch: if a third Yanggu-touching card lands (a Core 2019 Mowu reprint, a Commander supplement Yanggu, etc.), promote to character node.",
+    "ip_verified: true on Mowu (WAR-167) — DEFERRED. Mowu carries `suspected_ip: Mowu, ip_confidence: high, ip_verified: false` with the suspected-IP-handoff warning callout in the body. The flavor text naming Yanggu is canonical Wizards-published confirmation that the depicted figure IS Mowu, so the verification case is open-and-shut — BUT per `bbl-suspected-ip-handoff` memory, the suspected_ip → ip_verified flip is the triviabot's queue, not Edgelord's. When triviabot reaches WAR-167 it can verify in-pass. Leaving the flag alone. Noted in next_pass_suggestions.",
+    "Shriekdiver (WAR-103) attach to a Boros / Ravnica-defense character node — REFUSED. Flavor text quotes 'Shauntal, Boros legionnaire' and references the Ledev — both Ravnican defenders during WAR's siege. But Shauntal is not a recurring named character with a card of her own in our corpus (the named Shauntal in MTG canon is the Unova Elite Four ghost-type specialist, distinct franchise; no overlap intended), and Ledev is a faction-tier concept that would need 3+ Ledev-touching cards to anchor a node. Shriekdiver carries no canonical Wizards link to a named character beyond a one-off quote attribution. Future-watch: if Boros-defense-of-Ravnica reaches threshold across WAR/RTR/RAV cards, propose then.",
+    "Courage in Crisis (WAR-158) attach to a Gatewatch / named-Gatewatch-member node — REFUSED. The two figures (armored healer + slumped companion) are unnamed in the card text; flavor text is generic ('Thanks to my father, I know how to fight'). MTG Wiki's Courage in Crisis page reads the armored figure as Tomik Vrona — the Orzhov advokist who became Ral Zarek's partner during WAR — but the in-MD vision body does NOT identify him, and the BBL `tags_hub` includes neither 'Orzhov' nor 'Tomik' nor 'advokist.' Without triviabot confirmation OR a hub/character node for Tomik, drawing the edge is premature. The card has the strongest planeswalker-adjacent story signal of any WAR-158 reading, but Edgelord refuses to leap ahead of trivia/research; future-watch for Tomik Vrona node if he reaches 3+ in corpus or if trivia confirms the in-art identification.",
+    "Warded Battlements (M21-44) edge — REFUSED. Generic siege-wall scene, no figures, no named-character signal, no canonical cycle membership. Cleanest possible refusal in the slate; tags are tags.",
+    "Barge In (ELD-112) attach to existing eld-cinderella-cycle node — REFUSED on inspection. The card depicts a generic Eldraine giant in clueless brute-force mode; flavor 'The giant had heard of locks, but he had yet to discover a door he couldn't open' is fairy-tale-coded but does NOT match the Cinderella cycle Rosewater designer-confirmed (Enchanted Carriage, Turn into a Pumpkin, Fairy Guidemother, Midnight Clock). Barge In is a non-cycle Eldraine red common. Future-watch only if a giants-and-castles ELD micro-cycle reaches threshold; thin-tag bridges are not edges."
+  ],
+  "next_pass_suggestions": [
+    "When triviabot reaches WAR-167 Mowu, it should flip `ip_verified: true` and remove the suspected-IP warning callout — the flavor text on the card IS the canonical confirmation, no external verification needed.",
+    "Audit other WAR named-companion / named-pet pairings to see whether the wider WAR set has a 'planeswalker + signature creature' micro-pattern beyond Yanggu/Mowu (Davriel + his demonic library?, Vivien + her summons?, Saheeli + her constructs?). If 3+ such pairings exist in corpus, a `planeswalker-companion-pair` mechanical-primitive symbol node may be Mr. Nodeley territory.",
+    "Consider promoting jiang-yanggu to a character node if a Mowu reprint (Core 2019 WAR companion Brawl deck, or Commander Masters) lands in a future CSV.",
+    "Courage in Crisis (WAR-158) Tomik-Vrona identification is a triviabot job; if confirmed, it would unlock a future Tomik character node + Ral-Zarek pair edge (Ral has a hub-eligible WAR storyline)."
+  ],
+  "parent_brief_verification": "Parent dispatched 'ONE decision, walk corpus.' I walked the working-tree dirty cards (5 fresh vision passes: M21-44, ELD-112, WAR-103, WAR-158, WAR-167). The Mowu/Yanggu mirror is the only edge in that slate with canonical Wizards-published evidence inside the cards themselves (flavor text naming, art-direction cross-referencing). All other slate members refused with documented reasons above. No parent-quoted counts to verify; the decision is end-to-end Edgelord-found.",
+  "edgelord_mood": "sighed-but-mirrored"
+}

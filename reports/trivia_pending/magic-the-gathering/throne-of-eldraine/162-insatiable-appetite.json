@@ -1,0 +1,47 @@
+{
+  "card_name": "Insatiable Appetite",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "162",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Throne of Eldraine (ELD, October 2019) is a dual-register set: Arthurian Court and Grimm-fairy-tale Wilds. Insatiable Appetite occupies the Wilds layer — the giant who consumes everything a smallfolk community has built — sharing the Jack-and-the-Beanstalk register with Beanstalk Giant and Giant Killer without being one of the named fairy-tale cards.",
+      "sources": ["Wizards: 'Singing in the Eldraine,' 2019-09-16", "Wizards: 'More Odds & Ends: Throne of Eldraine,' 2019-10-21"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"He ate them out of house and home and shed and barn and flock and herd.\" A progressive exhaustion catalog extending the real English idiom 'ate out of house and home' through every layer of agrarian infrastructure. No speaker named; functions as folk-tale narration.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The Food mechanic originates in ELD after Wizards designers noticed a large fraction of their fairy-tale trope list involved food (Hansel and Gretel's breadcrumbs, Little Red Riding Hood's basket, Snow White's poisoned apple, Jack's magic beans). Insatiable Appetite's bonus pump (+5/+5 vs +3/+3) for sacrificing a Food mechanically expresses the theme: the giant grows stronger when fed.",
+      "sources": ["Wizards: 'Singing in the Eldraine,' 2019-09-16"]
+    },
+    {
+      "category": "mechanical",
+      "text": "First and only printing (no reprints as of Scryfall oracle search). As a {1}{G} instant that scales with Food sacrifice, it saw play in ELD Limited on the Food-generation axis. Legal in Pioneer, Modern, Legacy, Vintage, Pauper, and Commander.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Nils Hamm is a German fantasy illustrator with an MTG career stretching back to Zendikar (2009). No dedicated Hipsters of the Coast feature was found for this card.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Beanstalk Giant", "set": "Throne of Eldraine", "note": "The named Jack-and-the-Beanstalk giant in the same set; shares the giant-eating-everything flavor register"},
+    {"name": "Giant Killer", "set": "Throne of Eldraine", "note": "The Jack-figure in ELD's Jack-and-Beanstalk reference cycle; smallfolk counterpoint to this card's giant perspective"},
+    {"name": "Gilded Goose", "set": "Throne of Eldraine", "note": "Golden-goose fairy-tale Food generator; part of the same Food-token design ecosystem this card feeds on"},
+    {"name": "Feasting Troll King", "set": "Throne of Eldraine", "note": "Apex giant feaster of the set; same flavor archetype at rare"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

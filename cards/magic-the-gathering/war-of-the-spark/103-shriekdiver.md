@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - wings
+  - flight
+  - bird
+  - dive
+  - sky
+  - predator
+  - armor
+  - chains
+  - azure
+  - avian
+  - speed
+tags_filter:
+  - black-magic
+  - solo
+  - mid-shot
+  - forward-facing
+  - action-mode
+  - creature
+  - flying
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/103-shriekdiver.png
 average_cost_paid: 0
 market_price: 0.07
@@ -30,6 +48,28 @@ mana_cost: "{2}{B}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: other
 ---
 
 # Shriekdiver (War of the Spark)
+
+## Vision
+
+![103-shriekdiver](../../_images/magic-the-gathering/war-of-the-spark/103-shriekdiver.png)
+
+A large bird-humanoid creature plunges toward the viewer from a bright sky filled with dramatic clouds. Its wings are spread wide, dark blue-black with iridescent feather sheen, each feather clearly articulated. The creature wears close-fitting armored plating in deep blue and black with gold trim accents, and has a prominent beak-like face with a dark helm. Small gold chains or shackles are visible at the wrists. A radiant light source — possibly the sun — blazes behind and above, creating a strong backlit halo effect. The diving posture and wing spread fill nearly the entire frame.
+
+**Subject:** An armored bird-humanoid creature diving from the sky
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** other, day, clear
+**Foreground:** Bird-humanoid in full dive, wings spread, beak-helm, gold-trim armor  *(palette: dark-blue, black, gold)*
+**Background:** Bright cloudy sky with sun or radiant source above  *(palette: white, pale-blue, grey)*
+**Mood / lighting:** action, backlit
+**Emotion read:** aggressive dive posture; body language is predatory and swift
+**Objects:** shackles, armor
+**Creatures:** bird-humanoid
+**Genre cues:** fantasy
+

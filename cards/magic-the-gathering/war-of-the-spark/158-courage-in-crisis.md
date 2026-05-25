@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - healing
+  - courage
+  - aid
+  - battle
+  - green-magic-glow
+  - protection
+  - crisis
+  - war
+  - sacrifice
+  - companion
+  - loyalty
+tags_filter:
+  - green-magic
+  - duo
+  - mid-shot
+  - three-quarter
+  - narrative-mode
+  - sorcery
+  - proliferate
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/158-courage-in-crisis.png
 average_cost_paid: 0
 market_price: 0.22
@@ -30,6 +48,28 @@ mana_cost: "{2}{G}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: urban
 ---
 
 # Courage in Crisis (War of the Spark)
+
+## Vision
+
+![158-courage-in-crisis](../../_images/magic-the-gathering/war-of-the-spark/158-courage-in-crisis.png)
+
+A humanoid figure in fitted grey-green scale armor crouches or leans over a second figure who appears to be kneeling or slumped. The standing figure extends one hand forward, palm open, emitting a vivid green magical glow. Their expression is alert and determined, eyes raised as if watching for further threat. The second figure, partially visible in the lower right, appears exhausted or wounded. The background shows large stone columns in a muted dusty-pink haze — urban architecture consistent with a city under siege. The scene reads as an act of protective intervention in the middle of battle.
+
+**Subject:** An armored humanoid figure channels green energy to aid a fallen companion
+
+**Composition:** mid-shot, narrative, figures: duo, facing: three-quarter
+**Setting:** urban, modern, indeterminate, fog
+**Foreground:** Armored figure extending glowing green hand toward viewer; second slumped figure at lower right  *(palette: grey, green, skin-tone)*
+**Background:** Stone columns, dusty-pink haze, urban architecture  *(palette: dusty-pink, grey, stone)*
+**Mood / lighting:** action, ambient
+**Emotion read:** standing figure shows determined resolve; slumped figure suggests vulnerability or exhaustion
+**Objects:** scale-armor, stone-columns
+**Iconography:** green-glow, magic-energy
+**Genre cues:** fantasy
+

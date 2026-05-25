@@ -77,3 +77,7 @@ A dark-haired man in earthy green robes with red and gold trim stands in a verda
 **Creatures:** spirit-dog, canine-companion
 **Genre cues:** fantasy
 
+## Connections
+
+- [[167-mowu-loyal-companion]] — Yanggu's canine companion Mowu has his own WAR card (a multi-tailed reddish-brown guardian in mid-battle), with Yanggu himself depicted in the background as the small green-cloaked archer; Mowu's flavor text names Yanggu directly. Same set, designer-coordinated companion pair across two prints. The small spirit-dog at Yanggu's side in this art is the same Mowu, here in his more familiar small-companion form. [Scryfall: WAR-164] [Scryfall: WAR-167 flavor text] [MTG Wiki: Jiang Yanggu — Mowu]
+
