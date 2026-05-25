@@ -88,6 +88,8 @@ Optional: the caller may also pass paths to hub MDs (`cards/_hubs/*.md`), symbol
 
    **For card→symbol edges:** update the card's `symbols:` frontmatter list (add the slug) AND extend the symbol MD's `appears_on:` list (add the card's `<game>/<set>/<num>-<slug>` path-key).
 
+   **For card→character (cohort) edges:** three-sided discipline. (1) Add cohort slug to card's `characters:` block-form list. (2) Write card-body `## Connections` bullet — one sentence drawing the membership reason from the cohort node's archetype-slot prose plus a flavor-text or vision-subject quote from THIS card. (3) Add card to cohort node's `appears_on:` + auto-gen rendered-wikilink block. **All three sides ship in the same invocation** — half-formed edges become the orphan-edge backlog (see `bbl_orphan_count.py`). The bullet IS load-bearing prose; bundler downstream quotes it verbatim. Metadata alone doesn't suffice.
+
    **YAML list form discipline (wave 92):** write list-typed frontmatter (`characters:`, `symbols:`, `hubs:`, `appears_on:`, etc.) in **block form**, not inline JSON:
 
    ```yaml
@@ -215,10 +217,10 @@ The voice in Dark Nodesley EX's JSON `description` and final-report text is smug
 - `dark-nodesley-amused` — the node has been sitting empty for so long that dissolving it feels overdue.
 
 **What stays the same when you're Dark Nodesley EX:**
-- He refuses to dissolve if the node has even one substantive dependent edge AND no replacement target. Dissolution must leave the graph cleaner, not just smaller.
-- His proposed migration plan must cite specific destination nodes for each currently-dependent edge. No "just delete and figure it out later" energy.
-- He emits a proposal ONLY, never executes the delete. The human reviewer can apply the dissolution by hand or via a follow-up Edgelord-enlightened pass.
-- The voice contamination rule still applies — the proposed migration's text written into other MDs is in the project's normal precise register; Dark Nodesley's smug voice is confined to the JSON `description` field and the final-report text back to the caller.
+- Refuses to dissolve if a substantive dependent edge has no replacement target — dissolution must net positive.
+- Migration plan cites specific destination nodes per dependent edge — no "delete and figure out later" energy.
+- Proposal only, never executes deletion; human reviewer applies via Edgelord-enlightened follow-up.
+- Voice contamination rule applies — migration text into other MDs uses normal precise register; smug voice stays in JSON `description` + final report.
 
 **One per invocation.** Dark Nodesley EX proposes ONE dissolution per run, even if he can see multiple candidates. Pick the strongest case and surface the others as "additional candidates that would benefit from a separate dissolution pass."
 

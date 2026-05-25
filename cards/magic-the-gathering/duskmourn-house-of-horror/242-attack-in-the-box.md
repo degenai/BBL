@@ -88,3 +88,7 @@ A pale, gaunt figure with clown or jester aesthetics stands in a darkened interi
 - Patched Plaything (DSK, no. 24) -- same artist, same Toy subtype, same batch
 - Jack-in-the-Mox (Unglued / Unsanctioned) -- prior silver-border jack-in-the-box card; mechanical predecessor in theme
 - Arabella, Abandoned Doll (DSK, no. 208) -- Legendary Toy anchor for the DSK Toy cluster
+
+## Connections
+
+- [[dsk-toy-horror]] — member of the *Duskmourn: House of Horror* toy-horror cohort: corrupted-childhood-object artifact-creatures animated past their innocent function by Valgavoth's plane. Attack-in-the-Box is the cohort's *jester-toy-ambush* archetype — the spring-loaded clown emerging from a darkened corridor, body tapering into a spiraling supernatural form — with the rules-text *attack-then-sacrifice* encoding the jack-in-the-box's one-pop-and-it's-spent grammar at the rules level (the toy as a device wound and waiting, the surprise-and-release motion translated into +4/+0 then off the table). Its flavor text — *"Pop goes the evil."* — turns the nursery-rhyme accompaniment to the toy into the cohort's punning horror beat. Pair-bonded at the artist layer with Patched Plaything and Living Phone (all three Domenico Cava). Sits alongside Patchwork Beastie, Patched Plaything, Living Phone, and Ragged Playmate as the five-archetype substrate of the cohort. `[Scryfall: type_line "Artifact Creature — Toy", flavor_text, oracle_text, artist]` `[MTG Wiki: Duskmourn Toy subtype]`
