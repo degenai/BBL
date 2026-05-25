@@ -310,58 +310,93 @@ The pattern: **writers get the keys to wikilintbot; watchers do not.** csv2mdbot
 
 ---
 
-## Status snapshot (2026-05-22)
+## Status snapshot (2026-05-25)
 
-- **2,704** active card MDs · **2,136 vision-passed** (79%) · **1,055 trivia-passed** (39%).
-  - MTG: **1,087 / 1,287** vision (85%) · **463** trivia (36%) — trivia is the active frontier
-  - Pokemon: **655 / 887** vision (74%) · **239** trivia — both vision and trivia have runway
+- **2,860** active card MDs · **2,386 vision-passed** (83%, by `## Vision` body section) · **1,220 trivia-passed** (43%).
+  - MTG: **1,310 cards** · **1,172 vision** (89%) · **623 trivia** (48%) — trivia frontier still live
+  - Pokemon: **1,020 cards** · **808 vision** (79%) · **244 trivia** — both vision and trivia have runway
   - DBS: **241 / 241** vision · **241** trivia — 100%, the finished game
-  - Final Fantasy TCG: **60 / 64** vision · **60** trivia — near-complete
+  - Final Fantasy TCG: **64 / 64** vision · **60** trivia — vision-complete
   - Lorcana: **40 / 40** vision · **40** trivia — 100% complete
-  - Weiss-Schwarz: **53 / 156** vision (34%) · **12** trivia — early
+  - Weiss-Schwarz: **61 / 156** vision (39%) · **12** trivia — early
   - Force of Will: **29** prepped, **0** enriched — not yet scanned, low priority
-- **Active enrichment frontier:** MTG trivia (624 cards vision-passed without trivia) and Pokemon (232 await vision, 416 await trivia). Recent cadence: 5 vision + 5 trivia + 1 Edgelord per wave.
-- **Character nodes: 102** · **Symbol nodes: 9** · **Artist nodes: 11**.
-- **Foundational hubs: 5** — labor, rebellion, stewardship, chinese-zodiac, **tsukumogami** (new this session). `_triple-thesis.md` is a meta-doc (root crystal), not a hub.
+- **Active enrichment frontier:** still MTG trivia (~550 vision-passed without trivia after this session's vision-only growth) and Pokemon (~210 await vision, ~575 await trivia). Recent cadence: 5 vision + 5 trivia + 1 Edgelord per wave (waves 184–193 this session).
+- **Character nodes: 110** · **Symbol nodes: 10** (energy-counter added) · **Artist nodes: 12** (Richard Kane Ferguson added) · **Hubs: 6** (labor, rebellion, stewardship, chinese-zodiac, tsukumogami, `_triple-thesis.md` meta-doc).
 - **Discrete Lairs shipped:** 1 — **Discrete Lair 001: Tithe**.
-- **Subagents shipped:** **5** — `bbl-researcher`, `bbl-triviabot`, `bbl-edgelord` (with Mr. Nodeley + DARK NODESLEY EX alters), `bbl-nurse-joy-md`, `bbl-bundler` (half-strength).
-- **Model assignment:** Sonnet 4.6 for routine extraction (vision, trivia, triage, bundler); Opus 4.7 for Edgelord.
+- **Subagents shipped:** **5** — `bbl-researcher`, `bbl-triviabot` (extended this session with **orphan-mirror task profile** under Opus override), `bbl-edgelord` (with Mr. Nodeley + DARK NODESLEY EX alters; **3-sided edge discipline encoded this session**), `bbl-nurse-joy-md`, `bbl-bundler` (half-strength).
+- **The Orphanage — new this session (2026-05-25):** corpus-wide one-sided cohort-edge cleanup architecture. `bbl_orphan_count.py` is the manifest+richness-tier counter. **481 of 556 orphans closed across 8 sweeps + pilot + 2 augments — 86%.** 70 cohorts fully wired; 75 remaining across ~30 long-tail cohorts at 1-2 orphans each.
+- **Model assignment:** Sonnet 4.6 default; Opus 4.7 for Edgelord AND for triviabot `task: orphan-mirror` (high-stakes prose-mirror work where hallucination cost is asymmetric).
 - **Bundles are destructive on graph (wave 81 P3 decision)** — no card-level `anchored_cards` / `thesis_cards` fields on hubs; only `anchored_lairs` (bundle-tier) survives inventory churn. Hubs stay card-edge-disconnected by design.
-- **`.gitattributes` added (this session)** — pins text files to LF; silences Windows `core.autocrlf` warnings. Wave cleanup now CRLF→LF normalizes + strips trailing blank lines on touched cards before commit.
-- **DeepSeek vision verdict:** still NOT in public API as of last check. Watch signal: chat.deepseek.com beta-tag drop.
+- **DeepSeek vision verdict:** still NOT in public API. Watch signal: chat.deepseek.com beta-tag drop.
 
 ### For the next session — pass-the-ball brief
 
 **Pick up here without reconstructing anything from git log.**
 
-**1. Working tree is clean.** Everything through wave 164 + the tsukumogami hub is committed (last commit `fa9f6797`). No uncommitted work to recover. Note: this handoff section had drifted ~80 waves stale before this update — waves 86-157 were never captured here and aren't worth reconstructing; the snapshot above is current.
+**1. Working tree is clean.** Everything through Orphanage sweep #8 is committed (last commit `1b964a01`). Substantial session — built architecture, ran 8 sweep waves, closed 481 orphans, plus 10 normal enrichment waves (184-193).
 
-**2. Active frontier: MTG trivia.** 624 MTG cards are vision-passed without trivia. Dispatch batched trivia (1 agent / N cards sequential) from `python bbl_trivia_queue.py`. Pokemon is the secondary frontier — 232 await vision (`python bbl_queue.py`), 416 await trivia.
+**2. Two active frontiers, pick one:**
+- **Finish the Orphanage (75 remaining)** — small cohorts (1-2 orphans each, ~30 cohorts). 1-2 more sweep waves drains to ~30 (acceptable steady-state). Dispatch via `python bbl_orphan_count.py --manifest`; pattern is locked, just batch by cohort. Will hit two known cohort-augment edge cases when their cards come up.
+- **Resume normal enrichment** — MTG trivia is still the biggest frontier (~550 cards vision-passed but no trivia). Pokemon needs ~210 more vision + ~575 more trivia. Cadence: 5 vision + 5 trivia + 1 Edgelord per wave per `bbl-agent-batching-pattern`.
 
-**3. Wave shape that worked this session:** 5 vision (one batched `bbl-researcher`) + 5 trivia (one batched `bbl-triviabot`) + 1 `bbl-edgelord` — dispatch vision+trivia in parallel, then Edgelord. Per-wave cleanup before commit: CRLF→LF normalize + strip trailing blank lines on every touched card.
+**3. Three pending tasks in the task list** (use TaskList to see):
+- **#10 broken pointer `vivi-ornitier`** — `cards/final-fantasy-tcg/opus-viii/8-016h-vivi.md` points at non-existent cohort. Edgelord judgment: create the node OR remove the pointer.
+- **#12 son-gohan augment** — BT2-075 Supreme DNA Son Gohan refused by orphan-mirror because cohort has no Childhood / Android-Cell Saga base-form aspect slot. Mirror of the Trunks BT4-023 augment done wave 194. Augment cohort body OR remove the pointer.
+- **#9 long-tail sweep** — in_progress; 75 orphans across ~30 cohorts left to drain.
 
-**4. The tsukumogami hub shipped this session** (`cards/_hubs/tsukumogami.md`) — BBL's 5th foundational hub, designed across an RPC council session. Routes hub → cohort (`tsukumogami-pokemon`, `dsk-toy-horror`) → card, never hub → card. Open thread: an Eldraine fairy-tale-animate-object cohort node is the natural future 3rd routing target (Sorcerer's Broom, Inquisitive Puppet, Clockwork Servant, Gingerbrute are already in corpus).
+**4. Orphan-mirror architecture is the load-bearing new artifact**:
+- `bbl_orphan_count.py` — corpus scanner with richness-tier gating. `--cohort foo` / `--tier high` / `--manifest` / `--json`.
+- `.claude/agents/bbl-triviabot.md` has the `## Task profile: orphan-mirror` section at the end. Dispatch with `model: opus` explicitly. Includes "EXPLICIT NON-REFUSAL CONDITION" paragraph that was the spec-sharpening fix in sweep #3 — agents previously misread "frontmatter wired" as "no work needed"; that's now a explicit non-refusal.
+- `.claude/agents/bbl-edgelord.md` step 6 now has "For card→character (cohort) edges" pattern with three-sided discipline (frontmatter + body bullet + cohort `appears_on`). Prevents new orphans accruing from this wave forward.
+- **Cadence going forward:** every ~10 normal enrichment waves, swap one for an orphan-sweep wave (or finish the Orphanage in one push next session — 75 is small).
 
 **5. Open triage items (`reports/janitor_triage.md`):**
-- **Duskmourn `mana_cost` set-wide sweep** — CONFIRMED systemic (`needs-sweep`); route to a `bbl-nurse-joy-md` diagnosis for a full DSK backfill.
-- **fear-of-cycle node-body refresh** — denominator needs 14→20 (Alex resolved scope: the whole Duskmourn family, DSK + DSC); 6 roster rows to add.
-- **DSK-98 Fear of the Dark** — rarity contradiction (card says `C`, node says rare); verify-then-correct.
-- **~22 one-sided cohort edges** — Pokemon cards with a `characters:` pointer but no `## Connections` back-edge; candidate for a mechanized sweep.
+- **`vision-passed` tag drift (NEW this session)** — corpus has 2,386 cards with `## Vision` body section but only 1,670 with `vision-passed` tag. ~716-card discrepancy. Triage needed: tag-add sweep OR audit which-came-first. Not blocking; both signals point at the same cards mostly. The `## Vision` body count is canonical.
+- **Duskmourn `mana_cost` set-wide sweep** — CONFIRMED systemic; route to `bbl-nurse-joy-md` for full DSK backfill.
+- **fear-of-cycle node-body refresh** — denominator needs 14→20 (whole Duskmourn family, DSK + DSC); 6 roster rows to add.
+- **DSK-98 Fear of the Dark** — rarity contradiction (card says `C`, node says rare).
+- **Trunks cohort augment task** — DONE this session (task #11 closed).
+- **Janitor triage line 81** — was 22 → 87 → 504 → now 75 (Orphanage burned it down 86%).
 - **elemental-monkey-trio** — Takao Unno designer-attribution conflict, needs a primary source.
 
-**6. Process notes:** the caveman SessionStart hook may show a badge — caveman is RETIRED for BBL (memory `bbl-caveman-novelty-only`); work in normal mode. The RPC council (`~/.claude/wiki/nodes/RPC.md`) is a protocol Alex runs — ideological-lens roster (Žižek, Christman, McKenna, Parenti…), not the BBL agent-personas.
+**6. Process notes:**
+- Caveman SessionStart hook may fire — RETIRED for BBL per `bbl-caveman-novelty-only`; work in normal mode.
+- RPC council (`~/.claude/wiki/nodes/RPC.md`) is a protocol Alex runs — ideological lenses (Žižek, Christman, McKenna, Parenti…), not BBL agent-personas.
+- Pre-commit recap discipline holds — recap in conversation BEFORE commit, get greenlight, then push.
+- Per-cohort batch review on orphan-mirror works well: spot-check 3-4 bullets per batch against discipline (real archetype slot, verbatim flavor quote, cohort-body-grounded). Sweep #5-8 hit 0 retries / 0 refusals once spec was sharp.
 
-**7. Future onboards (deferred):** Sorcery: Contested Realm sits above Force of Will in priority — neither corpus is scanned. FoW has 29 prep stubs; Sorcery has 0.
+**7. Future onboards (deferred):** Sorcery: Contested Realm > Force of Will. Neither corpus is scanned. FoW has 29 prep stubs; Sorcery has 0.
 
 ### The most important rules locked into project memory
 
-These live in `~/.claude/projects/C--Users-alexa-Desktop-Bulk-Graph-Bundler/memory/` and the next Claude instance pulls them automatically. Locked-in rules to scan: vision queue 3-prong check, broad-net tags_hub (8-12 broad tags, no coined compounds), color-magic is filter-tier, singular/plural intentional (Phase-9 janitor work), anti-confab principles, bundles are narrative-first, hubs are hand-curated, bundle pricing codified, no em dash in buyer-facing copy, verify API capability by calling the API, caveman mode is novelty only, bundles are destructive on graph (wave 81), single-batch vision agent (wave 81 revision).
+These live in `~/.claude/projects/C--Users-alexa-Desktop-Bulk-Graph-Bundler/memory/` and the next Claude instance pulls them automatically. Locked-in rules to scan: vision queue 3-prong check, broad-net tags_hub (8-12 broad tags, no coined compounds), color-magic is filter-tier, singular/plural intentional (Phase-9 janitor work), anti-confab principles, bundles are narrative-first, hubs are hand-curated, bundle pricing codified, no em dash in buyer-facing copy, verify API capability by calling the API, caveman mode is novelty only, bundles are destructive on graph (wave 81), single-batch vision agent (wave 81 revision), commit-msg temp-file trap, yaml flatten quote wrap.
 
-### What changed this session (waves 158-164 + tsukumogami hub, 2026-05-21 to 2026-05-22)
+### What changed this session (waves 184–193 + Orphanage architecture + 8 sweep waves, 2026-05-24 to 2026-05-25)
 
-- **Waves 158-159** — recovered after a power-loss session interruption: 10 vision + 10 trivia + 2 Edgelord edges (drilbur-line back-edge completion, simisage cohort-attach).
-- **Waves 160-164** — 25 vision + 25 trivia across the run. New Mr. Nodeley nodes: `breloom-line`, `mudbray-line`. Edge: Living Phone → `dsk-toy-horror` cohort-attach. One receipted Edgelord refusal (wave 161). `fear-of-cycle` node-prose sync (wave 163).
-- **`.gitattributes` added** — pins text to LF, silences Windows autocrlf warnings; CRLF→LF normalization folded into per-wave cleanup.
-- **tsukumogami hub authored** — BBL's 5th foundational hub, developed from a Living-Phone-meets-Rotom hunch through a full RPC council session into a sourced cross-IP concept-hub. True/conventional tsukumogami (Sinistea, Voltorb, Honedge line) vs. tsukumogami-adjacent (modern animate objects; externally-possessed Western-horror objects). Routing wired into the `tsukumogami-pokemon` and `dsk-toy-horror` cohort nodes.
-- **Sketchbook:** "The pigeon and the pidgey" — the capturability ontology from the council session, logged as margin-thinking, deliberately not the hub's thesis.
-- **Triage:** Duskmourn `mana_cost` gap escalated to confirmed-systemic (`needs-sweep`); fear-of-cycle cycle-scope resolved (denominator 20, whole Duskmourn family); DSK-98 rarity contradiction logged.
+**Normal enrichment (waves 184–193, 10 waves):**
+- ~50 vision + ~50 trivia across the run. New character node: `richard-kane-ferguson` artist node (closed wave-39 staged trigger via Wither and Bloom MH3-111 third credit). New symbol node: `energy-counter` (renamed from `energy` for mechanic-faithful disambiguation; legacy alias retained).
+- Vision flagged + triviabot verified multiple IP cards (Mowu, Tamiyo, Davriel, Rellor, Pineco, Maushold, Cottonee, Ludicolo, Gliscor) and refuted others (Marchesa-agent-not-Marchesa, Witherbloom-mage-not-Dina, Mira-not-Goku-fires-Dark-Kamehameha).
+- Edgelord ran 1:1 mirrors, cohort attaches, and 1 wave-16-stale-flag cleanup (Honor the God-Pharaoh → nicol-bolas with frontmatter cascade).
+- Nurse Joy ran a DSK mana_cost diagnosis; 9 cards backfilled via scratch script.
+
+**Critical bug fixes this session:**
+- **YAML quote-wrap bug** — `researchbot._flatten_for_frontmatter()` was JSON-escaping value content without an outer YAML quote wrap, producing malformed `flavor_text: \"X\"` lines. Source-fixed + 431-card corpus sweep applied. Memory `bbl-yaml-flatten-quote-wrap` saved.
+- **Commit-msg temp-file trap** — `git add -A` was staging in-tree scratch files before `rm` fired; 2 cleanup commits + `*.tmp` gitignore + memory `bbl-commit-msg-temp-file-trap`.
+- **`update_frontmatter_field` BLOCK_LIST_FIELDS bug recurrence** — 88-card sweep (was 25 first time); source-fixed.
+- **parse_frontmatter quote-stripping bug** — fixed in 3 copies (researchbot, bbl_queue, csv2mdbot).
+- **Prep starvation pattern** — `DEFAULT_LIMIT = None` + `has_ref` priority in sort key; bulk-1-of-each new cards no longer starved.
+
+**Orphanage architecture (built + executed this session):**
+- `bbl_orphan_count.py` — Python orchestrator with per-cohort richness assessment.
+- `bbl-triviabot` extended with `task: orphan-mirror` profile (Opus override, no web research, per-card refusal allowed, EXPLICIT NON-REFUSAL CONDITION).
+- `bbl-edgelord` step 6 extended with "For card→character (cohort) edges" three-sided discipline (prevents new orphans).
+- **8 sweep waves + pilot + 2 augments:** dsk-toy-horror pilot (3), sweep #1 son-goku (29+3 cross), Trunks augment (2), sweep #2 (4 cohorts/68), sweep #3 (6 cohorts/71 with spec-sharpening retry mid-sweep), sweep #4 (5 cohorts/45 + 1 refusal triggered son-gohan augment task), sweep #5 (10 cohorts/62), sweep #6 (13 cohorts/66), sweep #7 (15 cohorts/60), sweep #8 (15 cohorts/50). **Cumulative: 556 → 75 orphans (86% closed).**
+- **2 cohort-augment edge cases surfaced honestly via refusal mode:**
+  - Trunks BT4-023 Iron Vow → Wrath-of-the-Dragon film-canon archetype slot (RESOLVED).
+  - Son-Gohan BT2-075 Supreme DNA → Childhood / Android-Cell Saga base-form slot (PENDING — task #12).
+- **1 broken pointer surfaced:** `8-016h-vivi → vivi-ornitier` (PENDING — task #10).
+
+**Other graph-shape work:**
+- Tsukumogami hub authored last session (carried into this snapshot for continuity).
+- 200+ spurious schema-citation wikilinks corrected via sweep (evolution-line cluster).
+- Memory saves: `bbl-yaml-flatten-quote-wrap`, `bbl-commit-msg-temp-file-trap`, plus session-handoff state.
