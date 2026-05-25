@@ -1,0 +1,46 @@
+{
+  "edge_id": "ragged-playmate-dsk150--dsk-toy-horror--orphan-edge-completion",
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/duskmourn-house-of-horror/150-ragged-playmate.md",
+      "name": "Ragged Playmate (DSK-150)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/dsk-toy-horror.md",
+      "name": "Toy horror cohort (Duskmourn corrupted-childhood artifact-creatures)"
+    }
+  ],
+  "description": "Orphan-edge completion. Card carried `characters: [dsk-toy-horror]` frontmatter pointer + the node's `appears_on:` already listed the card + the node body already had a substantive Ragged-Playmate paragraph (line 47) — but the card body had no `## Connections` back-edge, so the mirror was one-sided. Wrote the back-edge bullet drawing language from the node's own *ragdoll-revenant / abandonment-survivor* framing, the flavor-text Henry quote, and the five-archetype substrate roster. Worst orphan-edge ever was the 504-card pile this came from. This is one. Five hundred and three to go. The triage entry estimated 87; actual sweep finds 504. Worth surfacing.",
+  "citations": [
+    "[Scryfall: type_line \"Artifact Creature — Toy\", flavor_text on DSK-150]",
+    "[MTG Wiki: Duskmourn House of Horror — Toy subtype]",
+    "[Mark Rosewater: Top of the Duskmourning Pt 1/2 — cursed-toy register]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/150-ragged-playmate.md"
+  ],
+  "edges_added": [
+    {
+      "from": "cards/magic-the-gathering/duskmourn-house-of-horror/150-ragged-playmate.md",
+      "to": "cards/_characters/dsk-toy-horror.md",
+      "form": "## Connections bullet (card -> character node)"
+    }
+  ],
+  "edges_removed": [],
+  "edgelord_mood": "blueballed-by-fanout",
+  "other_candidates_considered": [
+    "104-killer-s-mask -> symbols/manifest-dread (also git-modified, also orphan back-edge); deferred — could be picked next invocation",
+    "109-miasma-demon, 114-popular-egotist, 117-sporogenic-infection, 167-anthropede — git-modified DSK cards, but none carry layer-node frontmatter pointers yet, so no orphan-edge to complete",
+    "503 other corpus-wide one-sided cohort edges per the wave-191 sweep count"
+  ],
+  "next_pass_suggestions": [
+    "Triage entry line 81 needs UPDATE: 'estimated ~87, actual sweep 2026-05-24 finds 504' — the discrepancy is large enough that the 'mechanized sweep wave' recommendation now reads as urgent rather than optional. A scripted sweep that auto-writes the card-side `## Connections` bullet using each node body's matching paragraph would burn down 504 cards in one pass; per-Edgelord-wave rate would take ~500 invocations.",
+    "Sibling completion targets in same cohort: 20-living-phone, 195-patchwork-beastie, 24-patched-plaything, 242-attack-in-the-box — all four sibling Toys carry `characters: [dsk-toy-horror]` and likely lack `## Connections`. A `dsk-toy-horror`-scoped batch (5 mirror completions in one shot) would close the cohort cleanly and serve as a tight pilot for the sweep-wave template.",
+    "104-killer-s-mask -> symbols/manifest-dread is the orthogonal one this wave touched (vision/trivia git-mod) — would resolve a symbol-layer back-edge rather than character-layer."
+  ]
+}

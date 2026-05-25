@@ -1,0 +1,41 @@
+{
+  "card_name": "Pineco",
+  "game": "Pokemon",
+  "set": "Paldea Evolved",
+  "collector_number": "004/193",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The official Pokemon TCG card database confirms this is card 004/193 from SV02: Paldea Evolved, depicting Pineco, illustrated by Kouki Saitou. The card name, Grass-type, and attack (Rollout for GrassGrass, 30 damage) match the official Pokemon.com TCG listing. Pineco is Pokedex no. 204, a Generation II Pokemon (Nintendo/Game Freak IP). No external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Pineco is National Pokedex no. 204, a Bug-type introduced in Generation II (Pokemon Gold and Silver, 1999). It is the Bagworm Pokemon, native to Johto's forests, and evolves into Forretress (Bug/Steel) at level 31. Its appearance in SV02: Paldea Evolved (2023) marks a Johto-era Pokemon being reintroduced in the Scarlet and Violet era, where Pineco is accessible in the Paldea region. [Serebii.net Pokedex: Pineco no. 204] [Pokemon.com TCG database: sv02/4]",
+      "sources": ["Serebii.net: Pineco no. 204", "Pokemon.com TCG database: sv02/4"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim): 'It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.' This directly encodes Pineco's Pokedex behavior: it glues tree bark to its body using hardening fluid it spits out, building defensive armor incrementally. The shell's function is camouflage in forest environments and protection against bird Pokemon. [Card frontmatter flavor_text, cross-referenced with Bulbapedia: Pineco via WebSearch snippet]",
+      "sources": ["Card frontmatter flavor_text", "Bulbapedia: Pineco, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Pineco's design is based on a bagworm — the larval form of moths in the family Psychidae that construct portable protective cases from twigs, bark, and plant matter. Forretress, its evolution, upgrades this to a steel-armored fortress form. Both are classified as the Bagworm Pokemon in the Pokedex. Notably, Pineco is typically immobile while feeding but will drop from its branch and explode if disturbed — a defense mechanism that carries into its competitive use of the move Self-Destruct. [Bulbapedia: Pineco, via WebSearch snippet] [Pokémon Database: Pineco]",
+      "sources": ["Bulbapedia: Pineco, via WebSearch snippet", "Pokemon Database: Pineco"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Paldea Evolved card has a single attack: Rollout (GrassGrass, 30 damage) — straightforward and low-powered, typical of Basic stage evolution-line commons. The card's value in the TCG is primarily as an evolution enabler toward Forretress rather than as a standalone attacker. Pineco appears in multiple other TCG sets across generations. [Card frontmatter oracle_text] [Serebii.net Kouki Saitou artist listing]",
+      "sources": ["Card frontmatter oracle_text", "Serebii.net: Kouki Saitou artist cards"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Forretress", "set": "various", "note": "Direct evolution of Pineco — Bug/Steel type, Pokedex no. 205; line cohort candidate"},
+    {"name": "Wormadam", "set": "various", "note": "Shares the Bagworm Pokemon category with Pineco and Forretress per Pokedex classification"},
+    {"name": "Burmy", "set": "various", "note": "Also shares the Bagworm category; parallel design lineage"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Pineco",
+    "ip_confidence": "high"
+  }
+}

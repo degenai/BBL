@@ -1,0 +1,41 @@
+{
+  "card_name": "Snarespinner",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "176",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Snarespinner is set on Ravnica — the gothic city plane that serves as War of the Spark's battlefield. The flavor text speaker is Aurelia, the angel guildmaster of the Boros Legion, who was in the vanguard of forces fighting Bolas during the war. The Samok Stand referenced in the flavor text is a Ravnican location (a district or fortified position) where Aurelia orders her troops to use existing spider webs as trap infrastructure against Bolas's flying Dreadhorde drakes — an improvised urban defense tactic. [Scryfall flavor_text] [MTG Wiki: Aurelia, via WebSearch snippet]",
+      "sources": ["Scryfall", "MTG Wiki: Aurelia"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim): '\"Let\\'s lure the drakes to the webs over the Samok Stand. Keep the spiders content.\" —Aurelia'. Aurelia is the current guildmaster of the Boros Legion, characterized by a close relationship with ordinary soldiers and a pragmatic view of justice. The detail 'keep the spiders content' treats the spider as a willing participant in Ravnica's defense — a mutually beneficial arrangement that fits Ravnica's ecological complexity. [Scryfall flavor_text] [MTG Wiki: Aurelia]",
+      "sources": ["Scryfall", "MTG Wiki: Aurelia"]
+    },
+    {
+      "category": "design",
+      "text": "Snarespinner was reprinted in Core Set 2021 (M21, card 207) with the same Yeong-Hao Han illustration. The reprint is notable: a War of the Spark common finding a home in a core set confirms the design team considered the card a clean template for green creature-based aerial defense. Legal in Pauper, Modern, Pioneer, Legacy, Commander, and Timeless Lore format. EDHREC rank 14848. [Scryfall prints_search, confirmed M21 reprint via WebSearch]",
+      "sources": ["Scryfall", "MTGSalvation: M21 card listing"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, Snarespinner is a 1/3 Reach spider for {1}{G} that grows to a 3/3 when blocking a flying creature — well above the vanilla rate for a two-mana green creature. In War of the Spark limited it was a solid anti-air option against the set's numerous flying creatures, including the Dreadhorde's flying threats. [Scryfall oracle_text]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Aurelia, Exemplar of Justice", "set": "Guilds of Ravnica", "note": "The flavor text speaker — her character card from the same Ravnica era"},
+    {"name": "Swarm Shambler", "set": "Zendikar Rising", "note": "Another green common reach creature for comparison in the same design era"},
+    {"name": "God-Eternal Kefnet", "set": "War of the Spark", "note": "One of the flying Dreadhorde threats Snarespinner was designed to answer in WAR limited"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

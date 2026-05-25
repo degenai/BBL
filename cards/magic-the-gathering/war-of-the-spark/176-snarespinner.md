@@ -74,3 +74,15 @@ The spider occupies the upper-center of the composition, suspended in a large el
 **Iconography:** spider-web, gothic-spires
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **Set / lore context** — War of the Spark is set on Ravnica, a city-plane whose gothic architecture and dense urban ecology provide the backdrop. Flavor text speaker Aurelia is the angel guildmaster of the Boros Legion and was in the vanguard of the forces fighting Bolas during the war. The Samok Stand referenced is a Ravnican location where she orders her troops to use existing spider webs as trap infrastructure against the Dreadhorde's flying drakes — improvised urban defense. `[Scryfall flavor_text]` `[MTG Wiki: Aurelia, via WebSearch snippet]`
+- **Flavor text** — "\"Let's lure the drakes to the webs over the Samok Stand. Keep the spiders content.\" —Aurelia." The phrase 'keep the spiders content' treats the spider as a cooperative party in Ravnica's defense — a mutually beneficial arrangement that reflects Ravnica's ecological complexity and Aurelia's pragmatic leadership style. `[Scryfall flavor_text]`
+- **Design / reprint** — Snarespinner was reprinted in Core Set 2021 (M21, card no. 207) with the same Yeong-Hao Han illustration. A WAR common finding a second printing in a core set confirms the template was considered clean enough to stand alone outside the narrative context. Legal in Pauper, Modern, Pioneer, Legacy, Commander, and Timeless Lore. EDHREC rank 14848. `[Scryfall prints data]` `[MTGSalvation: M21 card listing, via WebSearch snippet]`
+- **Mechanical profile** — 1/3 Reach for {1}{G}; grows to 3/3 when blocking a flying creature. Efficiently above rate for two mana in green, with built-in anti-air relevance in any flying-heavy environment. In WAR limited, a reliable answer to the set's numerous Dreadhorde flying threats. Art by Yeong-Hao Han. `[Scryfall oracle_text]`
+
+### Related cards
+- Aurelia, Exemplar of Justice (Guilds of Ravnica) — the flavor text speaker; her character card from the same Ravnica era
+- Snarespinner (Core Set 2021, no. 207) — reprint with identical art by Yeong-Hao Han
+- God-Eternal Kefnet (War of the Spark) — example of the flying Dreadhorde threats this card's Reach mechanic was designed to contest in WAR limited
+

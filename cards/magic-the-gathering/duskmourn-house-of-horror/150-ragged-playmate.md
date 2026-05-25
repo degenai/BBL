@@ -91,3 +91,7 @@ At center frame stands a roughly humanoid ragdoll figure, clearly constructed of
 - Arabella, Abandoned Doll (DSK, 208) — the primary Toy commander; Ragged Playmate appears in ~48% of Arabella decks
 - Twitching Doll (DSK) — fellow DSK Toy creature; mana-dork and token-producer in the Toy archetype
 - Piggy Bank (DSK) — fellow DSK Toy creature; Treasure-producing Toy
+
+## Connections
+
+- [[dsk-toy-horror]] — member of the *Duskmourn: House of Horror* toy-horror cohort: corrupted-childhood-object artifact-creatures animated past their innocent function by Valgavoth's plane. Ragged Playmate is the cohort's *ragdoll-revenant / abandonment-survivor* archetype — the doll the owner failed to throw away, the doll that came back — stated in the flavor text *"You tried to throw me away, Henry. I don't like that at all."* and visually completed by the pale reaching hand at the foreground. Sits alongside Patched Plaything, Patchwork Beastie, Attack-in-the-Box, and Living Phone as the five-archetype substrate of the cohort. `[Scryfall: type_line "Artifact Creature — Toy", flavor_text]` `[MTG Wiki: Duskmourn Toy subtype]`

@@ -1,0 +1,42 @@
+{
+  "card_name": "Lazotep Behemoth",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "95",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Lazotep is a blue mineral native to the plane of Amonkhet, used by Nicol Bolas to eternalize the dead — coating corpses in layers of the mineral to produce the Dreadhorde, undead warriors whose lifeforce and deeds are preserved in the lazotep shell. The Behemoth is a lazotep-coated zombie hippopotamus, part of the Dreadhorde army Bolas transferred to Ravnica via the Planar Bridge for the War of the Spark. [MTG Salvation: The World of Amonkhet, via WebSearch snippet] [Scryfall type_line: Zombie Hippo]",
+      "sources": ["MTG Salvation: The World of Amonkhet", "Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim): '\"I know I should be more concerned. But a big, blue zombie-potamus from beyond the stars? This is what they\\'re invading us with?\" —Mileva, Boros legionnaire'. Mileva is a named Boros soldier whose disbelieving wit in the face of an otherworldly hippo-zombie reads as black humor from a soldier who has seen everything — a tonal counterpoint to the card's threatening stat line (5/4 for five mana). [Scryfall flavor_text field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Lazotep Behemoth is a vanilla 5/4 for {4}{B} — no abilities beyond its stat line. Its EDHREC rank of 27582 reflects its status as a bulk vanilla common; it sees essentially no Commander play. In the War of the Spark limited environment it was a reasonable curve-topper for black aggro/midrange but offered no special mechanics. Art by Zezhou Chen. [Scryfall EDHREC rank]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The creature type Zombie Hippo is one of the more unusual tribal combos in Magic — hippos are natively a green creature type (see Pygmy Hippo, River Hippo) but this card puts the Zombie subtype first, signaling that the lazotep zombification overrides the creature's original alignment. The visual result — a cobalt-blue armored behemoth — underscores that the animal's origin is unrecognizable under Bolas's death-mineral. [Scryfall type_line]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Liliana's Triumph", "set": "War of the Spark", "note": "Same set; features Liliana commanding the Dreadhorde — the army Lazotep Behemoth is part of"},
+    {"name": "God-Eternal Bontu", "set": "War of the Spark", "note": "Another eternalized Amonkhet creature in the same set; shows the range of lazotep-coated horrors"},
+    {"name": "River Hippo", "set": "Portal", "note": "Baseline green Hippo creature for comparison — shows how Zombie typing displaces green identity"},
+    {"name": "Lazotep Plating", "set": "War of the Spark", "note": "The mineral itself appears as a spell in the same set, giving the material mechanical identity"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

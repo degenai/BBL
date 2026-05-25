@@ -1,0 +1,40 @@
+{
+  "card_name": "Rellor",
+  "game": "Pokemon",
+  "set": "Destined Rivals",
+  "collector_number": "024/182",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The official Pokemon TCG card database confirms this is card 024/182 from SV10: Destined Rivals, depicting Rellor, illustrated by Toshinao Aoki. The card name, HP (40), Grass-type, and attacks (Collect/Rollout) match the official Pokemon.com TCG card database listing. No ambiguity — Rellor is Wizards-internal equivalent (Nintendo/Game Freak IP); no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rellor is National Pokedex no. 953, a Bug-type introduced in Generation IX (Pokemon Scarlet and Violet, 2022). It is found exclusively in the Asado Desert of the Paldea region. This card appears in SV10: Destined Rivals, a Scarlet and Violet era expansion (2025). [Serebii.net Pokedex: Rellor no. 953] [Pokemon.com TCG database: sv10/24]",
+      "sources": ["Serebii.net: Rellor no. 953", "Pokemon.com TCG database: sv10/24"]
+    },
+    {
+      "category": "design",
+      "text": "Rellor's design draws from the sacred scarab beetle of ancient Egyptian mythology. The scarab's rolling of dung was seen by ancient Egyptians as mirroring the god Ra's movement of the sun across the sky; the god Khepri, depicted with a scarab head, represented rebirth and the morning sun. Rellor's mud ball is infused with psychic energy that matures toward evolution — a direct encoding of the scarab-as-rebirth symbol. [PokéJungle: Rellor and Rabsca — Origin of Species]",
+      "sources": ["PokéJungle: Rellor and Rabsca — Origin of Species"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim): 'It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve.' This matches the Pokedex lore that Rellor values its mud ball more than its own life and that the ball itself contains the psychic energy required for the transformation into Rabsca. [Frontmatter flavor_text field, cross-referenced with Bulbapedia: Rellor via WebSearch snippet]",
+      "sources": ["Card frontmatter flavor_text", "Bulbapedia: Rellor, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's evolution mechanic in the video game is unusual: Rellor must be set loose via the 'Let's Go' feature and physically walked 1,000 steps before it can level up and evolve into Rabsca. This is one of a small number of Gen IX Pokemon with a non-standard step-based evolution requirement, making Rellor distinctly interactive to raise. [Dexerto: How to evolve Rellor into Rabsca]",
+      "sources": ["Dexerto: How to evolve Rellor into Rabsca"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rabsca", "set": "Destined Rivals or other SV era sets", "note": "Direct evolution of Rellor — Bug/Psychic type, Pokedex no. 954; line cohort candidate"},
+    {"name": "Dung Beetle", "set": "any set with scarab/beetle theming", "note": "Conceptual cousin via scarab beetle design archetype"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Rellor",
+    "ip_confidence": "high"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "card_name": "Tamiyo's Epiphany",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "71",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "The flavor text on the card explicitly names Tamiyo as subject ('Tamiyo wished only to observe the war...'). The art depicts the small moonfolk-scale robed figure (Tamiyo) confronting a massive god-scale divine entity with an elongated ceremonial head and mechanical wings — matching God-Eternal Kefnet, who forced Tamiyo out of neutrality per War of the Spark lore. Tamiyo, Collector of Tales (WAR #220) shares the same set and has Scryfall type_line 'Legendary Planeswalker — Tamiyo', confirming her as an active character in the set. IP is Wizards-internal; no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "War of the Spark (released 2019-05-03) is the climax set of the Nicol Bolas arc, set entirely on Ravnica as Bolas unleashes the Amonkhet Dreadhorde and attempts to harvest planeswalkers' sparks. Tamiyo arrived to observe and record the war's events but was drawn into combat when she encountered God-Eternal Kefnet — a moment this card's flavor text and art directly depict. [Scryfall: war release date] [Card Kingdom Blog: MTG Character Profile Tamiyo]",
+      "sources": ["Scryfall", "Card Kingdom Blog: MTG Character Profile Tamiyo"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text (verbatim): 'Tamiyo wished only to observe the war, but she soon realized neutrality was not an option.' This is the inciting moment of Tamiyo's arc in WAR — she is a Soratami scholar from Kamigawa whose magical practice is rooted in storytelling and scroll-reading, not combat. The Dreadhorde invasion forced her out of that identity. [Scryfall flavor_text field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The card is a common Sorcery (Scry 4, then draw two cards) — mechanically efficient card selection legal in Pauper, Modern, Pioneer, Legacy, Commander, and Oathbreaker. Its EDHREC rank is 10951, placing it in the long tail of blue draw spells rather than the staple tier, but it sees play as a budget Pauper option where deep scry + draw on one card has real value. Art is by Lake Hurwitz. [Scryfall legalities + EDHREC rank]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The large divine figure in the art is consistent with God-Eternal Kefnet — one of Bolas's reanimated Amonkhet gods, characterized by an elongated ceremonial ibis head, spread wings, and a staff. It was the encounter with the Amonkhet God-Eternals specifically that ended Tamiyo's neutrality in the War of the Spark narrative. [Card Kingdom Blog: MTG Character Profile Tamiyo]",
+      "sources": ["Card Kingdom Blog: MTG Character Profile Tamiyo"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tamiyo, Collector of Tales", "set": "War of the Spark", "note": "The planeswalker version of the same character in this set — same arc, same set, type_line 'Legendary Planeswalker — Tamiyo'"},
+    {"name": "God-Eternal Kefnet", "set": "War of the Spark", "note": "The divine figure depicted in the art; Kefnet is the Amonkhet god whose encounter pushed Tamiyo out of neutrality"},
+    {"name": "Tamiyo, the Moon Sage", "set": "Avacyn Restored", "note": "Tamiyo's first card appearance; establishes her as a Soratami scholar-planeswalker"},
+    {"name": "Tamiyo, Field Researcher", "set": "Eldritch Moon", "note": "Tamiyo's second card; shows her in research mode on Innistrad, building the neutral-observer theme this card breaks"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Tamiyo",
+    "ip_confidence": "high"
+  }
+}
