@@ -90,3 +90,7 @@ A large stuffed bear, tattered and tan-colored, looms with its mouth open wide t
 - Attack-in-the-Box (DSK, no. 242) -- same artist (Domenico Cava), same Toy subtype, same "haunted playroom" aesthetic cluster
 - Arabella, Abandoned Doll (DSK, no. 208) -- named Legendary Toy creature; Annabelle / possessed-doll horror reference in the same set
 - Vicious Clown (DSK) -- Toy-adjacent in set horror cluster; Chucky / Child's Play reference
+
+## Connections
+
+- [[dsk-toy-horror]] — member of the *Duskmourn: House of Horror* toy-horror cohort: corrupted-childhood-object artifact-creatures animated past their innocent function by Valgavoth's plane. Patched Plaything is the cohort's *stuffed-animal-mauler* archetype and carries the cohort's load-bearing **repair-corruption thesis statement** verbatim in its flavor text — *"When it ripped, its owner attempted to fix it. Something went... wrong."* — the loving home-repair beat that opens the seam through which the haunt arrives, mechanically encoded by the -1/-1 counters that flag the fix as corrupted. Sits alongside Patchwork Beastie, Attack-in-the-Box, Living Phone, and Ragged Playmate as the five-archetype substrate of the cohort; pair-bonded with Attack-in-the-Box at the artist layer (both Domenico Cava). `[Scryfall: type_line "Artifact Creature — Toy", flavor_text, artist]` `[MTG Wiki: Duskmourn Toy subtype]`

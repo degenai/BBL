@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - elephant
+  - soldier
+  - military
+  - rally
+  - banner
+  - armor
+  - vigilance
+  - commander
+  - war
+  - beast-warrior
+tags_filter:
+  - solo-foreground
+  - group
+  - mid-shot
+  - forward-facing
+  - action
+  - white-magic
+  - creature
+  - vigilance
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/21-loxodon-sergeant.png
 average_cost_paid: 0
 market_price: 0.09
@@ -30,6 +48,29 @@ mana_cost: "{3}{W}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: other
 ---
 
 # Loxodon Sergeant (War of the Spark)
+
+## Vision
+
+![21-loxodon-sergeant](../../_images/magic-the-gathering/war-of-the-spark/21-loxodon-sergeant.png)
+
+A massive loxodon soldier dominates the foreground, clad in ornate gold and brown plate armor with layered shoulder pauldrons and detailed chest plating. The figure grips a long staff or standard in one hand and raises the other arm, mouth open as if calling out or trumpeting a command. A large banner waves behind and to the left. In the background, several similarly armored soldiers are partially visible, establishing this as a military formation scene. The palette is warm gold, pale grey, and desaturated green, with soft ambient light giving the scene a hazy, battle-ready atmosphere.
+
+**Subject:** An armored loxodon (elephant-humanoid) warrior bearing a long staff and standing before billowing banners, with armored soldiers visible in the background
+
+**Composition:** mid-shot, action, figures: group, facing: forward
+**Setting:** other, indeterminate, calm
+**Foreground:** Armored loxodon warrior gripping a staff, mouth open in a rallying call, detailed gold plate armor  *(palette: gold, warm brown, grey-green, ivory)*
+**Background:** Billowing banners and partially visible armored soldiers, hazy pale sky  *(palette: pale grey, muted gold, off-white)*
+**Mood / lighting:** action, ambient
+**Emotion read:** commanding, mouth open in a rallying cry, raised arm suggests urgency and leadership
+**Objects:** staff, banner, plate-armor, pauldrons
+**Creatures:** loxodon, elephant-humanoid
+**Iconography:** banner, military-standard
+**Genre cues:** fantasy, epic
+

@@ -1,0 +1,47 @@
+{
+  "card_name": "Herald of the Dreadhorde",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "93",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Dreadhorde are the Eternals — warriors from Amonkhet who completed the trials of the five gods, were killed, then reanimated and coated in lazotep (a blue-gold metal with mystic properties) to become Bolas's undead army. Tezzeret opened the Planar Bridge from Amonkhet to Ravnica, and Liliana Vess led the Dreadhorde through to begin the invasion. The flavor text — 'Amonkhet's dead flowed into a new world in service to their God-Pharaoh' — encapsulates this narrative beat directly. [Scryfall; WebSearch: War of the Spark/Event MTG Wiki via snippet]",
+      "sources": ["Scryfall", "MTG Wiki: War of the Spark/Event via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Herald of the Dreadhorde carries the amass Zombies 2 ability, triggering on death. Amass was designed by Mark Rosewater's team to represent Bolas's Eternals as a single unified entity: rather than flooding the board with many tokens (which playtested as grindy), amass creates or grows one 0/0 Zombie Army token with +1/+1 counters. Rosewater noted the soldiers 'worked together because there was no choice but to work together,' reflecting their lack of free will under Bolas. The mechanic was originally called 'conscript' in design. [Wizards of the Coast: 'Waging War of the Spark, Part 3', Mark Rosewater, 2019-04-15]",
+      "sources": ["magic.wizards.com: 'Waging War of the Spark, Part 3', 2019-04-15"]
+    },
+    {
+      "category": "design",
+      "text": "Artist credited as Heonhwa (full name Heonhwa Choe). The card was previewed on the official Wizards of the Coast Twitch channel on 2019-03-31 — one of the earliest War of the Spark cards publicly revealed. [Scryfall preview data]",
+      "sources": ["Scryfall: preview source field"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Amonkhet's dead flowed into a new world in service to their God-Pharaoh.\" — No named speaker. The God-Pharaoh referred to is Nicol Bolas, who posed as the divine ruler of Amonkhet and engineered the entire civilization as a factory for creating his Eternal army. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, Herald of the Dreadhorde is a 3/2 for 3B that grows your Zombie Army token when it dies — a reasonable death trigger for a 4-drop common in limited. EDHREC ranks it at approximately 18,473 (lower EDHREC rank number = more played); at that tier it sees moderate inclusion in Zombie and amass-synergy Commander builds. [Scryfall: edhrec_rank 18473]",
+      "sources": ["Scryfall: edhrec_rank field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "God-Eternal Oketra", "set": "War of the Spark", "note": "One of the God-Eternals — Amonkhet gods reanimated as Eternal warriors, the elite tier of the same Dreadhorde army"},
+    {"name": "Liliana's Triumph", "set": "War of the Spark", "note": "Depicts Liliana Vess commanding the Dreadhorde against Bolas at the climax of the invasion"},
+    {"name": "Eternal of Harsh Truths", "set": "Hour of Devastation", "note": "An earlier Eternal from Amonkhet block — same lazotep-coated undead design, prior to the Ravnica invasion"},
+    {"name": "Dreadhorde Invasion", "set": "War of the Spark", "note": "Enchantment depicting the ongoing amass-building mechanic of the Dreadhorde across the set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

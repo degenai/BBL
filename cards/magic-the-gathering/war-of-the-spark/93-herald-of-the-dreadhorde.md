@@ -81,3 +81,16 @@ A wide battle scene showing a group of armored figures coated in a blue substanc
 **Creatures:** undead-warriors, zombie-army
 **Genre cues:** fantasy, epic
 
+## Trivia
+
+- **Set lore** — The Dreadhorde are Amonkhet's Eternals: warriors who completed the trials of the five gods, were killed, then reanimated and coated in lazotep (a blue-gold metal with mystic properties) to become Nicol Bolas's undead invasion force. Tezzeret opened the Planar Bridge from Amonkhet to Ravnica; Liliana Vess led the Dreadhorde through to begin the assault on the city. The flavor text — "Amonkhet's dead flowed into a new world in service to their God-Pharaoh" — is the capsule version of that crossing. `[Scryfall; MTG Wiki: War of the Spark/Event via WebSearch snippet]`
+- **Design** — The amass mechanic on this card was designed by Mark Rosewater to represent Bolas's Eternals as a unified entity rather than a swarm. The team originally considered generating multiple creature tokens, but playtesting showed that grindy token floods slowed the game. The solution: one 0/0 Zombie Army token that accumulates +1/+1 counters via amass, embodying the Eternals' unified hive-purpose. Rosewater noted the Eternals "worked together because there was no choice but to work together." The mechanic was called "conscript" in early design. `[Wizards of the Coast: "Waging War of the Spark, Part 3," Mark Rosewater, 2019-04-15]`
+- **Flavor text** — "Amonkhet's dead flowed into a new world in service to their God-Pharaoh." — Speaker unnamed. The God-Pharaoh is Nicol Bolas, who posed as the divine ruler of Amonkhet and engineered the entire civilization as a factory for his Eternal army. `[Scryfall]`
+- **Artist** — Credited as Heonhwa (full name Heonhwa Choe). The card was previewed on the official Wizards of the Coast Twitch channel on 2019-03-31, one of the earliest War of the Spark cards publicly revealed. `[Scryfall: preview source and date fields]`
+- **Mechanical note** — A 3/2 for 3B that grows your Zombie Army token on death — functional death-trigger value at common in limited. EDHREC ranks it at 18,473 (moderate inclusion in Zombie and amass-synergy Commander builds). `[Scryfall: edhrec_rank field]`
+
+### Related cards
+- God-Eternal Oketra (War of the Spark) — one of the God-Eternals, Amonkhet gods reanimated as elite Eternal warriors; same Dreadhorde army, upper tier
+- Liliana's Triumph (War of the Spark) — depicts Liliana commanding the Dreadhorde against Bolas at the climax of the invasion narrative
+- Eternal of Harsh Truths (Hour of Devastation) — earlier Eternal from Amonkhet block, same lazotep-coated design before the Ravnica invasion
+- Dreadhorde Invasion (War of the Spark) — enchantment depicting the ongoing amass-building mechanic of the Dreadhorde across the set

@@ -1,0 +1,41 @@
+{
+  "card_name": "Natu",
+  "game": "Pokemon",
+  "set": "Paldean Fates",
+  "collector_number": "025/091",
+  "task_profile": "general",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure is canonically Natu (National Pokedex no. 177): small round green bird with red and white markings, stub wings, large staring eyes, perched in a plant-rich environment — all confirmed per PokemonTCG.io API and Pokedex lore. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Paldean Fates (sv4pt5) released 2024-01-26 as a Scarlet & Violet special subset. All main-set cards display shiny Pokemon variants, making this Natu's shiny-colorway TCG appearance. The set was distributed exclusively through Elite Trainer Boxes and premium collections — no traditional booster boxes. [PokemonTCG.io API: sv4pt5 set metadata; PokeBeach set guide via WebSearch snippet]",
+      "sources": ["PokemonTCG.io API", "PokeBeach: 'Paldean Fates Guide' via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Natu is National Pokedex no. 177, introduced in Generation 2 (Gold and Silver, 1999). It is classified as the Tiny Bird Pokemon — a Psychic/Flying type. Its wings are not yet fully grown, so it cannot fly and instead hops and climbs tree trunks. Pokedex lore establishes it as always staring at something, which links to its evolutionary line's psychic theme: Natu's evolution Xatu is said to see both the past (left eye) and the future (right eye), and stands motionless out of fear of its own visions. [PokemonTCG.io API: nationalPokedexNumbers; WebSearch: Bulbapedia Natu and Xatu via snippet]",
+      "sources": ["PokemonTCG.io API", "Bulbapedia: Natu and Xatu via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.\" — This is the original Gold version Pokedex entry, used verbatim as the card's flavor text. The 'always staring' trait is the behavioral seed of the psychic future-sight lore carried to full expression in Xatu. [PokemonTCG.io API: flavorText field]",
+      "sources": ["PokemonTCG.io API: flavorText field"]
+    },
+    {
+      "category": "design",
+      "text": "Xatu's design (Natu's evolution) is inspired by the resplendent quetzal and Native American totem/kachina doll imagery. The name Xatu derives from 'xat' (Northwest Coast Native American totem pole type) and 'Xaat' (alternate name for the Haida people). The Natu/Xatu line's motif of temporal vision maps onto pre-Columbian sun-gazing practices. Artist on this Paldean Fates card: Teeziro. [WebSearch: Bulbapedia Xatu design section via snippet; PokemonTCG.io API: artist field]",
+      "sources": ["PokemonTCG.io API", "Bulbapedia: Xatu design via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Xatu", "set": "Various", "note": "Natu's evolution — the psychic bird that sees past and future simultaneously, unable to move from its visions"},
+    {"name": "Natu", "set": "Neo Genesis", "note": "Original Gen 2 TCG printing of Natu, prior to shiny-variant Paldean Fates version"},
+    {"name": "Wobbuffet", "set": "Various", "note": "Another Gen 2 Psychic-type with an inscrutable staring quality and a fan-favorite TCG presence (parallel 'always staring' energy)"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

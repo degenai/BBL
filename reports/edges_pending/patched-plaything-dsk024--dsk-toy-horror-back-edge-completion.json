@@ -1,0 +1,48 @@
+{
+  "edge_id": "patched-plaything-dsk024--dsk-toy-horror-back-edge-completion",
+  "shape": "1:1",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/duskmourn-house-of-horror/24-patched-plaything.md",
+      "name": "Patched Plaything (DSK-24)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/dsk-toy-horror.md",
+      "name": "Toy horror cohort (Duskmourn corrupted-childhood artifact-creatures)"
+    }
+  ],
+  "description": "Completes the orphan one-sided cohort edge between Patched Plaything DSK-24 and the dsk-toy-horror character node. Card already carried `characters: [dsk-toy-horror]` frontmatter pointer + the node already had the card in `appears_on:` + the auto-gen Appears-on block — but the card body had no `## Connections` back-edge, so the cohort relationship did not traverse from the card end. This is wave 192's identified urgent-priority bug pattern (~504 one-sided cohort edges corpus-wide per janitor triage line 81). Comic Book Guy register: 'Worst orphan edge. Frontmatter says hub-member, body says nothing. Inexcusable. Fixed.' Pilot pattern established for the dedicated mechanized sweep wave the triage note recommends — each card-side bullet is drawn from the matching paragraph inside the cohort node body (the per-card prose at lines 43-47 of dsk-toy-horror.md) and quotes the load-bearing flavor text and mechanical hook. Patched Plaything chosen as the pilot of the 4 remaining DSK toy-horror orphans because its flavor text IS the cohort's repair-corruption thesis verbatim — the strongest substrate for the back-edge bullet. Remaining 3 DSK toy-horror orphans (Patchwork Beastie 195, Attack-in-the-Box 242, Living Phone 20) staged for the mechanized sweep or future Edgelord invocations.",
+  "citations": [
+    "[Scryfall: Patched Plaything DSK-24 type_line / flavor_text / artist]",
+    "[MTG Wiki: Duskmourn Toy subtype]",
+    "[dsk-toy-horror.md node body lines 43-47 — per-card prose substrate]",
+    "[reports/janitor_triage.md line 81 — ~504 one-sided cohort edges urgent-priority entry]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/duskmourn-house-of-horror/24-patched-plaything.md"
+  ],
+  "edges_added": [
+    {
+      "from": "cards/magic-the-gathering/duskmourn-house-of-horror/24-patched-plaything.md",
+      "to": "cards/_characters/dsk-toy-horror.md",
+      "kind": "cohort-membership-back-edge"
+    }
+  ],
+  "edges_removed": [],
+  "other_candidates_considered": [
+    "Patchwork Beastie DSK-195 — same orphan pattern, John Tedrick art (no co-anchor artist pair), strong patchwork-construct archetype; defer to mechanized sweep.",
+    "Attack-in-the-Box DSK-242 — same orphan pattern, Domenico Cava co-anchor with Patched Plaything; defer to mechanized sweep (will pair-bond at sweep time).",
+    "Living Phone DSK-20 — same orphan pattern, boundary-case Toy (corrupted-appliance not corrupted-plaything); defer to mechanized sweep, slightly trickier bullet because the cohort thesis fits obliquely.",
+    "Ghostly Keybearer DSK-61 back-edge to valgavoth.md — different janitor-triage entry (line 79); valid future Edgelord pass, but lower-density connection than the toy-horror substrate."
+  ],
+  "next_pass_suggestions": [
+    "Mechanized sweep wave per janitor triage line 81 — scripted writer that auto-generates each card-side `## Connections` bullet from the matching paragraph in the cohort node body. Pilot now established on Patched Plaything; remaining 3 DSK toy-horror orphans (Patchwork Beastie 195, Attack-in-the-Box 242, Living Phone 20) are the next 3 to hand-process OR feed to the sweep script for round-1 validation.",
+    "When the sweep ships, audit the script's output against this hand-written Patched Plaything bullet for tone/density alignment — the hand-written version pulls the per-card paragraph from the node body AND quotes the flavor text AND names the cohort archetype AND notes the artist pair. Script should match all four moves."
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "edgelord_voice": "One down, 503 to go. Worst orphan-edge pile ever. The frontmatter pointer was already there. The node's appears_on was already there. The auto-gen Appears-on block was already there. The only thing missing was the card-side bullet — and the bullet writes itself off the node body. This should never have been a 504-card problem. Mechanize it and let me get back to actual edge work."
+}

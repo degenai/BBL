@@ -1,0 +1,42 @@
+{
+  "card_name": "Maushold",
+  "game": "Pokemon",
+  "set": "Paldean Fates",
+  "collector_number": "074/091",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure is canonically Maushold — specifically the Family of Four variant. Four figures (two adults, two offspring) confirmed per vision pass count and PokemonTCG.io API card data (Stage 1, evolves from Tandemaus, National Pokedex no. 925). Family of Four is the common variant (99% evolution probability); Family of Three is the rare variant (1%). ip_verified set to true, ip_confidence confirmed high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Maushold is National Pokedex no. 925, introduced in Pokemon Scarlet and Violet (Generation 9, 2022). It is a Stage 1 Normal-type that evolves from Tandemaus (a Couple Pokemon — always depicted as a pair) at level 25 when an opposing Pokemon faints in the player's active party. The evolution splits into two forms: Family of Three (one offspring added, 1% probability) and Family of Four (two offspring added, 99% probability). The corpus card depicts the Family of Four variant — confirmed by the four figures in the art. [PokemonTCG.io API; WebSearch: Screen Rant, Gamepur Maushold variant guides]",
+      "sources": ["PokemonTCG.io API", "WebSearch: Screen Rant / Gamepur Maushold variant guides"]
+    },
+    {
+      "category": "design",
+      "text": "Artist: KIYOTAKA OSHIYAMA (name stylized in all caps). OSHIYAMA is an anime director and member of the art department who has worked on the Pokemon anime series and other productions. He began contributing to the Pokemon TCG in 2021 with Sword & Shield — Battle Styles (Rapid Strike Urshifu VMAX Alternate Art, a high-value chase card). His style is characterized as 'epic anime movie screenshot' quality — intense, dynamic compositions. His Paldean Fates contributions include Maushold and Mabosstiff. [Bleedingcool.com: 'Pokemon Trading Card Game Artist Spotlight: KIYOTAKA OSHIYAMA']",
+      "sources": ["Bleedingcool.com: KIYOTAKA OSHIYAMA artist spotlight"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight.\" — This directly echoes the card's Family Attack mechanic: 'This attack does 70 damage for each of your Maushold in play.' The flavor text and the card's second attack are designed in explicit tandem, describing the same behavior in two registers (lore and mechanic). [PokemonTCG.io API: flavorText field; Scryfall oracle_text field]",
+      "sources": ["PokemonTCG.io API: flavorText and attacks fields"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Family Attack mechanic (70 damage per Maushold in play) creates a self-referential swarm loop: the card incentivizes running multiple Maushold copies to multiply damage output. Combined with the Family of Three vs. Family of Four variant split, the TCG card mechanics mirror the in-game design philosophy of the species — a family that gains strength as a unit. The Family of Three form is notably rarer (1% evolution chance) and would be worth tracking if it appears in the corpus separately. [PokemonTCG.io API: attacks; WebSearch: variant rarity guides]",
+      "sources": ["PokemonTCG.io API: attacks field", "WebSearch: Maushold variant guides"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tandemaus", "set": "Paldean Fates or other SV sets", "note": "Maushold's pre-evolution — the Couple Pokemon, always depicted as two mice, that evolves into the family unit"},
+    {"name": "Maushold (Family of Three)", "set": "Various SV sets", "note": "The rare 1% variant of Maushold — three-figure family unit, distinct from this Family of Four card"},
+    {"name": "Kangaskhan", "set": "Various", "note": "Thematic parallel — another Normal-type parent-offspring protective Pokemon family unit with combined-battle flavor"},
+    {"name": "Mabosstiff", "set": "Paldean Fates", "note": "Another KIYOTAKA OSHIYAMA card in the same Paldean Fates set — same artist cohort"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

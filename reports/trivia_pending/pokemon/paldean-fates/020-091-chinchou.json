@@ -1,0 +1,41 @@
+{
+  "card_name": "Chinchou",
+  "game": "Pokemon",
+  "set": "Paldean Fates",
+  "collector_number": "020/091",
+  "task_profile": "general",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure is canonically Chinchou (National Pokedex no. 170): round blue body, yellow antennal orbs, aquatic deep-sea habitat, bioluminescent glow used for communication — all confirmed per PokemonTCG.io API card data and Pokedex lore. ip_verified set to true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Paldean Fates (set code sv4pt5) is a Scarlet & Violet special subset released 2024-01-26, featuring shiny variants of Generation 9 Paldean Pokemon. All 91 cards in the main set and 154 secret rares display shiny colorations; this is the TCG's second comprehensive shiny-focused special subset. [PokemonTCG.io API: sv4pt5 set data]",
+      "sources": ["PokemonTCG.io API: sv4pt5 set metadata"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Chinchou is National Pokedex no. 170, introduced in Generation 2 (Gold and Silver, 1999). It is a Water/Electric dual-type classified as the Angler Pokemon, designed around the deep-sea anglerfish (specifically the footballfish). Its antennae carry electricity-generating cells that power the bioluminescent orbs it uses both to lure prey and communicate with others of its kind. [WebSearch: Bulbapedia Chinchou via snippet; PokemonTCG.io API: nationalPokedexNumbers]",
+      "sources": ["PokemonTCG.io API", "Bulbapedia: Chinchou via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"On the dark ocean floor, its only means of communication is its constantly flashing lights.\" — Directly references the species' lore-established behavior: Chinchou flashes its bioluminescent antennal orbs as its primary mode of communication in lightless deep-sea environments. [PokemonTCG.io API / Scryfall ground-truth: flavor_text field]",
+      "sources": ["PokemonTCG.io API: flavorText field"]
+    },
+    {
+      "category": "design",
+      "text": "Artist credited as yuu (lowercase). The card is a Basic Lightning-type (despite Chinchou's in-game Water/Electric dual typing; TCG typing maps Electric types as Lightning). It evolves into Lanturn (also in the TCG pool). The Paldean Fates printing is Chinchou's shiny-variant TCG appearance, depicting its shiny coloration. [PokemonTCG.io API: artist, types, evolvesTo fields]",
+      "sources": ["PokemonTCG.io API"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lanturn", "set": "Paldean Fates (or other sets)", "note": "Chinchou's evolution — the Angler Pokemon grown into a deep-sea lamp creature"},
+    {"name": "Lumineon", "set": "Various", "note": "Another Water-type bioluminescent deep-sea Pokemon with a similar ocean-floor flavor niche"},
+    {"name": "Chinchou", "set": "Neo Genesis", "note": "Original Chinchou TCG printing from the Generation 2 era, prior to the shiny-variant Paldean Fates version"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

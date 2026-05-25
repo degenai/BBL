@@ -1,0 +1,52 @@
+{
+  "card_name": "Duskmantle Operative",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "88",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Duskmantle Operative is a War of the Spark common released 2019-05-03. War of the Spark depicts Nicol Bolas's invasion of Ravnica, where he deployed the Dreadhorde — the lazotep-coated undead Eternals raised from Amonkhet's dead — to trap planeswalkers and harvest their sparks via the Immortal Sun. The Dimir guild's covert counteroperation runs throughout the set's narrative fabric. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Duskmantle Operative was previewed by Hipsters of the Coast in an article titled 'Behind the Front Lines' (2019-04-18). The art director brief, recorded in that preview, called for 'a FEMALE DIMIR SPY who is sneaking out of the darkness of an alleyway into the light. Because of her stealth magic, the pool of shadow clings to her, and she's emerging out of the darkness like she's removing a cloak.' Art director: Dawn Murin. Illustrator: Anna Steinbauer. [Hipsters of the Coast: 'Behind the Front Lines', 2019-04-18]",
+      "sources": ["Hipsters of the Coast: 'Behind the Front Lines' preview article, 2019-04-18"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Anna Steinbauer has illustrated over 40 Magic cards beginning with Magic Origins (2015). In August 2018, Steinbauer — along with Magali Villeneuve and Titus Lunter — was detained by U.S. Immigration and Customs Enforcement (ICE) at Seattle when arriving for work at Wizards of the Coast. The incident was reported by Hipsters of the Coast and drew significant attention to immigration enforcement's impact on contracted creative workers. [Hipsters of the Coast: 'WotC-Contracted Artists Anna Steinbauer, Magali Villeneuve, and Titus Lunter Detained by ICE in Seattle', 2018-08-28]",
+      "sources": ["Hipsters of the Coast: ICE detention article, 2018-08-28"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The card's name references Duskmantle, the guildhall of House Dimir — originally a hidden castle in the Undercity whose location was known only to its residents and erased from public consciousness by magic. After guild leader Szadek's demise, Lazav rebuilt it in a different section of the Undercity shielded by memory wards. House Dimir was the secret tenth signatory of the Guildpact, its existence magically suppressed — its role being assassination, espionage, and suppression of inconvenient truths on behalf of the city. [MTG Wiki: Duskmantle, via WebSearch snippet]",
+      "sources": ["MTG Wiki: Duskmantle, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Gideon eyed the Dimir emissary warily. 'Could your agents slip inside Bolas's citadel?' The figure met his gaze with icy resolve. 'We already have.'\" — Speaker unnamed (Dimir operative). The exchange directly ties to the War of the Spark narrative: Gideon Jura is coordinating the planeswalker coalition's resistance to Bolas's invasion. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanical note: Duskmantle Operative has the evasion clause 'can't be blocked by creatures with power 4 or greater' — making it slip past large threats while remaining blockable by small ones, a neat flavor mirror for a spy who avoids blunt force. EDHREC lists it in approximately 753 Commander decks, primarily in Dimir and Rogue-tribal builds. [Scryfall; EDHREC meta tag: 753 decks]",
+      "sources": ["Scryfall", "EDHREC (meta description)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lazav, the Multifarious", "set": "Guilds of Ravnica", "note": "Dimir guild leader on Ravnica, thematic head of the spy apparatus depicted in Duskmantle Operative"},
+    {"name": "Duskmantle, House of Shadow", "set": "Ravnica: City of Guilds", "note": "The land card naming the same Dimir guildhall referenced in this card's name"},
+    {"name": "Thought Erasure", "set": "Guilds of Ravnica", "note": "Dimir signature spell depicting the memory-manipulation that underpins House Dimir's secrecy"},
+    {"name": "Dimir Informant", "set": "Guilds of Ravnica", "note": "Parallel Dimir operative creature at common from the prior Ravnica block visit"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
