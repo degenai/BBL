@@ -209,6 +209,8 @@ The good triviabot output reads like footnotes in a thoughtful zine: short, cite
 
 Added wave 194 to close the 556-card orphan-edge backlog cataloged by `bbl_orphan_count.py`. Pattern: cards carry a `characters:` frontmatter pointer to a cohort node, but the card body has no `## Connections` bullet. The graph metadata wires both sides; the prose layer lags. Bundle authors quote `## Connections` bullets verbatim, so this is load-bearing prose, not metadata.
 
+**EXPLICIT NON-REFUSAL CONDITION (do not skip):** "Frontmatter is already wired + cohort `appears_on:` is already complete" is the **normal precondition** for this task, not a reason to skip. If a caller passes you N cards under this profile, ALL N already have the frontmatter pointer — that's what made them orphans in the first place. Your deliverable is the body-prose `## Connections` bullet on the card. Do NOT report "no work needed because wiring is complete" — the wiring IS complete on the metadata layer; you are completing the prose layer. The orphan-test `bbl_orphan_count.py` runs is specifically `card has frontmatter pointer to cohort X AND card body has no [[X]] wikilink`. Your job is to make the second condition false. Confirming the first condition without writing the bullet leaves the orphan open.
+
 **Dispatch under Opus 4.7** for this task profile — source-grounding discipline is paramount (hallucinated bullets contaminate downstream bundle copy). The parent dispatches with `model: opus` explicitly when running this profile.
 
 **Inputs:**

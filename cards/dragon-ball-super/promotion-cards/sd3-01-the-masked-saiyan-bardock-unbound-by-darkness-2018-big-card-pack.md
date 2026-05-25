@@ -93,3 +93,6 @@ A warrior figure is shown in a dynamic combative mid-shot pose. The figure wears
 - Towa (various DBS sets) — the Demon Realm scientist who built the mask and enslaved Bardock
 - The Masked Saiyan (Dragon Ball Heroes / various) — parallel printings of the controlled-identity state
 
+## Connections
+
+- [[saiyan]] — anchors at the *Time-Patrol / Xenoverse Masked Saiyan continuity* slot as the double-faced 2018 Big Card Pack promo that renders the canonical Xenoverse 2 mask-reveal narrative arc explicitly on the card face: `Masked Saiyan` (front: Bardock under Towa's mask-control, the art shown) // `Bardock, Unbound by Darkness` (back: the mask broken, Bardock freed). The race-frame-dominant front face is the primary anchor here per the cohort node's dominance test; the back-face's named-Bardock frame is a future bardock-solo-node attach point. Sibling print to BT4-117 and SD3-04; together the three form the corpus's largest single-named-Saiyan-but-race-frame-dominant sub-cohort, citing the canonical *Saiyan-genocide-Bardock-rescued-from-Frieza's-Supernova* Time-Patrol continuity per Dragon Ball Wiki: Masked Saiyan Saga. `[Source: Dragon Ball Wiki: The Masked Saiyan Saga; Dragon Ball Xenoverse 2 Wiki: Masked Saiyan]`

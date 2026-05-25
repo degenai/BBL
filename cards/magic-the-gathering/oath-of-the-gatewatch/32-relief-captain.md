@@ -87,3 +87,7 @@ A figure clad in pale armor is mounted high on a massive dark creature — broad
 - General Tazri (Oath of the Gatewatch) — 5-color Ally commander; leads the Zendikari allied forces this creature belongs to
 - Munda, Ambush Leader (Battle for Zendikar) — named Kor Ally legend; a named commander figure in the same resistance coalition
 - Spawnbinder Mage (Oath of the Gatewatch, no. 35) — sister OGW Ally in inventory; Cohort control counterpart to Support
+
+## Connections
+
+- [[zendikari-resistance]] — block-level multi-triangle meta-cycle anchor; Kor Knight Ally type-line places this card within the resistance coalition's command-tier as a mounted commander leading a massed Zendikari infantry force across an Akoum-canonical desert plain. The Support 3 ETB trigger mechanically encodes the "Relief" name's dual-register (military relief-force + tangible-aid distribution) — the captain literally distributes +1/+1 counters across up to three other Ally creatures as the rules-text rendering of mutual-reinforcement that the resistance coalition is organized around. `[Scryfall: type_line + oracle_text + flavor_text]` `[MTG Wiki: Allies — unified-resistance army reframe in BFZ block]`

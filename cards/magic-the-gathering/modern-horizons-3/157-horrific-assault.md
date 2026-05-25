@@ -92,3 +92,7 @@ A pale, robed angel kneels in a shadowed forest clearing, hands clasped in praye
 - Emrakul, the Promised End (Eldritch Moon) — the titan whose Innistrad influence the flavor text directly references
 - Ulvenwald Hydra (Shadows over Innistrad) — Innistrad creature that grew under Emrakul's encroaching shadow
 - Savage Swipe (Modern Horizons) — MH1 one-mana fight sorcery, mechanical predecessor in the Modern Horizons fight-spell lineage
+
+## Connections
+
+- [[eldrazi]] — cohort anchor; Horrific Assault's flavor text directly cites the Eldritch Moon arc — *"With shifting forms and no angel to pray to, Innistrad's werewolves were especially susceptible to Emrakul's influence"* (Scryfall) — naming Emrakul the Promised End, the third Titan whose corruption of Innistrad's native population the [[eldrazi]] node documents as the brood's body-horror conversion thesis. The art renders the conversion mid-progress: a pale robed angelic figure kneeling in prayer with red-pink tendrils sprouting from the surrounding trees and threading through her wings, the holy white feathers giving way to fleshy organic infestation. Oracle text's *"If you control an Eldrazi, you gain 3 life"* rider mechanically anchors the card to the brood, marking the player who controls the apparatus as the one who benefits from its work. `[Scryfall: MH3-157 flavor_text, oracle_text, artist; MTG Wiki: Eldritch Moon — Emrakul-corrupts-Innistrad arc]`

@@ -87,3 +87,8 @@ A humanoid figure stands inside a rock hollow or cave opening, face partially li
 - Serene Steward (BFZ, no. 46) — current corpus BFZ stewardship-verb anchor; fellow white Ally in the Zendikari Resistance cohort
 - Stoneforge Acolyte (OGW, no. 38) — current corpus OGW kor Ally, already wired to zendikari-resistance node
 - Kor Bladewhirl (BFZ, no. 35) — in-set kor Ally with Rally; the cheapest BFZ kor alongside Cliffside Lookout in the white-Ally aggro package
+
+## Connections
+
+- [[zendikari-resistance]] — block-level multi-triangle meta-cycle anchor; Kor Scout Ally type-line places this card directly within the Ally-coalition's scouting-tier under the Zendikari Resistance cohesion-frame, with the Stone Havens flavor (*"Though losses run high among the scouts of the Stone Havens, they never flinch from their duty"*) naming the canonical kor-resistance-held fortified positions in Akoum. The accept-attrition register (*never flinch from duty*) aligns with the resistance node's persistent-rather-than-triumphalist stewardship axis. `[Scryfall: type_line + flavor_text]` `[MTG Wiki: Allies — unified-resistance army reframe in BFZ]`
+- [[kor]] — race-cohort anchor; Cliffside Lookout is canonically typed Kor Scout, the nomadic cliff-dwelling Zendikar-native plate-armored warrior race whose vertical-terrain expertise the card name and cave-hollow setting literalize. The Kor are the resistance-coalition's most prominent organizing race in Akoum's Stone Havens fortifications; this card sits at the intersection of the kor-race-cohort and the broader multi-race resistance-coalition. `[Scryfall: type_line]` `[MTG Wiki: Kor]`

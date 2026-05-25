@@ -103,3 +103,7 @@ A figure wearing a wide-brimmed hat sits in shadow at what appears to be a desk 
 - Agrus Kos, Spirit of Justice (MKM) — cited in the official MKM mechanics article as a key suspect-mechanic interaction card; design-space neighbor
 - Life from the Loam (Ravnica Remastered) — notable Carlos Palma Cruchaga illustration outside MKM
 
+## Connections
+
+- [[agency]] — Agency roster card. The card name is the canonical Sherlock-Holmes-by-way-of-Doyle paraphrase ("once you eliminate the impossible, whatever remains, however improbable, must be the truth"); MKM design leans on this register openly. Mechanically a `{1}{W}` Investigate sorcery that strips Suspected status from opposing creatures while shrinking them at -2/-0 — one of the few MKM cards that actively *removes* suspected status, the rules-text rendering of *closing the case* on the board. Pairs with [[symbols/suspect]] as a counter-vector. `[MTG Wiki: Suspect (mechanic)]` `[MTG Wiki: Ravnican Agency of Magicological Investigations]`
+

@@ -93,3 +93,7 @@ A mid-shot of a minotaur warrior — the bovine horns and broad head with animal
 - Gideon, Ally of Zendikar (Battle for Zendikar) — the planeswalker quoted in flavor text; central BFZ resistance figure
 - Zulaport Cutthroat (Battle for Zendikar) — key Ally-tribal payoff card sharing BFZ Ally-resistance mechanical theme
 
+## Connections
+
+- [[zendikari-resistance]] — block-level multi-triangle meta-cycle anchor; this card depicts a Minotaur Warrior Ally with the Rally keyword granting trample to controlled creatures when any Ally enters, mechanically encoding the Ally-tribal coordinated-resistance army that the Zendikari Resistance node organizes at the block-level cohesion-frame. The flavor text quotes Gideon Jura — the canonical Gatewatch command-tier planeswalker who rallied the resistance coalition at Sea Gate — directly framing the card as a depicted operational-army-tier member of the resistance under Gatewatch strategic-command coordination. `[Scryfall: type_line + oracle_text Rally + flavor_text quoting Gideon Jura]` `[MTG Wiki: Allies — unified-resistance army reframe in BFZ block]`
+

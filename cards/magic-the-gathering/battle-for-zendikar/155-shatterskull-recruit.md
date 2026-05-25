@@ -86,3 +86,7 @@ The composition is dominated by a massive dark figure in the upper right — a t
 - Reckless Cohort (BFZ, no. 152) — current corpus anchor for the Zendikari Resistance rebellion-verb; Sea Gate survivor in the same Ally coalition
 - Ondu Champion (BFZ, no. 149) — fellow BFZ red Ally from a different Zendikar geography (Ondu vs Shatterskull/Akoum)
 - Gideon, Ally of Zendikar (BFZ, no. 29) — the planeswalker who organized the resistance that this Giant joined; card name itself carries the Ally designator
+
+## Connections
+
+- [[zendikari-resistance]] — block-level multi-triangle meta-cycle anchor; this card depicts a Giant Warrior Ally whose flavor text — *"Saved from certain death by the kor, he considers himself bound to them by an unbreakable blood oath"* — explicitly names integration into the multi-race Zendikari resistance coalition via personal-debt obligation to the kor (the Akoum / Shatterskull / Stone Havens resistance organizational core). The Ally type-line is Wizards' canonical mechanical signal for resistance-coalition membership across BFZ + OGW, and the blood-oath flavor renders the resistance-coalition's recurring design pattern as personal-obligation rather than unified-ideology. `[Scryfall: type_line + flavor_text]` `[MTG Wiki: Allies — unified-resistance army reframe in BFZ]`

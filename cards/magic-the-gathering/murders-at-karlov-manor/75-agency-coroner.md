@@ -86,3 +86,7 @@ A stout figure with pronounced pointed ears — goblin or similar small humanoid
 - Alquist Proft, Master Sleuth (MKM) — the R.A.M.I. detective who leads the investigation the coroner serves
 - Hunted Witness (Guilds of Ravnica) — earlier sacrifice-for-value common on Ravnica; thematic predecessor to the coroner's mechanic
 - Detective's Phoenix (MKM) — another R.A.M.I. agency-flavored card from the same set
+
+## Connections
+
+- [[agency]] — Agency roster card. The card name is the literal R.A.M.I. attribution — *Agency* Coroner — and the flavor text (*"Well, cause of death seems pretty straightforward, but what else can you tell me, friend?"*) is the canonical mortuary-interrogation register the Agency's forensic-procedure layer requires. The Scryfall type-line `Creature — Ogre Cleric` (not Detective by subtype) reads as the Agency's mortuary-specialist auxiliary — a ritualist who serves Agency casework without being a field detective. Mechanically `{4}{B}` sacrifice-a-creature-to-draw, doubled if the sacrificed creature was Suspected — *case-payoff: a suspect's corpse yields more evidence than an unsuspected one's*. Parallels the named flavor-text-only character Nelo on Macabre Reconstruction. `[MTG Wiki: Ravnican Agency of Magicological Investigations]` `[Scryfall: type_line, flavor_text]`

@@ -77,3 +77,7 @@ A sphinx-like or leonine winged humanoid with blue-grey skin soars forward throu
 **Iconography:** wings, gem, circular insignia
 **Genre cues:** fantasy
 
+## Connections
+
+- [[agency]] — Agency roster card. The card literally names the Agency in its title; mechanically a `{4}{U}{U}` Sphinx Detective whose enter-the-battlefield trigger tutors for Magnifying Glass and/or Thinking Cap — the two named investigator-equipment artifacts the Agency issues to its field detectives. This is the institutional supply-chain rendered as a card: the Outfitter as logistics-officer for the R.A.M.I. detective bureau. `[MTG Wiki: Detective (creature type)]` `[MTG Wiki: Ravnican Agency of Magicological Investigations]`
+

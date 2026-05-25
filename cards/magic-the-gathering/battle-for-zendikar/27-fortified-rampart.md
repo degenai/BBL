@@ -89,3 +89,7 @@ The foreground shows the base of a tall wooden palisade fortification wall. Circ
 - Wall of Omens (Rise of the Eldrazi) — similar 2-mana white Wall with card draw instead of raw toughness
 - Stalwart Shield-Bearers (Rise of the Eldrazi) — thematic predecessor Wall from the same Eldrazi-era Zendikar story
 - Eldrazi Scion tokens — the creature type partially visible in the art's foreground; the small Eldrazi at the wall's base
+
+## Connections
+
+- [[eldrazi]] — cohort anchor; Fortified Rampart's David Gaillet art renders the brood's **scale gradient as design signature** in a single frame — a small Eldrazi scion at the palisade's base, a massive Titan-silhouette looming in foggy background, the wall and shields between. The flavor text *"The refuge's defenses allow new recruits to see lesser Eldrazi up close, steeling their stomachs for what's to come"* (Scryfall) is explicitly a training context: the refuge deliberately exposes recruits to lesser brood-tier creatures to harden them for the Titans, encoding the BFZ block's apparatus-of-extraction architecture as a pedagogical structure. Mechanically a {1}{W} 0/6 Wall with Defender — the canonical BFZ "hold the line against the invasion" common. `[MTG Wiki: Battle for Zendikar; Scryfall: BFZ-27 flavor_text, oracle_text, artist]`

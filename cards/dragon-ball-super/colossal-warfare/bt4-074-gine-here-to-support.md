@@ -92,3 +92,7 @@ A female humanoid figure with short dark hair stands in a friendly, welcoming po
 - Deadly Golden Great Ape Son Goku (Colossal Warfare, BT4-080) — alternate Goku form in the same set
 - Bardock (various DBS sets) — Gine's mate; appears as leader card supporting Goku's Lineage archetype
 - Sacrifice (Colossal Warfare, BT4-070) — thematic parallel: sacrifice as an act of love
+
+## Connections
+
+- [[saiyan]] — anchors at the *pre-Goku-generation Saiyan parental cohort* slot as Goku's canonical mother and Bardock's mate, introduced in Akira Toriyama's *Dragon Ball Minus* (Saikyō Jump, 2014) and animated in *Dragon Ball Super: Broly* (Toei, 2018). Gine is one of the franchise's few depicted low-class Saiyans with an explicit gentle-and-emotionally-bonded operating mode against the broader Saiyan-warrior-race characterization — the Dragon Ball official site states "Goku inherited his kindness directly from her," making her the canonical *Saiyan-emotional-capacity-exists* counterexample. The orange-brown low-class Saiyan bodysuit and visible monkey tail are the race's canonical visual identifiers per the cohort node's race-uniform slot. `[Source: Dragon Ball official site: Weekly Character Showcase no. 74 — Gine; Dragon Ball Wiki: Gine]`

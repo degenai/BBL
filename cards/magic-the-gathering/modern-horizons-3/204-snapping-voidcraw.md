@@ -82,3 +82,7 @@ A fleshy, heavily textured creature dominates the foreground, its wide-open maw 
 **Iconography:** tentacles, fangs, open mouth
 **Genre cues:** fantasy, horror
 
+## Connections
+
+- [[eldrazi]] — cohort anchor; Snapping Voidcraw is a Devoid creature (no color despite a {1}{G}{U} mana cost) with a tentacled, fanged, fleshy-organic anatomy that reads directly as brood-tier biology — the bone-and-tendril register the [[eldrazi]] node documents as the cosmic-horror illustration vocabulary. The "Void" in the name names the Blind Eternities-derived faction the card belongs to, and its tap-for-{C}{C} mana ability ties the card to the colorless-mana economy MH3's Eldrazi suite operates inside. Flavor text *"Once considered a delicacy, turtle soup is no longer served in Nephalia's inns"* places the depicted creature on Innistrad's coastal Nephalia region — connecting the card to the Emrakul-corrupts-Innistrad arc the [[eldrazi]] node also anchors via Horrific Assault. `[Scryfall: MH3-204 oracle_text, flavor_text; MTG Wiki: Eldrazi — Devoid mechanic]`
+

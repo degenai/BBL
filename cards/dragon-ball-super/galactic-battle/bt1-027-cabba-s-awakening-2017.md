@@ -93,3 +93,6 @@ A young humanoid figure leaps or rises upward in a dynamic action pose, one fist
 - Scheming Champa (Galactic Battle, BT1-006) — Universe 6's God of Destruction, organizer of the tournament where Cabba awakens
 - Broly // Broly, The Legendary Super Saiyan (Galactic Battle, BT1-073) — paired opposite archetype in this set's dual-theme design
 
+## Connections
+
+- [[saiyan]] — anchors at the *Universe 6 Saiyan cohort* slot as the paired sibling to BT1-013 Raging Cabba: together the two prints form the corpus's Universe 6 Saiyan paired-anchor sub-cohort per the cohort node's roster. The "Awakening" title and leaping-breakthrough pose cite Cabba's first Super Saiyan transformation directly — Vegeta's official-site Trivia entry notes Cabba's battle suit is designed in the style of pre-Frieza-Force Universe 7 Saiyan armor, encoding a visual bridge between Universe 6's Saiyan Defenders and Universe 7's pre-conscription Saiyan heritage. The card's Common-Extra zero-cost +6000 buff structurally mirrors the canonical Awakening-as-tempo-spike narrative beat. `[Source: en.dragon-ball-official.com: Weekly Character Showcase no. 9 — Cabba; Dragon Ball Wiki: Cabba]`

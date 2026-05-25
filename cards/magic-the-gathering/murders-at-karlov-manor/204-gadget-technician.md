@@ -80,3 +80,7 @@ A stout, big-eared humanoid figure — clearly goblin-type, with large ears, a w
 **Iconography:** skull-face-drone, propeller-blades
 **Genre cues:** fantasy, sci-fi
 
+## Connections
+
+- [[agency]] — Agency roster card. The Detective Goblin Artificer subtype-stack + Disguise mechanic + thopter-token creation place this card in the Agency's UR-coded forensic-engineering operational register: the technical-craft side of investigative procedure. The Thopter token reads as the Agency's signature surveillance device — parallel to the forensic-thopter coding established on Agency Outfitter's tutored Magnifying Glass and Thinking Cap. `[MTG Wiki: Detective (creature type)]` `[MTG Wiki: Ravnican Agency of Magicological Investigations]`
+

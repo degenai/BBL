@@ -90,3 +90,6 @@ A humanoid figure with dark spiky hair wears an orange gi and steps or lunges fo
 - Prodigal Dynasty Son Goten (Colossal Warfare, BT4-085) — adjacent in collector range, same Goku's Lineage trait family
 - Height of Mastery Son Goku (Colossal Warfare, BT4-075) — Special Rare, same character at higher rarity in the same set
 
+## Connections
+
+- [[saiyan]] — anchors at the *Saiyan-birth-name racial-identity frame* slot, the corpus's clearest race-frame-dominant Goku print: titling the card "Kakarot" rather than "Son Goku" foregrounds the Saiyan-class-given name Vegeta wields across the entire Z and Super continuity as a *come-back-to-your-race* taunt, with the root-vegetable naming convention (Kakarot/carrot, Bardock/burdock, Raditz/radish, Vegeta/vegetable) locking the card to race-canon rather than Earth-canon. The card anchors here at the race-frame because the Saiyan-identity-vs-Earth-identity canonical thesis dominates the named-individual frame — the *Dragon Ball Super: Broly* (2018) moment where Goku asks Broly to call him Kakarot is the franchise's explicit on-screen acceptance of the racial-name designation. `[Source: Wikipedia: Goku; CBR: 'Why Does Vegeta Call Goku Kakarot']`

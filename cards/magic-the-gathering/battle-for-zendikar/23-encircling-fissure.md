@@ -88,3 +88,7 @@ A tall, alien creature stands atop a narrow rock spire. The figure is pale pinki
 - Fog (Alpha / multiple reprints) — ancestral prevent-all-combat-damage design; Encircling Fissure is a costed-up Fog with a land-animation upside
 - Natural Connection (BFZ) — fellow BFZ Awaken spell; illustrates the mechanic's block-wide distribution
 - Scatter to the Winds (BFZ) — BFZ Awaken counterspell; same keyword, different axis of the resistance toolkit
+
+## Connections
+
+- [[eldrazi]] — cohort anchor; the depicted figure is a generic Eldrazi creature with multiple tendrils atop a Zendikar canyon spire (Igor Kieryluk art), rendering the brood as the canyon-presence breaking through the plane's surface terrain. The card's Awaken mechanic is the BFZ-block keyword that animates Zendikar's own land masses as Elemental creatures — encoding the plane's leyline-driven geological sentience reacting to the [[eldrazi]] invasion. As an instant-speed combat-damage prevention scaled to Awaken-2, this is the canonical mid-BFZ defensive spell against the brood at the uncommon tier. `[MTG Wiki: Battle for Zendikar; Scryfall: BFZ-23 oracle_text, artist]`

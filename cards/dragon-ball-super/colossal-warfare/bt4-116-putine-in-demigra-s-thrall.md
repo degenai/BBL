@@ -91,3 +91,8 @@ A humanoid figure with short teal hair stands in a dynamic, slightly turned pose
 - Gravy, in Demigra's Thrall (Colossal Warfare, BT4-114) — Putine's paired thralled companion; consecutive collector numbers
 - Gravy, Lightning's Might (Colossal Warfare, BT4-113) — Gravy's pre-thrall form; context for the full cluster
 - Demigra (Colossal Warfare) — the thrall-source named in the card title
+
+## Connections
+
+- [[xenoverse-villains]] — Time Breakers thralled-affiliate anchor. Putine is the Dragon Ball Heroes Demon Goddess paired with Gravy as Demigra's co-conspirator in the Heavenly Realm defection; BT4-116 depicts her under direct Time Breakers thrall, the gold orb persisting against the dark-purple thrall energy reading as her original Heavenly magic surviving beneath the imposed corruption. `[Source: Dragon Ball Wiki: Putine; card name]`
+

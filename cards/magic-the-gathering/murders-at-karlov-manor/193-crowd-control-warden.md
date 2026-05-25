@@ -97,3 +97,7 @@ A powerfully built humanoid figure — appearing centaur-like or mounted, with a
 - A Mysterious Creature (MKM) — Scryfall-listed combo piece; the face-down 2/2 token placeholder that represents a disguised Warden
 - Ezrim, Agency Chief (MKM) — legendary archon who founded R.A.M.I.; lore-context anchor for the Agency faction the Warden represents
 - Secure the Scene (M21, 35) — white law-enforcement spell, Azorius-flavored; thematic resonance with the Warden's crowd-control role across Discrete Lair bundles
+
+## Connections
+
+- [[agency]] — Agency roster card. The G/W centaur body reads as Selesnya-Conclave-coded morphology, but the operational function (crowd-control magic at a probable crime scene) plus the MKM-signature Disguise mechanic wires the card to the Agency identity — R.A.M.I. is canonically a cross-guild bureau that recruits from every guild silhouette without becoming any one of them. Agency detectives are explicitly prohibited from making arrests per the Planeswalker's Guide; the Warden as Agency-affiliated soldier sits on the enforcement-adjacent side of that institutional line. `[MTG Wiki: Disguise (mechanic)]` `[MTG Wiki: Ravnican Agency of Magicological Investigations]`

@@ -91,3 +91,8 @@ A humanoid figure with long white hair stands centered in the frame, robed in da
 - Gravy, Lightning's Might (Colossal Warfare, BT4-113) — same character pre-thrall; base Demon God form
 - Putine, in Demigra's Thrall (Colossal Warfare, BT4-116) — Gravy's co-conspirator, thralled in the same set
 - Demigra (Colossal Warfare) — the entity whose thrall is named in the card title
+
+## Connections
+
+- [[xenoverse-villains]] — Time Breakers thralled-affiliate anchor. The card name explicitly states "in Demigra's Thrall" — Gravy is depicted under direct Time Breakers mastermind control, the 4000-power stat collapse from BT4-113's 20000 mechanically encoding the diminished-tool register of mind-controlled service. The thrall-state is the canonical Time Breaker mind-control operating mode applied to a Heavenly Realm defector. `[Source: Dragon Ball Wiki: Gravy; card name]`
+

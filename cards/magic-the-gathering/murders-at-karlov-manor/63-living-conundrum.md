@@ -80,3 +80,7 @@ A towering figure made entirely of books, scrolls, and scattered papers fills th
 **Iconography:** glowing-script, runes
 **Genre cues:** fantasy
 
+## Connections
+
+- [[agency]] — Agency roster card. The card depicts the **Agency Archive** itself rendered as an animated entity: the institutional accumulation of case-files become alive, the apparatus of investigation as a body. Where Agency Outfitter is the institutional supply-chain rendered as a card, Living Conundrum is the institutional memory rendered as a card — a Hexproof `{4}{U}{U}` Elemental whose 10/10 + flying + vigilance scales kick in once the library (the library being literal here as case-file repository) has been emptied through investigation. `[MTG Wiki: Ravnican Agency of Magicological Investigations]`
+

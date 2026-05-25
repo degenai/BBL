@@ -87,3 +87,7 @@ A shirtless humanoid figure leans over a large circular stone surface from which
 - Stoneforge Mystic (Worldwake) — the iconic predecessor; same Equipment-tutor function but dramatically more powerful; banned in Modern, restricted in Legacy
 - Spawnbinder Mage (Oath of the Gatewatch, no. 35) — sister OGW Cohort Ally in inventory; shared Cohort design space
 - Sigarda's Aid (Eldritch Moon) — Equipment synergy piece frequently paired with Stoneforge effects in Commander builds
+
+## Connections
+
+- [[zendikari-resistance]] — block-level multi-triangle meta-cycle anchor; Kor Artificer Ally type-line places this card within the resistance coalition's craft-and-equip tier — a kor forge-craft specialist whose Cohort Equipment-tutor ability arms the broader Ally army with magical weapons. The *"The stone speaks. We are merely interpreters"* flavor frames kor forge-craft as receptive sacred-work consistent with kor cultural canon across Zendikar story materials, while the Cohort keyword mechanically encodes Ally-cooperation at the rules-text level (tap this + an untapped Ally to search the top 4 for Equipment). `[Scryfall: type_line + oracle_text + flavor_text]` `[MTG Wiki: Kor — craft and spiritual practice intertwined canon]`

@@ -75,3 +75,7 @@ An enormous creature dominates the frame — its body is a swollen, ribbed mass 
 **Iconography:** tentacles, carapace
 **Genre cues:** fantasy, horror
 
+## Connections
+
+- [[eldrazi]] — cohort anchor; Depth Defiler is a Devoid creature (Scryfall: MH3-58, {3}{U}{U} mana cost, no color) rendering the brood as a deep-sea threat — a swollen tentacled carapace-mass floating in dark underwater void with faint geometric shapes (hedron-like silhouettes) barely visible behind, per the vision-pass description. The card sits inside MH3's designer-coordinated Eldrazi-resurgence brief documented at the [[eldrazi]] node, extending the brood's environmental range from BFZ's canyons and Innistrad's forests into oceanic-abyss territory. Its kicker-mode oracle text (return a creature OR draw two and discard one, both if kicked) gives the card a brood-tier control utility role at the uncommon rarity tier. `[Scryfall: MH3-58 oracle_text, type_line; MTG Wiki: Eldrazi — Devoid mechanic]`
+

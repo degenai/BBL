@@ -95,3 +95,7 @@ A massive creature crouches on a narrow stone ledge or plinth, facing slightly l
 - Wretched Gryff (Eldritch Moon) -- pauper-era Emerge finisher; same sacrifice-to-reduce pattern
 - Elder Deep-Fiend (Eldritch Moon) -- the iconic Emerge threat; tapping comparison point for Riddlekeeper's stun-counter disruption
 - Riddlekeeper (Return to Ravnica) -- shares the name root; a sphinx-adjacent labyrinth guardian in the Dimir guild; not mechanically related but thematically resonant
+
+## Connections
+
+- [[eldrazi]] — cohort anchor; Twisted Riddlekeeper carries the Scryfall type_line "Creature — Eldrazi Sphinx," a compound creature type fusing the alien horrors of the Blind Eternities with the arcane riddle-keeper Sphinx tradition — exactly the brood-corruption register the [[eldrazi]] node documents under Emerge mechanics. The Emerge keyword ({5}{C}{U} cost reduced by a sacrificed creature's mana value) is the canonical Eldritch Moon mechanic for an Eldrazi gestating inside and bursting from a host creature; here the host-conversion narrative is rendered as a sphinx whose original nature has been subsumed by brood-corruption, with the labyrinth-iconography wall and gold spiral-medallion visually carrying the riddle-keeper inheritance. Part of MH3's designer-coordinated Eldrazi-resurgence brief returning the brood to Modern format. `[Scryfall: MH3-14 type_line, oracle_text; MTG Wiki: Eldritch Moon — Emerge mechanic; Wizards: MH3 design articles]`

@@ -93,3 +93,6 @@ A tall, slender female-presenting figure stands in a composed, slightly spread-a
 - Encroaching Threat Masked Saiyan (Cross Worlds, SD3-04) — Bardock brainwashed by Towa; her most iconic controlled weapon
 - Supreme Kai of Time, World's Protector (Cross Worlds, BT3-113) — Chronoa; Towa's principal heroic adversary
 
+## Connections
+
+- [[xenoverse-villains]] — Time Breakers apparatus-of-corruption anchor (BT3 set-introduction print). Towa is the Demon Realm scientist whose dark-energy research drives the Time Breakers' multiverse-history-corruption charter, and BT3 Cross Worlds is the Bandai-framed set where the multiverse-history-as-battleground premise enters the DBSCG continuity. "Space Time Unleashed" canonically names her dark-energy-across-the-timestream operating mode; BT3-115's qty 4 makes this the highest-quantity Time Breaker card in corpus. `[Source: Dragon Ball Wiki: Towa; dbs-cardgame.com BT3 design concept]`

@@ -79,3 +79,7 @@ A disturbing aerial creature fills the frame — it has broad, dark feathered wi
 **Iconography:** wings, tendrils
 **Genre cues:** fantasy, horror
 
+## Connections
+
+- [[eldrazi]] — cohort anchor; Hope-Ender Coatl is a Devoid Flash flyer ({2}{U} mana cost, no color per Scryfall) whose body is canonically an Eldrazi-coatl hybrid — dark feathered wings spread in flight, but the central mass is a pale skull-like face fused with ribbed torso and trailing red-pink fleshy tendrils. Coatl is the Mesoamerican-derived MTG creature subtype (serpent-bird hybrid); this card is the brood's canon-explicit corruption of that subtype, exactly the kind of *Eldrazi-as-creature-type-corruption* register the [[eldrazi]] node documents as the Eldritch Moon mechanical signature extended into MH3's resurgence brief. Its cast trigger counters target spell unless the opponent pays {1} — a soft counterspell at instant speed delivered on a flying body, making the card a brood-tier tempo tool in the MH3 Eldrazi suite. `[Scryfall: MH3-64 oracle_text, type_line; MTG Wiki: Eldrazi — Eldritch Moon corruption arc]`
+

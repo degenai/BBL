@@ -85,6 +85,10 @@ A full-body portrait of a female trainer figure in a distinctive pink-and-black 
 **Iconography:** trainer-card, supporter-badge
 **Genre cues:** anime, fantasy
 
+## Connections
+
+- [[galar-gym-challenge]] — Spikemuth minor-division Dark-type Gym Leader, Shield-route, rival-character cohort. Marnie is the younger sister of Piers and his canonical eventual successor at the Spikemuth Gym post, the dilapidated Galar city without its own Power Spot that sits outside the eight mandatory major-division slots; her stated narrative goal is to bid for Champion specifically to revitalize Spikemuth. First minor-division anchor on the league node — flagged on the parent for a possible future major/minor sub-node split where Marnie and Piers would cluster on the minor side. `[Bulbapedia: Marnie]` `[Bulbapedia: Spikemuth]` `[Bulbapedia: Galar League]`
+
 ## Trivia
 
 - **Set context** — Marnie is a rival character in Pokemon Sword & Shield (2019) who specializes in Dark-type Pokemon. Her stated goal is to become Champion to revitalize her hometown Spikemuth, a dilapidated city without its own Power Spot. She eventually succeeds her older brother Piers as Spikemuth's Gym Leader after the player becomes Champion. `[Bulbapedia: Marnie, via WebSearch snippet]`

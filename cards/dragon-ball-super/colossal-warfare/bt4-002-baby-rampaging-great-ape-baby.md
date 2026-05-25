@@ -92,3 +92,6 @@ A blue-skinned humanoid figure crouches in a combat-ready stance at the center o
 - Rampaging Great Ape Baby (Colossal Warfare, BT4-002 back) — awakened back face of this same Leader
 - Power of Friendship Pan (Colossal Warfare, BT4-009) — Pan is one of the GT heroes who evaded Baby's possession; narrative foil to this card
 
+## Connections
+
+- [[saiyan]] — anchors here at the *Saiyan-genocide-inverse Tuffle-survivor frame*: Baby is the last surviving Tuffle, the race the Saiyans exterminated on Planet Plant (later Planet Vegeta) per Dragon Ball Wiki's Tuffles page. The Rampaging Great Ape Baby back face possesses Vegeta's body and weaponizes the stolen Saiyan-Great-Ape biology against the Saiyan race itself, closing the colonial-extermination loop where the exterminated race repurposes its perpetrator's biology as the vengeance vehicle. Dual-wired with [[baby-dbgt]] at the solo-character frame; the saiyan attach is the race-inverse-frame mirror. `[Source: Dragon Ball Wiki: Tuffles; Dragon Ball Wiki: Baby]`

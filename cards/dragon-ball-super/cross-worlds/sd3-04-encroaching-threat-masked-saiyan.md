@@ -92,3 +92,6 @@ A humanoid figure with wild, dark spiky hair wears a dark bodysuit and a strikin
 - Quick blade Trunks (Cross Worlds, SD3-03) — Trunks hunts the Masked Saiyan in Xenoverse to free Bardock and locate Towa/Mira
 - Dark Plot (Cross Worlds, BT3-121) — the conspiracy Masked Saiyan enforces as an enslaved weapon
 
+## Connections
+
+- [[saiyan]] — anchors at the *Time-Patrol / Xenoverse Masked Saiyan continuity* slot as the qty-2 Dark Invasion starter deck flagship-threat card and the corpus's clearest visual citation of Towa's Demon-Realm-mask brainwashing apparatus (the ornate white face mask with pink/magenta markings is the Masked Saiyan's canonical visual identifier per Dragon Ball Wiki: Masked Saiyan Saga). The card's "Encroaching Threat" subtitle frames the Masked Saiyan as the SD3 starter deck's narrative centerpiece — Bardock's identity suppressed, his Saiyan battle-instinct weaponized into a Time-Breaker delivery mechanism. Sibling print to BT4-117 and SD3-01; together the three form the corpus's largest single-named-Saiyan-but-race-frame-dominant sub-cohort per the cohort node's roster. `[Source: Dragon Ball Wiki: Masked Saiyan Saga; Xenoverse 2 Wiki: Masked Saiyan]`

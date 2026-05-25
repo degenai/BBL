@@ -91,6 +91,10 @@ A small young figure stands centered against a pale gridded backdrop, framed by 
 **Iconography:** mask, floating-orb, ghost-symbol
 **Genre cues:** anime, fantasy, occult
 
+## Connections
+
+- [[galar-gym-challenge]] — Stow-on-Side major-division Ghost-type Gym Leader, Shield-route. Allister holds the Stow-on-Side slot in Pokémon Shield (paired version-asymmetrically with Bea, the Fighting-type Sword-version leader at the same Gym), the eight-Gym mandatory league progression's archaeological-town stop. The shy-introvert-behind-a-mask publicity-shot framing — central figure flanked by twin ghost-orbs against a near-studio backdrop — is the league's signature celebrity-athlete iconography: a televised Gym Leader portrait, not a private one. `[Bulbapedia: Allister]` `[Bulbapedia: Stow-on-Side Stadium]` `[Bulbapedia: Galar League]`
+
 ## Trivia
 
 - **Set context** — Vivid Voltage (SWSH4) is the fourth main Sword & Shield Series expansion, released November 13, 2020 — 185 numbered cards plus 18 secret rares (203 total). Signature pulls are the Rainbow Pikachu VMAX (no. 188/185) and the debut of the Amazing Rare mechanic. SWSH4 is the third SWSH-era set to feature Galar Gym Leaders as Supporter cards, with Allister, Bea, and Opal anchoring the trainer roster. `[PokemonTCG.io API: swsh4]` `[Pokemon.com: Vivid Voltage set page, via WebSearch snippet]`

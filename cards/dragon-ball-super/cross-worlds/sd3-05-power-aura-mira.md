@@ -89,3 +89,6 @@ A blue-skinned humanoid figure with wild white spiky hair and vivid red eyes sta
 - Dark Plot (Cross Worlds, BT3-121) — event card naming the Mira/Towa conspiracy Mira embodies
 - Supreme Kai of Time, World's Protector (Cross Worlds, BT3-113) — Chronoa commands the Time Patrol opposing Mira and Towa
 
+## Connections
+
+- [[xenoverse-villains]] — Time Breakers bio-engineered ultimate-fighter anchor (SD3 starter-deck print). Mira is Towa's four-template constructed weapon designed to be the strongest fighter in any universe, the final boss of both Xenoverse 1 and Xenoverse 2's main stories; SD3-05 is the Bandai-promoted Dark Invasion starter-deck faction-anchor card where the teal chest emblem is the Time Breaker faction insignia. The starter-deck framing makes this the entry-point Mira print for any player meeting the cohort for the first time. `[Source: Dragon Ball Wiki: Mira; CBR: 10 Things About Mira]`

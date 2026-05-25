@@ -92,3 +92,6 @@ A tall humanoid figure dominates the frame in a commanding, imperious pose. The 
 - Dark Absorption Mira (Colossal Warfare, BT4-110) — same Dark Demon Realm Saga archetype
 - Umbral Invitation Towa (Colossal Warfare, BT4-111) — same archetype, Towa's distortions aided Demigra's escape
 
+## Connections
+
+- [[xenoverse-villains]] — Time Breakers mastermind anchor. Demigra is the canonical leader of the Time Breakers faction and the named-antagonist mastermind of BT4 Colossal Warfare per dbs-cardgame.com's official design concept; the BT4-098 double-faced Leader card encodes his "Ghastly Malice" powered-up form as the black Dark Demon Realm Saga archetype's mechanical anchor. `[Source: dbs-cardgame.com/asia/strategy/series4/design-concept.php; Dragon Ball Wiki: Demigra]`

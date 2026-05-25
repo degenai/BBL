@@ -82,3 +82,7 @@ A compact green-skinned humanoid figure with thin limbs and several long trailin
 **Iconography:** green lamp, water
 **Genre cues:** fantasy, noir
 
+## Connections
+
+- [[agency]] — Agency roster card. Mechanically a `{U}` Flying Detective with Disguise — the **Disguise** mechanic is the MKM-signature "play face-down and reveal later" rules-text that mirrors the case's reveal-the-suspect investigative procedure. The depicted Simic-coded head-tendril species reading is *not* an Izzet/Simic-guild faction edge — it's the Agency's cross-guild recruitment pattern in operational rendering, the same pattern that produces a centaur Crowd-Control Warden and a Goblin Artificer Gadget Technician. This is the Agency's wet-work-at-night operational register: surveillance in the rain. `[MTG Wiki: Detective (creature type)]` `[MTG Wiki: Disguise (mechanic)]` `[MTG Wiki: Ravnican Agency of Magicological Investigations]`
+

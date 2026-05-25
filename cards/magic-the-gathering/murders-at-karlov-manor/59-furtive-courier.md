@@ -81,3 +81,7 @@ A small humanoid figure with pink spiky hair and pointed ears hurries down a dim
 **Iconography:** lapel-pin
 **Genre cues:** fantasy, noir
 
+## Connections
+
+- [[agency]] — Agency roster card. Flavor speaker is Linghu *of the Foundway Associates* — the Foundway Associates are an Agency-affiliated investigative network named across MKM flavor text (Linghu here; Udol on Gearbane Orangutan; Imel on Offender at Large; Runubi on Suspicious Detonation; Algrom on Torch the Witness), locating the courier as Agency-side messenger labor rather than freelance underworld delivery. Mechanically a `{2}{U}` Detective with sacrifice-an-artifact-unblockable and attack-trigger draw-then-discard — the Agency's clandestine-delivery operational register: case-evidence in transit. `[MTG Wiki: Detective (creature type)]` `[MTG Wiki: Ravnican Agency of Magicological Investigations]` `[Scryfall: flavor_text]`
+

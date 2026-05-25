@@ -93,3 +93,7 @@ Two alien-looking creatures occupy the frame against a background of orange and 
 - Sunscape Battlemage (Planeshift) — white member of the original Battlemage cycle
 - Nulldrifter (Modern Horizons 3) — another MH3 Eldrazi discussed alongside Wastescape Battlemage in the Wizards design article
 - Spawn-Gang Commander (Modern Horizons 3) — MH3 Eldrazi the design article identifies as drawing on Emrakul's Innistrad brood lineage, thematic companion in MH3's Eldrazi suite
+
+## Connections
+
+- [[eldrazi]] — cohort anchor; Wastescape Battlemage is typed Eldrazi Wizard per Scryfall and is set on Zendikar's Tazeem region per the Wizards "Expanding Your Horizons: Eldrazi" design article — the "wastescape" in the name references the ravaged terrain left by Eldrazi consumption of the plane during the Battle for Zendikar block. Its {1}{C} mana cost — the colorless mana symbol introduced in Oath of the Gatewatch as the brood's dedicated mana flavor — makes the card a payoff for Eldrazi-tribal builds running Wastes or colorless-producing permanents. As the green member of MH3's Eldrazi Battlemage cycle (a callback to Planeshift 2001), it carries the [[eldrazi]] node's MH3-resurgence brief into the kicker-mechanic design space. `[magic.wizards.com/en/news/making-magic/expanding-your-horizons-eldrazi; Scryfall: MH3-17 type_line, mana_cost]`

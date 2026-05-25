@@ -92,3 +92,7 @@ A humanoid figure with white hair floats in a dominant central pose surrounded b
 - Umbral Invitation Towa (Colossal Warfare, BT4-111) — Towa built Mira; her Warp card unlocks this card's escalation skill
 - Mira, Creator Absorbed (Colossal Warfare, BT4-108) — likely the 7-cost Mira endgame target this card escalates into
 
+## Connections
+
+- [[xenoverse-villains]] — Time Breakers bio-engineered ultimate-fighter anchor. Mira is Towa's four-template constructed weapon (Saiyan + Majin + android + human) whose canonical Xenoverse combat mode is dark-energy absorption, and BT4-110's rules text literalizes the Towa-Mira manufacturer-and-weapon dependency by requiring a Towa card placed under this one to unlock the 7-cost Mira escalation. `[Source: Dragon Ball Wiki: Mira; DBZExchange BT4-110]`
+

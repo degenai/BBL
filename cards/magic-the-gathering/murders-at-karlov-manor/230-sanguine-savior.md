@@ -102,3 +102,7 @@ Two humanoid figures dominate the frame: one upright and carrying, one slumped a
 - Teysa Karlov (Ravnica Allegiance) — Orzhov guildmaster whose manor and murder anchor the MKM storyline; lore context for the set Sanguine Savior inhabits
 - Markov Purifier (Innistrad: Crimson Vow) — top EDHREC commander home for Sanguine Savior; WB vampire tribal + lifelink-matters
 
+## Connections
+
+- [[agency]] — Dual-coded Agency roster card. Agency operational function (Disguise + Detective subtype wire to the R.A.M.I. operational register) and Orzhov institutional identity (the canonical eclipsed-sun signet visible on the chest medallion and on the distant spire per the `orzhov-signet` symbol node) coexist on the card. This is the structural case the Agency's institutional-autonomy thesis predicts: a Detective whose institutional secondary identity is an Orzhov-recruited operative — extraction-faction labor reassigned to investigation-faction work without losing the medallion. Cross-edges: [[orzhov-syndicate]], [[orzhov-signet]]. `[MTG Wiki: Disguise (mechanic)]` `[MTG Wiki: Ravnican Agency of Magicological Investigations]` `[MTG Wiki: Orzhov Syndicate]`
+

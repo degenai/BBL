@@ -91,3 +91,8 @@ A large, muscular humanoid figure stands in a broad forward-facing stance wearin
 - Gravy, in Demigra's Thrall (Colossal Warfare, BT4-114) — same character post-Demigra mind control; directly paired with this card
 - Putine, in Demigra's Thrall (Colossal Warfare, BT4-116) — Gravy's co-conspirator from the Heavenly Realm, also shown thralled in BT4
 - Demigra (Colossal Warfare) — the villain exercising thrall over Gravy and Putine in BT4
+
+## Connections
+
+- [[xenoverse-villains]] — Time Breakers Heavenly-Realm-defector affiliate anchor. Gravy is a Dragon Ball Heroes Demon God who defected from the Heavenly Realm alongside Demigra and was elevated to Demon God status by Mechikabura; BT4-113 depicts his pre-thrall base form, situating him as a Time Breaker-adjacent loyalist before BT4-114 collapses him into Demigra's direct control. `[Source: Dragon Ball Wiki: Gravy; dbs-cardgame.com Colossal Warfare Design Concept]`
+

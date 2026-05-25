@@ -73,3 +73,7 @@ tags:
 **Setting:** 
 **Mood / lighting:**
 
+## Connections
+
+- [[eldrazi]] — cohort anchor; Idol of False Gods IS the brood's death-cult apparatus rendered as a colorless artifact (per Scryfall oracle text): it taps for {1}{C} to create 0/1 colorless Eldrazi Spawn creature tokens, accumulates +1/+1 counters when other Eldrazi you control die, and at eight-counter threshold becomes a 0/0 artifact creature with Annihilator 2. The mechanical loop — Spawn-tokens-born-from-worship feeding the idol's counter-accumulation feeding the eventual Annihilator-bearing creature — mirrors the [[eldrazi]] node's *consumption-as-religious-apparatus* register, with the "false gods" naming the Titans whose worship the idol channels. As an MH3 colorless artifact in the brood's Spawn-token-generator design space, it sits at the intersection of the [[eldrazi]] node's apparatus thesis and the MH3 designer-coordinated resurgence brief. `[Scryfall: MH3-210 oracle_text; MTG Wiki: Eldrazi Spawn tokens]`
+

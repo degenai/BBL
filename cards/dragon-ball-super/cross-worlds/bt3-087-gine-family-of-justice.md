@@ -90,3 +90,7 @@ A female Saiyan figure with short dark hair stands in a rocky, barren landscape.
 - Bardock, Will of Iron (Judge Promotion Cards, P-035) — Bardock's Great Ape promo; Gine's free-play condition keys off a Bardock card in play
 - Shocking Future Son Goku (Cross Worlds, BT3-007) — same set; Goku is the son Gine and Bardock sent to Earth
 - Bardock (multiple DBS sets) — Gine's mechanical identity depends entirely on Bardock presence in the Battle or Leader Area
+
+## Connections
+
+- [[saiyan]] — anchors at the *pre-Goku-generation Saiyan parental cohort* slot as the second Gine print in corpus (sibling to BT4-074 Gine, Here to Support). The rocky pink-tinged-sky landscape behind Gine is canonical Planet Vegeta terrain per the cohort node's Planet-Vegeta-homeworld slot — the closest current corpus visual citation of the Saiyan homeworld since no standalone Planet Vegeta location-card exists in corpus. Gine's Dragon Ball Minus Saga era trait and Bardock-presence free-play condition encode the canonical low-class-Saiyan mate-pair-bonded reproductive cycle the cohort node identifies as one of the race's most-developed apparatus-of-extraction-counter exhibits (the gentle-and-emotionally-bonded operating mode against the broader Saiyan-warrior-race characterization). `[Source: Dragon Ball Wiki: Gine; Dragon Ball: Minus (Akira Toriyama, Saikyō Jump 2014)]`

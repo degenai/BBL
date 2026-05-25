@@ -78,3 +78,7 @@ A bearded male figure with dark hair leans back in a tufted red-brown armchair, 
 **Iconography:** blue spectral projections, runic script
 **Genre cues:** fantasy, noir
 
+## Connections
+
+- [[agency]] — Agency roster card. The combat-damage-Investigate trigger plus the depicted bearded figure replaying the attack from memory in a dark library — flavor text *"Each time he replayed the attack in his mind, new details emerged."* — locate this card as the Agency's UU-coded forensic-deliberation register, the procedural inverse of Burden of Proof's public interrogation. Clue tokens (the Investigate mechanic's payoff artifact) are the Agency's case-file currency: every fact pulled from memory becomes a card you can spend. `[MTG Wiki: Investigate (mechanic)]` `[MTG Wiki: Ravnican Agency of Magicological Investigations]`
+

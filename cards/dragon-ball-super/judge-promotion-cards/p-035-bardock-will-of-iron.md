@@ -92,3 +92,7 @@ A massive brown-furred great ape dominates the frame, head thrown back with mout
 - Gine, Family of Justice (Cross Worlds, BT3-087) — Gine's free-play condition keys off a `<Bardock>` card in play; both released in the Cross Worlds tournament window
 - Bardock humanoid forms (multiple DBS sets) — P-035's evolve mechanic requires a `<Bardock>` card in the Battle Area to transform into the Great Ape version
 - Great Ape Bardock, Saiyan Potential (multiple printings) — other Oozaru Bardock cards across the DBS-TCG
+
+## Connections
+
+- [[saiyan]] — dual-anchored at the *pre-Goku-generation Saiyan parental cohort* slot (Bardock as Goku's father and Gine's mate, the canonical low-class Saiyan warrior-team leader from *Dragon Ball Z TV Special: Bardock — The Father of Goku*, 1990) AND at the *Great-Ape race-specific biology* slot per the cohort node's transformation-frame definition: P-035 is the corpus's sole Oozaru-form Bardock anchor, depicting the canonical brown-furred standard Great Ape variant (paired against BT4-080's GT-exclusive Golden Great Ape variant) and citing the TV special's distinguishing detail that Bardock retained full memory and awareness during the transformation — unusual for a race whose Great-Ape form is canonically Frieza's primary planet-clearing weapon under the imperial-mercenary operating mode. Sibling Judge-program reprint of the P-035 Promotion Cards foil; together the pair forms the corpus's father-of-Goku paired-anchor sub-cohort. `[Source: Dragon Ball Wiki: Bardock; Dragon Ball Wiki: Great Ape]`

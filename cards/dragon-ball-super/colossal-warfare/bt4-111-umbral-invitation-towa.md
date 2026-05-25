@@ -92,3 +92,7 @@ A female humanoid figure with long dark hair stands with arms extended outward i
 - Demigra // Ghastly Malice Demigra (Colossal Warfare, BT4-098) — Leader card for this archetype
 - Umbral Invitation Towa Shenron's Chosen (Tournament Promotion Cards, BT4-111) — promo stamp variant of this card
 
+## Connections
+
+- [[xenoverse-villains]] — Time Breakers apparatus-of-corruption anchor. Towa is the Demon Realm scientist whose dark-energy research produces Mira, the Villainous-Mode tech, and the mind-control masks that turn canonical heroes against each other across timelines; BT4-111's [Auto] control-theft effect on play mechanically translates her canonical recruit-and-corrupt operating mode at the rules-text level. `[Source: Dragon Ball Wiki: Towa; DBZExchange BT4-111]`
+

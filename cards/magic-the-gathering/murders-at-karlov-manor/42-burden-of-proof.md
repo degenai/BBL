@@ -78,3 +78,7 @@ In the foreground of a grand arched gothic hall, a tall humanoid figure in a lon
 **Iconography:** blue swirling magic, lens apparatus
 **Genre cues:** fantasy, noir
 
+## Connections
+
+- [[agency]] — Agency roster card. The Flash aura's rules-text — enchanted creature gets +2/+2 if a Detective you control, otherwise base 1/1 and can't block Detectives — is the literal rendering of "detective work raises the case and lowers the suspect." Flavor text (*"You must have known all those lies would catch up to you eventually."*) plus the depicted gothic-hall public interrogation locate the card as the Agency's courtroom-deliberation operational register, parallel to Curious Inquiry's private-study deliberation and Eliminate the Impossible's suspect-elimination procedure. `[MTG Wiki: Detective (creature type)]` `[MTG Wiki: Ravnican Agency of Magicological Investigations]`
+

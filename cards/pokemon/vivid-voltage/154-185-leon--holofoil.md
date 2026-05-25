@@ -83,6 +83,10 @@ A trainer stands in a stadium arena with visible arena lighting and a crowd sugg
 **Objects:** cape, cap, stadium-lights
 **Genre cues:** anime, fantasy
 
+## Connections
+
+- [[galar-gym-challenge]] — Galar's undefeated Champion and the Champion-Cup-at-Wyndon-Stadium tournament's terminal endpoint. Leon won his first-ever Gym Challenge at age 10 without a single defeat under Chairman Rose's endorsement letter, and the entire eight-Gym major-division progression climaxes in challenging him at Wyndon — he is the apex form of the league's signed-celebrity-athlete role, the league's marquee broadcaster face. The cape-and-cap stadium-arena publicity-shot framing under warm pink-and-yellow arena lighting *is* the league's televised championship product as packaged for the camera. `[Bulbapedia: Leon]` `[Bulbapedia: Galar League]` `[pokemon.com: Leon official character page]`
+
 ## Trivia
 
 - **Set context** — Vivid Voltage (SWSH4) was released November 13, 2020 and contains 185 cards plus secret rares. It is the fourth main expansion of the Sword & Shield series and was the first set to introduce Amazing Rare cards to the English game [Bulbapedia: Vivid Voltage (TCG)].

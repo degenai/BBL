@@ -87,3 +87,7 @@ The image is framed by heavy dark vertical edges — the narrow gap of a doorway
 - Judith, Carnage Connoisseur (Murders at Karlov Manor) — Rakdos character whose fire-and-performance aesthetic connects to "Burning Masks" imagery
 - Light Up the Stage (Ravnica Allegiance) — red Rakdos card with similar exile-top-cards-and-play payoff
 
+## Connections
+
+- [[agency]] — Agency roster card. The card is the in-fiction *crime scene* — a Case literally in the type-line (Case subtype is the MKM-signature case-to-solve enchantment cycle introduced alongside the Detective creature subtype to render R.A.M.I. investigative procedure as rules-text). The narrow-doorframe framing reads as the detective's POV: catastrophe witnessed through a crack in silence. `[MTG Wiki: Case (enchantment type)]` `[MTG Wiki: Ravnican Agency of Magicological Investigations]`
+

@@ -92,3 +92,7 @@ A young humanoid figure is depicted in a dynamic mid-shot action pose, standing 
 - Hit // Assassin Hit (Galactic Battle, BT1-003) — U6 tournament cohort; both fought in the Champa Arc
 - Scheming Champa (Galactic Battle, BT1-006) — Champa is U6's destroyer god; organized the tournament where Cabba debuted
 - Vados // Aide Vados (Galactic Battle, BT1-002) — U6 cohort; Vados attended Champa during Cabba's match
+
+## Connections
+
+- [[saiyan]] — anchors at the *Universe 6 Saiyan cohort* slot as the canonical Universe 6 Saiyan elite warrior introduced in *Dragon Ball Super*'s Universe 6 Saga (episodes 32-41, 2015-2016). Cabba is the Universe 6 analog to a young Vegeta and a member of the Saiyan Defenders — the U6 organized-planetary-protection-force operating mode that is canonically the STRUCTURAL INVERSE of Universe 7's Frieza-Force-mercenary-occupation mode (per the cohort node's rebellion-hub thread). The "Raging" subtitle cites Cabba's signature anger-trigger Super Saiyan unlock during the Universe 6 Tournament — Vegeta forces the transformation by threatening Planet Sadala, the canonical first-Super-Saiyan-transformation beat in U6 and the race's race-scale refusal-of-the-imperial-mercenary-mode moment. `[Source: Dragon Ball Wiki: Cabba; Dragon Ball Wiki: Universe 6 Saiyans]`

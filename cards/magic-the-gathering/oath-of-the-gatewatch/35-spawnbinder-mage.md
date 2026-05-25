@@ -88,3 +88,7 @@ A humanoid figure — lightly armored, upright, commanding — strides forward t
 - Relief Captain (Oath of the Gatewatch, no. 32) — sister OGW Ally in inventory; Support 3 counterpart in the same Ally tribal space
 - Stoneforge Acolyte (Oath of the Gatewatch, no. 38) — sister OGW Cohort Ally in inventory; different Cohort payoff (Equipment tutor)
 - General Tazri (Oath of the Gatewatch) — Ally tribal commander; represents the coalition this mage fights for
+
+## Connections
+
+- [[zendikari-resistance]] — block-level multi-triangle meta-cycle anchor; Human Wizard Ally type-line places this card within the resistance coalition's anti-Eldrazi specialist tier — a mage who has learned to trap and restrain Eldrazi Spawn via chains-and-orb binding magic. The Cohort keyword mechanically encodes Ally-cooperation at the rules-text level (tap this + an untapped Ally to tap target creature), making the card a designer-coordinated counterpart to the resistance coalition's organized-cooperation tactical register. `[Scryfall: type_line + oracle_text + flavor_text]` `[MTG Wiki: Allies — unified-resistance army reframe in BFZ block]`

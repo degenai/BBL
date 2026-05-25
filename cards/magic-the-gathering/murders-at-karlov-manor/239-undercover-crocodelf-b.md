@@ -79,3 +79,7 @@ A bulky, reptilian humanoid figure with clearly crocodilian features — scaled 
 **Creatures:** crocodilian-humanoid, crocodelf
 **Genre cues:** fantasy, noir
 
+## Connections
+
+- [[agency]] — Agency roster card. The card name is the canonical literal-noir-mashup register MKM's design leans into: the Agency operative whose disguise is *being a crocodile in a hat and coat*. Mechanically a combat-damage Investigate Detective Crocodile Elf with Disguise — three of the Agency's four signature mechanical primitives stacked on one common, anchoring the card to the R.A.M.I. operational register. The "(b)" alt-art designation indicates the borderless/showcase variant; the standard print is the same identity. `[MTG Wiki: Detective (creature type)]` `[MTG Wiki: Disguise (mechanic)]` `[MTG Wiki: Ravnican Agency of Magicological Investigations]`
+
