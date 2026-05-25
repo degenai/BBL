@@ -1,0 +1,28 @@
+{
+  "cohort_slug": "ff9-zidane-party",
+  "cohort_path": "cards/_characters/ff9-zidane-party.md",
+  "batch_size": 4,
+  "accepted": [
+    {
+      "card_path": "cards/final-fantasy-tcg/opus-viii/8-016h-vivi.md",
+      "archetype_slot": "playable-roster member (Vivi Ornitier — black mage protagonist / manufactured magical construct); mechanical centerpiece for full-cast Category IX builds",
+      "bullet_text": "[[ff9-zidane-party]] - Vivi Ornitier, the black mage protagonist of Final Fantasy IX, sits in the cohort's playable-roster slot as 'the franchise's most-cited single-character emotional-resonance anchor; a manufactured magical construct with a fixed lifespan who develops genuine emotional reasoning where the other Black Mages cannot.' This Opus VIII Hero printing is the cohort's mechanical centerpiece - its enter-the-battlefield damage scales from 2000 / 7000 / 10000 based on Category IX Character count, 'designed as the mechanical incentive for full-cast Category IX builds,' and at ~$3.95 it is the highest secondary value of the FFIX cluster in BBL corpus."
+    },
+    {
+      "card_path": "cards/final-fantasy-tcg/opus-viii/8-113c-garnet-ex--foil.md",
+      "archetype_slot": "playable-roster member (Garnet til Alexandros XVII / Dagger - princess of Alexandria, hereditary Summoner, FFIX co-protagonist); entry-tier accessibility anchor opposite Vivi",
+      "bullet_text": "[[ff9-zidane-party]] - Garnet til Alexandros XVII (also called Dagger) occupies the cohort's playable-roster slot as 'the princess of Alexandria, hereditary Summoner, and one of the two FFIX playable co-protagonists alongside Zidane.' This Opus VIII Common foil is described in the cohort body as 'a 2-cost Water Forward Summoner with an EX Burst damage-reduction trigger that activates from the damage zone and an anti-Summon clause reflecting her narrative role as the Summoner who absorbs eidolons,' positioned at ~$0.34 as 'the entry-tier accessibility pole opposite the Vivi Hero-tier chase price.'"
+    },
+    {
+      "card_path": "cards/final-fantasy-tcg/opus-viii/8-126h-freya--foil.md",
+      "archetype_slot": "playable-roster member (Freya Crescent - Burmecian dragoon, first fixed-class female Dragoon in franchise); high-secondary-value chase card of the cluster; Amano concept-art reproduction with jester-companion (designer-distinct from Itahana in-game model)",
+      "bullet_text": "[[ff9-zidane-party]] - Freya Crescent fills the cohort's playable-roster slot as 'the Burmecian dragoon and FFIX's most-cited emotionally-resonant character after Vivi; the franchise's first playable female Dragoon with a fixed class (not player-assigned).' The cohort body specifically calls out this Opus VIII Hero printing as 'the Yoshitaka Amano concept-art reproduction featuring the small jester-companion figure that Itahana's final in-game model removed - a designer-distinct Amano version rather than the Itahana FF9 character we play in-game,' and identifies the ~$8.07 market price as 'the high-secondary-value chase card of the FFIX cluster.'"
+    },
+    {
+      "card_path": "cards/final-fantasy-tcg/opus-iii/3-122c-artemicion.md",
+      "archetype_slot": "named-NPC slot (Artemicion - Mognet Central director, striped purple fur visual identifier); only FFIX representative from Opus III in BBL corpus; lowest-tier accessibility anchor of the cluster",
+      "bullet_text": "[[ff9-zidane-party]] - Artemicion occupies the cohort's named-NPC slot rather than the playable-party slot, fitting the cohort's deliberate scope of 'both the eight playable members *and* named FFIX NPCs.' The cohort body identifies him as 'the named moogle director of FFIX's Mognet Central, identified by his canonical striped purple fur (a unique visual trait among FFIX moogles whose standard livery is white)' and frames this Opus III Common printing as 'a hand-filtering Water Backup whose card text encodes the Mognet-postal-director role rather than a combat ability,' at ~$0.23 positioned as 'the lowest-tier accessibility anchor of the cluster and the only FFIX representative from Opus III in BBL corpus.'"
+    }
+  ],
+  "deferred": []
+}

@@ -49,6 +49,8 @@ subject_known_ip: true
 suspected_ip: Garnet til Alexandros XVII / Dagger (Final Fantasy IX)
 ip_confidence: high
 ip_verified: true
+characters:
+  - ff9-zidane-party
 ---
 
 # Garnet EX (Opus VIII)
@@ -93,3 +95,7 @@ A close-up portrait of a young woman rendered in the CG art style of Final Fanta
 > [!warning] IP: Garnet til Alexandros XVII (Final Fantasy IX / Square Enix)
 > Character is owned by Square Enix. FFTCG is an officially licensed Square Enix product; no third-party IP conflict. This is a first-party Square Enix character card — no external crossover risk.
 > Sources: `[Final Fantasy Wiki: Garnet til Alexandros XVII]` `[Square Enix Opus VIII official page]`
+
+## Connections
+
+- [[ff9-zidane-party]] — Garnet til Alexandros XVII (also called Dagger) occupies the cohort's playable-roster slot as "the princess of Alexandria, hereditary Summoner, and one of the two FFIX playable co-protagonists alongside Zidane." This Opus VIII Common foil is described in the cohort body as "a 2-cost Water Forward Summoner with an EX Burst damage-reduction trigger that activates from the damage zone and an anti-Summon clause reflecting her narrative role as the Summoner who absorbs eidolons," positioned at ~$0.34 as "the entry-tier accessibility pole opposite the Vivi Hero-tier chase price."

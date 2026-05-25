@@ -47,6 +47,8 @@ setting: void
 suspected_ip: Artemicion (Final Fantasy IX Moogle)
 ip_confidence: high
 ip_verified: true
+characters:
+  - ff9-zidane-party
 ---
 
 # Artemicion (Opus III)
@@ -84,3 +86,6 @@ A small, squat purple creature with a round body covered in horizontal stripe ma
 - Zidane (any FFTCG print) — canonical primary protagonist of FFIX who delivers mail to moogles and completes the Mognet Central sidequest
 - Stiltzkin (FFIX moogle) — traveling moogle merchant in FFIX; appears alongside Artemicion in the Final Fantasy Art Museum Trading Card no. 380 [eBay listing via WebSearch]
 
+## Connections
+
+- [[ff9-zidane-party]] — Artemicion occupies the cohort's named-NPC slot rather than the playable-party slot, fitting the cohort's deliberate scope of "both the eight playable members *and* named FFIX NPCs." The cohort body identifies him as "the named moogle director of FFIX's Mognet Central, identified by his canonical striped purple fur (a unique visual trait among FFIX moogles whose standard livery is white)" and frames this Opus III Common printing as "a hand-filtering Water Backup whose card text encodes the Mognet-postal-director role rather than a combat ability," at ~$0.23 positioned as "the lowest-tier accessibility anchor of the cluster and the only FFIX representative from Opus III in BBL corpus."

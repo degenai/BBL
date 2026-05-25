@@ -48,7 +48,7 @@ suspected_ip: Vivi Ornitier
 ip_confidence: high
 ip_verified: true
 characters:
-  - vivi-ornitier
+  - ff9-zidane-party
 ---
 
 # Vivi (Opus VIII)
@@ -87,4 +87,6 @@ A highly stylized Yoshitaka Amano illustration depicts a figure dominated by an 
 - Vivi (Opus XXVIII, 28-016L) — later Legend reprint; tracks the character's TCG longevity
 - Black Mage (Opus VIII, various) — anonymous Black Mage cards in the same set; contrast between named protagonist and manufactured soldier archetype mirrors the FF IX narrative
 
+## Connections
 
+- [[ff9-zidane-party]] — Vivi Ornitier, the black mage protagonist of *Final Fantasy IX*, sits in the cohort's playable-roster slot as "the franchise's most-cited single-character emotional-resonance anchor; a manufactured magical construct with a fixed lifespan who develops genuine emotional reasoning where the other Black Mages cannot." This Opus VIII Hero printing is the cohort's mechanical centerpiece — its enter-the-battlefield damage scales from 2000 / 7000 / 10000 based on Category IX Character count, "designed as the mechanical incentive for full-cast Category IX builds," and at ~$3.95 it is the highest secondary value of the FFIX cluster in BBL corpus.

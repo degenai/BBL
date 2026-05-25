@@ -48,6 +48,8 @@ setting: void
 suspected_ip: Freya Crescent (Final Fantasy IX)
 ip_confidence: high
 ip_verified: true
+characters:
+  - ff9-zidane-party
 ---
 
 # Freya (Opus VIII)
@@ -89,4 +91,8 @@ A tall, highly stylized figure rendered in Yoshitaka Amano's characteristic loos
 - Zidane (FFTCG various) — FFIX protagonist; shares game and set origin with Freya
 - Vivi (FFTCG various) — FFIX Black Mage party member; shares game origin
 - Kain Highwind (FFTCG various) — FFIV Dragoon; shares the Dragoon job synergy that activates Freya's Haste condition
+
+## Connections
+
+- [[ff9-zidane-party]] — Freya Crescent fills the cohort's playable-roster slot as "the Burmecian dragoon and FFIX's most-cited emotionally-resonant character after Vivi; the franchise's first playable female Dragoon with a fixed class (not player-assigned)." The cohort body specifically calls out this Opus VIII Hero printing as "the Yoshitaka Amano concept-art reproduction featuring the small jester-companion figure that Itahana's final in-game model removed — a designer-distinct Amano version rather than the Itahana FF9 character we play in-game," and identifies the ~$8.07 market price as "the high-secondary-value chase card of the FFIX cluster."
 
