@@ -89,3 +89,7 @@ tags:
 - Scoured Barrens (Khans of Tarkir) — cycle sibling, WB dual gain-land, KTK originating print
 - Akoum Refuge (Zendikar, 2009) — distinct older "Refuge" cycle member; different oracle ID, different cycle; the Refuge naming source
 
+## Connections
+
+- [[ktk-gain-lands]] — the white-blue (Azorius-pair) member of the Khans-block ten-card common gain-land cycle, sharing the cycle's enters-tapped + 1-life-on-ETB + dual-tap rules text. As the KTK-246 originating print, this is the clan-epoch (Tarkir-present) view of the coastal location that the FRF reprint would later paint 1,280 years prior. The Scent of a Gamer 2015 art review singled out the Tranquil Cove KTK-vs-FRF pairing as the cycle's clearest before/after evidence for the reading that the clans were more destructive stewards than the dragon warlords they replaced, making this specific card the cycle's most-cited single exhibit in the stewardship-comparison-across-timelines design thesis.
+

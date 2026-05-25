@@ -88,3 +88,7 @@ A compact, roughly spherical white robot with stubby limbs and small round disc-
 - Shocking Future Son Goku (BT3-007, Cross Worlds) — Goku is a member of the trio Giru accompanies
 - Dr.Myuu, Under Baby's Control (BT3-017, Cross Worlds) — Myuu created the Machine Mutant faction Giru originates from
 - Hidden Ability, General Rilldo (BT3-020, Cross Worlds) — Rilldo commands Machine Planet M-2, Giru's home planet
+
+## Connections
+
+- [[machine-mutants-m2]] — Giru is canonically the Machine Mutant defector to the heroes' side: originally engineered on Dr. Myuu's Machine Planet M-2 as a surveillance unit, he accidentally swallows the Dragon Radar Trunks dropped and joins the GT traveling-trio as their living Dragon Ball locator and Pan's best friend. The small white spherical body with the single large red eye depicted is the canonical Machine Mutant absorption-mechanic operating at the individual scale — the Dragon Radar's function is absorbed into Giru's body the same way Rilldo's apex form merges with the planet and the Sigma Force merge into one combined cannon. Wires here on the race-and-origin axis: Giru is a Machine Mutant of M-2 by canonical engineering even though Bandai's canonical Grand Tour Spaceship (BT3-028) tutors him alongside Goku-GT, Trunks, and Pan as the fourth member of the GT traveling-quartet.

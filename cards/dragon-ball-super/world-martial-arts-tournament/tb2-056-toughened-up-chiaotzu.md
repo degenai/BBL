@@ -87,3 +87,7 @@ The same distinctive small, round figure with a white spherical face and circula
 - Master Roshi, Martial Meister (World Martial Arts Tournament, TB2-057) — Crane School vs. Turtle School rivalry; Chiaotzu as Crane School fighter and Roshi as Turtle School master coexist in the same set
 - Future Martial Artist Son Goku (World Martial Arts Tournament, TB2-052) — Goku and Chiaotzu are contemporaries from the original Dragon Ball tournament arcs; shared World Tournament trait
 
+## Connections
+
+- [[crane-school-cohort]] — Toughened Up Chiaotzu is the cohort's second Chiaotzu print within the same TB2 booster, depicting his psychic-power register — disciple of the Crane School who reached the finals of the 22nd World Martial Arts Tournament in his first entry, primary weapon telekinesis. Where TB2-044 frames him in the friendship register that bonds him to Tien, TB2-056 frames him in the psychic-effort register the school weaponized — the same disciple whose canonical defection alongside Tien marked the cohort's *worker-leaves-the-apparatus-of-extraction* pivot at the 22nd Budokai. The card's mechanical pairing with Toughened Up Krillin (TB2-053) is a designer-coordinated cross-school adjacent-disciples beat — Crane School Chiaotzu reacting to Turtle School Krillin encodes the two rival schools' canonical co-existence and the disciple-tier's shared formative-era within Bandai's TB2 set architecture.
+

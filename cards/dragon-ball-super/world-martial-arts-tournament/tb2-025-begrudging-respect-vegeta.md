@@ -90,3 +90,7 @@ A powerfully built male-presenting figure with distinctive upswept dark hair sta
 - Father-Son Galick Gun (Union Force, BT2-063) — corpus Vegeta print from BT2; same character node, Future Trunks Saga phase
 - Supreme Showdown Vegeta (World Martial Arts Tournament, TB2-SR) — the set's Super Rare Vegeta, featuring the 25th-tournament Goku/Vegeta red Link Card pair; the prestige Vegeta print from the same set
 
+## Connections
+
+- [[vegeta]] — Buu Saga arms-crossed restraint register of the Prince of All Saiyans, capturing the canonical pre-self-sacrifice moment when Piccolo's understanding of Vegeta's both-selfish-and-selfless final stand registers as begrudging respect. The "Begrudging" modifier encodes Vegeta's canonical inability to openly acknowledge the depth of his respect for anyone outside the Saiyan-pride frame — a character-thesis feature consistent across his thirty-five years of franchise output. Composition-wise this print is the quiet-processing emotional counterpoint to TB2-006 Vegeta, Power Misused: same Buu Saga arc, two registers — the Majin-unleashed aggressor and the foil who is about to detonate himself against Buu in the canonical *bid you farewell* sacrifice.
+

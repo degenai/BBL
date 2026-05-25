@@ -83,3 +83,8 @@ A humanoid male figure stands in a composed, confident pose wearing layered dark
 - Rain (Brave Exvius) (various FFTCG sets) — Lasswell's co-protagonist and childhood friend; likely appears across multiple Opus sets
 - Fina (Brave Exvius) (various FFTCG sets) — third primary protagonist of Brave Exvius who grants Rain and Lasswell their vision powers
 - Lasswell (Opus VII) — the preceding Opus VII teaser version named in the Opus VIII press release
+
+## Connections
+
+- [[ffbe-opening-arc-party]] — Lasswell is the deuteragonist of Final Fantasy Brave Exvius's opening-arc playable trio (Rain, Lasswell, Fina), Rain's adopted brother raised by Sir Raegen, and the wielder of the katana Purple Lightning that appears in the FFBE title-screen logo. This non-foil Hero-rarity printing is the same-card-number companion to the foil 8-043H also in corpus, and Square Enix's press release explicitly named Lasswell as the FFBE-side co-headliner of Opus VIII's character-debut push (Noctis was the FFXV-side co-headliner). Lasswell anchors here as the Season Two focus character whose inferiority-complex-and-loyalty bond with Rain forms the brotherhood axis Fina's Vision-grantor role metaphysically couples to.
+

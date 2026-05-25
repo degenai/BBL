@@ -73,3 +73,7 @@ A single Mareep is shown in a mid-shot, curled or settled low against a bright p
 **Emotion read:** calm and settled, restful body posture
 **Creatures:** sheep, woolly-creature, electric-creature
 **Genre cues:** anime, fantasy
+
+## Connections
+
+- [[mareep-line]] — base-stage member of the Johto Generation II Electric-sheep evolutionary line (Mareep no. 179 → Flaaffy no. 180 → Ampharos no. 181), introduced in Pokemon Gold and Silver (Game Freak / Creatures Inc. / Nintendo, 1999). This Steam Siege print (Eri Yamaki art, August 2016) is the corpus's first XY-era Mareep and carries a different Pokedex-flavor register than the SwSh-era prints — *"It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter."* frames the wool as insulation against weather rather than static-charge storage, reflecting the species' multi-flavor canon across generations (Pokemon Diamond and Pearl-era Pokedex text). The print broadens the line's corpus footprint to two TCG eras (XY + Sword & Shield) across three sets (Steam Siege, Darkness Ablaze, Chilling Reign), with the cohort node anchoring the full line's design thesis (pastoral-to-industrial transition, Philip K. Dick literary reading, "ampere" / "pharos" etymology). [PokemonTCG.io: xy11-38; Bulbapedia: Mareep (Pokemon)]

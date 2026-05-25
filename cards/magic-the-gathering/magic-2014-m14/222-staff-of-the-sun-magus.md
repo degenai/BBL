@@ -96,3 +96,7 @@ A heavy ceremonial staff fills the frame vertically, its head crowned by a styli
 - Staff of the Mind Magus (M14, no. 221) — blue cycle member
 - Staff of the Wild Magus (M14, no. 223) — green cycle member (in this batch)
 - Soul Warden (Exodus, no. 20) — white lifegain on-creature-enters, classic synergy partner in white lifegain shells
+
+## Connections
+
+- [[staff-of-the-magus-cycle]] — White member of the designer-coordinated five-card WUBRG common-artifact lifegain cycle at M14 collector numbers 219-223. The sunburst-and-gauntlet iconography reads as paladin/cleric/order-of-the-radiant-sun, with the "conviction in uncertain times" motto positioning steadiness as the white-coded answer to doubt. Not reprinted in M15 — the M14 printing is the only standard printing of this cycle member.

@@ -92,3 +92,7 @@ A Super Saiyan fighter crouches in a low, powerful stance against a dark backgro
 - Tiny Rivals Trunks (World Martial Arts Tournament, TB2-007) — Vegeta is Trunks's father; both appear in TB2 within the same tournament arc
 - Goku (various DBS sets) — the target of Vegeta's tournament outburst; their rivalry drives the entire Majin Vegeta arc
 
+## Connections
+
+- [[vegeta]] — Buu Saga Majin-corrupted register of the Prince of All Saiyans, depicting the canonical moment when Vegeta deliberately allows Babidi's Majin seal to be implanted for the power boost it provides. This is the franchise's most pivotal moral failure for a Z-warrior: Majin Vegeta fires a Big Bang Attack into the spectator stands at the 25th World Martial Arts Tournament, killing dozens of bystanders, to force Goku to fight him — Saiyan-pride taken past the breaking point of moral consideration. The purple-tinted aura crackling around the figure is the art-direction encoding of the Majin-corrupted power, signaling the darker register distinct from Vegeta's standard golden Super Saiyan aura across the corpus.
+

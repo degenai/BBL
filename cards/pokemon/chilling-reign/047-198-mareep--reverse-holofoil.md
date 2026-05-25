@@ -93,3 +93,6 @@ A small sheep-like creature with a large round woolly body and a yellow-blue str
 - Ampharos (various) — final evolution of the line
 - Mareep (other sets) — cross-print instances share species identity
 
+## Connections
+
+- [[mareep-line]] — base-stage member of the Johto Generation II Electric-sheep evolutionary line (Mareep no. 179 → Flaaffy no. 180 → Ampharos no. 181), introduced in Pokemon Gold and Silver (Game Freak / Creatures Inc. / Nintendo, 1999). This Reverse Holofoil print shares Miki Tanaka's sunlit spring-meadow art with the CRE-047 normal print and carries the canonical static-friction Pokedex flavor *"Rubbing its fleece generates electricity. You'll want to pet it because it's cute, but if you use your bare hand, you'll get a painful shock."* — the line's wool-as-charge-storage cost-of-power motif at its fleece-intact baseline before Flaaffy's bald-patches mid-stage and Ampharos's lighthouse-tail apex. The line's literary-reference reading (Philip K. Dick's 1968 *Do Androids Dream of Electric Sheep?*) and species-name etymology (Mareep as anagram of "ampere," Ampharos as "ampere" + Greek "pharos" / lighthouse) make this print one of the line's strongest fun-fact anchors in corpus. [PokemonTCG.io: swsh6-47; Bulbapedia: Mareep (Pokemon)]

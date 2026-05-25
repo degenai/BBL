@@ -87,3 +87,7 @@ A bald male-presenting figure in a decorated patterned robe holds a large glowin
 ### Related cards
 - Master Shen, Martial Meister (World Martial Arts Tournament, TB2-063) — Tao is Shen's younger brother; both are Crane School / apparatus-of-extraction figures
 - Unyielding Victory Jackie Chun (World Martial Arts Tournament, TB2-058) — Roshi and Shen trained under Mutaito together; Tao's existence as Shen's brother links the rival school lineages
+
+## Connections
+
+- [[crane-school-cohort]] — Mercenary Tao is Master Shen's younger brother and the canonical monetized-assassin extension of the Crane School — the apparatus that takes the school's assassination-focused pedagogy and runs it as pure contract killing at 10 billion Zeni per kill (100 million in the Japanese version). His signature Dodonpa is the Crane School's foundational ki technique, the same move Shen taught Tien and Chiaotzu — Tao is canonically the brother-extension-as-monetization beat of the franchise's clearest *capital-and-kinship-fused-as-apparatus* lineage. TB2-048's design positions him as the sacrifice-target within the cohort's mechanical encoding: when this card is KO'd, Tien Shinhan (TB2-043) switches to Active Mode and gains [Double Strike] — the canonical Tien-vs-Tao rivalry compressed into a single Bandai game-state interaction across the same 2018 booster.

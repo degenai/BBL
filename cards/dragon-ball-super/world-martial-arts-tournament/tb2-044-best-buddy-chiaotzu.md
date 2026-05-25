@@ -86,3 +86,7 @@ A small, round-bodied figure with a distinctive white spherical face, large circ
 - Wild Tiger, the Imposing (TB2-031, World Martial Arts Tournament) — same set
 - Chiaotzu (Dawn of the Z-Legends set) — alternate Chiaotzu card from a later DBS TCG set [WebSearch: TCGPlayer Dawn of the Z-Legends Chiaotzu]
 
+## Connections
+
+- [[crane-school-cohort]] — Chiaotzu is the second of Master Shen's canonical principal disciples, paired with Tien Shinhan from the 22nd Tenkaichi Budokai onward as the school's psychic-support half of the Tien-Chiaotzu lifelong partnership. TB2-044's mechanical Auto canonicalizes that decades-long partnership as a game-state relationship: comboing this card during your turn switches 'Tien Shinhan, Trading Moves' (TB2-043) to Active Mode — Bandai encoding the friendship pillar of the cohort directly into the same TB2 booster. The Best Buddy register frames Chiaotzu in his loyalty-and-defection-side state, the moment after the school's master ordered them both killed and Roshi's Kamehameha spared them, redirecting both into the Turtle School-adjacent Z-Fighter roster from that point onward.
+

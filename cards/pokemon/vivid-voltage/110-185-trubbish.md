@@ -77,3 +77,8 @@ A small round creature whose body is a torn green garbage bag grins broadly, its
 **Creatures:** Trubbish
 **Genre cues:** anime
 
+## Connections
+
+- [[pollution-pokemon]] — Trubbish is the base form of the solid-urban-garbage line, a Generation V pure-Poison-type from the Unova roster (National Pokedex no. 568) sharing the cohort's structural template of one base form plus one single-evolution into Garbodor. The flavor text on this Vivid Voltage print (*"Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokemon living in your room."*) canonicalizes the species' preference for human-discarded waste as habitat, the designer thesis that solid-waste Pokemon emerge wherever urban trash accumulates, including residential interiors. The bright aqua-teal palette and wide grinning mouth in this Kyoko Umemoto print stage the species in cheerful-aquatic-comedic register, a tonal contrast to the same artist's twilight-forest-lurker staging on the Rebel Clash 117 Trubbish print that makes Trubbish the cohort's first multi-print in-corpus member with two distinct interpretive registers on the same species.
+
+

@@ -84,3 +84,8 @@ A young female figure stands in a composed pose wearing a layered outfit of whit
 - Fina (Legend) (Opus VIII, 8-060L) — high-rarity dual print of the same character, same set
 - Rain (Rare) (Opus VIII, 8-021R) — Rain is the leader of the FFBE trio; IP-verified in corpus
 - Lasswell (Foil) (Opus VIII, 8-043H) — Lasswell is Fina's fellow party member; Hero rarity, in-corpus
+
+## Connections
+
+- [[ffbe-opening-arc-party]] — Fina is the metaphysical axis of Final Fantasy Brave Exvius's opening-arc playable trio (Rain, Lasswell, Fina), the amnesiac Crystal-of-Earth girl whose Visions-grantor role couples Rain's active-protagonist arc and Lasswell's deuteragonist arc into a single relational triangle. This Common-rarity printing is the budget-tier half of Fina's Opus VIII dual-print, mechanically mirroring her in-game role through a dual-trigger (entry + Break Zone exit) that activates other Wind Characters — a card-design echo of her narrative function as the one who hands her companions their power. The 8-060L Legend + 8-061C Common dual-print is FFTCG's standard move for featured-IP protagonists, ensuring Fina is accessible at both chase and budget tiers within the same designer-formalized FFBE-debut set.
+

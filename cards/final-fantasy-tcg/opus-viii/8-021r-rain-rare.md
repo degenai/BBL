@@ -84,3 +84,7 @@ A male figure with pale, short-cropped hair stands in a composed but ready postu
 - Lasswell (Opus VIII, 8-043H) — Rain's adopted brother and canonical FFBE companion; Hero rarity, same set
 - Graham (Opus VIII, 8-075C) — another FFBE character in the same set
 
+## Connections
+
+- [[ffbe-opening-arc-party]] — Rain is the active protagonist of Final Fantasy Brave Exvius's Season One playable trio (Rain, Lasswell, Fina), serving as knight-commander of Grandshelt's airship brigade and the son of the kingdom's vanished finest knight Sir Raegen. The Opus VIII Rare printing (March 2019) is one of four FFTCG slots through which Square Enix simultaneously debuted the FFBE opening-arc party — Rain Rare, Lasswell Hero, Fina Legend + Common — making this card the leader-anchor of the designer-formalized FFBE cohort moment in the game. Membership here predicates on Rain's appearance in FFBE's canonical opening-arc party plus the Category BE card-frame marker that binds the FFBE roster across all FFTCG Opus sets.
+

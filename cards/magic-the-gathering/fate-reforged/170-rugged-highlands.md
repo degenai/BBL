@@ -86,3 +86,7 @@ A sweeping mountain landscape painting. Two massive rocky peaks dominate the upp
 - Blossoming Sands (Fate Reforged) — same cycle; green-white equivalent
 - Dismal Backwater (Fate Reforged) — same cycle; blue-black equivalent
 - Gruul Turf (Ravnica: City of Guilds) — older red-green dual land; enter-tapped bounce mechanic vs. life-gain; earlier entry in the budget red-green mana-fixing lineage
+
+## Connections
+
+- [[ktk-gain-lands]] — the red-green (Gruul-pair) member of the Khans-block ten-card common gain-land cycle, sharing the cycle's enters-tapped + 1-life-on-ETB + dual-tap rules text. Eytan Zana has illustrated this card across at least 10 of its 17 total printings — including both the KTK-240 clan-epoch view and the FRF-170 dragon-warlord-era view of the same alpine valley — making him the cycle's most-recurring single artist for any one location. The FRF-past twilight composition with no figures or clan architecture reads as the cycle's most overtly "untouched" before-painting, sitting in clean contrast to the KTK-present companion under the cycle's stewardship-across-timelines design conceit.

@@ -93,3 +93,7 @@ Garbodor fills the center frame as a bloated, irregular creature resembling a to
 - Koffing (various printings) — Gen 1 pollution cohort; wave 103 vision enriching alongside Garbodor
 - Garbodor (BREAKpoint, XY/BKP) — earlier printing; notable for the Garbotoxin Ability, a competitively pivotal card in its era
 
+## Connections
+
+- [[pollution-pokemon]] — Garbodor is the Stage-1 evolution of Trubbish and the cohort's solid-waste-substrate evolved-form anchor, a Generation V pure-Poison-type from the Unova roster (National Pokedex no. 569) that completes the cohort's three-substrate framework as the solid-urban-garbage leg added 14 years after the Gen I two-line foundation. This card is the **load-bearing canonical citation for the cohort** — its Trivia carries the Ken Sugimori / Takao Unno Nintendo Dream interview attribution making the three-line cross-generational structural-parallel framework designer-stated rather than BBL-inferred, with the Trubbish / Garbodor line explicitly designed to represent urban land pollution in the Unova region. The bloated-garbage-bag body plan rendered against a dim industrial backdrop in this Rebel Clash print is the cohort's clearest visual statement of solid-waste-as-creature-body, and the flavor *"This Pokemon eats trash, which turns into poison inside its body"* frames the species as a pollution-converter (transforming existing human waste into endogenous toxin) rather than as a pollution-source ex nihilo.
+

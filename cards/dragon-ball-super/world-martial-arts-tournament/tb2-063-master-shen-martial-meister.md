@@ -87,3 +87,7 @@ A tall lean male-presenting figure in a martial arts uniform with a distinctive 
 ### Related cards
 - Mercenary Tao, Trading Moves (World Martial Arts Tournament, TB2-048) — Tao is Shen's younger brother; both are Crane School / apparatus-of-extraction
 - Unyielding Victory Jackie Chun (World Martial Arts Tournament, TB2-058) — Roshi/Jackie Chun is Shen's canonical rival from their shared Mutaito training lineage
+
+## Connections
+
+- [[crane-school-cohort]] — Master Shen (the Crane Hermit, Tsuru Sennin) is the cohort's schoolmaster — the canonical founder of the Tsuru Sen-ryū whose assassination-focused pedagogy shaped Tien and Chiaotzu as weapons and whose younger brother Mercenary Tao monetized the same philosophy as pure contract killing. Shen and Roshi canonically trained together under the legendary Master Mutaito; after the King Piccolo crisis their paths diverged into Crane (paid-killer) and Turtle (protect-the-weak) lineages, and TB2's parallel-construction *Martial Meister* card titles (Shen TB2-063, Roshi TB2-057) canonicalize that schoolmaster-rivalry as a designer-coordinated paired-print within the same 2018 booster. The 22nd Budokai climax — Shen ordering Chiaotzu to paralyze Goku, Tien refusing the contract and defecting, Shen ordering both disciples killed, Roshi's Kamehameha blasting him out of the stadium to save Chiaotzu — is the canonical moment the cohort's apparatus collapses under its own pedagogy, the *contractor* exposed and the *workers* freed.

@@ -95,3 +95,7 @@ A tall, twisting wooden staff stands centered against a hazy, warm-toned backgro
 - Staff of the Mind Magus (M14, no. 221) — blue cycle member
 - Courser of Kruphix (Born of the Gods, no. 119) — green lifegain on land-drop, direct mechanical parallel at higher power level
 
+## Connections
+
+- [[staff-of-the-magus-cycle]] — Green member of the designer-coordinated five-card WUBRG common-artifact lifegain cycle at M14 collector numbers 219-223. The druidic gnarled-wood-and-charms iconography reads as shaman/anti-civilization, and "ferocity in oppressive times" is the most pointed of the five mottos — the only one whose antagonist condition reads as social/political rather than psychological. Not reprinted in M15; the M14 printing is the only standard printing of this cycle member.
+

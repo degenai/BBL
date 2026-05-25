@@ -79,3 +79,7 @@ A large round purple spherical creature floats in what appears to be an indoor d
 **Iconography:** skull-crossbones
 **Genre cues:** anime
 
+## Connections
+
+- [[pollution-pokemon]] — Koffing is the base form of the airborne-gas line, a Generation I pure-Poison-type from the Kanto roster (National Pokedex no. 109) sharing the cohort's structural template of one base form plus one single-evolution into Weezing. The flavor text on this Rebel Clash print (*"Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash."*) is the cohort's clearest in-canon statement of cross-substrate inter-line behavioral coupling, the gas-substrate species canonically dependent on the solid-waste substrate's emissions for sustenance. The skull-crossbones marking visible on the body is the species' diagnostic visual identifier per Bulbapedia design-source notes, and the warm-lit indoor domestic backdrop stages this print as a toxic-presence-in-home-environment register that extends the cohort's urban-pollution coding into the residential-interior frame.
+

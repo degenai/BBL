@@ -85,3 +85,8 @@ A humanoid figure stands in a composed, elegant pose wearing layered robes in sh
 - Dark Fina (Opus VIII, 8-042L) — alternate FFBE character (Sage of Hess); different card type and ability profile
 - Lasswell (Opus VIII, 8-043H) — FFBE co-protagonist; rated 4.5/5 in Crystarium review; shares Wind/Fire synergy axis with Fina
 - Fina (Opus VIII, 8-061C) — lower-rarity same-character card with a different cost and activation-focused kit
+
+## Connections
+
+- [[ffbe-opening-arc-party]] — Fina is the metaphysical axis of Final Fantasy Brave Exvius's opening-arc playable trio (Rain, Lasswell, Fina), the amnesiac girl who emerged from the Crystal of Earth with no memories save her name and grants Rain and Lasswell the power of Visions to oppose the Sworn Six of Paladia. This Legend-rarity printing is the chase-tier half of Fina's Opus VIII dual-print (~$0.86 market vs ~$0.17 for the Common 8-061C) and carries Yoshitaka Amano's signature painterly line-art, marking it as a designer-formalized prestige slot in the FFBE-debut set. As the Vision-grantor whose power flows to both Rain and Lasswell, Fina is the structural pivot that makes the trio's canonical framing a metaphysically-coupled three rather than a loose adventurer band.
+

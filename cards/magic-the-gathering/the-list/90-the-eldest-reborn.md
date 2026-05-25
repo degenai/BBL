@@ -98,3 +98,7 @@ The art shows a hooded, gaunt skeletal figure emerging from a dark pool or sunke
 - The Eldest Reborn in WAR context — Bolas was ultimately stripped of his spark and exiled to the Meditation Realm at the end of War of the Spark; "The Eldest Reborn" therefore functions as a narrative irony in retrospect
 - Phyrexian Ironworks (MH3, no. 130) — another Ravenna Tran / Jenn Ravenna card in the corpus; anchor of the artist node
 
+## Connections
+
+- [[nicol-bolas]] — The Eldest Reborn names Nicol Bolas in the card title itself: Bolas is canonically the eldest of Magic's original Elder Dragon cycle (Chromium, Arcades Sabboth, Palladia-Mors, Nicol Bolas, Vaevictis Asmadi), making "the Eldest" a direct title-level reference in Dominaria's pre-WAR setup arc. The Saga's three chapters mechanically storyboard Bolas's resurrection sequence — Chapter I opponent-sacrifice (corrupting allies), Chapter II opponent-discard (psychic assault), Chapter III graveyard-to-battlefield reanimation (placing him back into the world) — and the community treats this as load-bearing in deckbuilding, with EDHREC reporting the card in roughly 52% of Nicol Bolas, the Ravager Commander builds and 63% of Bolas Planeswalker-focused builds. The depicted hooded skeletal figure is not literally Bolas; the title and the inclusion-pattern carry the wire, the chapter abilities corroborate it. `[Scryfall DOM-90]` `[EDHREC: Nicol Bolas, the Ravager commander page]` `[cards/_characters/nicol-bolas.md]`
+

@@ -94,3 +94,7 @@ A tall ornate staff dominates the frame vertically. Its crown is a sharp, clawed
 - Staff of the Sun Magus (M14, 222) — cycle member, white alignment, M14-only printing
 - Staff of the Wild Magus (M14, 223) — cycle member, green alignment, M14-only printing
 
+## Connections
+
+- [[staff-of-the-magus-cycle]] — Red member of the designer-coordinated five-card WUBRG common-artifact lifegain cycle that originated in M14 at consecutive collector numbers 219-223. This is the M15 reprint (no. 233) — one of only two cycle members (alongside Mind Magus, M15-234) selected for M15 reprint, both still credited to Daniel Ljunggren. The clawed-flaming-finial iconography reads as fire-magus/cultist, with "passion in indifferent times" positioning intensity as the red-coded answer to apathy.
+

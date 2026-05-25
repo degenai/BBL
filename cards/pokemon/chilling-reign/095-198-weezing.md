@@ -76,3 +76,7 @@ Two large round purple creatures are conjoined together, one larger and one smal
 **Creatures:** Weezing
 **Genre cues:** anime
 
+## Connections
+
+- [[pollution-pokemon]] — Weezing is the Stage-1 evolution of Koffing and the cohort's airborne-gas-substrate evolved-form anchor, a Generation I pure-Poison-type from the Kanto roster (National Pokedex no. 110) sharing the cohort's structural template of one base form plus one single-evolution at roughly equal base-stat totals. The flavor text on this Chilling Reign print (*"Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing."*) canonicalizes the species as the cohort's only conjoined-twin evolution mechanism, structurally distinct from the cohort's other two lines' standard linear evolution patterns. The two conjoined scowling spheres billowing dark gas in this art are the cohort's clearest visual statement of toxic-airborne-pollution-as-creature-body, the gaseous substrate rendered as paired-mutant-organism rather than as solitary form.
+

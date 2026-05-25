@@ -86,3 +86,7 @@ A male figure in the signature Saiyan battle armor — a white chest plate over 
 - Tenacious Vegeta (Galactic Battle, BT1-066) — same Vegeta character node, Battle of Gods Saga Super Saiyan form
 - At All Costs Vegeta (Colossal Warfare, BT4-030) — same Vegeta character node, Universe Survival Saga Super Saiyan Blue form
 
+## Connections
+
+- [[vegeta]] — Android Cell Saga base-form register of the Prince of All Saiyans, depicting the signature Saiyan royal armor (white chest plate over blue bodysuit) that operates as Vegeta's canonical Frieza-Saga-onward costume distinct from Goku's Turtle School gi. This is the lower-rarity base-Vegeta companion to BT2-076 Full Power Vegeta, the back-to-back Cell Saga pairing Bandai placed adjacent in the Union Force set list. The card sits in the same Saiyan-royal-lineage continuity that defines Vegeta across thirty-five years of franchise output — the proud prince of a dead race, refusing to yield regardless of the power gap.
+

@@ -92,3 +92,7 @@ A compact male warrior with upright spiky golden hair lunges forward in an aggre
 - Son Gohan, Family of Justice (Galactic Battle, BT1-062) — same set, rival Saiyan cluster
 - Chain Attack Trunks (Mythic Booster, SD2-05) — Vegeta's son, thematic father-son pair
 
+## Connections
+
+- [[vegeta]] — Battle of Gods Saga Super Saiyan register of the Prince of All Saiyans, son of King Vegeta and canonical foil-rival to Son Goku since the 1989 Saiyan Saga. The Battle of Gods narrative this print canonicalizes is the moment Vegeta's emotional ceiling cracks in protection of family rather than in pursuit of strength — Beerus slaps Bulma and Vegeta goes Super Saiyan from rage, one of the franchise's most character-defining beats. The "Tenacious" subtitle directly encodes the Saiyan-pride refusal-to-yield trait, mechanically embodied by the attack-deterrent KO-the-attacker skill that punishes opponents for engaging.
+

@@ -98,3 +98,7 @@ Mudbray is depicted in a dynamic low pose — legs spread or tucked, body close 
 ### Related cards
 - Mudsdale (various sets) — Stage 1 evolution; the Draft Horse Pokemon (no. 750); the evolved form that carries the line's labor-anchor to full expression
 - Mudsdale GX (Sun & Moon era) — GX-tier print of the evolution; the strongest TCG representation of the draft-animal design
+
+## Connections
+
+- [[mudbray-line]] — Base-stage print of the Alola Generation VII pure-Ground equine mud line; this Sword & Shield-era Mudbray (Vivid Voltage 096/185, Naoyo Kimura art, IP-verified) depicts the Donkey Pokemon (no. 749) in a low crouching or rolling pose on muddy ground, compact brown body with cream muzzle in warm diffuse daylight. Flavor text *"Loads weighing up to 50 times as much as its own body weight pose no issue for this Pokemon. It's skilled at making use of mud."* is the species' canonical 50x-bodyweight draft-load statistic — among the most direct labor-register flavor texts in the corpus, shared with the SS Base Set 105/202 print. This card's trivia pass is the in-corpus canonical citation source for the line's Draft Horse Pokemon classification, the Alola Ride Pokemon role (Mudsdale Gallop), and the mainland-extinction lore.

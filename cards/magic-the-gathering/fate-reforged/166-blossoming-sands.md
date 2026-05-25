@@ -87,3 +87,7 @@ A wide landscape painting showing rolling hills of green and golden grass in the
 - Bloodfell Caves (Fate Reforged) — same cycle; black-red equivalent
 - Dismal Backwater (Fate Reforged) — same cycle; blue-black equivalent
 - Rugged Highlands (Fate Reforged) — same cycle; red-green equivalent
+
+## Connections
+
+- [[ktk-gain-lands]] — the green-white (Selesnya-pair) member of the Khans-block ten-card common gain-land cycle, sharing the cycle's enters-tapped + 1-life-on-ETB + dual-tap rules text. Sam Burley has illustrated this card across 17 total printings — including both the KTK-231 and FRF-166 versions — making him effectively the definitive visual voice for this Tarkir landscape across a decade of reprints. The FRF-past pastoral painting and the KTK-present companion sit inside the cycle's broader before/after narrative-design conceit about clan-epoch versus dragon-warlord-epoch stewardship of the land.

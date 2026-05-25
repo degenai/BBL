@@ -74,3 +74,7 @@ Mudsdale is depicted in a wide mid-shot, its large body commanding the frame. Th
 **Emotion read:** stoic, grounded, calm endurance
 **Creatures:** horse, draft-horse, equine
 **Genre cues:** anime, fantasy
+
+## Connections
+
+- [[mudbray-line]] — Stage-1 print of the Alola Generation VII pure-Ground equine mud line; this Scarlet & Violet-era Mudsdale (Destined Rivals 108/182, Uta art) depicts the Draft Horse Pokemon (no. 750) in a wide grounded mid-shot, heavy draft-horse build commanding the frame with hardened mud-armored lower legs prominent. Flavor text *"This Pokemon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery."* is the species' canonical physical-labor-and-pottery-clay dual-utility design as printed flavor — the corpus's clearest explicit beast-of-burden flavor at the evolved stage. Pairs with Mudbray 107/182 (Aliya Chen) at consecutive collector numbers as the corpus's strongest within-set Mudbray-line cohesion stack — both stages of the two-stage line in a single set.

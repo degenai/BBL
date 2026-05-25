@@ -86,3 +86,7 @@ A deeply shadowed scene of tangled, gnarled tree roots and branches forming a de
 - Blossoming Sands (Fate Reforged) — same cycle; green-white equivalent
 - Rugged Highlands (Fate Reforged) — same cycle; red-green equivalent
 - Dimir Aqueduct (Ravnica: City of Guilds) — older blue-black dual land; enter-tapped bounce mechanic vs. life-gain; earlier entry in the budget blue-black mana-fixing lineage
+
+## Connections
+
+- [[ktk-gain-lands]] — the blue-black (Dimir-pair) member of the Khans-block ten-card common gain-land cycle, sharing the cycle's enters-tapped + 1-life-on-ETB + dual-tap rules text. Sam Burley illustrated both the KTK-232 and FRF-168 versions of this same overgrown Tarkir waterway, and the card has gone on to be the most-reprinted entry of the four FRF members currently in BBL inventory (20 printings on Scryfall as of 2026). High sustained Commander demand for the Dimir color pair has kept this specific cycle member in the reprint rotation across Duel Decks, Warhammer 40,000 Commander, and Tarkir: Dragonstorm.

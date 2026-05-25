@@ -85,3 +85,8 @@ A young male figure stands in a composed, slightly confrontational stance. He we
 - Fina (Legend) (Opus VIII, 8-060L) — Fina is the third member of the FFBE lead trio; Legend rarity in same set
 - Fina (Common) (Opus VIII, 8-061C) — Common rarity Fina print; in-corpus
 - Lasswell (Opus VII) — Lasswell's first FFTCG appearance, teased before the full Opus VIII expansion
+
+## Connections
+
+- [[ffbe-opening-arc-party]] — Lasswell is the deuteragonist of Final Fantasy Brave Exvius's opening-arc playable trio (Rain, Lasswell, Fina), Rain's adopted brother raised by Sir Raegen, and the wielder of the katana Purple Lightning that appears in the FFBE title-screen logo. This foil Hero-rarity printing is the marketing co-headliner of Opus VIII's FFBE/FFXV push per the Square Enix press release, sharing flagship status with Noctis (FFXV) and rated "Must Kill" 4.5/5 in the Opus VIII limited format. Lasswell anchors here as the Season Two focus character of the trio whose brotherhood-thread with Rain forms the relational triangle Fina's Vision-grantor role completes.
+

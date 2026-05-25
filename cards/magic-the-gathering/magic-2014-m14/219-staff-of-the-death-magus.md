@@ -93,3 +93,7 @@ A tall, slender, dark metal staff dominates the center of the frame, planted ver
 - Staff of the Sun Magus (M14, no. 222) — white cycle member, same set (in this batch)
 - Staff of the Wild Magus (M14, no. 223) — green cycle member, same set (in this batch)
 - Basilisk Collar (Worldwake, no. 134) — comparable lifegain artifact, frequently compared in Commander discussions
+
+## Connections
+
+- [[staff-of-the-magus-cycle]] — Black member of the designer-coordinated five-card WUBRG common-artifact lifegain cycle printed at consecutive M14 collector numbers 219-223. Daniel Ljunggren art and the parallel-construction flavor motto ("A symbol of ambition in ruthless times") are cycle-cohesion signatures shared across all five staves. The "ambition" virtue is structurally unusual within the cycle — it is the only motto naming the wielder's own active drive rather than a defensive virtue answering external conditions.

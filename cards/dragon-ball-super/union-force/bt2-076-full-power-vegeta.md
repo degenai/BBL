@@ -89,3 +89,7 @@ A humanoid figure with spiked golden hair stands in a wide-legged power stance. 
 - Perfect Force Cell (Union Force, BT2-084) — the villain Vegeta empowered by allowing Android 18 absorption
 - God Charge Vegeta (Galactic Battle, BT1-036) — earlier Vegeta card in corpus; tracks his transformation arc across sets
 
+## Connections
+
+- [[vegeta]] — Android Cell Saga "Full Power Super Saiyan" register of the Prince of All Saiyans, the same canonical foil-rival to Son Goku whose Saiyan-pride operating mode propagates across every named Dragon Ball arc. "Full Power Vegeta" specifically references his Cell Games training: after letting Cell absorb Android 18 to reach Perfect form for the sake of a worthier fight, Vegeta trains himself to a new ceiling he names Full Power Super Saiyan. The card's ambivalent narrative weight — peak power that was also the moment his pride nearly doomed the planet — is the canonical Saiyan-pride-taken-past-prudence beat that prefigures the more catastrophic Majin-seal failure in the Buu Saga.
+

@@ -52,3 +52,7 @@ tags:
 **Composition:** figures: , facing: 
 **Setting:** 
 **Mood / lighting:**
+
+## Connections
+
+- [[mudbray-line]] — Base-stage print of the Alola Generation VII pure-Ground equine mud line; this Sword & Shield-era Mudbray (Sword & Shield Base Set 105/202, Shibuzoh. art) is the line's earliest SS-era print of the Donkey Pokemon (no. 749). Flavor text *"Loads weighing up to 50 times as much as its own body weight pose no issue for this Pokemon. It's skilled at making use of mud."* prints the species' canonical 50x-bodyweight draft-load statistic — among the most direct labor-register flavor texts in the corpus, shared with the Vivid Voltage 096/185 print. Card is currently `manual-review` flagged (set-code fuzzy-fallback art-match uncertainty) and not yet vision-passed; membership here predicates on species identity (unambiguous from name, set, and flavor text), not enrichment status.

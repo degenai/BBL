@@ -88,3 +88,7 @@ A dark underground or enclosed space dominates the composition. Large draped fab
 - Blossoming Sands (Fate Reforged) — same cycle; green-white equivalent
 - Rugged Highlands (Fate Reforged) — same cycle; red-green equivalent
 - Jungle Hollow (Fate Reforged) — same cycle; black-green equivalent
+
+## Connections
+
+- [[ktk-gain-lands]] — the black-red (Rakdos-pair) member of the Khans-block ten-card common gain-land cycle, sharing the cycle's enters-tapped + 1-life-on-ETB + dual-tap rules text. Adam Paquette painted both the KTK-229 and FRF-165 versions of this same Tarkir cave system, with the FRF printing depicting the location 1,280 years prior to the clan-epoch KTK painting. The paired Paquette compositions make this card one of the cleaner internal before/after exhibits inside the cycle's stewardship-comparison-across-timelines design conceit.

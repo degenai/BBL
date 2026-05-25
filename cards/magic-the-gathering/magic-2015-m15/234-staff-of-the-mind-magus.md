@@ -93,3 +93,7 @@ A vertical composition centered on a tall ceremonial staff held upright by a sin
 - Staff of the Sun Magus (M14, 222) — cycle member, white alignment, M14-only printing
 - Staff of the Wild Magus (M14, 223) — cycle member, green alignment, M14-only printing
 
+## Connections
+
+- [[staff-of-the-magus-cycle]] — Blue member of the designer-coordinated five-card WUBRG common-artifact lifegain cycle that originated in M14 at consecutive collector numbers 219-223. This is the M15 reprint (no. 234) — one of only two cycle members (alongside Flame Magus, M15-233) selected for M15 reprint, both still credited to Daniel Ljunggren. The spiral-finial-against-stacked-books iconography reads as scholar-mage/arcanist, with "sagacity in bewildering times" positioning wisdom as the blue-coded answer to confusion.
+

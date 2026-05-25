@@ -77,3 +77,7 @@ A large, powerfully built horse Pokemon dominates the frame in a dynamic stance.
 **Emotion read:** powerful and unstoppable; braced strength with forward momentum
 **Creatures:** Mudsdale, horse, draft horse
 **Genre cues:** anime, fantasy
+
+## Connections
+
+- [[mudbray-line]] — Stage-1 print of the Alola Generation VII pure-Ground equine mud line; this Sun & Moon-era Mudsdale (Burning Shadows 78/147, TOKIYA art) depicts the Draft Horse Pokemon (no. 750) with hardened mud-encrusted lower legs in a dynamic powerful stance. Flavor text *"It spits a mud that provides resistance to both wind and rain, so the walls of old houses were often coated with it."* renders the line's mud-as-building-material Pokedex window — labor-utility canon at architectural scale, distinct from the physical-labor-and-pottery-clay flavor on the Destined Rivals print. Membership predicates on species identity (no. 750, Ground-type, Stage 1 from Mudbray at level 30) rather than print or set.

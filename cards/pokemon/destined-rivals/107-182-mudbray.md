@@ -74,3 +74,7 @@ Mudbray is shown in a dynamic running or charging pose, its compact body leaning
 **Emotion read:** energetic, forward momentum, determined charge
 **Creatures:** donkey, equine, small-beast
 **Genre cues:** anime, fantasy
+
+## Connections
+
+- [[mudbray-line]] — Base-stage print of the Alola Generation VII pure-Ground equine mud line; this Scarlet & Violet-era Mudbray (Destined Rivals 107/182, Aliya Chen art) depicts the Donkey Pokemon (no. 749) in a dynamic running or charging pose, mud-coated body leaning into forward motion. Flavor text *"This Pokemon covers itself in mud that it has regurgitated. The mud won't dry out even if it's exposed to the sun for a long time."* renders a mud-self-coating Pokedex window distinct from the 50x-bodyweight load-capacity flavor printed on the SS Base and Vivid Voltage prints. Pairs with Mudsdale 108/182 (Uta) at consecutive collector numbers as the corpus's strongest within-set Mudbray-line cohesion stack — both stages of the two-stage line in a single set.

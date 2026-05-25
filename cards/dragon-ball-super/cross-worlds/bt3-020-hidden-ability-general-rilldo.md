@@ -87,3 +87,7 @@ A large, heavily built humanoid figure in dark plated armor stands in a powerful
 - Power-absorbing Luud (BT3-016, Cross Worlds) — Luud is a fellow Machine Mutant from the M-2 faction
 - Handy Giru (BT3-013, Cross Worlds) — Giru originated from M-2 before defecting to the heroes' side
 - Shocking Future Son Goku (BT3-007, Cross Worlds) — Goku fought Rilldo on M-2; Rilldo's power exceeding Majin Buu was Goku's stated assessment
+
+## Connections
+
+- [[machine-mutants-m2]] — General Rilldo is canonically Dr. Myuu's top general and commander of Machine Planet M-2's military, the M-2 garrison's combat capstone whose canonical multi-stage transformation system culminates in the Hyper Meta-Rilldo apex form that liquefies into and merges with M-2's planetary metal infrastructure. The heavily armored figure in dark plating depicted is the canonical Machine Mutant absorption-mechanic operating at the small-cohort scale (Rilldo absorbs the Sigma Force's remains after Super Saiyan Goku dispatches them) and at the infrastructure scale (Hyper Meta-Rilldo merges with the planet itself). Wires here on the M-2-garrison-commander axis: the canonical Goku-vs-Rilldo battle on M-2 also anchors Goku's first Super Saiyan 3 transformation in the GT continuity, making Rilldo the canonical power-scaling threshold the early GT arc uses to establish the Machine Mutant faction as a Buu-Saga-power-ceiling-prelude register.

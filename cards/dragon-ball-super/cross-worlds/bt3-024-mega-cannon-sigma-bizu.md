@@ -92,3 +92,7 @@ A large, imposing robotic figure constructed of silver and grey metallic compone
 - Planet M-2 (Cross Worlds, BT3-030) — Bizu's homeworld; same GT Machine Mutant cluster
 - General Rilldo (various) — Sigma Force commander; absorbs Bizu's remains after the Sigma Force falls
 - Commander Nezi (various) — fellow Sigma Force member; part of the Super Mega Cannon Sigma fusion
+
+## Connections
+
+- [[machine-mutants-m2]] — Bizu is canonically one of four Machine Mutants (Commander Nezi, Bizu, Ribet, Natt) comprising the Sigma Force — General Rilldo's elite mercenary unit on Planet M-2 whose canonical merge into the Super Mega Cannon Sigma combined-form operates at 10,000,000 combined power level per Dragon Ball Z: Scouter Battle Taikan Kamehameha. The large silver robotic figure with cannon-integrated body depicted exemplifies the canonical Machine Mutant absorption-and-merger species-mechanic at the small-cohort scale — four individual pieces merging into one combined-form titan, structurally consistent with BT3's canonical [EX-Evolve] keyword that evolves individual pieces into combined titans. Wires here on the M-2-garrison-sub-cohort axis: after Super Saiyan Goku dispatches the Sigma Force, General Rilldo canonically absorbs their remains to boost his own power — the canonical Machine Mutant cohort-cannibalization-as-power-escalation beat operating at the small-cohort scale before Rilldo's own infrastructure-scale merger with the planet.

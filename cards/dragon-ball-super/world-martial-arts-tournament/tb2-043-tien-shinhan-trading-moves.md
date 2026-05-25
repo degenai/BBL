@@ -89,3 +89,7 @@ A heavily muscular bald humanoid figure stands in an open fighting stance with a
 - Wild Tiger, the Imposing (TB2-031, World Martial Arts Tournament) — same set
 - Trading Blows Son Goku (TB2-036, World Martial Arts Tournament) — same set
 
+## Connections
+
+- [[crane-school-cohort]] — Tien Shinhan is the Crane School's canonical principal disciple, trained under Master Shen alongside Chiaotzu as a weapon rather than as a martial-arts practitioner. His defection at the 22nd Tenkaichi Budokai — refusing Shen's order to kill Goku, breaking from the apparatus-of-extraction his master built — is one of Dragon Ball's clearest *student-refuses-the-contract* moments and the moral pivot of the entire school's canonical arc. TB2-043's mechanical design canonicalizes the rivalry within the cohort directly: when 'Mercenary Tao, Trading Moves' (TB2-048) is KO'd, Tien switches to Active Mode with +5000 power and [Double Strike] — the Tien-vs-Tao rivalry encoded as a game-state sacrifice across the same 2018 booster.
+
