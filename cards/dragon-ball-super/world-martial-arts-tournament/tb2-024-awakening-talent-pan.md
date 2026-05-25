@@ -88,3 +88,8 @@ A young girl with short dark hair charges forward in a low fighting stance, fist
 - Fateful Reunion Chi-Chi (World Martial Arts Tournament, TB2-037) — Chi-Chi is Pan's paternal grandmother; same 4-generation lineage chain
 - Speed Attack Piccolo Jr. (World Martial Arts Tournament, TB2-040) — Piccolo mentored Gohan who is Pan's father; mentor-chain connects these cards
 - Trusting Relationship Kami (World Martial Arts Tournament, TB2-046) — stewardship lineage runs Kami → Piccolo → Gohan → Pan
+
+## Connections
+
+- [[pan]] — Pan is the canonical endpoint of the Bardock → Goku → Gohan → Pan four-generation Z-canon Saiyan-quarter-blood pedigree — the franchise's first depicted *quarter-Saiyan* character and the only female fourth-generation Z-canon Saiyan descendant in active rotation. This World Martial Arts Tournament print sits within the Buu-Saga / End-of-Z tournament-arc narrative anchor — the same canonical event where Pan first appears in Toriyama's manga as Videl's infant daughter in epilogue chapter 519, and the "Awakening Talent" subtitle is Bandai's print-cycle marker for Pan's early-fighter-development arc as the youngest of the Z-and-GT family-protagonist roster. The orange gi and fierce-determination forward-charge composition register this print at the apprentice-fighter tournament-arc register that complements the BT3/SD2/BT4 GT-traveling-protagonist cohort.
+

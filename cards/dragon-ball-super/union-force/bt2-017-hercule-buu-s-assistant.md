@@ -91,3 +91,7 @@ A heavyset humanoid man is depicted in a close-up to mid-shot, arms raised drama
 - Videl, Gohan's Partner (Union Force BT2-018) — Videl is Hercule's daughter; family cohort
 - Gohan (various) — Gohan defeated Cell; Hercule took the public credit
 
+## Connections
+
+- [[hercule]] — This print anchors Hercule's canonical Buu-Saga *friendship-and-assistant* register, where the World Martial Arts Champion's ONE instance of actual labor in the franchise is performed: befriending Fat Buu and transmitting the moral framework that suppresses Buu's destructive instincts. The "Buu's Assistant" subtitle is the *Union Force* set's direct Bandai-canonical naming of that relationship — the character whose canonical contribution is friendship-labor as the load-bearing moral pivot of the Buu Saga's catastrophic-stakes resolution. Within the four-print Hercule corpus, BT2-017 holds the friendship-anchor slot while TB2-001 holds the bombastic-confidence portrait, TB2-010 the secret-treaty credit-arrangement, and TB2-064 the I'm-the-World-Champion victory-claim.
+

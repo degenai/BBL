@@ -93,3 +93,7 @@ An older woman with white-gray hair stands in a warm outdoor setting, dressed in
 - Professor's Research (Professor Sonia) (various) — same mechanic, Magnolia's granddaughter variant
 - Professor's Research (Professor Juniper) (various) — original Unova variant of the same effect
 - Sonia (various) — Magnolia's granddaughter; fellow Galar researcher
+
+## Connections
+
+- [[galar-research-tradition]] — This Champion's Path print is the corpus's Magnolia-edition anchor at the senior-Professor / institutional-authority tier of the Galar academic-research lineage. The Yusuke Ohmura art frames Magnolia in her white lab coat outside a warm-brick research building in the storyline's opening register, the senior holder of the regional Pokemon Professor office she will canonically pass to her granddaughter Sonia on-screen at the postgame — the first main-series Pokemon Professor-title succession depicted during a single playthrough's runtime per Bulbapedia's Pokemon Professor page. The "Professor's Research (Professor Magnolia)" parenthetical canonical name (PokemonTCG.io swsh35-62) is the TCG's mechanism for inscribing each regional Professor's institutional authority into the same draw-7 Supporter slot across successive holders, anchoring the office-as-lineage at the card-frame layer.

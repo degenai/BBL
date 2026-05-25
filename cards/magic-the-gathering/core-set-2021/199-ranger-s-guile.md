@@ -93,3 +93,7 @@ A lean ranger with long flowing red hair leans out from behind a mossy tree trun
 - Snakeskin Veil (Kaldheim, no. 196) — direct functional successor: {G} instant, permanent +1/+1 counter and hexproof
 - Blossoming Defense (Kaladesh, no. 159) — competitive predecessor: {G} instant, +2/+2 and hexproof; saw significant Constructed play
 - Garruk Wildspeaker (Magic 2011, no. 174) — the named flavor-text speaker's most iconic card form
+
+## Connections
+
+- [[garruk-wildspeaker]] — Flavor-text attribution: "You don't survive in the wild by standing in plain sight." — Garruk Wildspeaker, the quote anchoring his pre-curse patient-predator philosophy. The line has been carried intact across five reprints (Innistrad 2011, M14 2013, M15 2014, The List 2019, M21 2020), making this one of Garruk's longest-running canonical-voice cards even though the art depicts an unnamed red-haired ranger rather than Garruk himself. The card pairs naturally with Naturalize in the corpus as the second of two Garruk-voiced flavor texts spanning roughly a decade of consistent Wildspeaker characterization.

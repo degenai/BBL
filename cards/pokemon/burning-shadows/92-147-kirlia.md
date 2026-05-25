@@ -83,6 +83,10 @@ A small, ballet-like humanoid creature twirls in a flower-filled field, its whit
 **Iconography:** petals, horns, spinning
 **Genre cues:** anime, fantasy
 
+## Connections
+
+- [[ralts-line]] — Hoenn Generation III Psychic-empath evolutionary line cohort node (Ralts no. 280 -> Kirlia no. 281 -> Gardevoir no. 282 OR Gallade no. 475 via Dawn Stone if male), introduced in Pokemon Ruby and Sapphire (Game Freak / Creatures Inc. / Nintendo, 2002). This Sun & Moon-era Anesaki Dynamic print is the corpus's most action-saturated Kirlia, depicting the species' Pokedex-canonical mood-indexed dancing behavior with red-orange flower petals swirling around a spinning figure mid-twirl — the joyful-when-Trainer-is-cheerful register made literal, with the flavor text *"It spins and dances when happy"* placing the print firmly at the empathy-to-action transition the line's design thesis turns on. Sibling to the Chilling Reign 060/198 (0313 art, forest clearing) and Lost Thunder 140 (Kouki Saitou art, soft pink setting) Stage-1 prints — three cross-set Kirlia renderings of the same dancing-mid-form register, each at a different mood / setting / lighting register. [PokemonTCG.io: sm3-92; Bulbapedia: Kirlia (Pokemon); Bulbapedia: Ralts line (TCG)]
+
 ## Trivia
 
 - **Species lore** — Kirlia is National Pokedex no. 281, a Stage 1 Psychic/Fairy type introduced in Generation III (Hoenn). It evolves from Ralts (level 20) and into either Gardevoir (level 30, any gender) or — if male — Gallade (via Dawn Stone, added in Generation IV). [PokemonTCG.io: sm3-92; WebSearch: Bulbapedia snippet]

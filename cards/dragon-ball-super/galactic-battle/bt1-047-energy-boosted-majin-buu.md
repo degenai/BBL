@@ -90,3 +90,7 @@ A round, pudgy pink-skinned figure floats in a dark starry void, arms spread wid
 - Frieza, The Galactic Emperor (Galactic Battle, BT1-084) — Frieza and Buu are the two apex villain archetypes in BT1: Frieza is imperial/calculated, Buu is primordial/chaotic
 - King Cold, Father of the Emperor (Galactic Battle, BT1-091) — both Buu and the Cold-family cards represent mass-destruction villain archetypes in the same set
 
+## Connections
+
+- [[majin-buu]] — Innocent / Fat Buu register at the Buu-Saga-opening base form; this BT1-047 print depicts the canonical post-unsealing rotund-pink form Babidi reawakens during the Dragon Ball Z Buu Saga. The card's Toriyama-installed *gleeful menace* uncanny-tone register — childlike playful affect paired with planet-level destructive energy-sphere overhead — is one of the franchise's clearest in-canon examples of the *child-affect-paired-with-mass-destruction* design tension. The BT1 inaugural-set Buu inclusion canonically affirms the Buu-form-roster's centrality to the DBS Card Game's primary-villain-archetype identity from launch; sibling Buu-form corpus prints sit at BT2-028 (revival-moment Innocent / Fat Buu), BT4-015 (Mr. Buu / Good Buu Baby-Saga-era), and TB2-028 (Scuffle Time Mr. Buu WMAT-arc).
+

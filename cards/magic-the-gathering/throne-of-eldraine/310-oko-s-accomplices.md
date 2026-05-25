@@ -96,3 +96,7 @@ Two slim faeries with iridescent wings and pale skin pose mid-air. The forward f
 - Faerie Vandal (CMZ, no. 26) — blue flying faerie creature in the corpus; faerie-tribal parallel
 - Charmed Sleep (ELD, no. 40) — fellow ELD card in the corpus; same set context
 
+## Connections
+
+- [[oko]] — Anchors here via the canonical-name attribution test rather than depicted-figure identity: the art shows two faerie operatives of the Eldraine fae court, not Oko himself, but the genitive title ("Oko's") and the flavor text *"They function as everything from assassins to jesters in the name of their fae king"* attribute them to him as the self-styled Fae King's instruments. Mechanically a `{2}{U}` Flying Faerie 1/1 from the same Throne of Eldraine Planeswalker Deck precon (ELD-309 through 313) that houses Oko, the Trickster. The attribution pattern parallels the Ral's-<Spell> cycle: court operatives named in the possessive read as the named-character's apparatus. `[Scryfall: ELD-310 flavor_text]` `[MTG Wiki: Oko]` `[magic.wizards.com: Throne of Eldraine Planeswalker Decks, 2019-09-18]`
+

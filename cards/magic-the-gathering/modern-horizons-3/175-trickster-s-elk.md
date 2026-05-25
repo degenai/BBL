@@ -83,3 +83,7 @@ A powerful elk stands in a dim, misty woodland, head turned slightly as it bello
 **Iconography:** fire, transformation, enchantment
 **Genre cues:** fantasy
 
+## Connections
+
+- [[oko]] — The card is the Bestow-Aura mechanical translation of Oko, Thief of Crowns' canonical +1 ability (turn a creature into a vanilla 3/3 Elk) printed as a standalone enchantment. The flavor text — Rowan Kenrith asking Will *"Is that one Dad?"* — reaches back to the Wildered Quest arc in which Oko transformed her father, High King Algenus Kenrith, into a stag for the Wild Hunt, with the now-grown twin wondering if the trick has been repeated yet again. Three independent canonical signals lock the attribution: the possessive title, the Rowan-Kenrith flavor signature, and the rules-text mirror of Oko's +1 ability. `[MTG Wiki: Oko]` `[MTG Wiki: Throne of Eldraine: The Wildered Quest]` `[Scryfall: MH3-175 oracle/flavor]`
+

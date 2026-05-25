@@ -90,3 +90,7 @@ At the center of the composition, a large spherical object with an orange mottle
 - Force of Vigor (Modern Horizons) — free-cast upgrade in green; destroys two targets
 - Wear/Tear (Dragon's Maze) — red/white split that covers both types separately
 - Garruk Wildspeaker (Lorwyn) — planeswalker whose flavor text appears on this card
+
+## Connections
+
+- [[garruk-wildspeaker]] — Flavor-text attribution: "When your cities and trinkets crumble, only nature will remain." — Garruk Wildspeaker, framing artifact destruction through his anti-civilization wilderness ethos. Garruk speaking over a green-aligned artifact-removal spell is the canonical color-pie attribution — green reclaiming what civilization built maps cleanly onto his Lorwyn-era worldview that the works of society are ultimately impermanent. The quote brackets the corpus's Garruk flavor-text span at the M14 (2013) end, paired with Ranger's Guile (M21, 2020) at the other end across seven years of consistent Wildspeaker voice.

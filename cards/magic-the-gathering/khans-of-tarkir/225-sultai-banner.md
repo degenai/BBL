@@ -97,3 +97,7 @@ A tall ceremonial standard rises from a swampy, overgrown ruin. The banner-pole 
 - Mardu Banner (Khans of Tarkir, no. 224) — cycle sibling
 - Temur Banner (Khans of Tarkir, no. 226) — cycle sibling
 - Sultai Charm (Khans of Tarkir) — Sultai-aligned instant; thematic parallel in the clan cycle structure
+
+## Connections
+
+- [[ktk-clan-banner-cycle]] — Sultai Banner is the BGU member of Khans of Tarkir's five-card common wedge-color mana-rock cycle, sharing the colorless-`{3}` / tap-for-wedge-color / sacrifice-for-card-draw template with the four sibling banners. The Sultai Brood's clan virtue *ruthlessness* and its dragon-aspect of the fang are encoded in the motto "Power to dominate, cruelty to rule" — the only motto in the cycle that names cruelty as an explicit clan virtue, mirroring the Sultai's stated lore identity (the clan does not merely defeat enemies, it subjugates and exploits them). The art's serpentine finial atop the banner pole embeds the Sultai's naga iconography directly into the physical standard; it is one of five original KTK banner paintings by Daniel Ljunggren, who illustrated the entire cycle.

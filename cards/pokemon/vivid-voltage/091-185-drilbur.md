@@ -78,3 +78,7 @@ A small, rounded mole-like creature crouches low on a bed of brown dirt and scat
 **Creatures:** mole, burrowing-creature
 **Genre cues:** anime, fantasy
 
+## Connections
+
+- [[drilbur-line]] — cohort attach: base-stage member of the Drilbur evolutionary line, the canonical Unova-region mole line introduced in Pokemon Black & White (Game Freak / Creatures Inc. / Nintendo, 2010), where Drilbur (National Pokedex no. 529, Ground-type, the Mole Pokemon) evolves at level 31 into Excadrill (no. 530, Ground/Steel-type, the Subterrene Pokemon a.k.a. the Drill King). This Vivid Voltage print is the Sword & Shield-era Yuka Morii rendering in her signature clay-figurine / sculpted tactile style — dark blue-grey body with cream face and underbelly, low crouching digging posture on a bed of dirt and pebbles, with flavor *"It brings its claws together and whirls around at high speed before rushing toward its prey"* restating the species' canonical compact rotating-drill mechanic in a predation register. Within this corpus the print pairs in-set with Excadrill VIV-122 (Anesaki Dynamic art) to form the line's strongest within-set base-and-evolved cohesion stack — structurally parallel to the within-Darkness-Ablaze Larvitar 086 + Pupitar 087 pair on the [[larvitar-line]] cohort — making this Drilbur a natural anchor for any creature-as-drill / labor / excavation / Chinese Zodiac Earth Rat Discrete Lair drawing on the line's full two-stage canon. [Bulbapedia: Drilbur (Pokémon); PokemonTCG.io: swsh4-91]
+

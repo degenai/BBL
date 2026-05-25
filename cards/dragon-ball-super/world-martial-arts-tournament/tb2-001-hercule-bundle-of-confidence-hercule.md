@@ -87,3 +87,7 @@ A large, broad-shouldered male figure with voluminous curly dark hair and a thic
 - Mighty Mask, Powers Combined (World Martial Arts Tournament, TB2-008) — Trunks and Goten entered Hercule's tournament in disguise
 - Hercule, Champion of Earth (various DBS sets) — other card representations of the same character across the DBS TCG
 
+## Connections
+
+- [[hercule]] — This print anchors Hercule's canonical *bombastic-confidence* register: the showboating-champion portrait register where the manufactured-celebrity persona shows up as itself, the showmanship as the canonical labor. The "Bundle of Confidence" subtitle frames Hercule's championship status as a constructed product rather than an emergent property of combat-tier ability — a canonical Toriyama framing of the persona-as-apparatus. TB2-001 holds the literal first card-number in the World Martial Arts Tournament set roster, and at qty 3 it is the corpus's strongest multi-copy lever on a single Hercule print per `[[bbl-multi-copy-bundles]]`.
+

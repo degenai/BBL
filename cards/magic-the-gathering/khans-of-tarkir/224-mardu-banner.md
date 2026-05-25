@@ -98,3 +98,7 @@ A tall red banner streams from a spear-tipped pole driven into the rocky ground 
 - Sultai Banner (Khans of Tarkir, no. 225) — cycle sibling
 - Temur Banner (Khans of Tarkir, no. 226) — cycle sibling
 - Mardu Charm (Khans of Tarkir) — Mardu-aligned instant; thematic parallel within the set's clan cycle structure
+
+## Connections
+
+- [[ktk-clan-banner-cycle]] — Mardu Banner is the RWB member of Khans of Tarkir's five-card common wedge-color mana-rock cycle, sharing the colorless-`{3}` / tap-for-wedge-color / sacrifice-for-card-draw template with the four sibling banners. The Mardu Horde's clan virtue *speed* and its dragon-aspect of the wings are encoded in the percussive monosyllabic motto "Speed to strike, fury to smash" — where the Jeskai banner's flavor contemplates, the Mardu banner's strikes, with no contemplation between action verbs. Mardu Banner is the most-included of the cycle on EDHREC (rank 9,750 as of wave 179), likely reflecting the deep bench of RWB commanders that benefit from cheap common fixing; the art is one of five original KTK banner paintings by Daniel Ljunggren.

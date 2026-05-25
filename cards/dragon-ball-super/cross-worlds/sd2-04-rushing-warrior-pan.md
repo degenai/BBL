@@ -88,3 +88,7 @@ A young female-presenting humanoid figure lunges forward in a full rushing charg
 - Supreme Kai of Time, World's Protector (Cross Worlds, BT3-113) — Pan's GT arc sits alongside the Xenoverse arc in the same Cross Worlds product wave
 - Rushing Warrior Pan (Cross Worlds, BT3-009) — referenced in vision pass as prior variant; same character, different art in the BT3 booster
 
+## Connections
+
+- [[pan]] — Pan is the canonical youngest member of the Goku-Pan-Trunks GT traveling trio — the quarter-Saiyan granddaughter of Son Goku whose canonical role across Dragon Ball GT is as the practical trio-coordinator alongside Goku and Trunks during the universe-spanning Black Star Dragon Ball hunt. This SD2 print is from the *Extreme Evolution* starter deck (one of two starter decks released alongside Cross Worlds in 2018), a red-color GT-arc deck where the Cross Worlds strategy page documents Pan pairing with the SD2-01 Goku Leader and the BT3-011 Trunks card to produce quick board presence by turns 2-3 — directly mapping the canonical traveling-trio onto deck-construction architecture. The full-rushing-charge pose and orange-red outfit place this print in the same GT-traveling-protagonist register as BT3-009, rendered as all-out forward momentum rather than ready stance.
+

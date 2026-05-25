@@ -84,3 +84,7 @@ A chibi-proportioned sprite-art figure stands in a martial arts fighting stance 
 - Sabin (Opus XI, 11-018H) — later Hero-rarity Sabin with Damage 5 mechanic and Fire element
 - Umaro (Opus VIII, 8-024C) — FF6 party member in the same set
 
+## Connections
+
+- [[ff6-returners-party]] — Sabin Rene Figaro is the younger Figaro twin who renounced his claim to the throne (via Edgar's rigged two-headed coin) to train under martial arts master Duncan, joining the Returners as the party's Blitz-system Monk. His canonical Returners moment — applying the Meteor Strike Suplex to the Phantom Train, bodyslamming an imperial-era locomotive into the ground — sits at the apex of FFVI community mythology and reads as a literal piece of anti-imperial physical comedy that the cohort node anchors to Square's 1994 Gestahlian-Empire framing. The Opus VIII 8-019C printing carries the Category VI marker in the card frame and pairs structurally with Edgar 8-005C as the within-set Figaro-twin sibling pair, making the two commons the simplest two-card Returners seed in the corpus.
+

@@ -100,3 +100,7 @@ Charmeleon stands in a dynamic posture against a dark fiery background, forelimb
 - Charizard (various) — final evolution, most reprinted card in the franchise
 - Charizard-GX / Charizard VMAX (various) — high-value prints in the charizard-line character node
 
+## Connections
+
+- [[charizard-line]] — Vivid Voltage Charmeleon (no. 024/185, Uncommon, SATOSHI NAKAI art) is the Sword & Shield-era mid-stage print of the cohort, National Pokedex no. 005 rendered in a close mid-shot with dark fiery background and strong rim lighting that pushes the combat-aggression register harder than the Himeno/kawayoo prints. The flavor text ("It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.") tracks the same canonical mid-stage temperament the cohort node identifies — Charmeleon's Pokedex-canon "becomes uncontrollable" combative-adolescence framing intensifying the tail-flame from base to apex. Sits in the corpus's strongest within-set evolutionary-arc triptych alongside VIV-023 Charmander and VIV-025 Charizard at three adjacent collector numbers across a single Sword & Shield-era set.
+

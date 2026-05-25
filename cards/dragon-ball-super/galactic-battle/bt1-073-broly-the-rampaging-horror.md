@@ -79,6 +79,10 @@ The image shows a muscular humanoid figure in a full-body power stance, arms spr
 **Iconography:** saiyan power aura, circular waist gem
 **Genre cues:** anime, sci-fi
 
+## Connections
+
+- [[broly]] — This card is the Super Rare Leader-flip face anchoring the Movie 8 / Koyama / 1993 Legendary Super Saiyan Broly within the Galactic Battle BT1 set's Broly-archetype green cluster. The green-gold LSS aura, circular blue waist-gem control device, and wild long-spiky hair are the canonical Toei visual signatures distinguishing this depiction from the Toriyama-authored 2018 DBS Broly redesign. Mechanically, the Leader's forced-discard ability re-enacts Broly's obliterative power and requires [[bt1-081-broly-s-ring]] to be tractable for its own pilot — making this print the apex-form payoff in the four-card cohort.
+
 ## Trivia
 
 - **Set context** — BT1-073 is a Special Rare (SPR) Battle card from Galactic Battle (DBS-B01), the inaugural booster set of the Dragon Ball Super Card Game, released 2017. Galactic Battle drew heavily from the classic DBZ film roster; Broly's inclusion in the first set signals his franchise-marquee status. Cards were available at sanctioned tournaments starting July 28, 2017. [WebSearch: PSA CardFacts BT1-073; Galactic Battle set overview]

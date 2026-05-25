@@ -71,6 +71,10 @@ tags:
 
 A large, muscular green gorilla-like creature stands with arms raised, caught mid-motion in what reads as a drumming or battle stance. On its back sits a massive organic drum made from a tree stump, wrapped with vines and roots. The creature's arms are thick and powerful, its posture dominant and wide. The color palette is bold — green body, brown earthy drum structure, with warm orange-brown tones in the background suggesting a forest or earth setting. The holofoil card art gives the image a shimmery quality. The composition puts the creature at three-quarter scale filling the frame.
 
+## Connections
+
+- [[galar-starters-trio]] — Designer-coordinated first-partner cohort node. Rillaboom is the Grass-line Stage-2 final form (National Pokedex no. 812) of the three Galar starter species introduced together in Pokemon Sword & Shield (Game Freak, November 2019) as the player-choice first partners, following the canonical Grass / Fire / Water trio pattern shared with Scorbunny and Sobble. Rillaboom's Taiko-drumming + Green Man (Celtic pagan growth-and-renewal symbol) design citation sits inside the cohort's load-bearing British-Isles thematic frame, alongside Cinderace's footballer rabbit (association football) and Inteleon's secret-agent lizard (British spy-thriller). This print's Rapid Strike subtype is the cohort's 3-of-4 majority assignment (Rillaboom + Sobble + Drizzile are Rapid Strike; only Scorbunny is Single Strike) per the Battle Styles meta-mechanic introduced one set earlier. [PokemonTCG.io: swsh6-18 species + subtype; Bulbapedia: Rillaboom (Pokemon); Pokemon.com: Galar starter Pokemon]
+
 **Subject:** Rillaboom, a large green gorilla-like Pokemon with a tree-stump drum on its back, raising its arms in a powerful drumming pose
 
 **Composition:** mid-shot, action, figures: solo, facing: forward

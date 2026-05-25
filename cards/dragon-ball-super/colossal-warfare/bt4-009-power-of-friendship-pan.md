@@ -91,3 +91,7 @@ A young girl stands in a confident, slightly forward-leaning pose against a brig
 - Intensifying Power Trunks (Colossal Warfare, BT4-012) — Trunks is Pan's co-protagonist in Dragon Ball GT's space arc
 - Blazing Spirit Son Goku (Colossal Warfare, BT4-005) — Pan's grandfather; third member of the GT space-arc trio
 
+## Connections
+
+- [[pan]] — Pan is the quarter-Saiyan daughter of Gohan and Videl, granddaughter of Son Goku, introduced in Dragon Ball Z's End of Z epilogue and elevated to lead-protagonist status as the youngest member of the Goku-Pan-Trunks traveling trio across Dragon Ball GT. This Colossal Warfare print is the Baby Saga register of the character — Bandai's per-card era designation places her among the small handful of BT4 protagonists who evaded Baby's possession entirely, and the card's auto-tutor ability (search top 5 for a GT-named Battle Card and play it free) mechanically models her canonical in-story role as the practical trio-coordinator who keeps the GT party functional while Goku and Trunks provide raw combat power. The headband-and-yellow-shorts costume here matches the Baby Saga continuity arc per the anchor's GT-traveling-protagonist register documentation.
+

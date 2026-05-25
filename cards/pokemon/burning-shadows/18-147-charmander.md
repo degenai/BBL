@@ -97,3 +97,7 @@ A small, upright orange lizard Pokémon stands in the foreground of a warm, oran
 - Charmeleon (multiple prints) — mid-stage evolution
 - Charizard (multiple prints) — final evolution; charizard-line node anchor
 
+## Connections
+
+- [[charizard-line]] — Burning Shadows Charmander (no. 18/147, Common, Kagemaru Himeno art) is the Sun & Moon-era base-stage print of the cohort, National Pokedex no. 004 rendered in Himeno's signature watercolor register against an amber bamboo-grove background. The flavor text ("The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.") is the canonical-by-corpus tail-flame-as-life-force statement the cohort node's design thesis turns on — the starter-as-life-companion frame at base-form scope. Pairs with the BST-46 Base Set Charmander as a two-decade illustrator-and-era continuity span across the same species at the same evolutionary stage.
+

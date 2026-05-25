@@ -98,3 +98,7 @@ A crimson banner emblazoned with a stylized white emblem snaps in the wind atop 
 - Sultai Banner (Khans of Tarkir, no. 225) — cycle sibling
 - Temur Banner (Khans of Tarkir, no. 226) — cycle sibling
 - Jeskai Charm (Khans of Tarkir) — another Jeskai-aligned multicolor artifact; cycle parallel within the set
+
+## Connections
+
+- [[ktk-clan-banner-cycle]] — Jeskai Banner is the UWR member of Khans of Tarkir's five-card common wedge-color mana-rock cycle, sharing the cycle's structural template (colorless `{3}`, tap for any of three wedge colors, sacrifice with `{U}{R}{W}` for a card draw) with the four sibling banners. The Jeskai Way's clan virtue *cunning* and its dragon-aspect of the mind are encoded in the two-virtue motto "Discipline to persevere, insight to discover" — the discipline-and-insight pair maps onto the clan's twin pillars of martial-monastic training and contemplative enlightenment. The card's Ljunggren art (banner on pole above a mountain monastery dome) is one of five original KTK banner paintings by the same illustrator, giving the cycle a single-artist visual signature that parallels Mathias Kollros's coverage of the sibling [[ktk-clan-charm-cycle]] in the same set.

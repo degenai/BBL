@@ -93,3 +93,7 @@ A humanoid figure wearing a white lab coat or scientist outfit stands in a rocky
 - Rare Fossil (Sword & Shield era Item card) — required by Cara Liss's oracle text; bench placeholder that evolves into a fossil Pokemon
 - Arctozolt (Vivid Voltage, no. 62/185) — one of four chimeric fossil Pokemon Cara Liss produces in-game; in the same set
 - Dracovish (Vivid Voltage, no. 40/185) — second fossil chimera in Vivid Voltage; Cara Liss's other signature product
+
+## Connections
+
+- [[galar-research-tradition]] — Cara Liss is the field-paleontology branch of the Galar academic-research lineage, the Route 6 fossil-revival paleontologist operating as the regional Professor's office's on-site excavation specialist. Per Bulbapedia's Cara Liss page, her four chimeric outputs (Arctozolt, Dracovish, Dracozolt, Arctovish) are explicitly NOT reconstructions of real ancient species — a designer-coordinated departure from every prior-generation fossil-revival NPC who reconstructs a single complete creature, framing Galar paleontology as institutionally distinct from prior-region fossil-revival continuity. The Hitoshi Ariga Vivid Voltage art seats her in a white lab coat at warm-toned rocky excavation walls, the on-site fieldwork register of the paleontology branch, with the oracle text's two-Rare-Fossil search faithfully mechanizing her in-game head-plus-body two-piece revival mechanic.

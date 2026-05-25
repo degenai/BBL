@@ -81,6 +81,10 @@ A blue monkey-like creature with a large curly blue topknot sits in a shallow, b
 **Creatures:** monkey
 **Genre cues:** anime, fantasy
 
+## Connections
+
+- [[elemental-monkey-trio]] — Simipour is the Water-type evolved-form member of the designer-coordinated elemental monkey trio (Pansage/Pansear/Panpour and Stone evolutions), one of three paired Gen V Unova species coordinated across type-triangle (Grass/Fire/Water), shared Stone-evolution mechanic, and the three-wise-monkeys cultural overlay (Simipour's pre-evolution Panpour maps to *mizaru*, see-no-evil). This Darkness Ablaze print (Shigenori Negishi art, seated tide-pool serenity) closed the Water arm and completed the trio at full canonical coverage in BBL inventory at wave 22, with the clean-water-preference flavor extending the cohort's care-and-nurture register into the see-no-evil evolved form. The trio is canonically complete in BBL inventory at 6 of 6 species across 13 prints, making the elemental-monkey-trio cohort the corpus's first fully-completed designer-coordinated Pokemon species cycle.
+
 ## Trivia
 
 - **Set context** — Darkness Ablaze is the 3rd Sword & Shield expansion, released August 14, 2020; 189 base-set cards (201 with secret rares), anchored by Charizard VMAX and Eternatus VMAX as the primary chase cards. `[PokemonTCG.io API: swsh3 set metadata]`

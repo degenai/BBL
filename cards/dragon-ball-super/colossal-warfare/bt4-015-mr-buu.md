@@ -89,3 +89,7 @@ A large, round, pink-skinned figure dominates the frame in a wide aggressive sta
 - Energy Boosted Majin Buu (Galactic Battle, BT1-047) — earlier Buu form card across DBS TCG history
 - Majin Buu: Kid (Ultra Limit / Fusion World, FB04-095) — Kid Buu incarnation in the newer Fusion World system
 
+## Connections
+
+- [[majin-buu]] — Mr. Buu / Good Buu register at the Baby Saga era; this BT4-015 print depicts the canonical reformed Z-Fighter-ally form that survives the Buu Saga through the Innocent-Buu fission and the Mr-Satan reformation beat. The Baby-Saga-era placement is lore-consistent with the canonical Mr-Buu-evaded-Baby-possession status — Baby canonically infected most of Earth during the GT Baby Saga but not Good Buu or Mr. Satan. Sibling Buu-form corpus prints sit at BT1-047 (Innocent / Fat Buu register), BT2-028 (Innocent / Fat Buu revival register), and TB2-028 (canonical Scuffle Time Mr. Buu WMAT-arc register).
+

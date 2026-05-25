@@ -99,3 +99,7 @@ An elderly humanoid figure in a white lab coat stands in a three-quarter pose ou
 - Sonia (Rebel Clash) — Magnolia's granddaughter; Galar researcher Supporter card
 - Marnie (Sword & Shield, no. 169) — paired Galar trainer Supporter from the same set
 
+## Connections
+
+- [[galar-research-tradition]] — This Sword & Shield Base Set print is the corpus's earliest-set Magnolia anchor, the block-opening swsh1 institutional depiction of the senior Galar Pokemon Professor at the storyline's open. Per Bulbapedia, Magnolia's research specialty is the Dynamax phenomenon she gives the player access to via the Dynamax Band, and her academic research subject is canonically what Chairman Rose and Macro Cosmos appropriate as the basis for the Darkest Day energy-extraction plan exposed by her granddaughter Sonia in the campaign's Act 3 reveal. The Yusuke Ohmura art seats Magnolia outside a large multi-story research facility — the institutional-architecture register of the regional Professor's office at the lineage's senior tier — paired by the same illustrator with the Champion's Path (swsh35-62) Magnolia print at a different research-building backdrop, the two prints together spanning the SWSH block's institutional anchor for Magnolia's role.
+

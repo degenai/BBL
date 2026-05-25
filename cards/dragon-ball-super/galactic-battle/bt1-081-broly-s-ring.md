@@ -79,6 +79,10 @@ The card depicts two figures in a narrative composition. The foreground figure h
 **Iconography:** gold-crown, control-artifact, binding
 **Genre cues:** anime, fantasy
 
+## Connections
+
+- [[broly]] — This dual-character Field card depicts both Broly (foreground, wearing the gold mind-control crown) and Paragus (looming behind as the controller) — the canonical Movie 8 control-relationship at the print-object level. The card's Permanent skill preventing the Broly Leader's forced-discard mechanic from affecting your own hand mechanically re-enacts Paragus holding Broly's destructive power in check, making this Extra a must-include scaffold for the BT1 Broly archetype. The crown-as-artifact is also the apparatus-of-paternal-revenge whose climactic shattering produces the "apparatus eats its architect" beat — the Movie 8 resolution structurally parallel to the [[broly]] node's cross-edge with Babidi / Majin Buu.
+
 ## Trivia
 
 - **Lore context** — In Dragon Ball Z: Broly - The Legendary Super Saiyan (1993), Paragus controls his son via a device synced to a mind-control crown on Broly's head, suppressing the Legendary Super Saiyan transformation. Broly ultimately shatters the crown, turns on his father, and the Paragus-engineered scheme collapses. This card's art directly depicts that control relationship [Wikipedia: Dragon Ball Z: Broly - The Legendary Super Saiyan].

@@ -106,3 +106,7 @@ A heavily built bearded man in tattered green-and-brown leathers, with bracers a
 - Garruk, Caller of Beasts (Magic 2014, no. 172) — design ancestor; the original "power 4 or greater" Garruk-flavored mechanic
 - Garruk, Apex Predator (Magic 2015, no. 210) — the prior arc beat, Veil-cursed five-color Garruk, immediately precedes the M21 Unleashed phase
 
+## Connections
+
+- [[garruk-wildspeaker]] — The named enchantment of the M21 Garruk planeswalker cycle, depicting Garruk himself in the cleansed Unleashed phase that followed Throne of Eldraine's Cauldron of Eternity lifting Liliana's Chain Veil curse. The art reads as hunter-and-beast partnership rather than combat — the canonical visual signature of his post-cure mono-green identity, restored to the beast-summoner role he held before the Apex Predator arc. The card title's possessive ("Garruk's") and the power-4-or-greater mechanical trigger explicitly mark this as Garruk's planeswalker-of-record enchantment in the set.
+

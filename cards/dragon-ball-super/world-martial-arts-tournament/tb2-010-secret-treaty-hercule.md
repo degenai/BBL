@@ -90,3 +90,7 @@ A male humanoid figure is depicted in an extreme comedic close-up. The face domi
 - Secret Treaty Android 18 (World Martial Arts Tournament, TB2-009) — parallel "Secret Treaty" naming; Android 18's 25th tournament match-throwing mirrors Hercule's broader arrangement
 - World Tournament Arena (World Martial Arts Tournament, TB2-068) — the Extra card that powers the World Tournament trait engine TB2-010 belongs to
 - Announcer, Play-By-Play Pro (World Martial Arts Tournament, TB2-067) — the Announcer Leader Card whose cost-reduction ability makes the World Tournament synergy package viable
+
+## Connections
+
+- [[hercule]] — This print is the corpus's most direct Bandai-canonical naming of the *credit-arrangement / public-private uncoupling* register: the canonical unspoken treaty in which the Z-Fighters defeat the real threats (Cell, Buu) while Hercule absorbs the public credit and the world's peace is preserved by both halves of the arrangement remaining unspoken. The "Secret Treaty" title is Bandai's direct designer-coordinated naming of the labor-and-credit-uncoupling thesis Toriyama authored across the Cell Games and Buu Saga. Within the four-print Hercule corpus, TB2-010 is the canonical-thesis slot — the print whose card name maps cleanest to the apparatus-of-extraction reading the [[hercule]] node anchors.

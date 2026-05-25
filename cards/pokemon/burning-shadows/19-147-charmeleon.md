@@ -98,3 +98,7 @@ Charmeleon lunges forward toward the viewer in a dynamic attacking pose, both cl
 - Charmander (any set) — Charmeleon's pre-evolution; National Pokedex no. 004
 - Charizard-GX (Burning Shadows) — same set's headlining GX Pokemon; the evolutionary apex of this card's line
 - Charizard (Vivid Voltage, no. 025/185) — available in the same set as the second Charmeleon; would complete a within-VIV evolutionary sequence
+
+## Connections
+
+- [[charizard-line]] — Burning Shadows Charmeleon (no. 19/147, Uncommon, kawayoo art) is the Sun & Moon-era mid-stage print of the cohort, National Pokedex no. 005 rendered in kawayoo's signature teal-and-blue-green angular-panel composition against the orange-red creature for sharp warm/cool contrast. The flavor text ("It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.") delivers the line's mid-stage combat-aggression beat that the cohort node identifies as the evolutionary-arc thread — the species growing into its predatory adolescence between Charmander's vulnerability and Charizard's dragon-apex. This card's trivia is the corpus citation that originally established the Charizard-line cohort threshold-trigger that wave 14 acquisitions completed.

@@ -91,3 +91,7 @@ A chibi-proportioned figure stands with long, flowing silver-white hair dominati
 - Celes (multiple Opus sets) — FFVI party member Setzer originally attempts to kidnap; integral to his recruitment arc
 - Terra (multiple Opus sets) — FFVI protagonist; Setzer's Blackjack airship is central to party movement across the World of Balance
 
+## Connections
+
+- [[ff6-returners-party]] — Setzer Gabbiani is the airship-captain gambler of the canonical 14-member FFVI Returners roster — the first playable Gambler job class in mainline Final Fantasy and the party's mobility solution across both halves of the game (the Blackjack in the World of Balance, then the restored Falcon recovered from Darill's Tomb in the World of Ruin). His grief-converted-to-insurgent-mobility arc reads as Returners-coded escape-vehicle-becomes-resistance-vehicle, and his Opus VIII EX Burst — "choose 1 Category VI Forward in your Break Zone and add it to your hand" — is the canonical mechanical anchor binding the entire FFVI deck archetype in the set. The 8-036C foil's ~$1.90 market price sits significantly above the Opus VIII Common floor, making it the cohort's headline-foil-and-recursion-engine that the three lower-priced Returners commons (Edgar, Sabin, Umaro) feed into.
+

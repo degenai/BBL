@@ -86,3 +86,7 @@ A small orange bipedal lizard creature with a flame-tipped tail stands upright o
 **Creatures:** fire-lizard, charmander
 **Genre cues:** anime, fantasy, photorealistic-composite
 
+## Connections
+
+- [[charizard-line]] — Base Set Unlimited Charmander (no. 46, Common, Mitsuhiro Arita art) is the earliest English-language TCG printing of National Pokedex no. 004 anchored to this cohort node, the base stage of the Kanto Generation I Fire-type starter line (Charmander → Charmeleon → Charizard). The card's flavor text ("Obviously prefers hot places. If it gets caught in the rain, steam is said to spout from the tip of its tail.") is the 1999 Wizards-era variant of the species' tail-flame canon, which the line-node frames as the starter-as-life-companion thesis at base-stage scope. As the originating 1999 print of one of the franchise's three founding starter species, this card is the corpus's canonical archaeological anchor for the line's TCG print history.
+

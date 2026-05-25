@@ -79,6 +79,10 @@ A large, heavily muscular figure stands in a wide open stance with dark long hai
 **Iconography:** energy-aura, dawn-of-power
 **Genre cues:** anime, fantasy
 
+## Connections
+
+- [[broly]] — This Common depicts the Movie 8 / Koyama Broly in pre-power-up base form with dark hair hanging loose (not yet erupted into the LSS state), brooding affect, and a green-tinted aura beginning to form — the moment-before-the-transformation register the "Dawn of the Rampage" subtitle directly names. The card's tutor ability fetching a green Broly card to hand encodes the pre-power-up setup-piece role at the card-game-design level, mechanically prefacing the LSS-form payoff prints [[bt1-073-broly-the-rampaging-horror]] and [[bt1-075-rampaging-super-saiyan-broly]]. The character-arc backstory indexed here is the 10,000-power-level-at-birth threshold that prompted King Vegeta's infant-execution order — the imperial-purge survivor frame paralleling the [[bardock]] node's Frieza-side counterpart.
+
 ## Trivia
 
 - **Set context** — Galactic Battle (DBS-B01, July 2017) includes a Broly Saga arc pool alongside the Universe 6 / Champa Arc cards. This pool references the 1993 non-canon theatrical film Dragon Ball Z: Broly – The Legendary Super Saiyan (Movie 8), in which Broly is revealed to have been born with a power level of 10,000 — which prompted King Vegeta to order his execution. Paragus and the infant Broly survived and escaped into space, setting the revenge plot in motion. `[Wikipedia: Dragon Ball Z: Broly – The Legendary Super Saiyan]`

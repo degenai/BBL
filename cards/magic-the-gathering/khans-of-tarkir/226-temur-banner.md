@@ -97,3 +97,7 @@ A bleached predator skull, fanged jaws agape, sits lashed atop a structure of da
 - Mardu Banner (Khans of Tarkir, no. 224) — cycle sibling
 - Sultai Banner (Khans of Tarkir, no. 225) — cycle sibling
 - Temur Charm (Khans of Tarkir) — Temur-aligned instant; thematic parallel in the clan cycle structure
+
+## Connections
+
+- [[ktk-clan-banner-cycle]] — Temur Banner is the GUR member of Khans of Tarkir's five-card common wedge-color mana-rock cycle, sharing the colorless-`{3}` / tap-for-wedge-color / sacrifice-for-card-draw template with the four sibling banners. The Temur Frontier's clan virtue *savagery* and its dragon-aspect of the claw are encoded in the motto "Savagery to survive, courage to triumph" — the only banner motto that pairs a raw animal virtue (savagery) with a volitional one (courage), suggesting the Temur see brutality and bravery as inseparable. Temur Banner is the only member of the cycle depicted as a totem (animal skull lashed to crossed wooden poles) rather than a textile flag, consistent with the clan's shamanic hunter-gatherer identity; the art is one of five original KTK banner paintings by Daniel Ljunggren.

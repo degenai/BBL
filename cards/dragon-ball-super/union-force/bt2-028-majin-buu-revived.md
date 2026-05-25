@@ -91,3 +91,7 @@ A large pink rotund figure fills the frame in a close-up. The figure has a broad
 - Prodigy Fusion Super Saiyan Gotenks (Union Force BT2-015) — absorbed by Super Buu
 - Babidi (various) — the wizard who orchestrated Buu's resurrection
 
+## Connections
+
+- [[majin-buu]] — Innocent / Fat Buu register at the canonical post-unsealing moment; this BT2-028 print's *Revived* title foregrounds the canonical Buu-Saga beat where Babidi completes the resurrection using energy stolen at the 25th World Martial Arts Tournament (Spopovich and Yamu's harvest of Gohan's ki, with the seal-crack caused by Vegeta's fight with Goku). The canonical Toriyama clarification that Buu is an ancient being who existed *since time immemorial* — Bibidi awakened him rather than created him, and Dragon Ball DAIMA (2024) further retcons Marba as the originator — operates at this print as canonical-character-history. Sibling Buu-form corpus prints sit at BT1-047 (canonical Buu-Saga-opening Innocent Buu register), BT4-015 (Mr. Buu / Good Buu Baby-Saga-era reformed-ally register), and TB2-028 (canonical Scuffle Time Mr. Buu WMAT-arc register).
+

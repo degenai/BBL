@@ -70,6 +70,10 @@ tags:
 
 A small white rabbit-like creature dashes forward at full sprint, ears back, hindlegs extended in mid-run. A small orange-tan bandage marking is visible across its nose. The ground beneath it is snowy and the background has soft white-blue winter tones with a blurred wintry field behind it. The creature's posture communicates pure speed and excitement — its mouth appears open, conveying exertion or a battle cry. The card has a Single Strike banner, and the art style is bright and kinetic.
 
+## Connections
+
+- [[galar-starters-trio]] — Designer-coordinated first-partner cohort node. Scorbunny is the Fire-line Stage-1 base form (National Pokedex no. 813) of the three Galar starter species introduced together in Pokemon Sword & Shield (Game Freak, November 2019) as the player-choice first partners, following the canonical Grass / Fire / Water trio pattern shared with Grookey and Sobble. Scorbunny's nose-bandage character-design trope (rambunctious-personality marker, per director Shigeru Ohmori) sits at the "pure-speed-and-sprint" vertex of the cohort's triangulated rhythm/speed/stealth Stage-1 personality grid, opposite Grookey's percussive energy and Sobble's timid-camouflage energy, resolving at Stage 3 into Cinderace's footballer rabbit (association football, the cohort's load-bearing British-Isles thematic anchor). This print is the cohort's sole Single Strike print across the four Chilling Reign corpus instances; Rillaboom + Sobble + Drizzile are Rapid Strike. [PokemonTCG.io: swsh6-26 species + subtype; Bulbapedia: Scorbunny (Pokemon); Pokemon.com: Galar starter Pokemon]
+
 **Subject:** Scorbunny, a small white rabbit-like Pokemon with a bandage across its nose, sprinting energetically through a snowy environment
 
 **Composition:** mid-shot, action, figures: solo, facing: forward

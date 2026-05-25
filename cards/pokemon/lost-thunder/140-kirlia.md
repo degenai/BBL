@@ -80,3 +80,7 @@ A slim, elegant creature with a predominantly white body, green leg coverings, a
 **Creatures:** kirlia, psychic-creature
 **Genre cues:** anime, fantasy
 
+## Connections
+
+- [[ralts-line]] — Hoenn Generation III Psychic-empath evolutionary line cohort node (Ralts no. 280 -> Kirlia no. 281 -> Gardevoir no. 282 OR Gallade no. 475 via Dawn Stone if male), introduced in Pokemon Ruby and Sapphire (Game Freak / Creatures Inc. / Nintendo, 2002). This Sun & Moon-era Kouki Saitou print sits between the Burning Shadows 92/147 (Anesaki Dynamic, 2017) and Chilling Reign 060/198 (0313, 2021) Kirlia prints chronologically, depicting the Stage-1 mid-form in a slim slightly-tilted dance pose against a soft pink natural-tone background — the calmest and most ethereal of the three cross-set Kirlia renderings in corpus, with the species' Pokedex-canonical balletic posture lifted into a floating-above-ground register. The print carries the same future-sight / space-distortion flavor as the CRE-060 sibling, with a single printing-fidelity tell — the past-tense *"enabled"* on this print versus the present-tense *"enables"* on CRE-060. Trivia pass not yet promoted; cohort attachment confirmed at the species-line level via the `characters: ["ralts-line"]` frontmatter pointer. [PokemonTCG.io: sm8-140; Bulbapedia: Kirlia (Pokemon); Bulbapedia: Ralts line (TCG)]
+

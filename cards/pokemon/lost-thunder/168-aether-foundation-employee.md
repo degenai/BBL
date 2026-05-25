@@ -94,3 +94,7 @@ Two humanoid figures in identical white uniforms and white caps stride through a
 - Aether Foundation Employee (Forbidden Light) — earlier print of the same institutional figure with different art
 - Nihilego GX (Crimson Invasion) — the Ultra Beast at the center of Lusamine's plot; organizational connection to Aether Foundation lore
 
+## Connections
+
+- [[aether-foundation]] — Institutional-livery anchor edge: the LOT-168 Supporter is the corpus's canonical depiction of Aether Foundation at the *uniformed-rank-and-file* layer, with two employees in matching white-and-orange uniforms and white caps walking through a tropical Alola setting — the visual identifier Bulbapedia documents as the standard Foundation Employee livery across Pokemon Sun & Moon, Pokemon Ultra Sun & Ultra Moon, and the anime. Mechanically the card returns 3 Pokemon with "Alolan" in their names from discard to hand, encoding the Foundation's stated public-facing Pokemon-rehabilitation mission as an Alolan-regional-form recovery engine — the on-board representation of the regional-charity-cover that Lusamine instrumentalized for her Ultra Wormhole research program prior to the Act 3 apex-villain reveal. The card's depicted figures are the salaried operational workforce most of whom are canonically unaware of the conspiracy executed by Lusamine and Faba above them. `[Bulbapedia: Aether Foundation Employee (Trainer class); Bulbapedia: Aether Foundation]` `[Pokemon Sun and Moon (Game Freak, 2016) primary canon for Foundation hierarchical structure]`
+

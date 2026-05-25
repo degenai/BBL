@@ -83,3 +83,7 @@ A massive, heavily built creature covered entirely in lavender-pink fur is depic
 - Gogo (Various) — the other optional secret FFVI party member; often paired with Umaro in FFVI trivia
 - Strago (Opus VIII, 8-119C) — fellow FFVI character revealed in the same Opus VIII spoiler wave
 
+## Connections
+
+- [[ff6-returners-party]] — Umaro is one of two optional secret recruits in the canonical 14-member FFVI Returners roster, found at the end of the Yeti's Cave in the Narshe Cliffs during the World of Ruin and joinable only via Mog's mediation — a yeti recruited into the anti-Empire resistance by a moogle's diplomatic proxy. His FFTCG card text — "Umaro must attack once per turn if possible" — is a direct mechanical translation of his FFVI uncontrollable-Berserker rule, preserving the in-game canon that he cannot equip Magicite, cannot learn magic, and acts each turn shaped only by equipped relics. The Opus VIII 8-024C printing carries the Category VI marker and renders him from a rear three-quarter angle in canonical lavender-fur, slotting into the cohort as the species-diverse outlier alongside the human Figaro twins and the silver-haired gambler Setzer.
+

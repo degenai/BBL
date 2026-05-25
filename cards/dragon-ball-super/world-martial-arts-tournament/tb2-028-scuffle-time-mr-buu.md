@@ -85,3 +85,7 @@ A large, rotund figure with distinctly pink skin dominates the frame. The figure
 ### Related cards
 - Scuffle Time Son Goten (World Martial Arts Tournament, TB2-022) — explicit mechanical synergy pair; named Scuffle Time pairing
 - Mr. Buu (Colossal Warfare, BT4-015) — same character, earlier set printing for comparison
+
+## Connections
+
+- [[majin-buu]] — Mr. Buu / Good Buu register at the canonical Scuffle Time WMAT-arc; this TB2-028 print depicts the canonical reformed Z-Fighter-ally Mr. Buu competing in the World Martial Arts Tournament arc as Mr. Satan's disciple after the canonical *Mr-Satan-talks-the-Majin-into-not-killing-people* reformation beat. The card forms an explicit Bandai-coordinated *Scuffle Time named-synergy-pair* with TB2-022 Scuffle Time Son Goten — Mr. Buu has Barrier and returns an opponent's Battle Card to hand when paired with Goten; Goten gains +10000 power and Active Mode when paired with Mr. Buu — encoding the canonical *Mr-Buu-and-child-Goten-as-paired-tournament-cohort* register at the mechanical level. Sibling Buu-form corpus prints sit at BT1-047 (canonical Buu-Saga-opening Innocent / Fat Buu register), BT2-028 (canonical revival-moment Innocent / Fat Buu register), and BT4-015 (Mr. Buu / Good Buu Baby-Saga-era register).

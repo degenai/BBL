@@ -86,6 +86,10 @@ A small green primate creature sits on a tree branch surrounded by bright green 
 **Iconography:** leaves, foliage
 **Genre cues:** anime
 
+## Connections
+
+- [[elemental-monkey-trio]] — Pansage is the Grass-type base-form member of the designer-coordinated elemental monkey trio (Pansage/Pansear/Panpour and Stone evolutions), one of three paired Gen V Unova species coordinated across type-triangle (Grass/Fire/Water), shared Stone-evolution mechanic, and the three-wise-monkeys cultural overlay. This Darkness Ablaze print (Mina Nakai art) is the cohort's second corpus Pansage after Burning Shadows BUS-12 and reframes the species' care-and-nurture register from leaf-sharing-for-stress into berry-gathering-as-generosity. The trio is canonically complete in BBL inventory at 6 of 6 species across 13 prints, making the elemental-monkey-trio cohort the corpus's first fully-completed designer-coordinated Pokemon species cycle.
+
 ## Trivia
 
 - **Second print in corpus** — This Darkness Ablaze version (2020, art by Mina Nakai) is the second Pansage print in inventory. The earlier BUS-12 (Burning Shadows, 2017, art by Shigenori Negishi) carries different flavor text ("It shares the leaf on its head with weary-looking Pokemon. These leaves are known to relieve stress.") and a single-attack layout (Vine Whip only). This version has a two-attack layout (Seed Bomb + Bite). Two different flavor-text windows into the same species. `[PokemonTCG.io API (swsh3-6) and (sm3-12)]`

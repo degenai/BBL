@@ -80,3 +80,7 @@ A small reddish-orange monkey-like creature crouches in a dark, flame-lit enviro
 **Creatures:** monkey
 **Genre cues:** anime, fantasy
 
+## Connections
+
+- [[elemental-monkey-trio]] — Pansear is the Fire-type base-form member of the designer-coordinated elemental monkey trio (Pansage/Pansear/Panpour and Stone evolutions), one of three paired Gen V Unova species coordinated across type-triangle (Grass/Fire/Water), shared Stone-evolution mechanic, and the three-wise-monkeys cultural overlay (Pansear maps to *kikazaru*, hear-no-evil). This Darkness Ablaze print (Megumi Higuchi art, chiaroscuro volcanic-cave composition) is the cohort's second corpus Pansear after Burning Shadows BUS-22 and shifts the species' visual register from BUS-22's helpful-domestic-Fire framing into a wilder volcanic-habitat framing. The trio is canonically complete in BBL inventory at 6 of 6 species across 13 prints, making the elemental-monkey-trio cohort the corpus's first fully-completed designer-coordinated Pokemon species cycle.
+

@@ -85,3 +85,7 @@ A chibi-style humanoid figure rendered in FFVI art style stands in a three-quart
 - Celes (Opus IV, 4-038L) — Category VI forward commonly run alongside Edgar in constructed
 - Edgar (Rebellion's Call, 17-002L) — later Legend-rarity version of the same character; FFTCG officially spotlighted in a Card of the Week article
 
+## Connections
+
+- [[ff6-returners-party]] — Edgar Roni Figaro is the king of Figaro Castle and one of the canonical 14 playable members of the Final Fantasy VI Returners — Banon's anti-Empire resistance faction opposing the Gestahlian Empire's magitek-extraction apparatus. His defining backstory beat — the rigged two-headed coin he used at age 17 to guarantee his twin Sabin's freedom while binding himself to the throne — is a Returners-coded act of self-sacrifice that the cohort node cites as the emotional core of his characterization. The Opus VIII 8-005C printing carries the explicit Category VI marker and was designed as a Backup support piece searchable off Setzer 8-036C's EX Burst recursion, making it the within-set mechanical anchor for FFVI decks alongside Sabin, Umaro, and Setzer.
+

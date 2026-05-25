@@ -93,3 +93,7 @@ A hulking quadrupedal beast dominates the frame in a dense, sun-dappled forest. 
 - Garruk's Harbinger (M21, no. 185) — the rare companion-beast in the same M21 Garruk cycle
 - Garruk, Cursed Huntsman (Throne of Eldraine) — the veil-cursed version that preceded the M21 return
 - Liliana Vess (various) — the planeswalker who cursed Garruk; quotes his creature's flavor text here
+
+## Connections
+
+- [[garruk-wildspeaker]] — Card title names this beast as Garruk's, and it sits as the common-rarity summoned-companion entry in the M21 Garruk planeswalker cycle (alongside the rare Harbinger and the planeswalker Garruk, Unleashed). The Liliana Vess flavor-text barb ("big and brutish, and you can smell it from a mile away") inscribes the Garruk-vs-Liliana antagonism that has been a recurring design touchstone since the 2009 Garruk vs. Liliana Duel Decks. The card belongs to Garruk's post-cure Unleashed phase, the mono-green return that followed the Throne of Eldraine cleansing.

@@ -90,3 +90,7 @@ A middle-aged to older male figure with a prominent mustache and dark curly hair
 - Announcer, Ever-Curious (World Martial Arts Tournament, TB2-066) — the Announcer is one of the few humans who knows Mr. Satan is not the true champion; both are World Tournament-trait non-fighters
 - Risque Ranfan (World Martial Arts Tournament, TB2-062) — both Ranfan and Mr. Satan weaponize personality and spectacle over raw power; thematic pair in the set
 
+## Connections
+
+- [[hercule]] — This print anchors Hercule's canonical *victory-claim performance* register — the arms-spread tournament-arena pose with the WMAT signage behind him, captured at the exact moment of self-proclaimed triumph that the character's whole franchise role is built around. The card title is Hercule's literal catchphrase, and the mechanical design (a yellow Common Extra that draws two cards ONLY when Son Goku: Childhood is in the Battle Area) encodes Bandai's designer-coordinated irony directly into the rules text: the credit-claimer's payoff fires only in Goku's presence, mechanizing the canonical labor-and-credit-uncoupling reading the [[hercule]] node anchors. Within the four-print Hercule corpus, TB2-064 holds the public-celebration slot — the moment the championship persona performs itself for the crowd — structurally complementary to TB2-001's portrait, TB2-010's secret-treaty naming, and BT2-017's Buu-Saga friendship anchor.
+

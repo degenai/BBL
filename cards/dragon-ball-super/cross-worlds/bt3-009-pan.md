@@ -88,3 +88,8 @@ A young female-presenting humanoid figure stands in a fighting stance. She wears
 - Reliable Trunks (BT3-010, Cross Worlds) — Trunks is the third member of the GT trio
 - Handy Giru (BT3-013, Cross Worlds) — Giru is described as Pan's best friend in GT canon
 - Power-absorbing Luud (BT3-016, Cross Worlds) — Luud absorbed Pan within his core; she fought back from inside to destroy him
+
+## Connections
+
+- [[pan]] — Pan is the quarter-Saiyan / three-quarter-Earthling daughter of Gohan and Videl and the youngest member of the canonical Goku-Pan-Trunks traveling trio that anchors the entire Dragon Ball GT Black Star Dragon Ball Saga. This Cross Worlds print is the launch-position canonical-protagonist register — Bandai's BT3 designer notes position Pan as one of the set's three featured Leader characters alongside Dr. Myuu and Son Goku, and the ready-stance composition reads as the GT-introduction-arc moment-of-departure for the Black Star Dragon Ball recovery quest. The orange-red jacket and wide-brimmed cap visual identifier matches the canonical Black Star Dragon Ball Saga costume documented across the anchor node's GT-traveling-protagonist register.
+

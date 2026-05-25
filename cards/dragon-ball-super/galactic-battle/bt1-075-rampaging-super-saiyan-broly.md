@@ -79,6 +79,10 @@ A towering muscular figure dominates the frame in a wide stance, arms held parti
 **Iconography:** energy-aura, super-saiyan, green-aura, power-up
 **Genre cues:** anime, fantasy
 
+## Connections
+
+- [[broly]] — This Common depicts the canonical Movie 8 Legendary Super Saiyan apex form with the signature green-tinted energy aura — the Toei design-decision that distinguishes the LSS transformation from the standard golden Super Saiyan register. Bandai positioned BT1-075 as the finishing piece in the Broly green archetype, slotting in as the damage-closer for the hand-disruption gameplan the Leader runs. The card also indexes the Movie-8-specific Goku-fixation backstory (adjacent-nursery-pod-placement-as-infants) that distinguishes the Koyama Broly from the 2018 Toriyama reimagining.
+
 ## Trivia
 
 - **Set context** — Galactic Battle (BT1) launched July 28, 2017 as the inaugural set of the Dragon Ball Super Card Game — 114 cards total (60 commons). Bandai explicitly designed the Broly archetype as one of the two flagship launch decks, with green as Broly's color identity [PSA Set Registry: Galactic Battle 2017].

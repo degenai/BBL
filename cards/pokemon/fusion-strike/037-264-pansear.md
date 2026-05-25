@@ -83,3 +83,7 @@ Pansear bounds energetically through a fruit tree, its round body rendered in wa
 **Iconography:** flame-tuft
 **Genre cues:** anime, fantasy
 
+## Connections
+
+- [[elemental-monkey-trio]] — Pansear is the Fire-type base-form member of the designer-coordinated elemental monkey trio (Pansage/Pansear/Panpour and Stone evolutions), one of three paired Gen V Unova species coordinated across type-triangle (Grass/Fire/Water), shared Stone-evolution mechanic, and the three-wise-monkeys cultural overlay (Pansear maps to *kikazaru*, hear-no-evil). This Fusion Strike print (Misa Tsutsui art, mid-leap fruit-foraging composition) is the cohort's third corpus Pansear after BUS-22 and DAA-026 and pairs verbatim flavor text from DAA-026 with a divergent joyful-energetic compositional treatment — a textbook designer-coordinated re-print (same canonical Pokedex window, different illustrator's visual interpretation). The trio is canonically complete in BBL inventory at 6 of 6 species across 13 prints, making the elemental-monkey-trio cohort the corpus's first fully-completed designer-coordinated Pokemon species cycle.
+
