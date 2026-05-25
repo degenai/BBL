@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "master-roshi",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\master-roshi.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\dragon-ball-super\\world-martial-arts-tournament\\tb2-057-master-roshi-martial-meister.md",
+      "bullet_text": "[[master-roshi]] — anchors the **open-identity Turtle Hermit / Martial Meister** register of the cohort's dual-print structure. The cohort body locks this card as \"the strongest possible visual-and-mechanical IP verification at the master-tier register,\" citing five co-occurring canonical visual identifiers (short stocky elderly build, large white beard, wide-brimmed hat, dark sunglasses, Hawaiian-style patterned shirt) plus the oracle-text Master Shen, Martial Meister (TB2-063) rivalry reference — Bandai's mechanical-rules-text encoding of the canonical Turtle-vs-Crane school axis where \"Turtle School exhausts Crane School as a literal in-game resource mechanic.\" [cohort node body]",
+      "archetype_slot": "open-identity Turtle Hermit / Martial Meister (TB2-057, Uncommon)"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\dragon-ball-super\\world-martial-arts-tournament\\tb2-058-unyielding-victory-jackie-chun.md",
+      "bullet_text": "[[master-roshi]] — anchors the **concealed-identity Jackie Chun / Super Rare** register of the cohort's dual-print structure, paired with TB2-057's open-master print to form what the cohort body calls \"a designer-coordinated dual-identity pair within the same TB02 booster.\" This card's ## Trivia is the source the cohort body quotes to canonicalize the *corrupted-stewardship-by-mask* operating mode: \"if Goku or Krillin won the tournament, they might believe themselves the strongest in the world and stop training. By entering as a formidable unknown opponent, Roshi ensured they would face defeat and remain driven.\" The Super Rare slot at TB2-058 encodes Bandai's recognition of the deeper-lore concealment register beyond the entry-tier open-master portrait. [card flavor/trivia body; cohort node body]",
+      "archetype_slot": "concealed-identity Jackie Chun / Super Rare (TB2-058, Super Rare)"
+    }
+  ],
+  "deferred": []
+}

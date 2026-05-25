@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "izzet-league",
+  "cohort_path": "C:/Users/alexa/Desktop/Bulk Graph Bundler/cards/_characters/izzet-league.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:/Users/alexa/Desktop/Bulk Graph Bundler/cards/magic-the-gathering/modern-masters-2015/245-izzet-boilerworks.md",
+      "archetype_slot": "guild industrial-infrastructure / land-scale architectural self-portrait (Return to Ravnica-era guild-bounce-land cycle)",
+      "bullet_text": "[[izzet-league]] — the guild's industrial-infrastructure self-portrait at land-scale: the *Return to Ravnica*-era Izzet entry in the guild-bounce-land cycle (UR mana, return-a-land drawback). The cohort body names this card as the Izzet's no-figure architectural establishing shot — pipes, tanks, steam, copper-and-blue palette, no magewright or chemister in frame. Where Izzet Generatorium renders the apparatus with a single dwarfed worker visible, the Boilerworks renders the apparatus alone, which is its own thesis statement about whose labor disappears into the institutional self-image [cohort node body: appears_on entry + functional-ideology section]."
+    },
+    {
+      "card_path": "C:/Users/alexa/Desktop/Bulk Graph Bundler/cards/magic-the-gathering/war-of-the-spark/212-ral-s-outburst.md",
+      "archetype_slot": "Ral Zarek as the modern guild's operational center / WAR-arc defection-from-Bolas beat",
+      "bullet_text": "[[izzet-league]] — Ral Zarek operating as the guild's lieutenant-then-guildmaster operational center, framing the WAR-era battle against Bolas's Eternal army in characteristically Izzet register. The flavor line — \"Time to find the melting point of lazotep.\" — is the guild's institutional rhetoric in action: a betrayal declared as a materials-science problem, the pyrothermal experimenter recasting Bolas's invasion as a thermodynamics inquiry. The cohort body cites this card specifically as the WAR-arc moment when Ral defects from Bolas's payroll and turns on the Eternals alongside Jace, Vraska, and Kaya, which is the storyline beat that sets up the post-WAR Niv-Mizzet-as-Living-Guildpact resurrection [Scryfall flavor_text; cohort node body: appears_on entry + Ral-Zarek-as-operational-center section]."
+    }
+  ],
+  "deferred": []
+}

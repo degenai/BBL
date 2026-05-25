@@ -1,0 +1,23 @@
+{
+  "cohort_slug": "lillipup-line",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\lillipup-line.md",
+  "batch_size": 3,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\sun-moon-base-set\\103-lillipup.md",
+      "bullet_text": "[[lillipup-line]] — base-stage puppy slot in the canonical Unova working-dog evolutionary line (Lillipup -> Herdier -> Stoutland, National Pokedex no. 506 -> 507 -> 508). Flavor \"Because it doesn't yelp, it's extremely popular with Trainers who live in apartment buildings\" is the line's puppy-as-companion narrative beat — the apartment-dweller-friendly domesticated-pet register that establishes the species' companion-animal identity at the base stage before the working-partner and rescue-team apex slots intensify the working-dog canon at Herdier and Stoutland. [card frontmatter flavor_text; cohort node body]",
+      "archetype_slot": "base-stage puppy / apartment-companion register / puppy-as-companion narrative beat"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\sun-moon-base-set\\104-herdier.md",
+      "bullet_text": "[[lillipup-line]] — Stage-1 working-partner slot in the canonical Unova working-dog evolutionary line (Lillipup -> Herdier -> Stoutland, National Pokedex no. 506 -> 507 -> 508). Flavor \"Its dense black fur grows continuously. The high cost of keeping its hard fur properly groomed make this a troublesome Pokemon to train\" is the line's grooming-cost-as-balancing-trait register — a rare and underexplored Pokedex thread where the species' printed flavor names the cost-of-keeping-the-species as the defining trait, design-coded as the realistic labor of large-dog ownership and intensifying the working-dog canon between the base-stage puppy slot and the Stoutland rescue-team apex. [card frontmatter flavor_text; cohort node body]",
+      "archetype_slot": "Stage-1 working-partner / continuously-growing-fur grooming-cost canon / working-dog-with-real-grooming-overhead narrative beat"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\sun-moon-base-set\\105-stoutland.md",
+      "bullet_text": "[[lillipup-line]] — Stage-2 apex / rescue-team partner slot in the canonical Unova working-dog evolutionary line (Lillipup -> Herdier -> Stoutland, National Pokedex no. 506 -> 507 -> 508). Flavor \"Intelligent, good-natured, and valiant, it's a trustworthy partner on rescue teams\" is the line's rescue-partner labor canon as printed flavor — the species' canonical characterization as a rescue-team partner rescuing humans stranded in mountains and at sea, with St. Bernard / Newfoundland real-world rescue-breed citation built into the species design, and the apex of the line's puppy-to-rescue-partner maturation arc. The mustache-as-rank social-status canon (mustache length determines rank within the species) ties the depicted figure's prominent facial fur to the species' canonical within-line social hierarchy. [card frontmatter flavor_text; cohort node body; Bulbapedia: Stoutland]",
+      "archetype_slot": "Stage-2 apex / rescue-team partner / puppy-to-rescue-partner maturation arc apex / mustache-as-rank social-status canon"
+    }
+  ],
+  "deferred": []
+}

@@ -89,3 +89,7 @@ The view is from above and at an angle, looking down into a cramped mechanical c
 - Guidelight Pathmaker (Aetherdrift) — third named Guidelight card; same automaton team
 - Springleaf Drum (Lorwyn) — mechanical predecessor; taps creatures for restricted colored mana in artifact decks
 
+## Connections
+
+- [[guidelight-voyagers]] — automaton member-card and the in-set anchor for the team's canonical speech pattern. The flavor text *"Analysis: Systems operating at 125% efficiency. Stress within expected tolerances. Exclamatory: Punch it."* is the corpus's clearest instance of the category-prefixed utterance ("Analysis:", "Exclamatory:") that the cohort body identifies as Mendicant Core's hive-mind signature — the same intelligence speaking through every chassis. `[Scryfall flavor_text; cohort node body]`
+

@@ -91,3 +91,7 @@ A short, stocky elderly man with a large white beard stands in a composed three-
 - Toughened Up Krillin (World Martial Arts Tournament, TB2-053) — Krillin is also a Turtle School student; same set
 - Announcer, Ever-Curious (World Martial Arts Tournament, TB2-066) — Roshi competed as Jackie Chun under the Announcer's watch at the 21st and 22nd tournaments; both are set-defining supporting cast
 
+## Connections
+
+- [[master-roshi]] — anchors the **open-identity Turtle Hermit / Martial Meister** register of the cohort's dual-print structure. The cohort body locks this card as "the strongest possible visual-and-mechanical IP verification at the master-tier register," citing five co-occurring canonical visual identifiers (short stocky elderly build, large white beard, wide-brimmed hat, dark sunglasses, Hawaiian-style patterned shirt) plus the oracle-text Master Shen, Martial Meister (TB2-063) rivalry reference — Bandai's mechanical-rules-text encoding of the canonical Turtle-vs-Crane school axis where "Turtle School exhausts Crane School as a literal in-game resource mechanic." `[cohort node body]`
+

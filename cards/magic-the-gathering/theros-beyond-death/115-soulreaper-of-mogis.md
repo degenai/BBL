@@ -88,6 +88,7 @@ A bull-horned minotaur figure stands in three-quarter view with both arms raised
 
 ## Connections
 
+- [[mogis]] — corpus's clearest single-card expression of Mogis's transactional theology, per the [[mogis]] node's named archetype slot. The flavor text *"We offer to Mogis the blood of the weak, and in return he makes us strong"* is the sacrifice-for-power doctrine in its sharpest form: blood-tithe upward, martial-strength downward. The oracle text `{2}{B}, sacrifice a creature: draw a card` enacts the doctrine mechanically — the mechanic IS the doctrine. `[Scryfall flavor_text; cohort node body: "transactional theology rendered as card mechanic"]`
 - [[227-slaughter-priest-of-mogis]] — Mogis-cult minotaur pair within THB. The two cards form the set's designed Mogis-priest pairing: same red-black sacrifice-payoff register, same horned-minotaur-with-raised-blade iconography, both flavor-attributed directly to Mogis (THB-115: *"We offer to Mogis the blood of the weak"*; THB-227: *"Mogis is pleased by this offering. Bring him more!"*). `[Scryfall: thb/115, thb/227; MTG Wiki: Mogis God of Slaughter]`
 
 ## Trivia

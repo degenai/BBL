@@ -1,0 +1,13 @@
+{
+  "cohort_slug": "mogis",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\mogis.md",
+  "batch_size": 1,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\theros-beyond-death\\115-soulreaper-of-mogis.md",
+      "bullet_text": "[[mogis]] — corpus's clearest single-card expression of Mogis's transactional theology, per the [[mogis]] node's named archetype slot. The flavor text *\"We offer to Mogis the blood of the weak, and in return he makes us strong\"* is the sacrifice-for-power doctrine in its sharpest form: blood-tithe upward, martial-strength downward. The oracle text `{2}{B}, sacrifice a creature: draw a card` enacts the doctrine mechanically — the mechanic IS the doctrine. `[Scryfall flavor_text; cohort node body: \"transactional theology rendered as card mechanic\"]`",
+      "archetype_slot": "corpus's clearest single-card expression of Mogis's transactional theology: sacrifice for power, blood-tithe upward for martial strength downward, mechanically enacted via {2}{B}, sacrifice a creature, draw a card"
+    }
+  ],
+  "deferred": []
+}

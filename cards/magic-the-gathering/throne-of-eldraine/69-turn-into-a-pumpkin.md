@@ -93,3 +93,7 @@ A massive hunched figure squats among an endless field of pumpkins under a moonl
 - Faerie Guidemother (Throne of Eldraine, no. 11) — cycle member; the fairy godmother beat; Adventure card
 - Midnight Clock (Throne of Eldraine, no. 54) — cycle member; the stroke-of-midnight beat; completes the 4-card set
 - Beloved Princess (Throne of Eldraine, no. 7) — Cinderella-adjacent common in ELD; wicked-guardian / beloved-princess sibling cycle
+
+## Connections
+
+- [[eld-cinderella-cycle]] — fills the cycle's **reversion / magic-fails-on-schedule** slot, paired-reversal card to Enchanted Carriage. The cohort node names this card as "the reversion — the magic failing on schedule" and reads its art as "the hunched figure mid-transformation in the moonlit pumpkin patch — the canonical Cinderella-reversal beat staged as folk-horror." The bounce-target-back-to-hand oracle line literalizes the reversion in rules text; the moonlit-pumpkin-patch composition with the ogrish figure mid-transformation literalizes it in art. `[cohort: eld-cinderella-cycle]` `[Scryfall oracle_text]`

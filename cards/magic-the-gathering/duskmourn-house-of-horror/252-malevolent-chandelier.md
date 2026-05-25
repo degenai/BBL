@@ -87,3 +87,7 @@ A large ornate chandelier dominates the composition, its candle-arms terminating
 - Winter, Misanthropic Guide (DSK) -- the flavor-text speaker; a Duskmourn survivor and guide character
 - Haunted Screen (DSK, no. 250) -- shares the same set and retro-appliance-horror aesthetic
 - Creeping Chill (Guilds of Ravnica) -- comparable common-rarity graveyard-care Pauper piece for context
+
+## Connections
+
+- [[dsk-animate-house]] — the cohort's *possessed fixture* archetype slot, the literal hanging-from-the-ceiling expression of the cohort's house-as-organism thesis. Winter's flavor warning *"If you see a light moving toward you in the darkness, don't assume it's coming to help."* delivers the cohort's externally-possessed register precisely: the chandelier isn't a self-aware spirit but a lure of the House the survivors are inside, with the Construct type-line (never Toy) marking it as a non-Toy possessed furnishing `[Scryfall flavor_text]` `[cohort node body]`.

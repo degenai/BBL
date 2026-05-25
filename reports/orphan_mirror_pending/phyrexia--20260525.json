@@ -1,0 +1,13 @@
+{
+  "cohort_slug": "phyrexia",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\phyrexia.md",
+  "batch_size": 1,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\the-list\\62-phyrexian-rager.md",
+      "bullet_text": "[[phyrexia]] — rank-and-file horror in Phyrexia's bladed-skeletal common-rarity figure slot; the canonical \"draw a card, lose 1 life\" Phyrexian common dating back to Apocalypse (2001) and reprinted across nearly two decades of supplemental product. The card's flavor text — \"I believe many worlds will bow to Phyrexia. Mirrodin is merely the first.\" — Sheoldred, Whispering One — is canonically voiced by the black-sphere Praetor, foreshadowing (from the 2001 print's perspective) the New Phyrexia / Mirrodin-corruption arc that wouldn't be storylined until 2011, a designer retroactively-prophetic flavor-text moment that the Mystery Booster reprint deliberately preserves [cohort node body].",
+      "archetype_slot": "rank-and-file horror / bladed-skeletal common-rarity figure / canonical 'draw a card, lose 1 life' Phyrexian common"
+    }
+  ],
+  "deferred": []
+}

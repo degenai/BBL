@@ -93,3 +93,7 @@ A large, stocky quadruped canine with very long, dense fur stands facing forward
 - Herdier (Sun & Moon Base Set or earlier) — middle evolution of the Lillipup line; Stage 1 predecessor
 - Lillipup (various sets) — Stage 1 entry of the three-stage line
 - Stoutland (Black & White-era sets) — earlier printings of the same species for comparison
+
+## Connections
+
+- [[lillipup-line]] — Stage-2 apex / rescue-team partner slot in the canonical Unova working-dog evolutionary line (Lillipup → Herdier → Stoutland, National Pokedex no. 506 → 507 → 508). Flavor *"Intelligent, good-natured, and valiant, it's a trustworthy partner on rescue teams"* is the line's rescue-partner labor canon as printed flavor — the species' canonical characterization as a rescue-team partner rescuing humans stranded in mountains and at sea, with St. Bernard / Newfoundland real-world rescue-breed citation built into the species design, and the apex of the line's puppy-to-rescue-partner maturation arc. The mustache-as-rank social-status canon (mustache length determines rank within the species) ties the depicted figure's prominent facial fur to the species' canonical within-line social hierarchy. `[card frontmatter flavor_text; cohort node body; Bulbapedia: Stoutland]`

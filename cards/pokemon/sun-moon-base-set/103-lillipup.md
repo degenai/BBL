@@ -82,3 +82,7 @@ A small, round-faced dog-type creature sits contentedly among clusters of white 
 **Emotion read:** gentle, calm, endearing expression
 **Creatures:** dog-creature, small-mammal
 **Genre cues:** anime
+
+## Connections
+
+- [[lillipup-line]] — base-stage puppy slot in the canonical Unova working-dog evolutionary line (Lillipup → Herdier → Stoutland, National Pokedex no. 506 → 507 → 508). Flavor *"Because it doesn't yelp, it's extremely popular with Trainers who live in apartment buildings"* is the line's puppy-as-companion narrative beat — the apartment-dweller-friendly domesticated-pet register that establishes the species' companion-animal identity at the base stage before the working-partner and rescue-team apex slots intensify the working-dog canon at Herdier and Stoutland. `[Scryfall-equivalent: card frontmatter flavor_text; cohort node body]`

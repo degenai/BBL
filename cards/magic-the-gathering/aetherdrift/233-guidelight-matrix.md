@@ -88,3 +88,7 @@ A tall, faceted blue crystal or energy unit rests at the center of the image, em
 - Camera Launcher (Aetherdrift, no. 232) — adjacent colorless artifact creature common; Exhaust + Thopter token
 - Vnwxt, Verbose Host (Aetherdrift, no. 73) — set's legendary commentator; Camera Launcher names him; all three artifacts serve the Grand Prix apparatus
 - Cultivator's Caravan (Kaladesh) — predecessor artifact Vehicle from original Kaladesh block, same plane now renamed Avishkar
+
+## Connections
+
+- [[guidelight-voyagers]] — the team's logistical engine. The cohort body names this card as "the Matrix that catalogs and fields the rolling stock that the automaton crews then drive," and the art matches: a faceted blue crystalline matrix at the center of a workshop pit, projecting wireframe outlines of vehicles and gears around itself. Mechanically the draw-on-entry plus Mount-saddle / Vehicle-animate activations make it the support artifact that fields what the Guidelight automatons race. `[Cohort node body; card oracle_text; Vision section]`

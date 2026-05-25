@@ -1,0 +1,23 @@
+{
+  "cohort_slug": "ktk-clan-charm-cycle",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\ktk-clan-charm-cycle.md",
+  "batch_size": 3,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\khans-of-tarkir\\181-jeskai-charm.md",
+      "archetype_slot": "Jeskai Way (UWR) — clan virtue cunning, dragon-aspect of the mind; bounce-burn-pump trio",
+      "bullet_text": "[[ktk-clan-charm-cycle]] — The UWR member of Khans of Tarkir's five designer-coordinated wedge-color charms; per the cohort, the \"bounce-burn-pump trio maps to the Jeskai Way's clan virtue *cunning* and its dragon-aspect of the mind (cunning, discipline, monastic prowess).\" This card's three oracle modes — `put target creature on top of its owner's library`, `4 damage to target opponent or planeswalker`, `creatures you control get +1/+1 and gain lifelink` — are the exact bounce/burn/pump triad the cohort thesis names, with the lifelink-pump mode functioning as the Prowess-adjacent payoff for the Jeskai's monastic-discipline identity. `[cohort: ktk-clan-charm-cycle, \"What this node anchors\"]` `[Scryfall oracle_text]`"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\khans-of-tarkir\\186-mardu-charm.md",
+      "archetype_slot": "Mardu Horde (RWB) — clan virtue speed, dragon-aspect of the wing; burn-tokens-discard trio mapping to strike-fast / flood-with-bodies / disrupt-the-enemy three-pronged war doctrine",
+      "bullet_text": "[[ktk-clan-charm-cycle]] — The RWB member of Khans of Tarkir's five designer-coordinated wedge-color charms; per the cohort, the \"burn-tokens-discard trio maps to the Mardu Horde's three-pronged war doctrine *strike fast, flood with bodies, disrupt the enemy*.\" This card's three oracle modes — `4 damage to target creature`, `create two 1/1 white Warrior creature tokens [...] gain first strike`, `target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card` — are the exact three-pronged war doctrine the cohort thesis names, with the Mardu clan-philosophy line \"Those who ride will conquer, while those who stop to meditate will die\" framing the speed-and-attack dragon-aspect of the wing. `[cohort: ktk-clan-charm-cycle, \"The design thesis\"]` `[Scryfall oracle_text]`"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\khans-of-tarkir\\208-temur-charm.md",
+      "archetype_slot": "Temur Frontier (GUR) — clan virtue savagery, dragon-aspect of the claw; fight-counter-evasion trio as one-shot Ferocious payoff",
+      "bullet_text": "[[ktk-clan-charm-cycle]] — The GUR member of Khans of Tarkir's five designer-coordinated wedge-color charms; per the cohort, the \"fight-counter-evasion trio maps to the Temur Frontier's clan virtue *savagery* and the Ferocious mechanic's reward for fielding power-4-or-greater creatures.\" This card's three oracle modes — `target creature you control gets +1/+1 [...] it fights target creature you don't control`, `counter target spell unless its controller pays {3}`, `creatures with power 3 or less can't block this turn` — are the exact fight/counter/evasion triad the cohort thesis names, with all three modes calibrated as one-shot Ferocious payoffs that reward the large-creature board state the Temur dragon-aspect of the claw demands. `[cohort: ktk-clan-charm-cycle, \"The design thesis\"]` `[Scryfall oracle_text]`"
+    }
+  ],
+  "deferred": []
+}

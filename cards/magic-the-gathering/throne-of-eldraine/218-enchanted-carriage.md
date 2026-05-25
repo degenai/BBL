@@ -103,3 +103,6 @@ A bulbous orange pumpkin has been transformed into an elegant carriage, its ridg
 - Mabel, Heir to Cragflame (Bloomburrow) — top EDHREC synergy partner (~10%); the canonical Mouse-tribal commander that brought this card back into format-relevant decks
 - Greasefang, Okiba Boss (Kamigawa: Neon Dynasty) — second-highest EDHREC synergy (~5.1%); reanimator-vehicles commander
 
+## Connections
+
+- [[eld-cinderella-cycle]] — fills the cycle's **pumpkin-coach + mice-turned-coachmen** slot, the cycle's load-bearing object-and-supporting-cast card. The cohort node names this card as "the iconic object she conjures" and as the Mouse-type-invention card, quoting Rosewater verbatim: *"This creature type exists only because the Enchanted Carriage needed white Mice for flavor."* The art's pumpkin-cabin with gold filigree on cobblestones under a pale overcast pre-midnight sky materializes the iconic coach beat, and the ETB-creates-two-1/1-white-Mouse-tokens line materializes the mice-turned-coachmen beat — one card carrying two of the cycle's eight named beats. `[cohort: eld-cinderella-cycle]` `[Wizards: "More Odds & Ends: Throne of Eldraine" 2019-10-21]`

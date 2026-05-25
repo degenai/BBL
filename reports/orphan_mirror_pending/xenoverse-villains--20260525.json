@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "xenoverse-villains",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\xenoverse-villains.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\dragon-ball-super\\colossal-warfare\\bt4-107-heavenly-wizard-demigra.md",
+      "bullet_text": "[[xenoverse-villains]] - Demigra-as-multiverse-paradox-antagonist archetype slot. The cohort node names this card directly: 'The Bandai-canonical Heavenly Wizard framing in BT4-107 encodes his magician-aesthetic operating mode rather than physical-combatant.' The upswept pink-red hair, dark-orb-holding theatrical pose, and Heavenly-Wizard title all map to Demigra's canonical Demon-Realm-magician register - the imprisoned Crack-of-Time mastermind whose stated goal is to destroy history and claim the title of God of Time. [Source: cohort node body; dbs-cardgame.com/asia/strategy/series4/design-concept.php]",
+      "archetype_slot": "Demigra as the multiverse-paradox antagonist"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\dragon-ball-super\\colossal-warfare\\bt4-121-dark-kamehameha.md",
+      "bullet_text": "[[xenoverse-villains]] - Mira-as-bio-engineered-ultimate-weapon archetype slot, via the Mira-Leader-locked Extra mechanic. The cohort node names this card directly: 'Mira does not fire a Kamehameha (Goku's technique), he fires a Dark Kamehameha (the canonical technique darkened by Time Breaker corruption).' The 'If your Leader Card is Mira' rules-text lock is the strongest mechanical Time Breaker membership signal short of named-character-on-card per the cohort's classifier criteria, and the white-haired fighter firing corrupted-ki maps to Mira's canonical silver-white design rather than any Goku transformation. [Source: cohort node body; BT4-121 card text]",
+      "archetype_slot": "Mira as the bio-engineered ultimate weapon (Mira-Leader-locked Dark Kamehameha rules-text encoding)"
+    }
+  ],
+  "deferred": []
+}

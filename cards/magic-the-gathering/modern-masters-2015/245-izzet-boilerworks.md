@@ -78,3 +78,7 @@ A dense, machine-crowded interior viewed straight-on: tangled copper and brass p
 **Iconography:** izzet-guild
 **Genre cues:** fantasy, steampunk, industrial-fantasy
 
+## Connections
+
+- [[izzet-league]] — the guild's industrial-infrastructure self-portrait at land-scale: the *Return to Ravnica*-era Izzet entry in the guild-bounce-land cycle (UR mana, return-a-land drawback). The cohort body names this card as the Izzet's no-figure architectural establishing shot — pipes, tanks, steam, copper-and-blue palette, no magewright or chemister in frame. Where Izzet Generatorium renders the apparatus with a single dwarfed worker visible, the Boilerworks renders the apparatus alone, which is its own thesis statement about whose labor disappears into the institutional self-image `[cohort node body: appears_on entry + functional-ideology section]`.
+

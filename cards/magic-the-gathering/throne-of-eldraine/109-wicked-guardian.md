@@ -122,3 +122,7 @@ tags:
 - **Noble subtype history** — Noble was reintroduced in ELD after retirement in the Grand Creature Type Update; 20 older creatures gained the subtype retroactively. Wicked Guardian is part of the inaugural new-print Noble wave. `[MTG Wiki: Noble subtype]`
 - **ELD Draft ranking** — Star City Games rated it the 3rd-best black common (behind Bake into a Pie and Reave Soul), with a noted steep drop-off after the top tier. `[SCG ELD Draft Review]`
 - **Matt Stewart — artist profile** — Three-time Chesley Award winner. 245+ MTG card credits across the game. Parsons-trained; Tolkien-influenced personal work. Oil-on-gessobord medium for ELD. `[Gatherer artist search]`
+
+## Connections
+
+- [[eld-cinderella-cycle]] — fills the cycle's **wicked-stepmother / antagonist** slot. The cohort node names this card as "the wicked stepmother — the antagonist" under the cycle's design thesis and cites Rosewater's "Eldraine or Shine" preview placing this card at the moment the protagonist's stepmother "begins treating her less like a stepdaughter and more like a servant." The flavor text *"Some are born to greatness. You were born to scrub greatness's floors."* and the high-throne-vs-scrubbing-servant composition carry the abuse-relationship beat the cycle is built around; the self-damage ETB trigger encodes stepmother-abusing-servant flavor at the rules-text level. `[cohort: eld-cinderella-cycle]` `[Scryfall flavor_text]`

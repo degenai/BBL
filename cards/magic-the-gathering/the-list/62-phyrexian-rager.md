@@ -72,3 +72,7 @@ tags:
 **Setting:** 
 **Mood / lighting:**
 
+## Connections
+
+- [[phyrexia]] — rank-and-file horror in Phyrexia's bladed-skeletal common-rarity figure slot; the canonical "draw a card, lose 1 life" Phyrexian common dating back to Apocalypse (2001) and reprinted across nearly two decades of supplemental product. The card's flavor text — *"I believe many worlds will bow to Phyrexia. Mirrodin is merely the first." — Sheoldred, Whispering One* — is canonically voiced by the black-sphere Praetor, foreshadowing (from the 2001 print's perspective) the New Phyrexia / Mirrodin-corruption arc that wouldn't be storylined until 2011, a designer retroactively-prophetic flavor-text moment that the Mystery Booster reprint deliberately preserves `[cohort node body]`.
+

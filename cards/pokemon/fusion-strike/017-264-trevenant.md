@@ -88,6 +88,7 @@ Trevenant stands as an imposing arboreal figure — its body is a dark hollow tr
 
 ## Connections
 
+- [[phantump-line]] — The Stage-1 evolved-form (National Pokedex no. 709) anchor of the cohort's Trevenant-FST-017 archetype slot: the imposing arboreal forest-guardian completing the two-stage line at its terminal evolutionary form. Per Pokedex flavor on this print, *"Small roots that extend from the tips of this Pokémon's feet can tie into the trees of the forest and give Trevenant control over them"* — the cohort body identifies this as the species' canonical roots-tie-into-the-forest control-mechanism rendered as printed flavor. Narumi Sato's misty pale-green-and-gray forest setting reinforces the looming-arboreal-guardian visual register per the cohort body, and the design carries the canonically-attributed (not merely community-attested) kodama tree-spirit / shimenawa rope / cyclopean yokai design-source thread that the cohort foregrounds as the line's most-cited Japanese-folkloric design canon. `[PokemonTCG.io swsh8-17 flavor_text; cohort node body]`
 - [[93-236-phantump]] — Two-stage Kalos Ghost/Grass evolution line completed in corpus. **Verified IP:** Trevenant (confidence: high)
 
 ## Trivia

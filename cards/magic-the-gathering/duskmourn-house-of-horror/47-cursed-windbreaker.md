@@ -90,3 +90,7 @@ A windbreaker jacket hovers in mid-air with no visible wearer inside it, arms ex
 - Patched Plaything (Duskmourn: House of Horror) — animated-object Horror in the same haunted-garment/artifact aesthetic cohort
 - Malevolent Chandelier (Duskmourn: House of Horror) — animated-architecture haunted-object; same thematic register
 - Haunted Screen (Duskmourn: House of Horror) — animated-object Equipment with similar Manifest Dread synergy context
+
+## Connections
+
+- [[dsk-animate-house]] — the cohort's *possessed garment* archetype slot, the clothing instance of the cohort's house-as-organism thesis (named explicitly in the cohort body alongside Haunted Screen's appliance slot and Malevolent Chandelier's fixture slot). The vision's "jacket floating without a wearer, arms extended outward as if animated" instantiates the cohort's empty-garment-that-moves-with-intent register precisely — the Equipment type-line (never Toy) marks it as a non-Toy possessed furnishing, the same external-animation grammar as the appliance and fixture instances applied to a wearable `[cohort node body]`.

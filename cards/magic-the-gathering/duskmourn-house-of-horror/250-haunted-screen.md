@@ -89,3 +89,7 @@ A boxy vintage television with rounded corners sits on wooden boards in a clutte
 - Timeless Lotus (Dominaria United) -- five-color mana rock Haunted Screen competes with in Commander
 - Coveted Jewel (Commander 2018) -- another high-mana-cost artifact that doubles as a lategame value play
 - Glitch Surgeon (DSK) -- another Duskmourn artifact in the retro-electronics horror vein
+
+## Connections
+
+- [[dsk-animate-house]] — the cohort's *possessed appliance* archetype slot, the retro-consumer-electronics dread that the cohort names as the set's signature horror-delivery vector. The vision's "ghost reaching outward through the screen" instantiates the cohort thesis directly: the television isn't individually haunted but is a limb of the House reaching, with the Spirit type-line (never Toy) marking it as a non-Toy possessed furnishing rather than a corrupted plaything `[cohort node body]`.

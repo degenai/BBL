@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "pawniard-line",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\pawniard-line.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\sword-shield-base-set\\133-202-pawniard.md",
+      "bullet_text": "[[pawniard-line]] - Base-stage (foot-soldier rank) member of the Pawniard / Bisharp / Kingambit Dark/Steel-type pack-hierarchy blade-warrior line. Printed flavor \"A pack of these Pokémon forms to serve a Bisharp boss. Each Pawniard trains diligently, dreaming of one day taking the lead\" renders the species' canonical aspirant-side pack-hierarchy social structure as printed flavor on the card - the aspirant-rank text that pairs with the Black Bolt Bisharp's leader-displacement flavor as the two sides of the line's designer-coordinated cross-set pack-hierarchy canon [Scryfall flavor_text: swsh1 #133 / cohort node body].",
+      "archetype_slot": "base-stage / foot-soldier rank / aspirant-side pack-hierarchy"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\sword-shield-base-set\\134-202-bisharp.md",
+      "bullet_text": "[[pawniard-line]] - Stage-1 (captain rank) member of the Pawniard / Bisharp / Kingambit Dark/Steel-type pack-hierarchy blade-warrior line, sitting at the within-SWSH adjacent collector slot (133+134) immediately after Pawniard - half of the corpus's first designer-coordinated cross-set within-set-adjacent-collector-number pair-of-pairs cohort (the within-SWSH 133+134 pair plus the within-BLB 064+065 pair). Printed flavor \"Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found\" renders the species' canonical blade-sharpening territorial canon - the line's most-cited inter-species canonical interaction, a designer-coordinated detail surfacing the species' blade-as-body biology [PokemonTCG.io flavor_text: swsh1 #134 / cohort node body].",
+      "archetype_slot": "Stage-1 / captain rank / blade-sharpening territorial canon + within-set-adjacent-pair-of-pairs cohesion"
+    }
+  ],
+  "deferred": []
+}

@@ -81,3 +81,7 @@ A large, powerful bipedal bear-like creature fills the frame in a dramatic forwa
 **Objects:** bamboo leaf
 **Creatures:** bear-like creature, bipedal mammal
 **Genre cues:** anime, fantasy
+
+## Connections
+
+- [[pancham-line]] — Stage-1 terminal slot in the Pancham evolutionary line cohort, occupying the **bamboo-leaf-as-sensory-organ** archetype slot named in the cohort body — the card's printed flavor *"Using its leaf, Pangoro can predict the moves of its opponents. It strikes with punches that can turn a dump truck into scrap with just one hit"* renders the cohort's leaf-as-functional-vibration-sensor canon explicitly and verbatim (more directly than the CEC-120 sibling print, where the sensory-organ canon is implicit). This is the cross-set / cross-distribution-context second Pangoro print (McDonald's Happy Meal promo vs the mainline Cosmic Eclipse expansion), broadening the line's corpus footprint across two distribution contexts per the cohort caveat. The dark smoky-void backdrop and forward-punching action pose match the cohort's bancho-boss combat-identity register at the Stage-1 final slot. [cohort node body; frontmatter `flavor_text`]

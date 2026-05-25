@@ -1,0 +1,23 @@
+{
+  "cohort_slug": "dsk-animate-house",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\dsk-animate-house.md",
+  "batch_size": 3,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\duskmourn-house-of-horror\\250-haunted-screen.md",
+      "archetype_slot": "possessed appliance",
+      "bullet_text": "[[dsk-animate-house]] — the cohort's *possessed appliance* archetype slot, the retro-consumer-electronics dread that the cohort names as the set's signature horror-delivery vector. The vision's \"ghost reaching outward through the screen\" instantiates the cohort thesis directly: the television isn't individually haunted but is a limb of the House reaching, with the Spirit type-line (never Toy) marking it as a non-Toy possessed furnishing rather than a corrupted plaything `[cohort node body]`."
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\duskmourn-house-of-horror\\252-malevolent-chandelier.md",
+      "archetype_slot": "possessed fixture",
+      "bullet_text": "[[dsk-animate-house]] — the cohort's *possessed fixture* archetype slot, the literal hanging-from-the-ceiling expression of the cohort's house-as-organism thesis. Winter's flavor warning *\"If you see a light moving toward you in the darkness, don't assume it's coming to help.\"* delivers the cohort's externally-possessed register precisely: the chandelier isn't a self-aware spirit but a lure of the House the survivors are inside, with the Construct type-line (never Toy) marking it as a non-Toy possessed furnishing `[Scryfall flavor_text]` `[cohort node body]`."
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\duskmourn-house-of-horror\\47-cursed-windbreaker.md",
+      "archetype_slot": "possessed garment",
+      "bullet_text": "[[dsk-animate-house]] — the cohort's *possessed garment* archetype slot, the clothing instance of the cohort's house-as-organism thesis (named explicitly in the cohort body alongside Haunted Screen's appliance slot and Malevolent Chandelier's fixture slot). The vision's \"jacket floating without a wearer, arms extended outward as if animated\" instantiates the cohort's empty-garment-that-moves-with-intent register precisely — the Equipment type-line (never Toy) marks it as a non-Toy possessed furnishing, the same external-animation grammar as the appliance and fixture instances applied to a wearable `[cohort node body]`."
+    }
+  ],
+  "deferred": []
+}

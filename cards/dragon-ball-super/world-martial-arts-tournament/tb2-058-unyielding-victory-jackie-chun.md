@@ -87,3 +87,7 @@ An older male-presenting figure with wild white hair and a white beard stands in
 ### Related cards
 - Master Shen, Martial Meister (World Martial Arts Tournament, TB2-063) — Roshi and Shen share the same origin master (Mutaito); rival school dynamic
 - Trusting Relationship Kami (World Martial Arts Tournament, TB2-046) — both Kami and Roshi/Jackie Chun are canonical elder-stewardship figures represented in the same set
+
+## Connections
+
+- [[master-roshi]] — anchors the **concealed-identity Jackie Chun / Super Rare** register of the cohort's dual-print structure, paired with TB2-057's open-master print to form what the cohort body calls "a designer-coordinated dual-identity pair within the same TB02 booster." This card's `## Trivia` is the source the cohort body quotes to canonicalize the *corrupted-stewardship-by-mask* operating mode: "if Goku or Krillin won the tournament, they might believe themselves the strongest in the world and stop training. By entering as a formidable unknown opponent, Roshi ensured they would face defeat and remain driven." The Super Rare slot at TB2-058 encodes Bandai's recognition of the deeper-lore concealment register beyond the entry-tier open-master portrait. `[card flavor/trivia body; cohort node body]`

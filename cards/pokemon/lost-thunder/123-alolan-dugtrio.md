@@ -94,3 +94,7 @@ Three rounded mole-like heads protrude from a rocky earthy mound in close format
 - Dugtrio (Base Set) — Kanto original form; Ground-only type, no hair
 - Alolan Golem (Lost Thunder) — another Alolan Steel-type regional variant in the same set
 
+## Connections
+
+- [[alolan-regional-forms]] — the cohort's **third distinct in-corpus Alolan-form species** and the bearer of the **cultural-religious folk-veneration** adaptation mechanism. The card's flavor — *"These Pokémon are cherished in the Alola region, where they are thought to be feminine deities of the land incarnate."* — canonicalizes a designer-attested adaptation framing distinct from the Alolan Grimer institutional-introduction mechanism and the Alolan Graveler dietary-divergence mechanism, extending the cohort's documented heterogeneity to a sixth species-clustered axis. The long-golden-hair visual divergence from Kantonian Dugtrio's brown-fur design is the line's signature variant feature `[cohort node body; Scryfall flavor_text]`.
+

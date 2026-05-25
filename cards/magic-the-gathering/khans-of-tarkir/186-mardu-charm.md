@@ -93,3 +93,7 @@ A horseback warrior charges forward across a smoke-and-fire-choked battlefield, 
 - Sultai Charm (KTK, 203) — cycle member
 - Temur Charm (KTK, 207) — cycle member
 - Mardu Roughrider (KTK, 187) — same set, same clan, Mardu watermark
+
+## Connections
+
+- [[ktk-clan-charm-cycle]] — The RWB member of Khans of Tarkir's five designer-coordinated wedge-color charms; per the cohort, the "burn-tokens-discard trio maps to the Mardu Horde's three-pronged war doctrine *strike fast, flood with bodies, disrupt the enemy*." This card's three oracle modes — `4 damage to target creature`, `create two 1/1 white Warrior creature tokens [...] gain first strike`, `target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card` — are the exact three-pronged war doctrine the cohort thesis names, with the Mardu clan-philosophy line "Those who ride will conquer, while those who stop to meditate will die" framing the speed-and-attack dragon-aspect of the wing. `[cohort: ktk-clan-charm-cycle, "The design thesis"]` `[Scryfall oracle_text]`

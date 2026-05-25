@@ -82,3 +82,7 @@ A medium-sized dog-type creature stands in a bold, alert stance with legs plante
 **Emotion read:** determined, alert, fierce loyalty
 **Creatures:** dog-creature, canine
 **Genre cues:** anime
+
+## Connections
+
+- [[lillipup-line]] — Stage-1 working-partner slot in the canonical Unova working-dog evolutionary line (Lillipup → Herdier → Stoutland, National Pokedex no. 506 → 507 → 508). Flavor *"Its dense black fur grows continuously. The high cost of keeping its hard fur properly groomed make this a troublesome Pokémon to train"* is the line's grooming-cost-as-balancing-trait register — a rare and underexplored Pokedex thread where the species' printed flavor names the cost-of-keeping-the-species as the defining trait, design-coded as the realistic labor of large-dog ownership and intensifying the working-dog canon between the base-stage puppy slot and the Stoutland rescue-team apex. `[card frontmatter flavor_text; cohort node body]`

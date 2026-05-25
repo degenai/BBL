@@ -1,0 +1,23 @@
+{
+  "cohort_slug": "breloom-line",
+  "cohort_path": "C:/Users/alexa/Desktop/Bulk Graph Bundler/cards/_characters/breloom-line.md",
+  "batch_size": 3,
+  "accepted": [
+    {
+      "card_path": "C:/Users/alexa/Desktop/Bulk Graph Bundler/cards/pokemon/unified-minds/5-236-shroomish.md",
+      "bullet_text": "Base-stage member of the Breloom evolutionary line (Pokedex no. 285), depicted here in clean official Ken Sugimori artwork as the canonical Hoenn-region Mushroom Pokemon. The flavor 'It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.' instantiates the line's spore-passive pole of its spore-passive-to-spore-weaponized canon - the stationary, camouflaged forest-floor mushroom whose toxic-powder design will later be recast as Breloom's offensive crowd-control.",
+      "archetype_slot": "Shroomish base-stage Sugimori print / spore-passive pole / stillness-and-spore canonical flavor"
+    },
+    {
+      "card_path": "C:/Users/alexa/Desktop/Bulk Graph Bundler/cards/pokemon/destined-rivals/005-182-shroomish.md",
+      "bullet_text": "Base-stage member of the Breloom evolutionary line (Pokedex no. 285), depicted here in IKEDA Saki's painterly tropical-undergrowth register - the same Pokedex flavor window as the Unified Minds Sugimori print, rendered as damp-shade naturalism rather than clean studio portrait. Flavor 'It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.' instantiates the line's spore-passive pole. Pairs with 006-182-breloom as the within-Destined-Rivals base/evolved cohesion stack at consecutive collector numbers (005 + 006).",
+      "archetype_slot": "Shroomish base-stage IKEDA Saki print / spore-passive pole / painterly tropical-undergrowth register / within-Destined-Rivals 005+006 stack member"
+    },
+    {
+      "card_path": "C:/Users/alexa/Desktop/Bulk Graph Bundler/cards/pokemon/destined-rivals/006-182-breloom.md",
+      "bullet_text": "Stage-1 member of the Breloom evolutionary line (Pokedex no. 286), depicted here in nisimono's vivid action register with the canonical arms-raised boxing stance against lush tropical foliage. Flavor 'It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores.' instantiates the line's spore-weaponized pole of its spore-passive-to-spore-weaponized canon - the offensive recast of Shroomish's toxic-powder biology, with the Grass-to-Grass/Fighting typing gained at evolution rendered visibly as the bipedal striking combatant the still forest-floor mushroom becomes. Pairs with 005-182-shroomish as the within-Destined-Rivals base/evolved cohesion stack at consecutive collector numbers (005 + 006).",
+      "archetype_slot": "Breloom Stage-1 nisimono print / spore-weaponized pole / spore-and-punch canonical flavor / Fighting-typing-gain payoff / within-Destined-Rivals 005+006 stack member"
+    }
+  ],
+  "deferred": []
+}

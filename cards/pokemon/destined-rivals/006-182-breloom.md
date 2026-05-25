@@ -76,3 +76,7 @@ Breloom stands in a dynamic posture with both arms raised, one slightly forward,
 **Emotion read:** aggressive, ready, alert
 **Creatures:** mushroom-creature, breloom
 **Genre cues:** anime, fantasy
+
+## Connections
+
+- [[breloom-line]] — Stage-1 member of the Breloom evolutionary line (Pokedex no. 286), depicted here in nisimono's vivid action register with the canonical arms-raised boxing stance against lush tropical foliage. Flavor *"It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores."* instantiates the line's spore-weaponized pole of its spore-passive-to-spore-weaponized canon — the offensive recast of Shroomish's toxic-powder biology, with the Grass-to-Grass/Fighting typing gained at evolution rendered visibly as the bipedal striking combatant the still forest-floor mushroom becomes. The within-Destined-Rivals 005 + 006 cohesion stack is hosted at the cohort node (per the node's edge-discipline policy, no card-to-card sibling edge is drawn — the species-line attachment is the only edge). `[breloom-line node body; PokemonTCG.io flavor_text]`

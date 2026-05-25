@@ -81,3 +81,7 @@ A small round creature with a mushroom cap covering its upper body stands in a s
 **Creatures:** shroomish, mushroom-creature
 **Iconography:** mushroom-cap, spots
 **Genre cues:** anime
+
+## Connections
+
+- [[breloom-line]] — Base-stage member of the Breloom evolutionary line (Pokedex no. 285), depicted here in clean official Ken Sugimori artwork as the canonical Hoenn-region Mushroom Pokemon. The flavor *"It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head."* instantiates the line's spore-passive pole of its spore-passive-to-spore-weaponized canon — the stationary, camouflaged forest-floor mushroom whose toxic-powder design will later be recast as Breloom's offensive crowd-control. `[breloom-line node body; Scryfall flavor_text]`

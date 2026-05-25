@@ -1,0 +1,23 @@
+{
+  "cohort_slug": "larvitar-line",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\larvitar-line.md",
+  "batch_size": 3,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\darkness-ablaze\\086-189-larvitar.md",
+      "bullet_text": "[[larvitar-line]] — base-stage anchor for the Larvitar evolutionary line (Larvitar / Pupitar / Tyranitar), the Johto Generation II pseudo-legendary line. This print's flavor text \"Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil\" is the most-cited canonical expression of the line's mountain-eater origin at the Larvitar stage — the cohort's design thesis explicitly identifies this text as the strongest anchor for the consume-the-mountain-become-the-mountain narrative arc, with the eat-the-mountain canon strongest at the Larvitar stage and the embodiment canon at the Tyranitar apex. [Scryfall flavor_text via PokemonTCG.io swsh3-86; cohort node body]",
+      "archetype_slot": "base-stage / mountain-eater Pokedex canon — consume-the-mountain-become-the-mountain cost-of-power narrative arc origin"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\darkness-ablaze\\087-189-pupitar.md",
+      "bullet_text": "[[larvitar-line]] — Stage-1 mid-form anchor for the Larvitar evolutionary line (Larvitar / Pupitar / Tyranitar), the Johto Generation II pseudo-legendary line. This print's flavor text \"Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power\" is the cohort's canonical contained-power-ready-to-burst register, and the card's Rocket Evolution attack (search deck for the card that evolves from this Pokemon and put it onto this Pokemon to evolve it) mechanically encodes the species' waiting-to-burst-into-Tyranitar arc — the cohort design thesis identifies Pupitar as the bridge register between Larvitar's mountain-eating origin and Tyranitar's mountain-leveling apex, with the destructive-power-already-present flavor explicit on the printed card itself. [Scryfall flavor_text via PokemonTCG.io swsh3-87; cohort node body]",
+      "archetype_slot": "Stage-1 mid-form / contained-power-ready-to-burst cocoon register — Rocket Evolution mechanical signature as the bridge register between mountain-eater origin and mountain-leveling apex"
+    }
+  ],
+  "deferred": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\lost-thunder\\114-larvitar-114.md",
+      "reason": "Skeleton entry — needs_manual_review: true, no reference image resolved by pokemontcg lookup, empty tags_hub, empty Vision body, no flavor_text or oracle_text in frontmatter, no trivia pass complete. The cohort node body explicitly catalogs this print's skeleton state (line 41 in cohort body: 'Larvitar (114)... skeleton entry pending vision/trivia pass'; caveat at line 74: 'line node anchors only the two trivia-passed prints currently'). No card-specific flavor-text fragment or vision-subject element exists to anchor a non-generic cohort bullet — any bullet written here would be interchangeable with the DAA-086 base-stage bullet and would violate the hard rule against generic placeholder mirroring. Defer until vision and trivia passes complete on this print; at that point the cohort relationship can be expressed against the Sun & Moon-era illustration specifics (vs the Sword & Shield-era Sakuma garden art on DAA-086), giving the bullet real per-card anchoring. The frontmatter characters: ['larvitar-line'] pointer is already in place; cohort appears_on: includes this entry; orphan-mirror prose attachment is the correct deferral, not a metadata-wiring deferral."
+    }
+  ]
+}

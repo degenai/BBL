@@ -91,3 +91,7 @@ A solitary figure stands centered on a rocky outcrop in a high mountain pass, sw
 - Jeskai Charm (Khans of Tarkir, no. 175) — charm cycle member (trivia-passed wave 176)
 - Mardu Charm (Khans of Tarkir, no. 182) — charm cycle member (trivia-passed wave 177)
 - Sultai Charm (Khans of Tarkir, no. 207) — charm cycle member
+
+## Connections
+
+- [[ktk-clan-charm-cycle]] — The GUR member of Khans of Tarkir's five designer-coordinated wedge-color charms; per the cohort, the "fight-counter-evasion trio maps to the Temur Frontier's clan virtue *savagery* and the Ferocious mechanic's reward for fielding power-4-or-greater creatures." This card's three oracle modes — `target creature you control gets +1/+1 [...] it fights target creature you don't control`, `counter target spell unless its controller pays {3}`, `creatures with power 3 or less can't block this turn` — are the exact fight/counter/evasion triad the cohort thesis names, with all three modes calibrated as one-shot Ferocious payoffs that reward the large-creature board state the Temur dragon-aspect of the claw demands. `[cohort: ktk-clan-charm-cycle, "The design thesis"]` `[Scryfall oracle_text]`

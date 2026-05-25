@@ -1,0 +1,13 @@
+{
+  "cohort_slug": "alolan-regional-forms",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\alolan-regional-forms.md",
+  "batch_size": 1,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\lost-thunder\\123-alolan-dugtrio.md",
+      "bullet_text": "[[alolan-regional-forms]] — the cohort's **third distinct in-corpus Alolan-form species** and the bearer of the **cultural-religious folk-veneration** adaptation mechanism. The card's flavor — *\"These Pokémon are cherished in the Alola region, where they are thought to be feminine deities of the land incarnate.\"* — canonicalizes a designer-attested adaptation framing distinct from the Alolan Grimer institutional-introduction mechanism and the Alolan Graveler dietary-divergence mechanism, extending the cohort's documented heterogeneity to a sixth species-clustered axis. The long-golden-hair visual divergence from Kantonian Dugtrio's brown-fur design is the line's signature variant feature `[cohort node body; Scryfall flavor_text]`.",
+      "archetype_slot": "third distinct in-corpus Alolan-form species / cultural-religious folk-veneration adaptation mechanism"
+    }
+  ],
+  "deferred": []
+}

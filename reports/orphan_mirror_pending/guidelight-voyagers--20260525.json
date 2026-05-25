@@ -1,0 +1,18 @@
+{
+  "cohort_slug": "guidelight-voyagers",
+  "cohort_path": "cards/_characters/guidelight-voyagers.md",
+  "batch_size": 2,
+  "accepted": [
+    {
+      "card_path": "cards/magic-the-gathering/aetherdrift/45-guidelight-optimizer.md",
+      "bullet_text": "[[guidelight-voyagers]] — automaton member-card and the in-set anchor for the team's canonical speech pattern. The flavor text \"Analysis: Systems operating at 125% efficiency. Stress within expected tolerances. Exclamatory: Punch it.\" is the corpus's clearest instance of the category-prefixed utterance (\"Analysis:\", \"Exclamatory:\") that the cohort body identifies as Mendicant Core's hive-mind signature — the same intelligence speaking through every chassis. [Scryfall flavor_text; cohort node body]",
+      "archetype_slot": "automaton member-card / Mendicant Core hive-mind speech-pattern anchor"
+    },
+    {
+      "card_path": "cards/magic-the-gathering/aetherdrift/233-guidelight-matrix.md",
+      "bullet_text": "[[guidelight-voyagers]] — the team's logistical engine. The cohort body names this card as \"the Matrix that catalogs and fields the rolling stock that the automaton crews then drive,\" and the art matches: a faceted blue crystalline matrix at the center of a workshop pit, projecting wireframe outlines of vehicles and gears around itself. Mechanically the draw-on-entry plus Mount-saddle / Vehicle-animate activations make it the support artifact that fields what the Guidelight automatons race. [Cohort node body; card oracle_text; Vision section]",
+      "archetype_slot": "team logistical engine / rolling-stock catalog and field-it artifact"
+    }
+  ],
+  "deferred": []
+}

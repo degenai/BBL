@@ -53,3 +53,7 @@ tags:
 **Setting:** 
 **Mood / lighting:**
 
+## Connections
+
+- [[pawniard-line]] — Stage-1 (captain rank) member of the Pawniard / Bisharp / Kingambit Dark/Steel-type pack-hierarchy blade-warrior line, sitting at the within-SWSH adjacent collector slot (133+134) immediately after Pawniard — half of the corpus's first designer-coordinated cross-set within-set-adjacent-collector-number pair-of-pairs cohort (the within-SWSH 133+134 pair plus the within-BLB 064+065 pair). Printed flavor *"Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found"* renders the species' canonical blade-sharpening territorial canon — the line's most-cited inter-species canonical interaction, a designer-coordinated detail surfacing the species' blade-as-body biology `[PokemonTCG.io flavor_text: swsh1 #134 / cohort node body]`.
+

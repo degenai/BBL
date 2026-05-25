@@ -1,0 +1,23 @@
+{
+  "cohort_slug": "eld-cinderella-cycle",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\eld-cinderella-cycle.md",
+  "batch_size": 3,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\throne-of-eldraine\\109-wicked-guardian.md",
+      "archetype_slot": "wicked-stepmother / antagonist",
+      "bullet_text": "[[eld-cinderella-cycle]] — fills the cycle's wicked-stepmother / antagonist slot. The cohort node names this card as 'the wicked stepmother — the antagonist' under the cycle's design thesis and cites Rosewater's 'Eldraine or Shine' preview placing this card at the moment the protagonist's stepmother 'begins treating her less like a stepdaughter and more like a servant.' The flavor text 'Some are born to greatness. You were born to scrub greatness's floors.' and the high-throne-vs-scrubbing-servant composition carry the abuse-relationship beat the cycle is built around; the self-damage ETB trigger encodes stepmother-abusing-servant flavor at the rules-text level. [cohort: eld-cinderella-cycle] [Scryfall flavor_text]"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\throne-of-eldraine\\218-enchanted-carriage.md",
+      "archetype_slot": "pumpkin-coach + mice-turned-coachmen (load-bearing object + supporting cast, two cycle beats in one card)",
+      "bullet_text": "[[eld-cinderella-cycle]] — fills the cycle's pumpkin-coach + mice-turned-coachmen slot, the cycle's load-bearing object-and-supporting-cast card. The cohort node names this card as 'the iconic object she conjures' and as the Mouse-type-invention card, quoting Rosewater verbatim: 'This creature type exists only because the Enchanted Carriage needed white Mice for flavor.' The art's pumpkin-cabin with gold filigree on cobblestones under a pale overcast pre-midnight sky materializes the iconic coach beat, and the ETB-creates-two-1/1-white-Mouse-tokens line materializes the mice-turned-coachmen beat — one card carrying two of the cycle's eight named beats. [cohort: eld-cinderella-cycle] [Wizards: 'More Odds & Ends: Throne of Eldraine' 2019-10-21]"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\throne-of-eldraine\\69-turn-into-a-pumpkin.md",
+      "archetype_slot": "reversion / magic-fails-on-schedule (paired-reversal card to Enchanted Carriage)",
+      "bullet_text": "[[eld-cinderella-cycle]] — fills the cycle's reversion / magic-fails-on-schedule slot, paired-reversal card to Enchanted Carriage. The cohort node names this card as 'the reversion — the magic failing on schedule' and reads its art as 'the hunched figure mid-transformation in the moonlit pumpkin patch — the canonical Cinderella-reversal beat staged as folk-horror.' The bounce-target-back-to-hand oracle line literalizes the reversion in rules text; the moonlit-pumpkin-patch composition with the ogrish figure mid-transformation literalizes it in art. The cohort's 'magic fails at midnight, the scullery maid goes back' framing — flagged in the cohort's [[rebellion]] adjacency note — runs through this card specifically. [cohort: eld-cinderella-cycle] [Scryfall oracle_text]"
+    }
+  ],
+  "deferred": []
+}

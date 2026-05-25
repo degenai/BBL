@@ -76,3 +76,7 @@ Shroomish sits low on a damp forest floor, its compact round body covered in a g
 **Emotion read:** still, neutral, placid
 **Creatures:** mushroom-creature, shroomish
 **Genre cues:** anime, fantasy
+
+## Connections
+
+- [[breloom-line]] — Base-stage member of the Breloom evolutionary line (Pokedex no. 285), depicted here in IKEDA Saki's painterly tropical-undergrowth register — the same Pokedex flavor window as the Unified Minds Sugimori print, rendered as damp-shade naturalism rather than clean studio portrait. Flavor *"It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head."* instantiates the line's spore-passive pole: a stationary, camouflaged forest-floor mushroom whose toxic-powder design is the passive defense the line's evolution arc later weaponizes at Breloom. The within-Destined-Rivals 005 + 006 cohesion stack is hosted at the cohort node (per the node's edge-discipline policy, no card-to-card sibling edge is drawn — the species-line attachment is the only edge). `[breloom-line node body; PokemonTCG.io flavor_text]`

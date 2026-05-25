@@ -1,0 +1,12 @@
+{
+  "cohort_slug": "valgavoth",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\valgavoth.md",
+  "batch_size": 1,
+  "accepted": [],
+  "deferred": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\magic-the-gathering\\duskmourn-house-of-horror\\198-slavering-branchsnapper.md",
+      "reason": "Not orphan — card body already carries a fully-formed `## Connections` bullet pointing at `[[_characters/valgavoth]]` (set-context citation archetype slot, with the swallowed-suns cosmology quote from the cohort body and a citation-stack). The orphan-mirror precondition (frontmatter wired + body has no wikilink to cohort) is NOT met; the body wikilink is present. Parent batch filter may have stale data — recommend re-running `bbl_orphan_count.py` against this cohort to refresh the orphan list. No edit performed; existing bullet preserved."
+    }
+  ]
+}

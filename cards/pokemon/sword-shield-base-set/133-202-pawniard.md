@@ -53,3 +53,7 @@ tags:
 **Setting:** 
 **Mood / lighting:**
 
+## Connections
+
+- [[pawniard-line]] — Base-stage (foot-soldier rank) member of the Pawniard / Bisharp / Kingambit Dark/Steel-type pack-hierarchy blade-warrior line. Printed flavor *"A pack of these Pokémon forms to serve a Bisharp boss. Each Pawniard trains diligently, dreaming of one day taking the lead"* renders the species' canonical aspirant-side pack-hierarchy social structure as printed flavor on the card — the aspirant-rank text that pairs with the Black Bolt Bisharp's leader-displacement flavor as the two sides of the line's designer-coordinated cross-set pack-hierarchy canon `[Scryfall flavor_text: swsh1 #133 / cohort node body]`.
+

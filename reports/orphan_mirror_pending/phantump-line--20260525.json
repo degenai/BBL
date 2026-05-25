@@ -1,0 +1,23 @@
+{
+  "cohort_slug": "phantump-line",
+  "cohort_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\_characters\\phantump-line.md",
+  "batch_size": 3,
+  "accepted": [
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\cosmic-eclipse\\93-236-phantump.md",
+      "archetype_slot": "Phantump-CEC-93 — miki kudo's lonely-spirit register / dim-forest-with-floating-orbs / canonical lure-by-imitating-a-child's-voice flavor / lore-anchoring print in the BBL corpus / 'saddest Pokemon design' community-attested benchmark",
+      "bullet_text": "[[phantump-line]] — The base-stage (National Pokedex no. 708) anchor of the cohort's Phantump-CEC-93 archetype slot: 'miki kudo's lonely-spirit register' rendered as the dim-forest-with-floating-orbs setting and the canonical lure-by-imitating-a-child's-voice flavor. Per Pokedex flavor on this print, 'By imitating the voice of a child, it causes people to get hopelessly lost deep in the forest. It's trying to make friends with them' — the species' lure-by-child-voice-as-loneliness-not-malice motif rendered as printed flavor and identified in the cohort body as the lore-anchoring print in the BBL corpus and as the community-attested 'saddest Pokemon design' benchmark citation. [Scryfall-equivalent: PokemonTCG.io sm12-93 flavor_text; cohort node body]"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\rebel-clash\\014-192-phantump.md",
+      "archetype_slot": "Phantump-RBC-014 — sui's eerie-power register / teal-aura-glow / explicit child-death-origin flavor / second corpus Phantump print extending species coverage into Sword & Shield era / divergent emotional key from CEC-93",
+      "bullet_text": "[[phantump-line]] — The base-stage second corpus Phantump print, instantiating the cohort's Phantump-RBC-014 archetype slot: 'sui's eerie-power register' rendered as the teal-aura-glow visual and the most explicit statement of the species' child-death-origin canon across the corpus. Per the cohort body, this print is the 'vivid teal-aura register distinct from the CEC-93 lonely-spirit register' — same species and setting archetype as CEC-93 but with divergent emotional key (abandoned child-spirit at CEC-93 vs eerie power-source at RBC-014). Pokedex flavor on this print states it directly: 'After a lost child perished in the forest, their spirit possessed a tree stump, causing the spirit's rebirth as this Pokémon' — the canonical mechanism of the species' existence stated in printed flavor. [PokemonTCG.io swsh2-14 flavor_text; cohort node body]"
+    },
+    {
+      "card_path": "C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler\\cards\\pokemon\\fusion-strike\\017-264-trevenant.md",
+      "archetype_slot": "Trevenant-FST-017 — Narumi Sato art / Stage-1 evolved-form adult forest-guardian terminal evolution / roots-tie-into-forest control flavor / canonically-attributed kodama / shimenawa rope / cyclopean yokai design-source thread",
+      "bullet_text": "[[phantump-line]] — The Stage-1 evolved-form (National Pokedex no. 709) anchor of the cohort's Trevenant-FST-017 archetype slot: the imposing arboreal forest-guardian completing the two-stage line at its terminal evolutionary form. Per Pokedex flavor on this print, 'Small roots that extend from the tips of this Pokémon's feet can tie into the trees of the forest and give Trevenant control over them' — the cohort body identifies this as the species' canonical roots-tie-into-the-forest control-mechanism rendered as printed flavor. Narumi Sato's misty pale-green-and-gray forest setting reinforces the looming-arboreal-guardian visual register per the cohort body, and the design carries the canonically-attributed (not merely community-attested) kodama tree-spirit / shimenawa rope / cyclopean yokai design-source thread that the cohort foregrounds as the line's most-cited Japanese-folkloric design canon. [PokemonTCG.io swsh8-17 flavor_text; cohort node body]"
+    }
+  ],
+  "deferred": []
+}

@@ -88,3 +88,7 @@ A large circular stone brazier sits in the center of a grand vaulted interior sp
 - Mardu Charm (KTK, 176) — another KTK clan charm; same structural slot
 - Temur Charm (KTK, 197) — Temur charm in the same cycle
 - Deflecting Palm (KTK, 165) — Jeskai uncommon from KTK; same UWR identity, competitive play history in burn sideboards
+
+## Connections
+
+- [[ktk-clan-charm-cycle]] — The UWR member of Khans of Tarkir's five designer-coordinated wedge-color charms; per the cohort, the "bounce-burn-pump trio maps to the Jeskai Way's clan virtue *cunning* and its dragon-aspect of the mind (cunning, discipline, monastic prowess)." This card's three oracle modes — `put target creature on top of its owner's library`, `4 damage to target opponent or planeswalker`, `creatures you control get +1/+1 and gain lifelink` — are the exact bounce/burn/pump triad the cohort thesis names, with the lifelink-pump mode functioning as the Prowess-adjacent payoff for the Jeskai's monastic-discipline identity. `[cohort: ktk-clan-charm-cycle, "What this node anchors"]` `[Scryfall oracle_text]`

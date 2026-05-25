@@ -91,4 +91,7 @@ tags:
 - *Ral Zarek* (Dragon's Maze, DGM) — Ral's debut planeswalker card; first canonical printing of the character.
 - *Niv-Mizzet, Parun* (Guilds of Ravnica, GRN) — Izzet guildmaster dragon resurrected by Ral, Jace, and Vraska in the War of the Spark storyline.
 
+## Connections
+
+- [[izzet-league]] — Ral Zarek operating as the guild's lieutenant-then-guildmaster operational center, framing the WAR-era battle against Bolas's Eternal army in characteristically Izzet register. The flavor line — *"Time to find the melting point of lazotep."* — is the guild's institutional rhetoric in action: a betrayal declared as a materials-science problem, the pyrothermal experimenter recasting Bolas's invasion as a thermodynamics inquiry. The cohort body cites this card specifically as the WAR-arc moment when Ral defects from Bolas's payroll and turns on the Eternals alongside Jace, Vraska, and Kaya, which is the storyline beat that sets up the post-WAR Niv-Mizzet-as-Living-Guildpact resurrection `[Scryfall flavor_text; cohort node body: appears_on entry + Ral-Zarek-as-operational-center section]`.
 
