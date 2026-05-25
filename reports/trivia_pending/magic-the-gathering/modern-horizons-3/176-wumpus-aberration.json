@@ -1,0 +1,41 @@
+{
+  "card_name": "Wumpus Aberration",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "176",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "The 'Wumpus' creature lineage in MTG traces to Hunted Wumpus (Mercadian Masques, 1999), a 6/6 for {3}{G} with a free-creature-for-opponents drawback. Shivan Wumpus (Planar Chaos, 2007) followed with a similar pattern. Wumpus Aberration is the third and the first to be typed Eldrazi — its conditional drawback (opponent may deploy a hand creature unless {C} was used) is an Eldrazi-era adaptation of the original Wumpus design.",
+      "sources": ["Scryfall: Hunted Wumpus oracle_text", "Scryfall: Shivan Wumpus oracle_text", "Scryfall: Wumpus Aberration oracle_text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"All who behold its twisted form are consumed by a single-minded obsession: destroy it.\" [Scryfall]. No attributed speaker — the line reads as an in-world observational report, implying the creature's wrongness triggers almost involuntary aggression in any observer.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 6/6 Eldrazi Beast with Trample and Devoid for {3}{G}. The drawback is negated if a colorless {C} mana source was spent to cast it, incentivizing colorless mana production. EDHREC rank 19,422 places it at the low end of Commander use; competitive play is minimal.",
+      "sources": ["Scryfall API: oracle_text, edhrec_rank 19422", "Scryfall: legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Filip Burburan, a Croatia-based MTG illustrator known for creature and horror-register work. No Hipsters of the Coast artist spotlight found for Burburan as of May 2026.",
+      "sources": ["Scryfall: artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Hunted Wumpus", "set": "Mercadian Masques", "note": "1999 originator of the Wumpus 'opponent gets a free creature' drawback pattern"},
+    {"name": "Shivan Wumpus", "set": "Planar Chaos", "note": "Second Wumpus with enter-the-battlefield drawback"},
+    {"name": "Emrakul, the Promised End", "set": "Eldritch Moon", "note": "Apex Eldrazi with an adversarial design philosophy; same Devoid register"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

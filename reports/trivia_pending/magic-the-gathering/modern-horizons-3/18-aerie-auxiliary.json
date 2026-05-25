@@ -1,0 +1,41 @@
+{
+  "card_name": "Aerie Auxiliary",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "18",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "\"The hordechief's ground tactics were unsurpassed. If only he'd thought to watch the skies.\" [Scryfall]. No named speaker. The 'hordechief' framing implies a capable but terrestrially-focused adversary outmaneuvered by the aerial force — an in-world after-action observation.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The support keyword was introduced in Oath of the Gatewatch (2016), the second Zendikar-return set. After its debut it appeared in Battlebond (2018), Streets of New Capenna Commander (2022), Modern Horizons 2 (2021), and Modern Horizons 3 — used as a counter-distribution utility keyword across sets.",
+      "sources": ["Wizards: Oath of the Gatewatch Mechanics, magic.wizards.com, 2015-12-28", "MTG Wiki: Support — via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Donato Giancola, one of the most decorated artists in science fiction and fantasy illustration. Giancola has produced 125+ MTG illustrations since 1996 (debut: Amber Prison, Mirage). He has won 23 Chesley Awards including a Lifetime Artistic Achievement Award (2002) and a World Fantasy Award; all MTG work is executed in traditional oils on panel.",
+      "sources": ["Hipsters of the Coast: Donato Giancola Land Panorama, December 2018", "donatoarts.com: biography"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 3/3 Flying Bird Soldier for {3}{W} with support 2 on entry. Common rarity makes it Pauper-legal. EDHREC rank 17,249 indicates modest Commander use in white counter-distribution shells; not a format staple.",
+      "sources": ["Scryfall API: legalities pauper: legal, edhrec_rank 17249"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Aven Mindcensor", "set": "Future Sight", "note": "Archetypal Bird Soldier; defines the aven/bird-warrior type"},
+    {"name": "Archon of Emeria", "set": "Zendikar Rising", "note": "White flying support creature in the same Commander archetype"},
+    {"name": "Ranger of Eos", "set": "Shards of Alara", "note": "Donato Giancola card; same artist, notable MTG legacy card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

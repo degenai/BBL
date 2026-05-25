@@ -76,3 +76,15 @@ A goblin stands in a dominant wide-legged stance in the center of the frame. It 
 **Iconography:** lightning bolt, storm clouds, goggles
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Flavor text** — `"Warned against wearing metal in a lightning storm, Smurt took it as a challenge."` `[Scryfall]`. The named goblin "Smurt" is a named but non-IP individual — one of MTG's many flavor-text goblins established as a character solely through a single line. The name and the scene (full plate armor in a lightning storm, treating warnings as personal dares) encode a classic goblin archetype: reckless defiance read as bravado rather than suicidality.
+- **Format legality** — Conduit Goblin is legal in Pauper (common rarity), making it one of the few MH3 energy cards to reach that format. Its {R}{W} cost and 2/2 body make it a candidate for Pauper Boros energy shells alongside Glint Hawk and Kor Skyfisher — community brewing from June 2024 cited it as a potential Goblin Bushwhacker-style finisher in those builds `[Scryfall: legalities — pauper: legal]` `[mtg.cardsrealm.com: "Pauper: 5 Decks with Modern Horizons 3", 2024]`.
+- **Energy mechanic** — MH3 marked the return of the energy counter mechanic to a major release after it had been largely absent since Kaladesh block (2016–2017). Scryfall's `all_parts` field links Conduit Goblin as a combo piece with Energy Reserve (a card that can convert or store energy counters), signaling Wizards built these into an explicitly flagged mechanical pair `[Scryfall API: all_parts — combo_piece with Energy Reserve (id: 1c516212)]`.
+- **Preview** — The card was previewed by the Goblin Lore Podcast via Twitter on 2024-05-22 — a thematically appropriate reveal partner given the card's goblin flavor `[Scryfall API: preview field, source "Goblin Lore Podcast", previewed_at 2024-05-22]`.
+
+### Related cards
+- Energy Reserve (Modern Horizons 3) — Scryfall-flagged combo piece with Conduit Goblin
+- Goblin Bushwhacker (Zendikar, no. 118) — functional ancestor; haste-granting goblin at a similar mana cost that Conduit Goblin is compared to in Pauper lists
+- Galvanic Discharge (Modern Horizons 3) — MH3 energy removal spell that shares Pauper Boros energy shells with Conduit Goblin
+

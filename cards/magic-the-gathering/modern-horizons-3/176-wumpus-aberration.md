@@ -77,3 +77,15 @@ A colossal creature dominates the scene: its bulky body is covered in writhing p
 **Iconography:** tentacles, eldritch
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Wumpus lineage** — The "Wumpus" creature type in MTG traces to Hunted Wumpus (Mercadian Masques, 1999), a 6/6 Beast for {3}{G} where "each other player may put a creature card from their hand onto the battlefield." Shivan Wumpus (Planar Chaos, 2007) followed with a similar drawback. Wumpus Aberration is the third beast in this lineage and the first to be typed as an Eldrazi — the drawback mechanic (opponent may put a creature into play if {C} wasn't spent) is a direct Eldrazi-era adaptation of the original Wumpus pattern `[Scryfall: Hunted Wumpus MMQ oracle_text]` `[Scryfall: Shivan Wumpus oracle_text]` `[Scryfall: Wumpus Aberration oracle_text]`.
+- **Flavor text** — `"All who behold its twisted form are consumed by a single-minded obsession: destroy it."` `[Scryfall]`. No attributed speaker — the line reads as an in-world observational report, implying that the creature's wrongness triggers an almost involuntary aggression response in anyone who sees it.
+- **Mechanical design** — A 6/6 Eldrazi Beast with Trample and Devoid for {3}{G}. The drawback penalty (opponent may free-deploy a hand creature) is negated if a colorless {C} mana source was used to cast it — incentivizing colorless mana production to unlock the full body without conceding tempo. EDHREC rank 19,422 places it at the low end of Commander play; community use is casual-only `[Scryfall API: edhrec_rank 19422]` `[Scryfall: legalities — legal in Modern, Legacy, Commander]`.
+- **Artist** — Illustrated by Filip Burburan, a Croatia-based MTG illustrator known for creature and horror-register work across multiple recent sets. No Hipsters of the Coast artist spotlight found as of May 2026 `[Scryfall: artist field "Filip Burburan"]`.
+
+### Related cards
+- Hunted Wumpus (Mercadian Masques, no. 253) — the 1999 originator of the "opponent gets a free creature" Wumpus drawback pattern
+- Shivan Wumpus (Planar Chaos, no. 137) — second Wumpus with a similar enter-the-battlefield drawback
+- Emrakul, the Promised End (Eldritch Moon, no. 6) — apex Eldrazi with a similar "takes over opponent's turn" adversarial design philosophy
+

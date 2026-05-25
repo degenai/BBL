@@ -1,0 +1,41 @@
+{
+  "card_name": "Conduit Goblin",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "179",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "\"Warned against wearing metal in a lightning storm, Smurt took it as a challenge.\" [Scryfall]. Named goblin 'Smurt' is a non-IP individual established only through this line — classic MTG flavor-text goblin archetype: reckless defiance read as bravado.",
+      "sources": ["Scryfall: flavor_text field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Common rarity makes Conduit Goblin Pauper-legal — one of the few MH3 energy cards to reach that format. Community brewing from June 2024 cited it as a potential Goblin Bushwhacker-style finisher in Pauper Boros energy shells alongside Glint Hawk and Kor Skyfisher.",
+      "sources": ["Scryfall: legalities — pauper: legal", "mtg.cardsrealm.com: Pauper 5 Decks with Modern Horizons 3, 2024"]
+    },
+    {
+      "category": "set-lore",
+      "text": "MH3 marked the return of energy counters to a major release after near-absence since Kaladesh block (2016–2017). Scryfall's all_parts field lists Conduit Goblin and Energy Reserve as explicitly flagged combo pieces — Wizards built these as an intentional mechanical pair.",
+      "sources": ["Scryfall API: all_parts — combo_piece with Energy Reserve (id: 1c516212-ad39-4396-8e05-ae57f100309f)"]
+    },
+    {
+      "category": "design",
+      "text": "Previewed by the Goblin Lore Podcast via Twitter on 2024-05-22 — a thematically fitting reveal partner for a goblin card.",
+      "sources": ["Scryfall API: preview field (source: Goblin Lore Podcast, previewed_at: 2024-05-22)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Energy Reserve", "set": "Modern Horizons 3", "note": "Scryfall-flagged combo piece with Conduit Goblin"},
+    {"name": "Goblin Bushwhacker", "set": "Zendikar", "note": "Functional ancestor; haste-granting goblin cited in Pauper comparisons"},
+    {"name": "Galvanic Discharge", "set": "Modern Horizons 3", "note": "MH3 energy removal spell sharing Pauper Boros energy shells"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

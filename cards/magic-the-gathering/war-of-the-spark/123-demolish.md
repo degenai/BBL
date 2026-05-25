@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - destruction
+  - fire
+  - explosion
+  - city
+  - ruins
+  - war
+  - tower
+  - occupation
+  - sky
+  - chaos
+  - architecture
+  - invasion
+tags_filter:
+  - wide-shot
+  - scene-mode
+  - group
+  - forward-facing
+  - red-magic
+  - sorcery
+  - smoke
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/123-demolish.png
 average_cost_paid: 0
 market_price: 0.14
@@ -34,6 +53,9 @@ oracle_text: Destroy target artifact or land.
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: grim
+time_of_day: day
+setting: urban
 tags:
   - card
   - manual-review
@@ -42,12 +64,19 @@ tags:
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![123-demolish](../../_images/magic-the-gathering/war-of-the-spark/123-demolish.png)
 
+A scene of urban warfare and mass destruction set in a grand fantasy city. In the foreground, a humanoid figure wearing robes and a distinctive horned golden helmet stands with arms thrown wide, surrounded by cascading fire and debris. The explosion dominates the lower-center of the image with vivid orange and yellow flame. To the right, a tall ornate tower with a dome and decorative stonework is being hit by a white-hot beam of energy, its walls crumbling. Rubble fills the air throughout. In the background, more grand architecture is visible amid smoke and dust, and several winged or flying figures are visible against a pale blue-and-white cloud-filled sky. The mood is one of deliberate catastrophic destruction — occupation and demolition in progress.
 
-**Subject:** 
+**Subject:** An armored figure with a horned golden helmet stands arms outstretched amid a massive explosion, rubble flying in every direction; an ornate tower is being struck by a beam of destructive energy in the mid-ground while flying figures cross a turbulent cloudy sky
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, action, figures: group, facing: forward
+**Setting:** urban, ruined, day, smoke
+**Foreground:** Armored humanoid in horned helmet, arms outstretched, fire and rubble surrounding them  *(palette: orange, yellow, grey, dark-blue)*
+**Background:** Ornate fantasy city tower being destroyed, flying figures in smoke-filled sky, grand architecture  *(palette: pale-blue, white, brown, grey)*
+**Mood / lighting:** grim, harsh
+**Emotion read:** triumphant or exultant; arms spread wide as destruction rages around the figure
+**Objects:** explosion, rubble, beam-of-energy, tower, dome
+**Iconography:** horned-helmet
+**Genre cues:** fantasy, epic
 

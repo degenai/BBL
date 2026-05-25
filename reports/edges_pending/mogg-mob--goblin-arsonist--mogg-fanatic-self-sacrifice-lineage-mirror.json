@@ -1,0 +1,52 @@
+{
+  "edge_id": "mogg-mob--goblin-arsonist--mogg-fanatic-self-sacrifice-lineage-mirror",
+  "wave": 196,
+  "shape": "1:1",
+  "topology": "mirror",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/modern-horizons-3/127-mogg-mob.md",
+      "name": "Mogg Mob (Modern Horizons 3, 127, U)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/core-set-2021/147-goblin-arsonist.md",
+      "name": "Goblin Arsonist (Core Set 2021, 147, C)"
+    }
+  ],
+  "description": "Worst proposed edge ever would have been 'both have goblins.' This is not that. Both cards are explicit descendants of Mogg Fanatic (Tempest 1997) per their own trivia — Goblin Arsonist's text literally names Mogg Fanatic as 'direct mechanical predecessor,' and Mogg Mob's Related cards leads with Mogg Fanatic as the subtype originator. Both flavor texts encode disposability as the design ethos: Arsonist's Spider-Man inversion ('great power = risk of getting yourself killed') and Mogg Mob's deadpan barrel-of-explosives joke. The Mogg subrace is canonically Volrath-engineered-disposable-soldier per Tempest block lore — apparatus-of-extraction overlay lives in body prose, the edge rests on the designer-confirmed mechanical lineage. Designer-confirmed mechanical-lineage cycle, not a tag bridge.",
+  "citations": [
+    "[Scryfall: Mogg Mob 127 MH3 oracle and flavor text]",
+    "[Scryfall: Goblin Arsonist 147 M21 oracle and flavor text]",
+    "[Scryfall: Mogg Fanatic Tempest 1997 reprint history]",
+    "[GameLore Wiki: Mogg — Volrath-engineered Rath subrace]",
+    "[Card trivia self-referential: 127-mogg-mob Related cards line 1 names Mogg Fanatic; 147-goblin-arsonist trivia bullet 4 names Mogg Fanatic as 'direct mechanical predecessor' and 'creature-based analog']"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/modern-horizons-3/127-mogg-mob.md",
+    "cards/magic-the-gathering/core-set-2021/147-goblin-arsonist.md"
+  ],
+  "edgelord_mood": "sighed-but-mirrored",
+  "edgelord_voice": "Two endpoints. Must traverse from either side. Both cards already point implicitly at Mogg Fanatic — Goblin Arsonist names it as 'direct mechanical predecessor' in its own trivia, Mogg Mob leads its Related cards with the Mogg Fanatic anchor. Designer wired this lineage three decades ago; I'm just making the wire visible. The sigh is professional, not personal.",
+  "other_candidates_considered": [
+    {
+      "candidate": "Frenzied Goblin (Foundations 199) joining the cluster",
+      "verdict": "Refused. Frenzied Goblin's mechanic is tap-to-prevent-blocking, not self-sacrifice. Its Related cards do name Mogg Mob in passing but the self-sacrifice mechanical genealogy is what makes the Mogg Mob ↔ Goblin Arsonist edge load-bearing; Frenzied Goblin is goblin tribal cohort sibling, not a Mogg Fanatic descendant. Note for future-watch if a Mogg Fanatic itself enters corpus (would make a chain).",
+      "future_watch": "If Mogg Fanatic / Goblin Grenade / Mogg War Marshal enters BBL corpus, Edgelord-enlightened can refactor this 1:1 mirror into a chain (or anchor it as a symbol-tier `mogg-fanatic-lineage` node Mr. Nodeley proposes) with all four cards attaching."
+    },
+    {
+      "candidate": "Tamiyo Meets the Story Circle (MH3 72) cross-edge to other Tamiyo cards",
+      "verdict": "Already wired. Card has a clean Connections section pointing at [[tamiyo]] character cohort. No edge gap here."
+    },
+    {
+      "candidate": "The Creation of Avacyn (MH3 86) → Avacyn character node proposal (Mr. Nodeley)",
+      "verdict": "Refused. ONE card has Avacyn as suspected_ip in the entire corpus. The grep returned 20 'Avacyn' mentions across cards but only 1 was a primary subject — the rest are incidental references or shared art-style citations. Three-cards-shared-concept threshold not met; node proposal would be premature. Future-watch: if a future MH3 / EMA / SOI / SOM acquisition brings 2+ more Avacyn-primary cards, Mr. Nodeley pass becomes valid."
+    },
+    {
+      "candidate": "Ajani Fells the Godsire (MH3 19) → Ajani character node proposal",
+      "verdict": "Refused. Card has no trivia pass yet (trivia=0) and no other Ajani cards in BBL corpus. Stage for trivia pass first; revisit Ajani-node question when at least 2-3 Ajani-primary cards land."
+    }
+  ]
+}

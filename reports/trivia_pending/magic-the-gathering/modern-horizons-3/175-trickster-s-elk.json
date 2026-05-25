@@ -1,0 +1,47 @@
+{
+  "card_name": "Trickster's Elk",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "175",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "ip_verified was already true from prior vision pass; no IP verification task needed",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Trickster's Elk is an Enchantment Creature in MH3 (June 14, 2024) using the Bestow keyword, originally from Theros block (2013), reimagined in a non-Greek-mythology context. MH3 revisited multiple older mechanics as callbacks to the Modern card pool.",
+      "sources": ["Scryfall: set_type draft_innovation, released_at 2024-06-14"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Wait. Is *that* one Dad?\" —Rowan Kenrith, to Will [Scryfall]. Callback to Throne of Eldraine: The Wildered Quest (2019), in which Oko transformed High King Algenus Kenrith — father of Rowan and Will — into a stag. The flavor text implies the grown twins encounter another transformed creature and wonder if the trick was repeated.",
+      "sources": ["Scryfall: flavor_text field", "MTG story: Throne of Eldraine: The Wildered Quest"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Bestow effect mirrors Oko, Thief of Crowns' +1 ability (target creature becomes a 3/3 green Elk and loses all abilities) but as a one-shot aura rather than a repeatable planeswalker ability. Oko, Thief of Crowns was banned in Standard, Pioneer, Historic, Brawl, and Legacy. EDHREC rank 5,602 indicates moderate Commander play.",
+      "sources": ["Scryfall: oracle_text", "Scryfall: Oko, Thief of Crowns legalities", "Scryfall API: edhrec_rank 5602"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Karl Kopinski, a Nottingham-born illustrator with 192+ MTG card credits (Kresh the Bloodbraided, Teferi's Protection). Career began at Games Workshop on Warhammer 40,000 before joining MTG in the 2000s.",
+      "sources": ["Gatherer: artist search Karl Kopinski — 192 cards", "Artsology Blog: Who Is Karl Kopinski, 2025"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment identified Trickster's Elk as part of a 2024 Oko rehabilitation arc: after being banned in multiple formats and narratively repositioned in Outlaws of Thunder Junction, Oko was described as finally gaining community acceptance, with this card cited as a palatable version of his most hated ability.",
+      "sources": ["Dexerto: Modern Horizons 3 card imitates famously broken Planeswalker Oko, 2024"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Oko, Thief of Crowns", "set": "Throne of Eldraine", "note": "Planeswalker whose +1 ability this card translates; banned in multiple formats"},
+    {"name": "Oko, the Ringleader", "set": "Outlaws of Thunder Junction", "note": "2024 redesign of the character with balanced mechanics"},
+    {"name": "Rowan Kenrith", "set": "Throne of Eldraine", "note": "Speaker of the flavor text; twin whose father Oko transformed"},
+    {"name": "Elk token", "set": "Throne of Eldraine", "note": "3/3 green Elk token matching the bestow stat line"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -75,3 +75,17 @@ The image shows a long, elongated alien creature mid-climb or suspended among th
 **Iconography:** exposed ribcage, trailing tendrils
 **Genre cues:** fantasy, cosmic-horror
 
+## Trivia
+
+- **Set context** — Territory Culler is part of Modern Horizons 3 (set code MH3), released June 14, 2024 — a non-rotating draft-innovation set that injected directly into the Modern card pool. MH3 is notable for being the first Modern Horizons set to include a Commander product alongside the main release, and its design leaned heavily on Eldrazi and energy as the two mechanical pillars `[Scryfall: MH3 set data]` `[EDHREC: Modern Horizons 3 Set Review — Colorless Eldrazi]`.
+- **Unique design** — Territory Culler is, as of MH3, the only Eldrazi creature with the Landfall keyword — a combination that had not appeared on any previous Eldrazi printing `[Scryfall search: type:eldrazi oracle:landfall, single result = Territory Culler]`. The Landfall mechanic originates in the Zendikar block (2009), the same plane where the Eldrazi were imprisoned; combining Landfall with an Eldrazi creature in a non-Zendikar set is a deliberate design callback `[Scryfall: Landfall keyword history]`.
+- **Mechanical profile** — Arrives as a 7/5 with Reach for {4}{G} alongside Devoid (the card has no color despite its green mana cost). The Landfall trigger offers a selective draw: on a creature hit you may take it; on a miss you may bin it — filtering for creature density in the library. EDHREC rank 8,495 indicates it sees play primarily in dedicated Eldrazi or Landfall Commander builds rather than competitive formats `[Scryfall: legalities]` `[EDHREC rank from Scryfall API data]`.
+- **Artist** — Illustrated by Tiffany Turrill, whose MTG portfolio also includes horror-register cards across multiple recent sets (Dominaria United, Duskmourn) `[Scryfall: artist:Tiffany Turrill]`. No Hipsters of the Coast artist spotlight found for Turrill as of May 2026 `[WebSearch: site:hipstersofthecoast.com Tiffany Turrill — no results]`.
+- **Preview note** — The card was previewed by Javier Dominguez, two-time Magic World Champion (2018, 2021), via his personal social media `[Scryfall preview field: source "Javier Domínguez", previewed_at 2024-05-28]`.
+
+### Related cards
+- Emrakul, the Aeons Torn (Rise of the Eldrazi, no. 4) — apex Eldrazi; defines the cosmic-horror register Territory Culler inhabits
+- Scion of Ugin (Magic Origins, no. 229) — Devoid-era colorless Eldrazi token producer; same frame era
+- Gitrog Monster (Shadows over Innistrad, no. 245) — the other major Landfall-centric commander archetype where Territory Culler's trigger is most powerful
+- Grazer (Modern Horizons 3) — another MH3 Eldrazi with Landfall synergy in the same set
+

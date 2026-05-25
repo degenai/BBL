@@ -1,0 +1,47 @@
+{
+  "card_name": "Territory Culler",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "173",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Territory Culler is part of Modern Horizons 3 (MH3), released June 14, 2024 — a non-rotating draft-innovation set injecting directly into the Modern card pool. MH3 is the first Modern Horizons set to include Commander decks alongside the main release; Eldrazi and energy were the two dominant mechanical pillars.",
+      "sources": ["Scryfall: MH3 set data", "EDHREC: Modern Horizons 3 Set Review — Colorless Eldrazi"]
+    },
+    {
+      "category": "design",
+      "text": "Territory Culler is, as of MH3, the only Eldrazi creature with the Landfall keyword — a combination not found on any previous Eldrazi printing. Landfall originates in the Zendikar block (2009), the plane where the Eldrazi were imprisoned; pairing the two mechanics in a non-Zendikar set is a deliberate design callback.",
+      "sources": ["Scryfall: type:eldrazi oracle:landfall search — single result", "Scryfall: Landfall keyword history"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Arrives as a 7/5 with Reach for {4}{G} alongside Devoid. The Landfall trigger offers selective library filtering: on a creature hit, may take it; on a miss, may bin it — useful for creature-heavy Commander brews. EDHREC rank 8,495 places it in dedicated Eldrazi or Landfall Commander builds rather than competitive play.",
+      "sources": ["Scryfall API: oracle_text, legalities", "EDHREC rank from Scryfall API data field edhrec_rank"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Tiffany Turrill, a horror-register MTG contributor whose card credits span Dominaria United and Duskmourn. No Hipsters of the Coast artist spotlight found for Turrill as of May 2026.",
+      "sources": ["Scryfall: artist field", "WebSearch: site:hipstersofthecoast.com Tiffany Turrill — no results"]
+    },
+    {
+      "category": "design",
+      "text": "Card was previewed by Javier Dominguez, two-time Magic World Champion (2018, 2021), via his personal social media on 2024-05-28.",
+      "sources": ["Scryfall API: preview field (source: Javier Domínguez, previewed_at: 2024-05-28)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Emrakul, the Aeons Torn", "set": "Rise of the Eldrazi", "note": "Apex Eldrazi; defines the cosmic-horror register"},
+    {"name": "Scion of Ugin", "set": "Magic Origins", "note": "Devoid-era colorless Eldrazi; same frame treatment"},
+    {"name": "Gitrog Monster", "set": "Shadows over Innistrad", "note": "Major Landfall commander archetype where the Culler's trigger is most powerful"},
+    {"name": "Grazer", "set": "Modern Horizons 3", "note": "MH3 companion Eldrazi with Landfall synergy in the same set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
