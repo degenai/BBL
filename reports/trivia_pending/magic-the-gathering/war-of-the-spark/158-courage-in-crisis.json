@@ -1,0 +1,53 @@
+{
+  "card_name": "Courage in Crisis",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "158",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Courage in Crisis is from War of the Spark (WAR), released May 3, 2019. Proliferate returned in WAR after originating in Scars of Mirrodin (2010), brought back because WAR's planeswalker-loyalty-counter and Amass army-counter themes made it mechanically central. Proliferate appears on 13 cards in WAR.",
+      "sources": ["Scryfall", "Wizards.com: 'War of the Spark Mechanics,' 2019-03-31"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 3-mana sorcery that puts a +1/+1 counter on a creature, then proliferates — synergistic with planeswalker loyalty counters and any counter-based strategy. EDHREC rank 7,814 is notably strong for a common, indicating meaningful Commander inclusion in counter-heavy and superfriends decks.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Thanks to my father, I know how to fight. He also showed me why I must.\" Speaker is unnamed on the card. The phrasing implies a character shaped by mentorship fighting in the WAR-on-Ravnica context; the speaker is not identified in Scryfall's data and cannot be confirmed without a primary source.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Previewed via The Loregoyfs podcast (April 5, 2019). Artist Micah Epstein contributed to multiple MTG sets; this card is one of the few WAR commons depicting a direct act of healing/protection rather than combat offense — matching proliferate's versatile mechanical role.",
+      "sources": ["Scryfall: preview_source field"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Bioessence Hydra",
+      "set": "War of the Spark",
+      "note": "Proliferate payoff; grows with planeswalker loyalty counters"
+    },
+    {
+      "name": "Bloom Hulk",
+      "set": "War of the Spark",
+      "note": "ETB proliferate trigger in green; shares Courage in Crisis's counter-synergy role"
+    },
+    {
+      "name": "Grateful Apparition",
+      "set": "War of the Spark",
+      "note": "White flying creature that proliferates on combat damage; WAR's signature proliferate attacker"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

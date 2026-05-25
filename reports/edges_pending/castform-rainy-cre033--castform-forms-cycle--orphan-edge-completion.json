@@ -1,0 +1,26 @@
+{
+  "edge_id": "castform-rainy-cre033--castform-forms-cycle--orphan-edge-completion",
+  "shape": "stack",
+  "category": "named-character-identity",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "card", "path": "cards/pokemon/chilling-reign/033-198-castform-rainy-form.md", "name": "Castform Rainy Form (Chilling Reign 033/198)"},
+    {"type": "character", "path": "cards/_characters/castform-forms-cycle.md", "name": "Castform Forms cycle (weather-Pokemon four-form cohort)"}
+  ],
+  "description": "Same bug as wave-158 Drilbur, different card. Castform Rainy Form CRE-033 already carried characters: [castform-forms-cycle] in frontmatter AND was already listed in the node's appears_on line 18 with a full body bullet at node line 38 -- but the card itself had no ## Connections section at all, so the card-to-node half of the edge was never written. Classic one-sided edge: node knows the card, card doesn't know the node. Completed the back-edge with a Connections bullet drawn faithfully from the node's own body language (castform-forms-cycle.md line 38), Water-arm framing preserved. No new claim invented -- mirror-completion, not edge-creation. Worst kind of bug, the silent kind. Now it traverses from both ends. This is one of the ~87 corpus-wide orphans surfaced by re-running the wave-158 grep (the triage line citing ~22 undercounted -- actual gap is larger).",
+  "citations": ["[Bulbapedia: Castform (Pokemon)]", "[Bulbanews: On the Origin of Species: Castform]", "[PokemonTCG.io: swsh6-33]"],
+  "files_modified": ["cards/pokemon/chilling-reign/033-198-castform-rainy-form.md"],
+  "edges_removed": [],
+  "edges_added": ["033-198-castform-rainy-form -> castform-forms-cycle (## Connections back-edge)"],
+  "other_candidates_considered": [
+    "Castform Snowy Form CRE-034 + Castform BRS-116 reverse-holo: both are the SAME orphan-edge bug pointing at the same castform-forms-cycle node. Identical mechanical fix. Deferred per one-op-per-invocation discipline -- next pass(es) should sweep them together with the wider 87-orphan backlog.",
+    "Drilbur CEC-114 <-> Excadrill FUS-183 wave-27 1:1 mirror dissolution -- still staged from wave-158 sidecar's next_pass_suggestions, still un-actioned. Lower urgency than orphan-edge completion (cosmetic vs traversal-correctness).",
+    "Modified-tree MTG cards (44-warded-battlements, 112-barge-in, 103-shriekdiver, 158-courage-in-crisis, 167-mowu-loyal-companion) -- these are an in-flight vision/trivia wave, not Edgelord territory until enriched. Hands off."
+  ],
+  "next_pass_suggestions": [
+    "Re-run the corpus grep (characters: pointer non-empty AND no ## Connections section). Wave-158 sidecar estimated ~22 orphans; actual count is 87 corpus-wide. Each is mechanically identical -- a dedicated sync-drift sweep wave (batched 5-10 per dispatch) would burn down the backlog faster than one-per-Edgelord-wave.",
+    "Two other obvious next targets that share the castform-forms-cycle node: Castform Snowy Form CRE-034 and Castform reverse-holo BRS-116. Same node-body-language template, trivially mirrored.",
+    "Elemental-monkey-trio orphan cluster: Pansage BUS-12, Pansear BUS-22, Panpour BUS-36, Pansage DAA-006, Simisage DAA-007, Pansear DAA-026, Simisear DAA-027 are also in the 87. All point at elemental-monkey-trio. Strong batch candidate."
+  ],
+  "edgelord_mood": "enlightened-corrective"
+}

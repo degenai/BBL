@@ -73,3 +73,15 @@ A large bird-humanoid creature plunges toward the viewer from a bright sky fille
 **Creatures:** bird-humanoid
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Shriekdiver is from War of the Spark (WAR), released May 3, 2019 — set on Ravnica during Nicol Bolas's invasion. The set introduced the Amass mechanic to represent Bolas's Dreadhorde zombie army, and featured a planeswalker in every booster pack. WAR's narrative was the culmination of a multi-year story arc across Magic lore. [Scryfall; Wizards.com: "War of the Spark Mechanics," 2019-03-31]
+- **Design** — Scryfall's type line identifies Shriekdiver as a Zombie Bird Warrior — a creature type combination unique to WAR, reflecting Bolas's Eternals (Amonkhet-embalmed warriors) being redeployed as the Dreadhorde on Ravnica. The gold chains visible in the art reinforce the "Eternal" thematic of bound undead. Its haste-for-{1} activated ability mechanically represents sudden aerial strikes. [Scryfall]
+- **Flavor text** — "It's faster than we are. Draw its attention while the Ledev take aim!" — Shauntal, Boros legionnaire. The speaker, Shauntal, is identified as Boros (the white-red law-and-order guild), indicating that this black-mana zombie bird is being fought by allied forces across guild lines — consistent with WAR's theme of all Ravnican guilds uniting against Bolas. The Ledev are the Selesnya cavalry. [Scryfall]
+- **Mechanical reputation** — At 3 mana (2B), Shriekdiver is a 2/1 flyer with a haste-for-{1} activation — not a constructed staple, but a functional aggressive flyer in limited formats. EDHREC rank of 25,574 reflects near-zero Commander presence. [Scryfall]
+
+### Related cards
+- Eternal Taskmaster (WAR) — fellow WAR Zombie creature with a different flavoring of Dreadhorde status
+- Eternal Skylord (WAR) — buffs Zombie flyers, synergizes with Shriekdiver in Zombie/Amass builds
+- Vizier of the Scorpion (WAR) — grants Amass creatures deathtouch, same Dreadhorde creature network
+

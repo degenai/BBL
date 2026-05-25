@@ -73,3 +73,15 @@ A humanoid figure in fitted grey-green scale armor crouches or leans over a seco
 **Iconography:** green-glow, magic-energy
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Courage in Crisis is from War of the Spark (WAR), released May 3, 2019. Proliferate — the card's key mechanic — returned in WAR after originating in Scars of Mirrodin (2010), brought back because WAR's planeswalker-loyalty-counter and Amass army-counter themes made it mechanically central. Proliferate appears on 13 cards in WAR. [Scryfall; Wizards.com: "War of the Spark Mechanics," 2019-03-31]
+- **Mechanical reputation** — Courage in Crisis is a 3-mana sorcery that puts a +1/+1 counter on a creature, then proliferates — making it synergistic with planeswalker loyalty counters and any counter-based strategy. Its EDHREC rank of 7,814 is notably strong for a common, indicating meaningful Commander inclusion, especially in counter-heavy and superfriends decks. [Scryfall]
+- **Flavor text** — "Thanks to my father, I know how to fight. He also showed me why I must." The speaker is unnamed on the card — the flavor text implies a character shaped by mentorship fighting in the WAR-on-Ravnica context. The phrasing fits multiple WAR characters with parental or mentor figures (Teyo, Chandra, Yanggu), and the card's green identity makes Yanggu a plausible speaker given his Ravnica role protecting civilians. However, the speaker is not identified in Scryfall's data and cannot be confirmed without a primary source. [Scryfall]
+- **Design** — Courage in Crisis was previewed September 2019 via The Loregoyfs podcast [Scryfall: preview source]. Artist Micah Epstein has contributed to multiple MTG sets; this card is one of the few WAR commons depicting what appears to be a direct act of healing/protection rather than combat offense, matching proliferate's versatile mechanical role. [Scryfall]
+
+### Related cards
+- Bioessence Hydra (WAR) — proliferate payoff; grows with planeswalker loyalty
+- Bloom Hulk (WAR) — ETB proliferate trigger in green; shares Courage in Crisis's counter-synergy role
+- Grateful Apparition (WAR) — white flying creature that proliferates on hit; WAR's signature proliferate attacker
+

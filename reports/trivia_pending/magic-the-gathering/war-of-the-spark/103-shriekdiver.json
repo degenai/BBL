@@ -1,0 +1,53 @@
+{
+  "card_name": "Shriekdiver",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "103",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Shriekdiver is from War of the Spark (WAR), released May 3, 2019, set on Ravnica during Nicol Bolas's invasion. WAR introduced the Amass mechanic to represent Bolas's Dreadhorde zombie army, and featured a planeswalker in every booster pack — the culmination of a multi-year story arc.",
+      "sources": ["Scryfall", "Wizards.com: 'War of the Spark Mechanics,' 2019-03-31"]
+    },
+    {
+      "category": "design",
+      "text": "Scryfall's type line identifies Shriekdiver as Zombie Bird Warrior — reflecting Bolas's Eternals, Amonkhet-embalmed warriors redeployed as the Dreadhorde on Ravnica. The visible gold chains in the art reinforce the 'bound undead' Eternal thematic. Haste-for-{1} mechanically represents sudden aerial strikes.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It's faster than we are. Draw its attention while the Ledev take aim!\" — Shauntal, Boros legionnaire. The speaker Shauntal is Boros (white-red guild) fighting a black-mana zombie bird, consistent with WAR's cross-guild coalition theme. The Ledev are the Selesnya cavalry.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At 3 mana (2B), Shriekdiver is a 2/1 flyer with haste-for-{1} activation — functional in aggressive limited builds, not a constructed staple. EDHREC rank 25,574 reflects near-zero Commander presence.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Eternal Taskmaster",
+      "set": "War of the Spark",
+      "note": "Fellow WAR Zombie creature with different flavoring of Dreadhorde status"
+    },
+    {
+      "name": "Eternal Skylord",
+      "set": "War of the Spark",
+      "note": "Buffs Zombie flyers; synergizes with Shriekdiver in Zombie/Amass builds"
+    },
+    {
+      "name": "Vizier of the Scorpion",
+      "set": "War of the Spark",
+      "note": "Grants Amass creatures deathtouch; same Dreadhorde creature network"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

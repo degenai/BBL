@@ -1,0 +1,63 @@
+{
+  "card_name": "Mowu, Loyal Companion",
+  "game": "Magic: The Gathering",
+  "set": "War of the Spark",
+  "collector_number": "167",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Mowu is a named Wizards-internal character (plane: Shenmeng) canonically identified as Jiang Yanggu's legendary dog companion. The card bears the character's own name as its card name, the Scryfall type_line is 'Legendary Creature — Dog,' the flavor text explicitly names Yanggu, and MTG Wiki (mtg.wiki/page/Mowu) lists this card in the 'Represented in' section. No external IP risk — fully Wizards-original. ip_verified set to true, ip_confidence remains high.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Mowu, Loyal Companion was released in War of the Spark (WAR) on May 3, 2019, set on Ravnica during Nicol Bolas's Dreadhorde invasion. Mowu's card was introduced alongside Jiang Yanggu, Wildcrafter (WAR-164); together they form a designer-coordinated companion pair, notable as one of the few non-planeswalker legendary creatures in WAR.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Mowu (Chinese: 默武; pinyin: Mòwǔ; literally 'Silent Martial') is a legendary sapient Dog from the plane of Shenmeng, travel companion of planeswalker Jiang Yanggu. Mowu has two canonical forms: a small Blue Heeler-like body and a larger form with three tails. Mowu can accompany Yanggu through the Blind Eternities — an explicit exception to the rule that living organic matter cannot survive planeswalking. According to Mark Rosewater (Blogatog, August 2021), Mowu shrinks and turns to stone during planeswalk; Jay Annelli's Magic: The Gathering — The Visual Guide (DK, 2022) confirms Mowu is made of magical stone and can grow to titanic size when threatened.",
+      "sources": ["MTG Wiki: Mowu (mtg.wiki/page/Mowu)", "MaRo Blogatog August 2021", "Jay Annelli: Magic: The Gathering — The Visual Guide, DK 2022"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Wherever Yanggu goes, Mowu follows — sometimes at his side, sometimes obscuring him from view entirely.\" The card's own flavor text names Jiang Yanggu directly, and the small green-cloaked archer in the upper-right background is Yanggu himself.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 3/3 with vigilance and trample at 4 mana, plus a counter-doubling passive: if one or more +1/+1 counters would be placed on Mowu, one additional counter is added. Synergizes with WAR's proliferate suite and with Jiang Yanggu, Wildcrafter's mana-from-countered-creatures ability. EDHREC rank 8,012 indicates solid Commander presence for an uncommon.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "In the novel War of the Spark: Ravnica (Greg Weisman, Del Rey, April 2019) and the story 'War of the Spark: Ravnica — Ashes' (Wizards.com, June 12, 2019), Yanggu and Mowu were lured to Ravnica by the Interplanar Beacon and trapped by Bolas's Immortal Sun. Mowu's stone-transformation was witnessed by Araithia Shokta when Yanggu and Mowu planeswalked away at the story's conclusion.",
+      "sources": ["MTG Wiki: Mowu (mtg.wiki/page/Mowu)", "Greg Weisman: War of the Spark: Ravnica — Ashes, Wizards.com, 2019-06-12"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Jiang Yanggu, Wildcrafter",
+      "set": "War of the Spark",
+      "note": "Mowu's planeswalker companion; designer-coordinated pair, same set; Yanggu's ability synergizes directly with Mowu's counter-doubling passive"
+    },
+    {
+      "name": "Giant Growth",
+      "set": "War of the Spark",
+      "note": "Mowu is depicted in the WAR printing per MTG Wiki 'Depicted in' section"
+    },
+    {
+      "name": "Mowu",
+      "set": "Global Series: Jiang Yanggu and Mu Yanling",
+      "note": "Earlier 2018 printing of Mowu as a card; Mowu's first card appearance"
+    },
+    {
+      "name": "Aggressive Instinct",
+      "set": "Global Series: Jiang Yanggu and Mu Yanling",
+      "note": "Depicts Mowu; part of the Global Series Yanggu deck"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "Mowu",
+    "ip_confidence": "high"
+  }
+}

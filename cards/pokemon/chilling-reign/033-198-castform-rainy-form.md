@@ -100,3 +100,7 @@ A small, rounded blue Pokemon with a teardrop-like head silhouette and a smooth 
 - Castform Sunny Form (Chilling Reign, 022) — Sunny Form in the same set; all four share Weather Reading Ability
 - Castform Snowy Form (Chilling Reign, 034) — Snowy Form in the same set
 - Path to the Peak (Chilling Reign, 148) — also in Chilling Reign; Stadium-heavy discard strategies enable Weather Reading
+
+## Connections
+
+- [[castform-forms-cycle]] — Water arm of the designer-coordinated four-form weather-Pokemon cohort (National Pokedex no. 351; Normal / Sunny / Rainy / Snowy mapped to no-weather / sun / rain / hail triggers). This print is the Water-type rain-trigger form; shares the Weather Reading Ability with the other Chilling Reign within-set 022-033-034-121 alternate-form printings. The flavor text's dry experimental framing — *"in an experiment where it was placed in a shower, this Pokemon didn't change to this form"* — implies the form-change requires natural weather, not artificial precipitation. Cohort canonicalized by the Chilling Reign 2021 simultaneous four-form release. [Bulbapedia: Castform (Pokemon)] [Bulbanews: On the Origin of Species: Castform] [PokemonTCG.io: swsh6-33]

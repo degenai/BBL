@@ -72,3 +72,15 @@ A low-angle view of rough wooden battlements and watchtowers rising against a pa
 **Iconography:** concentric-ring-ward, floating-glyph
 **Genre cues:** fantasy, medieval
 
+## Trivia
+
+- **Set context** — Warded Battlements was released in Core Set 2021 (M21), a standalone core set released July 3, 2020, designed as an entry-point set for new players. M21 featured 274 cards and included reprints alongside new cards, with a core-set emphasis on clear, readable mechanics. [Scryfall]
+- **Design** — The card is illustrated by Titus Lunter, a Dutch concept artist specializing in environmental and architectural design, known across MTG for his many land arts and fortress/structure illustrations. Lunter has contributed to MTG since 2014. [artofmtg.com: Titus Lunter artist page]
+- **Mechanical reputation** — Warded Battlements is a Creature — Wall with Defender and a passive "+1/+0 to attacking creatures you control" aura, an unusual pairing: a wall that buffs attackers. It is legal in Modern, Pioneer, Historic, Commander, and Pauper formats. Its EDHREC rank of 22,147 places it firmly in fringe/casual territory — not widely played in Commander. [Scryfall]
+- **Flavor text** — "In dire times, even a place of refuge can become a weapon of war." The flavor text frames the card's mechanical paradox directly: a defensive structure that nevertheless empowers offensive action. [Scryfall]
+
+### Related cards
+- Stalwart Shield-Bearers (Rise of the Eldrazi) — earlier Wall with a similar "attacking creatures get +0/+1" clause; same structural-buffer concept
+- Angelic Wall (Core Set 2013 and others) — recurrent M-series wall in white at similar cost
+- Wall of Omens (Rise of the Eldrazi) — the canonical white Wall benchmark in competitive contexts, frequently cited for comparison
+

@@ -1,0 +1,53 @@
+{
+  "card_name": "Barge In",
+  "game": "Magic: The Gathering",
+  "set": "Throne of Eldraine",
+  "collector_number": "112",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Barge In is from Throne of Eldraine (ELD), released October 4, 2019 — a top-down designed set blending Arthurian legend and Grimm's fairy tales. Giants were one of ELD's committed tribal threads alongside Faeries and Elementals, reflecting the set's fairy-tale-of-the-clumsy-giant archetype.",
+      "sources": ["Scryfall", "Wizards.com: 'Eldraine or Shine' by Mark Rosewater, 2019-09-09", "WebSearch: MTG Throne Eldraine design"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At a single red mana, Barge In is one of the more efficient combat tricks in ELD Limited: +2/+2 to a target attacker AND trample to all attacking non-Human creatures. The 'non-Human' clause directly rewards playing Giants, Wolves, and other ELD tribal creatures. EDHREC rank 12,347 is respectable for a common instant.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The giant had heard of locks, but he had yet to discover a door he couldn't open.\" Deadpan fairy-tale humor that mirrors the art exactly — the giant has heard of doors, not read the manual. Captures ELD's comedic register for Giant characters.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Barge In was previewed September 13, 2019 via Limited Resources, a prominent limited-strategy podcast, signaling its relevance to ELD draft. Artist Mark Behm is known for comedic and character-expressive MTG illustrations.",
+      "sources": ["Scryfall: preview_source field"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Rimrock Knight / Boulder Rush",
+      "set": "Throne of Eldraine",
+      "note": "Adventure card that also gives +2/+0; similar combat-trick role in ELD limited"
+    },
+    {
+      "name": "Outlaw's Merriment",
+      "set": "Throne of Eldraine",
+      "note": "Shares ELD fairy-tale chaos register"
+    },
+    {
+      "name": "Thunderous Snapper",
+      "set": "Throne of Eldraine",
+      "note": "ELD giant-adjacent creature that rewards non-Human tribal"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

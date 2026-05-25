@@ -1,0 +1,53 @@
+{
+  "card_name": "Warded Battlements",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "44",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Warded Battlements was released in Core Set 2021 (M21), a standalone core set released July 3, 2020, designed as an entry-point set for new players. M21 featured 274 cards and included reprints alongside new cards, with a core-set emphasis on clear, readable mechanics.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Titus Lunter, a Dutch concept artist specializing in environmental and architectural design, known across MTG for his many land arts and fortress/structure illustrations. Lunter has contributed to MTG since 2014.",
+      "sources": ["artofmtg.com: Titus Lunter artist page", "WebSearch: Titus Lunter MTG artist profile"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A Creature — Wall with Defender and a passive '+1/+0 to attacking creatures you control' aura — an unusual pairing: a wall that buffs attackers. Legal in Modern, Pioneer, Historic, Commander, and Pauper. EDHREC rank 22,147 places it firmly in fringe/casual territory.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"In dire times, even a place of refuge can become a weapon of war.\" The flavor text frames the card's mechanical paradox directly: a defensive structure that empowers offensive action.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Stalwart Shield-Bearers",
+      "set": "Rise of the Eldrazi",
+      "note": "Earlier Wall with a similar 'attacking creatures get +0/+1' clause; structural-buffer concept parallel"
+    },
+    {
+      "name": "Angelic Wall",
+      "set": "Core Set 2013 and others",
+      "note": "Recurrent M-series white Wall at similar cost; comparison benchmark"
+    },
+    {
+      "name": "Wall of Omens",
+      "set": "Rise of the Eldrazi",
+      "note": "Canonical white Wall benchmark in competitive contexts"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -54,7 +54,7 @@ setting: urban
 subject_known_ip: true
 suspected_ip: Mowu
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Mowu, Loyal Companion (War of the Spark)
@@ -63,8 +63,8 @@ ip_verified: false
 
 ![167-mowu-loyal-companion](../../_images/magic-the-gathering/war-of-the-spark/167-mowu-loyal-companion.png)
 
-> [!warning] Suspected IP: **Mowu** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Mowu**
+> Confirmed via Scryfall card name ("Mowu, Loyal Companion"), type_line (Legendary Creature — Dog), flavor text naming Yanggu directly, and MTG Wiki: Mowu [mtg.wiki/page/Mowu]. Wizards-internal character; no external IP risk.
 
 A large canine creature occupies most of the frame, standing alert on broad stone steps. The body is reddish-brown with a paler muzzle and chest. Multiple long tails — three or more — flow behind and around the figure with a soft pink-lavender light, giving a fox-spirit quality. The creature wears a decorated collar with red and green accents. Its eyes glow red. To the upper right background, a small humanoid figure with a bow is drawn in a shooting stance on an elevated step or ledge, dressed in a green cloak. Stone columns in rose-lavender tones frame the scene. The canine is clearly the primary subject; the archer figure is secondary and small.
 
@@ -80,6 +80,20 @@ A large canine creature occupies most of the frame, standing alert on broad ston
 **Creatures:** canine, multi-tailed-creature
 **Iconography:** decorated-collar, glowing-eyes
 **Genre cues:** fantasy
+
+## Trivia
+
+- **Set context** — Mowu, Loyal Companion was released in War of the Spark (WAR) on May 3, 2019, set on Ravnica during Nicol Bolas's Dreadhorde invasion. Mowu's card was introduced alongside Jiang Yanggu, Wildcrafter (WAR-164); together they form a designer-coordinated companion pair, notable as one of the few non-planeswalker legendary creatures in WAR. [Scryfall]
+- **Lore / IP verification** — Mowu (Chinese: 默武; pinyin: Mòwǔ; literally "Silent Martial") is a legendary sapient Dog from the plane of Shenmeng, and the travel companion of planeswalker Jiang Yanggu. Mowu has two canonical forms: a small Blue Heeler-like body and a larger form with three tails. Crucially, Mowu can accompany Yanggu through the Blind Eternities during a planeswalk — an explicit exception to the rule that living organic matter cannot be brought through planeswalking. Jiang's explanation: Mowu is a "magic dog." According to Mark Rosewater (Blogatog, 2021), Mowu shrinks and turns to stone during planeswalk; Jay Annelli's *Magic: The Gathering — The Visual Guide* (DK, 2022) confirms Mowu is made of magical stone and can grow to titanic size when threatened. [MTG Wiki: Mowu, mtg.wiki/page/Mowu; MaRo Blogatog, August 2021]
+- **Flavor text** — "Wherever Yanggu goes, Mowu follows — sometimes at his side, sometimes obscuring him from view entirely." The card's own flavor text names Jiang Yanggu directly, and the small green-cloaked archer in the upper-right background of the art is Yanggu himself. [Scryfall]
+- **Mechanical design** — Mowu is a 3/3 with vigilance and trample at 4 mana, plus a counter-doubling passive: if one or more +1/+1 counters would be placed on Mowu, one additional counter is added. This synergizes with WAR's proliferate suite and with Jiang Yanggu, Wildcrafter's ability (which puts +1/+1 counters on creatures for mana). EDHREC rank of 8,012 indicates solid Commander presence for an uncommon. [Scryfall]
+- **Lore role in WAR** — In the novel *War of the Spark: Ravnica* (Greg Weisman, Del Rey, April 2019) and multiple WAR story pieces, Yanggu and Mowu were lured to Ravnica by the Interplanar Beacon and trapped by Bolas's Immortal Sun. They actively fought against the Dreadhorde alongside Mu Yanling and other planeswalkers, and Mowu's stone-transformation was witnessed by Araithia Shokta when Yanggu and Mowu planeswalked away in the story "War of the Spark: Ravnica — Ashes" (Greg Weisman, Wizards.com, June 12, 2019). [MTG Wiki: Mowu; Greg Weisman, Wizards story archive]
+
+### Related cards
+- Jiang Yanggu, Wildcrafter (WAR, 164) — Mowu's planeswalker companion; designer-coordinated pair, same set; Yanggu's ability places +1/+1 counters on creatures, synergizes directly with Mowu's doubling passive
+- Giant Growth (WAR) — Mowu is depicted in the WAR printing of Giant Growth per MTG Wiki's "Depicted in" section [mtg.wiki/page/Mowu]
+- Mowu (Global Series: Jiang Yanggu and Mu Yanling) — earlier printing of Mowu as a card in the 2018 Global Series product, Mowu's first card appearance
+- Aggressive Instinct (Global Series) — depicts Mowu; part of the Global Series Yanggu deck
 
 ## Connections
 

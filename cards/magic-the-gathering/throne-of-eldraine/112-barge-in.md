@@ -72,3 +72,15 @@ A massive giant strides through what appears to be a stone-paved town plaza, arm
 **Creatures:** horse
 **Genre cues:** fantasy, fairy-tale
 
+## Trivia
+
+- **Set context** — Barge In is from Throne of Eldraine (ELD), released October 4, 2019 — a top-down designed set blending Arthurian legend and Grimm's fairy tales. Giants were one of ELD's committed tribal threads alongside Faeries and Elementals, reflecting the set's fairy-tale-of-the-clumsy-giant archetype. [Scryfall; Wizards.com: "Eldraine or Shine" by Mark Rosewater, 2019-09-09]
+- **Mechanical reputation** — At a single red mana, Barge In is one of the more efficient combat tricks in Limited: it gives a target attacker +2/+2 AND grants trample to all attacking non-Human creatures. The "non-Human" clause directly rewards playing Giants, Wolves, and other ELD tribal creatures. Its EDHREC rank of 12,347 is respectable for a common instant. [Scryfall; WebSearch: MTGSalvation ELD card listing]
+- **Flavor text** — "The giant had heard of locks, but he had yet to discover a door he couldn't open." A deadpan fairy-tale setup that mirrors the card's art exactly: the giant has heard of doors, not read the manual. The flavor captures the set's comedic register for Giant characters. [Scryfall]
+- **Design** — Barge In was previewed on September 13, 2019 via Limited Resources, a notable limited-strategy podcast, signaling its relevance to ELD draft environments. Artist Mark Behm is known for comedic and character-expressive MTG illustrations. [Scryfall: preview source field]
+
+### Related cards
+- Outlaw's Merriment (ELD) — shares the ELD fairy-tale chaos register, red/white
+- Rimrock Knight / Boulder Rush (ELD) — an Adventure card that also gives +2/+0; plays a similar combat-trick role in ELD limited
+- Thunderous Snapper (ELD) — another ELD giant-adjacent creature that rewards non-Human tribal
+
