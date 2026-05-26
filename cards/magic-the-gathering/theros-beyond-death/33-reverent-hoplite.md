@@ -52,6 +52,7 @@ setting: mountain
 artist: Sidharth Chaturvedi
 characters:
   - theros-pantheon
+  - heliod
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/33-reverent-hoplite--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/5/4/54153b9c-483e-4e5c-a1ab-b1c8a7a657d4.jpg?1581479206
 flavor_text: "\"Zeal is the sharpest blade, and piety the strongest shield.\""
@@ -103,7 +104,7 @@ A foreground figure in flowing red and blue robes stands atop a grassy rise, rai
 
 ## Connections
 
-- [[theros-pantheon]] — Heliod-cult hoplite procession on a sunlit hill marching toward a hilltop shrine, with the *"Zeal is the sharpest blade, and piety the strongest shield"* flavor functioning as anonymous Theran-cult-maxim rather than named-speaker attribution. The devotion-to-white-token-creation oracle is the canonical mechanical signature of white-god-cult devotion (a near-verbatim reprise of Evangel of Heliod THS-2013), structurally locating the depicted procession as devotion-to-Heliod even without name-in-flavor. Sole anchor at the parent pantheon cohort (no Heliod solo sub-node currently exists in the BBL graph; parent caveats note Heliod as next-watch sub-node candidate at 1-2 anchors). `[Scryfall: thb/33; MTG Wiki: Heliod, God of the Sun]`
+- [[heliod]] — Heliod-cult hoplite procession on a sunlit hill marching toward a hilltop shrine, with the *"Zeal is the sharpest blade, and piety the strongest shield"* flavor functioning as anonymous Theran-cult-maxim rather than named-speaker attribution. The devotion-to-white-token-creation oracle is the canonical mechanical signature of white-god-cult devotion (a near-verbatim reprise of Evangel of Heliod THS-2013), structurally locating the depicted procession as devotion-to-Heliod even without name-in-flavor. Cult-operative attribution at the same evidence-tier as Mindwrack Harpy THB-276's harpy-servitor-of-Erebos attribution on `erebos`: god not flavor-named, but the depicted figures' cult-affiliation is Wizards-canonical per MTG Wiki Heliod page and the white-devotion-mechanic identity. Card also attaches at the parent `theros-pantheon` cohort via frontmatter — same dual-membership pattern as the `mogis` / `nylea` / `iroas` / `erebos` sub-node cards. `[Scryfall: thb/33; MTG Wiki: Heliod, God of the Sun]`
 
 ## Bundle Use
 

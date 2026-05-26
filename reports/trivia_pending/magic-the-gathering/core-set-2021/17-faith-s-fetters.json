@@ -1,0 +1,42 @@
+{
+  "card_name": "Faith's Fetters",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "17",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Faith's Fetters originated in Ravnica: City of Guilds (October 2005, RAV no. 16), illustrated by Chippy, where it appeared as a common. Its M21 printing (2020) is one of 15 total printings through 2024, appearing in Eternal Masters, Ultimate Masters, Commander Legends, and Foundations Jumpstart — the consistent reprint history reflects sustained demand as a utility white enchantment [Scryfall prints search: 15 prints from RAV 2005 through J25 2024].",
+      "sources": ["Scryfall: prints_search_uri, all 15 printings"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Faith's Fetters enchants any permanent — not just creatures — and shuts down activated abilities other than mana abilities. This makes it one of white's most flexible single-permanent answers: it can lock planeswalker loyalty abilities, stop equipment activations, silence utility land abilities, and freeze creature abilities, all while granting 4 life on entry. The interaction with planeswalkers (their loyalty abilities are activated abilities) is a frequently cited reason for the card's enduring reprint history [Scryfall: oracle_text; EDHREC page via search: 'Faith's Fetters locks planeswalkers, equipment, utility lands']. Its EDHREC rank of 12298 and penny_rank of 2836 show it remains a genuine Commander and Penny Dreadful format tool [Scryfall: edhrec_rank, penny_rank].",
+      "sources": ["Scryfall: oracle_text, edhrec_rank, penny_rank", "EDHREC card page, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The M21 printing carries Kev Walker's art — Walker is one of Magic's most prolific illustrators, whose credits span from the mid-1990s through the 2020s and include work across fantasy games and comics (Walker has Marvel Comics credits). The original 2005 Ravnica printing was illustrated by Chippy, whose version was reprinted for the 2024 Ravnica Remastered (RVR) run. At least three distinct artists have painted Faith's Fetters across its print history: Chippy (RAV, EMA, RVR), Brian Despain (CMR, C15, DVd, DDD), and Kev Walker (M21, C22, PLST, UMA) [Scryfall: artist field per print].",
+      "sources": ["Scryfall: artist field across all 15 printings", "WebSearch: Kev Walker Marvel credits"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The M21 printing of Faith's Fetters is rated uncommon, though the card originally appeared at common rarity in Ravnica: City of Guilds and many subsequent printings (Ultimate Masters, Commander Legends, The List) also carried common. The rarity has moved between common and uncommon across its print history, reflecting differing format contexts rather than power-level reclassification [Scryfall: rarity per print, confirmed via prints list].",
+      "sources": ["Scryfall: rarity field across printings"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Faith's Fetters", "set": "Ravnica: City of Guilds", "note": "Original 2005 printing by Chippy — the canonical first appearance"},
+    {"name": "Oblivion Ring", "set": "Lorwyn", "note": "Functional comparator: white aura/enchantment removal, often cited alongside Faith's Fetters in control discussions"},
+    {"name": "Journey to Nowhere", "set": "Zendikar", "note": "Pauper white removal comparator in the same functional tier"},
+    {"name": "Stasis Snare", "set": "Battle for Zendikar", "note": "Flash-speed white removal for comparison in format-legal contexts"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

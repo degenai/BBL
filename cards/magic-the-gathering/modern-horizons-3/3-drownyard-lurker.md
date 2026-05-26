@@ -37,6 +37,8 @@ last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/7/f/7faf5812-2067-4386-bb83-150723d67d02.png?1717047246
 art_match_confidence: high
 needs_manual_review: false
+characters:
+  - eldrazi
 artist: Loïc Canavaggia
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/3-drownyard-lurker--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/f/7faf5812-2067-4386-bb83-150723d67d02.jpg?1717047246
@@ -85,4 +87,8 @@ A hulking eldrazi-horror creature occupies the rocky shore in the foreground. It
 - Drownyard Temple (Shadows over Innistrad) — the cryptolith site where Emrakul was summoned; direct lore anchor for the Lurker's flavor text
 - Emrakul, the World Anew (MH3) — the MH3 Emrakul print that MH3's Eldrazi suite, including this card, orbits narratively
 - Eldrazi Skyspawner (MH3-58) — fellow MH3 Pauper-legal Eldrazi with Spawn token generation, same cycling-and-ramp suite
+
+## Connections
+
+- [[eldrazi]] — MH3-resurgence narrative slot in the cohort's Emrakul-Innistrad arc, extending the cohort body's "MH3 designer-coordinated brood-corruption-of-existing-creature-subtypes mini-cohort" — already documented across four MH3 prints (Twisted Riddlekeeper as Eldrazi Sphinx, Hope-Ender Coatl as Eldrazi Snake, Snapping Voidcraw as Eldrazi Turtle, Wumpus Aberration as Eldrazi Beast) — to a fifth print: Drownyard Lurker as the only Eldrazi Trilobite in the entire MTG corpus per Scryfall `t:eldrazi t:trilobite` (one result). The flavor text *"When Emrakul arrived on Innistrad, even fossils answered her twisted call."* anchors the brood-corruption arc at the most extreme tier — not living organisms but ancient fossils answering Emrakul's call from inside Nephalia's reef — and is the corpus's clearest single-card render of MH3's Eldrazi-resurgence brief picking up the EMN Innistrad-corruption arc eight years post-publication. `[Scryfall: MH3-3 flavor_text, type_line "Creature — Eldrazi Trilobite"]` `[Scryfall: t:eldrazi t:trilobite — 1 result]` `[cohort body: MH3 brood-corruption-of-existing-subtypes mini-cohort paragraph]`
 

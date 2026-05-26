@@ -38,6 +38,7 @@ appears_on:
   - magic-the-gathering/theros/218-opaline-unicorn
   - magic-the-gathering/theros-beyond-death/276-mindwrack-harpy
   - magic-the-gathering/theros-beyond-death/100-grim-physician
+  - magic-the-gathering/theros-beyond-death/17-glory-bearers
 related_hubs:
   - labor
   - rebellion
@@ -48,6 +49,7 @@ related_characters:
   - nylea
   - iroas
   - erebos
+  - heliod
 ip_resolution_for: theros-pantheon
 tags:
   - layer
@@ -137,6 +139,7 @@ Each subset citation-anchored at Wizards-published canonical evidence (oracle te
 - [[218-opaline-unicorn]]
 - [[276-mindwrack-harpy]]
 - [[100-grim-physician]]
+- [[17-glory-bearers]]
 ## Canonical sources
 
 - **MTG Wiki — Theros Pantheon** (`https://mtg.fandom.com/wiki/Pantheon_of_Theros`) — primary roster page; canonical reference for the fifteen-god roster, the principal-vs-minor tier split, each god's color identity and domain, and the cross-block continuity (THS → BNG → JOU → THB).
@@ -149,7 +152,7 @@ Each subset citation-anchored at Wizards-published canonical evidence (oracle te
 
 ## Caveats
 
-- **Parent-cohort node, not solo-god nodes.** This entry anchors the pantheon as a single character-cohort node, sibling to [[orzhov-syndicate]] / [[azorius-senate]] / [[phyrexia]] / [[aether-foundation]] / [[valgavoth]] / [[izzet-league]] / [[alola-elite-four]]. When an individual god reaches ≥3 corpus depictions across distinct cards, that god gets its own sibling solo character node and this parent node's `appears_on:` for those god-specific cards is mirrored (not delegated — parent retains the appears_on entries; the sub-node duplicates them, per Mogis / Nylea / Iroas precedent). The parent stays as the unifying-faction anchor; solo gods become subsidiaries that inherit institutional context. Current solo sub-nodes commissioned: [[mogis]] (6 corpus anchors), [[nylea]] (6 corpus anchors), [[iroas]] (3 corpus anchors), [[erebos]] (4 corpus anchors — Fruit of Tizerus flavor-direct, Mindwrack Harpy trivia-canonical-harpy-servitor, Grim Physician trivia-canonical-Returned-from-Erebos-realm, Towering-Wave Mystic flavor-cross-domain-Nerono). Remaining un-split pantheon corpus depth: Heliod (2-3 via Reverent Hoplite cult + Daybreak Chimera trivia + Return to Nature flavor; Glory Bearers THB-17 carries direct Heliod flavor but card not yet enriched), Purphoros (1 via Opaline Unicorn), Pharika (1 via Moss Viper), Athreos (1 god-card via Mystery Booster 146 + Lampad of Death's Vigil THB-103 ferryman-domain attribution), Karametra (1 via Blessing), Kruphix (1 via Return to Nature), Thassa (1 via Towering Wave Mystic — now also at Erebos sub-node). The next-watch split-candidate is Heliod (canonical antagonist-coupling partner to Erebos in the THB Elspeth-arc; will clear threshold once Glory Bearers enrichment lands or a fourth Heliod-attribution card arrives); Athreos is the third deferred candidate.
+- **Parent-cohort node, not solo-god nodes.** This entry anchors the pantheon as a single character-cohort node, sibling to [[orzhov-syndicate]] / [[azorius-senate]] / [[phyrexia]] / [[aether-foundation]] / [[valgavoth]] / [[izzet-league]] / [[alola-elite-four]]. When an individual god reaches ≥3 corpus depictions across distinct cards, that god gets its own sibling solo character node and this parent node's `appears_on:` for those god-specific cards is mirrored (not delegated — parent retains the appears_on entries; the sub-node duplicates them, per Mogis / Nylea / Iroas precedent). The parent stays as the unifying-faction anchor; solo gods become subsidiaries that inherit institutional context. Current solo sub-nodes commissioned: [[mogis]] (6 corpus anchors), [[nylea]] (6 corpus anchors), [[iroas]] (3 corpus anchors), [[erebos]] (4 corpus anchors — Fruit of Tizerus flavor-direct, Mindwrack Harpy trivia-canonical-harpy-servitor, Grim Physician trivia-canonical-Returned-from-Erebos-realm, Towering-Wave Mystic flavor-cross-domain-Nerono), [[heliod]] (4 corpus anchors — Glory Bearers flavor-direct sun-crowned-Heliod-named + cult-operative-depicted, Reverent Hoplite cult-operative-procession-to-Heliod-shrine, Return to Nature flavor-direct Heliod's-spear-cast-down via The Cosmogony, Daybreak Chimera trivia-domain-attributed-to-Heliod's-sun-domain). The Heliod-Erebos antagonist-coupling edge per the THB Elspeth-escape arc is now drawable at both ends. Remaining un-split pantheon corpus depth: Athreos (1 god-card via Mystery Booster 146 + Lampad of Death's Vigil THB-103 ferryman-domain attribution), Purphoros (1 via Opaline Unicorn), Pharika (1 via Moss Viper), Karametra (1 via Blessing), Kruphix (1 via Return to Nature), Thassa (1 via Towering Wave Mystic — also at Erebos sub-node). Athreos is now the next-watch deferred split-candidate.
 
 - **Greek-mythology homage is canon, not interpretation.** The Heliod-as-Apollo, Erebos-as-Hades, Thassa-as-Poseidon, Purphoros-as-Hephaestus, Nylea-as-Artemis, Athreos-as-Charon mappings are documented in MTG Wiki's per-god pages and Mark Rosewater's design articles as Wizards-confirmed design intent, not BBL-internal reading. Bundle copy that names the homage mapping is grounded in canonical design notes; the analytical framing of the pantheon as a *designed top-down Greek-myth homage* is the same precedent class as [[eld-cinderella-cycle]]'s designer-confirmation grounding.
 

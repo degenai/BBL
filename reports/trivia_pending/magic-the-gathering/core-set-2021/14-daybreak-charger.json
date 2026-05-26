@@ -1,0 +1,42 @@
+{
+  "card_name": "Daybreak Charger",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "14",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Daybreak Charger is a Unicorn creature type, situated within Core Set 2021's broader white theme of radiant, idealized creatures. M21 released July 3, 2020, a standalone core set designed as an accessible entry point without a tied narrative plane — its creatures exist as archetypes of their type rather than lore-specific individuals [Scryfall: released_at, set_type: core].",
+      "sources": ["Scryfall: set metadata"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"It's often mistaken for the coming dawn as it gallops across the horizon.\" [Scryfall flavor_text]. The text frames the Charger's luminous golden mane and sparking hooves as a natural phenomenon on the visual scale of daybreak — an animal so radiant it registers as sunrise to observers. The ETB ability granting +2/+0 to another creature maps neatly to the card's role as a force-multiplier: it charges in and elevates its companions.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Daybreak Charger is a 3/1 for {1}{W} with an ETB pump of +2/+0 to a target creature until end of turn — a fragile but aggressive stat line that front-loads its value on entry, making it viable in white aggro and blink strategies where its ETB can be recurred. Its EDHREC rank of 18722 reflects low Commander uptake, consistent with its aggressive profile not translating well to multiplayer [Scryfall: power 3 / toughness 1, edhrec_rank 18722]. Legal in Pauper, it sees occasional play in white creature-based Pauper brews [Scryfall: legalities.pauper = legal].",
+      "sources": ["Scryfall: power/toughness, oracle_text, edhrec_rank, legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Both Daybreak Charger and Alpine Watchdog (M21, no. 2) carry the artist credit Forrest Imel — an unusual instance of one artist handling two distinct creature types (Unicorn and Dog) within the same set's white section. Imel, whose portfolio includes work for Blizzard Entertainment and Riot Games, illustrated at least 35 MTG cards across multiple sets [Gatherer: artist search Forrest Imel; Scryfall: artist field, both cards].",
+      "sources": ["Scryfall: artist field", "Gatherer: artist search Forrest Imel"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Concordia Pegasus", "set": "Core Set 2021", "note": "M21 white flying creature in same collector-number neighborhood; comparator for white flier stats"},
+    {"name": "Valorous Steed", "set": "Core Set 2021", "note": "M21 white Unicorn — same creature type in the same set"},
+    {"name": "Alpine Watchdog", "set": "Core Set 2021", "note": "Shared Forrest Imel artist credit in M21 white section"},
+    {"name": "Daybreak Ranger", "set": "Innistrad", "note": "Nominal day/dawn-thematic companion for bundle assembly consideration"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

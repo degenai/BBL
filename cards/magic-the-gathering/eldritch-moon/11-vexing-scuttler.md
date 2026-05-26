@@ -37,6 +37,8 @@ last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/1/c/1c3dd0aa-f6e9-435c-af64-20e9de67efe9.png?1576383758
 art_match_confidence: high
 needs_manual_review: false
+characters:
+  - eldrazi
 artist: James Paick
 art_crop_image: cards/_images/magic-the-gathering/eldritch-moon/11-vexing-scuttler--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/1/c/1c3dd0aa-f6e9-435c-af64-20e9de67efe9.jpg?1576383758
@@ -85,3 +87,7 @@ A massive crab or crustacean-like creature with multiple fin-like appendages ris
 - Wretched Gryff (Eldritch Moon) — common emerge creature in white-blue; same emerge-plus-draw-trigger design pattern
 - Distended Mindbender (Eldritch Moon) — black emerge creature; forces opponent to discard on cast; rounds out the emerge cycle
 - Emrakul, the Promised End (Eldritch Moon) — the Eldrazi titan whose presence on Innistrad drives the entire set's mutation and emerge theme
+
+## Connections
+
+- [[eldrazi]] — Eldritch-Moon-arrival narrative slot in the cohort's Emrakul-Innistrad arc, instantiating the "Brood-corruption as Eldritch Moon's mechanical signature" archetype the cohort body establishes: the Emerge keyword as the canonical Eldrazi-corruption mechanic, "a creature cast from inside another creature's body, sacrificing the host." Vexing Scuttler is typed Eldrazi Crab — Emrakul mutating Innistrad's native crustacean fauna into brood-aligned form per Rosewater's `over-the-moon-part-2` design column, parallel to the Eldrazi-Sphinx / Eldrazi-Snake / Eldrazi-Turtle subtype-corruption pattern the cohort body documents at the MH3 tier (here at the EMN tier where the corruption arc originates). The card's wide-shot composition — full moon, wrecked sailing ship, the monster already arrived — renders Emrakul's arrival as moment-already-passed rather than incoming threat. `[Scryfall: EMN-11 type_line "Creature — Eldrazi Crab", oracle_text Emerge]` `[Wizards.com: "Over the Moon, Part 2," 2016-07-04]` `[cohort body: Eldritch Moon corruption-arc paragraph]`

@@ -48,6 +48,7 @@ setting: forest
 artist: Kieran Yanner
 characters:
   - theros-pantheon
+  - heliod
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/197-return-to-nature--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/4/a4515a76-53f0-40a2-8b88-70b73447d1e6.jpg?1581480874
 flavor_text: "\\\"Far-seeing Kruphix glimpsed the end: Heliod's spear cast down and broken.\\\"\\n—*The Cosmogony*"
@@ -82,5 +83,5 @@ A long, ornate golden spear lies cracked and broken on the dim forest floor. Gre
 
 ## Connections
 
-- [[theros-pantheon]] — Two-god flavor card citing the in-canon Theros text *The Cosmogony* (*"Far-seeing Kruphix glimpsed the end: Heliod's spear cast down and broken"*), naming Kruphix (god of horizons, blue-green) as the cosmology-glimpsing seer and Heliod (god of the sun, white) as the spear-bearing sun-god whose canonical divine implement lies broken on the depicted forest floor. The depicted golden weapon reclaimed by vines stages the canonical end-of-pantheon vision: the gods' divine implements consumed by nature, the pantheon's institutional power not eternal but subject to the forest's slow patience. Sole anchor at the parent pantheon cohort (no Kruphix or Heliod solo sub-node currently exists in the BBL graph). `[Scryfall flavor_text: thb/197; MTG Wiki: Kruphix, God of Horizons; Heliod, Sun-Crowned]`
+- [[heliod]] — Two-god flavor card citing the in-canon Theros text *The Cosmogony* (*"Far-seeing Kruphix glimpsed the end: Heliod's spear cast down and broken"*), naming Kruphix (god of horizons, blue-green) as the cosmology-glimpsing seer and Heliod (god of the sun, white) as the spear-bearing sun-god whose canonical divine implement (Khrusor per MTG Wiki Heliod page) lies broken on the depicted forest floor. The depicted golden weapon reclaimed by vines stages the canonical end-of-pantheon vision: the gods' divine implements consumed by nature, the pantheon's institutional power not eternal but subject to the forest's slow patience. Iconographic-direct Heliod attribution at the strong-evidence tier (the divine implement is named-and-depicted on the same card), structurally parallel to Fruit of Tizerus THB-96's flavor-direct Erebos-realm attribution on `erebos`. Card also attaches at the parent `theros-pantheon` cohort via frontmatter — same dual-membership pattern as the `mogis` / `nylea` / `iroas` / `erebos` sub-node cards. (Kruphix solo sub-node remains deferred at single-anchor depth; that pointer cleans up when Kruphix-attribution clears the ≥3 substantive anchor threshold.) `[Scryfall flavor_text: thb/197; MTG Wiki: Kruphix, God of Horizons; Heliod, Sun-Crowned; MTG Wiki: Khrusor]`
 

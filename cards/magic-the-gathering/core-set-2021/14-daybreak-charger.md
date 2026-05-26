@@ -72,3 +72,16 @@ A unicorn with a dark body charges forward across a shallow reflective surface �
 **Iconography:** glowing horn, magical sparks, light-trail
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Daybreak Charger is typed "Creature — Unicorn" in Core Set 2021 (released July 3, 2020), a standalone accessible set not tied to a specific narrative plane. Its creatures are archetypes of their type rather than lore-specific individuals. M21 is also the set that introduced the Hound-to-Dog rename, making it a notable design marker in Magic's type-line history `[Scryfall: set_type core, released_at 2020-07-03]`
+- **Flavor text** — "It's often mistaken for the coming dawn as it gallops across the horizon." `[Scryfall flavor_text]`. The text maps directly to the card's visual identity: the creature's golden-luminous mane and sparking hooves are radiant enough to register as sunrise to a distant observer. The ETB ability granting +2/+0 to another creature fits the thematic role — it charges in and elevates its companions, like a light source raising the scene around it.
+- **Mechanical** — A 3/1 for {1}{W} with an ETB pump of +2/+0 is a front-loaded aggressive stat line: high power, low toughness, value on entry. This profile suits white aggro and blink strategies where the ETB can be recurred, but does not translate well to multiplayer Commander (EDHREC rank 18722). Legal in Pauper `[Scryfall: power 3, toughness 1, edhrec_rank 18722, legalities.pauper legal]`
+- **Design — artist** — Daybreak Charger and Alpine Watchdog (M21, no. 2) share the artist credit Forrest Imel — an uncommon instance of one illustrator covering two distinct creature types (Unicorn and Dog) within the same set's white section. Imel has illustrated at least 35 MTG cards across multiple sets, with clients including Blizzard Entertainment, Wizards of the Coast, and Riot Games `[Scryfall: artist field; Gatherer: artist search Forrest Imel]`
+
+### Related cards
+- Alpine Watchdog (Core Set 2021, no. 2) — shared Forrest Imel artist credit within M21's white section
+- Valorous Steed (Core Set 2021, no. 42) — M21 white Unicorn; same creature type in the same set
+- Concordia Pegasus (Core Set 2021, no. 12) — M21 white flier comparator for stats context
+- Daybreak Ranger (Innistrad, no. 176) — nominal dawn/day thematic companion for bundle assembly consideration
+

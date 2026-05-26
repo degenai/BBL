@@ -73,3 +73,18 @@ A large, long-haired black-and-white dog stands in a confident, watchful posture
 **Creatures:** dog
 **Genre cues:** fantasy, naturalist
 
+## Trivia
+
+- **Design — Hound-to-Dog rename** — Alpine Watchdog's type line reads "Creature — Dog," making it a direct beneficiary of one of Mark Rosewater's longest-fought design battles. In his Making Magic article "But Wait, There's Core" (2020-06-15), Rosewater described a 24-year effort beginning with his 1996 Tempest design, where he lost a 3–2 internal vote to call the creature type Dog rather than Hound. Adam Prosak, assembling M21's small dog theme, independently raised the rename and succeeded. The change was applied retroactively to every prior Hound-typed card in Magic's history `[Wizards of the Coast, "But Wait, There's Core," Making Magic, 2020-06-15]`
+- **Design — named tri-cluster** — Alpine Watchdog is one of three cards wired together by name in M21. Alpine Houndmaster (no. 215) has an ETB ability that explicitly tutors for "a card named Alpine Watchdog and/or a card named Igneous Cur" — an unusual level of inter-card nominal linkage for a core set. All three were previewed June 9, 2020 `[Scryfall: Alpine Houndmaster oracle_text, all_parts cluster]`
+- **Flavor text** — "On the eighth day, a blizzard hit. Supplies were lost, and morale plummeted. On the ninth day, Dover found us." — *To the Summit: A Tale of Survival* `[Scryfall flavor_text]`. The in-world text frames the vigilance mechanic as search-and-rescue: the dog named Dover locates a lost mountaineering party after days of blizzard exposure. The attribution to a fictional published memoir implies a literate, book-publishing world.
+- **Design — artist** — Both Alpine Watchdog and Bolt Hound (M21, no. 131) are illustrated by Forrest Imel, a senior concept artist whose client list includes Blizzard Entertainment, Wizards of the Coast, Riot Games, and Valve. Imel sells artist proofs of Alpine Watchdog through his personal portfolio site, suggesting the card holds personal significance in his MTG body of work `[Forrest Imel portfolio: forrestimel.com/magic-prints; Gatherer artist search: "Forrest Imel"]`
+- **Mechanical** — A 2/2 vigilance for {1}{W} is a clean common rate. Alpine Watchdog is legal in Pauper and Pauper Commander, where vigilance attackers that don't tap down are useful in white aggro packages `[Scryfall: legalities.pauper = legal, edhrec_rank 12389]`
+
+### Related cards
+- Alpine Houndmaster (Core Set 2021, no. 215) — named ETB tutor for Alpine Watchdog; the tri-cluster's anchor uncommon
+- Igneous Cur (Core Set 2021, no. 153) — named co-target in Houndmaster's oracle text; Elemental Dog completing the three-card package
+- Bolt Hound (Core Set 2021, no. 131) — M21 Dog also illustrated by Forrest Imel; fellow beneficiary of the Hound-to-Dog rename
+- Selfless Savior (Core Set 2021, no. 36) — M21 white Dog staple; cohort context
+- Rambunctious Mutt (Core Set 2021, no. 30) — M21 white Dog with lifegain; same-set dog package
+

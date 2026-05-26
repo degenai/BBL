@@ -1,0 +1,63 @@
+{
+  "wave": 204,
+  "shape": "three-sided attach: 3 orphan cards -> eldrazi cohort, narrative-arc batch",
+  "task_profile": "orphan-mirror",
+  "cohort_slug": "eldrazi",
+  "cohort_path": "cards/_characters/eldrazi.md",
+  "batch_size": 3,
+  "narrative_arc": "Emrakul-Innistrad-arc: BFZ (Emrakul-absent) -> EMN (Emrakul-arrives) -> MH3 (Emrakul-resurgence)",
+  "accepted": [
+    {
+      "card_path": "cards/magic-the-gathering/battle-for-zendikar/136-vestige-of-emrakul.md",
+      "narrative_slot": "BFZ-aftermath / Emrakul-withheld-from-block flavor-anchor",
+      "archetype_slot": "Drone-tier as Titan-extended limb (cohort typology paragraph)",
+      "citations": [
+        "Scryfall: BFZ-136 flavor_text 'Emrakul has not been seen in months. Though her brood's numbers have dwindled in her absence, each drone is still a deadly threat.'",
+        "Scryfall: BFZ-136 oracle_text Devoid + Trample",
+        "Scryfall: BFZ-136 type_line 'Creature - Eldrazi Drone'",
+        "cohort body: BFZ-block typology paragraph + Drone-tier definition"
+      ],
+      "bullet_summary": "Drone-tier brood member; BFZ flavor names Emrakul precisely while she remains withheld from the block, building dread through her named absence; Titan saved for EMN reveal"
+    },
+    {
+      "card_path": "cards/magic-the-gathering/eldritch-moon/11-vexing-scuttler.md",
+      "narrative_slot": "EMN-arrival / Emrakul-corrupts-Innistrad-native-fauna entry point",
+      "archetype_slot": "Brood-corruption as Eldritch Moon's mechanical signature (cohort EMN paragraph); precedent tier for the MH3 brood-corruption-of-existing-subtypes mini-cohort",
+      "citations": [
+        "Scryfall: EMN-11 type_line 'Creature - Eldrazi Crab'",
+        "Scryfall: EMN-11 oracle_text Emerge {6}{U}",
+        "Wizards.com: 'Over the Moon, Part 2,' 2016-07-04 (Rosewater on emerge mechanic + Innistrad-fauna corruption)",
+        "cohort body: Eldritch Moon corruption-arc paragraph + Emerge as canonical Eldrazi-corruption mechanic"
+      ],
+      "bullet_summary": "Eldrazi Crab via Emerge; EMN's signature corruption-of-Innistrad-native-fauna; wide-shot composition renders Emrakul's arrival as moment-already-passed"
+    },
+    {
+      "card_path": "cards/magic-the-gathering/modern-horizons-3/3-drownyard-lurker.md",
+      "narrative_slot": "MH3-resurgence / fossils-answer-Emrakul's-call extreme-tier brood-corruption",
+      "archetype_slot": "MH3 brood-corruption-of-existing-subtypes mini-cohort (cohort MH3 paragraph) - extends mini-cohort from 4 to 5 prints",
+      "citations": [
+        "Scryfall: MH3-3 flavor_text 'When Emrakul arrived on Innistrad, even fossils answered her twisted call.'",
+        "Scryfall: MH3-3 oracle_text Vigilance + Eldrazi Spawn token + Cycling {2}{U}",
+        "Scryfall: MH3-3 type_line 'Creature - Eldrazi Trilobite'",
+        "Scryfall: t:eldrazi t:trilobite returns 1 result (only Eldrazi Trilobite in MTG corpus)",
+        "cohort body: MH3 brood-corruption-of-existing-subtypes mini-cohort paragraph (prior 4 prints: Twisted Riddlekeeper, Hope-Ender Coatl, Snapping Voidcraw, Wumpus Aberration)"
+      ],
+      "bullet_summary": "Only Eldrazi Trilobite in MTG corpus per Scryfall; extends MH3 mini-cohort from 4 to 5 prints (Sphinx, Snake, Turtle, Beast, Trilobite); flavor anchors brood-corruption at the most-extreme-tier (ancient fossils answering Emrakul's call from Nephalia's reef)"
+    }
+  ],
+  "deferred": [],
+  "cohort_body_updates": [
+    "appears_on: added 3 paths (136-vestige-of-emrakul, 11-vexing-scuttler, 3-drownyard-lurker)",
+    "## Appears on auto-gen block: added 3 wikilinks",
+    "Body roster: added 3 entries after Immobilizer Eldrazi, before '## The functional ideology' section",
+    "Caveats paragraph: body roster counter twenty -> twenty-three; updated coverage statement to BFZ/OGW/EMN/MH3 (Vexing Scuttler is corpus's first EMN anchor); Emrakul-Innistrad-arc traversal documented as narrative complement to BFZ-block Drone-Ingest -> Processor-consumption design loop; MH3 brood-corruption-of-existing-subtypes mini-cohort extended from 4 to 5 prints (Sphinx, Snake, Turtle, Beast, Trilobite)",
+    "Titans-sub-node caveat: updated Emrakul flavor-text-citation count (Horrific Assault + Vestige of Emrakul + Drownyard Lurker = 3 cards), noted Kozilek flavor-text + name citation (Kozilek's Sentinel), threshold for emrakul/kozilek sub-node remains below the bar"
+  ],
+  "wikilink_discipline": "Each card's ## Connections bullet contains EXACTLY ONE wikilink [[eldrazi]] per bbl-wikilink-scope-shift wave-195 rule; all other refs (eldritch-moon, over-the-moon-part-2) are in backticks; no hub wikilinks, no card-to-card wikilinks, no sibling-cohort wikilinks introduced at the card layer",
+  "wikilink_count_per_card": {
+    "136-vestige-of-emrakul": 1,
+    "11-vexing-scuttler": 1,
+    "3-drownyard-lurker": 1
+  },
+  "anti_confab_check": "All bullets quote verbatim flavor_text from Scryfall frontmatter (never invented); all type_line claims (Eldrazi Drone, Eldrazi Crab, Eldrazi Trilobite) are present in card frontmatter; Scryfall t:eldrazi t:trilobite=1 claim was sourced from trivia-pass research; cohort body archetype slots cited are present verbatim in cohort body (Drone-tier typology paragraph, EMN brood-corruption paragraph, MH3 brood-corruption-of-existing-subtypes mini-cohort paragraph)"
+}

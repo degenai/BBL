@@ -47,6 +47,9 @@ mood: sublime
 time_of_day: day
 setting: other
 artist: Lars Grant-West
+characters:
+  - theros-pantheon
+  - heliod
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/10-daybreak-chimera--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/f/9/f9c1de31-73d4-4c32-9f99-e15df48638e9.jpg?1581479004
 oracle_text: This spell costs {X} less to cast, where X is your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)\nFlying
@@ -91,3 +94,7 @@ A radiant white chimera ascends through a luminous pale-blue sky. The creature b
 - Mischievous Chimera (THB, no. 61) — blue-aligned THB chimera, part of the Flash-matters archetype for the set
 - Treeshaker Chimera (THB, no. 184) — green THB chimera; together the three form a cross-color chimera presence across the set
 - Heliod, Sun-Crowned (THB, no. 18) — white devotion payoff god; Daybreak Chimera's devotion mechanic directly feeds Heliod's power and toughness as a deity `[Scryfall]`
+
+## Connections
+
+- [[heliod]] — White-aligned ascending chimera whose goat-and-eagle iconography is canonically attributed to Heliod's sun-domain via trivia (*"Theros's white-aligned connection to the heavens and Heliod's sun-domain"*) and Related cards (*"Heliod, Sun-Crowned (THB, no. 18) — white devotion payoff god; Daybreak Chimera's devotion mechanic directly feeds Heliod's power and toughness as a deity"*). The card mechanizes white-devotion-cost-reduction at oracle-text level — the rules-text rendering of devotion-to-Heliod where more {W} pips in your board make sun-cult magic cheaper and stronger. Domain-attribution at the same evidence-tier as Kragma Warcaller THS-195 on `mogis` and Grim Physician THB-100 on `erebos`: god not flavor-named, but the depicted figure's domain-affiliation is Wizards-canonical via MTG Wiki Heliod and the white-devotion-mechanic identity. Card also attaches at the parent `theros-pantheon` cohort via frontmatter — same dual-membership pattern as the `mogis` / `nylea` / `iroas` / `erebos` sub-node cards. `[Scryfall: thb/10; MTG Wiki: Heliod, God of the Sun; MTG Wiki: Heliod, Sun-Crowned]`

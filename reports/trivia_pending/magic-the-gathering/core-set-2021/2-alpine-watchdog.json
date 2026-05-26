@@ -1,0 +1,48 @@
+{
+  "card_name": "Alpine Watchdog",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "2",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Alpine Watchdog's type line reads 'Creature — Dog,' making it a beneficiary of one of Mark Rosewater's longest-fought design battles: the Hound-to-Dog rename announced in Core Set 2021. In his Making Magic article 'But Wait, There's Core' (2020-06-15), Rosewater recounted a 24-year fight beginning with his 1996 Tempest design, where he lost a 3–2 internal vote to change creature type Dog to Hound. Adam Prosak, assembling M21's small dog theme, independently raised the rename question and succeeded where Rosewater had repeatedly failed. The change was applied retroactively to all prior Hound-typed cards in Magic's history [Wizards of the Coast, 'But Wait, There's Core,' Making Magic 2020-06-15].",
+      "sources": ["Wizards of the Coast: 'But Wait, There's Core,' Making Magic 2020-06-15"]
+    },
+    {
+      "category": "design",
+      "text": "Alpine Watchdog is part of a named three-card design cluster with Alpine Houndmaster (M21, no. 215) and Igneous Cur (M21, no. 153). Alpine Houndmaster's oracle text explicitly names Alpine Watchdog and Igneous Cur as ETB-tutorable targets, wiring the three cards into a self-contained package — an unusual level of inter-card nominal linkage for a core set. All three were previewed on June 9, 2020 [Scryfall all_parts / oracle_text data].",
+      "sources": ["Scryfall: Alpine Houndmaster oracle_text", "Scryfall: all_parts cluster"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"On the eighth day, a blizzard hit. Supplies were lost, and morale plummeted. On the ninth day, Dover found us.\" — To the Summit: A Tale of Survival [Scryfall flavor_text]. The fictional in-world text frames the card's vigilance mechanic as a search-and-rescue event: the dog named Dover locates a lost mountaineering party after days of exposure. The title is presented as a published survival memoir, situating the plane's world as one literate enough to produce adventure literature.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Both Alpine Watchdog and Bolt Hound (M21, no. 131) were illustrated by Forrest Imel, a senior concept artist whose client list includes Blizzard Entertainment, Wizards of the Coast, Riot Games, and Valve. Imel maintains artist proofs of Alpine Watchdog for sale through his personal portfolio site, indicating the card holds personal portfolio significance to him [Forrest Imel personal site: forrestimel.com/magic-prints; Gatherer artist search: 'Forrest Imel,' 27 confirmed MTG cards].",
+      "sources": ["Forrest Imel portfolio: forrestimel.com/magic-prints", "Gatherer artist search: Forrest Imel"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanically, Alpine Watchdog is a 2/2 vigilance creature for {1}{W} — a clean rate at common that fills an attacker-that-doesn't-tap role in white aggro and limited. Its EDHREC rank of 12389 reflects modest but real Commander inclusion [Scryfall: edhrec_rank field]. In Pauper it is legal, functioning as a curve-filler in white aggro or dog-tribal adjacent brews enabled by its named synergy with Alpine Houndmaster [Scryfall: legalities.pauper = legal].",
+      "sources": ["Scryfall: edhrec_rank", "Scryfall: legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Alpine Houndmaster", "set": "Core Set 2021", "note": "Named ETB tutor for Alpine Watchdog; the three-card cluster's anchor uncommon"},
+    {"name": "Igneous Cur", "set": "Core Set 2021", "note": "Named co-target in Alpine Houndmaster's oracle text; elemental Dog completing the tri-cluster"},
+    {"name": "Bolt Hound", "set": "Core Set 2021", "note": "M21 Dog also illustrated by Forrest Imel; fellow beneficiary of the Hound-to-Dog rename"},
+    {"name": "Selfless Savior", "set": "Core Set 2021", "note": "M21 Dog companion — white Dog staple in the same set"},
+    {"name": "Rambunctious Mutt", "set": "Core Set 2021", "note": "M21 Dog with lifegain; cohort member in same set dog package"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

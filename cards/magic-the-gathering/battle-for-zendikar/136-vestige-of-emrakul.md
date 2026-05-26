@@ -39,6 +39,8 @@ last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/a/5/a5d84986-64a1-4bd1-a4f6-3eb147aca357.png?1562934205
 art_match_confidence: high
 needs_manual_review: false
+characters:
+  - eldrazi
 artist: Tyler Jacobson
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/136-vestige-of-emrakul--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/a/5/a5d84986-64a1-4bd1-a4f6-3eb147aca357.jpg?1562934205
@@ -89,4 +91,8 @@ A mid-to-wide shot of an Eldrazi creature in a low, crouched posture on barren d
 - Nettle Drone (Battle for Zendikar, no. 131) — sister BFZ Eldrazi Drone common in the same collector-number range; same Devoid block identity
 - Eldrazi Devastator (Battle for Zendikar) — BFZ bulk-Eldrazi common with Trample; functional parallel at higher mana cost
 - Endless One (Battle for Zendikar) — colorless Eldrazi; pairs with Vestige in common-rarity Eldrazi builds
+
+## Connections
+
+- [[eldrazi]] — Drone-tier brood member in the BFZ-aftermath narrative slot, anchoring the brood's "Drone as Titan-extended limb rather than autonomous brood entity" archetype the cohort body establishes in its typology paragraph. The flavor text *"Emrakul has not been seen in months. Though her brood's numbers have dwindled in her absence, each drone is still a deadly threat."* is the corpus's clearest single-frame example of the BFZ design choice to withhold Emrakul from the block — the third Titan is kept offscreen during BFZ-block so she can be saved for her `eldritch-moon` reveal on Innistrad, with the brood-still-active framing here building dread through her named absence. `[Scryfall: BFZ-136 flavor_text]` `[cohort body: BFZ-block typology paragraph]`
 
