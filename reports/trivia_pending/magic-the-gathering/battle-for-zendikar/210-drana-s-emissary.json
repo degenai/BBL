@@ -1,0 +1,47 @@
+{
+  "card_name": "Drana's Emissary",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "210",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Drana is the last surviving bloodchief of the Kalastria — the wealthiest and most powerful vampire family of Malakir on Zendikar. During Battle for Zendikar, she repelled Kalitas of the Ghet family (who was turning vampires into Eldrazi thralls), retook Malakir, then evacuated when Eldrazi overran it, ultimately joining Gideon Jura's forces on Tazeem. After the Eldrazi were defeated she held unquestioned leadership over vampire society as its sole surviving bloodchief. [MTG Wiki: Drana, mtg.wiki/page/Drana]",
+      "sources": ["MTG Wiki: Drana, mtg.wiki/page/Drana"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"The taste of freedom is sweeter than blood.\" — spoken by an unnamed emissary of Drana. The line positions the card's subject as a vampire who has escaped Kalitas's Eldrazi-thrall subjugation or some other form of bondage — freedom as a concept vampires rarely prioritize over feeding. [Scryfall: BFZ-210 flavor_text]",
+      "sources": ["Scryfall: BFZ-210"]
+    },
+    {
+      "category": "design",
+      "text": "The type line reads 'Creature — Vampire Cleric Ally,' combining three tribal affiliations. The Ally type was Battle for Zendikar's central parasitic mechanic; this card's drain effect (each opponent loses 1 life, you gain 1 life) triggers at the beginning of your upkeep independently of the Ally trigger — making it a slow drip life-swing that scales in multiplayer. Karl Kopinski illustrated the card. [Scryfall: BFZ-210 type_line, oracle_text, artist]",
+      "sources": ["Scryfall: BFZ-210"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC shows approximately 21,900 decks running Drana's Emissary. Top commanders include Astarion, the Decadent (45% of his decks), Oloro, Ageless Ascetic (17%), and Liesa, Shroud of Dusk (17%). Top synergy partners are Sanguine Bond (62% co-inclusion) and Exquisite Blood (44%) — the lifedrain-loop pair that turns the slow upkeep drain into a win condition. [EDHREC: edhrec.com/cards/dranas-emissary]",
+      "sources": ["EDHREC: edhrec.com/cards/dranas-emissary"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment on MTG Salvation (BFZ preview discussion, 2015): initial reception was split. Skeptics called it a 2/2 flying for 3 that was 'below curve and fragile.' Defenders argued it functioned more like a 3/2 flier once the life-swing was factored in. Post-prerelease reports were warmer, with one player noting it 'basically won me two rounds just on her own' in limited. [MTG Salvation: 'Drana's Emissary — New Card Discussion' thread; 'BFZ Prerelease Experiences' thread, 2015]",
+      "sources": ["MTG Salvation: Drana's Emissary New Card Discussion thread 2015", "MTG Salvation: BFZ Prerelease Experiences thread 2015"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Drana, Liberator of Malakir", "set": "Battle for Zendikar", "note": "The named character whose emissary this card depicts; Drana herself as a legendary BFZ card"},
+    {"name": "Drana, the Last Bloodchief", "set": "Zendikar Rising", "note": "Drana's later card in the same continuity; named explicitly as 'Last Bloodchief' — confirms the BFZ-era context"},
+    {"name": "Kalitas, Bloodchief of Ghet", "set": "Worldwake", "note": "The rival vampire lord who tried to turn Malakir vampires into Eldrazi thralls; the antagonist Drana defeated in BFZ lore"},
+    {"name": "Cliffhaven Vampire", "set": "Oath of the Gatewatch", "note": "45% co-inclusion in EDHREC; benefits from Drana's Emissary's upkeep life-gain, forming a secondary drain loop"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

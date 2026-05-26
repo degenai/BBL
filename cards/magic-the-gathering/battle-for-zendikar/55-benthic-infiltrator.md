@@ -73,3 +73,16 @@ A large alien creature dominates the frame, rendered in deep blue-green tones. I
 **Creatures:** eldrazi, serpentine-creature, aquatic-predator
 **Genre cues:** fantasy, sci-fi
 
+## Trivia
+
+- **Design — Eldrazi Drone subtype (Eldrazi-cluster-relevant)** — The type line reads "Creature — Eldrazi Drone," not simply "Creature — Eldrazi." The Drone subtype is a BFZ-specific classification for subordinate Eldrazi servants that fill specialized functional roles within a Titan's brood lineage. Lore-wise, Eldrazi Drones are extensions of the Titan's body and will, with little independent thought — working-instrument limbs of the brood's consumption apparatus, not autonomous Eldrazi entities. The Drone subtype separates these servants from the Titans and the Spawn/Scion token layer. `[Scryfall: BFZ-55 type_line; MTG Wiki: Eldrazi/Lineages, via WebSearch]`
+- **Set context — Ingest and Ulamog's brood** — The name "Benthic" (from Greek for sea bottom) signals this creature's deep-water domain. The Ingest keyword — whenever this creature deals combat damage, the opponent exiles the top card of their library — is Ulamog's brood-specific mechanic in BFZ, mirroring Ulamog's feeding style: consumption, internalization, processing. Benthic Infiltrator's unblockable body ensures Ingest triggers reliably. `[Scryfall: BFZ-55 oracle_text; WebSearch: BFZ Ulamog brood Ingest lore]`
+- **Design** — A 1/4 common with devoid (colorless despite blue mana cost), no flavor text, art by Mathias Kollros. The 1/4 body slips through unblocked and silently mills with Ingest — one of the purest expressions of the Ulamog brood's design brief: invisible infiltration, consumption from within. `[Scryfall: BFZ-55 power, toughness, rarity, artist]`
+- **Mechanical** — Legal in Pauper (one of the few Pauper-legal Ingest creatures). EDHREC rank 16491 — primarily in Eldrazi tribal Commander builds that want Ingest triggers to activate Processor cards like Wasteland Strangler (which requires an exiled card for its ETB). Also sees Pauper play in colorless-ramp shells as a cheap unblockable blocker. `[Scryfall: BFZ-55 legalities, edhrec_rank]`
+
+### Related cards
+- Wasteland Strangler (Battle for Zendikar) — the Processor card that consumes Ingested exile-zone cards; Benthic Infiltrator feeds its ETB directly
+- Dominator Drone (Battle for Zendikar) — another Eldrazi Drone sharing the BFZ Drone subtype; different brood function, same hierarchical tier
+- Eldrazi Skyspawner (Battle for Zendikar) — Eldrazi Drone with flying and Scion generation; shares the BFZ Drone design brief with an aerial function
+- Sire of Stagnation (Battle for Zendikar) — BFZ blue Eldrazi punishing opponents for land drops; thematic cluster partner in BFZ's blue-aligned Eldrazi suite
+

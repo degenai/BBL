@@ -1,0 +1,42 @@
+{
+  "card_name": "Idol of False Gods",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "210",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "suspected_ip is empty string with ip_confidence: none — no IP task",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Modern Horizons 3 (released June 2024) featured a major Eldrazi resurgence as one of its primary design themes, including a full Commander precon ('Eldrazi Incursion') and new versions of the three Eldrazi Titans (Emrakul, the World Anew; Kozilek, the Broken Reality; Ulamog, the Defiler). Idol of False Gods is part of this Eldrazi suite, designed to function in Eldrazi-tribal Commander and Modern. [Scryfall: MH3-210 set_name, released_at; WebSearch: MH3 Eldrazi design]",
+      "sources": ["Scryfall: MH3-210", "WebSearch: MH3 Eldrazi design"]
+    },
+    {
+      "category": "design",
+      "text": "The type line 'Kindred Artifact — Eldrazi' uses the MH3-era 'Kindred' card type, which replaced the old 'Tribal' type and allows noncreature cards to carry creature types. This makes Idol of False Gods an Eldrazi for the purpose of Eldrazi-synergy triggers (e.g., Ulalek, Fused Atrocity copies spells when any Eldrazi you control is cast). The Kindred designation was formalized in MH3 to disambiguate from colloquial 'tribal' language. [Scryfall: MH3-210 type_line; WebSearch: Kindred type MTG rules update]",
+      "sources": ["Scryfall: MH3-210 type_line", "WebSearch: Kindred type rules update"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The idol's mechanical loop: pay {1}{C} to tap and create a 0/1 Eldrazi Spawn token; when any other Eldrazi you control dies, the idol gets a +1/+1 counter; at 8 or more counters it becomes a 0/0 artifact creature with annihilator 2. The loop rewards keeping a wide Eldrazi board, dying Eldrazi count toward the idol's transformation, and Spawn sacrifices generate the {C} mana to sustain the engine. EDHREC shows approximately 30,657 decks — a strong Commander staple within the Eldrazi archetype. Top commanders: Azlask, the Swelling Scourge (61%), Ulalek, Fused Atrocity (20%). [Scryfall: MH3-210 oracle_text; EDHREC: edhrec.com/cards/idol-of-false-gods]",
+      "sources": ["Scryfall: MH3-210 oracle_text", "EDHREC: edhrec.com/cards/idol-of-false-gods"]
+    },
+    {
+      "category": "design",
+      "text": "No flavor text on Scryfall record [Scryfall: MH3-210]. Artist is Nicholas Gregory. The card name explicitly names the Eldrazi as 'false gods' — a design-text framing consistent with the BFZ-era lore where the Eldrazi Titans were worshipped by certain cults on Zendikar as divine entities, though they are purely consumptive forces without consciousness or purpose beyond annihilation. The 'idol' premise literalizes the cult worship: devotees feed the artifact (as Eldrazi die) and eventually it awakens as the thing they worshipped. [Scryfall: MH3-210; WebSearch: Eldrazi cult worship Zendikar lore]",
+      "sources": ["Scryfall: MH3-210", "WebSearch: Eldrazi cult worship Zendikar lore"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Azlask, the Swelling Scourge", "set": "Modern Horizons 3", "note": "Top EDHREC commander for Idol of False Gods at 61% inclusion; Eldrazi Commander that benefits from Spawn/Scion sacrifice loops"},
+    {"name": "Ulalek, Fused Atrocity", "set": "Modern Horizons 3", "note": "Second top EDHREC commander at 20%; copies spells when an Eldrazi is cast — Idol's Kindred type makes it eligible to trigger this"},
+    {"name": "It That Betrays", "set": "Rise of the Eldrazi", "note": "Classic Annihilator Eldrazi; the archetype Idol transforms into mirrors via its 8-counter Annihilator 2 mode"},
+    {"name": "Spawning Bed", "set": "Battle for Zendikar", "note": "BFZ land that also taps for Eldrazi Scion tokens; functional predecessor to Idol's Spawn-generation mode in the colorless-mana scaffold design space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

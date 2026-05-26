@@ -1,0 +1,64 @@
+{
+  "edge_id": "wave200-eldrazi-coatl-typeline-confab-correction",
+  "shape": "replacement",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/64-hope-ender-coatl.md", "name": "Hope-Ender Coatl (MH3-64)"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/176-wumpus-aberration.md", "name": "Wumpus Aberration (MH3-176)"},
+    {"type": "character", "path": "cards/_characters/eldrazi.md", "name": "Eldrazi (brood / faction-collective)"}
+  ],
+  "description": "Refused the parent's framed move (A) — Mr. Nodeley node `eldrazi-brood-corruption-of-existing-subtypes` per Potion sub-rule 4 (don't promote a recurring body-prose pattern to a first-class graph object). Deferred move (B) — BFZ Adverse Conditions + Benthic Infiltrator cohort attaches — to next-pass Sonnet-override triage per the precedent the brief itself cited (both cards are pre-vision'd with explicit eldrazi tagging, no narrative judgment needed, classic Sonnet-tier work). Took the higher-priority move: a corrective enlightened-Edgelord pass on a real canonical-source confab that has been propagating through three sidecar passes and would have leaked into the Nodeley node body if (A) had fired. \n\nThe confab: the [[eldrazi]] node body's Hope-Ender Coatl entry, the Hope-Ender Coatl card's own Connections bullet, the wave-198 Wumpus Aberration sidecar's catalogue language, and the Wumpus Aberration card's Connections bullet all claimed 'coatl→eldrazi' and that 'Coatl is the Mesoamerican-derived MTG creature subtype.' Verified against Scryfall live API: Hope-Ender Coatl's actual type_line is `Creature — Eldrazi Snake`, and `t:coatl` on Scryfall returns zero results (Coatl is not a creature type in MTG, period — Wizards has consistently typed winged-serpent feathered-snake creatures as Snake since Mirage). The card's 'Coatl' name and feathered-serpent iconography draw on the Quetzalcoatl flavor tradition but the type-line is Snake. \n\nCorrected in three places: (1) [[eldrazi]] node body's Hope-Ender Coatl entry — replaced the false 'Coatl is the Mesoamerican-derived MTG creature subtype' claim with the accurate Snake type-line + Quetzalcoatl-as-flavor-not-type framing, with both Scryfall citations including the t:coatl=0 result. (2) [[eldrazi]] node body's MH3 functional-ideology paragraph — replaced 'Wumpus Aberration as the first Eldrazi-typed Wumpus' (which implied a 'Eldrazi Wumpus' type that doesn't exist) with a correct enumeration of the MH3 brood-corruption-of-existing-creature-subtypes mini-cohort: Twisted Riddlekeeper (Eldrazi Sphinx), Hope-Ender Coatl (Eldrazi Snake), Snapping Voidcraw (Eldrazi Turtle) at the type-line level + Wumpus Aberration (Eldrazi Beast) at the mechanical-lineage level. Also wrote in the explicit Potion-sub-rule-4 disclaimer that this is a body-prose-documented pattern, not a graph-graduated object. (3) Wumpus Aberration card's Connections bullet — replaced the 'first Eldrazi-typed Wumpus' phrasing with 'first to carry both Eldrazi typing and devoid coloring' and explicitly noted the type-line-vs-mechanical-lineage distinction. (4) Hope-Ender Coatl card's Connections bullet — replaced the 'Coatl is an MTG creature subtype' claim with the corrected Snake type-line framing and the same Scryfall-citation pair.\n\nThis is an enlightened-corrective pass — no new edges added, no edges removed, three existing edges' body-prose bullets corrected for canonical accuracy. The 'replacement' shape tag captures that the false canonical citation is being replaced with the verified one across both endpoints of two existing edges + the cohort node. The Snapping Voidcraw Connections bullet was left untouched — it does not make the false claim, and editing it for cohort-symmetry would exceed single-invocation discipline.",
+  "citations": [
+    "[Scryfall live API: GET /cards/named?exact=Hope-Ender+Coatl&set=mh3 → type_line 'Creature — Eldrazi Snake', verified 2026-05-25]",
+    "[Scryfall live API: GET /cards/search?q=t%3Acoatl → object 'error', total_cards 0, verified 2026-05-25 — Coatl is not a creature type in MTG]",
+    "[Scryfall live API: GET /cards/named?exact=Snapping+Voidcraw&set=mh3 → type_line 'Creature — Eldrazi Turtle', verified 2026-05-25]",
+    "[Scryfall live API: GET /cards/named?exact=Twisted+Riddlekeeper&set=mh3 → type_line 'Creature — Eldrazi Sphinx', verified 2026-05-25]",
+    "[Scryfall live API: GET /cards/named?exact=Wumpus+Aberration&set=mh3 → type_line 'Creature — Eldrazi Beast', verified 2026-05-25]",
+    "[In-corpus: cards/magic-the-gathering/modern-horizons-3/204-snapping-voidcraw.md trivia bullet — 'Snapping Voidcraw is the only card in all of Magic: The Gathering with the type line Creature — Eldrazi Turtle']",
+    "[Potion rule sub-rule 4 — don't promote pattern-instance to new structural-primitive vocabulary; cards/_hubs/_triple-thesis.md canonical reference]"
+  ],
+  "files_modified": [
+    "cards/_characters/eldrazi.md",
+    "cards/magic-the-gathering/modern-horizons-3/64-hope-ender-coatl.md",
+    "cards/magic-the-gathering/modern-horizons-3/176-wumpus-aberration.md"
+  ],
+  "edges_added": [],
+  "edges_removed": [],
+  "edges_corrected": [
+    {
+      "edge": "Hope-Ender Coatl ↔ Eldrazi cohort",
+      "correction": "Connections bullet on card + Hope-Ender Coatl entry in node body — replaced 'Coatl is the Mesoamerican-derived MTG creature subtype' confab with verified Snake type-line + zero-result t:coatl Scryfall search citation"
+    },
+    {
+      "edge": "Wumpus Aberration ↔ Eldrazi cohort",
+      "correction": "Connections bullet on card + Wumpus Aberration entry in node body — replaced 'first Eldrazi-typed Wumpus' phrasing (which implied an Eldrazi-Wumpus type that doesn't exist) with type-line-vs-mechanical-lineage distinction; replaced 'wumpus→eldrazi' catalog entry with 'mechanical-lineage corruption rather than type-line one'"
+    },
+    {
+      "edge": "Eldrazi cohort body — MH3 thesis paragraph",
+      "correction": "Replaced single-card 'Wumpus Aberration as first Eldrazi-typed Wumpus' callout with full four-card mini-cohort enumeration (Sphinx / Snake / Turtle at type-line level + Beast at mechanical-lineage level) and explicit Potion-sub-rule-4 disclaimer that the mini-cohort is body-prose-documented not graph-graduated"
+    }
+  ],
+  "moves_refused_with_reason": [
+    {
+      "move": "(A) Mr. Nodeley node creation — eldrazi-brood-corruption-of-existing-subtypes (symbol-tier per bbl-symbols-mechanical-primitives precedent)",
+      "reason": "Per Potion sub-rule 4 (don't promote pattern-instance to new structural-primitive vocabulary). The pattern is real (verified 4 MH3 prints with Eldrazi-plus-existing-creature-subtype type lines or lineages). But (a) all four cards already point at [[eldrazi]]; (b) the pattern is documented in the [[eldrazi]] node body already; (c) a new symbol/sub-character node would not unlock any future edge that doesn't already exist via [[eldrazi]]; (d) the wave-198 sidecar's own next_pass_suggestions explicitly stated 'Don't promote to symbol or sub-character node — it's a body-prose pattern, not an edge-bearing primitive' at the 3/4 count, and going from 3→4 cards of the same pattern is density-not-categorical-difference. Standard graph-theory terms (subgraph) suffice for what this pattern is. The wave-200 corrective pass strengthens the body-prose documentation in lieu of node creation. Also: had the Nodeley node been built without the Scryfall verification done this pass, the new node body would have inherited the Coatl-as-MTG-subtype confab, propagating the error to a fourth document. Refusal IS the discipline working."
+    },
+    {
+      "move": "(B) BFZ Adverse Conditions + Benthic Infiltrator cohort attaches to [[eldrazi]]",
+      "reason": "Genuinely valid Opus work too, but precisely the Sonnet-override-acceptable shape per the model dispatch note: both endpoints already named (cards + eldrazi cohort), both cards pre-vision'd with explicit `eldrazi` tags_hub entries, and the connection sentence writes itself from the existing eldrazi node body's BFZ-coverage caveat. Better staged as next-wave Sonnet override for cost-efficiency, exactly as the wave-199 precedent established. Deferred, not refused."
+    }
+  ],
+  "other_candidates_considered": [
+    "Snapping Voidcraw's Connections bullet symmetric extension — would extend the bullet to name the four-card mini-cohort (currently only references the Innistrad-Nephalia arc via the flavor text). Skipped per single-invocation discipline — the Wave 200 pass is corrective (removing false claims) not constructive (adding cohort cross-references). If next-pass Sonnet override handles Adverse + Benthic attach, it can also do a sweep extending all four MH3 brood-corruption-of-subtype bullets to cross-reference each other.",
+    "Non-Eldrazi cluster scan — the recent 4-wave Eldrazi focus IS measurably misweighting the corpus (4 of last 5 waves on one cluster). Surveyed via Grep for other latent cohorts; nothing crossed threshold this pass. Mogg-fanatic-lineage symbol still 2/4 (wave 196 entry confirmed via wave 198 sidecar). KTK Outlast keyword cohort still at 1/3 corpus. Aven-warrior cohort still at 1 corpus card. The Eldrazi cluster genuinely IS the corpus's most enrichment-dense recent zone given MH3 batch sequencing — the cluster-weighting concern is real but doesn't override the corrective opportunity surfaced this wave.",
+    "Refusal-with-receipts as the entire pass — considered. If the Hope-Ender Coatl type-line check had returned 'Eldrazi Coatl' as the actual type, the only valid moves would have been (A) with verified-evidence Nodeley, (B) Sonnet-deferral, or pure refusal. Instead, the Scryfall verification surfaced a real confab that was about to compound into a Nodeley node body. Single-invocation budget is therefore correctly spent on the correction, with the parent's framed (A) and (B) both addressed in their refusal/deferral lines."
+  ],
+  "next_pass_suggestions": [
+    "Sonnet-override triage (mode-2 narrow-scope per model dispatch note): attach BFZ Adverse Conditions (BFZ-54) + Benthic Infiltrator (BFZ-55) to [[eldrazi]] cohort. Standard three-sided attach pattern (frontmatter `characters:` block-form + card body `## Connections` bullet + node `appears_on:` + auto-gen `## Appears on` block). Both cards already vision'd with explicit `eldrazi` in tags_hub. Body roster counter would move from 16 → 18 with these two adds (and again from current 'BFZ/OGW' to 'BFZ + OGW with 6 BFZ anchors').",
+    "Sonnet-override triage (mode-2 narrow-scope, optional bundle with the BFZ attaches): extend the Snapping Voidcraw + Twisted Riddlekeeper + Hope-Ender Coatl + Wumpus Aberration Connections bullets to symmetrically reference the four-card MH3 brood-corruption-of-existing-creature-subtypes mini-cohort, drawing the language from the corrected [[eldrazi]] node body MH3 thesis paragraph. This is mechanical wikilink-discipline work: each bullet cites the other three by name+type in backticks (NOT wikilinks — these are sibling-cohort within-node references, not separate-node edges, and the Potion sub-rule 5 backtick discipline applies). Defer if Sonnet pass budget is tight; corrective work this wave already establishes the canonical-source-of-truth in the node body.",
+    "Future-watch (revised wave 198): the brood-corruption-of-existing-subtypes mini-cohort is now correctly documented at 4 prints — three type-line (Sphinx / Snake / Turtle) + one mechanical-lineage (Beast / Wumpus). If MH3 enrichment surfaces a fifth example AT THE TYPE-LINE LEVEL (e.g. Eldrazi Dragon, Eldrazi Elemental, Eldrazi Demon, Eldrazi Wizard would all be canonical-novel type-line corruptions for MTG), revisit whether the body paragraph in 'The functional ideology' warrants its own bullet (currently the register sits in the MH3-resurgence-brief paragraph). DO NOT promote to symbol or sub-character node — the Potion sub-rule 4 prohibition holds at 4, holds at 5, holds at 10. Body prose, not graph object.",
+    "Future-watch (carried forward, unchanged from wave 198): mogg-fanatic-lineage symbol node still 2/4 corpus. Goblin Arsonist + Mogg Mob. No motion this wave."
+  ],
+  "edgelord_mood": "enlightened-corrective"
+}

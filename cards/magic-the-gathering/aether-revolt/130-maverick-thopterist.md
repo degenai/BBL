@@ -72,3 +72,16 @@ A male-presenting figure in mid-leap across what appears to be a railing or ledg
 **Creatures:** thopter
 **Genre cues:** fantasy, steampunk
 
+## Trivia
+
+- **Set context** — Aether Revolt (January 2017) is the second set of the Kaladesh block, depicting the Renegade uprising against the Consulate on the plane of Kaladesh. Wizards design deliberately adopted the rebels' point of view: where Kaladesh showed inventors proudly displaying their creations, Aether Revolt showed those same skills turned to resistance. `[Wizards of the Coast: "A Revolting Development and Design, Part 1", 2017-01-02; Scryfall set data]`
+- **Design — Improvise** — The Improvise keyword was designed to embody Renegade ingenuity: artificers tapping their own inventions to help pay for spells, literally improvising weapons from their workshops. Wizards' mechanics article stated Improvise "signified the artificers taking up arms against the Consulate soldiers and making improvised weapons out of their inventions." `[Wizards of the Coast: "Aether Revolt Mechanics", 2017-01-02]`
+- **Artist** — Card art is by Zack Stella, who later became a Principal Art Director at Wizards of the Coast (from September 2019). He holds over 119 MTG card illustration credits. On Maverick Thopterist he was working as illustrator, not as AD. `[ArtStation: Zack Stella; Scryfall artist field]`
+- **Mechanical** — No flavor text. EDHREC rank 18101 places this in the long tail of Izzet artifact-token builds rather than among format staples. In a board with two tapped artifacts Improvise effectively reduces the casting cost to {U}{R}. Legal in Modern, Pioneer, and Commander. `[Scryfall: AER-130; EDHREC rank 18101]`
+
+### Related cards
+- Thopter Spy Network (Magic Origins) — creates Thopter tokens at each upkeep; directly fuels Improvise chains and shares the Thopter-artifact-creature-token design space
+- Pia Nalaar (Kaladesh) — the canonical Renegade leader driving the AER storyline; thematically central to the revolt Maverick Thopterist inhabits
+- Whirler Virtuoso (Kaladesh) — fellow Izzet Human Artificer creating Thopter tokens; part of the Kaladesh-block Thopter-token creature-type cluster
+- Reverse Engineer (Aether Revolt) — another AER Improvise card sharing the renegade-inventor design brief; exemplifies the mechanic in non-creature form
+

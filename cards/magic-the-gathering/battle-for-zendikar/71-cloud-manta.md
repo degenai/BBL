@@ -10,8 +10,25 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - manta-ray
+  - flying
+  - sky
+  - desert
+  - ocean-creature
+  - wings
+  - creature
+  - nature
+  - zendikar
+  - canyon
+tags_filter:
+  - solo
+  - wide
+  - action
+  - no-face
+  - three-quarter
+  - blue-magic
+  - creature-beast
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/71-cloud-manta.png
 average_cost_paid: 0
 market_price: 0.05
@@ -30,6 +47,27 @@ mana_cost: "{3}{U}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: desert
 ---
 
 # Cloud Manta (Battle for Zendikar)
+
+## Vision
+
+![71-cloud-manta](../../_images/magic-the-gathering/battle-for-zendikar/71-cloud-manta.png)
+
+A large manta-ray-shaped creature flies through the air of a rocky canyon. The creature has broad, angular wing-fins extending to either side, teal-green in color with lighter undersides. At the center of the body sits a cluster of petal-like or spine-like projections in pale pink and white, suggesting a flower-like or coral-like structure at the creature's head or dorsal region. A long slender tail trails behind. The surrounding environment is arid — tan and brown rocky spires and canyon walls rise in the background, partially obscured by dusty haze. The overall impression is a natural creature adapted to Zendikar's sky, with no obvious signs of Eldrazi corruption or grafted tendrils visible in the art itself.
+
+**Subject:** A large manta-ray-like flying creature soaring through a rocky canyon atmosphere
+
+**Composition:** wide, action, figures: solo, facing: three-quarter
+**Setting:** desert, day
+**Foreground:** Manta-ray-like flying creature, broad teal wing-fins, flower-like dorsal cluster, trailing tail  *(palette: teal, pale-green, tan, pale-pink, white)*
+**Background:** Arid rocky canyon, tan stone spires, dusty haze  *(palette: tan, brown, dusty-orange, pale-gray)*
+**Mood / lighting:** action, ambient
+**Emotion read:** No readable expression; creature in motion through open air
+**Creatures:** manta-ray, flying-creature
+**Genre cues:** fantasy
+

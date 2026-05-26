@@ -72,3 +72,15 @@ Two humanoid figures wearing light explorer-style armor are shown in a top-down 
 **Creatures:** eldrazi-energy
 **Genre cues:** fantasy, sci-fi
 
+## Trivia
+
+- **Set context — Devoid frame** — Adverse Conditions is part of the Devoid spell suite in Battle for Zendikar (October 2015), the first set of the BFZ block depicting the second Eldrazi invasion of Zendikar. Devoid cards used a modified transparent frame with hedron-texture coloration: the top of the card shows color (blue here) over a background that mimics the hedrons that once imprisoned the Eldrazi, visually marking cards as Eldrazi-tainted without removing their color-identity for deckbuilding. `[Scryfall: BFZ-54 frame_effects: devoid; WebSearch: BFZ mechanics documentation]`
+- **Design — Eldrazi Scion** — The 1/1 Eldrazi Scion token created by this card is distinct from the original Zendikar block's 0/1 Eldrazi Spawn. Scions carry both the Eldrazi and Scion creature types, so anything affecting Eldrazi also affects them. The token can be sacrificed to add {C}, providing the colorless-mana scaffold central to BFZ Eldrazi builds. No flavor text. Art by Jason Rainville. `[Scryfall: BFZ-54 oracle_text, artist]`
+- **Design — Devoid tension** — Adverse Conditions has its color stripped to colorless by Devoid, but its color identity remains blue for Commander deckbuilding. This is the defining tension of the Devoid mechanic: the cards feel Eldrazi-blank but still demand colored mana, representing the Eldrazi's corruption of existing magic systems rather than a clean replacement of them. `[Scryfall: BFZ-54 colors field vs color_identity field]`
+- **Mechanical** — EDHREC rank 20623 — fringe Commander inclusion, generally outclassed by other tap-lock and ramp effects. Rules note: if cast with targets and all targets become illegal before resolution, the spell fizzles entirely including the Scion token; casting with no targets guarantees the token. `[Scryfall: BFZ-54 edhrec_rank; WebSearch: Adverse Conditions ruling]`
+
+### Related cards
+- Eldrazi Scion token (Battle for Zendikar) — the token this card creates; 1/1, both Eldrazi and Scion types, sacrifices for {C} mana
+- Ulamog's Despoiler (Battle for Zendikar) — consumes Scion tokens in Ulamog's processor chain; shares the BFZ colorless-mana scaffold
+- Spatial Contortion (Oath of the Gatewatch) — fellow Devoid instant from the follow-up Zendikar set; illustrates the Devoid frame design across the BFZ block
+

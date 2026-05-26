@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - elf
+  - rainbow
+  - light
+  - waterfall
+  - nature
+  - magic-user
+  - freedom
+  - sky
+  - joy
+  - forest
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - blue-magic
+  - sorcery
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/70-brilliant-spectrum.png
 average_cost_paid: 0
 market_price: 0.02
@@ -30,6 +46,27 @@ mana_cost: "{3}{U}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: day
+setting: forest
 ---
 
 # Brilliant Spectrum (Battle for Zendikar)
+
+## Vision
+
+![70-brilliant-spectrum](../../_images/magic-the-gathering/battle-for-zendikar/70-brilliant-spectrum.png)
+
+A slender humanoid figure stands in a three-quarter forward pose with both arms spread wide, palms open. Pointed ears are clearly visible, identifying this as an elf or elf-eared being. The figure has a bare upper body and minimal lower garments. Two vivid rainbow arcs curve around the figure at mid-height, emanating from behind and glowing with brilliant multicolored light. The background shows waterfalls cascading down cliffs and lush foliage in the upper corners, all washed in a bright glowing white light. The figure's expression appears serene or exultant. A small garment or sash drapes across the lower torso.
+
+**Subject:** A slender elf-eared humanoid standing arms outstretched, surrounded by rainbow arcs and light
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** forest, day, clear
+**Foreground:** Bare-chested elf-eared humanoid, arms outstretched, rainbow light arcing around the figure  *(palette: dark-brown, charcoal, multicolor-rainbow, warm-pink)*
+**Background:** Waterfall, cliffs, foliage, bright glowing white light  *(palette: white, pale-blue, green, cream)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** Arms spread wide, posture exultant or welcoming, serene expression
+**Iconography:** rainbow, arc-of-light
+**Genre cues:** fantasy
+

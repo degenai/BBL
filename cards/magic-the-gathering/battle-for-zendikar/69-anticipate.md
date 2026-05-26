@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - magic-user
+  - orb
+  - waterfall
+  - ritual
+  - sorcery
+  - divination
+  - robed-figure
+  - nature
+  - mist
+  - mystic
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - forward-facing
+  - blue-magic
+  - instant
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/69-anticipate.png
 average_cost_paid: 0
 market_price: 0.05
@@ -30,6 +46,28 @@ mana_cost: "{1}{U}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: day
+setting: mountain
 ---
 
 # Anticipate (Battle for Zendikar)
+
+## Vision
+
+![69-anticipate](../../_images/magic-the-gathering/battle-for-zendikar/69-anticipate.png)
+
+A slender humanoid figure stands on rocky terrain in front of a large waterfall. The figure is clad in layers of what appears to be dark organic or natural material — bark-like plating, feathers or spines, and heavily textured layering that obscures any skin beneath. The face is partially obscured but visible, framed by the cowl of the outfit. Two luminous blue orbs float at chest and shoulder height, each containing swirling cerulean light. The figure holds a gnarled, asymmetrical staff or rod in one hand. The setting is a misty rocky canyon or cliff face with cascading water behind. The overall composition is vertical and centered.
+
+**Subject:** A heavily armored or scaled humanoid figure standing before a waterfall, manipulating two glowing blue orbs
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** mountain, day, fog
+**Foreground:** Armored or bark-clad humanoid figure, two glowing blue orbs, gnarled staff held in one hand  *(palette: dark-brown, charcoal, pale-gray, bright-blue)*
+**Background:** Rocky cliff face, cascading waterfall, misty atmosphere  *(palette: pale-gray, white, cool-gray, stone-brown)*
+**Mood / lighting:** sublime, soft
+**Emotion read:** Focused, contemplative, deliberate stance
+**Objects:** glowing-orbs, gnarled-staff
+**Iconography:** glowing-blue-sphere
+**Genre cues:** fantasy
+

@@ -1,0 +1,42 @@
+{
+  "card_name": "Adverse Conditions",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "54",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Adverse Conditions is part of the 'Devoid' spell suite in Battle for Zendikar (released October 2015), the first set of the BFZ block depicting the second Eldrazi invasion of Zendikar. Devoid cards used a modified transparent frame with hedron-texture coloration — the top of the card shows color (blue here) while the rest reflects the textured hedron background that once imprisoned the Eldrazi, visually marking cards as Eldrazi-tainted without removing their color-identity for deckbuilding. [Scryfall: BFZ-54 frame_effects: devoid; Wizards BFZ mechanics documentation, via WebSearch]",
+      "sources": ["Scryfall: BFZ-54 frame_effects", "Wizards BFZ mechanics documentation via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The Eldrazi Scion token created by Adverse Conditions is a 1/1 (unlike the 0/1 Eldrazi Spawn from the original Zendikar block). Eldrazi Scions are both Eldrazi AND Scion creature types — anything that affects Eldrazi affects them. The token can be sacrificed to add one colorless mana ({C}), providing a built-in mana-ramp scaffold central to the BFZ Eldrazi deck's colorless-mana synergy suite. [Scryfall: BFZ-54 oracle_text; WebSearch: BFZ Eldrazi Scion design notes]",
+      "sources": ["Scryfall: BFZ-54 oracle_text", "WebSearch: BFZ Eldrazi Scion design notes"]
+    },
+    {
+      "category": "design",
+      "text": "No flavor text on this card [Scryfall: BFZ-54]. Art by Jason Rainville. The card is a blue instant that creates no color identity beyond blue — the Devoid keyword strips its color to colorless, but its color identity remains blue for Commander deck-building purposes. This is the defining tension of the Devoid mechanic: the cards feel Eldrazi-blank but still demand colored mana, representing the Eldrazi's corrupted influence on existing magic systems. [Scryfall: BFZ-54 oracle_text, colors, color_identity, artist]",
+      "sources": ["Scryfall: BFZ-54"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 20623 — fringe inclusion in Commander, largely outclassed by other tap-down and ramp effects. Legally distinct rules note: if cast with targets and all targets become illegal before resolution, the spell fizzles entirely — including the Scion token. Cast with no targets, the Scion is guaranteed. [Scryfall: BFZ-54 edhrec_rank; Scryfall rulings, via WebSearch]",
+      "sources": ["Scryfall: BFZ-54 edhrec_rank", "WebSearch: Adverse Conditions ruling"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Eldrazi Scion token", "set": "Battle for Zendikar", "note": "The token this card creates; both Eldrazi and Scion types, can sacrifice for {C} mana"},
+    {"name": "Ulamog's Despoiler", "set": "Battle for Zendikar", "note": "Consumes Eldrazi Scion tokens as part of Ulamog's brood processor chain; shares the BFZ colorless-mana scaffold"},
+    {"name": "Disperse", "set": "Various", "note": "Functional comparison: Adverse Conditions offers tap-lock plus Scion at higher cost — the Scion generation is the premium over bare bounce/tap effects"},
+    {"name": "Spatial Contortion", "set": "Oath of the Gatewatch", "note": "Fellow Devoid instant from the follow-up Zendikar set; together they illustrate the Devoid frame design across the BFZ block"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

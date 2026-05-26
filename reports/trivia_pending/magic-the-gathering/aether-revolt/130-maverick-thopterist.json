@@ -1,0 +1,42 @@
+{
+  "card_name": "Maverick Thopterist",
+  "game": "Magic: The Gathering",
+  "set": "Aether Revolt",
+  "collector_number": "130",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Aether Revolt (released January 2017) is the second set in the Kaladesh block, depicting the Renegade uprising against the authoritarian Consulate on the plane of Kaladesh. Wizards design chose to take the rebels' point of view: where Kaladesh showed inventors proudly displaying their creations, Aether Revolt showed those same skills repurposed against injustice. [Wizards of the Coast: 'A Revolting Development and Design, Part 1', 2017-01-02; Scryfall set data]",
+      "sources": ["Wizards of the Coast article: A Revolting Development and Design Part 1", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The Improvise keyword — this card's primary mechanic — was designed to embody the Renegades' ingenuity: artificers tapping their own inventions to pay for spells, literally improvising weapons from their workshop. Wizards' mechanics article stated Improvise 'signified the artificers taking up arms against the Consulate soldiers and making improvised weapons out of their inventions.' [Wizards of the Coast: 'Aether Revolt Mechanics', 2017-01-02]",
+      "sources": ["Wizards of the Coast article: Aether Revolt Mechanics 2017-01-02"]
+    },
+    {
+      "category": "design",
+      "text": "The card's artist, Zack Stella, is also a Principal Art Director at Wizards of the Coast — a dual role he took on in September 2019, after illustrating cards across the game's history. He holds over 119 MTG card credits. On Maverick Thopterist he was painting on the artist side, not the AD side. [ArtStation: Zack Stella; Scryfall artist field; Gatherer]",
+      "sources": ["ArtStation: Zack Stella", "Scryfall artist field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Maverick Thopterist has no flavor text on its Scryfall record [Scryfall: AER-130]. The card is uncommon, legal in Modern, Pioneer, and Commander, and carries an EDHREC rank of 18101 — placing it in the long tail of Izzet artifact-token builds rather than a format staple. Its Improvise effectively lowers the cost to {U}{R} in a board with two tapped artifacts. [Scryfall: AER-130; EDHREC]",
+      "sources": ["Scryfall: AER-130", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Thopter Spy Network", "set": "Magic Origins", "note": "Creates Thopter tokens at each upkeep; directly fuels Improvise chains and shares the Thopter-artifact-creature-token design space"},
+    {"name": "Pia Nalaar", "set": "Kaladesh", "note": "Pia is the canonical Renegade leader whose story arc drives Aether Revolt; thematically central to the rebellion Maverick Thopterist inhabits"},
+    {"name": "Whirler Virtuoso", "set": "Kaladesh", "note": "Fellow Izzet-colored Human Artificer who creates Thopter tokens; part of the Kaladesh-block Thopter-token creature type cluster"},
+    {"name": "Reverse Engineer", "set": "Aether Revolt", "note": "Another AER Improvise card sharing the renegade-inventor design brief; exemplifies the mechanic in non-creature form"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
