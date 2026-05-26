@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - horse
+  - fire
+  - nightmare
+  - underworld
+  - terror
+  - charge
+  - supernatural
+  - horde
+  - darkness
+  - hellfire
+  - stampede
+  - beast
+tags_filter:
+  - group
+  - wide
+  - action
+  - forward-facing
+  - no-face
+  - instant
+  - red-magic
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/164-wrap-in-flames.png
 average_cost_paid: 0
 market_price: 0.05
@@ -34,6 +53,9 @@ oracle_text: Wrap in Flames deals 1 damage to each of up to three target creatur
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: night
+setting: other
 tags:
   - card
   - manual-review
@@ -42,12 +64,20 @@ tags:
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![164-wrap-in-flames](../../_images/magic-the-gathering/theros-beyond-death/164-wrap-in-flames.png)
 
+Three massive dark horses surge forward in a tight charging formation, their muscular bodies silhouetted against a backdrop of billowing orange and gold flame. Each horse has distinctly glowing purple eyes — two of the horses have eyes clearly visible, one to the left and the central one with mouth open wide revealing a purple-lit maw. Their manes and tails trail behind in wild motion, blending with the fire itself. At the bottom center, a small humanoid figure stands or kneels amid the flames, arm raised holding what appears to be a torch or lantern that emits a ring of fire. The overall palette is dominated by deep black, saturated orange-yellow fire, and purple-violet atmospheric haze in the upper background, evoking a scene of nightmare horses from the Underworld of Theros charging through hellfire.
 
-**Subject:** 
+**Subject:** Three dark supernatural horses with glowing purple eyes charge through walls of fire; a small figure at the lower center holds a torch or lantern
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, action, figures: group, facing: forward
+**Setting:** other, night, fire
+**Foreground:** Three dark charging horses with purple glowing eyes surrounded by rising flames; small figure with torch at lower center  *(palette: black, orange, gold, purple)*
+**Background:** Atmospheric purple-blue haze with cascading fire and smoke  *(palette: purple, violet, orange, grey)*
+**Mood / lighting:** horror, harsh
+**Emotion read:** charging fury; the horses convey primal terror and unstoppable momentum
+**Objects:** torch, fire
+**Creatures:** horse, nightmare-horse, supernatural-horse
+**Iconography:** glowing-eyes, flame
+**Genre cues:** fantasy, greek-mythology
 

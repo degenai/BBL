@@ -1,0 +1,47 @@
+{
+  "card_name": "Glimpse of Freedom",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "50",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Escape keyword context: Escape is the marquee new keyword of Theros Beyond Death, introduced to represent souls escaping from the Underworld. Per the Wizards of the Coast mechanics article (Matt Tabak, December 12, 2019) and the MTG Wiki, Escape 'treats death as the imprisonment of the body rather than its destruction' — a card in the graveyard is a soul in the Underworld; exiling cards to escape is the narrative act of freeing yourself by leaving others behind. Mark Rosewater rated Escape a 6 on the Storm Scale in his December 2020 retrospective, noting he expected higher popularity but that the Elder Giants' format dominance may have undermined desire for the mechanic's return. [MTG Wiki: Escape (mtg.wiki/page/Escape); Wizards: THB Mechanics article 2019-12-12; Rosewater Storm Scale 2020-12-07]",
+      "sources": ["MTG Wiki: Escape (mtg.wiki/page/Escape)", "Wizards of the Coast: Theros Beyond Death Mechanics, Matt Tabak 2019-12-12", "Mark Rosewater: Storm Scale Theros and THB 2020-12-07"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: '\"Freedom lies in accepting a single path.\" — Nyklos, Meletian philosopher'. Nyklos is not a generic named mortal: per research via WebSearch, the 'Nyklean school' is a specifically named stoic philosophical tradition in Meletis — the largest polis on Theros — whose adherents believe reason and destiny underlie all reality, training themselves to accept fate rather than resist it. The card's escape mechanic enacts the flavor: the Stoic accepts one path out of the Underworld (the single exile cost), rather than grasping at every option. [Scryfall: flavor_text; MTG Fandom Meletis article, via WebSearch snippet]",
+      "sources": ["Scryfall API: flavor_text, card id c1e9c025-1cdb-4da8-8d28-14ad5efb512d", "WebSearch snippet: Meletis MTG Fandom wiki on Nyklean philosophy"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanical reputation: Glimpse of Freedom is a {1}{U} Instant that draws a card, with Escape costing {2}{U} plus exile of five other graveyard cards. EDHREC rank 18,852 is middle-tier for an uncommon instant draw spell. Notable: the card is NOT legal in regular Pauper (uncommon bar) but IS legal in Paupercommander. It is legal in Pioneer, Modern, Historic, and Timeless. As a self-contained 'draw a card' with escape recursion, it serves as graveyard self-mill payoff and incremental blue card advantage in decks that can stockpile graveyard resources. [Scryfall: edhrec_rank=18852, legalities.pauper=not_legal, legalities.paupercommander=legal]",
+      "sources": ["Scryfall API: edhrec_rank, legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Artist and preview origin: Clint Cearley illustrated Glimpse of Freedom; he also illustrated the thematically paired card Sweet Oblivion from the same set. Cearley is a former Blizzard Art Supervisor and has 92 MTG card credits. Per Scryfall's preview data, Glimpse of Freedom was first previewed on January 1, 2020 on the Magic: The Gathering South Korea Facebook page, among the earliest previews of the set. [Scryfall: artist=Clint Cearley, preview.source=Wizards of the Coast (Korean FB), previewed_at=2020-01-01; artofmtg.com/art/glimpse-of-freedom/]",
+      "sources": ["Scryfall API: artist, preview fields", "artofmtg.com/art/glimpse-of-freedom/"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Erebos adjacency: The Theros Underworld depicted in the card's art is the domain of Erebos, God of the Dead, who presides over the dead souls barred from returning to the living world. The THB narrative resolves with Erebos granting Elspeth passage out of his realm — a rare act of release. The Underworld's visual language in THB cards (dark stone, cold blue light-streams, enclosed subterranean space) is consistent throughout the Escape-keyword blue-black commons and uncommons; Glimpse of Freedom's art is a pure environment piece within that visual system, the Underworld floor viewed as an abstract space of possible and impossible paths. [Wizards: THB Story Summary 2020-01-10; Scryfall: type_line=Instant, keywords=Escape]",
+      "sources": ["Wizards of the Coast: Theros Beyond Death Story Summary 2020-01-10", "Scryfall API: keywords=[Escape]"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sweet Oblivion", "set": "Theros Beyond Death", "note": "Sister card by Clint Cearley; Cearley illustrated both for THB"},
+    {"name": "Uro, Titan of Nature's Wrath", "set": "Theros Beyond Death", "note": "The most-notorious Escape creature from THB; banned in multiple formats"},
+    {"name": "Underworld Breach", "set": "Theros Beyond Death", "note": "Enchantment that grants Escape to nonland cards; same Underworld-exit flavor"},
+    {"name": "Elspeth's Nightmare", "set": "Theros Beyond Death", "note": "Blue-black saga depicting Elspeth's Underworld experiences; same narrative arc"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

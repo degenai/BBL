@@ -1,0 +1,47 @@
+{
+  "card_name": "Nylea's Forerunner",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "186",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Nylea lore: Nylea is the God of the Hunt, Seasons, and Wilds on Theros, inspired by Artemis/Diana of Greek mythology. Her divine weapon is Ephixis, a short bow said to never miss. Per MTG Wiki, she was briefly imprisoned in beast form by Xenagos during the original Theros block, and her symbol is a set of four arrows. Nylea's Forerunner is listed explicitly in the MTG Wiki's in-game references as an 'Associated card' for Nylea. [MTG Wiki: Nylea, retrieved via curl 2026-05-26]",
+      "sources": ["MTG Wiki: Nylea (mtg.wiki/page/Nylea)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Where its feet tread, the thunder of many others will follow.' This unattributed line reflects Nylea's dominion over herd beasts and the unstoppable momentum of nature in mass — the beast runs first so the rest can run behind it. The 'thunder of many others' mirrors the card's trample-granting ability: when the forerunner tramples through, so does every creature behind it. [Scryfall: flavor_text field, card thb/186]",
+      "sources": ["Scryfall API: flavor_text, card id 2cf2b6be-80a8-4464-a909-8cc658196a14"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanical reputation: Nylea's Forerunner is an Enchantment Creature — Beast with 5/3 power and trample, granting trample to all other creatures you control for 5 mana. EDHREC rank 9,700 places it considerably above average for a common (contrast Glory Bearers at rank 25,396). EDHREC data shows top Commander inclusion in Slinza, the Spiked Stampede (34% of decks), Zilortha, Strength Incarnate (5.8%), and Bello, Bard of the Brambles (2.8%) — all heavy-trample-matters commanders. Legal in Pauper and Pauper Commander. [Scryfall: edhrec_rank=9700; EDHREC: edhrec.com/cards/nyleas-forerunner via WebSearch]",
+      "sources": ["Scryfall API: edhrec_rank=9700", "EDHREC: edhrec.com/cards/nyleas-forerunner (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Artist: Christopher Burdett has specialized in designing and illustrating monsters for tabletop games since 2005, with credits across Magic, D&D, Pathfinder, and Star Wars. He illustrated Nylea's Forerunner for THB, as well as Shimmerwing Chimera from the same set. He sells signed, numbered artist proofs of this card — limited to an edition of 50 — via his own storefront, a practice that reflects his investment in the specific art as a portfolio piece. [christopherburdett.myshopify.com/products/nyleas-forerunner-artist-proof; artofmtg.com/art/nyleas-forerunner/]",
+      "sources": ["christopherburdett.myshopify.com: Nylea's Forerunner artist proof listing", "artofmtg.com/art/nyleas-forerunner/"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Enchantment-creature frame: Like Glory Bearers and the other Theros creature commons with this treatment, Nylea's Forerunner carries the enchantment-creature dual type that signals Nyx-born or divinely marked status in Theros's cosmology — where the gods' constellations are woven directly into mortal flesh. The constellation sparkles on the creature's torso visible in the card art are the visual embodiment of this mechanic. [Scryfall: type_line='Enchantment Creature — Beast'; MTG Wiki: Theros]",
+      "sources": ["Scryfall API: type_line", "MTG Wiki: Nylea"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Nylea, God of the Hunt", "set": "Theros", "note": "Nylea's original god card; also grants trample to all creatures"},
+    {"name": "Nylea, Keen-Eyed", "set": "Theros Beyond Death", "note": "Nylea's THB god card; creature cost reduction + draw ability"},
+    {"name": "Nylea's Colossus", "set": "Theros Beyond Death", "note": "Another Nylea-associated THB creature; constellation trigger"},
+    {"name": "Bow of Nylea", "set": "Theros", "note": "Nylea's divine weapon card; MTG Wiki lists it as her associated artifact"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

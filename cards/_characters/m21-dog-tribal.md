@@ -17,6 +17,7 @@ appears_on:
   - magic-the-gathering/core-set-2021/30-rambunctious-mutt
   - magic-the-gathering/core-set-2021/131-bolt-hound--foil
   - magic-the-gathering/core-set-2021/137-chandra-s-magmutt
+  - magic-the-gathering/core-set-2021/2-alpine-watchdog
 related_hubs: []
 related_symbols: []
 related_characters:
@@ -41,6 +42,7 @@ The cohort is BBL-relevant for two interlocking reasons. (1) It is the in-canon 
 - **Rambunctious Mutt** (M21-30, C, Campbell White art) — `{3}{W}{W}` 3/4 Dog with ETB destroy target artifact/enchantment. The set's mischief-and-comedy beat: shaggy white dog rearing up on hind legs mid-bark in a cluttered indoor room, flavor text *"Emphatic words with powerful gestures. Clearly this was playtime."* The card's trivia bullet cites Rosewater's "But Wait, There's Core" verbatim including the "small dog tribal theme" framing.
 - **Bolt Hound** (M21-131, U, Forrest Imel art) — `{2}{R}` 2/2 Elemental Dog with Haste and attack-trigger team-pump. The set's elemental-aggro beat: lightning-wreathed black hound mid-charge, sparks erupting from its paws, flavor text *"Its spark is worse than its bite."* The card's trivia bullet cites the Hound-to-Dog rename and notes the type-line "Elemental Dog" is contemporaneous with the rename — Bolt Hound is one of the cards printed natively-Dog from day one rather than retroactively-errata'd.
 - **Chandra's Magmutt** (M21-137, C, Kimonas Theodossiou art) — `{1}{R}` 2/2 Elemental Dog with tap-pinger. The set's pyromancer-companion beat: fire-bodied dog standing alert in a smoke-choked void, paired with Chandra's Pyreling (M21-138) as the set's two named Chandra-companion creatures. Already wired to `[[chandra-nalaar]]` via the possessive-title cycle convention; ALSO a member here through M21 dog tribal subtheme membership. The card's trivia bullet cites Rosewater's article verbatim. **Dual-pointer card** — `characters: [chandra-nalaar, m21-dog-tribal]`.
+- **Alpine Watchdog** (M21-2, C, Forrest Imel art) — `{1}{W}` 2/2 Dog with Vigilance. The set's mountain-rescue beat: a fluffy black-and-white alpine guardian standing alert on a snowy ridge at dawn, flavor text *"On the eighth day, a blizzard hit. Supplies were lost, and morale plummeted. On the ninth day, Dover found us." — To the Summit: A Tale of Survival* — frames the vigilance mechanic as search-and-rescue and names the depicted dog (Dover). Forrest Imel also illustrated Bolt Hound; both prints are in the cohort. The card sits inside a designer-coordinated named tri-cluster with Alpine Houndmaster (M21-215, whose ETB tutors for "a card named Alpine Watchdog and/or a card named Igneous Cur") and Igneous Cur (M21-153) — an unusual level of inter-card nominal linkage inside an already-tribal set. The card's trivia bullet 1 cites Rosewater's "But Wait, There's Core" verbatim including the 24-year design history.
 
 ## Canonical roster
 
@@ -54,10 +56,10 @@ The cohort's full canonical membership rests on Rosewater's "six canine creature
 | 131 | Bolt Hound | Creature — Elemental Dog | R | strict: Scryfall `s:m21 t:dog`; M21 native Dog-type print | yes |
 | 137 | Chandra's Magmutt | Creature — Elemental Dog | R | strict: Scryfall `s:m21 t:dog`; one of two named Chandra-companion creatures in M21 | yes |
 | 138 | Chandra's Pyreling | Creature — Elemental Lizard | R | excluded: not a Dog type-line; reptilian companion archetype; outside the dog cohort despite the named-Chandra-companion pairing with Magmutt | no |
-| 2 | Alpine Watchdog | Creature — Dog | W | strict: Scryfall `s:m21 t:dog`; M21 native Dog-type print; in corpus but pre-enrichment (vision not yet passed) | yes (vision pending) |
+| 2 | Alpine Watchdog | Creature — Dog | W | strict: Scryfall `s:m21 t:dog`; M21 native Dog-type print; vision + trivia complete (wave 204), attached wave 205 | yes |
 | 278 | Rin and Seri, Inseparable | Legendary Creature — Dog Cat | RGW | strict: the buy-a-box promo capstone uniting the Dog and Cat types; Rosewater names it as the cycle anchor | no |
 
-Eight Scryfall-confirmed M21 native-Dog-type creatures plus the multicolored capstone. Four of the eight are currently in BBL corpus (Selfless Savior, Rambunctious Mutt, Bolt Hound, Chandra's Magmutt) AND enriched + trivia-passed; one (Alpine Watchdog) is in corpus but pre-enrichment and will be re-evaluated for membership-attachment once vision + trivia complete. The buy-a-box capstone Rin and Seri Inseparable and the rare dog lord Pack Leader are Scryfall-confirmed cohort members not yet acquired into corpus; both would attach here on acquisition without re-running the canonical-source check.
+Eight Scryfall-confirmed M21 native-Dog-type creatures plus the multicolored capstone. Five of the eight are currently in BBL corpus AND enriched + trivia-passed + cohort-attached: Selfless Savior, Rambunctious Mutt, Bolt Hound, Chandra's Magmutt, and Alpine Watchdog (attached wave 205). The buy-a-box capstone Rin and Seri Inseparable and the rare dog lord Pack Leader are Scryfall-confirmed cohort members not yet acquired into corpus; both would attach here on acquisition without re-running the canonical-source check.
 
 ## The design thesis
 
@@ -78,6 +80,7 @@ For BBL the cohort anchors a `[[labor]]`-adjacency through Selfless Savior's fla
 - [[30-rambunctious-mutt]]
 - [[131-bolt-hound--foil]]
 - [[137-chandra-s-magmutt]]
+- [[2-alpine-watchdog]]
 
 ## Canonical sources
 
@@ -94,7 +97,6 @@ For BBL the cohort anchors a `[[labor]]`-adjacency through Selfless Savior's fla
 - **Membership-bounded by Rosewater confirmation + Scryfall-native-Dog-type.** Cards that are M21-printed and Dog-adjacent but NOT native Dog-type (e.g. Pack Leader's Selfless Savior token is a different card-object; Chandra's Pyreling is Elemental Lizard not Elemental Dog) are deliberately excluded. Cards retroactively errata'd from Hound to Dog (Isamaru, Hound of Konda; Vampire Hound; Hunting Hound; etc.) are excluded because they predate M21 and their cohort-membership is the *retroactive* errata target, not the native-print cohort. This node is specifically the *first-generation native-print cohort* — the cards that landed the new vocabulary in their original printing.
 - **Distinct from the Blackwell-register lair seed.** Rambunctious Mutt is also part of Alex's personal Blackwell-register Discrete Lair seed (sketchbook.md, cozy M21 commons that hit Alex's pack-opening nostalgia at the Blackwell house) — but those two memberships do not collide. The Blackwell register is a *bundle-tier feeling-seed* (felt-not-detected, era-bounded to Theros/ELD/Ikoria/M21, joinable only by Alex's manual flag — see `bbl-blackwell-register-lair-seed` memory and `bbl-zodiac-cells-are-not-nodes` discipline) and is explicitly NOT a graph node. This node is the *designer-confirmed M21 dog tribal cohort* — a separate, structurally-distinct claim grounded in Rosewater's Making Magic article. A Rambunctious Mutt card can be in BOTH the sketchbook seed AND this node because they are different epistemic objects.
 - **Chandra's Magmutt is a dual-pointer card.** It edges here (M21 dog tribal membership) AND to `[[chandra-nalaar]]` (named Chandra-companion possessive-title cycle). The dual membership is canonical and intended: the same card can carry multiple real edges per Potion-rule discipline as long as each edge has independent canonical grounding. The Chandra-companion edge already existed before this node was authored; the dog-tribal edge added in this pass does not subsume or replace it.
-- **Alpine Watchdog (M21-2) is in corpus but pre-enrichment.** It will be re-evaluated for membership-attachment when vision + trivia complete. The card is Scryfall-confirmed strict-cohort, but per Edgelord discipline (never edge an un-enriched card) the attach is deferred to a future pass.
 - **The Hound-to-Dog rename's broader scope is NOT the cohort.** The rename also retroactively-errata'd dozens of pre-M21 cards (Isamaru, Vampire Hound, etc.); those cards inherit the new vocabulary but do not belong to this node. If a future broader `dog-creature-type-history` symbol or hub is commissioned, those retroactive cards would attach there; this node is specifically the M21 first-generation native-print cohort.
 
 ## See also

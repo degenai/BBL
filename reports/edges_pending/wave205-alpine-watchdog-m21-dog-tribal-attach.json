@@ -1,0 +1,61 @@
+{
+  "wave": 205,
+  "task_profile": "orphan-mirror",
+  "operation": "three-sided attach (single card)",
+  "cohort_slug": "m21-dog-tribal",
+  "cohort_path": "cards/_characters/m21-dog-tribal.md",
+  "batch_size": 1,
+  "accepted": [
+    {
+      "card_path": "cards/magic-the-gathering/core-set-2021/2-alpine-watchdog.md",
+      "card_name": "Alpine Watchdog",
+      "set": "Core Set 2021",
+      "collector_number": "2",
+      "archetype_slot": "first-generation M21 native Dog-type print — white loyalty-and-rescue beat (mountain-rescue register)",
+      "bullet_text_summary": "Alpine Watchdog as first-generation M21 native Dog-type print + white loyalty-and-rescue beat; flavor text names depicted dog as Dover, search-and-rescue agent; Forrest Imel shared with Bolt Hound; tri-cluster context with Alpine Houndmaster + Igneous Cur; trivia bullet 1 cites Rosewater 'But Wait, There's Core' verbatim.",
+      "wikilink_count": 1,
+      "wikilink_targets": ["m21-dog-tribal"],
+      "backtick_refs": ["131-bolt-hound--foil"],
+      "citation_chain": [
+        "Scryfall type_line: Creature — Dog (card frontmatter, oracle_text + type_line confirmed)",
+        "Scryfall flavor_text: 'On the eighth day, a blizzard hit. Supplies were lost, and morale plummeted. On the ninth day, Dover found us.' — *To the Summit: A Tale of Survival* (card frontmatter)",
+        "Wizards of the Coast — Mark Rosewater, 'But Wait, There's Core,' Making Magic, 2020-06-15 (cited verbatim in card trivia bullet 1; parity with the 4 prior anchors)",
+        "Scryfall: Alpine Houndmaster oracle_text all_parts cluster (cited in card trivia bullet 2 for the named tri-cluster)",
+        "Cohort body archetype-slot prose (white loyalty-and-rescue beat established by Selfless Savior; cuter-side register from Rosewater article)"
+      ]
+    }
+  ],
+  "deferred": [],
+  "shape": {
+    "card_frontmatter": {
+      "field_added": "characters: [m21-dog-tribal]",
+      "field_placement": "after artist, before art_crop_image"
+    },
+    "card_body": {
+      "section_added": "## Connections",
+      "placement": "after ### Related cards block, end of body",
+      "wikilink_discipline": "exactly one [[m21-dog-tribal]] per bbl-wikilink-scope-shift; sibling reference 131-bolt-hound--foil in backticks"
+    },
+    "cohort_frontmatter": {
+      "appears_on_added": "magic-the-gathering/core-set-2021/2-alpine-watchdog"
+    },
+    "cohort_body": {
+      "appears_on_block_regenerated": true,
+      "roster_paragraph_updated": "4 of 8 → 5 of 8 enriched+attached",
+      "roster_table_row_57_updated": "vision pending → vision + trivia complete (wave 204), attached wave 205",
+      "cards_in_corpus_section_added": "Alpine Watchdog (M21-2, C, Forrest Imel art) bullet appended after Chandra's Magmutt",
+      "caveat_removed": "Alpine Watchdog pre-enrichment caveat (line 97) cleared — superseded by attach"
+    }
+  },
+  "anti-confab_check": {
+    "role_vs_identity": "n/a — Alpine Watchdog is a generic Dog creature card (Dover is named in flavor text but is not a recurring named lore character outside this card; named-tri-cluster context is mechanical not identity-claim)",
+    "potion_rule": "n/a — no apparatus-of-extraction / labor / rebellion / stewardship projection; cohort body already grounds the labor-adjacency thesis at cohort level via Selfless Savior canonical evidence, not projected onto this card",
+    "wikilink_scope_shift": "respected — exactly one [[m21-dog-tribal]] wikilink in the new ## Connections bullet; cohort-sibling 131-bolt-hound--foil referenced in backticks per bbl-wikilink-scope-shift (wave-195 rule)",
+    "vision_section_not_cited": "respected — bullet draws on art subject (alpine guardian on snowy ridge at dawn) but anchored in card frontmatter (flavor_text, type_line, artist) rather than vision-section prose"
+  },
+  "post_attach_state": {
+    "cohort_appears_on_count": 5,
+    "cohort_roster_complete_in_corpus": "5 of 8 (62.5%)",
+    "remaining_canonical_members_not_in_corpus": ["Pack Leader (M21-28)", "Rin and Seri, Inseparable (M21-278)", "and 1 other"]
+  }
+}

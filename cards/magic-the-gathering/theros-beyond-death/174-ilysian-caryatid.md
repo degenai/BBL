@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - treefolk
+  - nature
+  - forest
+  - greek-mythology
+  - afterlife
+  - paradise
+  - giant
+  - tree
+  - bird
+  - cliff
+  - ancient-architecture
+  - serenity
+  - underworld
+tags_filter:
+  - solo
+  - wide
+  - portrait
+  - forward-facing
+  - creature-creature
+  - green-magic
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/174-ilysian-caryatid.png
 average_cost_paid: 0
 market_price: 0.22
@@ -34,6 +53,9 @@ oracle_text: "{T}: Add one mana of any color. If you control a creature with pow
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: day
+setting: mountain
 tags:
   - card
   - manual-review
@@ -42,12 +64,19 @@ tags:
 
 ## Vision
 
-> ⚠ **Manual review needed.** Art match is uncertain — visual specifics in this analysis may not reflect the printing you actually own. Tags below are provisional.
+![174-ilysian-caryatid](../../_images/magic-the-gathering/theros-beyond-death/174-ilysian-caryatid.png)
 
+A large humanoid figure composed entirely of living wood and bark stands upright on a rocky clifftop, arms extended wide like the branches of a tree. The figure's form clearly merges with the tree growing from its torso and head, with leafy canopy spreading above. A small red bird perches on the outstretched branch-arm to the left. The figure's lower body blends with the stone and earth of the cliff edge. Behind and below, misty golden-white light fills a vast open valley dotted with towering Greek-style architecture — columns, temples, and city structures rising on distant cliffs and plateaus. A starry or glimmering sky peeks above the pale clouds. The overall atmosphere is serene, radiant, and mythic, evoking a paradise or heroic afterlife realm consistent with the flavor text's description of Ilysia.
 
-**Subject:** 
+**Subject:** A treefolk or dryad figure whose body is formed of bark and living wood stands on a clifftop with arm-branches outstretched, a small bird perched on one branch; gleaming Greek-style city architecture rises on cliffs behind
 
-**Composition:** figures: , facing: 
-**Setting:** 
-**Mood / lighting:**
+**Composition:** wide, portrait, figures: solo, facing: forward
+**Setting:** mountain, day, calm
+**Foreground:** Bark-and-wood humanoid treefolk figure standing on rocky cliff edge, leafy canopy overhead, small red bird on outstretched arm  *(palette: golden-brown, warm-tan, green, grey)*
+**Background:** Misty golden valley with white stone Greek architecture on clifftops, pale sky  *(palette: white, gold, pale-blue, warm-grey)*
+**Mood / lighting:** sublime, soft
+**Emotion read:** serene and expansive; arms open in a posture of offering or welcome
+**Creatures:** treefolk, dryad, bird
+**Iconography:** greek-columns, temple
+**Genre cues:** fantasy, greek-mythology
 

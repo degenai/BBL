@@ -41,6 +41,8 @@ reference_image_source_url: https://cards.scryfall.io/png/front/c/3/c392a7e5-6ff
 art_match_confidence: high
 needs_manual_review: false
 artist: Forrest Imel
+characters:
+  - m21-dog-tribal
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/2-alpine-watchdog--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/c/3/c392a7e5-6ff5-4c2f-9590-f8811a724f44.jpg?1594734679
 flavor_text: "\\\"On the eighth day, a blizzard hit. Supplies were lost, and morale plummeted. On the ninth day, Dover found us.\\\"\\n—*To the Summit: A Tale of Survival*"
@@ -87,4 +89,8 @@ A large, long-haired black-and-white dog stands in a confident, watchful posture
 - Bolt Hound (Core Set 2021, no. 131) — M21 Dog also illustrated by Forrest Imel; fellow beneficiary of the Hound-to-Dog rename
 - Selfless Savior (Core Set 2021, no. 36) — M21 white Dog staple; cohort context
 - Rambunctious Mutt (Core Set 2021, no. 30) — M21 white Dog with lifegain; same-set dog package
+
+## Connections
+
+- [[m21-dog-tribal]] — Alpine Watchdog is a first-generation M21 native Dog-type print (type-line `Creature — Dog`, Scryfall `s:m21 t:dog`-confirmed) and a white loyalty-and-rescue beat in the cohort. Its flavor text *"On the eighth day, a blizzard hit. Supplies were lost, and morale plummeted. On the ninth day, Dover found us." — To the Summit: A Tale of Survival* names the dog (Dover) as a search-and-rescue agent locating a lost mountaineering party, landing the cohort's *dog-as-loyal-companion* register cleanly against the art direction's documented "cuter side" instruction. Forrest Imel's art (shared with cohort anchor `131-bolt-hound--foil`) and trivia bullet 1's verbatim Rosewater "But Wait, There's Core" citation lock the rename-receipt parity with the existing four anchors `[cohort body archetype-slot prose; Scryfall flavor_text]`
 

@@ -1,0 +1,47 @@
+{
+  "card_name": "Glory Bearers",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "17",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Set context: Theros Beyond Death (January 24, 2020) is the 83rd Magic expansion and a return to the Greek-mythology-inspired plane of Theros, set primarily in its Underworld. The set's central narrative follows Elspeth Tirel escaping the Underworld after being murdered by Heliod at the end of the original Theros block. [Scryfall set page: thb; Wizards of the Coast story summary 2020-01-10]",
+      "sources": ["Scryfall API: set_name=Theros Beyond Death, released_at=2020-01-24", "Wizards of the Coast: Theros Beyond Death Story Summary 2020-01-10"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Heliod lore: Heliod, Sun-Crowned is Glory Bearers' god. Per MTG Wiki, Heliod presided over law, justice, retribution, and the bonds of kinship on Theros; his devoted worshipers were mainly humans and Lagonna Band centaurs who worshipped him on the first clear-skied morning of every month. During the THB storyline, Heliod is defeated by Elspeth and imprisoned beneath a giant boulder in the Underworld by Erebos. [MTG Wiki: Heliod, retrieved via curl 2026-05-26]",
+      "sources": ["MTG Wiki: Heliod (mtg.wiki/page/Heliod)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"We are bearers of the ancient light, keepers of sun-crowned Heliod's blessings. Fight, and the light will protect you!\" The epithet 'sun-crowned' is Heliod's canonical THB-era title, matching the god card Heliod, Sun-Crowned (THB 18). The flavor speaker is an unnamed Heliod devotee, consistent with the card's Human Cleric type. [Scryfall: flavor_text field, card thb/17]",
+      "sources": ["Scryfall API: flavor_text, card id 8a70e1be-f04a-43c1-8fca-205a24e3db38"]
+    },
+    {
+      "category": "design",
+      "text": "Card type and reprint history: Glory Bearers is an Enchantment Creature — Human Cleric (3/4), part of THB's signature enchantment-creature frame design where the enchantment subtype signals Nyx-born or divinely marked status. The card has been reprinted twice: Jumpstart 2022 (December 2, 2022, collector no. 191) and Foundations Jumpstart (November 15, 2024, collector no. 203). Illustrated by Tyler Walpole, who contributed 8 cards to the THB set. [Scryfall prints search via oracle ID 8f446660; Gatherer: J25 entry]",
+      "sources": ["Scryfall API: prints_search for oracle_id 8f446660-f72a-454f-bc96-3b6dd8633228", "Gatherer: Glory Bearers J25 en-us/203"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Mechanical reputation: Glory Bearers grants +0/+1 to each other attacking creature until end of turn, functioning as a passive defensive pump that makes all your attackers harder to trade with. EDHREC rank 25,396 places it in the lower end of Commander inclusion; it is a common legal in Pauper and Pauper Commander. Its primary homes are weenie-attack enchantment-creature decks themed around Heliod and the Theros pantheon. [Scryfall: edhrec_rank=25396, legalities.pauper=legal]",
+      "sources": ["Scryfall API: edhrec_rank, legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Heliod, Sun-Crowned", "set": "Theros Beyond Death", "note": "The god named in Glory Bearers' flavor text; THB 18"},
+    {"name": "Daxos, Blessed by the Sun", "set": "Theros Beyond Death", "note": "Heliod's demigod champion in THB lore; Heliod cult adjacent"},
+    {"name": "Heliod's Punishment", "set": "Theros Beyond Death", "note": "Another Heliod-cult white card from THB with sun-cult flavor"},
+    {"name": "Heliod's Pilgrim", "set": "Magic 2015", "note": "Earlier Heliod devotee creature; aura-fetching Cleric precedent"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
