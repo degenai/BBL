@@ -1,0 +1,41 @@
+{
+  "card_name": "Cyclops Superconductor",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "182",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Energy counters originated in Kaladesh (2016). MH3 recontextualized energy as 'the power of the Roil' on Zendikar, decoupling the resource from its Kaladesh-technology flavor and applying it across multiple planes and creature types. [magic.wizards.com: 'Modern Horizons 3 Mechanics']",
+      "sources": ["magic.wizards.com: Modern Horizons 3 Mechanics (via WebFetch)"]
+    },
+    {
+      "category": "design",
+      "text": "Cyclops Superconductor packs three distinct mechanical roles onto a single common: Prowess, an enter-the-battlefield energy bank (three counters), and a conditional death-trigger damage spell. This design density — triple-function on a common 2/2 for {1}{U}{R} — is notable for the rarity. [Scryfall; MTG Arena Zone]",
+      "sources": ["Scryfall (frontmatter canonical capture)", "mtgazone.com: Cyclops Superconductor card page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC tracks approximately 2,990 Commander decks including Cyclops Superconductor. It occupies a modest niche in energy-based Commander builds, where sacrifice enablers can bank the entry energy and weaponize the death-trigger. [EDHREC: cyclops-superconductor via WebSearch]",
+      "sources": ["EDHREC: cyclops-superconductor card page (via WebSearch snippet)"]
+    },
+    {
+      "category": "design",
+      "text": "Cyclops Wizard is a rare type combination. MTG cyclops have historically been red-green aggressive creatures; the Wizard subtype here signals cross-archetype synergies (Wizard payoffs, energy synergies, prowess triggers) consistent with MH3's layered creature-type design philosophy. [Scryfall type line via WebSearch]",
+      "sources": ["Scryfall type line (via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Reiterating Bolt", "set": "Shadowmoor", "note": "EDHREC frequent co-inclusion in Cyclops Superconductor energy builds"},
+    {"name": "Smelted Chargebug", "set": "Modern Horizons 3", "note": "EDHREC frequent energy co-inclusion"},
+    {"name": "Tempest Harvester", "set": "Modern Horizons 3", "note": "EDHREC frequent co-inclusion in energy builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

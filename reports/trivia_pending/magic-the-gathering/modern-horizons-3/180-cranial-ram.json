@@ -1,0 +1,53 @@
+{
+  "card_name": "Cranial Ram",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "180",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Modern Horizons 3 (released June 14, 2024) skips Standard and injects new and returning mechanics directly into Modern and eternal formats. MH3 draws from multiple planes and eras, enabling design experiments like colored equipment. [magic.wizards.com/en/products/modern-horizons-3]",
+      "sources": ["magic.wizards.com: Modern Horizons 3 product page"]
+    },
+    {
+      "category": "design",
+      "text": "Living weapon originated in Mirrodin Besieged (2011) and had previously appeared only on colorless artifacts. Cranial Ram is among the first colored living weapons ever printed. All MH3 living weapons also use the updated 'Phyrexian Germ' token name, reflecting a rules errata applied starting in Modern Horizons 2. [Living weapon - MTG Wiki via WebSearch]",
+      "sources": ["Living weapon – MTG Wiki (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cranial Ram was pre-banned in Pauper by the Pauper Format Panel before MH3's official release — the fifth Pauper ban tied to the Affinity archetype (joining Atog, Disciple of the Vault, Sojourner's Companion, and All That Glitters). Gavin Verhey noted this was exceptional and not precedent-setting for other formats. [Star City Games; The Gamer]",
+      "sources": [
+        "Star City Games: 'Cranial Ram Banned In Pauper Before Release Of Modern Horizons 3'",
+        "The Gamer: 'MTG Bans Cranial Ram From Pauper Before Modern Horizons 3 Launch'"
+      ]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"To ensure proper fit, the mandibles can be inserted directly into the ears.\" — no attributed speaker. [Scryfall]",
+      "sources": ["Scryfall (frontmatter canonical capture)"]
+    },
+    {
+      "category": "design",
+      "text": "Allen Williams, who illustrated Cranial Ram, is a horror and dark-fantasy specialist credited on MTG cards since the mid-1990s (also as 'L.A. Williams' on early printings). He is known for creature-horror illustration and collaborated with director Guillermo del Toro. [Hipsters of the Coast: Illuxcon Preview—Showcase; allenwilliamsstudio.com]",
+      "sources": [
+        "Hipsters of the Coast: 'Illuxcon Preview—Showcase' (2018)",
+        "allenwilliamsstudio.com"
+      ]
+    }
+  ],
+  "related_cards": [
+    {"name": "Nettlecyst", "set": "Modern Horizons 2", "note": "colorless predecessor living weapon with near-identical artifact-count power scaling"},
+    {"name": "Cranial Plating", "set": "Fifth Dawn", "note": "the Pauper-banned artifact whose function Cranial Ram echoes, prompting the pre-ban"},
+    {"name": "Mandibular Kite", "set": "Modern Horizons 3", "note": "EDHREC frequent co-inclusion in artifact-equipment builds"},
+    {"name": "Colossal Dreadmask", "set": "Modern Horizons 3", "note": "another colored living weapon from MH3, same design cycle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

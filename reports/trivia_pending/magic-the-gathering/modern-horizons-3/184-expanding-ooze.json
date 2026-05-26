@@ -1,0 +1,53 @@
+{
+  "card_name": "Expanding Ooze",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "184",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "suspected_ip field was empty string; ip_verified field left as-is per spec (triviabot does not clean up empty-suspected-ip edge cases).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Expanding Ooze's flavor text attributes its growth to consuming 'royal garbage,' placing it in an unnamed urban setting with a named noble (Prince Bolbuss). Prince Bolbuss does not appear in any other known MTG card or official lore source as of MH3's release, making this his sole canonical appearance. [Scryfall; WebSearch: no additional Bolbuss lore found]",
+      "sources": ["Scryfall (frontmatter canonical capture)", "WebSearch: no Bolbuss lore found beyond this card"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"It eats the royal garbage. Of course it's growing!\" — Prince Bolbuss. [Scryfall]",
+      "sources": ["Scryfall (frontmatter canonical capture)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Expanding Ooze holds approximately 46% inclusion in ooze-tribal Commander decks tracked on EDHREC, with 2,504 total decks. Its counter-on-attack ability targeting any modified creature (not just itself) makes it a support piece under ooze commanders like Xavier Sal and Morophon. [EDHREC: expanding-ooze; EDHREC: oozes tribal page]",
+      "sources": [
+        "EDHREC: expanding-ooze card page (via WebSearch snippet)",
+        "EDHREC: oozes tribal page (via WebSearch)"
+      ]
+    },
+    {
+      "category": "design",
+      "text": "Randy Gallegos has illustrated over 220 MTG cards spanning nearly three decades, with additional credits on the Middle-earth Collectible Card Game. He is among the most prolific artists in Magic's history. [gatherer.wizards.com artist page via WebSearch; artofmtg.com: Randy Gallegos]",
+      "sources": [
+        "gatherer.wizards.com artist page (via WebSearch snippet)",
+        "artofmtg.com: Randy Gallegos"
+      ]
+    },
+    {
+      "category": "design",
+      "text": "Expanding Ooze combines adapt (from Ravnica Allegiance's Simic mechanic, reused in MH3) with the 'modified creature' condition introduced in Kamigawa: Neon Dynasty, allowing it to function in broad {B}{G} modified decks beyond ooze-tribal contexts. [Scryfall oracle text]",
+      "sources": ["Scryfall oracle text (frontmatter canonical capture)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Biogenic Ooze", "set": "Ravnica Allegiance", "note": "ooze lord with adapt origins; ooze-tribal staple in same color identity"},
+    {"name": "Xavier Sal, Infested Captain", "set": "The Lost Caverns of Ixalan", "note": "EDHREC ooze commander whose average build lists Expanding Ooze"},
+    {"name": "Primordial Ooze", "set": "Legends", "note": "long-standing ooze-tribal anchor"},
+    {"name": "Ooze Garden", "set": "Morningtide", "note": "ooze generation engine in tribal builds"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

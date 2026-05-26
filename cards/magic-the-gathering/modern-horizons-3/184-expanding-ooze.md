@@ -82,3 +82,17 @@ A large mass of vivid translucent green slime erupts from the left side of the f
 **Iconography:** slime, alley, overtaken figure
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context** — Modern Horizons 3 does not follow a single-plane storyline; its cards depict scenes across multiple planes and unnamed worlds. Expanding Ooze's flavor text attributes its growth to consuming "royal garbage," placing it in an unnamed urban setting with a named nobility (Prince Bolbuss). Prince Bolbuss does not appear in any other known MTG card or official lore source as of MH3's release, making this card his sole canonical appearance `[Scryfall; WebSearch: no additional Bolbuss lore found]`.
+- **Flavor text** — `"It eats the royal garbage. Of course it's growing!"` — Prince Bolbuss `[Scryfall]`. The quote frames the ooze as a civic nuisance enabled by aristocratic neglect — waste management as unintended monster-cultivation.
+- **Mechanical reputation — ooze tribal** — Expanding Ooze holds approximately 46% inclusion in ooze-tribal Commander decks tracked on EDHREC, with 2,504 total decks. Its counter-on-attack ability that targets any modified creature (not just itself) makes it a support piece in counter-synergy ooze lists under commanders like Xavier Sal (Infested Captain) and Morophon (Ooze) `[EDHREC: expanding-ooze; EDHREC: oozes tribal page via WebSearch]`.
+- **Design — artist** — Randy Gallegos has illustrated over 220 MTG cards spanning nearly three decades of the game, with additional credits on the Middle-earth Collectible Card Game. He is among the most prolific artists in Magic's history `[gatherer.wizards.com artist page via WebSearch; artofmtg.com: Randy Gallegos]`.
+- **Design — adapt + modified** — Expanding Ooze combines two counter-growth mechanics: adapt (from Ravnica Allegiance's Simic, reused in MH3) and the "modified creature" condition introduced in Kamigawa: Neon Dynasty. Both trigger counter accumulation, allowing the ooze to function in broad {B}{G} modified decks beyond ooze-tribal contexts `[Scryfall oracle text]`.
+
+### Related cards
+- Biogenic Ooze (Ravnica Allegiance, no. 122) — ooze lord with adapt origins; ooze-tribal staple in the same color identity
+- Xavier Sal, Infested Captain (The Lost Caverns of Ixalan) — EDHREC ooze commander listing Expanding Ooze in average build `[EDHREC: xavier-sal average deck via WebSearch]`
+- Primordial Ooze (Legends, no. 162) — long-standing ooze-tribal anchor `[EDHREC: oozes page via WebSearch]`
+- Ooze Garden (Morningtide, no. 122) — ooze generation engine in tribal builds `[EDHREC: ooze-garden via WebSearch]`
+

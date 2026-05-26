@@ -1,0 +1,45 @@
+{
+  "card_name": "Cursed Wombat",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "181",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Wombat is one of Magic's rarest creature types. Introduced on Rabid Wombat in the 1994 set Legends, the type vanished from black-border cards until Cursed Wombat in MH3 — 30 years later. A silver-border detour came via Surgeon General Commander (Unsanctioned, 2020). MTG R&D designer Mark Gottlieb is noted for championing more wombat representation in Magic. [Wombat – MTG Wiki via WebSearch]",
+      "sources": ["Wombat – MTG Wiki via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Cursed Wombat is a Nightmare Wombat (2/3), making it simultaneously the type's first black-border return and its first Nightmare subtype. Its counter-proliferation ability functions similarly to Corpsejack Menace and Branching Evolution but deploys earlier at {2}{B}{G}. [Dexerto: 'MTG Modern Horizons 3's Cursed Wombat is a great Golgari counter booster']",
+      "sources": ["Dexerto: 'MTG Modern Horizons 3's Cursed Wombat is a great Golgari counter booster'"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Cursed Wombat has become a Pauper EDH commander staple heading counter-based {B}{G} decks. Community framing at Tuesday Night Takeover describes it as 'basically a different version of Pauper EDH legend Corpsejack Menace.' EDHREC tracks approximately 8,696 Commander decks including the card. [tuesdaynighttakeover.com: 'Cursed Wombat Counters Pauper EDH'; EDHREC: cursed-wombat]",
+      "sources": [
+        "tuesdaynighttakeover.com: 'Cursed Wombat Counters Pauper EDH'",
+        "EDHREC: cursed-wombat card page (via WebSearch)"
+      ]
+    },
+    {
+      "category": "mechanical",
+      "text": "Controlling multiple Cursed Wombats stacks the counter-trigger. Per Scryfall rulings: adapting one wombat with two copies in play results in non-redundant trigger stacking across every instance. [Scryfall rulings via WebSearch snippet]",
+      "sources": ["Scryfall rulings (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rabid Wombat", "set": "Legends", "note": "1994 origin of the Wombat type; 30-year predecessor"},
+    {"name": "Corpsejack Menace", "set": "Return to Ravnica", "note": "functional predecessor for the extra-counter effect; direct Pauper EDH comparison"},
+    {"name": "Branching Evolution", "set": "Jumpstart", "note": "stronger but more expensive doubling effect in the same strategic space"},
+    {"name": "Botanical Brawler", "set": "The Lost Caverns of Ixalan", "note": "EDHREC frequent synergy partner"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

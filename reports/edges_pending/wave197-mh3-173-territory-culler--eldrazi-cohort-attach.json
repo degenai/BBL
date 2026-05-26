@@ -1,0 +1,37 @@
+{
+  "edge_id": "wave197-mh3-173-territory-culler--eldrazi-cohort-attach",
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/173-territory-culler.md", "name": "Territory Culler (MH3-173)"},
+    {"type": "character", "path": "cards/_characters/eldrazi.md", "name": "Eldrazi (brood / faction-collective)"}
+  ],
+  "description": "Territory Culler is one of two wave-196 fresh-trivia MH3 cards still orphaned from the Eldrazi cohort despite canonical type-line Eldrazi membership. Picked it over Wumpus Aberration (the other orphan) because Territory Culler's evidence stack is denser: vision-pass independently identified Eldrazi iconography (bone-white, exposed-ribcage, trailing-tendrils, floating-rock background) AND the card's own trivia names a Wizards-canonical design first — *the only Eldrazi creature in MTG history to carry the Landfall keyword*, a deliberate Zendikar-imprisonment-plane callback inside the MH3 Eldrazi-resurgence brief. Three-sided attach completed in one invocation: card frontmatter (`characters: [eldrazi]` in block form per wave-92 YAML discipline), card body `## Connections` bullet (one `[[eldrazi]]` wikilink, schema citations in backticks per wave-195 EXACTLY-ONE-WIKILINK rule), and cohort node side (added to `appears_on:` frontmatter, inserted into auto-generated `## Appears on` rendered block, added a full body-prose entry between Twisted Riddlekeeper and Horrific Assault in the Cards-in-corpus roster, updated two prose counters from `nine MH3` → `ten MH3` and `twelve Eldrazi anchors` → `thirteen Eldrazi anchors in the body roster` to keep the body-as-canonical-count convention intact). Wumpus Aberration deferred to next wave per one-edge-per-invocation discipline.",
+  "citations": [
+    "[Scryfall: MH3-173 type_line \"Creature — Eldrazi\", oracle_text Devoid + Landfall]",
+    "[Scryfall search: type:eldrazi oracle:landfall — single result = Territory Culler, per the card's own Trivia entry]",
+    "[Wizards: Modern Horizons 3 design articles — Eldrazi-resurgence brief, already cited in the Eldrazi node body]",
+    "[MTG Wiki: Eldrazi — brood-iconography reference for bone-white pallid flesh + trailing tendrils + ribcage anatomy]",
+    "[In-corpus: cards/_characters/eldrazi.md — node-body thesis register for consumption-is-metabolism + scale-gradient register]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/modern-horizons-3/173-territory-culler.md",
+    "cards/_characters/eldrazi.md"
+  ],
+  "other_candidates_considered": [
+    "Wumpus Aberration (MH3-176) — equally orphaned, equally canonically Eldrazi-typed (first Eldrazi-typed Wumpus in the lineage per its own trivia), but weaker evidence stack because its vision pass identified only 'aberration, tentacles, bird' (no Eldrazi-iconography read) — only the Trivia surfaces the typing. Defer to next wave's slate as a clean parallel attach (predicate already established in this wave's body-prose entry pattern; can be drafted in ~5 minutes by a Sonnet triage).",
+    "Trickster's Elk (MH3-175) Oko cohort verify — already cleanly wired in wave-196 (card frontmatter `characters: [oko]`, body `## Connections` bullet pointing at `[[oko]]`, Oko node `appears_on:` populated, body-prose entry present). Audit confirms no gap. No further work.",
+    "Conduit Goblin (MH3-179) energy-counter verify — already cleanly wired (card frontmatter `symbols: [energy-counter]`, symbol node body roster includes the card with full prose entry, `appears_on:` populated, rendered block updated). No gap. No further work.",
+    "Mogg Mob / Goblin Arsonist 1:1 mirror verify — wave-196 sidecar `mogg-mob--goblin-arsonist--mogg-fanatic-self-sacrifice-lineage-mirror.json` was the prior pass; not re-audited this invocation but no signal of regression in the cards' Connections sections from a quick grep.",
+    "Aerie Auxiliary (MH3-18) — no existing aven/bird-warrior cohort node in the corpus; not enough corpus density yet for a Nodeley proposal (would need ≥3 corpus aven-warrior cards before clearing threshold). Defer; flag if more land.",
+    "Pre-existing Eldrazi node body↔frontmatter drift — body roster carries 12 entries pre-add (BFZ-23, 27, 49 + MH3-58, 64, 204, 210, 150, 206, 17, 14, 157) but frontmatter carries 14 (also includes BFZ-129 Kozilek's Sentinel + OGW-97 Immobilizer Eldrazi). Not in scope for this attach; surfaced as next_pass_suggestion."
+  ],
+  "next_pass_suggestions": [
+    "Attach Wumpus Aberration (MH3-176) to the Eldrazi cohort on the next normal Edgelord slot — same 3-sided pattern, weaker but still-valid evidence (Eldrazi typing + Devoid + first-Eldrazi-Wumpus designer-coordinated lineage extension). Body-prose entry should foreground the Wumpus-lineage continuity (Hunted Wumpus MMQ → Shivan Wumpus PLC → Wumpus Aberration MH3) rather than the cosmic-horror register, since its own vision pass didn't surface brood-iconography.",
+    "Pre-existing Eldrazi body↔frontmatter drift: BFZ-129 Kozilek's Sentinel and OGW-97 Immobilizer Eldrazi are in `appears_on:` but not in the 'Cards in our corpus pointing here (current)' body roster. Author body-prose entries for both on a future janitor pass to bring the body up to full coverage. After that fix the body counter would become 'fifteen Eldrazi anchors' (3 BFZ + 1 OGW + 11 MH3 after Wumpus also attaches).",
+    "Three new Pokemon vision cards flagged `suspected_ip` from wave 196 (Capsakid, Mantine, Bronzong) await trivia-pass IP verification per the IP-priority queue. Not Edgelord work; route to `bbl_trivia_queue.py --ip-priority`.",
+    "Future-watch (carried forward from wave 196): mogg-fanatic-lineage symbol node remains in deferred state — still waiting on a 4th self-sacrifice goblin to clear threshold. Goblin Arsonist + Mogg Mob is 2; would need 2 more corpus cards depicting the Mogg-Fanatic mechanical lineage (sacrifice for 1 damage) before Mr. Nodeley fires."
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

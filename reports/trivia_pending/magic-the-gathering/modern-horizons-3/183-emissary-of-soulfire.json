@@ -1,0 +1,48 @@
+{
+  "card_name": "Emissary of Soulfire",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "183",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Emissary of Soulfire introduces exalted as a keyword counter — described as 'probably the first keyword counter that actually benefits from being stacked up.' Each exalted counter triggers separately when a creature attacks alone, giving +1/+1 per instance. This makes it a scaling threat the more energy is invested. [Draftsim: 'Keyword Counters in MTG'; magic.wizards.com: 'Modern Horizons 3 Release Notes']",
+      "sources": [
+        "Draftsim: 'Keyword Counters in MTG: Rules, History, and Best Cards'",
+        "magic.wizards.com: 'Modern Horizons 3 Release Notes'"
+      ]
+    },
+    {
+      "category": "set-lore",
+      "text": "Exalted originated in Shards of Alara (2008) as the signature mechanic of the white-dominant Bant shard. Energy was once considered for Alara's Esper shard but was cut before release. MH3 accidentally reunites both mechanics as Emissary of Soulfire uses energy to place exalted counters — two mechanics that nearly shared a block. [WebSearch: MH3 Alara energy design history]",
+      "sources": ["WebSearch snippet: MH3 Alara energy design context"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Emissary of Soulfire appears in approximately 1,621 EDHREC Commander decks. It was featured in EDHREC's 'Top 10 Energy Payoffs' article, identifying its intended design role as an energy sink. [EDHREC: emissary-of-soulfire; EDHREC: 'Top 10 Energy Payoffs']",
+      "sources": [
+        "EDHREC: emissary-of-soulfire card page (via WebSearch snippet)",
+        "EDHREC: 'Top 10 Energy Payoffs' article"
+      ]
+    },
+    {
+      "category": "design",
+      "text": "Djinn Monk is a rare creature type pairing. Djinn in MTG are traditionally blue creatures from the Arabian Nights tradition; Monk is a white-blue keyword type. The combination anchors Emissary firmly in {W}{U} exalted-spiritual aesthetics while offering potential Monk-tribal synergy. [Scryfall type line]",
+      "sources": ["Scryfall type line (via WebSearch)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Noble Hierarch", "set": "Conflux", "note": "canonical exalted staple; stacks additively with Emissary of Soulfire exalted counters"},
+    {"name": "Sublime Archangel", "set": "Magic 2013", "note": "premier exalted granter; multi-instance exalted interaction explicitly noted in rules"},
+    {"name": "Rafiq of the Many", "set": "Shards of Alara", "note": "original Bant exalted commander; thematic ancestor of the mechanic"},
+    {"name": "Smelted Chargebug", "set": "Modern Horizons 3", "note": "energy payoff in the same set for cross-deck energy routing"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

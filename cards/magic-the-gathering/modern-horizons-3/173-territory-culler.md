@@ -39,6 +39,8 @@ art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: No reference image found via scryfall for set 'Modern Horizons 3'
 reference_image_source_url: https://cards.scryfall.io/png/front/9/c/9c249aa6-c65c-4572-8e2e-c3899638ecce.png?1717012610
+characters:
+  - eldrazi
 artist: Tiffany Turrill
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/173-territory-culler--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/c/9c249aa6-c65c-4572-8e2e-c3899638ecce.jpg?1717012610
@@ -88,4 +90,9 @@ The image shows a long, elongated alien creature mid-climb or suspended among th
 - Scion of Ugin (Magic Origins, no. 229) — Devoid-era colorless Eldrazi token producer; same frame era
 - Gitrog Monster (Shadows over Innistrad, no. 245) — the other major Landfall-centric commander archetype where Territory Culler's trigger is most powerful
 - Grazer (Modern Horizons 3) — another MH3 Eldrazi with Landfall synergy in the same set
+
+## Connections
+
+- [[eldrazi]] — cohort anchor; Territory Culler is typed Creature — Eldrazi with Devoid (the card is colorless despite its `{4}{G}` cost) and per its own trivia is the *only* Eldrazi creature in MTG history to carry the Landfall keyword — a designer-coordinated callback to the Zendikar imprisonment plane (the original setting where Nahiri, Sorin, and Ugin sealed the brood), printed eight years after the *Battle for Zendikar* block concluded as part of MH3's Eldrazi-resurgence brief. The vision pass independently identified bone-white pallid flesh, exposed-ribcage anatomy, trailing tendril-filaments, and floating-rock background formations — the canonical brood-iconography signature catalogued in the node body's *scale gradient* and *consumption-is-metabolism-not-malice* thesis. `[Scryfall: MH3-173 type_line "Creature — Eldrazi", oracle_text Devoid + Landfall]` `[Scryfall search: type:eldrazi oracle:landfall — single result]` `[Wizards: Modern Horizons 3 design articles — Eldrazi-resurgence brief]`
+
 

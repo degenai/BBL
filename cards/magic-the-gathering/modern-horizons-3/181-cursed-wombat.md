@@ -73,3 +73,16 @@ A low, wide-bodied animal crouches in a dark forest clearing. It is covered in d
 **Iconography:** skull-face motif, purple crystals
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Set context / creature type** — Wombat is one of Magic's rarest creature types. The type was introduced on Rabid Wombat in the 1994 set Legends, then went to silver-bordered exile on Surgeon General Commander (Unsanctioned, 2020). Cursed Wombat marks the return of Wombat to black-border Magic — 30 years after the original — and the type's first black-border appearance since Legends `[Wombat – MTG Wiki via WebSearch]`. MTG R&D designer Mark Gottlieb is noted for championing more wombat cards in the game `[Wombat – MTG Wiki via WebSearch]`.
+- **Design** — Cursed Wombat is a Nightmare Wombat (2/3), making it simultaneously the type's first black-border return and its first Nightmare subtype. Its counter-proliferation ability — granting every permanent you control an extra +1/+1 counter trigger once per turn — functions similarly to Corpsejack Menace and Branching Evolution but at a cheaper total mana cost (`{2}{B}{G}`), enabling earlier deployment in counter strategies `[Dexerto: "MTG Modern Horizons 3's Cursed Wombat is a great Golgari counter booster"]`.
+- **Mechanical reputation** — Cursed Wombat has found a notable home as a Pauper EDH commander, heading counter-based {B}{G} decks. Tuesday Night Takeover's dedicated Pauper EDH guide describes it as "basically a different version of Pauper EDH legend Corpsejack Menace" — lower ceiling but lower cost enables faster starts. EDHREC tracks approximately 8,696 Commander decks including the card `[EDHREC: cursed-wombat card page via WebSearch; tuesdaynighttakeover.com: "Cursed Wombat Counters Pauper EDH"]`.
+- **Rules note** — Controlling multiple Cursed Wombats stacks the counter-trigger on each permanent you control. Per Scryfall rulings: if two copies are in play and you adapt one, the resulting two +1/+1 counters trigger each granted ability from each Wombat, resulting in substantial counter acceleration that is not redundant `[Scryfall rulings via WebSearch snippet]`.
+
+### Related cards
+- Rabid Wombat (Legends, no. 165) — 1994 origin of the Wombat type; the 30-year predecessor
+- Corpsejack Menace (Return to Ravnica, no. 152) — functional predecessor for the "extra counter" effect; direct comparison in Pauper EDH discourse
+- Branching Evolution (Jumpstart, no. 159) — stronger but more expensive doubling effect in the same strategic space
+- Botanical Brawler (The Lost Caverns of Ixalan, no. 174) — EDHREC lists as frequent synergy partner `[EDHREC: cursed-wombat card page via WebSearch]`
+

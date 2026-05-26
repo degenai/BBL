@@ -72,3 +72,16 @@ A massive, muscular one-eyed humanoid dominates the frame, wearing what appears 
 **Creatures:** cyclops
 **Genre cues:** fantasy, sci-fi
 
+## Trivia
+
+- **Set context — energy recontextualized** — Energy counters were originally designed for Kaladesh (2016) as a resource representing that plane's technological civilization. Modern Horizons 3 brought energy back but reframed its flavor: the MH3 mechanics article describes energy in the set as representing "the power of the Roil" on Zendikar, divorcing the resource from its Kaladesh identity and applying it across different planes and creature types `[magic.wizards.com: "Modern Horizons 3 Mechanics"]`. Cyclops Superconductor is one of several commons in the set that generate energy on entry while also leveraging it for a death-trigger effect.
+- **Design — triple-function common** — Cyclops Superconductor packs three distinct mechanical roles onto a single common: Prowess (spellslinger pump), an enter-the-battlefield energy bank (three counters), and a conditional death-trigger damage spell (pay three energy to deal power-damage to any target). Combining all three on a common 2/2 for {1}{U}{R} is a notable design density for the rarity `[Scryfall; mtgazone.com]`.
+- **Mechanical reputation** — At approximately 2,990 EDHREC Commander decks, Cyclops Superconductor occupies a modest but functional niche in energy-based Commander builds. Its death-trigger synergizes with sacrifice-enabling commanders that can generate value from the energy bank on exit `[EDHREC: cyclops-superconductor via WebSearch]`.
+- **Creature type** — Cyclops Wizard is a relatively rare type combination. MTG cyclops have historically been red-green aggressive creatures; the Wizard subtype here reflects MH3's tendency to layer creature types to signal cross-archetype synergies (Wizard payoffs, energy synergies, prowess triggers) `[Scryfall type line via WebSearch]`.
+
+### Related cards
+- Negate (various) / Lightning Bolt (various) — noncreature spells that trigger Prowess; the card is designed as a spellslinger companion
+- Reiterating Bolt (Shadowmoor, no. 113) — EDHREC frequent co-inclusion per search snippet `[EDHREC via WebSearch]`
+- Smelted Chargebug (Modern Horizons 3) — EDHREC frequent co-inclusion in energy builds `[EDHREC via WebSearch]`
+- Tempest Harvester (Modern Horizons 3) — EDHREC frequent co-inclusion `[EDHREC via WebSearch]`
+

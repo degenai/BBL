@@ -72,3 +72,17 @@ An imposing insect-like creature dominates the frame, its dark blue-black carapa
 **Iconography:** maw, chitin, decay
 **Genre cues:** fantasy, horror, dark-fantasy, phyrexian
 
+## Trivia
+
+- **Set context** — Modern Horizons 3 (released June 14, 2024) is a Modern-legal set that skips Standard, injecting new and returning mechanics directly into eternal formats. Unlike Standard sets, MH3 draws from across Magic's history and multiple planes, allowing design experiments—including colored equipment—that Standard sets rarely attempt `[magic.wizards.com/en/products/modern-horizons-3]`.
+- **Design — first colored living weapon** — The living weapon keyword originated in Mirrodin Besieged (2011) and previously appeared only on colorless artifacts. Cranial Ram is among the first colored living weapons ever printed; MH3 was the first set to introduce colored living weapons as a design category `[Living weapon – MTG Wiki via WebSearch]`. All living weapons in MH3 also carry the updated token name "Phyrexian Germ," reflecting a rules errata applied starting in Modern Horizons 2 `[Living weapon – MTG Wiki via WebSearch]`.
+- **Mechanical reputation — pre-banned in Pauper** — The Pauper Format Panel banned Cranial Ram before MH3's official release date, making it only the fifth Pauper ban tied to the Affinity archetype (joining Atog, Disciple of the Vault, Sojourner's Companion, and All That Glitters). The PFP acted early to protect two major Pauper events: the Magic Online Creator Showdown (June 15) and Paupergeddon in Pisa, Italy. Principal Game Designer Gavin Verhey noted this pre-ban was exceptional and not intended as precedent for other formats `[Star City Games: "Cranial Ram Banned In Pauper Before Release Of Modern Horizons 3"; The Gamer: "MTG Bans Cranial Ram From Pauper Before Modern Horizons 3 Launch"]`.
+- **Flavor text** — "To ensure proper fit, the mandibles can be inserted directly into the ears." — no attributed speaker `[Scryfall]`. The text describes the equipment being fitted onto a host body — consistent with Phyrexian living-weapon lore in which biological and mechanical components are fused without consent.
+- **Design — artist** — Cranial Ram was illustrated by Allen Williams, a horror and dark-fantasy specialist who has contributed to MTG since the mid-1990s (also credited as "L.A. Williams" on early printings). Williams collaborated with Guillermo del Toro and is noted for his creature-horror work across fantasy illustration `[Hipsters of the Coast: "Illuxcon Preview—Showcase"; allenwilliamsstudio.com]`.
+
+### Related cards
+- Nettlecyst (Modern Horizons 2, no. 225) — colorless predecessor living weapon with near-identical artifact-count power scaling; direct functional predecessor
+- Cranial Plating (Fifth Dawn, no. 143) — the Pauper-banned artifact whose function Cranial Ram echoes, prompting the pre-ban
+- Mandibular Kite (Modern Horizons 3, no. 34) — EDHREC lists as a frequent co-inclusion with Cranial Ram in artifact-equipment builds `[EDHREC: cranial-ram card page]`
+- Colossal Dreadmask (Modern Horizons 3, no. 148) — another colored living weapon from MH3, same design cycle
+
