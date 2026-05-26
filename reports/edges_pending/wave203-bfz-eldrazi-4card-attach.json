@@ -1,0 +1,96 @@
+{
+  "wave": 203,
+  "task_profile": "orphan-mirror",
+  "cohort_slug": "eldrazi",
+  "cohort_path": "cards/_characters/eldrazi.md",
+  "batch_size": 4,
+  "attach_shape": "three-sided (card frontmatter characters: pointer + card body ## Connections wikilink + cohort appears_on: + cohort ## Appears on auto-gen regen)",
+  "wave201_continuity": "Subtype typology corrected in eldrazi.md body wave 201 (Drone 71 / Processor 11 creature cards + Scion / Spawn token-only); wave 203 attaches the four BFZ-block cards whose type-lines instantiate that typology cleanly.",
+  "accepted": [
+    {
+      "card_path": "cards/magic-the-gathering/battle-for-zendikar/54-adverse-conditions.md",
+      "archetype_slot": "Scion-token-generator at the spell tier (parallel branch to Drone-tier Scion-generators like Skyspawner)",
+      "scryfall_type_line_basis": "Instant — type_line is Instant (not Eldrazi-typed creature); generates Eldrazi Scion token via oracle text",
+      "bullet_anchor_quotes": [
+        "1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\" — Scryfall BFZ-54 oracle_text"
+      ],
+      "wikilinks_in_bullet": ["eldrazi"],
+      "backtick_refs_in_bullet": [],
+      "citations": ["Scryfall: BFZ-54 oracle_text", "cohort node: brood-lineage taxonomy paragraph"]
+    },
+    {
+      "card_path": "cards/magic-the-gathering/battle-for-zendikar/55-benthic-infiltrator.md",
+      "archetype_slot": "Drone-tier Ingest-source (load-bearing first half of BFZ-block design loop)",
+      "scryfall_type_line_basis": "Creature — Eldrazi Drone (one of 71 Drone-typed creature cards per cohort-body typology)",
+      "bullet_anchor_quotes": [
+        "Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.) — Scryfall BFZ-55 oracle_text"
+      ],
+      "wikilinks_in_bullet": ["eldrazi"],
+      "backtick_refs_in_bullet": ["56-cryptic-cruiser"],
+      "citations": ["Scryfall: BFZ-55 type_line, oracle_text", "cohort node: BFZ-block design signature paragraph"]
+    },
+    {
+      "card_path": "cards/magic-the-gathering/battle-for-zendikar/56-cryptic-cruiser.md",
+      "archetype_slot": "Processor-tier exile-consumer (load-bearing second half of BFZ-block design loop; closes the Ingest loop)",
+      "scryfall_type_line_basis": "Creature — Eldrazi Processor (one of 11 Processor-typed creature cards, BFZ-block almost exclusively)",
+      "bullet_anchor_quotes": [
+        "{2}{U}, Put a card an opponent owns from exile into that player's graveyard: Tap target creature. — Scryfall BFZ-56 oracle_text",
+        "The seas are no less imperiled than the dry lands. This fight is mine as much as it is yours. — Scryfall BFZ-56 flavor_text (speaker: Kiora to Gideon Jura)"
+      ],
+      "wikilinks_in_bullet": ["eldrazi"],
+      "backtick_refs_in_bullet": ["kiora", "55-benthic-infiltrator"],
+      "citations": ["Scryfall: BFZ-56 type_line, oracle_text, flavor_text", "cohort node: brood-lineage taxonomy + BFZ-block design signature"]
+    },
+    {
+      "card_path": "cards/magic-the-gathering/battle-for-zendikar/58-eldrazi-skyspawner.md",
+      "archetype_slot": "Drone-tier Scion-generator (parallel branch to Drone-tier Ingest-source like Benthic Infiltrator); occupies airborne slot of BFZ Drone roster",
+      "scryfall_type_line_basis": "Creature — Eldrazi Drone (one of 71 Drone-typed creature cards per cohort-body typology)",
+      "bullet_anchor_quotes": [
+        "a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\" — Scryfall BFZ-58 oracle_text"
+      ],
+      "wikilinks_in_bullet": ["eldrazi"],
+      "backtick_refs_in_bullet": ["55-benthic-infiltrator", "54-adverse-conditions"],
+      "citations": ["Scryfall: BFZ-58 type_line, oracle_text", "cohort node: scale-gradient design signature paragraph"]
+    }
+  ],
+  "deferred": [],
+  "cohort_body_cleanups": [
+    {
+      "what": "Body roster counter bumped from sixteen to twenty",
+      "where": "eldrazi.md line ~141 (caveat paragraph)",
+      "before": "Across BFZ, OGW, and MH3 the node currently holds sixteen Eldrazi anchors in the body roster.",
+      "after": "Across BFZ, OGW, and MH3 the node currently holds twenty Eldrazi anchors in the body roster."
+    },
+    {
+      "what": "Stale 'Eldrazi Skyspawner remains canonical Eldrazi anchor not yet in inventory' caveat removed",
+      "where": "eldrazi.md line ~141 (caveat paragraph 'Other BFZ/OGW Eldrazi commons-and-uncommons...' list)",
+      "before_list": "Eldrazi Devastator, Ulamog's Reclaimer, Pawn of Ulamog, Eldrazi Skyspawner, Eldrazi Aggressor, Maw of Kozilek, the broad Devoid Spawn-generator roster",
+      "after_list": "Eldrazi Devastator, Ulamog's Reclaimer, Pawn of Ulamog, Eldrazi Aggressor, Maw of Kozilek, the broad Devoid Spawn-generator roster"
+    },
+    {
+      "what": "Caveat-paragraph framing rewritten to reflect new BFZ coverage and the now-complete Drone-Ingest → Processor-consumption design-loop coverage in inventory",
+      "where": "eldrazi.md line ~141 caveat lead sentence + BFZ-anchor list expansion",
+      "before_lead": "BFZ/OGW Eldrazi coverage in current corpus is exhaustive at the common-and-uncommon Eldrazi-depicting-or-Eldrazi-referenced slice post wave 41 enrichment.",
+      "after_lead": "BFZ/OGW Eldrazi coverage in current corpus is now substantively widened to the brood-lineage feeding-apparatus tier post wave 203 attach.",
+      "design_loop_coverage_note": "BFZ-54/55/56/58 collectively cover the complete BFZ-block Drone-Ingest → Processor-consumption design loop described in the typology paragraph: Drone Ingest (BFZ-55 Benthic Infiltrator) → exile accumulates → Processor consumes (BFZ-56 Cryptic Cruiser) for tempo, with Scion-generation as the parallel Drone-tier branch (BFZ-58 Skyspawner at the creature level, BFZ-54 Adverse Conditions at the spell level)."
+    }
+  ],
+  "anti-confab_self_check": {
+    "every_bullet_has_at_least_one_real_quote_or_typeline": true,
+    "no_invented_lore": true,
+    "no_role_identity_conflation": true,
+    "no_thesis_projection_without_canonical_evidence": true,
+    "wikilink_count_per_bullet": 1,
+    "all_other_refs_in_backticks": true,
+    "cohort_archetype_slot_appears_verbatim_in_cohort_body": true,
+    "comment": "Drone / Processor / Scion-token tiers are verbatim from the cohort body's typology paragraph (line 56); BFZ-block design loop (Drone Ingest → exile → Processor consumes) is verbatim from line 89 of cohort body. No new synthesis introduced."
+  },
+  "graph_impact": {
+    "orphan_count_delta": -4,
+    "appears_on_count_after_wave": 20,
+    "wikilink_count_added_to_corpus_card_bodies": 4,
+    "no_card_to_card_wikilinks_created": true,
+    "no_hub_wikilinks_in_bullets": true,
+    "cross-card_refs_use_backticks_only": true
+  }
+}

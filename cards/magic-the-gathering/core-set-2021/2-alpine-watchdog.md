@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - dog
+  - mountain
+  - snow
+  - guardian
+  - dawn
+  - wilderness
+  - loyalty
+  - alpine
+  - sentinel
+  - survival
+  - rescue
+tags_filter:
+  - solo
+  - mid-shot
+  - portrait
+  - three-quarter
+  - no-face
+  - white-magic
+  - creature-dog
+  - vigilance
 reference_image: cards/_images/magic-the-gathering/core-set-2021/2-alpine-watchdog.png
 average_cost_paid: 0
 market_price: 0.33
@@ -30,6 +49,27 @@ mana_cost: "{1}{W}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: peaceful
+time_of_day: dawn
+setting: mountain
 ---
 
 # Alpine Watchdog (Core Set 2021)
+
+## Vision
+
+![2-alpine-watchdog](../../_images/magic-the-gathering/core-set-2021/2-alpine-watchdog.png)
+
+A large, long-haired black-and-white dog stands in a confident, watchful posture on a snow-covered rocky outcrop. The dog's chest is broad and white, its coat dark across the back and shoulders, with warm russet-brown visible at the face and flanks. Its gaze is directed slightly away, alert and calm. Behind the dog, a wide alpine landscape unfolds: steep snow-capped peaks under a pale lavender-blue sky, with a warm golden-orange sunrise glow breaking at the horizon behind the mountains. The overall light is cold and crisp with the warmth of dawn just entering from the upper-right. The mood is quietly heroic — a lone guardian surveying its territory at first light.
+
+**Subject:** A large, fluffy black-and-white mountain dog standing alert on a snowy alpine ridge
+
+**Composition:** mid-shot, portrait, figures: solo, facing: three-quarter
+**Setting:** mountain, dawn, clear
+**Foreground:** Dog standing on snow-dusted rocky ground  *(palette: black, white, warm brown, grey)*
+**Background:** Snow-capped alpine peaks under a lavender-blue sky with golden sunrise glow  *(palette: lavender, pale blue, golden orange, white)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** Alert, watchful, calm — steady guardian posture
+**Creatures:** dog
+**Genre cues:** fantasy, naturalist
+

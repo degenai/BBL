@@ -1,0 +1,42 @@
+{
+  "card_name": "Drownyard Lurker",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "3",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Drownyard Lurker is set on Innistrad's Nephalia coast, the same drowned reef where Drownyard Temple sits — the focal point Nahiri constructed to lure Emrakul to the plane. The card's flavor text is direct: 'When Emrakul arrived on Innistrad, even fossils answered her twisted call.' The creature is not a living organism but a reanimated ancient fossil corrupted by Emrakul's presence. The Drownyard as a location first appeared as the land card Nephalia Drownyard (Innistrad block).",
+      "sources": ["Scryfall: MH3-3 flavor_text", "Scryfall: Drownyard Temple", "Scryfall: Nephalia Drownyard", "MTG Wiki: Drownyard, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "A Scryfall search for t:eldrazi t:trilobite returns exactly one result: Drownyard Lurker. It is the only Eldrazi Trilobite in the entire game as of MH3. The Trilobite creature type entered MTG in Ixalan (Shore Keeper, 2017); MH3 is the first set to pair it with Eldrazi, using the corruption-of-a-real-organism pattern that defines MH3's brood flavor.",
+      "sources": ["Scryfall: t:eldrazi t:trilobite — 1 result confirmed", "MTG Wiki: Trilobite, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Drownyard Lurker is a Pauper-legal 7/7 with Vigilance at {7} — unplayable as a cast card in most formats but functional as a cycling payoff: cycling for {2}{U} generates an Eldrazi Spawn token regardless of whether the card enters the battlefield. The token's 'Sacrifice: Add {C}' ability feeds colorless mana for future Eldrazi plays. EDHREC rank: 12,359.",
+      "sources": ["Scryfall: MH3-3 legalities, oracle_text", "Scryfall: EDHREC rank 12359"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Loic Canavaggia.",
+      "sources": ["Scryfall: MH3-3 artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Nephalia Drownyard", "set": "Innistrad", "note": "Original 'Drownyard' location land card; the coastal reef that gives Drownyard Lurker its name"},
+    {"name": "Drownyard Temple", "set": "Shadows over Innistrad", "note": "The cryptolith site where Emrakul was summoned; direct lore anchor for the Lurker's flavor text"},
+    {"name": "Emrakul, the World Anew", "set": "Modern Horizons 3", "note": "The MH3 Emrakul print that MH3's Eldrazi suite orbits narratively"},
+    {"name": "Eldrazi Skyspawner", "set": "Modern Horizons 3", "note": "Fellow MH3 Pauper-legal Eldrazi with Spawn token generation, same cycling-and-ramp suite"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

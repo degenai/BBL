@@ -51,6 +51,8 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: ocean
+characters:
+  - eldrazi
 ---
 
 # Cryptic Cruiser (Battle for Zendikar)
@@ -84,3 +86,7 @@ A large, bloated aquatic monstrosity fills the frame, submerged in dim green-lit
 - Ruin Processor (Battle for Zendikar, 12) — fellow Eldrazi Processor in the same set; the two subtypes share the exile-consumption design axis
 - Blight Herder (Battle for Zendikar, 1) — white Processor that produces Scion tokens when consuming exiled cards, showing the breadth of Processor design across colors
 - Ulamog, the Ceaseless Hunger (Battle for Zendikar, 15) — the titan whose brood the Processors belong to thematically
+
+## Connections
+
+- [[eldrazi]] — Processor-tier, the BFZ-block design loop's closing apparatus. Cryptic Cruiser's Scryfall type_line is `Creature — Eldrazi Processor` — one of only 11 Processor-typed creature cards (BFZ-block almost exclusively), the cohort's apparatus for consuming the exile zone that Ingest-source Drones like `55-benthic-infiltrator` produce. Its activated ability `{2}{U}, Put a card an opponent owns from exile into that player's graveyard: Tap target creature.` is the canonical Processor-spend pattern: an exiled card is the activation cost, paid back as battlefield tempo. Flavor text from `kiora` to Gideon Jura — *"The seas are no less imperiled than the dry lands. This fight is mine as much as it is yours."* — frames the Zendikari side of the encounter; the depicted bloated tentacled monstrosity rising from murky water is what Kiora is naming as the threat. `[Scryfall: BFZ-56 type_line, oracle_text, flavor_text]` `[cohort node: brood-lineage taxonomy paragraph + BFZ-block design signature]`

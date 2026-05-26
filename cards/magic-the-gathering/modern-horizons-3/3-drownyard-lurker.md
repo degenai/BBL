@@ -73,3 +73,16 @@ A hulking eldrazi-horror creature occupies the rocky shore in the foreground. It
 **Iconography:** tentacles, eldrazi-corruption
 **Genre cues:** fantasy, cosmic-horror
 
+## Trivia
+
+- **Set / lore context** — Drownyard Lurker is set on Innistrad's Nephalia coast, the same drowned reef where the cryptolith-summoning circle known as Drownyard Temple sits — the focal point Nahiri constructed to lure Emrakul to the plane. The card's flavor text is direct about the mechanism: `"When Emrakul arrived on Innistrad, even fossils answered her twisted call."` — meaning the creature is not a living organism but a reanimated ancient fossil, corrupted by Emrakul's presence. The Drownyard as a location first appeared as a land card (Nephalia Drownyard, Innistrad block) before MH3 named a creature after it. `[Scryfall: MH3-3 flavor_text]` `[Scryfall: Drownyard Temple, Scryfall: Nephalia Drownyard]` `[MTG Wiki: Drownyard, via WebSearch]`
+- **Subtype novelty** — A Scryfall search for `t:eldrazi t:trilobite` returns exactly one result: Drownyard Lurker. It is the only Eldrazi Trilobite in the entire game as of MH3. The Trilobite creature type entered MTG in Ixalan (Shore Keeper, 2017); MH3 is the first set to pair it with Eldrazi, using the corruption-of-a-real-organism pattern that defines MH3's brood flavor — the creature was a trilobite once, before the call. `[Scryfall: t:eldrazi t:trilobite — 1 result]` `[MTG Wiki: Trilobite, via WebSearch]`
+- **Mechanical design** — Drownyard Lurker is a Pauper-legal 7/7 with Vigilance at {7} — a body that is unplayable as a cast card in most formats but functions as a cycling payoff: cycling for {2}{U} generates an Eldrazi Spawn token regardless of whether the card ever enters the battlefield. This makes it a threat-and-ramp dual-function card in Pauper Eldrazi strategies where the token's {C} mana feeds future colorless plays. EDHREC rank: 12,359. `[Scryfall: MH3-3 legalities, oracle_text]` `[EDHREC rank via Scryfall data]`
+- **Artist** — Illustrated by Loïc Canavaggia. The palette — charcoal exoskeleton, visceral pink-red interior, wet-black rock — matches Canavaggia's established range in MTG horror assignments. `[Scryfall: MH3-3 artist field]`
+
+### Related cards
+- Nephalia Drownyard (Innistrad) — the original "Drownyard" location card; mill-themed land from the same coastal reef
+- Drownyard Temple (Shadows over Innistrad) — the cryptolith site where Emrakul was summoned; direct lore anchor for the Lurker's flavor text
+- Emrakul, the World Anew (MH3) — the MH3 Emrakul print that MH3's Eldrazi suite, including this card, orbits narratively
+- Eldrazi Skyspawner (MH3-58) — fellow MH3 Pauper-legal Eldrazi with Spawn token generation, same cycling-and-ramp suite
+

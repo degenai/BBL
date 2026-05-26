@@ -75,3 +75,16 @@ A wide mid-shot of a tall figure clad in layered blue and green robes covered in
 **Iconography:** waves, golden staff finial
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set / lore context** — Triton Wavebreaker places a Theros creature type — Triton, the amphibious merfolk who worship sea-god Thassa — into the Modern Horizons direct-to-Modern slot. Tritons as a lore designation are mechanically classed as Merfolk Wizards (or Merfolk Rogues, etc.) in the rules; the type_line here is "Enchantment Creature — Merfolk Wizard." Theros Tritons are partially amphibious, revere Thassa above all other gods, and are characterized by large hook-shaped fins at the back of the head. `[Scryfall: MH3-74 type_line]` `[WebSearch: MTG Wiki — Triton / Merfolk / Thassa lore]`
+- **Mechanic pedigree — Bestow** — Bestow is a keyword ability introduced in Theros (2013), specifically tied to that set's god-and-enchantment theme. It allows an enchantment creature to be cast as an Aura; if the enchanted creature leaves the battlefield, the Bestow card becomes a creature again rather than falling to the graveyard like a normal Aura. MH3 marks one of Bestow's rare non-Theros appearances — its prior returns were Commander 2018 and here. The combination with Prowess is new to MH3: no Theros-block bestow card had Prowess on either face. `[Scryfall: MH3-74 oracle_text, keywords]` `[WebSearch: CoolStuffInc — "Magic Mechanics Overview: Bestow"; Wizards — Theros Mechanics 2013-09-02]`
+- **Mechanical design** — At {U} for a 1/1 with Prowess (as a creature) or Bestow {1}{U} to grant +1/+1 and Prowess to any creature, this is a 1-drop tempo piece in blue spell-heavy strategies. In Modern, the primary use case is as a Prowess enabler — either a standalone body that grows on each noncreature spell, or an aura that hands Prowess to a larger threat. Not Pauper-legal. EDHREC rank: 12,534. `[Scryfall: MH3-74 legalities, power/toughness, oracle_text]` `[EDHREC rank via Scryfall data]`
+- **Artist** — Illustrated by Christina Kraus. No flavor text. `[Scryfall: MH3-74 artist, flavor_text absent]`
+
+### Related cards
+- Triton Shorethief (Theros) — the first named Triton card in MTG; establishes the creature type flavor
+- Thrasios, Triton Hero (Commander 2016) — notable Triton legendary creature, Merfolk Wizard
+- Nylea's Forerunner (Theros) — a Bestow card from the mechanic's origin set for comparison
+- Mistcutter Hydra / Spellheart Chimera (Theros) — same-era Prowess adjacents, though Prowess proper is post-Theros (Khans of Tarkir 2014); Bestow and Prowess first co-appear in MH3
+

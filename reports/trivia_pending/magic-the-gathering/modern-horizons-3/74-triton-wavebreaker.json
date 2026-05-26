@@ -1,0 +1,42 @@
+{
+  "card_name": "Triton Wavebreaker",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "74",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Triton Wavebreaker places a Theros creature type — Triton, the amphibious merfolk who worship sea-god Thassa — into the Modern Horizons direct-to-Modern slot. Tritons are mechanically classed as Merfolk in the rules (type_line: Enchantment Creature — Merfolk Wizard). In Theros lore, Tritons are partially amphibious, revere Thassa above all other gods, and are characterized by large hook-shaped fins at the back of the head.",
+      "sources": ["Scryfall: MH3-74 type_line", "WebSearch: MTG Wiki — Triton / Merfolk / Thassa lore"]
+    },
+    {
+      "category": "design",
+      "text": "Bestow is a keyword ability introduced in Theros (2013), tied to that set's god-and-enchantment theme. It allows an enchantment creature to be cast as an Aura; if the enchanted creature leaves the battlefield, the Bestow card becomes a creature again rather than going to the graveyard. MH3 is one of Bestow's rare non-Theros appearances — its prior returns were Commander 2018 and MH3. The combination with Prowess is new to MH3: no Theros-block bestow card had Prowess on either face.",
+      "sources": ["Scryfall: MH3-74 oracle_text, keywords", "WebSearch: CoolStuffInc — Magic Mechanics Overview: Bestow; Wizards — Theros Mechanics 2013-09-02"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At {U} for a 1/1 with Prowess (as a creature) or Bestow {1}{U} to grant +1/+1 and Prowess to any creature, this is a 1-drop tempo piece in blue spell-heavy strategies. In Modern, primary use as a Prowess enabler — either a standalone body that grows on each noncreature spell, or an Aura that passes Prowess to a larger threat. Not Pauper-legal. EDHREC rank: 12,534.",
+      "sources": ["Scryfall: MH3-74 legalities, power/toughness, oracle_text", "Scryfall: EDHREC rank 12534"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Christina Kraus. No flavor text. Previewed on May 23, 2024, on the Wizards of the Coast card image gallery for MH3.",
+      "sources": ["Scryfall: MH3-74 artist, flavor_text absent, preview field — source: Wizards of the Coast, source_uri: magic.wizards.com/en/products/modern-horizons-3/card-image-gallery, previewed_at: 2024-05-23"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Triton Shorethief", "set": "Theros", "note": "First named Triton card in MTG; establishes the creature type flavor"},
+    {"name": "Thrasios, Triton Hero", "set": "Commander 2016", "note": "Notable Triton legendary creature, Merfolk Wizard — same type line as Wavebreaker"},
+    {"name": "Spellheart Chimera", "set": "Theros", "note": "Theros-era Prowess-adjacent card; Prowess proper entered in Khans of Tarkir 2014"},
+    {"name": "Observant Alseid", "set": "Theros Beyond Death", "note": "Bestow Enchantment Creature — comparative design reference for bestow in a later set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -48,6 +48,7 @@ setting: ocean
 artist: Jason Rainville
 characters:
   - theros-pantheon
+  - erebos
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/77-towering-wave-mystic--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/c/8c2b4ffc-b1e1-4b16-9a51-1a12f8256a27.jpg?1581479618
 flavor_text: Thassa's favor followed him to the Underworld. Even the waves of Nerono obeyed his will.
@@ -83,5 +84,5 @@ A blue-skinned merfolk wizard with long flowing hair and trailing finlike adornm
 
 ## Connections
 
-- [[theros-pantheon]] — Two-god flavor card whose attribution crosses Thassa's and Erebos's domains (*"Thassa's favor followed him to the Underworld. Even the waves of Nerono obeyed his will"*) — Thassa (god of the sea, mono-blue, Poseidon-homage) blesses a mortal whose journey continues past death into Erebos's Underworld via Nerono, one of the canonical Underworld rivers. The damage-then-mill oracle text mechanizes the flavor's cross-domain mortal journey: every point of damage dealt becomes a card sent from library to graveyard, structurally parallel to Thassa's tide-as-passage and Erebos's claim-on-the-dead. Sole anchor at the parent pantheon cohort (no Thassa or Erebos solo sub-node currently exists in the BBL graph). `[Scryfall flavor_text: thb/77; MTG Wiki: Thassa, God of the Sea; Erebos, God of the Dead]`
+- [[erebos]] — cross-domain anchor; flavor names Nerono (*"Thassa's favor followed him to the Underworld. Even the waves of Nerono obeyed his will"*) which is canonically one of the five rivers of Erebos's Underworld per MTG Wiki Theros Underworld page. The card's flavor stages a mortal whose journey continues past death into Erebos's realm by Thassa's grace — a designer-coordinated cross-domain narrative where two pantheon members' domains overlap. The damage-then-mill oracle text mechanizes the flavor's cross-domain mortal journey: every point of damage dealt becomes a card sent from library to graveyard, structurally parallel to Erebos's claim-on-the-dead extraction-apparatus. The Thassa-side of the cross-domain remains anchored at the parent `theros-pantheon` cohort (Thassa solo sub-node deferred at lower anchor density per parent caveats). Card also attaches at the parent `theros-pantheon` cohort via frontmatter — same dual-membership pattern as the `mogis` / `nylea` / `iroas` sub-node cards. `[Scryfall flavor_text: thb/77; MTG Wiki: Thassa, God of the Sea; MTG Wiki: Erebos, God of the Dead; MTG Wiki: Theros Underworld]`
 

@@ -51,6 +51,8 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: ocean
+characters:
+  - eldrazi
 ---
 
 # Benthic Infiltrator (Battle for Zendikar)
@@ -85,4 +87,8 @@ A large alien creature dominates the frame, rendered in deep blue-green tones. I
 - Dominator Drone (Battle for Zendikar) — another Eldrazi Drone sharing the BFZ Drone subtype; different brood function, same hierarchical tier
 - Eldrazi Skyspawner (Battle for Zendikar) — Eldrazi Drone with flying and Scion generation; shares the BFZ Drone design brief with an aerial function
 - Sire of Stagnation (Battle for Zendikar) — BFZ blue Eldrazi punishing opponents for land drops; thematic cluster partner in BFZ's blue-aligned Eldrazi suite
+
+## Connections
+
+- [[eldrazi]] — Drone-tier Ingest-source. Benthic Infiltrator's Scryfall type_line is `Creature — Eldrazi Drone` — one of 71 Drone-typed creature cards across the corpus's Eldrazi printings, sitting in the cohort's specialized-worker / instrument tier (Titan-extended limb rather than autonomous brood entity). Its `Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)` keyword is the load-bearing Drone-side trigger in the BFZ-block design loop — Drone Ingest exiles cards, exile accumulates, Processor-tier creatures (e.g. `56-cryptic-cruiser`) spend that exile zone for their abilities. The unblockable 1/4 body ensures the Ingest trigger fires reliably, making this card one of the loop's most efficient feeders. `[Scryfall: BFZ-55 type_line, oracle_text]` `[cohort node: BFZ-block design signature paragraph]`
 

@@ -48,6 +48,7 @@ setting: other
 artist: Bastien L. Deharme
 characters:
   - theros-pantheon
+  - erebos
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/96-fruit-of-tizerus--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/6/66e577a0-e5d7-4e6a-919c-d85c2ae819ce.jpg?1581479782
 flavor_text: One spiny tree with bitter fruit grows in the realm of Tizerus, outside the palace of Erebos.
@@ -83,5 +84,5 @@ A gnarled, leafless dark tree stands alone at the center of the composition, its
 
 ## Connections
 
-- [[theros-pantheon]] — Erebos-realm geography card whose flavor names the underworld locale directly (*"One spiny tree with bitter fruit grows in the realm of Tizerus, outside the palace of Erebos"*) — Tizerus is one of the five rivers/realms of Erebos's Underworld and the geography Elspeth crosses in her canonical THB escape arc per the *Theros Beyond Death Story Summary* (Wizards of the Coast, 2020-01-10). The Escape oracle keyword (the set's signature mechanic, exile cards from graveyard to return to play) is the rules-text rendering of the canonical rebellion-against-the-pantheon's-claim-on-the-dead, with this card sitting at the geography-anchor of the set's protagonist arc. Sole anchor at the parent pantheon cohort (no Erebos solo sub-node currently exists in the BBL graph). `[Scryfall flavor_text: thb/96; MTG Wiki: Erebos, God of the Dead; Wizards: Theros Beyond Death Story Summary, 2020-01-10]`
+- [[erebos]] — Erebos-realm geography card; the flavor names Erebos directly (*"One spiny tree with bitter fruit grows in the realm of Tizerus, outside the palace of Erebos"*) — most-direct Erebos attribution in corpus, the headline single-card double-anchor for this sub-node (Erebos-realm geography canonically named + Escape-keyword oracle text mechanizing the rebellion-against-Erebos's-claim that the THB protagonist arc renders at the cosmological scale). Tizerus is canonically one of the five rivers of Erebos's Underworld per MTG Wiki Theros Underworld page, and the geography Elspeth crosses in her canonical THB escape arc per the *Theros Beyond Death Story Summary* (Wizards of the Coast, 2020-01-10). The card sits at the planar-scale apparatus-of-extraction face of the pantheon's distributed-triple-attribution: Erebos collects souls as cosmological default, this card depicts a corner of that realm with a temptation-fruit motif (mortal-bait inside the warden's domain). Card also attaches at the parent `theros-pantheon` cohort via frontmatter — same dual-membership pattern as the `mogis` / `nylea` / `iroas` sub-node cards. `[Scryfall flavor_text: thb/96; MTG Wiki: Erebos, God of the Dead; MTG Wiki: Theros Underworld; Wizards: Theros Beyond Death Story Summary, 2020-01-10]`
 

@@ -23,6 +23,7 @@ related_symbols: []
 related_characters:
   - theros-pantheon
   - iroas
+  - erebos
 ip_resolution_for: "Mogis, God of Slaughter"
 parent_character: theros-pantheon
 tags:

@@ -31,6 +31,10 @@ appears_on:
   - magic-the-gathering/modern-horizons-3/176-wumpus-aberration
   - magic-the-gathering/battle-for-zendikar/129-kozilek-s-sentinel
   - magic-the-gathering/oath-of-the-gatewatch/97-immobilizer-eldrazi
+  - magic-the-gathering/battle-for-zendikar/54-adverse-conditions
+  - magic-the-gathering/battle-for-zendikar/55-benthic-infiltrator
+  - magic-the-gathering/battle-for-zendikar/56-cryptic-cruiser
+  - magic-the-gathering/battle-for-zendikar/58-eldrazi-skyspawner
 related_hubs: []
 related_symbols: []
 related_characters:
@@ -114,6 +118,10 @@ This is what BBL bundle copy can lean on without inventing canon: the Eldrazi ar
 - [[176-wumpus-aberration]]
 - [[129-kozilek-s-sentinel]]
 - [[97-immobilizer-eldrazi]]
+- [[54-adverse-conditions]]
+- [[55-benthic-infiltrator]]
+- [[56-cryptic-cruiser]]
+- [[58-eldrazi-skyspawner]]
 ## Canonical sources
 
 - **MTG Wiki — Eldrazi** (`https://mtg.fandom.com/wiki/Eldrazi`) — primary brood page; canonical reference for the Titans' names, the Blind Eternities origin, the tier structure (Titan / Drone / Scion / Spawn), and the BFZ-block invasion arc.
@@ -138,7 +146,7 @@ This is what BBL bundle copy can lean on without inventing canon: the Eldrazi ar
 
 - **The Kor are the Zendikar-native faction that fights the Eldrazi alongside the Gatewatch, and form a sibling adversary-coupling node.** See [[kor]]. The two factions are canonical opponents on Zendikar; their respective nodes' `related_characters` lists cross-reference. The Smite the Monstrous (BFZ-49) entry above is the corpus's clearest single-frame render of the adversary structure — exposed-musculature Titan in foreground, kor warriors with rope-and-cable rigs in mid-attack, Gideon Jura as off-frame flavor-speaker witnessing the kor's coordinated-defense thesis in action.
 
-- **BFZ/OGW Eldrazi coverage in current corpus is exhaustive at the common-and-uncommon Eldrazi-depicting-or-Eldrazi-referenced slice post wave 41 enrichment.** The corpus's BFZ anchors are Encircling Fissure (BFZ-23, brood-as-canyon-presence), Fortified Rampart (BFZ-27, scion-and-Titan-silhouette scale gradient), Smite the Monstrous (BFZ-49, kor-versus-Titan single-frame), and Kozilek's Sentinel (BFZ-129, Drone-as-geological-inevitability). The OGW anchor is Immobilizer Eldrazi (OGW-97, apparatus-of-domination overhead, Zendikari kneeling below). Other BFZ/OGW Eldrazi commons-and-uncommons (Eldrazi Devastator, Ulamog's Reclaimer, Pawn of Ulamog, Eldrazi Skyspawner, Eldrazi Aggressor, Maw of Kozilek, the broad Devoid Spawn-generator roster) remain canonical Eldrazi anchors not yet in inventory; their future acquisition adds to this node's `appears_on:`. The MH3 throwback brief carries the bulk of post-BFZ Eldrazi corpus material (eleven entries) per the Modern-format-resurgence design brief. Across BFZ, OGW, and MH3 the node currently holds sixteen Eldrazi anchors in the body roster.
+- **BFZ/OGW Eldrazi coverage in current corpus is now substantively widened to the brood-lineage feeding-apparatus tier post wave 203 attach.** The corpus's BFZ anchors are Encircling Fissure (BFZ-23, brood-as-canyon-presence), Fortified Rampart (BFZ-27, scion-and-Titan-silhouette scale gradient), Smite the Monstrous (BFZ-49, kor-versus-Titan single-frame), Adverse Conditions (BFZ-54, Devoid instant + Scion-token-generator at the spell tier), Benthic Infiltrator (BFZ-55, Drone-tier Ingest-source), Cryptic Cruiser (BFZ-56, Processor-tier exile-consumer closing the Ingest loop), Eldrazi Skyspawner (BFZ-58, Drone-tier Scion-generator in the airborne slot), and Kozilek's Sentinel (BFZ-129, Drone-as-geological-inevitability). The OGW anchor is Immobilizer Eldrazi (OGW-97, apparatus-of-domination overhead, Zendikari kneeling below). The four BFZ-54/55/56/58 attachments collectively cover the **complete BFZ-block Drone-Ingest → Processor-consumption design loop** described in the node's typology paragraph: Drone Ingest (Benthic Infiltrator) → exile accumulates → Processor consumes (Cryptic Cruiser) for tempo, with Scion-generation as the parallel Drone-tier branch (Skyspawner at the creature level, Adverse Conditions at the spell level). Other BFZ/OGW Eldrazi commons-and-uncommons (Eldrazi Devastator, Ulamog's Reclaimer, Pawn of Ulamog, Eldrazi Aggressor, Maw of Kozilek, the broad Devoid Spawn-generator roster) remain canonical Eldrazi anchors not yet in inventory; their future acquisition adds to this node's `appears_on:`. The MH3 throwback brief carries the bulk of post-BFZ Eldrazi corpus material (eleven entries) per the Modern-format-resurgence design brief. Across BFZ, OGW, and MH3 the node currently holds twenty Eldrazi anchors in the body roster.
 
 ## See also
 

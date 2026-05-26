@@ -40,6 +40,9 @@ reference_image_source_url: https://cards.scryfall.io/png/front/6/c/6c5ce79a-fcb
 art_match_confidence: high
 needs_manual_review: false
 artist: Deruchenko Alexander
+characters:
+  - theros-pantheon
+  - erebos
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/276-mindwrack-harpy--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/c/6c5ce79a-fcbd-46ab-8911-480f967ca57f.jpg?1581481468
 flavor_text: Harpies are among the most detested creatures in all of Theros... and they thoroughly deserve it.
@@ -75,6 +78,10 @@ A large winged figure dives forward through a murky yellow-green atmosphere. Its
 **Creatures:** harpy
 **Iconography:** claws, wings, stars, dive-attack
 **Genre cues:** fantasy, greek-mythology
+
+## Connections
+
+- [[erebos]] — canonical Erebos-servitor depicted in flight, per the trivia citation of MTG Wiki's Theros harpies page: *"Harpies on Theros are servants of Erebos, god of the dead, dispatched to torment the living and the recently deceased."* The harpy-servitor classifier mirrors the Mogis-servitor-minotaur evidence-tier (Wizards-published lore canonicalizes the depicted figure even when the god is not flavor-named on the card; same precedent as Kragma Warcaller at the `mogis` sub-node). The mill-3-each-player oracle text mechanizes harpy-as-soul-torment at the rules level — Erebos's claim-on-the-dead enforced through symmetric library-attrition is the card-as-Underworld-extraction-functionary at the mechanical scale. Card also attaches at the parent `theros-pantheon` cohort via frontmatter — same dual-membership pattern as the `mogis` / `nylea` / `iroas` sub-node cards. `[Scryfall flavor_text; MTG Wiki: Theros harpies; trivia citation: MTG Wiki: Returned page via Wizards of the Coast / Nymphs of Theros article]`
 
 ## Trivia
 

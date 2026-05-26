@@ -1,0 +1,43 @@
+{
+  "card_name": "Hope-Ender Coatl",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "64",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Modern Horizons 3 (released June 14, 2024) brought the first new Eldrazi cards since Eldritch Moon (2016). The MH3 Eldrazi suite centers on Emrakul — the only Titan not destroyed, sealed inside Innistrad's moon — and includes Emrakul, the World Anew as its centerpiece. Hope-Ender Coatl sits in the brood tier: smaller Eldrazi creatures that are extensions of the Titans' hunger.",
+      "sources": ["Scryfall: MH3-64 released_at, set_name", "WebSearch: Dexerto — MTG fans react to eldritch Eldrazi return in Modern Horizons 3"]
+    },
+    {
+      "category": "design",
+      "text": "The 'Coatl' name invokes the Mesoamerican feathered serpent (Quetzalcoatl) and aligns with existing MTG cards like Lorescale Coatl (Alara Reborn) and River Heralds coatls on Ixalan — all typed as Snakes in the rules. MH3's card is an Eldrazi Snake, meaning Wizards used 'Coatl' as the flavor-name for an Eldrazi whose base organism was a coatl-type creature. No creature type named 'Coatl' exists in the rules — a Scryfall search for t:coatl returns zero results.",
+      "sources": ["Scryfall: t:coatl — 0 results", "Scryfall: MH3-64 type_line", "Scryfall: Lorescale Coatl type_line 'Creature — Snake'"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Devoid (no color despite blue mana cost), Flash, Flying, and a cast trigger that functions as a conditional counterspell: target spell countered unless opponent pays {1}. The trigger resolves before the Coatl enters the battlefield — if the Coatl is countered in response, the trigger still resolves. MH3's brood-corruption-of-subtype pattern: this card is Snake, sibling Twisted Riddlekeeper (MH3-14) is Sphinx, Snapping Voidcraw (MH3-204) is Turtle. EDHREC rank: 11,217.",
+      "sources": ["Scryfall: MH3-64 oracle_text, keywords, frame_effects: devoid", "WebSearch: MTGAssist ruling snippet — trigger resolves before creature"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Filip Burburan. The card carries Scryfall frame_effects: ['devoid'] — confirming the colorless card frame treatment applied to Devoid cards in MH3.",
+      "sources": ["Scryfall: MH3-64 artist, frame_effects"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Twisted Riddlekeeper", "set": "Modern Horizons 3", "note": "Brood-corruption-of-subtype sibling; Eldrazi Sphinx"},
+    {"name": "Snapping Voidcraw", "set": "Modern Horizons 3", "note": "Brood-corruption-of-subtype sibling; Eldrazi Turtle"},
+    {"name": "Wumpus Aberration", "set": "Modern Horizons 3", "note": "Fourth brood-corruption sibling in the same MH3 mini-cohort"},
+    {"name": "Lorescale Coatl", "set": "Alara Reborn", "note": "Base archetype for the 'Coatl' flavor name; Creature — Snake, first print 2009"},
+    {"name": "Emrakul, the World Anew", "set": "Modern Horizons 3", "note": "Titan anchor whose presence motivates the MH3 brood suite"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

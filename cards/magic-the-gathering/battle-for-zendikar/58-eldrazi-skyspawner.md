@@ -49,6 +49,8 @@ image_quality: high
 mood: horror
 time_of_day: day
 setting: other
+characters:
+  - eldrazi
 ---
 
 # Eldrazi Skyspawner (Battle for Zendikar)
@@ -82,3 +84,7 @@ An amorphous purple-black Eldrazi entity floats against a bright cloudy sky. The
 - Mist Intruder (Battle for Zendikar) — fellow Eldrazi Drone; shares the Drone subtype in the same set
 - Tide Drifter (Battle for Zendikar) — another blue Eldrazi Drone in BFZ, thematic sibling
 - Vile Aggregate (Battle for Zendikar) — gets +1/+0 for each colorless creature you control; Skyspawner's Scion token feeds its power directly
+
+## Connections
+
+- [[eldrazi]] — Drone-tier Scion-generator (the other half of the Drone-tier design brief opposite `55-benthic-infiltrator`'s Ingest-source role). Eldrazi Skyspawner's Scryfall type_line is `Creature — Eldrazi Drone`, and its ETB trigger creates `a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this token: Add {C}."` — the same Scion-token subtype that Adverse Conditions (`54-adverse-conditions`) generates at the spell tier. Per the cohort's scale-gradient design signature, Drones either carry Ingest or generate Scion / Spawn tokens; Skyspawner takes the second branch, occupying the airborne slot in the BFZ Drone roster with a flying 2/1 body that pays its mana cost back as colorless ramp via the Scion sacrifice. `[Scryfall: BFZ-58 type_line, oracle_text]` `[cohort node: scale-gradient design signature paragraph]`

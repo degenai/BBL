@@ -47,6 +47,9 @@ mood: grim
 time_of_day: indeterminate
 setting: indoor
 artist: Mark Zug
+characters:
+  - theros-pantheon
+  - erebos
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/100-grim-physician--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/b/7/b7e92c82-840f-4c75-b617-7b58a07be5b4.jpg?1581479817
 flavor_text: The Returned retain no memory of their identities, but sometimes they mindlessly attempt familiar tasks.
@@ -79,6 +82,10 @@ A solitary robed figure occupies the frame in mid-shot, wearing a stylized golde
 **Objects:** funerary-mask, implement, vessel
 **Iconography:** golden-mask, death-mask, hollow-eyes
 **Genre cues:** fantasy, mythological, greek-myth
+
+## Connections
+
+- [[erebos]] — Returned-typology anchor; the Returned are canonically Erebos-realm-escapee mortals per MTG Wiki Returned page (cited in trivia: *"the golden masks worn by the Returned are described as 'the last gifts of the selves they left behind' — crafted from gold, the most common material in Erebos's realm"*). The depicted golden-masked physician is the corpus's clearest single-card render of the apparatus-of-extraction at individual-mortal scale — Erebos's realm has extracted the identity of this mortal in exchange for return to the living world, leaving only muscle-memory and the funerary-mask receipt. Per the canonical Final Death THB-95 flavor (*"The Underworld erodes memory, identity, and eventually the physical form"*), the realm's extraction process is Wizards-published canon. The {B} 1/1 death-trigger -1/-1 oracle text mechanizes the Returned's hollow-persistence: damage on the way out (the receipt of identity-already-extracted), not while standing. Card also attaches at the parent `theros-pantheon` cohort via frontmatter. `[Scryfall flavor_text + oracle_text; MTG Wiki: Returned; trivia citation: MTG Wiki: Returned page via Wizards of the Coast]`
 
 ## Trivia
 
