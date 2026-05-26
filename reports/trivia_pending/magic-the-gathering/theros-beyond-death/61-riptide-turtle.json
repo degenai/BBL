@@ -1,0 +1,36 @@
+{
+  "card_name": "Riptide Turtle",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "61",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Riptide Turtle is an original printing in Theros Beyond Death (January 2020) and has not been reprinted. The set's blue commons were largely defined by Constellation triggers, escape costs, and sea-creature flavor aligned with Thassa's domain.",
+      "sources": ["Scryfall: reprint: false, set Theros Beyond Death"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"As the storm waves crushed my sailors, I cried out to Thassa. The next time I saw them, hard shells encased them, and they swam away to safety.\" — Siona, captain of the Pyleas. The flavor describes a divine transformation miracle in the mode of Ovid's Metamorphoses: sailors transformed into turtles by the god of the sea to survive a storm. Siona, Captain of the Pyleas (THB no. 226), is a legendary white-green creature in the same set — a seafarer who has voyaged to mystical islands and survived divine encounters.",
+      "sources": ["Scryfall flavor_text", "WebSearch snippet: Siona lore summary", "Scryfall card Siona, Captain of the Pyleas THB 226"]
+    },
+    {
+      "category": "mechanical",
+      "text": "A 0/5 with Flash and Defender for {1}{U}: Flash lets it ambush attackers at instant speed, and toughness-5 at 2 mana is a high ceiling for a common defender. EDHREC rank 9460 — modestly played, primarily in Thassa-themed or turtle tribal Commander shells.",
+      "sources": ["Scryfall oracle_text, power/toughness 0/5, edhrec_rank: 9460"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Siona, Captain of the Pyleas", "set": "Theros Beyond Death", "note": "the legendary character whose flavor text appears on this card"},
+    {"name": "Thassa, Deep-Dwelling", "set": "Theros Beyond Death", "note": "the god whose divine intervention the flavor text describes"},
+    {"name": "Arixmethes, Slumbering Isle", "set": "Commander 2018", "note": "the other iconic Theros sea-turtle creature in MTG, a massive island-turtle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -74,3 +74,14 @@ The painting is dominated by a close-up face seen from slightly below, the figur
 **Iconography:** luminescent-creature, claws, bioluminescence, parasite
 **Genre cues:** fantasy, horror, greek-mythology
 
+## Trivia
+
+- **Set context and design** — Aspect of Lamprey is one of two "Aspect of" named Aura enchantments in Theros Beyond Death, alongside Aspect of Manticore (red, {2}{R}, grants first strike and +2/+0 with Flash). The "Aspect of X" naming convention in MTG predates THB — earlier entries include Aspect of Mongoose (Time Spiral), Aspect of Wolf (Alpha), and Aspect of Gorgon (Journey into Nyx) — but these are not a coordinated multi-color cycle; the name is used independently across sets for auras that channel a creature's bestial quality. `[Scryfall: THB Aspect of card search; Scryfall: Aspect of Gorgon Journey into Nyx 2014]`
+- **Flavor text** — *"Some aspire to be mighty like the lion or the hydra. I am the parasite that feeds on them all."* `[Scryfall flavor_text]`. The speaker is unnamed. The quote positions parasitism as a superior predatory strategy to raw power — the lamprey feeds on apex predators by attaching, not by competing. This maps cleanly onto the card's mechanics: the Aura gives the enchanted creature lifelink (feeding), and forces an opponent to discard two cards on entry (stripping resources, not engaging in direct power confrontation).
+- **Mechanical context** — Enchant creature you control; on entry, target opponent discards two cards; enchanted creature gains lifelink. At {3}{B}, this is a 4-mana Aura that combines Appetite for Brains-style hand disruption with a permanent pump effect. EDHREC rank 17032 places it among the least-used cards in Commander. Its niche is dedicated discard/drain builds that can recur or abuse Aura ETB triggers. `[Scryfall oracle_text, mana_cost, edhrec_rank: 17032]`
+- **Theros: Constellation context** — THB is heavily built around the Constellation mechanic (triggers when an enchantment enters under your control). Aspect of Lamprey slots into that ecosystem both as an Aura and as a Constellation trigger enabler, making it marginally more useful in dedicated enchantment-matters decks than its raw power level suggests. `[Scryfall: THB set mechanic context]`
+
+### Related cards
+- Aspect of Manticore (Theros Beyond Death, no. 127) — the only other "Aspect of" Aura in THB; red, grants first strike
+- Lampad of Death's Vigil (Theros Beyond Death) — set-mate black enchantment creature; shares the lifelink-via-enchantment design space
+- Aphemia, the Cacophony (Theros Beyond Death) — black enchantment-matters legendary in the same set; Constellation-adjacent design

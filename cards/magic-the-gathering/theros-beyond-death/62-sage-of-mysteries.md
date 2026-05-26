@@ -53,6 +53,8 @@ mana_cost: "{U}"
 mood: peaceful
 time_of_day: indeterminate
 setting: other
+symbols:
+  - constellation
 tags:
   - card
 ---

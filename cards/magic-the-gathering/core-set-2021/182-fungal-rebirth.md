@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - fungus
+  - mushroom
+  - nature
+  - rebirth
+  - forest
+  - elemental
+  - rot
+  - growth
+  - underground
+  - organic
+  - roots
+  - cave
+tags_filter:
+  - green-magic
+  - solo
+  - mid-shot
+  - forward-facing
+  - narrative-mode
+  - creature-elemental
+  - instant
 reference_image: cards/_images/magic-the-gathering/core-set-2021/182-fungal-rebirth.png
 average_cost_paid: 0
 market_price: 0.33
@@ -30,6 +49,29 @@ mana_cost: "{2}{G}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: indeterminate
+setting: dungeon
 ---
 
 # Fungal Rebirth (Core Set 2021)
+
+## Vision
+
+![182-fungal-rebirth](../../_images/magic-the-gathering/core-set-2021/182-fungal-rebirth.png)
+
+A large elemental or creature figure fills the frame, its body made entirely of intertwined roots, pale bark, and organic matter. Clusters of mushrooms grow across its shoulders and upper body, and trailing tendrils of root hang from its limbs. Glowing blue-white spores or particles drift in the air around it. The figure appears to be rising or leaning forward from a rocky cave or underground grotto. No distinct face is visible — the head region is a dense tangle of roots and fungal caps. The palette is dominated by pale grey-greens, sandy browns, and muted olive tones, punctuated by soft blue luminescence from the spores.
+
+**Subject:** a large roughly humanoid figure composed of roots, bark, and wood, covered in mushrooms and fungal growth, rising from a rocky underground space
+
+**Composition:** mid-shot, narrative, figures: solo, facing: forward
+**Setting:** dungeon, indeterminate
+**Foreground:** elemental creature body of roots and bark, mushrooms growing from shoulders and arms, trailing root tendrils  *(palette: pale-green, sandy-brown, grey)*
+**Background:** rocky cave or grotto, glowing blue-white spores floating in air  *(palette: grey, muted-green, soft-blue)*
+**Mood / lighting:** sublime, ambient
+**Emotion read:** impassive rising — no readable face, posture suggests emergence or awakening
+**Objects:** mushrooms, roots, spores, rock
+**Creatures:** fungal-elemental, saproling
+**Iconography:** mushroom, spores, roots
+**Genre cues:** fantasy
+

@@ -56,6 +56,8 @@ mana_cost: "{1}{G}"
 image_width: 745
 image_height: 1040
 image_quality: high
+symbols:
+  - constellation
 tags:
   - card
   - vision-passed

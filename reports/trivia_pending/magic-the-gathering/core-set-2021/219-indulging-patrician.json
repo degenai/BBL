@@ -1,0 +1,41 @@
+{
+  "card_name": "Indulging Patrician",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "219",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Released in Core Set 2021 (July 2020), a set designed as an Arena-first entry-point product with no specific plane setting. M21 vampire cards draw on the classical MTG gothic horror tradition. The card was reprinted in Tarkir: Dragonstorm Commander (2025), extending its Commander lifespan.",
+      "sources": ["Scryfall: set Core Set 2021, released 2020-07-03", "Scryfall: reprint TDC no. 292"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Miranda Meeks. Hipsters of the Coast's Core Set 2021 Grand Art Tour (June 2020) called the piece 'an absolute stunner of an illustration,' praising Meeks' style of combining the mysterious and macabre with beauty: 'that pink moonrise background is just breathtaking.' Described as 'one of my absolute favorite artworks so far this year' by the reviewer.",
+      "sources": ["Hipsters of the Coast: 'Core Set 2021 Grand Art Tour,' June 2020"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Just a nibble for now. I wouldn't want to ruin my appetite.\" — unnamed vampire. Tonally comic-aristocratic: predation delivered in the register of delayed dining gratification. The speaker treats a human victim as a meal to be rationed.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "1/4 Flying Lifelink for {1}{W}{B}; at end of turn, if you gained 3 or more life, each opponent loses 3 life. EDHREC rank 4183 — one of the more-played uncommons from M21 in Commander. Appears most frequently in Edgar Markov and Anje Falkenrath vampire tribal lists and dedicated Orzhov lifegain drain builds.",
+      "sources": ["Scryfall oracle_text, power/toughness 1/4, edhrec_rank: 4183"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Edgar Markov", "set": "Commander 2017", "note": "premier vampire tribal Commander; Indulging Patrician fits his 99 as a consistent lifelink attacker enabling the drain trigger"},
+    {"name": "Cliffhaven Vampire", "set": "Oath of the Gatewatch", "note": "mechanical parallel: white-black vampire that punishes opponents when you gain life"},
+    {"name": "Vito, Thorn of the Dusk Rose", "set": "Core Set 2021", "note": "set-mate that also converts lifegain into opponent life loss; synergizes in the same deck shells"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -57,6 +57,8 @@ subject_known_ip: true
 suspected_ip: Eutropia
 ip_confidence: high
 ip_verified: true
+symbols:
+  - constellation
 ---
 
 # Eutropia the Twice-Favored (Theros Beyond Death)

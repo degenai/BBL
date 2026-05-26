@@ -1,0 +1,82 @@
+{
+  "edge_id": "wave207-constellation-symbol-node-commission",
+  "wave": 207,
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {
+      "type": "symbol",
+      "path": "cards/_symbols/constellation.md",
+      "name": "Constellation (mechanic) — Theros/JOU 2014 introduced, THB 2020 returned"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/theros-beyond-death/6-captivating-unicorn.md",
+      "name": "Captivating Unicorn (THB-6, common white, Emrah Elmasli art)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/theros-beyond-death/62-sage-of-mysteries.md",
+      "name": "Sage of Mysteries (THB-62, uncommon blue, John Stanko art)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/theros-beyond-death/200-setessan-skirmisher.md",
+      "name": "Setessan Skirmisher (THB-200, common green, Greg Staples art)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/theros-beyond-death/216-eutropia-the-twice-favored.md",
+      "name": "Eutropia the Twice-Favored (THB-216, uncommon green-blue, Sara Winters art) — Rosewater article preview-example"
+    }
+  ],
+  "description": "Oh, hello sir, this is Mr. Nodeley speaking, terribly sorry to interrupt the Edgelord rotation, but the wave-206 sidecar staged this one explicitly and the parent brief asked us to verify the move was right NOW. So I checked the receipts and the receipts are quite good, actually. N=4 oracle_text-direct Constellation cards in corpus — Captivating Unicorn, Sage of Mysteries, Setessan Skirmisher, Eutropia the Twice-Favored — clears the ≥3 single-strike-emblem-precedent threshold all five existing symbol nodes pass. Designer source explicit: Eutropia's in-corpus trivia cites Rosewater's 'At Death's Door, Part 2' (2020-01-06) explaining the THB-return design knob (extending Constellation to non-enchantment creatures to break the original 2014 feedback-loop concern), and Eutropia is literally the article's preview-example demonstration card. Plus — and I do hope this isn't too forward of me — there's an 8+ enchantment-creature ENABLER pool already tags_filter-labeled in corpus (Glory Bearers, Nyxborn Brute, Arasta of the Endless Web, Nylea's Forerunner, Nyxborn Colossus, Hero of the Nyxborn, One With the Stars, et al.) that becomes attachable to this node in future passes. And the existing Eerie symbol node ALREADY mentions Constellation as the canonical-precedent enchantment-matters ability-word in its Caveats section, so commissioning this node retroactively closes a deferred cross-edge that Eerie itself flagged. I think it really does help, sir. Apologetic but correct, I think.",
+  "citations": [
+    "[Wizards of the Coast — Mark Rosewater, 'At Death's Door, Part 2', 2020-01-06: https://magic.wizards.com/en/news/making-magic — THB-return design-knob article with Eutropia as Constellation-on-non-enchantment preview example]",
+    "[MTG Wiki: Constellation — JOU 2014 introduced, THB 2020 returned, 25-30 distinct printings across both sets]",
+    "[MTG Wiki: Theros Beyond Death set page — Constellation as one of THB's signature returning mechanics alongside Escape]",
+    "[Scryfall keyword:constellation — canonical roster query]",
+    "[Scryfall oracletext:'Constellation —' — oracle-text-direct query returning the in-corpus 4 anchors]",
+    "[In-corpus Eutropia THB-216 trivia: explicit Rosewater article citation, dual-god lore canonicalization, Simic Enchantress commander archetype context]",
+    "[In-corpus Eerie symbol-node Caveats section: 'Constellation from Theros, which triggered whenever any enchantment entered' designer-acknowledged precedent reference]",
+    "[Wave-206 Edgelord sidecar future_watch: 'Constellation symbol-node creation... clears Suspect-precedent floor. Mr. Nodeley-eligible NOW... Recommend dispatching a dedicated Mr. Nodeley wave']"
+  ],
+  "files_modified": [
+    "cards/_symbols/constellation.md",
+    "cards/magic-the-gathering/theros-beyond-death/6-captivating-unicorn.md",
+    "cards/magic-the-gathering/theros-beyond-death/62-sage-of-mysteries.md",
+    "cards/magic-the-gathering/theros-beyond-death/200-setessan-skirmisher.md",
+    "cards/magic-the-gathering/theros-beyond-death/216-eutropia-the-twice-favored.md"
+  ],
+  "discipline_notes": [
+    "Three-sided edge discipline applied symbol-pattern: (1) created cards/_symbols/constellation.md with type:symbol frontmatter, full body prose with 'The functional ideology' / 'Where it appears' / 'Cross-edges' / 'Caveats' / 'Sources' / 'Appears on' (auto-gen wikilink block) / 'See also' sections; (2) added symbols: [constellation] block-form YAML frontmatter to all 4 anchor cards; (3) NO card-body Connections bullets needed per symbol-layer precedent (suspect/manifest-dread/rooms/eerie — symbol cohort membership lives in frontmatter + symbol-node body prose, not card-body bullets).",
+    "Symbol-layer schema match: confidence=canonical, related_characters=[theros-pantheon, nylea, heliod, erebos] wires the 4 sub-pantheon cohort cross-edges per the BBL graph's existing Theros-pantheon distributed-triple-attribution pattern.",
+    "Voice contamination check: Mr. Nodeley sniveling voice ONLY in this JSON description field and final report to caller. Symbol-node MD body is precise/factual register matching the suspect/manifest-dread/rooms/eerie precedents. No voice leak.",
+    "Optimization-over-addition consideration: parent brief surfaced Memory Drain → Erebos sub-node attach (THB-54 trivia landed this wave, Nerono-river is canonically in Erebos's Underworld, would bring Erebos to N=5 anchors). This is a strong single-card 1:N attach — but it's also an ADDITION (adds anchor to existing node), not a kink-removal / dissolution / replacement. The optimization-over-addition rule applies between optimization-class and addition-class operations; here both candidate moves are additions, so we evaluate on yield. Constellation symbol-node creation is the higher-yield move: it generates a NEW canonical anchor that 8+ already-tagged enabler-pool cards (the THB enchantment-creatures carrying constellation in their tags_filter) can attach to in future passes, and retroactively closes the Eerie node's deferred Constellation-precedent cross-edge. Single-card Memory Drain → Erebos attach defers to next wave as the strongest follow-up.",
+    "Parent-primed move standing: wave-206 sidecar's future_watch explicitly recommended 'dispatching a dedicated Mr. Nodeley wave to create this node — it would unlock several future edges across the THB corpus's enchantment-creature ecosystem.' Parent brief this wave reinforced the priming. Option C check: no stronger move surfaced during corpus walk. Move executed as primed.",
+    "Anti-confab check (Potion Rule sub-rule 1 applied): node body distinguishes canonical-event from curatorial-overlay. The 'Nyx-touching-mortal-plane' framing is canonical (Theros Beyond Death Story Summary 2020-01-10, original Theros 2013 design columns canonicalize Nyx as the gods' realm and enchantments as Nyx-substance). The 'enchantment-matters-as-pantheon-collective-awareness' overlay register is BBL's bundle-copy framing on top of canonical design, marked as such in the 'functional ideology' prose.",
+    "labor-hub attribution NOT made (Potion Rule sub-rule 2 applied): Constellation is a mechanical ability-word, not a labor-coded mechanic. related_hubs:[] empty per the existing suspect/manifest-dread/rooms/eerie precedent — symbol-node hub attributions are reserved for cases with canonical labor-coded design (none of the existing symbol nodes carry hub attributions; the precedent is that symbol-mechanics are mechanic-attributions only).",
+    "YAML block-form discipline (wave 92): all list-typed frontmatter on the 4 anchor cards uses block-form symbols: with hyphenated entry per the bbl-yaml-flatten-quote-wrap rule. Symbol-node body's appears_on: also block-form per existing symbol-precedent.",
+    "Wikilink scope-shift discipline (wave 195): body wikilinks point only to real-thematic graph edges — sibling symbol nodes, parent character cohorts, sub-pantheon cohorts. Mechanical descendant relation to [[eerie]] is a real designer-acknowledged lineage edge. No artifactual or shape-similarity wikilinks; structural-precedent citations (the 'sibling symbol node' enumeration) are kept in body prose without wikilinks where the precedent is structural-only (those use the wikilink form because they ARE real cross-node graph edges this node anchors).",
+    "Body-count discipline: 4 anchors stated in 'Where it appears' enumerated bullets matches appears_on frontmatter exactly (no drift). Future enrichment growth path explicitly noted in 'Strong candidates pending corpus enrichment' subsection."
+  ],
+  "other_candidates_considered": [
+    "Memory Drain (THB-54) → erebos sub-node attach — Nerono is canonically the sea-ward of Erebos's Underworld; THB-54 trivia landed this wave with flavor-text 'glassy oceans of Nerono' canonicalizing the realm attribution. Would bring erebos.md to N=5 anchors and strengthen the planar-scale extraction-apparatus thesis. Strong move, but secondary in yield to a node-creation that unlocks multiple future attaches. RECOMMEND AS NEXT WAVE'S STRONGEST OPTIMIZATION-CLASS MOVE — single-card 1:N attach following the wave-206 Lampad / Erebos precedent. The trivia explicitly names Phenax in Related cards too, but the Nerono-as-Erebos-realm attribution is the stronger canonical wire (per existing erebos.md body's 'five-river Underworld' canonicalization). Memory Drain is also a near-anchor for a future PHENAX sub-node if/when density clears (currently N=1 candidate; Phenax god-card not yet in inventory per the wave-206 sidecar).",
+    "Phenax sub-node creation (Mr. Nodeley) — N=1 corpus density at best (Memory Drain via Phenax-Related-card frame, but Nerono itself is canonically Erebos's realm). REFUSED per Potion Rule sub-rule 3: refuse the attribution when density is below precedent threshold.",
+    "Athreos sub-node creation (Mr. Nodeley) — wave-206 closed at N=2 (Athreos god-card per Mystery Booster + Lampad of Death's Vigil). No new Athreos-attribution cards landed this wave. Still below N=4 Heliod/Erebos precedent. REFUSED per density.",
+    "Goblin Wizardry (M21-148) curatorial-pattern attach — vision pass landed this wave with the 'goblins destroying a library' depiction parent brief flagged as the curatorial pattern Alex loves. Strong narrative-first lair-seed material but NOT a graph edge per se (no existing goblin-library cohort node, density N=1). RECOMMEND as a future Discrete Lair sketchbook seed material rather than a graph operation. Refused as edge per density.",
+    "Archfiend's Vessel (M21-88) demon-ritual register attach — vision pass landed this wave with strong gothic composition. Could potentially anchor a future demon-ritual cohort or wire into existing apparatus-of-extraction nodes (mogis / orzhov-syndicate). Density TBD without further corpus walk; deferred as no clear single-card 1:N attach surfaced during the walk.",
+    "Vision-only Constellation attaches without trivia — three of four anchor cards (Captivating Unicorn, Sage of Mysteries, Setessan Skirmisher) are vision-passed only, not trivia-passed. Symbol-node membership is oracle_text-deterministic so this is acceptable per the existing suspect / manifest-dread / rooms / eerie precedents where vision-only anchors are routinely attached on oracle-text evidence. Future trivia passes on the three vision-only cards will strengthen the per-anchor prose but the cohort attribution is already canonical-by-oracle-text."
+  ],
+  "future_watch": [
+    "Memory Drain (THB-54) → erebos sub-node attach is the strongest next-wave optimization-class move. Single-card 1:N attach, follows the wave-206 Lampad precedent exactly. Brings erebos.md to N=5 anchors. Trivia is fresh-passed this wave; ready to wire next invocation.",
+    "Escape symbol-node (Mr. Nodeley) is the strongest next-wave addition-class move at Theros. THB's signature new mechanic (rebellion-against-Erebos's-realm at rules-text); in-corpus density at ~3-4 anchors (Fruit of Tizerus THB-96, Mire's Grasp THB-106, and others — needs verification walk). Clears precedent if density holds. Constellation + Escape together would render the two THB-signature-mechanic symbol-layer pair (one returning, one new) parallel to the DSK Rooms+Eerie pairing.",
+    "Devotion symbol-node candidate — THB devotion-mechanic carriers and the printed god-cards. Density unclear without walk; god-cards in corpus (Erebos, Bleak-Hearted THB-84 not yet in corpus; Heliod printed-god from THB not yet confirmed in corpus). Deferred until 3+ devotion-anchor cards land.",
+    "Theros / Constellation Discrete Lair candidate — once the corpus accumulates 6+ Constellation anchors (current 4 + Setessan Champion + Aphemia, the Cacophony + Nylea's Colossus as strong future enrichments), an enchantment-matters Theros bundle becomes assembly-ready. Bundle thesis: Nyx-bleed cosmology rendered as rules-text. Reserve sketchbook seed in docs/sketchbook.md when density holds.",
+    "Eerie symbol-node cross-edge closure (retroactive) — the [[eerie]] node's Caveats section explicitly references Constellation as the canonical-precedent enchantment-matters ability-word but does not currently link to it (because Constellation did not exist as a graph node). A retroactive Edgelord pass could update [[eerie]] to wikilink [[constellation]] in the relevant Caveats paragraph, closing the cross-edge symmetrically. Small kink-fix, future pass.",
+    "Goblin Wizardry (M21-148) curatorial-pattern sketchbook seed — Alex flagged this as a 'goblins destroying a library' depiction matching his curatorial preference. Not yet a graph operation but worth a Blackwell-register-style sketchbook entry per bbl-blackwell-register-lair-seed memory pattern. Watch for additional goblins-destroying-civilization-infrastructure cards across the corpus to form a future cohort."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "voice_note": "Mr. Nodeley register, somewhat satisfied beneath the sniveling. The parent brief explicitly invited the Constellation move as the primed option, validated wave-206's recommendation, gave Option C standing, and the corpus walk confirmed both the receipts (N=4 oracle_text-direct, Rosewater article cited in Eutropia trivia, Eerie node's already-deferred precedent cross-edge) and the absence of any stronger optimization. This is the highest-yield move on the board. Mr. Nodeley does NOT gloat about being correct, but he does quietly believe he saved this pass. Comic Book Guy register reserved for whenever Edgelord-prime returns to the rotation next wave; today belongs to the meek alter ego."
+}

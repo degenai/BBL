@@ -1,0 +1,41 @@
+{
+  "card_name": "Memory Drain",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "54",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Memory Drain is original to Theros Beyond Death (January 2020) and has never been reprinted. The set's narrative centers on the Underworld — a multi-ward realm ruled by Erebos — and Phenax, god of deception, is the patron of the Returned and may hold domain over Nerono's sea.",
+      "sources": ["Scryfall: reprint: false, released 2020-01-24"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Nerono is one of the geographic wards of the Theros Underworld: final home of souls haunted by their memories and mariners lost at sea. Vast still oceans, aimless ghost ships, and titanic algae-slick chains define the landscape. Within it lies the Labyrinth of Memories, a maze of waterways that traps travelers in an inescapable circuit for eternity. The flavor text literalizes this: Alythos sits staring over Nerono's glassy ocean, trying in vain to remember what he knew he had forgotten.",
+      "sources": ["Scryfall flavor_text", "WebSearch snippet: Underworld lore, Nerono ward description"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Alythos sat and stared blankly out over the glassy oceans of Nerono, trying in vain to remember what he knew he had forgotten.\" — Alythos appears to be a named soul of Nerono and does not appear elsewhere in published Theros canon as a major character.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At 4 mana for Counter target spell plus Scry 2, Memory Drain is limited-oriented and does not see competitive play above Pauper. EDHREC rank 16200 places it among the lowest-played cards in Commander. Hipsters of the Coast THB common review noted that 4-mana soft counters are generally too slow for Limited.",
+      "sources": ["Scryfall edhrec_rank: 16200", "Hipsters of the Coast: 'Every Common in Theros Beyond Death Reviewed', January 2020, via WebSearch snippet"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Phenax, God of Deception", "set": "Theros", "note": "god of deception and patron of the Returned; Nerono falls in his sea-and-memory domain"},
+    {"name": "Ashiok, Nightmare Muse", "set": "Theros Beyond Death", "note": "nightmare planeswalker allied with Phenax; mind-invasion and memory theft are Ashiok's core mechanic"},
+    {"name": "Labyrinth of Skophos", "set": "Theros Beyond Death", "note": "set-mate encoding the same inescapable-confinement motif as the Labyrinth of Memories"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -76,3 +76,15 @@ A lone robed figure stands on a low rocky promontory, arm stretched upward holdi
 **Iconography:** golden-light, shattering-form, holy-beam
 **Genre cues:** fantasy, greek-mythology
 
+## Trivia
+
+- **Set context** — Theros Beyond Death (released January 2020) returns to the Greek-mythology-inspired plane of Theros, with a central narrative focused on the planeswalker Elspeth Tirel escaping the Underworld and defying the gods. The set's thematic spine is mortal defiance against divine authority, which the flavor text here embodies directly. `[Scryfall: set Theros Beyond Death, released 2020-01-24]`
+- **Reprint history** — Revoke Existence originated in Scars of Mirrodin (October 2010, art by Allen Williams, flavor text attributed to Ganedor, a loxodon mystic). It was first reprinted in Born of the Gods (February 2014), gaining the Theros setting and Uremides quote, then again in Duel Decks: Venser vs. Koth and Double Masters (2020). The THB printing is the third set printing of this exact art and flavor text (Adam Paquette illustration), all attributed to Tikaia, disciple of Uremides. `[Scryfall: prints search oracle ID 289e1a7c]`
+- **Flavor text** — *"The time has come for us to throw off the chains of tyrannical gods and antiquated superstitions."* — Tikaia, disciple of Uremides `[Scryfall flavor_text]`. Uremides is a philosopher of the polis Meletis on Theros; the Uremidean school emphasizes logical reasoning, rhetorical excellence, and theories of ethics — and is explicitly skeptical of divine authority. The Born of the Gods printing quoted Uremides directly: "There will come a time when the gods will look at mortals and shudder." The THB reprint quotes his disciple, extending the same anti-theocratic lineage. `[Scryfall BNG flavor_text; MTG Wiki: Meletis, via WebSearch snippet]`
+- **Mechanical note** — Revoke Existence is a Sorcery (not an Instant) that exiles a single artifact or enchantment for 2 mana. Its format legality is broad: legal in Pauper, Pioneer, Modern, Legacy, and Commander. The exile clause rather than destroy is meaningful on Theros, a plane where enchantments are abundant (the bestow mechanic) and indestructible gods are enchantment-typed. `[Scryfall oracle_text and legalities]`
+
+### Related cards
+- Revoke Existence (Scars of Mirrodin, no. 18) — original printing; different art by Allen Williams, Mirran watermark
+- Revoke Existence (Born of the Gods, no. 25) — first Theros printing; quotes Uremides directly rather than his disciple
+- Elspeth Conquers Death (Theros Beyond Death, no. 13) — thematic sibling in the same set; both render divine structures removable by mortal will
+- Ray of Distortion (Onslaught) — functional predecessor in the exile-enchantment space, also white instant/sorcery removal

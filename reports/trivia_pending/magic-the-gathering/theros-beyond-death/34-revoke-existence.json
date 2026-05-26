@@ -1,0 +1,41 @@
+{
+  "card_name": "Revoke Existence",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "34",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Theros Beyond Death (released January 2020) returns to the Greek-mythology-inspired plane of Theros, with a central narrative focused on Elspeth Tirel escaping the Underworld and defying the gods. The set's thematic spine is mortal defiance against divine authority, which the flavor text here embodies directly.",
+      "sources": ["Scryfall: set Theros Beyond Death, released 2020-01-24"]
+    },
+    {
+      "category": "design",
+      "text": "Revoke Existence originated in Scars of Mirrodin (October 2010, art by Allen Williams, flavor text by Ganedor, loxodon mystic). First reprinted Born of the Gods (February 2014) with Uremides quote; then Duel Decks: Venser vs. Koth; then Double Masters (August 2020). The THB printing uses the same Adam Paquette art and Tikaia flavor text as the Double Masters reprint — this is the fourth unique print of the card.",
+      "sources": ["Scryfall: prints search oracle ID 289e1a7c-b301-4395-baf8-e9a1c6d38aab"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The time has come for us to throw off the chains of tyrannical gods and antiquated superstitions.\" — Tikaia, disciple of Uremides. Uremides is a philosopher of the polis Meletis; the Uremidean school emphasizes logical reasoning and is explicitly skeptical of divine authority. The Born of the Gods printing quoted Uremides directly: 'There will come a time when the gods will look at mortals and shudder.' The THB reprint quotes his disciple, extending the same lineage.",
+      "sources": ["Scryfall flavor_text THB + BNG prints", "MTG Wiki: Meletis, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Revoke Existence is a Sorcery that exiles a single artifact or enchantment for 2 mana. Legal in Pauper, Pioneer, Modern, Legacy, and Commander. The exile clause is particularly relevant on Theros where gods are enchantment-typed and indestructible — destroy effects fail, exile does not.",
+      "sources": ["Scryfall oracle_text and legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Revoke Existence", "set": "Scars of Mirrodin", "note": "original printing; Allen Williams art, Mirran watermark, Ganedor flavor text"},
+    {"name": "Revoke Existence", "set": "Born of the Gods", "note": "first Theros printing; quotes Uremides directly rather than disciple Tikaia"},
+    {"name": "Elspeth Conquers Death", "set": "Theros Beyond Death", "note": "thematic sibling in same set; mortal-defies-divine-structure motif"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

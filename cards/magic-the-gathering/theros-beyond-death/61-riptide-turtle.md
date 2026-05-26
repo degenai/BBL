@@ -75,3 +75,13 @@ A large sea turtle occupies most of the frame, viewed from slightly above and be
 **Iconography:** spines, shell, underwater
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Riptide Turtle is an original printing in Theros Beyond Death (January 2020) — it has not been reprinted. The card is a blue common in a set defined mechanically by Constellation (enchantment-matters triggers), escape (exiling cards from your graveyard to recast spells), and the bestow-adjacent god subtype. `[Scryfall: reprint: false, set Theros Beyond Death]`
+- **Flavor text and lore** — *"As the storm waves crushed my sailors, I cried out to Thassa. The next time I saw them, hard shells encased them, and they swam away to safety."* — Siona, captain of the Pyleas `[Scryfall flavor_text]`. Thassa is the god of the sea on Theros, and the flavor text describes a divine miracle in the mode of Ovid's Metamorphoses: sailors transformed into turtles to survive a storm. Siona, Captain of the Pyleas (THB, no. 226), is a legendary white-green creature in the same set; she is described throughout Theros lore as a seafarer who has voyaged to mystical islands and survived divine encounters. The Pyleas is her ship. `[WebSearch snippet: Siona lore summary; Scryfall card Siona, Captain of the Pyleas]`
+- **Mechanical note** — A 0/5 with Flash and Defender for {1}{U} is a clean combat trick and block-setter. Flash lets it ambush attackers at instant speed. Toughness-5 at 2 mana is a high ceiling for a common defender; it can stall large creatures. EDHREC rank 9460 — modestly played, primarily in Thassa-themed or turtle tribal Commander shells. `[Scryfall oracle_text, power/toughness, edhrec_rank: 9460]`
+
+### Related cards
+- Siona, Captain of the Pyleas (Theros Beyond Death, no. 226) — the legendary creature whose flavor text appears here; her card generates Soldier tokens via Aura attachment
+- Thassa, Deep-Dwelling (Theros Beyond Death, no. 71) — the god whose divine intervention the flavor text describes
+- Arixmethes, Slumbering Isle (Commander 2018) — the other iconic Theros turtle in MTG, a massive sea-turtle island
