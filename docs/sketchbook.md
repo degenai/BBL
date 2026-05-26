@@ -4,6 +4,42 @@ Catch-all for half-baked concepts, future work, and "wouldn't it be cool if" not
 
 ---
 
+## Discrete Lair seed — Bolbuss bundle (flavor-text-only nobility)
+
+**The seed (Alex 2026-05-25, wave 197):** Prince Bolbuss surfaces during the Expanding Ooze (MH3-184) trivia pass — a named character whose *entire canonical existence* is the four-line flavor text on one common card. No other MTG appearance. No wiki entry beyond what the card itself prints. Bolbuss is a person Wizards invented for one joke about ooze and never returned to.
+
+**The thesis (Eliot Rosewater voice, RPC narration):** *"Somebody should put him in a bundle."*
+
+**Lair shape (forming):** A Discrete Lair anchored on **named characters whose only print existence is flavor-text-only commons.** Not minor-character cards (there are too many of those), but characters who exist solely as quoted speakers / referenced figures in the flavor box of a single common card, with no playable card depicting them and no expanded lore beyond their printed line. The lair's curatorial thesis: museum-text for the canonically-invisible — Wizards built a multiverse of named figures most players will never notice, and the curator's job is to walk the catalog and pull the ones whose existence depends entirely on a single sentence.
+
+**Working title candidates:**
+- *Discrete Lair NNN — Prince Bolbuss (and the nobility of one printed sentence)*
+- *Discrete Lair NNN — Quoted Once (canonical figures with no second printing)*
+- *Discrete Lair NNN — Bolbuss Court* (Bolbuss as the lead, surrounded by other flavor-text-only NPCs)
+
+**Cohesion-substrate predicate (the membership rule):**
+- Card must depict an ooze, item, scene, OR creature (NOT the named figure themselves — that's the inversion)
+- Card's flavor text must NAME a specific canonical character by name
+- That named character must have no other corpus card depicting them
+- Bonus filter: character must have ≤ 1 mention across MTG Wiki / Scryfall (truly minor)
+
+**Why it fits the brand thesis:** Aligns with museum-curation framing ([[bbl-museum-curation-framing]]) at its purest — these are the wall-text labels for figures the museum collected but never displayed. Labor-credit-erasure parallel: Wizards invented these people, used them once for a flavor beat, then never returned. The bundle returns the credit.
+
+**Pricing leverage:** every card in the lair is bulk-common ($0.10–$0.50). The premium is entirely curatorial labor — the buyer is paying for someone to have found these and arranged them. Pure substrate per [[bbl-substrate-beats-rarity]].
+
+**Open questions when this gets built:**
+- How many cards make a coherent lair? (8–15 is the BBL norm; this thesis can scale to 20+ if substrate density allows)
+- Does Bolbuss-the-card go IN the bundle, or sit AT the center as the title-card-equivalent?
+- Does the bundler's `why_it_fits` field quote the actual flavor texts verbatim? (Suggest yes — the museum wall-text IS the printed sentences)
+- Cohort-node candidate: `flavor-text-only-characters` symbol-tier or character-tier? Probably symbol — these aren't a designer-coordinated cohort, they're a curatorial-discovery cohort. Threshold same as other layer nodes: ≥3 corpus cards meeting the predicate.
+
+**Surfaced cards so far (this wave):**
+- Prince Bolbuss — Expanding Ooze (MH3-184) flavor text
+
+**Next-pass scout:** when running trivia, watch for the same pattern (named figure quoted-once in flavor with no second appearance). Append to this section as found.
+
+---
+
 ## Thumbnail composer (anti-slop A/B workflow)
 
 **The idea (Alex 2026-05-11):** bundle thumbnails for storefront / catalog grid / social preview should NEVER be straight AI-generated. That reads as cheap and slop-y to anyone who recognizes the aesthetic, which is everyone now. Instead: AI assists *composition*, not generation. Library of real assets, programmatic combinatorial layouts, flashcard A/B picker for Alex to choose the winner.

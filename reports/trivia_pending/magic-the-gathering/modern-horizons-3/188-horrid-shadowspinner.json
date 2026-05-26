@@ -1,0 +1,53 @@
+{
+  "card_name": "Horrid Shadowspinner",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "188",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "suspected_ip field was present but empty (none set); no IP task required.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"'The daylight's done, the nightmare's spun. It crawls off the loom, and into your room.' —Kithkin children's rhyme\" The rhyme is attributed to the Kithkin of Lorwyn/Shadowmoor. The loom metaphor is apt: on Shadowmoor (Lorwyn's dark counterpart after the Great Aurora), Kithkin society was defined by the 'mindweft' — a shared empathic consciousness that in Lorwyn bound them in comforting harmony, but in Shadowmoor linked them in constant paranoia. A nightmare literally 'spun off the loom' of shared fear is cosmologically precise for this plane. [Scryfall: flavor_text; MTG Wiki: Kithkin, Lorwyn-Shadowmoor, via WebSearch snippet]",
+      "sources": ["Scryfall", "MTG Wiki: Kithkin (via WebSearch snippet)"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Kithkin are small humanoids native to the Lorwyn/Shadowmoor plane. Their villages, called douns in Shadowmoor, became armed fortresses against the plane's horrors after the Great Aurora transformed Lorwyn's idyllic landscape into a world of perpetual gloom. MH3 does not visit Lorwyn as a primary plane, but the Kithkin children's rhyme flavor text plants the card firmly in that plane's cultural register. The Horror type with the Kithkin-attributed rhyme creates a specific relationship: this creature is what Kithkin parents warn children about. [MTG Wiki: Kithkin / Lorwyn-Shadowmoor, via WebSearch snippet]",
+      "sources": ["MTG Wiki: Kithkin/Lorwyn-Shadowmoor (via WebSearch snippet)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Horrid Shadowspinner is a 2/3 Horror for {1}{U}{B} with Lifelink and a loot-on-attack trigger (draw cards equal to power, discard that many). The combination of Lifelink and looting on an evasionless body is an unusual pairing — the Lifelink rewards attacking into stalled boards while the loot churns cards. EDHREC rank 11475 is among the lowest in the batch, suggesting limited Commander adoption. [Scryfall: oracle_text, edhrec_rank 11475]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Ben Wootten, a New Zealand-based artist with over 100 MTG credits including Birds of Paradise and multiple horror-adjacent commissions. The card was previewed by Ben Braun-Duin (source_uri confirmed in Scryfall preview data). Wootten's art here — abstract branching shadow-limbs against an ochre textured surface — departs from representational creature work toward horror abstraction. [Scryfall: artist = Ben Wootten, preview.source = Ben Braun-Duin; Gatherer artist search]",
+      "sources": ["Scryfall", "Gatherer"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Dreamspoiler Witches",
+      "set": "Lorwyn",
+      "note": "Lorwyn plane faerie with nightmare-creature role; shares the Lorwyn-horror thematic register that the Kithkin rhyme invokes"
+    },
+    {
+      "name": "Nightshade Schemers",
+      "set": "Lorwyn",
+      "note": "Kithkin-adjacent horror creature from the original Lorwyn block"
+    },
+    {
+      "name": "Shadow of Doubt",
+      "set": "Ravnica: City of Guilds",
+      "note": "Classic {U}{B} horror-adjacent spell; same color identity as Horrid Shadowspinner for deck-building resonance"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

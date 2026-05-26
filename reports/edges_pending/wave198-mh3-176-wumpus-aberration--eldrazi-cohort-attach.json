@@ -1,0 +1,36 @@
+{
+  "edge_id": "wave198-mh3-176-wumpus-aberration--eldrazi-cohort-attach",
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/176-wumpus-aberration.md", "name": "Wumpus Aberration (MH3-176)"},
+    {"type": "character", "path": "cards/_characters/eldrazi.md", "name": "Eldrazi (brood / faction-collective)"}
+  ],
+  "description": "Wave 197 staged this exact pickup with next_pass_suggestions language and the body-prose register guidance (foreground Wumpus-lineage continuity, not vision-iconography, since vision only read 'aberration, tentacles, bird' without naming the brood). Took the directive as written. Three-sided attach: (1) card frontmatter `characters: [eldrazi]` block form per wave-92 YAML discipline; (2) card body `## Connections` bullet with exactly one `[[eldrazi]]` wikilink per wave-195 EXACTLY-ONE-WIKILINK rule, four backticked schema citations (Scryfall type_line + Hunted Wumpus oracle_text + Shivan Wumpus oracle_text + Wizards MH3 design articles), prose-foregrounded the wumpus-lineage continuity (Hunted Wumpus MMQ-253 1999 → Shivan Wumpus PLC-137 2007 → Wumpus Aberration MH3-176 2024) per wave-197 staged guidance plus the canonical *brood-corruption-of-existing-subtypes* register (coatl→eldrazi, sphinx→eldrazi, now wumpus→eldrazi); (3) cohort node side — added to `appears_on:` frontmatter, inserted into auto-generated `## Appears on` rendered block between Territory Culler and Kozilek's Sentinel, added full body-prose entry between Territory Culler and Horrific Assault in the Cards-in-corpus roster, updated two prose counters from `ten MH3` → `eleven MH3` and `thirteen Eldrazi anchors` → `fourteen Eldrazi anchors in the body roster` to keep the body-as-canonical-count convention intact, plus extended the Modern-Horizons-3 thesis paragraph to name Wumpus Aberration alongside Territory Culler as the brief's two named callouts (Landfall-first + Wumpus-first).",
+  "citations": [
+    "[Scryfall: MH3-176 type_line \"Creature — Eldrazi Beast\", oracle_text Devoid + Trample + the {C}-spent drawback condition]",
+    "[Scryfall: Hunted Wumpus MMQ-253 oracle_text — 1999 lineage originator]",
+    "[Scryfall: Shivan Wumpus PLC-137 oracle_text — 2007 lineage second]",
+    "[Wizards: Modern Horizons 3 design articles — Eldrazi-resurgence brief, already cited in the Eldrazi node body]",
+    "[MTG Wiki: Eldrazi — brood-corruption-of-existing-subtypes register catalogued alongside Hope-Ender Coatl and Twisted Riddlekeeper entries]",
+    "[In-corpus: cards/_characters/eldrazi.md — node-body thesis register for consumption-is-metabolism + scale-gradient + brood-corruption-as-Eldritch-Moon-signature]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/modern-horizons-3/176-wumpus-aberration.md",
+    "cards/_characters/eldrazi.md"
+  ],
+  "other_candidates_considered": [
+    "Pre-existing Eldrazi body↔frontmatter drift (carried forward from wave 197): BFZ-129 Kozilek's Sentinel and OGW-97 Immobilizer Eldrazi are in `appears_on:` frontmatter but not in the body 'Cards in our corpus pointing here (current)' roster. Still out of scope for an Edgelord attach — that's a janitor-pass body-backfill (would author two body-prose entries from scratch by reading the cards' Vision + Trivia, then update counter from 'fourteen Eldrazi anchors' to 'sixteen' and 'three BFZ' to 'three BFZ + one OGW'). Surface again as next_pass_suggestion.",
+    "Wave-197 fresh-trivia leftover scan (Aerie Auxiliary MH3-18 / others): no new corpus density that crossed Nodeley threshold for a new cohort. Aven-warrior cohort still at 1 corpus card, requires ≥3.",
+    "Wave-197 IP-priority queue (8 Pokemon `suspected_ip` flagged cards): not Edgelord work; routed to `bbl_trivia_queue.py --ip-priority`. Not touched this invocation.",
+    "Prince Bolbuss flavor-text-only nobility (per wave-197 trivia surface + sketchbook entry this turn): this is a sketchbook Discrete Lair seed, not a graph operation. Single-card 'character' with one-line canon footprint is BELOW any sensible character-node threshold. Correct disposition is the sketchbook entry already written. No node, no edge.",
+    "Wave-196 Mogg Mob ↔ Goblin Arsonist mirror: audited the cards' Connections sections via Grep, no regression signal. The mogg-fanatic-lineage symbol future-watch (currently 2/4 corpus threshold) remains in deferred state — no new self-sacrifice goblins from waves 197 or 198 vision to bump the count. Hold."
+  ],
+  "next_pass_suggestions": [
+    "Pre-existing Eldrazi body↔frontmatter drift (now twice-deferred — wave 197 staged, wave 198 deferred again): BFZ-129 Kozilek's Sentinel + OGW-97 Immobilizer Eldrazi need body-prose entries authored to bring the body roster up to full coverage with the `appears_on:` frontmatter. Counter would move from 'fourteen' to 'sixteen Eldrazi anchors' and the BFZ/MH3 split language ('Across BFZ and MH3') would need 'Across BFZ, OGW, and MH3' phrasing. Estimate: 15-min Sonnet triage with the two cards' vision+trivia available; clean predicate from this wave's and wave 197's attach pattern.",
+    "Future-watch (carried forward from wave 196 + wave 197): mogg-fanatic-lineage symbol node remains in deferred state — still 2/4 corpus threshold. Goblin Arsonist + Mogg Mob is 2; would need 2 more corpus cards depicting the Mogg-Fanatic mechanical lineage (sacrifice for 1 damage) before Mr. Nodeley fires. No motion this wave.",
+    "Future-watch (new — emergent this wave): Wumpus Aberration's body-prose entry foregrounds a *brood-corruption-of-existing-subtypes* register that the eldrazi node body already implicitly catalogues across three entries (Hope-Ender Coatl coatl→eldrazi + Twisted Riddlekeeper sphinx→eldrazi + Wumpus Aberration wumpus→eldrazi). This is NOT a new node — three is sufficient pattern-presence to note in prose but well below 'graduate to first-class graph-object' threshold per Potion sub-rule 4. If a fourth brood-corruption-of-existing-subtype card lands (e.g. an Eldrazi-typed elf, dragon, demon, kavu), revisit whether the body paragraph in 'The functional ideology' warrants its own bullet (currently the register is split across the Eldritch Moon paragraph + the per-card entries). Don't promote to symbol or sub-character node — it's a body-prose pattern, not an edge-bearing primitive."
+  ],
+  "edgelord_mood": "sighed-but-mirrored"
+}

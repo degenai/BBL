@@ -80,3 +80,15 @@ A dark entity fills most of the frame, its form made up of radiating spindly bra
 **Iconography:** claws, branching limbs, spreading darkness
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Flavor text** — `"'The daylight's done, the nightmare's spun. It crawls off the loom, and into your room.' —Kithkin children's rhyme"` The loom metaphor is cosmologically precise for the Lorwyn/Shadowmoor plane: Kithkin society is organized around the "thoughtweft" (Lorwyn) / "mindweft" (Shadowmoor), a shared empathic web linking all Kithkin. In Shadowmoor, the dark-mirror version of Lorwyn after the Great Aurora, that shared consciousness became a channel for constant paranoia rather than comfort. A nightmare "spun off the loom" of collective fear is exactly what the plane's horror register calls for. `[Scryfall: flavor_text; MTG Wiki: Kithkin, Lorwyn-Shadowmoor (via WebSearch snippet)]`
+- **Plane context** — Kithkin are native to Lorwyn/Shadowmoor. Their settlements, called douns in Shadowmoor, became fortified against the plane's horrors after the Great Aurora transformed Lorwyn's idyllic landscape into perpetual gloom. MH3 does not visit Lorwyn as a primary plane, but the Kithkin children's rhyme grounds the card in that plane's cultural register: this creature is what Kithkin parents warn children about. `[MTG Wiki: Kithkin/Lorwyn-Shadowmoor (via WebSearch snippet)]`
+- **Mechanical note** — A 2/3 for {1}{U}{B} with Lifelink and a loot-on-attack trigger (draw cards equal to power, discard that many) is an unusual pairing: the Lifelink rewards attacking into stalled boards while the loot churns through cards. EDHREC rank 11475 indicates limited Commander adoption; the card is better-positioned in formats that reward the blue-black tempo-looting axis. `[Scryfall: oracle_text, edhrec_rank 11475]`
+- **Artist** — Illustrated by Ben Wootten, a New Zealand-based artist with over 100 MTG credits (Birds of Paradise among them). The card was previewed by Ben Braun-Duin per Scryfall preview metadata. `[Scryfall: artist = Ben Wootten, preview.source = Ben Braun-Duin]`
+
+### Related cards
+- Dreamspoiler Witches (Lorwyn) — Lorwyn-plane creature with nightmare adjacency; shares the plane-register this card's flavor text invokes
+- Mournwillow (Modern Horizons) — MH1 Horror in the same blue-black color identity, another Lorwyn-flavored horror-adjacent creature
+- Thoughtweft Gambit (Lorwyn) — references the Kithkin "thoughtweft" web directly; the loom-and-weave metaphor on Horrid Shadowspinner maps to this same mechanic
+

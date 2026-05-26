@@ -1,0 +1,53 @@
+{
+  "card_name": "Izzet Generatorium",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "191",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "suspected_ip field present but empty; no IP task required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Izzet Generatorium is one of Modern Horizons 3's energy-support artifacts, arriving as part of a broad push to revitalize the energy-counter resource in Modern. Per Meghan Wolff's Wizards preview article (May 23, 2024): 'possibly, like any sensible, somewhat eclectic scientist, you know that when in doubt the best thing to do is just draw cards, and if those cards don't have the answer, probably just draw more, and so Izzet Generatorium is for you.' MH3 reintroduced energy as a core format mechanic for the first time since Kaladesh (2016). [Wizards.com: 'From the Lab: Energy and Strategies in Modern Horizons 3,' Meghan Wolff, May 23 2024]",
+      "sources": ["Wizards.com: Meghan Wolff, 'From the Lab: Energy and Strategies in Modern Horizons 3,' 2024-05-23"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Hard hats are required. Shock-resistant coveralls aren't, but are highly recommended.\" The safety-theater register — one protection required, the actually-useful one merely recommended — is classic Izzet institutional voice: performative safety compliance over actual worker protection. The Izzet League historically treats its workers as expendable experimental subjects. [Scryfall: flavor_text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Izzet Generatorium amplifies energy generation (+1 to any batch of energy received) and converts spent energy into card draw (tap to draw a card if you've paid or lost 4+ energy this turn). EDHREC rank 4424 is the highest of the five cards in this wave — the strongest Commander adoption signal — reflecting the card's role as a reliable engine piece in energy-focused Commander decks. Scryfall's all_parts field flags 'Energy Reserve' as a related combo piece. [Scryfall: edhrec_rank 4424, all_parts combo_piece = Energy Reserve]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "The card is typed as an Artifact, not a Land — a detail easy to miss given the art depicts a fixed industrial location (a vast underground chamber). Illustrated by Yeong-Hao Han, a prolific MTG artist with 184+ credits spanning environments and constructs. The scale contrast in the art — a single tiny humanoid dwarfed by a vast machine with glowing eyes — is an Izzet design signature: the guild's researchers are always in service of the apparatus, never its masters. [Scryfall: type_line = Artifact, artist = Yeong-Hao Han; Gatherer artist search]",
+      "sources": ["Scryfall", "Gatherer"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Energy Reserve",
+      "set": "Modern Horizons 3",
+      "note": "Flagged by Scryfall as a combo piece with Izzet Generatorium in the same set"
+    },
+    {
+      "name": "Aetherworks Marvel",
+      "set": "Kaladesh",
+      "note": "The original energy payoff engine that defined Kaladesh Standard; MH3's energy push including Izzet Generatorium was designed partly to enable Marvel strategies in Modern"
+    },
+    {
+      "name": "Galvanic Discharge",
+      "set": "Modern Horizons 3",
+      "note": "The showcase energy card previewed in the same Wizards article as Izzet Generatorium; natural deckmate in MH3 Izzet energy lists"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -79,3 +79,15 @@ A tall conical stone monolith dominates the scene, covered in dense relief carvi
 **Iconography:** beast carving, knotwork, geometric patterns, stylized animal relief
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Saga narrative** — Ajani Fells the Godsire is part of MH3's cycle of planeswalker-companion Sagas, each depicting a pivotal moment in a planeswalker's pre-spark or early life. This Saga depicts Ajani Goldmane's Godsire hunt on the shard of Naya (Alara), which occurred immediately before the feast at which his brother Jazal was killed and Ajani's planeswalker spark ignited. The companion card in the set, Ajani, Nacatl Pariah // Ajani, Nacatl Avenger, depicts the spark-ignition itself. Per Jay Annelli: "Ajani Fells the Godsire takes place before this, when Ajani manages to take down a massive Godsire right before the feast where his brother is killed." `[CoolStuffInc: "Flavor Gems from Modern Horizons 3," Jay Annelli, June 12 2024]`
+- **The Godsire** — Godsire (Shards of Alara, no. 170) is an 8/8 legendary Beast native to Naya — the lush shard where creatures of power 5 or greater are treated as near-divine. Its flavor text: `"Lay sacrifice to the godsire that it may spare us, but save some for his progeny who also will hunger." —Syeena, elvish godtoucher.` Ajani killing one as a youth should have earned pride-respect; instead the kill was stolen by his rival Tenoch, deepening Ajani's outcast status before the night's fatal attack on his pride. `[Scryfall: Godsire (Shards of Alara), flavor_text; Ajani Goldmane lore summary via WebSearch]`
+- **Chapter mechanics as story beats** — The three Saga chapters map directly to the pre-feast sequence: (I) exile a large creature — the Godsire hunt; (II) create a 2/1 Cat Warrior token and put a vigilance counter on a creature — Jazal accompanies Ajani (MH3's Ajani Nacatl Pariah also creates a 2/1 Cat Warrior on entry to represent Jazal); (III) double strike until end of turn — the pride's fighting spirit before the ambush. EDHREC rank 11560 suggests this is primarily a flavor and limited-format piece. `[Scryfall: oracle_text, edhrec_rank 11560]`
+- **Artist and preview** — Illustrated by Piotr Dura. The art presents the Godsire not as a living creature but as a stone relief carving on a monolith — myth already calcified into monument, appropriate for a Saga where the events are ancient history by the time MH3 takes place. Previewed by The Vorthos Cast per Scryfall preview metadata. `[Scryfall: artist = Piotr Dura, preview.source = The Vorthos Cast]`
+
+### Related cards
+- Ajani, Nacatl Pariah // Ajani, Nacatl Avenger (Modern Horizons 3, no. 237) — direct narrative companion: this Saga is the prequel; the flipwalker depicts the spark-ignition event immediately after
+- Godsire (Shards of Alara, no. 170) — the legendary Naya beast depicted in this Saga's art and referenced in chapter I
+- Jazal Goldmane (Commander 2014) — Ajani's brother, whose death triggers Ajani's ascension; the 2/1 Cat Warrior token in chapter II echoes him
+

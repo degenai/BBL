@@ -41,6 +41,8 @@ last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/2/3/23c19f67-834c-4709-9038-7916ac0921eb.png?1717012633
 art_match_confidence: high
 needs_manual_review: false
+characters:
+  - eldrazi
 artist: Filip Burburan
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/176-wumpus-aberration--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/3/23c19f67-834c-4709-9038-7916ac0921eb.jpg?1717012633
@@ -88,4 +90,8 @@ A colossal creature dominates the scene: its bulky body is covered in writhing p
 - Hunted Wumpus (Mercadian Masques, no. 253) — the 1999 originator of the "opponent gets a free creature" Wumpus drawback pattern
 - Shivan Wumpus (Planar Chaos, no. 137) — second Wumpus with a similar enter-the-battlefield drawback
 - Emrakul, the Promised End (Eldritch Moon, no. 6) — apex Eldrazi with a similar "takes over opponent's turn" adversarial design philosophy
+
+## Connections
+
+- [[eldrazi]] — cohort anchor; Wumpus Aberration is typed Creature — Eldrazi Beast with Devoid (the card is colorless despite its `{3}{G}` cost) and per its own trivia is the *third* Wumpus printed in MTG history and the *first* to carry the Eldrazi creature type — a designer-coordinated brood-corruption of the canonical Wumpus drawback pattern that originates on Hunted Wumpus (Mercadian Masques, 1999) and continues on Shivan Wumpus (Planar Chaos, 2007). The "opponent may put a creature into play" penalty is preserved verbatim from the lineage but gated behind a `{C}`-spent escape hatch — incentivizing colorless mana production to unlock the full body, which is the MH3 Eldrazi-resurgence brief's signature design lever for converting non-Eldrazi creature types into the brood. The card extends the node's canonical *brood-corruption-of-existing-subtypes* register catalogued in the body's Hope-Ender Coatl and Twisted Riddlekeeper entries (coatl→eldrazi, sphinx→eldrazi, now wumpus→eldrazi). `[Scryfall: MH3-176 type_line "Creature — Eldrazi Beast", oracle_text Devoid + the {C}-spent drawback condition]` `[Scryfall: Hunted Wumpus MMQ oracle_text — lineage originator]` `[Scryfall: Shivan Wumpus PLC oracle_text — lineage second]` `[Wizards: Modern Horizons 3 design articles — Eldrazi-resurgence brief]`
 

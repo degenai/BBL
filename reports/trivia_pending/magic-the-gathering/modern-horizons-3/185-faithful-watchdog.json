@@ -1,0 +1,53 @@
+{
+  "card_name": "Faithful Watchdog",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "185",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Modern Horizons 3 (MH3), released June 14, 2024, is a draft-innovation set that injects Modern-legal cards directly into the format rather than via Standard rotation. The set revisits multiple planes through its planeswalker flipcard cycle, each accompanied by a personal Saga; the Faithful Watchdog hails from that same expansive set environment. [Scryfall: set_type = draft_innovation, released_at 2024-06-14]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Though its official designation was Third Battalion Patrol Hound 7, the soldiers dubbed their new companion Lord Fancy-Paws.\" The contrast between bureaucratic military designation (Third Battalion Patrol Hound 7) and the soldiers' affectionate nickname (Lord Fancy-Paws) is the joke's entire engine — rank-and-file soldiers quietly defying institutional coldness with attachment. [Scryfall: flavor_text field]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Faithful Watchdog is a 0/0 Dog that enters with three +1/+1 counters, effectively a 3/3 for {G}{W} with Vigilance. As a Pauper-legal common (confirmed in Scryfall legalities), it offers a clean rate in counter-synergy shells. EDHREC rank 8257 places it in the mid-range of MH3 commons — competitive but not widely built-around. [Scryfall: legalities.pauper = legal; edhrec_rank = 8257]",
+      "sources": ["Scryfall", "EDHREC"]
+    },
+    {
+      "category": "design",
+      "text": "The artist is Samuel Perin, whose Scryfall credits show 17 cards total — a relatively early-career MTG portfolio. The Faithful Watchdog commission appears to be one of his more prominent placements, in a higher-profile slot than the typical bulk-common assignment. [Scryfall: artist = Samuel Perin; Gatherer artist search]",
+      "sources": ["Scryfall", "Gatherer"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Isamaru, Hound of Konda",
+      "set": "Champions of Kamigawa",
+      "note": "The original 'armored loyal dog' archetype in white; shares the mono-white guardian dog role and was long the go-to 1-drop in Dog tribal"
+    },
+    {
+      "name": "Mowu, Loyal Companion",
+      "set": "War of the Spark",
+      "note": "Named loyal dog with +1/+1 counter synergy in Selesnya colors; shares the armor-and-faithfulness thematic slot"
+    },
+    {
+      "name": "Good-Fortune Unicorn",
+      "set": "Modern Horizons",
+      "note": "Same set lineage (Modern Horizons line), same +1/+1 counter-on-enter effect pattern in Selesnya"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "card_name": "Ajani Fells the Godsire",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "19",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "suspected_ip field present but empty; Ajani Goldmane is a Wizards-internal MTG character, not an external IP. No IP task required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ajani Fells the Godsire is part of MH3's cycle of planeswalker-companion Sagas, each depicting a pivotal pre-spark or early-life moment for a planeswalker. This Saga depicts Ajani Goldmane's famous Godsire hunt on Naya (Alara), which occurred before the feast at which his brother Jazal Goldmane was killed and Ajani's planeswalker spark ignited. The companion planeswalker card in the set is Ajani, Nacatl Pariah // Ajani, Nacatl Avenger, which depicts the spark-ignition itself. Jay Annelli (CoolStuffInc, June 12 2024): 'Ajani Fells the Godsire takes place before this, when Ajani manages to take down a massive Godsire right before the feast where his brother is killed.' [CoolStuffInc: 'Flavor Gems from Modern Horizons 3', Jay Annelli, 2024-06-12; Scryfall: set = mh3]",
+      "sources": ["CoolStuffInc: Jay Annelli flavor gems article", "Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Godsire is an 8/8 legendary Beast from Shards of Alara (ALA no. 170), native to the shard of Naya — a lush jungle plane defined by gigantic creatures with power 5 or greater. Its flavor text in the original printing reads: 'Lay sacrifice to the godsire that it may spare us, but save some for his progeny who also will hunger.' —Syeena, elvish godtoucher. The Godsire was a deity-level creature in the Naya food-chain; Ajani taking one down as a youth was a feat that would earn pride-respect — the kill was stolen by his rival Tenoch, which deepened Ajani's outcast status before the attack on his pride. [Scryfall: Godsire, Shards of Alara, via WebSearch snippet; Ajani Goldmane lore summary, WebSearch]",
+      "sources": ["Scryfall: Godsire (Shards of Alara), via WebSearch snippet", "Ajani Goldmane lore summary (WebSearch)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As an Enchantment — Saga, Ajani Fells the Godsire executes three chapters: (I) exile a creature with power 3 or greater (the Godsire-scale threat); (II) create a 2/1 Cat Warrior token and put a vigilance counter on a creature (Jazal echo — MH3's Ajani Nacatl Pariah creates a 2/1 Cat Warrior on entry to represent Jazal); (III) give a creature double strike until end of turn. EDHREC rank 11560 is low; the Saga is primarily a flavor piece and limited-format removal. [Scryfall: oracle_text, edhrec_rank 11560; Scryfall: Ajani Nacatl Pariah oracle_text]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Piotr Dura, whose portfolio spans fantasy environments and architectural pieces. The art depicts the Godsire not as a living creature but as a stone relief carving on a monolith, presenting the story as myth already calcified into monument — appropriate for a Saga framing where the event is ancient history by the time MH3 takes place. The card was previewed by The Vorthos Cast per Scryfall preview metadata, fitting given the card's lore-heavy nature. [Scryfall: artist = Piotr Dura, preview.source = The Vorthos Cast]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+      "set": "Modern Horizons 3",
+      "note": "Direct narrative companion — this Saga is the prequel; the flipwalker depicts the spark-ignition event immediately after Jazal's death"
+    },
+    {
+      "name": "Godsire",
+      "set": "Shards of Alara",
+      "note": "The creature depicted in this Saga's art and oracle text — the legendary Naya beast Ajani hunted before the feast"
+    },
+    {
+      "name": "Ajani, Strength of the Pride",
+      "set": "Core Set 2020",
+      "note": "Another Ajani card depicting his Naya-adjacent white-green identity and Cat Warrior token creation"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -88,3 +88,15 @@ A vast underground industrial space rendered in deep reds, oranges, and copper t
 ## Connections
 
 - [[izzet-league]] — Izzet infrastructure at plant-scale: a single small figure dwarfed by the guild's electrical-mass-production apparatus, with the energy mechanic on-card (generates extra energy counters, converts spent energy into card-draw) rendering the guild's experimental-research industrial labor base. Flavor text's safety-rhetoric ("Hard hats are required. Shock-resistant coveralls aren't, but are highly recommended.") is the guild's signature institutional register. `[MTG Wiki: Izzet League — industrial-research infrastructure and Niv-Mizzet's Firemind doctrine]`
+
+## Trivia
+
+- **Energy revival context** — Izzet Generatorium is one of MH3's energy-support artifacts, part of a broad push to revitalize the energy-counter resource in Modern for the first time since Kaladesh (2016). Per Meghan Wolff's Wizards preview article (May 23, 2024): "possibly, like any sensible, somewhat eclectic scientist, you know that when in doubt the best thing to do is just draw cards, and if those cards don't have the answer, probably just draw more, and so Izzet Generatorium is for you." `[Wizards.com: "From the Lab: Energy and Strategies in Modern Horizons 3," Meghan Wolff, 2024-05-23]`
+- **Flavor text** — `"Hard hats are required. Shock-resistant coveralls aren't, but are highly recommended."` The safety-theater register — one protection mandated, the actually-useful one merely optional — is classic Izzet institutional voice: performative compliance over genuine worker protection. The guild historically treats its researchers as expendable experimental subjects. `[Scryfall: flavor_text]`
+- **Artifact, not Land** — The card is typed as an Artifact, not a Land, despite depicting a fixed industrial location. The distinction matters mechanically (it enters untapped, can be countered, is subject to artifact removal). Scryfall's all_parts field flags Energy Reserve as a related combo piece in the same set. EDHREC rank 4424 is the highest of the five cards in this wave, reflecting strong Commander adoption as an energy engine piece. `[Scryfall: type_line = Artifact, edhrec_rank 4424, all_parts: Energy Reserve]`
+- **Artist** — Illustrated by Yeong-Hao Han, a prolific MTG artist with 184+ credits. The scale contrast in the art — one tiny humanoid figure before a vast machine with glowing mechanical eyes — is a deliberate compositional choice amplifying the worker-vs.-apparatus dynamic. `[Scryfall: artist = Yeong-Hao Han; Gatherer artist search]`
+
+### Related cards
+- Energy Reserve (Modern Horizons 3) — flagged by Scryfall as a combo piece with Izzet Generatorium in the same set
+- Aetherworks Marvel (Kaladesh) — the original energy payoff engine that defined Kaladesh Standard; MH3's energy push was designed partly to enable Marvel strategies in Modern
+- Galvanic Discharge (Modern Horizons 3) — the showcase energy card previewed in the same Wizards article; natural deckmate in MH3 Izzet energy lists

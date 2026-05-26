@@ -77,3 +77,15 @@ A slender dark-furred hound — resembling a greyhound or Irish wolfhound — st
 **Iconography:** planted-sword, fireflies, gold-filigree
 **Genre cues:** fantasy, medieval
 
+## Trivia
+
+- **Set context** — Modern Horizons 3 (MH3), released June 14, 2024, is a draft-innovation set that injects Modern-legal cards directly into the format rather than via Standard rotation. The set revisits multiple planes through a planeswalker flipcard cycle, each paired with a personal Saga; Faithful Watchdog is a common supporting the broader set environment. `[Scryfall: set_type = draft_innovation, released 2024-06-14]`
+- **Flavor text** — `"Though its official designation was Third Battalion Patrol Hound 7, the soldiers dubbed their new companion Lord Fancy-Paws."` The joke turns on bureaucratic dehumanization — or de-dogification — reversed by soldier attachment: the institution assigned a number, the soldiers assigned a name. `[Scryfall: flavor_text]`
+- **Mechanical profile** — A 0/0 Dog entering with three +1/+1 counters makes this effectively a 3/3 Vigilance for {G}{W} at common. Pauper-legal (confirmed Scryfall legalities), placing it in counter-synergy shells in that budget format. EDHREC rank 8257 reflects mid-tier common adoption — usable, not dominant. `[Scryfall: legalities.pauper = legal, edhrec_rank 8257]`
+- **Artist** — Illustrated by Samuel Perin, whose Scryfall credits total 17 cards — a relatively early portfolio. Faithful Watchdog is among his more visible placements. `[Scryfall: artist = Samuel Perin; Gatherer artist search]`
+
+### Related cards
+- Isamaru, Hound of Konda (Champions of Kamigawa) — original armored-loyal-dog archetype in white; long the benchmark for the Dog-guardian slot
+- Mowu, Loyal Companion (War of the Spark) — named loyal dog with +1/+1 counter synergy in Selesnya, closest mechanical cousin
+- Good-Fortune Unicorn (Modern Horizons) — same set lineage (Modern Horizons line), same enter-with-counter effect pattern in Selesnya
+

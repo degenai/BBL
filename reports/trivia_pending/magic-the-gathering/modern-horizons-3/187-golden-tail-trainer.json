@@ -1,0 +1,53 @@
+{
+  "card_name": "Golden-Tail Trainer",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "187",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Golden-Tail Trainer is the first Fox Samurai printed outside the Kamigawa sets. A Scryfall type search confirms all other Fox Samurai — Kitsune Blademaster, Samurai of the Pale Curtain, Opal-Eye Konda's Yojimbo, Silverstorm Samurai, Kitsune Dawnblade, Selfless Samurai, Seven-Tail Mentor — originate in Kamigawa: Champions, Betrayers, Saviors, or Neon Dynasty. MH3 extends the lineage off-plane for the first time. [Scryfall type search: t:Fox t:Samurai]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The name 'Golden-Tail' directly echoes 'Sensei Golden-Tail,' the legendary Fox Samurai from Champions of Kamigawa (CHK no. 36) who trained creatures into Samurai using his Bushido ability. The trainer-to-student arc is structurally identical: the Sensei granted bushido to others; the Trainer grants power boosts to modified creatures you control. The naming is almost certainly intentional as a lineage callback. [Scryfall: Sensei Golden-Tail, Champions of Kamigawa, type Legendary Creature — Fox Samurai]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Golden-Tail Trainer reduces Aura and Equipment casting costs by X where X equals its power, and pumps other modified creatures by X when it attacks. The self-referential design — equipping or enchanting it raises its power, which further reduces Equipment costs — creates a scaling loop. Commander's Herald assessed it as 'a fun, underexplored Pauper Commander option' capable of functioning like a Voltron commander. EDHREC rank 9646 reflects limited mainline adoption. [Scryfall: oracle_text; Commander's Herald, 'Pauper Commander — Golden-Tail Trainer']",
+      "sources": ["Scryfall", "Commander's Herald"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Fox Samurai creature type belongs narratively to Kamigawa, the Japanese-mythology-inspired plane. Fox-humanoids on Kamigawa are kitsune — beings whose number of tails indexes their wisdom and power. The 'golden tail' motif in both this card's name and its art (the fluffy white tail, gold armor) connects to kitsune aesthetics even while the card is mechanically set-free. MH3 did not visit Kamigawa as a plane but imported the creature-type lineage directly. [MTG Wiki: Kitsune, via WebSearch snippet; Scryfall: type_line = Creature — Fox Samurai]",
+      "sources": ["Scryfall", "MTG Wiki: Kitsune (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Sensei Golden-Tail",
+      "set": "Champions of Kamigawa",
+      "note": "Legendary Fox Samurai whose name directly mirrors Golden-Tail Trainer; both train other creatures into Samurai roles"
+    },
+    {
+      "name": "Seven-Tail Mentor",
+      "set": "Kamigawa: Neon Dynasty",
+      "note": "Same Fox Samurai creature type, same mentor archetype, same white-green power-boosting role"
+    },
+    {
+      "name": "Puresteel Paladin",
+      "set": "New Phyrexia",
+      "note": "The Equipment-cost-reduction effect on Golden-Tail Trainer most closely parallels Puresteel Paladin's metalcraft reduction; natural deckmate in Equipment-heavy builds"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

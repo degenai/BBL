@@ -77,3 +77,15 @@ A fox-like humanoid in elaborate gold-and-black lamellar armor takes a low fight
 **Iconography:** amber-gem, lamellar-armor, fox-tail
 **Genre cues:** fantasy, eastern-fantasy, wuxia
 
+## Trivia
+
+- **Design lineage** — Golden-Tail Trainer is the first Fox Samurai printed outside the Kamigawa sets. A Scryfall type search confirms every prior Fox Samurai — Kitsune Blademaster, Opal-Eye, Silverstorm Samurai, Selfless Samurai, Seven-Tail Mentor, and others — originates from Kamigawa blocks (Champions through Neon Dynasty). MH3 extends the lineage off-plane for the first time. `[Scryfall: t:Fox t:Samurai search]`
+- **Name callback** — "Golden-Tail" directly echoes Sensei Golden-Tail, the legendary Fox Samurai from Champions of Kamigawa (CHK), who granted bushido to and transformed other creatures into Samurai. The trainer-to-student structure is parallel: the Sensei granted warrior status via training counter; the Trainer boosts modified creatures via power-scaling attacks. The naming appears intentional as a lineage callback. `[Scryfall: Sensei Golden-Tail, Champions of Kamigawa]`
+- **Kitsune aesthetics** — Fox-humanoids on Kamigawa are kitsune whose number of tails signals wisdom and power. The "golden tail" motif (this card's name, its art featuring a prominent fluffy white tail and gold armor) maps to kitsune visual vocabulary even though MH3 did not visit Kamigawa as a plane. `[MTG Wiki: Kitsune, via WebSearch snippet; Scryfall: type_line Creature — Fox Samurai]`
+- **Mechanical profile** — The self-referential design — equipping or enchanting the Trainer raises its power, which further reduces Equipment casting costs — creates a scaling loop. Commander's Herald assessed it as "a fun, underexplored Pauper Commander option" capable of operating as a Voltron commander. EDHREC rank 9646 shows limited mainline EDH adoption but the Pauper Commander angle is noted. `[Commander's Herald, "Pauper Commander — Golden-Tail Trainer"; Scryfall: edhrec_rank 9646]`
+
+### Related cards
+- Sensei Golden-Tail (Champions of Kamigawa) — legendary Fox Samurai whose name directly mirrors this card; both are trainers who upgrade other creatures
+- Seven-Tail Mentor (Kamigawa: Neon Dynasty) — Fox Samurai, same mentor archetype, same white-green power-boosting role
+- Puresteel Paladin (New Phyrexia) — Equipment-cost-reduction effect on Golden-Tail Trainer most closely parallels Puresteel Paladin's metalcraft reduction; natural deckmate
+
