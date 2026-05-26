@@ -79,3 +79,14 @@ The painting, rendered in an expressive loose brushwork style, depicts a large w
 **Iconography:** wings, fire, ascension, skeleton
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Flavor text** — "Death has never kept Darigaaz down for long." [Scryfall] — Darigaaz (full name Rhammidarigaaz), called "The Igniter," is one of the five Primeval Dragons of Dominaria. During the Phyrexian Invasion arc, he voluntarily dove into a volcanic caldera to break a Primeval enthrallment spell; being semi-divine, he could not fully die and has reincarnated across multiple story arcs. The Terminate card from Apocalypse depicts this exact sacrifice. [Scryfall: MH3-200 flavor_text; WebSearch snippet: MTG Salvation Darigaaz lore]
+- **Mechanical callback** — Darigaaz's rebirth identity was most explicitly mechanized in Darigaaz Reincarnated (Dominaria, 2018), a 7/7 legendary Dragon that exiles itself with three egg counters rather than dying, returning to the battlefield as the counters deplete over three upkeep steps. Pyretic Rebirth's instant-speed reanimation of an artifact or creature card — while dealing damage equal to its mana value — is a thematic echo of that same loop in spell form. [Scryfall: Darigaaz Reincarnated DOM no. 193]
+- **Artist** — Richard Kane Ferguson is one of MTG's Old Guard illustrators, working in watercolor, acrylic, and ink on archival Bristol paper. He began with Legends (1994), MTG's first multicolored set, illustrating over 60 cards through Eventide (2008). His return in 2019 for Blackblade Reforged (Signature Spellbook: Gideon) was his first commission in a decade; that original painting sold for $8,000. Pyretic Rebirth and Titans' Vanguard (both MH3) are among his most recent commissions. [Hipsters of the Coast: RKF Blackblade Reforged sale, May 2019]
+- **Mechanical profile** — First-time printing, no prior versions. EDHREC rank 12552 indicates moderate Commander play in reanimator and Rakdos midrange contexts; the dual-mode design (reanimation + direct damage scaled to mana value) distinguishes it from simpler Unearth effects. [Scryfall: edhrec_rank; prints_search returns single result]
+
+### Related cards
+- Darigaaz Reincarnated (Dominaria, no. 193) — the principal Darigaaz creature card whose egg-counter rebirth is the lore foundation of the flavor text
+- Darigaaz, the Igniter (Invasion) — the original Darigaaz legendary creature from the Invasion block story arc
+- Terminate (Apocalypse) — {B}{R} instant whose art depicts Darigaaz's caldera dive, the death the flavor text references

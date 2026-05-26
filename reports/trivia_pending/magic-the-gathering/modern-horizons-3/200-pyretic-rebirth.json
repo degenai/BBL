@@ -1,0 +1,41 @@
+{
+  "card_name": "Pyretic Rebirth",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "200",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag set. Darigaaz is a Wizards-internal character referenced only in flavor text, not depicted in the art.",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Death has never kept Darigaaz down for long.\" Darigaaz (full name Rhammidarigaaz) is one of the five Primeval Dragons of Dominaria, known as 'The Igniter.' He voluntarily dove into a volcanic caldera during the Phyrexian Invasion to break a Primeval enthrallment spell — but as a semi-divine being could not fully die and has since reincarnated multiple times across MTG's story. [Scryfall: flavor_text; MTG Salvation lore discussion]",
+      "sources": ["Scryfall: MH3-200 flavor_text", "MTG Salvation forums: Darigaaz lore thread", "WebSearch snippet: Darigaaz Invasion arc"]
+    },
+    {
+      "category": "design",
+      "text": "Darigaaz's mechanical rebirth was most explicitly encoded in Darigaaz Reincarnated (Dominaria, 2018): a 7/7 legendary Dragon with Flying, Trample, Haste that exiles itself with three egg counters instead of dying, returning to the battlefield as the counters deplete over three upkeep steps. Pyretic Rebirth's reanimation mechanic is a thematic callback to that same lore identity — a {2}{B}{R} instant that returns a card from the graveyard to hand while dealing damage. [Scryfall: Darigaaz Reincarnated DOM-193]",
+      "sources": ["Scryfall: Darigaaz Reincarnated DOM-193 oracle_text"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Richard Kane Ferguson is one of Magic's Old Guard illustrators, working in watercolor, acrylic, and ink on archival Bristol paper. He began with the game's earliest multicolored set — Legends (1994) — and illustrated regularly until Eventide (2008), a 15-year run of over 60 cards. His return to the game came in 2019 with Blackblade Reforged (Signature Spellbook: Gideon), described as his first commission in a decade; that original painting sold for $8,000. Pyretic Rebirth and Titans' Vanguard in MH3 mark his most recent commissions. [Hipsters of the Coast: RKF Blackblade Reforged sale, May 2019]",
+      "sources": ["Hipsters of the Coast: RKF Blackblade Reforged, May 2019"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pyretic Rebirth is a black-red instant at {2}{B}{R} with EDHREC rank 12552 — moderate play in Commander, primarily in reanimator and Jund/Rakdos-style midrange decks. The spell is a first-time printing with no prior versions; it occupies a design space similar to Unearth effects but also provides a damage bonus equal to the returned card's mana value, enabling combat tricks or removal alongside the reanimation. [Scryfall: EDHREC rank 12552; no prior prints]",
+      "sources": ["Scryfall: MH3-200 edhrec_rank", "Scryfall: prints_search_uri returns single result"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Darigaaz Reincarnated", "set": "Dominaria", "note": "The principal Darigaaz creature card, whose egg-counter rebirth mechanic is the lore foundation the flavor text references"},
+    {"name": "Darigaaz, the Igniter", "set": "Invasion / Duel Decks: Phyrexia vs. the Coalition", "note": "The original Darigaaz legendary creature card from the Invasion block story"},
+    {"name": "Terminate", "set": "Apocalypse", "note": "The art on Terminate (also {B}{R}) depicts Darigaaz's self-sacrifice dive into the caldera — the death this card's flavor text is referring to"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

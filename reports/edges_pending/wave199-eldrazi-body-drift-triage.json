@@ -1,0 +1,53 @@
+{
+  "edge_id": "wave199-eldrazi-body-drift-triage",
+  "shape": "stack",
+  "category": "named-character-identity",
+  "topology": "stack",
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/eldrazi.md",
+      "name": "Eldrazi"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/battle-for-zendikar/129-kozilek-s-sentinel.md",
+      "name": "Kozilek's Sentinel (BFZ-129)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/oath-of-the-gatewatch/97-immobilizer-eldrazi.md",
+      "name": "Immobilizer Eldrazi (OGW-97)"
+    }
+  ],
+  "description": "Triage pass, not a new edge discovery. Both cards had existing [[eldrazi]] bullets in their Connections sections and were already listed in the cohort's appears_on frontmatter and Appears On wikilink block. The drift was purely at the prose-roster layer: neither card had a body entry in the 'Cards in our corpus pointing here' enumeration paragraph. Two entries written. Counter updated: 14 → 16. BFZ coverage caveat updated to name four BFZ anchors (was three) and acknowledge the new OGW anchor. MH3 count (eleven) unchanged — correct.",
+  "citations": [
+    "[Scryfall: BFZ-129 type_line, oracle_text, flavor_text]",
+    "[Scryfall: OGW-97 flavor_text, oracle_text]",
+    "[magic.wizards.com/en/news/feature/oath-gatewatch-mechanics-2015-12-28 — {C} colorless mana symbol introduction]"
+  ],
+  "files_modified": [
+    "cards/_characters/eldrazi.md"
+  ],
+  "entries_written": [
+    {
+      "card": "Kozilek's Sentinel (BFZ-129)",
+      "placement": "after Horrific Assault entry, at end of prose roster",
+      "connections_bullet_status": "already present — no edit needed"
+    },
+    {
+      "card": "Immobilizer Eldrazi (OGW-97)",
+      "placement": "after Kozilek's Sentinel entry, at end of prose roster",
+      "connections_bullet_status": "already present — no edit needed"
+    }
+  ],
+  "counters_updated": {
+    "body_roster_total": "14 → 16",
+    "bfz_anchor_list_in_caveat": "3 → 4 (added Kozilek's Sentinel BFZ-129)",
+    "ogw_anchor_list_in_caveat": "0 → 1 (added Immobilizer Eldrazi OGW-97)",
+    "mh3_count": "11 — unchanged, correct",
+    "caveat_header": "BFZ Eldrazi coverage → BFZ/OGW Eldrazi coverage"
+  },
+  "drift_detected": "BFZ coverage caveat listed only three BFZ anchors and omitted Kozilek's Sentinel entirely despite it being in appears_on. OGW was not mentioned in the caveat at all. Both corrected in same pass.",
+  "edgelord_mood": "sighed-but-mirrored"
+}

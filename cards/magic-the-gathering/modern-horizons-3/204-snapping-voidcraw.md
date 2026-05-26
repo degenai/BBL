@@ -82,6 +82,18 @@ A fleshy, heavily textured creature dominates the foreground, its wide-open maw 
 **Iconography:** tentacles, fangs, open mouth
 **Genre cues:** fantasy, horror
 
+## Trivia
+
+- **Unique type line** — Snapping Voidcraw is the only card in all of Magic: The Gathering with the type line "Creature — Eldrazi Turtle." A Scryfall type search for the combined subtype returns exactly one result: this card. [Scryfall: type search t:eldrazi t:turtle]
+- **Flavor text** — "Once considered a delicacy, turtle soup is no longer served in Nephalia's inns." [Scryfall] — Nephalia is the coastal province of Innistrad, known for port towns and fog-cloaked sea commerce. During the Shadows Over Innistrad arc (2016), Emrakul's arrival caused "horrible monsters" to rise from the ocean to devour fishing vessels, warping local fauna. The flavor text is a deadpan in-world footnote: the delicacy is off the menu because the turtles are now tentacled Eldrazi horrors. [Wizards.com: Planeswalker's Guide to Innistrad: Nephalia]
+- **Mechanical profile** — Despite a {1}{G}{U} casting cost, Snapping Voidcraw is colorless due to Devoid, and taps to produce {C}{C} — mana-positive on tap. This makes it a creature-based colorless-mana accelerant, similar in function to Eldrazi Temple and Eye of Ugin but in creature form. Pauper-legal (confirmed Scryfall legalities), placing it in the budget-accessible Eldrazi ramp archetype. EDHREC rank 4057 is notably high for a common, indicating strong Commander uptake in colorless and Eldrazi-tribal decks. [Scryfall: legalities, oracle_text; EDHREC rank]
+- **Artist** — Illustrated by Camille Alquier, a French illustrator and Wizards of the Coast contractor. No Hipsters of the Coast artist-spotlight piece on Alquier was found in this research pass. [Scryfall: MH3 no. 204 artist field]
+
+### Related cards
+- Eldrazi Skyspawner (Battle for Zendikar) — Eldrazi Devoid creature with {1}{G}{U} cost; same Simic Devoid design pattern
+- Emrakul, the Promised End (Eldritch Moon) — the Eldrazi Titan whose arrival on Innistrad provides the narrative context the flavor text references
+- Snapping Gnarlid (Battle for Zendikar) — Zendikar creature with a parallel "corrupted wildlife" flavor register
+
 ## Connections
 
 - [[eldrazi]] — cohort anchor; Snapping Voidcraw is a Devoid creature (no color despite a {1}{G}{U} mana cost) with a tentacled, fanged, fleshy-organic anatomy that reads directly as brood-tier biology — the bone-and-tendril register the [[eldrazi]] node documents as the cosmic-horror illustration vocabulary. The "Void" in the name names the Blind Eternities-derived faction the card belongs to, and its tap-for-{C}{C} mana ability ties the card to the colorless-mana economy MH3's Eldrazi suite operates inside. Flavor text *"Once considered a delicacy, turtle soup is no longer served in Nephalia's inns"* places the depicted creature on Innistrad's coastal Nephalia region — connecting the card to the Emrakul-corrupts-Innistrad arc the [[eldrazi]] node also anchors via Horrific Assault. `[Scryfall: MH3-204 oracle_text, flavor_text; MTG Wiki: Eldrazi — Devoid mechanic]`

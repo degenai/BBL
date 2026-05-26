@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - inventor
+  - steampunk
+  - city
+  - flight
+  - machine
+  - rebellion
+  - artisan
+  - movement
+  - gold
+  - festival
+tags_filter:
+  - solo
+  - mid-shot
+  - action-mode
+  - male-figure
+  - faces-right
+  - multicolor-blue-red
+  - creature-human-artificer
+  - flying
 reference_image: cards/_images/magic-the-gathering/aether-revolt/130-maverick-thopterist.png
 average_cost_paid: 0
 market_price: 0.12
@@ -29,6 +47,28 @@ mana_cost: "{3}{U}{R}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: urban
 ---
 
 # Maverick Thopterist (Aether Revolt)
+
+## Vision
+
+![130-maverick-thopterist](../../_images/magic-the-gathering/aether-revolt/130-maverick-thopterist.png)
+
+A male-presenting figure in mid-leap across what appears to be a railing or ledge in a grand, sun-lit city. He wears teal and blue pants, gold-trimmed chest armor, a flowing red sash, and goggles pushed up on his forehead. His expression is focused, fist raised. Two mechanical devices flank him — each a sleek rod with a glowing capsule element, resembling ornithopter drones. Behind him, large columns, colorful hanging banners, and a hazy golden sky complete the scene of a vibrant, festival-or-city setting with a steampunk aesthetic.
+
+**Subject:** A male-presenting humanoid figure in ornate steampunk armor leaping across a platform, flanked by two mechanical thopter drones, in a grand columned city
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** urban, modern, day, clear
+**Foreground:** Leaping armored figure with two flanking mechanical thopter drones  *(palette: teal, gold, red, brown)*
+**Background:** Grand columned city architecture with colorful banners and golden hazy sky  *(palette: gold, cream, blue, red)*
+**Mood / lighting:** action, soft
+**Emotion read:** focused, energetic, mid-leap confidence
+**Objects:** mechanical-drone, goggles, armor, banners
+**Creatures:** thopter
+**Genre cues:** fantasy, steampunk
+

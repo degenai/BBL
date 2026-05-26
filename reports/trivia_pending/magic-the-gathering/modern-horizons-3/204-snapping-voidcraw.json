@@ -1,0 +1,42 @@
+{
+  "card_name": "Snapping Voidcraw",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "204",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Snapping Voidcraw is the only card in all of Magic: The Gathering with the type line 'Creature — Eldrazi Turtle.' A Scryfall search for the combined subtype returns exactly one result: this card. [Scryfall: type search t:eldrazi t:turtle, total_cards: 1]",
+      "sources": ["Scryfall: type search t:eldrazi t:turtle"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Once considered a delicacy, turtle soup is no longer served in Nephalia's inns.\" [Scryfall] — Nephalia is the coastal province of Innistrad, known for port towns, sea commerce, and fog-cloaked harbors. During the Shadows Over Innistrad arc (2016), Emrakul's arrival drove 'horrible monsters from the churning ocean waters to devour fishing vessels' — warping the local fauna. The flavor text is a deadpan in-world footnote: the delicacy is off the menu because the turtles are now tentacled Eldrazi horrors. [Scryfall: MH3-204 flavor_text; Wizards.com: Planeswalker's Guide to Innistrad: Nephalia; WebSearch snippet]",
+      "sources": ["Scryfall: MH3-204 flavor_text", "Wizards.com: Planeswalker's Guide to Innistrad: Nephalia (2011)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Despite costing {1}{G}{U}, Snapping Voidcraw is colorless due to Devoid — and taps to add {C}{C}, producing two colorless mana, making it a mana-positive creature on tap. This design echoes Eye of Ugin and Eldrazi Temple as colorless-mana enablers but in creature form. Pauper-legal (confirmed Scryfall legalities), placing it in the budget-accessible colorless/Eldrazi ramp archetype. EDHREC rank 4057 is notably high for a common, indicating meaningful Commander uptake in colorless and Eldrazi-tribal decks. [Scryfall: MH3-204 legalities, oracle_text; EDHREC rank]",
+      "sources": ["Scryfall: MH3-204 legalities", "Scryfall: MH3-204 oracle_text", "Scryfall: edhrec_rank 4057"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Camille Alquier is a French illustrator and Wizards of the Coast contractor who has illustrated multiple MTG cards. No Hipsters of the Coast artist-spotlight piece on Alquier was found in this pass. [Scryfall: MH3-204 artist field; Camille Alquier ArtStation profile]",
+      "sources": ["Scryfall: MH3-204 artist", "ArtStation: Camille Alquier profile"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Eldrazi Skyspawner", "set": "Battle for Zendikar", "note": "Eldrazi Devoid creature with Simic mana cost; same G/U Devoid design pattern as Snapping Voidcraw"},
+    {"name": "Scion of the Ur-Dragon", "set": "Time Spiral", "note": "The only other Turtle-type Eldrazi adjacent card (not actually Eldrazi, but comparable type-line rarity)"},
+    {"name": "Tidehollow Strix", "set": "Shards of Alara", "note": "Classic Dimir flying creature from coastal Esper; thematic parallel to Nephalia sea-horror flavor"},
+    {"name": "Emrakul, the Promised End", "set": "Eldritch Moon", "note": "The Eldrazi Titan whose arrival on Innistrad provides the narrative context the flavor text references"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

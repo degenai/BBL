@@ -1,0 +1,41 @@
+{
+  "card_name": "Scurry of Gremlins",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "203",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"A whiff of aether brings the horde out of hiding.\" [Scryfall] — Gremlins in MTG lore (established in Kaladesh block, 2016) are non-sapient, six-limbed, anteater-like creatures that feed on aether, dismantling artifacts to reach it. Their saliva is corrosive, allowing them to breach metal hulls. When feeding they glow faintly blue. The flavor text invokes this biology: aether scent is a gremlin trigger. [MTG Wiki: Gremlin; Scryfall: MH3-203 flavor_text]",
+      "sources": ["Scryfall: MH3-203 flavor_text", "MTG Wiki: Gremlin via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Energy counters first appeared in Kaladesh (2016) and Aether Revolt (2017), deeply tied to that plane's aether-economy setting. Modern Horizons 3 (2024) was the first return of energy to a significant print run since those sets. According to Wizards designer commentary, MH3's energy sub-theme was partly a vehicle for callback designs inspired by classic powerful cards, deliberately untethering energy's flavor from Kaladesh so it could represent 'channeling natural forces' more broadly. [Magic.wizards.com: 'Expanding Your Horizons: Energy', MH3 preview article]",
+      "sources": ["Wizards article: Expanding Your Horizons: Energy, MH3"]
+    },
+    {
+      "category": "design",
+      "text": "The card is Boros ({2}{R}{W}), which is unusual for a gremlin card — the gremlin creature type is historically red-primary and Izzet-coded in Kaladesh. Scurry of Gremlins crosses into white to accommodate the energy-enchantment shell in MH3's Creative Energy Commander precon, which used Satya, Aetherflux Genius as its commander. The set's energy design intentionally spread the mechanic across color combinations to avoid re-ghettoizing it as Izzet property. [Scryfall: MH3-203 color_identity; EDHREC: Creative Energy precon context]",
+      "sources": ["Scryfall: MH3-203 color_identity", "WebSearch: MH3 Creative Energy Commander precon"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Scurry of Gremlins is an enchantment that enters, creates two 1/1 red Gremlin tokens, then immediately grants energy counters equal to the total number of creatures controlled. Spending four energy gives the whole board +1/+0 and haste until end of turn. This makes the card a token-flooding setup piece that doubles as a haste-enabler for wide boards. EDHREC rank 11483 places it in moderate Commander play, primarily in Boros token and energy decks. [Scryfall: MH3-203 oracle_text; EDHREC rank]",
+      "sources": ["Scryfall: MH3-203 oracle_text", "Scryfall: edhrec_rank 11483"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Aetherworks Marvel", "set": "Kaladesh", "note": "One of the most powerful energy payoffs from Kaladesh; represents the energy economy gremlins originated in"},
+    {"name": "Glint-Sleeve Siphoner", "set": "Aether Revolt", "note": "Classic Kaladesh energy generator; establishes the mechanic's original black-red application"},
+    {"name": "Satya, Aetherflux Genius", "set": "Modern Horizons 3", "note": "The commander of MH3's Creative Energy precon — the deck context where Scurry of Gremlins fits most naturally"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

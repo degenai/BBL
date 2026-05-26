@@ -1,0 +1,41 @@
+{
+  "card_name": "Ondu Knotmaster // Throw a Line",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "196",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ondu is a region of Zendikar — the plane's most hospitable area, with mesa plateaus, canyon walls, and an ancient Kor imperial capital called Makindi. The Kor of Ondu have long lived in cliff-face shelters connected by anchor lines and pulley systems, making ropes and hooks extensions of both limb and spirituality. [MTG Wiki: Ondu; Planeswalker's Guide to Zendikar]",
+      "sources": ["MTG Wiki: Ondu", "WebSearch snippet: Kor lore"]
+    },
+    {
+      "category": "design",
+      "text": "The card is a dual-faced Adventure card — the full name is Ondu Knotmaster // Throw a Line. Adventure is a mechanic first introduced in Throne of Eldraine (2019) where a creature hosts an embedded sorcery or instant that can be cast first, exiling the card temporarily, before casting the creature from exile. MH3 brought Adventure back to inject a fresh card-advantage dimension into the set's counters-and-modified sub-theme. [Scryfall: oracle text layout]",
+      "sources": ["Scryfall: MH3-196 layout field"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Jarel Threat painted Ondu Knotmaster. Threat's first MTG commission was Rest in Peace for Amonkhet Remastered (2020, digital-only Arena set); the original oil-on-canvas painting (15 by 21 inches) sold on the MTG Art Market for $5,475 in September 2020. [Hipsters of the Coast, September 2020]",
+      "sources": ["Hipsters of the Coast: Jarel Threat Rest in Peace sale 2020"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The 'modified' mechanic (creatures with +1/+1 counters, Auras attached, or Equipment attached) was introduced in Kamigawa: Neon Dynasty (2022). Ondu Knotmaster's trigger fires whenever any OTHER modified creature you control dies, rewarding sacrifice or combat strategies where equipped or countered creatures fall. Its own Adventure half, Throw a Line, puts counters on one or two creatures — pre-modifying targets so they fuel the Knotmaster trigger when they die later. EDHREC rank 19017 places it firmly in casual fringe territory; it sees minimal competitive play. [Scryfall: oracle text; EDHREC rank]",
+      "sources": ["Scryfall: MH3-196 oracle_text", "Scryfall: edhrec_rank 19017"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Throw a Line", "set": "Modern Horizons 3", "note": "The adventure half of this card — a {W}{B} sorcery that distributes two +1/+1 counters among one or two targets"},
+    {"name": "Kor Spiritdancer", "set": "Rise of the Eldrazi", "note": "Another Kor Rogue with an aura/enchantment theme; canonical Kor class association"},
+    {"name": "Adeline, Resplendent Cathar", "set": "Innistrad: Midnight Hunt", "note": "White creature that rewards attacking with counters — similar aggressive Orzhov counter-payoff profile"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

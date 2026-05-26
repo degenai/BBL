@@ -1,0 +1,42 @@
+{
+  "card_name": "Titans' Vanguard",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "206",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The card's name names the three Eldrazi Titans directly: Emrakul, Ulamog, and Kozilek. In Eldrazi lore, 'Vanguard' designates a directing-tier brood member that coordinates the Spawn-and-Scion-tier swarm — below a Titan but above the cannon-fodder tier. The flavor text — \"With a shriek, it directed the spawn toward the temple where the refugees sheltered\" — renders this function in-fiction: an unnamed vanguard-creature commanding the lower swarm against a civilian target. [Scryfall: MH3-206 flavor_text; MTG Wiki: Eldrazi hierarchy via WebSearch snippet]",
+      "sources": ["Scryfall: MH3-206 flavor_text", "MTG Wiki: Eldrazi lore"]
+    },
+    {
+      "category": "design",
+      "text": "Titans' Vanguard is a 5/5 Devoid Eldrazi with Trample, cast for {3}{R}{G}. Despite that Gruul mana cost it is colorless due to Devoid. Its cast trigger and attack trigger both put a +1/+1 counter on each colorless creature you control — notably, the cast trigger resolves before the Vanguard enters the battlefield, so the Vanguard itself does not receive a counter from its own cast trigger. This is a rules interaction noted in community deck discussions. [Scryfall: MH3-206 oracle_text; Scryfall ruling via WebSearch snippet]",
+      "sources": ["Scryfall: MH3-206 oracle_text", "WebSearch: Titans' Vanguard rules interaction"]
+    },
+    {
+      "category": "design",
+      "text": "Artist Richard Kane Ferguson also painted Pyretic Rebirth in MH3. Ferguson began illustrating for Magic with Legends (1994), illustrating over 60 cards through Eventide (2008). Both MH3 commissions mark his recent return to the game after a decade-long hiatus — he had returned for Blackblade Reforged (2019) as his first commission since 2008. [Hipsters of the Coast: RKF Blackblade Reforged sale, May 2019]",
+      "sources": ["Hipsters of the Coast: RKF Blackblade Reforged, May 2019", "Scryfall: MH3-206 artist"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 7476 indicates meaningful Commander play in colorless and Eldrazi-tribal decks. An EDHREC upgrade guide for the Eldrazi Incursion Commander precon listed Titans' Vanguard among cuts in favor of more focused payoffs, suggesting it functions best in dedicated wide-board colorless creature strategies rather than the precon shell. First-time printing; no prior versions exist. [EDHREC: Eldrazi Incursion Upgrade Guide; Scryfall: edhrec_rank 7476]",
+      "sources": ["EDHREC: Eldrazi Incursion Upgrade Guide, MH3", "Scryfall: edhrec_rank 7476"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Emrakul, the World Anew", "set": "Modern Horizons 3", "note": "One of the three Titans named in the card's title; MH3 mythic"},
+    {"name": "Ulamog, the Defiler", "set": "Modern Horizons 3", "note": "Second of the three named Titans; another MH3 mythic in the same Eldrazi brood hierarchy"},
+    {"name": "Kozilek, the Broken Reality", "set": "Modern Horizons 3", "note": "Third of the three named Titans; completes the trio the card's name references"},
+    {"name": "Endbringer", "set": "Oath of the Gatewatch", "note": "Another Devoid Eldrazi with mana-cost/color-identity divergence; shares the colorless-creature-support role"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

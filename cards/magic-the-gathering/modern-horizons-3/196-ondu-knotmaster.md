@@ -76,3 +76,14 @@ A figure with white wild hair twisted mid-air in a dynamic aerial maneuver insid
 **Iconography:** coiled-rope, curved-blade
 **Genre cues:** fantasy, adventure
 
+## Trivia
+
+- **Set context** — Ondu is the most hospitable region of Zendikar, known for its mesa plateaus, canyon walls, and the ancient Kor imperial capital of Makindi. The Kor of Ondu traditionally live in cliff-face shelters connected by networks of anchor lines and pulley devices; ropes and hooks are both practical tools and objects of cultural and spiritual significance. [MTG Wiki: Ondu; WebSearch snippet]
+- **Card structure** — The full card title is Ondu Knotmaster // Throw a Line. It uses the Adventure mechanic introduced in Throne of Eldraine (2019), which encodes a sorcery or instant on a creature card; the player may cast the spell half first, exile the card temporarily, then cast the creature from exile later. MH3 brought Adventure back in service of its counters-and-modified sub-theme. [Scryfall: MH3 no. 196 layout field]
+- **Design / artist** — Art is by Jarel Threat, a Sugar Land, TX illustrator. Threat's first MTG commission was Rest in Peace for Amonkhet Remastered (2020, Arena digital-only); the original oil-on-canvas painting (15 by 21 inches) sold on the MTG Art Market for $5,475 in September 2020. [Hipsters of the Coast, September 2020]
+- **Mechanical context** — The "modified" trigger references a mechanic codified in Kamigawa: Neon Dynasty (2022): a creature is modified if it has any +1/+1 counter, any Aura attached to it, or any Equipment attached to it. The Adventure half, Throw a Line ({W}{B}), distributes two +1/+1 counters across one or two creatures, pre-modifying them to fuel Ondu Knotmaster's death trigger later. EDHREC rank 19017 indicates very limited constructed play. [Scryfall: oracle_text; EDHREC rank]
+
+### Related cards
+- Throw a Line (MH3, no. 196) — the Adventure half of this card, a {W}{B} sorcery distributing two +1/+1 counters
+- Kor Spiritdancer (Rise of the Eldrazi) — Kor Rogue with aura-payoff theme; same race and class
+- Stoneforge Mystic (Worldwake) — the most famous Kor creature, representing the race's canonical equipment mastery

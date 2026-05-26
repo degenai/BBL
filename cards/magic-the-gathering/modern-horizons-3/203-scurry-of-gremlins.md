@@ -83,3 +83,14 @@ Four or more gremlin-like creatures with smooth pinkish-tan skin, elongated trun
 **Iconography:** gold pattern, swarm, curious creatures
 **Genre cues:** fantasy, steampunk
 
+## Trivia
+
+- **Flavor text** — "A whiff of aether brings the horde out of hiding." [Scryfall] — In MTG lore established with Kaladesh block (2016), gremlins are non-sapient, six-limbed, aardvark-like creatures that feed on aether, dismantling artifacts to reach it. Their saliva is corrosive and they glow faintly blue when feeding. Aether scent is a documented gremlin behavioral trigger in this lore — the flavor text is precise to the creature biology. [MTG Wiki: Gremlin; Scryfall: MH3 no. 203]
+- **Set context** — Energy counters first appeared in Kaladesh (2016) and Aether Revolt (2017); Modern Horizons 3 (2024) was their first significant return. Wizards designer commentary describes MH3's energy revival as partly a vehicle for callback designs referencing classic powerful cards, with intentional flavor-untethering from Kaladesh so energy could represent channeling natural forces in any setting. [magic.wizards.com: "Expanding Your Horizons: Energy," MH3]
+- **Design** — Scurry of Gremlins is Boros ({2}{R}{W}), an unusual color combination for a gremlin card — the gremlin type is historically red-primary and Izzet-coded from Kaladesh. The Boros frame places it in MH3's Creative Energy Commander precon (led by Satya, Aetherflux Genius), part of the set's deliberate effort to spread energy across color pairs rather than re-concentrate it as Izzet property. [Scryfall: color_identity; WebSearch: MH3 Creative Energy precon]
+- **Mechanical profile** — Creates two 1/1 red Gremlin tokens on entry, then generates energy equal to total creatures controlled; four energy buys +1/+0 and haste for all creatures until end of turn. Serves as a token-flooding setup piece that doubles as a board-wide haste enabler. EDHREC rank 11483 indicates moderate Commander play in Boros token and energy strategies. [Scryfall: oracle_text; EDHREC rank]
+
+### Related cards
+- Aetherworks Marvel (Kaladesh) — one of the most powerful energy payoffs; represents the economy gremlins originated in
+- Satya, Aetherflux Genius (MH3) — the Creative Energy precon commander; Scurry's primary deck home
+- Glint-Sleeve Siphoner (Aether Revolt) — classic Kaladesh energy generator establishing the mechanic's early application
