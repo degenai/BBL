@@ -1,0 +1,42 @@
+{
+  "card_name": "Coralhelm Guide",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "74",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Coralhelm is a real named location in Zendikar lore: the merfolk capital established inside enormous conch shells suspended by nets between the walls of the Umara gorge, above Halimar in Tazeem. Founded by Noyan Dar (a lullmage and scholar holding the title Coralhelm Commander), it became the largest merfolk settlement on the plane after the Eldrazi overran Sea Gate and the original merfolk Enclave. The unnamed merfolk scout on this card operates out of that settlement context. [mtglore.com: A Planeswalker's Guide to Zendikar: Tazeem and Merfolk] [bacejelerenvorthos Tumblr: Noyan Dar, Merfolk Leader]",
+      "sources": ["mtglore.com/web-articles/a-planeswalkers-guide-to-zendikar-tazeem-and-merfolk", "bacejelerenvorthos.tumblr.com/post/182961440180"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"She knows every step of this coastline, both above and below the surface, and she has hideouts all along the way. She will get you there.\" — Jori En, expedition leader [Scryfall]. Jori En is a named merfolk character from Bala Ged who appears in more BFZ block stories than almost any non-planeswalker NPC. She later received her own legendary card (Jori En, Ruin Diver, Oath of the Gatewatch no. 155) with a card-draw ability — mechanically, the scholar who keeps feeding the expedition new information. [Scryfall: Jori En, Ruin Diver OGW 155] [coolstuffinc.com: Legends of Zendikar]",
+      "sources": ["Scryfall", "coolstuffinc.com/a/jayannelli-07282020-legends-of-zendikar"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Coralhelm Guide is a 2/1 Merfolk Scout Ally for {1}{U} with an activated ability: {4}{U}: target creature can't be blocked this turn. The Ally type triggers other BFZ Ally payoffs on entering the battlefield. The ability is an expensive but guaranteed evasion-grant — relevant in limited as a finisher enabler. It is legal in Pauper and carries an EDHREC Commander rank of 22887, reflecting its role as a role-player rather than a standalone draw in Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Coralhelm Guide has been reprinted four times beyond its original BFZ printing: Masters 25 (A25, 2018), Battlebond (BBD, 2018), The List (PLST, 2019), and Jumpstart: Historic Horizons (J21, 2021). Viktor Titov's original art was retained across all printings. The card's repeated inclusion across a curated reprint set (Masters 25), a multiplayer set (Battlebond), The List, and a digital-only set reflects its sustained limited-format utility as a cheap Merfolk Ally with relevant evasion text. [Scryfall prints search via oracle ID]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Jori En, Ruin Diver", "set": "Oath of the Gatewatch", "note": "The flavor-text speaker on this card; received her own legendary Merfolk Wizard card in the follow-up BFZ block set"},
+    {"name": "Retreat to Coralhelm", "set": "Battle for Zendikar", "note": "Same-set blue enchantment named after the Coralhelm merfolk settlement; landfall trigger — tap/untap creature or scry 1"},
+    {"name": "Coralhelm Commander", "set": "Rise of the Eldrazi", "note": "Named after Noyan Dar's title as founder-leader of Coralhelm Refuge; the earlier Zendikar-block Merfolk lord that established the Coralhelm name in the game"},
+    {"name": "Noyan Dar, Roil Shaper", "set": "Battle for Zendikar", "note": "Legendary merfolk Ally from the same set; the lore-founder of Coralhelm, mechanically represented as a land-animation Ally commander"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

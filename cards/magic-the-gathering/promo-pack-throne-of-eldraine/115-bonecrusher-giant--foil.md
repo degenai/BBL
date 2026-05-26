@@ -1,7 +1,7 @@
 ---
 name: Bonecrusher Giant
 game: "Magic: The Gathering"
-set: 'Promo Pack: Throne of Eldraine'
+set: "Promo Pack: Throne of Eldraine"
 collector_number: 115
 rarity: R
 variance: Foil
@@ -25,7 +25,7 @@ reference_image_source_url: https://cards.scryfall.io/png/front/b/5/b5b71cd2-de3
 flavor_text: Not every tale ends in glory.
 review_good: false
 review_bad: false
-review_notes: ""
+review_notes:
 mana_cost: "{2}{R} // {1}{R}"
 tags:
   - card

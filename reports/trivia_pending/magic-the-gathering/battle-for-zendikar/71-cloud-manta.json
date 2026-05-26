@@ -1,0 +1,42 @@
+{
+  "card_name": "Cloud Manta",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "71",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cloud Manta's canonical type_line is 'Creature — Fish' (verified via Scryfall API). NOTE: the vision pass tagged this card with 'creature-beast' in tags_filter — this is incorrect per the Scryfall type_line. Cloud Manta is a Fish, not a Beast. It is one of the few aerial Fish in the game, representing Zendikar's sky-sailing fauna adapted to the plane's floating landmasses.",
+      "sources": ["Scryfall API type_line"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'When Emeria's worshippers learned that she was no more than a twisted memory of Emrakul, they abandoned their temples to the god. The deserted shrines now serve as breeding grounds for the mantas.' This encodes BFZ's central lore disclosure: the goddess Emeria (venerated by the kor as wind deity, by the merfolk as sky-realm goddess) was a corrupted racial memory of the Eldrazi titan Emrakul — Emrakul's vast silhouette blotting the sky long ago was mythologized into a divine protector. When the truth emerged in BFZ, Emeria religion collapsed.",
+      "sources": ["Scryfall API flavor_text", "MTG Wiki: Emeria (via WebSearch snippet from mtg.fandom.com/wiki/Emeria)"]
+    },
+    {
+      "category": "design",
+      "text": "Cloud Manta is a rare BFZ non-Eldrazi common that carries set-story weight entirely through flavor text, while its body ({3}{U} for a 3/2 Flying Fish with no other abilities) sits below the curve for both Limited and Commander. The card uses the Eldrazi revelation to reframe ordinary wildlife: the mantas colonize abandoned sacred sites not because they are corrupted, but because the human structures have been vacated.",
+      "sources": ["Scryfall API"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 26,996 places Cloud Manta at the bottom of the BFZ card pool in Commander inclusion. It has no reprint history (Scryfall: reprint: false) and no format-specific community use case. Its value to the graph is primarily as a flavor-text carrier for the Emeria/Emrakul revelation.",
+      "sources": ["Scryfall API edhrec_rank, reprint field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Emeria, the Sky Ruin", "set": "Zendikar", "note": "The land card named for the false goddess; predates BFZ's revelation"},
+    {"name": "Emrakul, the Aeons Torn", "set": "Rise of the Eldrazi", "note": "The titan whose memory became the Emeria myth"},
+    {"name": "Herald of Kozilek", "set": "Battle for Zendikar", "note": "Another BFZ creature carrying Zendikar mythology in its flavor text"},
+    {"name": "Shrine of the Forsaken Gods", "set": "Battle for Zendikar", "note": "BFZ land card with Emrakul-worship flavor text context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

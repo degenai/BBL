@@ -51,6 +51,7 @@ ip_confidence: high
 ip_verified: true
 characters:
   - chandra-nalaar
+  - m21-dog-tribal
 artist: Kimonas Theodossiou
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/137-chandra-s-magmutt--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/9/1/91d3e366-4da5-42c8-bbd5-a0c178c0da28.jpg?1594736548
@@ -101,4 +102,5 @@ A medium-sized canine elemental composed entirely of fire stands in profile agai
 
 ## Connections
 
-- [[chandra-nalaar]] — Chandra Nalaar is the canonical pyromancer-planeswalker conjuring this flame-elemental hound; the possessive in the card name and the flavor-text attribution (*"Is it purebred? No, but it's pure fire." —Chandra Nalaar*) place the Magmutt in her named *Chandra's <Creature>* attribution cycle. The character is not depicted on the card itself, but the cycle convention edges the card to Chandra through Wizards' canonical possessive-title test rather than visual presence. The Magmutt is the cheerful-companion register of the cycle — the pyromancer's pet, in the M21 slice-of-life set that paired her with two signature elemental companions (this and [[138-chandra-s-pyreling]]).
+- [[chandra-nalaar]] — Chandra Nalaar is the canonical pyromancer-planeswalker conjuring this flame-elemental hound; the possessive in the card name and the flavor-text attribution (*"Is it purebred? No, but it's pure fire." —Chandra Nalaar*) place the Magmutt in her named *Chandra's <Creature>* attribution cycle. The character is not depicted on the card itself, but the cycle convention edges the card to Chandra through Wizards' canonical possessive-title test rather than visual presence. The Magmutt is the cheerful-companion register of the cycle — the pyromancer's pet, in the M21 slice-of-life set that paired her with two signature elemental companions (this and `138-chandra-s-pyreling`).
+- [[m21-dog-tribal]] — anchor card in the pyromancer-companion beat of the M21 designer-coordinated dog tribal theme. Type-line "Creature — Elemental Dog" is one of the first-generation native-Dog-type prints contemporaneous with the M21 Hound-to-Dog rename. Trivia bullet 1 cites Mark Rosewater's "But Wait, There's Core" Making Magic article (2020-06-15) verbatim — the canonical source for both the rename framing and the small-dog-tribal-theme acknowledgment. **Dual-pointer card**: Magmutt edges to both `chandra-nalaar` (named-companion possessive-title cycle) AND the M21 dog tribal cohort; both edges are independently grounded and co-exist per cohort node caveat-section. `[Wizards of the Coast: "But Wait, There's Core" — Making Magic, 2020-06-15]` `[Scryfall: m21/137 type_line "Creature — Elemental Dog"]`

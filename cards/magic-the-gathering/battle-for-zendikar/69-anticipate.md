@@ -71,3 +71,15 @@ A slender humanoid figure stands on rocky terrain in front of a large waterfall.
 **Iconography:** glowing-blue-sphere
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Design history / reprint history** — Anticipate first appeared in Dragons of Tarkir (March 2015), not Battle for Zendikar — this BFZ printing is a reprint (confirmed via Scryfall `reprint: true`). The card has accumulated seven distinct printings: Dragons of Tarkir, Friday Night Magic 2015 (promo with alternate flavor text), Battle for Zendikar, Magic Online Promos, Core Set 2019, Core Set 2020, The List, and Ikoria: Lair of Behemoths (with new flavor text: "Bonder and bonded move in unison, intuiting each other's next move.") `[Scryfall printings search]`. The BFZ printing keeps the original flavor text from DTK.
+- **Flavor text context** — The flavor text on this printing ("Divining the future is easy when you hold the power to sway it.") is unattributed — no named speaker. It reads as an aphorism about the nature of blue magic: the caster's foreknowledge is inseparable from their ability to act on it. The Bolbuss-pattern check applies: there is no named Zendikar magic-user in the flavor text for this card `[Scryfall flavor_text field]`.
+- **Mechanical reputation** — Anticipate is a well-regarded utility cantrip: two mana for a look-at-three, keep-one effect. It sits at EDHREC rank 6,204 — meaningfully higher than the other BFZ commons in this wave — indicating consistent Commander inclusion. Its broad format legality (Historic, Timeless, Gladiator, Pioneer, Modern, Legacy, Pauper, Vintage, Commander, Brawl, and more) reflects its status as a reliable neutral card-selection tool `[Scryfall legalities]`.
+- **Community resonance** — Anticipate is frequently cited on forums as the "budget" or "accessible" alternative to Brainstorm and Preordain in formats where those cards are restricted or unavailable. Its design space is deliberately modest — it doesn't shuffle, doesn't put cards on top, doesn't draw — which gives it a lower power ceiling than Brainstorm but places it outside the ban-list conversation `[community sentiment, WebSearch snippet]`.
+
+### Related cards
+- Brainstorm (Ice Age / numerous reprints) — functionally superior look-at-top-three; Anticipate is often framed as the "budget Brainstorm" in format discussions
+- Preordain (Magic 2011 / numerous reprints) — another two-mana blue cantrip family member
+- Opt (Invasion / numerous reprints) — one-mana instant scry-1-draw; the closest format comparison for pauper/budget lists
+- Peer Through Depths (Champions of Kamigawa) — earlier iteration of the "look at top 5, keep an instant or sorcery" design archetype

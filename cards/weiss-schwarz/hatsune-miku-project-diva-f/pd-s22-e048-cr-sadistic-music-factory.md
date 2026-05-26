@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image:
 average_cost_paid: 0
 market_price: 0.77
 market_price_as_of: 2026-05-24
@@ -23,12 +23,11 @@ needs_manual_review: true
 manual_review_reason: No reference image found via weiss for set 'Hatsune Miku -Project DIVA- f'
 review_good: false
 review_bad: false
-review_notes: ""
+review_notes:
 tags:
   - card
   - weiss
   - manual-review
-
 ---
 # Sadistic.Music Factory (Hatsune Miku -Project DIVA- f)
 

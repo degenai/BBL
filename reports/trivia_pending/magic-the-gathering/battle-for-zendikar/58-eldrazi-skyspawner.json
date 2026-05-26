@@ -1,0 +1,42 @@
+{
+  "card_name": "Eldrazi Skyspawner",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "58",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Eldrazi Skyspawner carries the subtype 'Eldrazi Drone' (verified via Scryfall API type_line: 'Creature — Eldrazi Drone'). The Drone subtype designates the servant class of the Eldrazi — smaller creatures that swarm Zendikar ahead of the titans, distinct from Processors (which consume exiled cards).",
+      "sources": ["Scryfall API"]
+    },
+    {
+      "category": "design",
+      "text": "The Skyspawner's ETB trigger creates a 1/1 colorless Eldrazi Scion token (sacrifice for {C} mana). This Scion-generating pattern was a key BFZ design axis: Scions accelerated mana toward large Eldrazi spells and contributed to the 'colorlessness matters' mechanical theme. Scryfall's all_parts field lists the Eldrazi Scion token as an official combo-piece relationship to this card.",
+      "sources": ["Scryfall API all_parts"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Eldrazi Skyspawner is legal in Pauper (confirmed via Scryfall legalities). It has seen consistent play in Pauper Eldrazi lists — MTGDecks.net lists it in Temur Control and Izzet Skred pauper builds as of March 2026. EDHREC rank 11,532 is notably higher than most BFZ commons, reflecting cross-format utility. At {2}{U} it provides a 2/1 flier plus a Scion that can ramp or chump the following turn.",
+      "sources": ["Scryfall API legalities", "mtgdecks.net March 2026 (via WebSearch snippet)"]
+    },
+    {
+      "category": "sentiment",
+      "text": "Community sentiment from MTGSalvation Pauper Eldrazi forum thread: Skyspawner was discussed as a foundational piece of the BFZ-era Pauper Eldrazi shell, valued for combining the evasion body (flies over ground blockers) with the Scion token (ramps or chump-blocks). Rated the most consistently-played BFZ Eldrazi common in the format by that community.",
+      "sources": ["MTGSalvation forums: 'Eldrazi — MTGO Pauper' thread (via WebSearch snippet)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Eldrazi Scion token", "set": "BFZ", "note": "Directly created by Skyspawner's ETB trigger; listed in Scryfall all_parts"},
+    {"name": "Mist Intruder", "set": "Battle for Zendikar", "note": "Fellow Eldrazi Drone; shares the Drone subtype in the same set"},
+    {"name": "Tide Drifter", "set": "Battle for Zendikar", "note": "Another blue Eldrazi Drone in BFZ, thematic sibling"},
+    {"name": "Vile Aggregate", "set": "Battle for Zendikar", "note": "Gets +1/+0 for each colorless creature you control; Skyspawner's Scion token feeds its power"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

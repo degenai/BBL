@@ -70,3 +70,15 @@ A slender humanoid figure stands in a three-quarter forward pose with both arms 
 **Iconography:** rainbow, arc-of-light
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set / lore context** — Brilliant Spectrum is a Converge sorcery from Battle for Zendikar (October 2, 2015). The depicted figure — a bare-chested elf-eared humanoid with arms outstretched in a rainbow of light — is unnamed in flavor text or oracle text. The Bolbuss-pattern check applies: no named Zendikar elf can be attributed from available canonical sources `[Scryfall oracle_text, flavor_text]`.
+- **Design history — Converge mechanic** — Converge rewards spending mana of multiple colors, scaling the effect by color count (maximum 5). Brilliant Spectrum's Converge reads: draw X cards where X is the number of colors spent, then discard two. At full five-color convergence, this nets three cards. Mark Rosewater's Storm Scale article rated Converge "Unpopular" in player market research — it was the lowest or near-lowest rated BFZ mechanic — and identified its design space as "Small" due to the scaling-effect constraint `[magic.wizards.com: "Storm Scale: Zendikar and Battle for Zendikar", 2016]`.
+- **Flavor text** — "There are more sights on Zendikar than the eyes can see." `[Scryfall]`. Unattributed aphorism. Reflects Zendikar's identity as an "Adventure World" — a plane defined by its spectacular and dangerous geography, a design mandate that carried through both Zendikar blocks.
+- **Mechanical reputation** — EDHREC rank of 25,792 and a market price of $0.02 reflect near-zero competitive uptake. In practice, Converge requires multicolor mana support to draw more than one or two cards, and the mandatory discard-two clause limits its ceiling even at full convergence. It is outclassed by Harmonize, Drawn from Dreams, or Strategic Planning for most Commander deck slots `[Scryfall metadata]`.
+
+### Related cards
+- Radiant Flames (Battle for Zendikar) — the most commonly cited Converge card in BFZ; frequently used to illustrate the mechanic in design retrospectives
+- Skyrider Elf (Battle for Zendikar) — another BFZ Converge card, uses the color-count to set its +1/+1 counters
+- Bring to Light (Battle for Zendikar) — the marquee Converge card of BFZ, used to tutor for spells; shows the mechanic at its design ceiling
+- Unified Front (Oath of the Gatewatch) — follow-on Converge card in the same block, showing the mechanic's continuation into OGW

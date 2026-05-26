@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - ocean
+  - wave
+  - water
+  - storm
+  - elemental
+  - dissolution
+  - shoreline
+  - force
+  - crash
+  - turbulence
+tags_filter:
+  - duo
+  - wide
+  - action
+  - no-face
+  - blue-magic
+  - instant
+  - awaken
+  - white-palette
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/72-clutch-of-currents.png
 average_cost_paid: 0
 market_price: 0.11
@@ -29,6 +47,43 @@ mana_cost: "{U}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: ocean
 ---
 
 # Clutch of Currents (Battle for Zendikar)
+
+## Vision
+
+![72-clutch-of-currents](../../_images/magic-the-gathering/battle-for-zendikar/72-clutch-of-currents.png)
+
+A wide action scene of violent surf: two elongated pale figures appear to be simultaneously part of and flung by a massive crashing wave. Their forms blur into the white foam — arms and legs visible but dissolving into water and spray. Rocky dark shoreline occupies the lower foreground. The sky above is pale blue with churning clouds. The entire palette is whites, pale blues, and light grays, giving the scene an almost monochromatic airy quality despite the violent motion. There is no weapon in hand — the figures appear weaponless and are themselves the instruments or victims of the wave.
+
+**Subject:** Two pale humanoid figures being hurled and dissolved into a crashing ocean wave, their elongated limbs trailing into white foam and spray
+
+**Composition:** wide, action, figures: duo, facing: n/a
+**Setting:** ocean, day, storm
+**Foreground:** dark rocks at shoreline, crashing white foam and surf  *(palette: white, pale-blue, light-gray)*
+**Background:** pale blue sky with clouds, open ocean horizon  *(palette: pale-blue, white, light-gray)*
+**Mood / lighting:** action, ambient
+**Emotion read:** violent motion, dissolution into force — no readable facial expression
+**Creatures:** water-elemental, humanoid-figure
+**Genre cues:** fantasy, elemental
+
+## Trivia
+
+- **Set context** — Battle for Zendikar (released 2015-10-02) is set during the Eldrazi invasion of the plane. Blue cards in the set largely represent the merfolk and Gatewatch-allied resistance using Zendikar's oceans and hedron network against the titans Ulamog and Kozilek. `[Scryfall: Battle for Zendikar set]`
+
+- **Design** — Clutch of Currents is a Sorcery at both its base cost and its awaken mode. This was deliberate: according to Mark Rosewater's "Battle Zendikards Part 1" design article, most awaken cards were made sorceries because designers did not want them to be surprise ambush cards. White received the sole instant-speed exception, at smaller awaken numbers to offset the timing advantage. `[magic.wizards.com: Battle Zendikards Part 1, 2015-09-21]`
+
+- **Mechanic context** — Awaken was introduced as a preview in Duel Decks: Zendikar vs. Eldrazi before Battle for Zendikar released. The 0/0-plus-counters rules structure (rather than a flat power/toughness) allows multiple awaken spells to stack counters on the same land — an intentional feature explicitly noted in the official BFZ mechanics article. Mark Rosewater rated Awaken at Storm Scale 4, indicating moderate-to-high likelihood of a future return. `[mtg.wiki/page/Awaken]` `[magic.wizards.com: Battle for Zendikar Mechanics]`
+
+- **Mechanical reputation** — Legal in Pauper, where the base {U} bounce is one of the cheapest creature-return effects at common in blue. The awaken mode ({4}{U} for a 3/3 land Elemental) is generally too expensive for Pauper's mana ceiling. EDHREC rank 19208 across Commander formats, well below staple bounce spells. `[Scryfall legalities and EDHREC rank]`
+
+### Related cards
+- Coastal Discovery (Battle for Zendikar, no. 73) — adjacent BFZ blue awaken sorcery, sequential collector number
+- Encircling Fissure (Battle for Zendikar) — MaRo's cited design exemplar for awaken synergy with a spell's primary effect
+- Ruinous Path (Battle for Zendikar) — black awaken card used in the official Wizards mechanics article as the primary rules-explanation example
+- Retreat to Coralhelm (Battle for Zendikar, no. 82) — same-set blue enchantment named after the Coralhelm merfolk settlement; landfall synergy in the same BFZ blue block
+

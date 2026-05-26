@@ -32,6 +32,8 @@ tags_filter:
   - creature-dog
   - white-magic
   - single-animal
+characters:
+  - m21-dog-tribal
 reference_image: cards/_images/magic-the-gathering/core-set-2021/36-selfless-savior.png
 average_cost_paid: 0
 market_price: 0.37
@@ -90,4 +92,8 @@ A small, scrappy dog with oversized triangular ears, a tousled brown-and-tan coa
 - Pack Leader (M21, no. 28) — M21 rare dog lord; tribal commander anchor for Dog lists including Selfless Savior
 - Rin and Seri, Inseparable (M21, no. 278) — buy-a-box legendary where Selfless Savior appears in 87% of decklists
 - Isamaru, Hound of Konda (Champions of Kamigawa) — Dog commander where Selfless Savior hits 100% inclusion rate
+
+## Connections
+
+- [[m21-dog-tribal]] — anchor card in the loyalty-and-rescue beat of the M21 designer-coordinated dog tribal theme. The card's flavor *"She raised him from an orphaned pup and gave him a life of love. With his last act, he thanked her."* stages the sacrifice mechanic as canine gratitude — the cohort's load-bearing moral statement. Trivia bullet 1 cites Mark Rosewater's "But Wait, There's Core" Making Magic article (2020-06-15) verbatim as the Hound-to-Dog rename source AND names Rambunctious Mutt as a fellow first-generation native Dog-type card. `[Wizards of the Coast: "But Wait, There's Core" — Making Magic, 2020-06-15]` `[Scryfall: m21/36 type_line "Creature — Dog"]`
 

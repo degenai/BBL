@@ -1,0 +1,42 @@
+{
+  "card_name": "Clutch of Currents",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "72",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Battle for Zendikar (released 2015-10-02) is set during the Eldrazi invasion of Zendikar. The blue cards in the set largely represent the merfolk and Gideon-allied resistance using the plane's oceans and hedron network against the Eldrazi titans Ulamog and Kozilek. [Scryfall: Battle for Zendikar set]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Clutch of Currents is a Sorcery (not an instant), consistent with the deliberate design choice for BFZ awaken spells: according to Mark Rosewater's 'Battle Zendikards Part 1' design article, most awaken cards were made sorceries because designers did not want them to be surprise ambush cards. The one exception was in white, with smaller awaken effects to offset the instant timing. [magic.wizards.com: Battle Zendikards Part 1, 2015-09-21]",
+      "sources": ["magic.wizards.com/en/news/making-magic/battle-zendikards-part-one-2015-09-21"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Awaken mechanic — introduced first as a preview in Duel Decks: Zendikar vs. Eldrazi before appearing in Battle for Zendikar — animates a land into a 0/0 Elemental creature with haste, plus +1/+1 counters. The 0/0 base with counters (rather than a flat P/T) was a deliberate rules design: it allows multiple awaken casts to stack counters on the same land, and lets existing animated lands be targeted again. The mechanic received a Storm Scale rating of 4 from Mark Rosewater, indicating a moderate-to-high likelihood of return. [mtg.wiki/page/Awaken] [magic.wizards.com: Battle for Zendikar Mechanics]",
+      "sources": ["mtg.wiki/page/Awaken", "magic.wizards.com/en/news/feature/battle-for-zendikar-mechanics"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Clutch of Currents is legal in Pauper, where it functions as one-mana creature bounce — a role rare at common in blue. The awaken mode (4U for a 3/3 land creature) is rarely relevant in Pauper due to the mana ceiling, but the base {U} bounce is the draw. EDHREC rank is 19208 across all Commander formats, placing it well below most staple bounce spells. [Scryfall legalities] [EDHREC rank via Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Coastal Discovery", "set": "Battle for Zendikar", "note": "Adjacent BFZ blue awaken sorcery — shares the awaken mechanic and blue-ocean BFZ cycle context"},
+    {"name": "Encircling Fissure", "set": "Battle for Zendikar", "note": "White awaken card cited by MaRo as the design exemplar of how awaken synergizes with a spell's primary effect"},
+    {"name": "Ruinous Path", "set": "Battle for Zendikar", "note": "Black awaken card used in the official Wizards mechanics article as the primary rules explanation example"},
+    {"name": "Retreat to Coralhelm", "set": "Battle for Zendikar", "note": "Same-set blue enchantment named after the Coralhelm merfolk settlement, landfall synergy in same blue BFZ block"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

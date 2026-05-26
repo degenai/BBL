@@ -1,0 +1,42 @@
+{
+  "card_name": "Cryptic Cruiser",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "56",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Cryptic Cruiser is an Eldrazi Processor from Battle for Zendikar (October 2, 2015), part of the large-scale return to Zendikar. The Eldrazi were divided into distinct factions aligned with each titan: Ulamog's Processors, Kozilek's Processors, and Eldrazi Drones. Type line verified via Scryfall API as 'Creature — Eldrazi Processor'.",
+      "sources": ["Scryfall API"]
+    },
+    {
+      "category": "design",
+      "text": "The Processor mechanic (activation cost: put an opponent's exiled card into their graveyard) was rated 'Development: Problematic' on Mark Rosewater's Storm Scale due to its 'A + B design' dependency on Ingest creatures supplying exiles. The mechanic requires both Ingest and Processor cards to function, consuming substantial design space for limited payoff.",
+      "sources": ["magic.wizards.com: Storm Scale: Zendikar and Battle for Zendikar (2016)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"The seas are no less imperiled than the dry lands. This fight is mine as much as it is yours.\" — Kiora, to Gideon Jura. The oceanic setting of the art directly mirrors Kiora's domain as a merfolk planeswalker whose power is rooted in seas and sea creatures. The quote frames the BFZ Gatewatch storyline where Kiora joined the resistance against the Eldrazi.",
+      "sources": ["Scryfall API flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank of 26,172 places Cryptic Cruiser outside the mainstream Commander card pool. Its activated ability ({2}{U} + exile-consumption to tap a creature) requires a functioning Ingest engine plus mana investment for a one-turn tap effect, which rarely justifies the infrastructure cost in non-dedicated Eldrazi builds.",
+      "sources": ["Scryfall API edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mist Intruder", "set": "Battle for Zendikar", "note": "Ingest creature; the Ingest+Processor engine requires Ingest creatures to feed Processor activations"},
+    {"name": "Ruin Processor", "set": "Battle for Zendikar", "note": "Fellow Eldrazi Processor in the same set; shares the exile-consumption design axis"},
+    {"name": "Blight Herder", "set": "Battle for Zendikar", "note": "White Processor that produces Scion tokens when consuming exiled cards"},
+    {"name": "Ulamog, the Ceaseless Hunger", "set": "Battle for Zendikar", "note": "The titan whose brood the Processors belong to thematically"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

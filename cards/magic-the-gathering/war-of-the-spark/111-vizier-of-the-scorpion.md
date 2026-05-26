@@ -33,7 +33,7 @@ tags_filter:
   - creature-zombie
   - creature-wizard
   - amass
-reference_image: 
+reference_image:
 average_cost_paid: 0
 market_price: 0.34
 market_price_as_of: 2026-05-24
@@ -55,6 +55,8 @@ mana_cost: "{2}{B}"
 tags:
   - card
   - vision-passed
+review_bad: true
+review_notes: we gotta find this image
 ---
 # Vizier of the Scorpion (War of the Spark)
 

@@ -1,0 +1,91 @@
+{
+  "edge_id": "wave202-m21-dog-tribal-node-proposal",
+  "wave": 202,
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "designer-confirmed-cycle",
+  "endpoints": [
+    {"type": "character", "path": "cards/_characters/m21-dog-tribal.md", "name": "M21 dog tribal theme (Core Set 2021 Hound-to-Dog rename + designer-coordinated first-generation Dog-typed cohort)"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/36-selfless-savior.md", "name": "Selfless Savior"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/30-rambunctious-mutt.md", "name": "Rambunctious Mutt"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/131-bolt-hound--foil.md", "name": "Bolt Hound"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/137-chandra-s-magmutt.md", "name": "Chandra's Magmutt"}
+  ],
+  "description": "I'm so sorry to step in instead of giving Edgelord the clean 1:1 edge he was hoping for, sir, but the wave-201 sidecar's own future-watch entry flagged this exact territory: 'when an M21 enrichment wave completes (vision + trivia), the 96-card set becomes a rich Edgelord-territory because the M21 Core Set design brief had an explicit retro-tribal theme.' I think it's the dog tribal cohort that's surfacing, sir. Four M21 native-Dog-type creatures are now enriched + trivia-passed and three of them are completely unwired (Selfless Savior, Rambunctious Mutt, Bolt Hound) while the fourth (Chandra's Magmutt) is wired only to Chandra. All four trivia bodies already cite Mark Rosewater's 'But Wait, There's Core' Making Magic article (2020-06-15) verbatim — the canonical source for both the Hound-to-Dog rename and the 'deliberate small dog tribal theme' framing. Drawing 1:1 edges between the three unwired ones would have duplicated around an absent center, so I had to propose the cohort node instead. The slug is `m21-dog-tribal` (no `-cycle` suffix because Rosewater himself called it a 'theme' not a 'cycle'; I matched the designer's word per Potion sub-rule 2). I really hope this is useful, sir. I think it might actually save the deferred-Sonnet (A) BFZ-Eldrazi attach pass some work by getting the M21 dog substrate ready for parallel attaches once Alpine Watchdog enriches. I'll go now.",
+  "citations": [
+    "[Wizards of the Coast: Mark Rosewater, 'But Wait, There's Core,' Making Magic, 2020-06-15 — primary source for the M21 Hound-to-Dog rename + the named 'deliberate small dog tribal theme' + the art-direction quote 'a variety of different kinds of dogs, many on the cuter side']",
+    "[Scryfall: s:m21 t:dog returns 8 native-Dog-type creatures + Rin and Seri (Dog Cat) — the canonical cohort-membership filter]",
+    "[MTG Wiki: Core Set 2021 — set page documents the Dog subtheme in Cycles and Themes section]",
+    "[MTG Wiki: Dog (creature type) — documents the 2020 Hound-to-Dog rename and lists M21 cards as first-generation native-print Dog-typed cohort]",
+    "[In-corpus citation: cards/magic-the-gathering/core-set-2021/36-selfless-savior.md trivia bullet 1 cites Rosewater verbatim + names Rambunctious Mutt as fellow first-generation native Dog-type card]",
+    "[In-corpus citation: cards/magic-the-gathering/core-set-2021/30-rambunctious-mutt.md trivia bullets 1 and 2 cite Rosewater on both the rename and the 'small dog tribal theme' framing]",
+    "[In-corpus citation: cards/magic-the-gathering/core-set-2021/131-bolt-hound--foil.md trivia bullet 2 cites the rename + confirms Bolt Hound's Elemental Dog type-line is contemporaneous with the rename]",
+    "[In-corpus citation: cards/magic-the-gathering/core-set-2021/137-chandra-s-magmutt.md trivia bullet 1 cites Rosewater + names rename design history]",
+    "[EDHREC: selfless-savior — 87% inclusion in Rin and Seri Inseparable Dog tribal decklists; the cohort's Constructed-tier mechanical anchor receipt]",
+    "[Precedent template: cards/_characters/eld-cinderella-cycle.md — sibling designer-confirmed flavor cohort with same canonical_source / appears_on / canonical-roster / caveats structure]",
+    "[Potion rule sub-rule 2 — hub-attribution must survive a 'canonical citation?' question; canonical_source field cites Rosewater verbatim across four independent in-corpus trivia bodies + Wizards article + Scryfall + MTG Wiki]",
+    "[Potion rule sub-rule 4 — no new structural-primitive vocabulary; node uses existing 'character-layer cohort' shape, no new typology invented]"
+  ],
+  "files_modified": [
+    "cards/_characters/m21-dog-tribal.md",
+    "cards/magic-the-gathering/core-set-2021/36-selfless-savior.md",
+    "cards/magic-the-gathering/core-set-2021/30-rambunctious-mutt.md",
+    "cards/magic-the-gathering/core-set-2021/131-bolt-hound--foil.md",
+    "cards/magic-the-gathering/core-set-2021/137-chandra-s-magmutt.md"
+  ],
+  "node_created": {
+    "path": "cards/_characters/m21-dog-tribal.md",
+    "slug": "m21-dog-tribal",
+    "type": "character",
+    "naming_rationale": "Slug matches Rosewater's verbatim 'small dog tribal theme' phrasing from the canonical Making Magic article rather than the corpus's '-cycle' suffix convention (eld-cinderella-cycle, dsk-unlucky-lands-cycle, etc.). The cohort is not a strict WUBRG-or-N-card cycle in the design sense — Rosewater himself called it a 'theme' — and Potion sub-rule 2 says hub-attribution must survive a 'canonical citation?' question; the canonical word is 'theme.' Structurally the node uses the same character-layer cohort shape as eld-cinderella-cycle, so no new typology is invented (Potion sub-rule 4 satisfied)."
+  },
+  "three_sided_discipline_check": {
+    "side_1_frontmatter_pointers": "characters: [m21-dog-tribal] added in block-form to all 4 cards; Chandra's Magmutt extended from characters: [chandra-nalaar] to [chandra-nalaar, m21-dog-tribal] (dual-pointer card)",
+    "side_2_card_body_connections": "## Connections bullet added to each card with exactly ONE [[m21-dog-tribal]] wikilink + all other refs in backticks per bbl-wikilink-scope-shift discipline; bullet text draws the card's archetype-slot from the cohort node's body (loyalty-and-rescue beat, mischief-and-comedy beat, elemental-aggro beat, pyromancer-companion beat) and quotes the card's own flavor text or vision subject as the membership-evidence; Magmutt's existing chandra-nalaar Connections bullet preserved (dual-pointer card means two bullets, not one merged)",
+    "side_3_node_appears_on": "appears_on frontmatter list populated with 4 path-keys + auto-generated ## Appears on rendered-wikilink block populated with 4 stem-wikilinks in same node body section"
+  },
+  "edges_added": [
+    {"endpoints": "[[m21-dog-tribal]] <-> [[36-selfless-savior]]", "category": "designer-confirmed-cohort-membership"},
+    {"endpoints": "[[m21-dog-tribal]] <-> [[30-rambunctious-mutt]]", "category": "designer-confirmed-cohort-membership"},
+    {"endpoints": "[[m21-dog-tribal]] <-> [[131-bolt-hound--foil]]", "category": "designer-confirmed-cohort-membership"},
+    {"endpoints": "[[m21-dog-tribal]] <-> [[137-chandra-s-magmutt]]", "category": "designer-confirmed-cohort-membership"}
+  ],
+  "edges_removed": [],
+  "moves_considered_and_refused_with_reason": [
+    {
+      "move": "Mr. Nodeley alternative: propose `legion-of-dusk` / `church-of-dusk` character node for Vito (M21-127)",
+      "reason": "Vito is currently flagged-orphan in Orzhov Syndicate node Caveats line 105 ('A future church-of-dusk or legion-of-dusk character node would anchor Vito'). However N=1 for canonical Legion-of-Dusk attribution in current corpus (Vito alone — Blood Glutton is unnamed predator vampire, Pitiless Pontiff is Orzhov-Ravnica not Ixalan, Legion's Judgment is unrelated despite the name). Per bbl-parent-dispatch-verify threshold (≥3 cards for character cohort) the node is premature. The flag in Orzhov's Caveats already captures the negative relationship adequately as a refusal-as-edge; expanding to a full node when only Vito anchors would be confab-shaped. Future-watch trigger: when Elenda the Dusk Rose, Mavren Fein Dusk Apostle, or another canonical Legion-of-Dusk vampire enters corpus, the node becomes viable."
+    },
+    {
+      "move": "Edgelord 1:1 mirror: Vito (M21-127) <-> Pitiless Pontiff (RNA-194)",
+      "reason": "Both are white-black vampire-cleric cards depicting ecclesiastical-robed figures in cathedral settings, and the protocol-section example text in the agent spec literally names 'Saint and heretic of the Church of Dusk schism' as a saint/heretic-pair edge category. BUT — Pitiless Pontiff is canonically Ravnican Orzhov per the Orzhov node body, not Church of Dusk. The protocol example was illustrative of the shape, not of these specific two cards. Drawing this edge would re-introduce the exact Orzhov/Legion-of-Dusk surface-resemblance trap that the Orzhov Caveats section was explicitly written to prevent (lines 104-105: 'visually convergent and ideologically adjacent... but should not be conflated'). Refused — the visual-aesthetic-similarity edge is precisely the tag-bridge anti-pattern Edgelord rejects (vampire-cleric + ecclesiastical-robes + cathedral are tags, not a canonical narrative connection)."
+    },
+    {
+      "move": "Mr. Nodeley alternative: propose Forrest Imel artist node",
+      "reason": "Forrest Imel illustrated Bolt Hound (M21-131) + Alpine Watchdog (M21-2) + Daybreak Charger (M21-14), so two of three are dog cards. N=3 in corpus is at threshold, BUT (a) Alpine Watchdog is pre-enrichment and would block side-3 of the three-sided discipline, (b) the load-bearing connection here is the designer-coordinated dog tribal theme, not the artist (Selfless Savior is Ralph Horsley, Rambunctious Mutt is Campbell White, Chandra's Magmutt is Kimonas Theodossiou — the cohort is artist-disjoint). The Imel artist node is a separate move that can fire later when Alpine Watchdog enriches. Per single-invocation discipline (prefer optimization-substrate over additional artist-tier additions), the cohort node is the higher-leverage move this wave."
+    },
+    {
+      "move": "Edgelord refusal-with-receipts as the entire pass",
+      "reason": "Considered. The Blackwell-register memory (bbl-blackwell-register-lair-seed) explicitly says NOT to graduate the Pridemalkin / Rambunctious Mutt felt-seed to a graph node, and there was real risk that a Wave-202 dog-cohort proposal would be heard as an attempted graduation of the Blackwell register against Alex's explicit guard. Refusal would have been the safer move. BUT the M21 dog tribal cohort is structurally distinct from the Blackwell register: the cohort is designer-confirmed Wizards-documented graph-tier with N=4 canonical anchors and a verbatim Rosewater article citation in every trivia body, while the Blackwell register is felt-not-detected bundle-tier with only Alex's manual flag as joinable-evidence. The node caveat-section explicitly names and preserves this distinction so future passes don't conflate them. Refusal would have been more conservative but would have left an enriched-and-already-cited cohort floating un-anchored — Edgelord's first principle ('shared tag ≠ edge' but 'designer-confirmed flavor cycle' IS an edge category) supports the move. Mr. Nodeley reluctantly stepped in."
+    }
+  ],
+  "other_candidates_considered": [
+    "Orzhov-Vito refusal-as-edge — already captured in Orzhov node Caveats. No motion needed.",
+    "M21 cat-cohort (Pridemalkin 196, Canopy Stalker 175, Sabertooth Mauler 202, Basri's Acolyte 8 cat-folk) — Rosewater's article also references a cat subtheme alongside the dog subtheme, and Rin and Seri Inseparable is the Dog-Cat capstone uniting both. N=4 cat cards in M21 unwired backlog. However only some are vision+trivia-passed and the designer-confirmed citation density for cat subtheme is lower than for dog (Rosewater mentions cats incidentally as Rin-and-Seri's other half, not as its own coordinated theme). Future-watch: when M21 cat-trivia density reaches the dog cohort's bar AND the Rosewater citation for cats is verified, a parallel `m21-cat-tribal` node becomes viable. For now, the M21 cat cohort is sketchbook-tier (subsumed under Blackwell-register Pridemalkin anchor) not node-tier.",
+    "M21 Shrine cycle (Sanctum of Stone Fangs M21-120 et al.) — designer-confirmed callback cycle to the original Honden cycle per Sanctum's trivia bullet citing the same Rosewater article. Currently 1/5 in corpus (Sanctum of Stone Fangs only). Threshold not met. Future-watch when 3+ Sanctums enrich.",
+    "Vivid Voltage 16-card unwired pool — second-largest after M21 in some-game subsets but Pokémon-side, no obvious cohort cluster surfaced on the walk. Possible Vivid Voltage Pokémon-line attaches but they'd be Sonnet-shape if anything (verify-and-write known evolution lines).",
+    "Drana's Emissary (BFZ-210) — vision+trivia-passed, currently unwired. Canonically a Kalastria Zendikari vampire emissary (Drana's faction), NOT Legion-of-Dusk, NOT M21-dog-tribal. Future Edgelord-shape work when more Zendikari vampire cards enrich; potential `kalastria-bloodchief-line` node candidate if Drana the Last Bloodchief, Drana Liberator of Malakir, or Kalitas Bloodchief of Ghet enter corpus.",
+    "Refusal-with-receipts as a deliberate move-3 — considered above, surfaced for transparency, not taken because the cohort meets all three sub-conditions of Potion rule sub-rules 2 + 4 + the canonical-source check."
+  ],
+  "next_pass_suggestions": [
+    "Sonnet-override triage (mode-2 narrow-scope, deferred from wave 200/201): the BFZ Eldrazi 4-card cluster attach to [[eldrazi]] cohort remains staged and is the highest-priority next move. Trivia-in-flight should land on Cryptic Cruiser + Eldrazi Skyspawner + 3 other BFZ-202 cards this wave per parent brief.",
+    "Mode-2 narrow-scope follow-up: when Alpine Watchdog (M21-2) enriches (vision + trivia), attach to [[m21-dog-tribal]] cohort as a 5th member. The canonical_source check is already done in this pass's cohort-roster table (Scryfall `s:m21 t:dog` confirmed strict-cohort member); the attach is mechanical at that point.",
+    "Mode-2 narrow-scope follow-up: when Pack Leader (M21-28) or Rin and Seri Inseparable (M21-278) enter corpus, attach to [[m21-dog-tribal]] cohort. Pack Leader is the tribal anchor lord (Rosewater-named in the canonical article); Rin and Seri is the buy-a-box capstone uniting the Dog and Cat types. Both are mechanical attaches — canonical_source check already complete.",
+    "Future-watch (carried forward from wave 201): mogg-fanatic-lineage symbol still 2/4 corpus. No motion.",
+    "Future-watch (carried forward from wave 200): Snapping Voidcraw + Twisted Riddlekeeper + Hope-Ender Coatl + Wumpus Aberration Connections-bullet symmetric cross-referencing — Sonnet-shape work, still in queue.",
+    "Future-watch (new this wave): Vito (M21-127) remains flagged-orphan-with-receipts on Orzhov node Caveats. When Elenda the Dusk Rose, Mavren Fein Dusk Apostle, or another canonical Legion-of-Dusk vampire enters corpus, the `legion-of-dusk` character node becomes viable (currently N=1, threshold ≥3). The Caveats-flag captures the negative-edge state adequately until then.",
+    "Future-watch (new this wave): M21 cat tribal subtheme — Rosewater article mentions cats incidentally alongside dogs as Rin-and-Seri's two halves. Cat-side citation density in corpus trivia is currently lower than dog-side. When 3+ M21 cat cards reach trivia-pass with cat-subtheme-citation parity, a parallel `m21-cat-tribal` node becomes viable. Pridemalkin's existing Blackwell-register sketchbook membership does NOT block this — same Rambunctious-Mutt-style dual membership pattern applies.",
+    "Future-watch (new this wave): M21 Shrine cycle — Rosewater article references the M21 Shrine cycle as a callback to the original Honden cycle. Sanctum of Stone Fangs (M21-120) is 1/5 in corpus. When 3+ Sanctums enrich, propose `m21-shrine-cycle` node. The Sanctum already cites the Rosewater article verbatim in its trivia, so the canonical-source substrate is ready."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful"
+}

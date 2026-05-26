@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image:
 average_cost_paid: 0
 market_price: 0.67
 market_price_as_of: 2026-05-24
@@ -23,11 +23,10 @@ needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'Oath of the Gatewatch'
 review_good: false
 review_bad: false
-review_notes: ""
+review_notes:
 tags:
   - card
   - manual-review
-
 ---
 # Wastes (183) - Full Art (Oath of the Gatewatch)
 

@@ -33,6 +33,8 @@ tags_filter:
   - creature-dog
   - red-magic
   - haste
+characters:
+  - m21-dog-tribal
 reference_image: cards/_images/magic-the-gathering/core-set-2021/131-bolt-hound--foil.png
 average_cost_paid: 0
 market_price: 0.36
@@ -91,3 +93,7 @@ A black, lean canine charges directly at the viewer in mid-leap, head low and te
 - Reckless Bushwhacker (Oath of the Gatewatch) — red haste creature with a comparable mass-pump-on-attack role in aggressive decks
 - Goblin Rabblemaster (Magic 2015) — red three-drop with haste and an attack-based pump effect; frequent comparison point
 - Crasher Hound (Dominaria United) — later red Dog creature with Haste, part of the post-rename Dog type expansion
+
+## Connections
+
+- [[m21-dog-tribal]] — anchor card in the elemental-aggro beat of the M21 designer-coordinated dog tribal theme. The card's type-line "Creature — Elemental Dog" is contemporaneous with the Hound-to-Dog rename — Bolt Hound is one of the first-generation native-Dog-type prints rather than a retroactively-errata'd legacy hound. Trivia bullet 2 cites Mark Rosewater's "But Wait, There's Core" Making Magic article verbatim as the source for the rename framing. The flavor text *"Its spark is worse than its bite"* inverts the canine idiom while also doubling on the Planeswalker Spark — the rename register meets MTG's lightning-elemental vocabulary in a single line. `[Wizards of the Coast: "But Wait, There's Core" — Making Magic, 2020-06-15]` `[Scryfall: m21/131 type_line "Creature — Elemental Dog"]`

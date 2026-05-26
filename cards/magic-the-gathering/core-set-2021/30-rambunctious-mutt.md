@@ -32,6 +32,8 @@ tags_filter:
   - creature-dog
   - white-magic
   - creature
+characters:
+  - m21-dog-tribal
 reference_image: cards/_images/magic-the-gathering/core-set-2021/30-rambunctious-mutt.png
 average_cost_paid: 0
 market_price: 0.34
@@ -89,4 +91,8 @@ A big shaggy white dog rears up on its hind legs at the center of a cluttered, w
 - Pack Leader (M21, no. 28) — rare dog lord from the same set; the tribal anchor for the M21 dog theme
 - Rin and Seri, Inseparable (M21, no. 278) — buy-a-box legendary that united the Dog and Cat types; the capstone of M21's dog/cat narrative
 - Isamaru, Hound of Konda (Champions of Kamigawa) — oldest named Dog commander; received the Hound-to-Dog errata retroactively in 2020
+
+## Connections
+
+- [[m21-dog-tribal]] — anchor card in the mischief-and-comedy beat of the M21 designer-coordinated dog tribal theme. Rosewater's "But Wait, There's Core" Making Magic article (2020-06-15) names the set's "deliberate small dog tribal theme" verbatim — Pack Leader as rare lord, Rin and Seri Inseparable as buy-a-box capstone, six canine creatures across the set with art direction quoted as "a variety of different kinds of dogs, many on the cuter side." The card's shaggy-white-dog-rearing-in-cluttered-room composition lands the cuter-side directive in its purest comedic register; trivia bullets 1 and 2 cite the Rosewater article verbatim. `[Wizards of the Coast: "But Wait, There's Core" — Making Magic, 2020-06-15]` `[Scryfall: m21/30 type_line "Creature — Dog"]`
 

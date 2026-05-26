@@ -1,0 +1,42 @@
+{
+  "card_name": "Brilliant Spectrum",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "70",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Brilliant Spectrum is a Converge sorcery from Battle for Zendikar (October 2, 2015). The depicted figure — elf-eared, bare-chested, arms outstretched in rainbow light — is unnamed in oracle text and flavor text. Bolbuss-pattern check applied: no named Zendikar elf can be attributed from canonical sources.",
+      "sources": ["Scryfall API oracle_text, flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Converge rewards spending mana of multiple colors, scaling effect by color count (max 5). Brilliant Spectrum draws X cards equal to colors spent, then discards two. At full five-color convergence, it nets three cards. Mark Rosewater's Storm Scale article rated Converge 'Unpopular' in market research — lowest or near-lowest rated BFZ mechanic — with 'Small' design space due to scaling-effect constraints.",
+      "sources": ["magic.wizards.com: Storm Scale: Zendikar and Battle for Zendikar (2016)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'There are more sights on Zendikar than the eyes can see.' Unattributed aphorism. Reflects Zendikar's identity as an Adventure World — a plane defined by its spectacular and dangerous geography, a design mandate carried through both Zendikar blocks.",
+      "sources": ["Scryfall API flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 25,792 and market price $0.02 reflect near-zero competitive uptake. In practice, Converge requires multicolor mana support to draw more than one or two cards, and the mandatory discard-two clause limits the ceiling even at full convergence. Outclassed by Harmonize, Drawn from Dreams, or Strategic Planning for most Commander slots.",
+      "sources": ["Scryfall API edhrec_rank, prices"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Radiant Flames", "set": "Battle for Zendikar", "note": "Most commonly cited Converge card in BFZ; frequently used to illustrate the mechanic in design retrospectives"},
+    {"name": "Skyrider Elf", "set": "Battle for Zendikar", "note": "Another BFZ Converge card, uses color-count for +1/+1 counters"},
+    {"name": "Bring to Light", "set": "Battle for Zendikar", "note": "The marquee Converge card of BFZ; shows the mechanic at its design ceiling"},
+    {"name": "Unified Front", "set": "Oath of the Gatewatch", "note": "Follow-on Converge card in the same block, showing the mechanic's continuation into OGW"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

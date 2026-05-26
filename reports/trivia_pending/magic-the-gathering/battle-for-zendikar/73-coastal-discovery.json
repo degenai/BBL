@@ -1,0 +1,42 @@
+{
+  "card_name": "Coastal Discovery",
+  "game": "Magic: The Gathering",
+  "set": "Battle for Zendikar",
+  "collector_number": "73",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The card's name and art reflect a core narrative thread of Battle for Zendikar: the Gatewatch and their allies discovering that the hedron network and leylines of Zendikar were the key to defeating the Eldrazi titans. Jori En's expeditionary research — finding alien Eldrazi-scarred coastlines and tidal zones — is one of the storyline's primary knowledge-recovery arcs. [Wizards story: 'The Believers' Pilgrimage', 2015-09-02] [Jori En via WebSearch: coolstuffinc.com 'Legends of Zendikar']",
+      "sources": ["magic.wizards.com/en/news/magic-story/believers-pilgrimage-2015-09-02", "coolstuffinc.com/a/jayannelli-07282020-legends-of-zendikar"]
+    },
+    {
+      "category": "design",
+      "text": "The artist, Kieran Yanner, painted Coastal Discovery as a freelance illustrator in 2015. He subsequently joined Wizards of the Coast in February 2017 as Senior Art Director, sharing responsibilities formerly held by Jeremy Jarvis, alongside Dawn Murin, Cynthia Sheppard, and Mark Winters. He held the role until December 2021. Coastal Discovery thus predates Yanner's tenure as the person who would have directed other artists' work for the same game. [MTG Wiki: Kieran Yanner via WebSearch]",
+      "sources": ["mtg.fandom.com/wiki/Kieran_Yanner", "WebSearch: Kieran Yanner MTG Wiki"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Coastal Discovery is a {3}{U} sorcery that draws two cards, with an Awaken 4 mode at {5}{U} that also animates a land with four +1/+1 counters. Scryfall confirms no flavor text on the card. It is not legal in Pauper (uncommon) and carries an EDHREC rank of 21372, reflecting low Commander adoption — likely displaced by cheaper or more efficient draw spells at the same slot. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The four-counter Awaken 4 mode produces a 4/4 land Elemental — among the larger land creatures in the BFZ awaken cycle. The 0/0-plus-counters rules framing means a second awaken cast on the same land stacks: two awaken 4 hits produce an 8/8. This edge-case stacking was explicitly called out in the official BFZ mechanics article as a feature, not a bug. [magic.wizards.com: Battle for Zendikar Mechanics]",
+      "sources": ["magic.wizards.com/en/news/feature/battle-for-zendikar-mechanics"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Clutch of Currents", "set": "Battle for Zendikar", "note": "Adjacent BFZ blue awaken sorcery — shares block and mechanic; collector numbers 72 and 73 are sequential"},
+    {"name": "Jori En, Ruin Diver", "set": "Oath of the Gatewatch", "note": "The character whose expedition frames the BFZ discovery storyline; received her own legendary card in the follow-up set"},
+    {"name": "Encircling Fissure", "set": "Battle for Zendikar", "note": "MaRo-cited awaken design exemplar from same set"},
+    {"name": "Coastal Discovery", "set": "Secret Lair Drop", "note": "Any future Secret Lair reprint would surface the Yanner-as-art-director irony — Yanner painting the original, then commissioning similar art from the director seat"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

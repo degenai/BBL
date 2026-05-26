@@ -71,3 +71,15 @@ A large manta-ray-shaped creature flies through the air of a rocky canyon. The c
 **Creatures:** manta-ray, flying-creature
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set / lore context** — Cloud Manta is a `Creature — Fish` (verified via Scryfall `type_line`; the vision pass tagged it as `creature-beast` but the canonical subtype is Fish). It is one of the few aerial Fish in the game — the Zendikar planes feature flying fauna that have adapted to sky-sailing among the floating landmasses and stone formations of the plane `[Scryfall]`.
+- **Flavor text — Emeria revelation** — "When Emeria's worshippers learned that she was no more than a twisted memory of Emrakul, they abandoned their temples to the god. The deserted shrines now serve as breeding grounds for the mantas." `[Scryfall]`. The flavor text encodes one of BFZ's central lore disclosures: the goddess Emeria, venerated by the kor as the wind deity and by the merfolk as the goddess of the sky realm, was in fact a corrupted racial memory of the Eldrazi titan Emrakul — whose vast silhouette blotting out the sky long ago was slowly mythologized into a divine protector figure. When the truth emerged in BFZ's story, organized religion around Emeria collapsed `[Scryfall flavor_text; MTG Wiki: Emeria, via WebSearch snippet]`.
+- **Design context — Zendikar's fauna in a corrupted world** — Cloud Manta's flavor text uses the Eldrazi revelation to reframe ordinary wildlife: the mantas now colonize abandoned sacred sites, not because they are corrupted, but because the human structures that once occupied those sites have been vacated. The card is a rare BFZ non-Eldrazi common that carries set-story weight entirely through flavor text `[Scryfall]`.
+- **Mechanical reputation** — At {3}{U} for a 3/2 Flying Fish with no other abilities, Cloud Manta's stats are below the curve even for Limited and far below Commander standards. EDHREC rank of 26,996 places it at the bottom of the BFZ card pool in terms of Commander inclusion. Its value to the graph is primarily as a flavor-text carrier for the Emeria/Emrakul revelation `[Scryfall metadata]`.
+
+### Related cards
+- Emeria, the Sky Ruin (Zendikar) — the land card named for the false goddess; predates BFZ's revelation
+- Emrakul, the Aeons Torn (Rise of the Eldrazi) — the titan whose memory became the Emeria myth
+- Herald of Kozilek (Battle for Zendikar) — another BFZ creature that carries Zendikar mythology in its flavor text
+- Crypt of the Eternals (Hour of Devastation) — a later set that used the same "abandoned sacred space repurposed by new inhabitants" flavor-text structure

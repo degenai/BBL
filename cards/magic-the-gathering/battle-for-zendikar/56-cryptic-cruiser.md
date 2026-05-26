@@ -72,3 +72,15 @@ A large, bloated aquatic monstrosity fills the frame, submerged in dim green-lit
 **Creatures:** tentacled-aquatic-creature, eldrazi-entity
 **Genre cues:** fantasy, cosmic-horror, eldrazi
 
+## Trivia
+
+- **Set / lore context** — Cryptic Cruiser is a rare blue-aligned Eldrazi Processor from Battle for Zendikar (October 2, 2015), part of the large-scale return to Zendikar after the Eldrazi titans escaped their imprisonment. The set's Eldrazi were divided into distinct factions aligned with each titan: Ulamog's Processors, Kozilek's Processors, and Eldrazi Drones `[Scryfall]`.
+- **Design history** — Cryptic Cruiser carries the subtype `Eldrazi Processor`, one of two creature subtypes introduced in BFZ to represent the Eldrazi's "eating worlds" fantasy. The Processor mechanic required you to put an opponent's exiled card into their graveyard as an activation cost. Mark Rosewater's design commentary noted this "A + B design" required both Ingest creatures (to exile opponent cards) and Processors (to consume those exiles) operating together, which created mechanical dependency that development rated as "Problematic" on the Storm Scale `[magic.wizards.com: "Storm Scale: Zendikar and Battle for Zendikar", 2016]`.
+- **Flavor text** — "The seas are no less imperiled than the dry lands. This fight is mine as much as it is yours." — Kiora, to Gideon Jura `[Scryfall]`. This quote captures Kiora's commitment to defending Zendikar as a water-world planeswalker. The oceanic setting of the art directly mirrors Kiora's domain — she is a merfolk planeswalker whose power is rooted in seas and sea creatures.
+- **Mechanical reputation** — EDHREC rank of 26,172 places Cryptic Cruiser well outside the mainstream Commander card pool; its activated ability ({2}{U} + exile-consumption to tap a creature) requires both a functioning Ingest engine and mana investment for a one-turn tap, which rarely justifies the infrastructure cost in non-dedicated Eldrazi builds `[Scryfall, EDHREC rank via Scryfall metadata]`.
+
+### Related cards
+- Mist Intruder (Battle for Zendikar, 71) — Ingest creature; the Ingest + Processor engine requires Ingest creatures like Mist Intruder to feed Processor activations
+- Ruin Processor (Battle for Zendikar, 12) — fellow Eldrazi Processor in the same set; the two subtypes share the exile-consumption design axis
+- Blight Herder (Battle for Zendikar, 1) — white Processor that produces Scion tokens when consuming exiled cards, showing the breadth of Processor design across colors
+- Ulamog, the Ceaseless Hunger (Battle for Zendikar, 15) — the titan whose brood the Processors belong to thematically

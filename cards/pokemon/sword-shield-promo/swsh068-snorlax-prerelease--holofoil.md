@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub: []
 tags_filter: []
-reference_image: 
+reference_image:
 average_cost_paid: 0
 market_price: 30.49
 market_price_as_of: 2026-05-24
@@ -22,13 +22,12 @@ art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via pokemontcg for set 'Sword & Shield Promo'
 review_good: false
-review_bad: false
-review_notes: ""
+review_bad: true
+review_notes: we gotta find this image
 tags:
   - card
   - pokemon
   - manual-review
-
 ---
 # Snorlax (Prerelease) (Sword & Shield Promo)
 

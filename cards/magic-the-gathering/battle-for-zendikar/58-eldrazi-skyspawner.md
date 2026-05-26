@@ -70,3 +70,15 @@ An amorphous purple-black Eldrazi entity floats against a bright cloudy sky. The
 **Creatures:** eldrazi-entity, tentacled-flyer
 **Genre cues:** fantasy, cosmic-horror, eldrazi
 
+## Trivia
+
+- **Set / lore context** — Eldrazi Skyspawner is an Eldrazi Drone from Battle for Zendikar (October 2, 2015). The `Eldrazi Drone` subtype — verified via Scryfall `type_line` — designates the "servant class" of the Eldrazi, smaller creatures that swarm across Zendikar ahead of the titans. Drones are distinct from Processors (which consume exiled cards) and from the titans themselves `[Scryfall]`.
+- **Design history** — The Skyspawner's enter-the-battlefield trigger creates a 1/1 colorless Eldrazi Scion token that sacrifices for {C} mana. This Scion-generating pattern was a key design axis in BFZ: Scions accelerated mana toward large Eldrazi spells and contributed to the "colorlessness matters" mechanical theme. The token is listed as a related card in Scryfall's `all_parts` field, confirming the official design relationship `[Scryfall]`.
+- **Mechanical reputation** — Eldrazi Skyspawner is pauper-legal (confirmed via Scryfall legalities) and has seen consistent play in Pauper Eldrazi lists. At {2}{U} it provides a 2/1 flying body plus a Scion token — the token can either block or ramp into larger Eldrazi on the following turn. MTGDecks.net lists it in both Temur Control and Izzet Skred pauper builds as of March 2026 `[Scryfall; mtgdecks.net March 2026]`. EDHREC rank of 11,532 is notably better than most BFZ commons, reflecting cross-format utility `[Scryfall metadata]`.
+- **Pauper community context** — The MTGSalvation Pauper Eldrazi thread (archived) discussed Skyspawner as a foundational piece of the BFZ-era Pauper Eldrazi shell, valued for combining the evasion body (flies over ground blockers) with the Scion token (ramps or chump-blocks). Community sentiment rated it the most consistently-played BFZ Eldrazi common in the format `[MTGSalvation forums: "Eldrazi — MTGO Pauper" thread, via WebSearch snippet]`.
+
+### Related cards
+- Eldrazi Scion token (BFZ) — directly created by Skyspawner's ETB trigger; the token is listed in Scryfall's all_parts for this card
+- Mist Intruder (Battle for Zendikar) — fellow Eldrazi Drone; shares the Drone subtype in the same set
+- Tide Drifter (Battle for Zendikar) — another blue Eldrazi Drone in BFZ, thematic sibling
+- Vile Aggregate (Battle for Zendikar) — gets +1/+0 for each colorless creature you control; Skyspawner's Scion token feeds its power directly
