@@ -1,0 +1,42 @@
+{
+  "card_name": "Ilysian Caryatid",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "174",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The name derives from 'Ilysia' — THB's heroic afterlife realm described in the flavor text — and 'caryatid,' a real Greek architectural term for a sculpted female figure serving as a load-bearing column. A caryatid is literally a human body pressed into structural service. On Theros, the Caryatid cards animate this concept: a living plant-being shaped like the ancient supporting-column figures. Ilysia mirrors the Elysian Fields of Greek myth (abode of the heroic dead), making this card a literal nature-pillar guarding the heroic paradise. [Scryfall flavor_text: thb/174; MTG Salvation forums: THS Block real-life influences thread, via WebSearch snippet]",
+      "sources": ["Scryfall flavor_text: thb/174", "MTG Salvation forums: THS Block real-life influences, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Those who die as heroes are permitted to dwell in Ilysia, a protected realm of the Underworld as tranquil and vibrant as the rest is bleak.\" Ilysia is THB's version of the Elysian Fields — a Underworld paradise enclosed within Erebos's domain but insulated from its torments. The caryatid stands guard over this boundary. [Scryfall flavor_text: thb/174]",
+      "sources": ["Scryfall flavor_text: thb/174"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Ilysian Caryatid holds EDHREC rank 1,753 — remarkably high for a common, placing it in the top tier of Theros Beyond Death commons by Commander adoption. Its mana ability doubles output when you control a creature with power 4 or greater, making it a strong ramp piece in big-creature green strategies. It has been reprinted three times: Arena Beginner Set (2020), Jumpstart 2022, and Commander Masters (2023) — confirming Wizards's assessment of it as format-stable and beginner-appropriate. [Scryfall edhrec_rank; Scryfall prints search: oracleid 5f2be3c2]",
+      "sources": ["Scryfall edhrec_rank: 1753", "Scryfall prints search: oracleid 5f2be3c2"]
+    },
+    {
+      "category": "design",
+      "text": "Ilysian Caryatid follows directly from Sylvan Caryatid (Theros, 2013) — the earlier Theros-block plant mana creature. The design pattern of a 'living column' mana dork is a Theros-specific creature concept. Sylvan Caryatid was a staple in Standard 2014-2015 for its hexproof + fixing; Ilysian Caryatid trades hexproof for the power-4 doubling clause, shifting its ceiling higher in large-creature decks. Both are illustrated in the same column-guardian aesthetic, with Ilysian's art by Winona Nelson placing the figure in the Ilysia paradise landscape. [Scryfall: ths/180 Sylvan Caryatid; Scryfall: thb/174 artist field]",
+      "sources": ["Scryfall: ths/180 Sylvan Caryatid", "Scryfall: thb/174 artist field (Winona Nelson)"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sylvan Caryatid", "set": "Theros", "note": "Direct design predecessor; same living-column plant concept, different mana clause"},
+    {"name": "Arasta of the Endless Web", "set": "Theros Beyond Death", "note": "THB green legend; another Ilysia-adjacent nature entity in green"},
+    {"name": "Paradise Druid", "set": "War of the Spark", "note": "Functional peer: 2-drop green mana dork with a conditional upside"},
+    {"name": "Selvala, Heart of the Wilds", "set": "Conspiracy: Take the Crown", "note": "Power-matters green commander; Ilysian Caryatid is a natural ramp piece in that shell"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

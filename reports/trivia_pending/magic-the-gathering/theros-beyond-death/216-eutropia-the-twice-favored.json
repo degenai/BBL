@@ -1,0 +1,42 @@
+{
+  "card_name": "Eutropia the Twice-Favored",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "216",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Eutropia is a canonical Wizards-created Theros character. The card's type line reads 'Legendary Creature — Human Wizard'. The MTG Wiki confirms her appearance (brown skin, white hair braided with red ribbons, milky white eyes, red face paint, white tunic, winged tiara, one bowl in each hand) matching the card art exactly. She is a unique character on Theros favored by both Nylea and Thassa — consistent with the flavor text. This is an internal Wizards IP, not an external crossover. No ## IP block required.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Eutropia is a canonical Theros character — a Human Wizard unique among Theros oracles in being favored by two gods simultaneously: Nylea (god of the hunt, nature, seasons) and Thassa (god of the sea). The MTG Wiki describes her as having brown skin, pure white hair braided with red ribbons, milky white eyes, and red face paint, carrying one bowl in each hand — one glowing green for the forest, one blue for the ocean. [MTG Wiki: Eutropia, via WebSearch snippet]",
+      "sources": ["MTG Wiki: Eutropia (via WebSearch snippet)", "Scryfall flavor_text: thb/216"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Nylea speaks to her in the windblown leaves; Thassa in the rushing tides.\" The dual-god attribution is the defining fact of Eutropia's lore — most Theros priests and oracles serve a single patron deity; dual devotion is exceptional. [Scryfall]",
+      "sources": ["Scryfall flavor_text: thb/216"]
+    },
+    {
+      "category": "design",
+      "text": "Eutropia is a non-enchantment creature with the Constellation keyword — the mechanic that triggers whenever an enchantment enters the battlefield under your control. Mark Rosewater's 'At Death's Door, Part 2' (Jan 2020) notes that placing Constellation on non-enchantment cards was a deliberate Play Design compromise: the original Journey into Nyx iteration only appeared on enchantments, which created a feedback-loop balance concern. THB's solution — allow Constellation on creatures like Eutropia — was described as the key knob Play Design needed. [Wizards.com: Making Magic, 'At Death's Door, Part 2', Jan 6 2020]",
+      "sources": ["Wizards.com: Making Magic, At Death's Door Part 2, 2020-01-06"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Eutropia holds EDHREC rank 12,824 as of Scryfall data, placing her in the lower mid-tier of EDH popularity. She commands a niche Simic (green-blue) Enchantress/Constellation archetype. Abe Sargent featured her as the subject of Budget Commander no. 52 at CoolStuffInc (January 14, 2020) immediately after THB's release, noting she enables a three-mana Constellation commander that permanently pumps creatures and grants flying. [Scryfall edhrec_rank; CoolStuffInc: Budget Commander no. 52, Abe Sargent, 2020-01-14]",
+      "sources": ["Scryfall edhrec_rank field", "CoolStuffInc: Budget Commander #52, Abe Sargent, 2020-01-14"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Nylea, God of the Hunt", "set": "Theros", "note": "One of Eutropia's two patron deities; associated with the windblown-leaves channel in flavor text"},
+    {"name": "Thassa, Deep-Dwelling", "set": "Theros Beyond Death", "note": "One of Eutropia's two patron deities; associated with the rushing-tides channel in flavor text"},
+    {"name": "Setessan Champion", "set": "Theros Beyond Death", "note": "THB Constellation creature on a non-enchantment body; design parallel to Eutropia"},
+    {"name": "Archon of Sun's Grace", "set": "Theros Beyond Death", "note": "Core Enchantress-deck payoff in the Constellation archetype Eutropia commands"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

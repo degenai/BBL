@@ -52,6 +52,8 @@ mood: grim
 time_of_day: night
 setting: other
 artist: Jason Felix
+characters:
+  - theros-pantheon
 art_crop_image: cards/_images/magic-the-gathering/theros-beyond-death/103-lampad-of-death-s-vigil--art.jpg
 art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/8/e8c9ada9-ea25-4a96-a4be-e4cf8f7a014f.jpg?1581479856
 flavor_text: "\"Grief-struck, she weeps for each mortal's final death.\"\n—Psemilla, Meletian poet"
@@ -97,3 +99,7 @@ A robed feminine spirit-figure stands at center, her form dissolving into wisps 
 - Athreos, Shroud-Veiled (THB, no. 269) — god of passage, canonical lord of lampads and the Tartyx crossing; Enchantment Creature with Constellation synergy
 - Psemilla, Meletian Poet (J25, no. 31) — the flavor text's attributed speaker later received his own legendary card; directly connected to this card's lore chain `[Scryfall: J25/31]`
 - Gnawing Zombie (M14) — the card Hipsters explicitly compared this to; direct mechanical predecessor for the sacrifice-drain design pattern
+
+## Connections
+
+- [[theros-pantheon]] — Athreos-cult nymph-servitor anchor at the parent-pantheon tier. Per MTG Wiki Nymph page (cited in trivia), lampads are the black-aligned underworld nymphs of Theros and canonical servants of Athreos (god of passage, white-black psychopomp), guiding souls along the Tartyx River — one of the five rivers of the Theros Underworld per MTG Wiki Theros Underworld page. The depicted weeping grief-stricken nymph rendered amid broken classical columns and hanging chains is the canonical Athreos-cult visual signature, the white-black lord-of-passage's underworld-functionary class. Psemilla, the flavor text's named Meletian poet, is a confirmed Theros lore character whose own legendary card (Psemilla, Meletian Poet, J25-31) generates Nymph tokens on enchantment spells — closing the lampad-as-Athreos-cult-operative loop at multi-card cohesion. Routes to the parent pantheon cohort pending an Athreos sub-node split (currently at N=2 corpus density: this card + Athreos, God of Passage TLST-146, both vision-passed; sub-node deferred until ≥4 substantive anchors per the [[heliod]] / [[erebos]] precedent). `[Scryfall flavor_text THB-103; MTG Wiki: Nymph (Wizards of the Coast); MTG Wiki: Athreos, God of Passage; MTG Wiki: Theros Underworld]`

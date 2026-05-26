@@ -1,0 +1,42 @@
+{
+  "card_name": "Inspire Awe",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "175",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Nylea is the God of the Hunt on Theros — a deity associated with the forest, seasons, predation, and metamorphosis. She is aloof and protective of her wilderness domain, dislikes temples and civilization, and her mortal followers include satyrs, centaurs, and outcasts. She is inspired by Artemis, the Greek goddess of hunting and forests. The flavor text 'Nylea appeared amid the howl of a hundred beasts' names her directly as the depicted figure. [MTG Wiki: Nylea, via WebSearch snippet; Scryfall flavor_text: thb/175]",
+      "sources": ["MTG Wiki: Nylea (via WebSearch snippet)", "Scryfall flavor_text: thb/175"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Nylea appeared amid the howl of a hundred beasts.\" This is one of the most direct single-line god-manifestation flavor texts in THB — a declarative divine appearance in a wild setting. The 'howl of a hundred beasts' evokes Nylea's canonical role as keeper and companion of wild animals, consistent with her lore. [Scryfall flavor_text: thb/175]",
+      "sources": ["Scryfall flavor_text: thb/175"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The oracle text — 'Prevent all combat damage that would be dealt this turn except combat damage that would be dealt by enchanted creatures and enchantment creatures. Scry 2.' — is a constellation-axis design effect: it rewards having enchantments on the board (enchanted/enchantment creatures punch through while everything else is nullified), positioning it as a conditional Fog with a built-in library filter. EDHREC rank 20,322 reflects sparse Commander adoption; the card is primarily a limited defensive trick. [Scryfall oracle_text: thb/175; Scryfall edhrec_rank]",
+      "sources": ["Scryfall oracle_text: thb/175", "Scryfall edhrec_rank: 20322"]
+    },
+    {
+      "category": "design",
+      "text": "Inspire Awe is illustrated by Ekaterina Burmak, a Kyiv-based illustrator with a substantial MTG portfolio across multiple sets. The card was previewed December 31, 2019, via the YouTube channel 'Fazendo Nerdice' — one of THB's earliest international preview reveals according to Scryfall's preview metadata. [Scryfall preview field: Fazendo Nerdice, 2019-12-31]",
+      "sources": ["Scryfall artist field: Ekaterina Burmak", "Scryfall preview field: Fazendo Nerdice, 2019-12-31"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Nylea, God of the Hunt", "set": "Theros", "note": "Original Nylea card; this flavor text names Nylea as the depicted figure"},
+    {"name": "Nylea, Keen-Eyed", "set": "Theros Beyond Death", "note": "THB incarnation of Nylea; direct character continuity"},
+    {"name": "Hurricane Elemental", "set": "various", "note": "Design peer: conditional Fog effects in green"},
+    {"name": "Setessan Champion", "set": "Theros Beyond Death", "note": "THB Constellation enchantress; benefits mechanically from the enchantment-matters design axis Inspire Awe rewards"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

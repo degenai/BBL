@@ -10,8 +10,28 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - defiance
+  - giant-monster
+  - construct
+  - holy-light
+  - shattering
+  - lone-warrior
+  - ruin
+  - desert-plain
+  - sky
+  - rebellion
+  - power-confrontation
+  - artifact-destruction
+tags_filter:
+  - solo
+  - wide
+  - action
+  - faces-right
+  - white-magic
+  - instant
+  - robed-figure
+  - outdoor-scene
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/34-revoke-existence.png
 average_cost_paid: 0
 market_price: 0.14
@@ -30,6 +50,29 @@ mana_cost: "{1}{W}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: other
 ---
 
 # Revoke Existence (Theros Beyond Death)
+
+## Vision
+
+![34-revoke-existence](../../_images/magic-the-gathering/theros-beyond-death/34-revoke-existence.png)
+
+A lone robed figure stands on a low rocky promontory, arm stretched upward holding a staff or scepter crowned with brilliant golden-white light. Across from them, an enormous mechanical or magical construct — segmented, claw-like, with multiple limbs — is being torn apart in a cascade of golden and iridescent blue-white energy. The construct dwarfs the figure, its pieces scattering outward against a pale overcast sky. The ground is flat and barren. The figure's posture is commanding and defiant, directing the beam of light at the disintegrating form. The lighting is dramatic: the staff and impact point are the dominant light sources, casting everything else in muted grey and gold.
+
+**Subject:** A robed humanoid figure on a rocky outcrop raises a glowing staff toward a massive fragmenting construct that is shattering apart in golden-white explosive light
+
+**Composition:** wide, action, figures: solo, facing: three-quarter
+**Setting:** other, indeterminate, calm
+**Foreground:** Robed humanoid figure standing on rocky outcrop, raised staff emitting golden-white beam  *(palette: gold, white, grey, brown)*
+**Background:** Fragmenting construct/golem shattering in light, flat barren ground, overcast sky  *(palette: grey, pale-gold, iridescent-blue, off-white)*
+**Mood / lighting:** action, harsh
+**Emotion read:** Commanding defiance — figure's raised arm and squared stance project authority; the construct's disintegration reads as erasure-in-progress
+**Objects:** staff, glowing-scepter
+**Creatures:** mechanical-construct, golem
+**Iconography:** golden-light, shattering-form, holy-beam
+**Genre cues:** fantasy, greek-mythology
+

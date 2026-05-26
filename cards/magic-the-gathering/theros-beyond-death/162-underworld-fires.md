@@ -78,3 +78,19 @@ A hellish landscape of fire and brimstone dominates the frame. Skeletal or charr
 **Iconography:** fire, skull, underworld
 **Genre cues:** fantasy, mythological, greek-myth
 
+## Trivia
+
+- **Set lore** — The Theros Underworld, ruled by Erebos, God of the Dead, is defined throughout THB as an active and hostile domain rather than a passive resting place. The Wizards story summary for THB (Jan 10, 2020) depicts Erebos as a jealous and tyrannical ruler who allowed the dead to escape his grip during his centuries-long conflict with Heliod. This instability is precisely the narrative premise THB's Escape mechanic is built on. Underworld Fires' flavor text is a direct statement of that premise. `[Wizards.com: Theros Beyond Death Story Summary, 2020-01-10; Scryfall flavor_text: thb/162]`
+
+- **Flavor text** — "The Underworld is anything but a resting place." Six words that frame the entire THB set premise: Erebos's domain is active, torment-filled, and — during these events — temporarily porous as the god's attention shifts to Heliod. `[Scryfall flavor_text: thb/162]`
+
+- **Mechanical context** — The exile clause — "If a permanent dealt damage this way would die this turn, exile it instead" — is a thematic echo of the Escape mechanic's graveyard reliance. In THB's mechanical ecosystem, keeping creatures out of graveyards directly disrupts Escape costs. Underworld Fires serves as a design-level hostor of the Escape mechanic, reflecting the Underworld's function as a place where the dead should stay dead. EDHREC rank 23,012; Pauper-ineligible (uncommon) limits its adoption to niche graveyard-hate applications in formats where the exile clause matters. `[Scryfall oracle_text: thb/162; Scryfall legalities: pauper = not_legal; Scryfall edhrec_rank: 23012]`
+
+- **Design / print history** — Art by Bayard Wu. Underworld Fires has received no reprints since THB (2020) — it is a single-printing uncommon. This limited distribution, combined with its narrow exile-clause utility, keeps it a format-specific tool rather than a Commander or Limited staple. `[Scryfall artist field: Bayard Wu; Scryfall prints search: oracleid ed3d113d]`
+
+### Related cards
+- Erebos, Bleak-Hearted (Theros Beyond Death, no. 84) — THB god of the Underworld; this card's flavor premise is Erebos's domain
+- Anger of the Gods (Theros, no. 117) — direct design peer: red sweeper with exile clause; functional comparison
+- Soul-Guide Lantern (Theros Beyond Death, no. 237) — THB graveyard-hate artifact; design-axis sibling (both disrupt Escape by preventing graveyard access)
+- Elspeth's Nightmare (Theros Beyond Death, no. 91) — THB exile-flavored card; underworld exile design thread
+

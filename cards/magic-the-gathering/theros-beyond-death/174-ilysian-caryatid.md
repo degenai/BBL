@@ -80,3 +80,19 @@ A large humanoid figure composed entirely of living wood and bark stands upright
 **Iconography:** greek-columns, temple
 **Genre cues:** fantasy, greek-mythology
 
+## Trivia
+
+- **Set lore** — The name combines "Ilysia" — THB's heroic afterlife realm described in the flavor text — with "caryatid," a real Greek architectural term for a sculpted female figure used as a load-bearing column. A caryatid is literally a human body pressed into structural service. On Theros, this design concept is animated: a living plant-being shaped like the ancient column-supports guards the gateway to the heroic paradise. Ilysia itself mirrors the Elysian Fields of Greek myth, the abode of the heroic dead. `[Scryfall flavor_text: thb/174; MTG Salvation forums: THS Block real-life influences thread, via WebSearch snippet]`
+
+- **Flavor text** — "Those who die as heroes are permitted to dwell in Ilysia, a protected realm of the Underworld as tranquil and vibrant as the rest is bleak." Ilysia is the THB equivalent of the Elysian Fields — a Underworld paradise insulated from Erebos's torments, reserved for the heroically slain. The caryatid stands as its living architectural guardian. `[Scryfall flavor_text: thb/174]`
+
+- **Mechanical reputation** — EDHREC rank 1,753 is exceptionally high for a common, placing Ilysian Caryatid among the most-adopted commons from THB in Commander. Its mana ability doubles output when you control a creature with power 4 or greater, making it a strong ramp piece in big-creature green strategies. The card has been reprinted three times since THB: Arena Beginner Set (2020), Jumpstart 2022, and Commander Masters (2023) — Wizards's track record of reprinting it for beginner and commander-oriented products confirms it as a design-stable ramp staple. `[Scryfall edhrec_rank: 1753; Scryfall prints search: oracleid 5f2be3c2]`
+
+- **Design lineage** — Ilysian Caryatid follows directly from Sylvan Caryatid (Theros, 2013), the original Theros-block plant mana creature. Sylvan Caryatid was a Standard 2014-2015 staple for its hexproof and mana-fixing. Ilysian trades hexproof for a higher ceiling (double mana when you have power-4+ creatures), shifting the design toward big-creature payoff. Both belong to the same Theros living-column aesthetic; this card's art by Winona Nelson places the figure in the Ilysia paradise landscape with golden Greek architecture in the distance. `[Scryfall: ths/180 Sylvan Caryatid; Scryfall artist field: Winona Nelson]`
+
+### Related cards
+- Sylvan Caryatid (Theros, no. 180) — direct design predecessor; same living-column plant concept, hexproof instead of power-4 doubling
+- Arasta of the Endless Web (Theros Beyond Death, no. 165) — THB green legend; another Ilysia-adjacent nature entity
+- Paradise Druid (War of the Spark, no. 171) — functional peer: two-drop green mana dork with conditional upside
+- Selvala, Heart of the Wilds (Conspiracy: Take the Crown, no. 185) — power-matters green commander; Ilysian Caryatid is a natural ramp piece in that shell
+

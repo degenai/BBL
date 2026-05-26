@@ -15,6 +15,7 @@ canonical_source: "MTG Wiki — Theros Pantheon (primary page listing all gods);
 confidence: canonical
 appears_on:
   - magic-the-gathering/the-list/146-athreos-god-of-passage
+  - magic-the-gathering/theros-beyond-death/103-lampad-of-death-s-vigil
   - magic-the-gathering/theros-beyond-death/115-soulreaper-of-mogis
   - magic-the-gathering/theros-beyond-death/227-slaughter-priest-of-mogis
   - magic-the-gathering/theros-beyond-death/154-skophos-warleader
@@ -66,6 +67,7 @@ Card art, flavor text, and rules text from any Theros-block printing that names,
 **Cards in our corpus pointing here (current; 18 cards across 3 sets):**
 
 - **Athreos, God of Passage** (Mystery Booster Cards 146, originally Journey into Nyx 2014 / Mythic, Ryan Barger art) — the god himself, full Nyx-starfield enchantment-creature print. White-black ferryman psychopomp; oracle text *"As long as your devotion to white and black is less than seven, Athreos isn't a creature"* canonically encodes the devotion-threshold animation logic that defines the pantheon's mechanical signature. Reprinted to The List as Mystery Booster insert. This is the corpus's only printed god (as opposed to god-referencing) card; structurally the anchor's headline entry. `suspected_ip`: implied via printed card name.
+- **Lampad of Death's Vigil** (THB 103, Common, Jason Felix art, trivia-passed) — grieving nymph spirit in a flowing dark shroud rises amid cracked ground and broken classical columns under a violet storm-lit sky; flavor text *"Grief-struck, she weeps for each mortal's final death." — Psemilla, Meletian poet.* The lampad is the canonical Athreos-cult nymph-servitor class per MTG Wiki Nymph page — black-aligned underworld nymphs who guide souls along the Tartyx River, one of the five rivers of the Theros Underworld. Companion-anchor to the Athreos god-card above; the two together form the corpus's current Athreos-cohort minimal pair (god + canonical servitor class). Psemilla, the named flavor speaker, is a confirmed Theros poet who later received his own legendary card (Psemilla, Meletian Poet, J25-31) that generates Nymph tokens, closing the lampad-as-Athreos-functionary loop at multi-card cohesion. `[Scryfall flavor_text THB-103; MTG Wiki: Nymph; MTG Wiki: Athreos, God of Passage]`
 - **Altar of the Pantheon** (Theros Beyond Death 231, Common, Jonas De Ro art) — the unified-pantheon devotional artifact. Rules text rewards controlling "a God, a Demigod, or a legendary enchantment" with lifegain; the card's title invokes the pantheon as a single body. Its in-corpus `## Related cards` already names Klothys, God of Destiny and Athreos, Shroud-Veiled as canonical pantheon partners. The architectural counterpart to the named-god cards.
 - **Soulreaper of Mogis** (THB 115, Common, Dmitry Burmak art) — Mogis-cult minotaur shaman performing a blood-sacrifice ritual; flavor text *"We offer to Mogis the blood of the weak, and in return he makes us strong."* Mogis (god of slaughter, red-black) is the pantheon's most thesis-aligned god for the apparatus-of-extraction reading — his entire cult mechanism is sacrifice-for-power. Two Mogis-named cards in this set (the other is Slaughter-Priest of Mogis 227).
 - **Slaughter-Priest of Mogis** (THB 227, Uncommon, Steve Prescott art) — Mogis-cult minotaur, bare-chested with curved blade raised against a burning sky; flavor text *"Mogis is pleased by this offering. Bring him more!"* Same Mogis-cult cohort as 115 above; the curved-blade-raised iconography functions as the cult's visual signature across the set.
@@ -120,6 +122,7 @@ Each subset citation-anchored at Wizards-published canonical evidence (oracle te
 <!-- auto-generated from appears_on; do not edit by hand -->
 
 - [[146-athreos-god-of-passage]]
+- [[103-lampad-of-death-s-vigil]]
 - [[115-soulreaper-of-mogis]]
 - [[227-slaughter-priest-of-mogis]]
 - [[187-nylea-s-huntmaster]]

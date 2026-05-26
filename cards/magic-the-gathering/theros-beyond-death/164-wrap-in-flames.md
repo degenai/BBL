@@ -81,3 +81,16 @@ Three massive dark horses surge forward in a tight charging formation, their mus
 **Iconography:** glowing-eyes, flame
 **Genre cues:** fantasy, greek-mythology
 
+## Trivia
+
+- **Set lore / reprint history** — Wrap in Flames has been printed five times across a 10-year span: Rise of the Eldrazi (2010), Conspiracy (2014), Modern Masters 2015, Battlebond (2018), and Theros Beyond Death (2020). The THB printing features new artwork by Kari Christensen — the nightmare-horse art with glowing purple eyes depicted here is unique to this printing. The prior four printings used art by Véronique Meignaud. Two of the five printings (Conspiracy, Battlebond) are multiplayer-focused sets, suggesting Wizards views this card as useful for multi-target combat manipulation in those environments. `[Scryfall prints search: oracleid b46efd59; Scryfall: roe/173 artist field]`
+
+- **Flavor text** — "Bright flames quell the darkest nightmares." The line reads literally (fire drives back nightmare horses from the Underworld) and thematically — on Theros, the Underworld's nightmare creatures fear the warmth of the living world. `[Scryfall flavor_text: thb/164]`
+
+- **Mechanical context** — The oracle deals 1 damage to up to three target creatures and locks them out of blocking that turn, functioning as a tempo sorcery that clears a defensive board or enables an alpha strike. The card is Pauper-legal (common rarity), which is its highest-play-density format; EDHREC rank 23,417 reflects negligible Commander adoption. `[Scryfall legalities: pauper = legal; Scryfall edhrec_rank: 23417]`
+
+### Related cards
+- Underworld Charger (Theros Beyond Death) — Nightmare Horse creature type in THB; shares the nightmare-horse imagery with this card's art
+- Flame Sweep (Core Set 2020) — red common dealing 2 to non-flying creatures; functional peer for limited removal comparison
+- Wrap in Flames (Rise of the Eldrazi, no. 173) — original Meignaud-art printing; aesthetic contrast to the THB nightmare version
+

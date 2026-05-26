@@ -1,0 +1,42 @@
+{
+  "card_name": "Wrap in Flames",
+  "game": "Magic: The Gathering",
+  "set": "Theros Beyond Death",
+  "collector_number": "164",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Wrap in Flames is a five-printing card with a 10-year reprint history: Rise of the Eldrazi (2010), Conspiracy (2014), Modern Masters 2015, Battlebond (2018), and Theros Beyond Death (2020). The THB printing features new artwork by Kari Christensen — distinct from the earlier Véronique Meignaud art used in Rise of the Eldrazi and its reprints. The nightmare-horse art on the THB printing specifically anchors the card in Theros's underworld aesthetic, where nightmare horses (horselike creatures from the realm of Erebos) appear across the set. [Scryfall prints search; Scryfall ROE/173 artist field]",
+      "sources": ["Scryfall prints search: oracleid b46efd59", "Scryfall: thb/164 artist field"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Bright flames quell the darkest nightmares.\" The line doubles as both literal (fire drives back nightmare horses) and thematic — in Theros mythology the Underworld's dead and nightmare creatures fear light and the living world's warmth. [Scryfall flavor_text: thb/164]",
+      "sources": ["Scryfall flavor_text: thb/164"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The oracle text — dealing 1 damage to up to three targets and tapping them out of blocking — makes this a combat trick / tempo play that straddles sorcery timing. In limited formats it functions as a multi-creature pseudo-tap or a way to push through damage against a defensive board. EDHREC rank 23,417 reflects minimal Commander penetration; the card's value is primarily in limited and Pauper-legal formats. [Scryfall legalities field; Scryfall edhrec_rank]",
+      "sources": ["Scryfall oracle_text: thb/164", "Scryfall legalities: pauper = legal", "Scryfall edhrec_rank"]
+    },
+    {
+      "category": "design",
+      "text": "The THB version's four-mana cost ({3}{R}) is consistent across all five printings — Wizards has reprinted the card text verbatim across a decade without functional errata. This makes Wrap in Flames one of the stable tempo-common designs in red that Wizards returns to for multi-player / limited reprint sets (appearing in Conspiracy and Battlebond, both multiplayer-focused sets). [Scryfall prints search: oracleid b46efd59]",
+      "sources": ["Scryfall prints search: oracleid b46efd59"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Underworld Charger", "set": "Theros Beyond Death", "note": "Nightmare Horse creature type in THB; shares the nightmare-horse aesthetic with this card's art"},
+    {"name": "Flame Sweep", "set": "Core Set 2020", "note": "Red common dealing 2 to non-flying creatures; functional peer for limited removal comparison"},
+    {"name": "Wrap in Flames", "set": "Rise of the Eldrazi", "note": "Original Meignaud-art printing; earlier aesthetic contrast"},
+    {"name": "Stampede Rider", "set": "Theros Beyond Death", "note": "THB red creature; horses-in-combat design space adjacent"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

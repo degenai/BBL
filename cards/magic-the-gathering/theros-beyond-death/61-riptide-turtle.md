@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - turtle
+  - ocean
+  - underwater
+  - armor
+  - spines
+  - sea-creature
+  - freedom
+  - escape
+  - nature
+  - water
+  - aquatic
+  - shell
+tags_filter:
+  - solo
+  - mid-shot
+  - action
+  - faces-left
+  - blue-magic
+  - creature-turtle
+  - underwater-scene
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/61-riptide-turtle.png
 average_cost_paid: 0
 market_price: 0.09
@@ -30,6 +49,29 @@ mana_cost: "{1}{U}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: ocean
 ---
 
 # Riptide Turtle (Theros Beyond Death)
+
+## Vision
+
+![61-riptide-turtle](../../_images/magic-the-gathering/theros-beyond-death/61-riptide-turtle.png)
+
+A large sea turtle occupies most of the frame, viewed from slightly above and behind as it moves forward through clear blue-green water. The turtle's shell is heavily armored with a prominent ridge of sharp spines running along its length, and its broad flippers are spread wide. The skin and shell are dark olive-green with rough, heavily textured scaling. Around it, translucent blue fragments — the remnants of a net or sail or crystalline structure — drift in the water, disturbed by the turtle's passage. The water above is lit from the surface, creating rippled light patterns. The composition has a sense of forward momentum, as if the turtle is plowing through or escaping something.
+
+**Subject:** A large spined sea turtle moving through clear blue water, surrounded by fragments of a shattered net or structure
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** ocean, day
+**Foreground:** Large spined sea turtle, shell with ridged spines, broad flippers extended  *(palette: olive-green, dark-brown, blue-green)*
+**Background:** Clear underwater scene, shattered net or translucent debris, surface light from above  *(palette: blue, teal, light-blue, white)*
+**Mood / lighting:** action, ambient
+**Emotion read:** Purposeful forward momentum — the turtle's spread flippers and angled body suggest forceful movement, neither fleeing nor attacking but pressing through
+**Objects:** net, debris, water-fragments
+**Creatures:** sea-turtle, spined-turtle
+**Iconography:** spines, shell, underwater
+**Genre cues:** fantasy
+

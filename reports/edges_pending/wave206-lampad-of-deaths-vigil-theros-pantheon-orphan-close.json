@@ -1,0 +1,52 @@
+{
+  "edge_id": "wave206-lampad-of-deaths-vigil--theros-pantheon",
+  "wave": 206,
+  "shape": "1:N",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/theros-beyond-death/103-lampad-of-death-s-vigil.md",
+      "name": "Lampad of Death's Vigil (THB-103)"
+    },
+    {
+      "type": "character",
+      "path": "cards/_characters/theros-pantheon.md",
+      "name": "Theros Pantheon (the fifteen gods of Theros)"
+    }
+  ],
+  "description": "Closed a promise-made-not-kept. The erebos.md node body explicitly states 'For now, Lampad of Death's Vigil and the Athreos god-card route through the parent theros-pantheon cohort' — but the wire wasn't drawn. Lampad was a fully trivia-passed orphan card with explicit MTG-Wiki-cited Athreos-cult attribution sitting outside the graph. The card's trivia already canonicalizes lampads as 'servants of Athreos (god of passage) who guide souls along the Tartyx River' and the Related cards section explicitly names Athreos, Shroud-Veiled. Threshold for an Athreos sub-node is still N=2 (this card + Athreos, God of Passage TLST-146) — short of the Heliod/Erebos precedent at N=4 — so the routing stays at the parent-pantheon cohort tier. Worst orphan-edge ever. Now closed.",
+  "citations": [
+    "[Scryfall flavor_text THB-103: \"Grief-struck, she weeps for each mortal's final death.\" — Psemilla, Meletian poet]",
+    "[MTG Wiki: Nymph (Wizards of the Coast) — lampads as Athreos-cult underworld nymph-servitors guiding souls along Tartyx River]",
+    "[MTG Wiki: Athreos, God of Passage — white-black psychopomp, canonical Charon-homage]",
+    "[MTG Wiki: Theros Underworld — five-river geography including Tartyx]",
+    "[Related cards from THB-103 trivia: Athreos, Shroud-Veiled (THB-269); Psemilla, Meletian Poet (J25-31)]"
+  ],
+  "files_modified": [
+    "cards/magic-the-gathering/theros-beyond-death/103-lampad-of-death-s-vigil.md",
+    "cards/_characters/theros-pantheon.md"
+  ],
+  "discipline_notes": [
+    "Three-sided edge per cohort discipline: (1) added characters: [theros-pantheon] to card frontmatter (block-form YAML); (2) wrote ## Connections bullet on card with Athreos-named substantive prose; (3) added card to theros-pantheon's appears_on: + rendered wikilink block + new body bullet under the Athreos god-card entry.",
+    "Optimization-over-addition preferred: chose this orphan-close (corrective) over a Constellation symbol-node creation (additive). Constellation density N=4 oracle-text-confirmed clears the Suspect-precedent threshold, but a kink-fix outranks a node-add per Edgelord discipline.",
+    "Body count drift NOT touched: theros-pantheon's headline '18 cards across 3 sets' is now stale (appears_on has 26 entries after my add). Existing drift surfaced through several waves; whole-body audit is a future cleanup pass not this invocation's scope.",
+    "Athreos sub-node deferred: density now N=2 (Athreos god-card + Lampad). Heliod/Erebos precedent requires N=4 substantive anchors before sub-node split. Next-watch trigger remains 'when 2 more Athreos-attribution-canonical cards land in corpus.'"
+  ],
+  "other_candidates_considered": [
+    "Constellation symbol node (Mr. Nodeley) — N=4 oracle-text-confirmed (Captivating Unicorn THB-6, Sage of Mysteries THB-62, Setessan Skirmisher THB-200, Eutropia THB-216) plus large constellation-enabler pool of THB enchantment-creatures. Clears the Suspect-precedent floor (N=5 confirmed + enrichment pool). Strong Mr. Nodeley candidate. Deferred per optimization-over-addition rule. Future-watch.",
+    "Memory Drain (THB-54) → erebos sub-node attach — flavor-text-direct Nerono river-of-Erebos canonical attribution AND Returned-typology-language (Alythos forgetting at Nerono). Would have been a 5th Erebos anchor strengthening that sub-node. REFUSED: parent's brief said don't touch mid-edit files; Memory Drain is mid-wave-206 vision-pass.",
+    "Athreos sub-node creation (Mr. Nodeley) — N=2 density, below Heliod/Erebos precedent threshold. REFUSED per Potion Rule sub-rule 3: refuse the attribution when density is below precedent.",
+    "Phenax sub-node — N=1 corpus density (Memory Drain at best, but Nerono is Erebos's river not Phenax-attribution). REFUSED per density.",
+    "Eutropia character node — N=1 single-card density. REFUSED.",
+    "Returned typology as its own node — N=1 corpus density (Grim Physician only). REFUSED."
+  ],
+  "future_watch": [
+    "Constellation symbol-node creation: N=4 oracle-text + large enabler pool clears Suspect-precedent floor. Mr. Nodeley-eligible NOW; deferred because optimization beat addition this invocation. Recommend dispatching a dedicated Mr. Nodeley wave to create this node — it would unlock several future edges across the THB corpus's enchantment-creature ecosystem.",
+    "Athreos sub-node split: at N=2 density. Next-watch trigger: 2 more Athreos-attribution-canonical cards land in corpus (e.g. if Athreos, Shroud-Veiled THB-269 enters inventory, or Tartyx-river-flavor cards land enriched), commission the sub-node.",
+    "theros-pantheon body-count audit: current body lists 18 cards in 'Cards in our corpus' enumerated prose; appears_on has 26 entries. Drift accumulated across multiple waves. A future audit pass should reconcile by either expanding body bullets to 26 OR reviewing whether the appears_on entries are all substantively anchored (cf. the Heliod/Erebos sub-nodes' explicit per-card prose discipline)."
+  ],
+  "edgelord_mood": "satisfied",
+  "voice_note": "Comic Book Guy register: this is the kind of orphan-edge case that proves the discipline works. A node body claims a wire that doesn't exist, and the wire is the smallest possible Edgelord move to close the gap. Best edge-close ever. No squinting. Pure receipts. The pantheon precedent does the heavy lifting — Athreos cohort routing through parent until ≥4 anchors, exactly per the precedent chain."
+}

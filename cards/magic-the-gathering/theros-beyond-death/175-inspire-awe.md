@@ -82,7 +82,22 @@ A tall figure draped in flowing pale robes stands on a stone outcrop with both a
 **Iconography:** raised-arms, rallying-pose, divine-figure
 **Genre cues:** fantasy, greek-myth, mythic
 
+## Trivia
+
+- **Set lore** — Nylea is the God of the Hunt on Theros — a deity of the forest, seasons, predation, and metamorphosis. She dislikes temples and civilization; her followers are satyrs, centaurs, and loner-outcasts. She is quick to anger when her wilderness is threatened and has complete dominance over the seasons. She is inspired by Artemis, the Greek goddess of hunting and forests. The flavor text names her directly as the depicted figure. `[MTG Wiki: Nylea, via WebSearch snippet; Scryfall flavor_text: thb/175]`
+
+- **Flavor text** — "Nylea appeared amid the howl of a hundred beasts." One of the most direct single-line god-manifestation flavor texts in THB — a declarative divine appearance in a wild setting. The "howl of a hundred beasts" is consistent with Nylea's canonical role as keeper and companion of wild animals. `[Scryfall flavor_text: thb/175]`
+
+- **Mechanical context** — The oracle text prevents all combat damage this turn except from enchanted creatures and enchantment creatures, then Scries 2. This is a Constellation-axis design: it rewards having enchantments on board (enchanted/enchantment creatures punch through while everything else is nullified), functioning as a conditional Fog with library filtering. EDHREC rank 20,322 reflects sparse Commander adoption; primarily a limited defensive trick in THB draft. `[Scryfall oracle_text: thb/175; Scryfall edhrec_rank: 20322]`
+
+- **Preview history** — Inspire Awe was previewed December 31, 2019, via the Brazilian YouTube channel "Fazendo Nerdice" — one of THB's earliest international preview slots according to Scryfall's preview metadata. Art by Ekaterina Burmak, a Kyiv-based illustrator with a wide MTG portfolio. `[Scryfall preview field: Fazendo Nerdice, 2019-12-31; Scryfall artist field: Ekaterina Burmak]`
+
 ## Connections
 
 - [[theros-pantheon]] — Nylea-manifestation flavor card whose single-line attribution (*"Nylea appeared amid the howl of a hundred beasts"*) canonicalizes the depicted divine event as the goddess of the hunt's appearance amid her beast-pack, with the raised-arms-on-rocky-outcrop iconography aligning with canonical Nylea-manifestation imagery per MTG Wiki Nylea page. The damage-prevention-except-by-enchanted-or-enchantment-creatures oracle is a constellation-payoff effect (THB's signature mechanic-axis) that rewards Nyx-touched permanents on the battlefield, mechanically locating this card within the pantheon's devotion-and-constellation design-language signature. Already double-anchored at the [[nylea]] sub-node as the corpus's clearest Nylea-direct-depiction-likely anchor via flavor-event attribution. `[Scryfall flavor_text: thb/175; MTG Wiki: Nylea, God of the Hunt]`
+
+### Related cards
+- Nylea, God of the Hunt (Theros, no. 166) — original Nylea card; the flavor text names her directly as the depicted figure
+- Nylea, Keen-Eyed (Theros Beyond Death, no. 185) — THB incarnation of Nylea; direct character continuity within the set
+- Setessan Champion (Theros Beyond Death, no. 198) — THB Constellation enchantress; benefits mechanically from the enchantment-matters axis Inspire Awe rewards
 
