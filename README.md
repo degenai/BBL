@@ -310,18 +310,18 @@ The pattern: **writers get the keys to wikilintbot; watchers do not.** csv2mdbot
 
 ---
 
-## Status snapshot (2026-05-25)
+## Status snapshot (2026-05-26)
 
-- **2,860** active card MDs · **2,386 vision-passed** (83%, by `## Vision` body section) · **1,220 trivia-passed** (43%).
-  - MTG: **1,310 cards** · **1,172 vision** (89%) · **623 trivia** (48%) — trivia frontier still live
-  - Pokemon: **1,020 cards** · **808 vision** (79%) · **244 trivia** — both vision and trivia have runway
+- **2,860** active card MDs · **2,415 vision-passed** (84%, by `## Vision` body section) · **1,253 trivia-passed** (44%).
+  - MTG: **1,310 cards** · **1,187 vision** (91%) · **656 trivia** (50%) — trivia frontier still live; vision approaching saturation
+  - Pokemon: **1,020 cards** · **822 vision** (81%) · **244 trivia** — both vision and trivia have runway
   - DBS: **241 / 241** vision · **241** trivia — 100%, the finished game
   - Final Fantasy TCG: **64 / 64** vision · **60** trivia — vision-complete
   - Lorcana: **40 / 40** vision · **40** trivia — 100% complete
   - Weiss-Schwarz: **61 / 156** vision (39%) · **12** trivia — early
   - Force of Will: **29** prepped, **0** enriched — not yet scanned, low priority
-- **Active enrichment frontier:** MTG trivia (~550 vision-passed without trivia) and Pokemon (~210 await vision, ~575 await trivia). Cadence: 5 vision + 5 trivia + 1 Edgelord per wave (waves 184–193 this session; wave 195 was an architectural surface, not a card-enrichment wave).
-- **Character nodes: 111** (ff9-zidane-party added — first FFTCG character-layer cohort; Mr. Nodeley Option-C move during the 4-leftover cleanup) · **Symbol nodes: 10** (energy-counter added) · **Artist nodes: 12** (Richard Kane Ferguson added) · **Hubs: 6** (labor, rebellion, stewardship, chinese-zodiac, tsukumogami, `_triple-thesis.md` meta-doc).
+- **Active enrichment frontier:** MTG trivia (~531 vision-passed without trivia) and Pokemon (~198 await vision, ~578 await trivia). Cadence: 3–5 vision + 3–5 trivia + 1 Edgelord per wave (waves 196–202 since last snapshot; wave 195 was an architectural surface, not a card-enrichment wave).
+- **Character nodes: 112** (m21-dog-tribal added wave 202 — designer-confirmed M21 Hound→Dog rename cohort, Rosewater article as canonical source; Mr. Nodeley Option-C dispatch caught the cluster the parent's M21-backlog future-watch had only framed speculatively) · **Symbol nodes: 10** · **Artist nodes: 12** · **Hubs: 6** (labor, rebellion, stewardship, chinese-zodiac, tsukumogami, `_triple-thesis.md` meta-doc).
 - **Discrete Lairs shipped:** 1 — **Discrete Lair 001: Tithe**.
 - **Subagents shipped:** **5** — `bbl-researcher`, `bbl-triviabot` (extended this session with **orphan-mirror task profile** under Opus override), `bbl-edgelord` (with Mr. Nodeley + DARK NODESLEY EX alters; **3-sided edge discipline encoded this session**), `bbl-nurse-joy-md`, `bbl-bundler` (half-strength).
 - **The Orphanage — FULLY CLOSED (2026-05-25):** corpus-wide one-sided cohort-edge cleanup architecture. `bbl_orphan_count.py` is the manifest+richness-tier counter. **556 → 0 orphans across 9 sweeps + pilot + 3 augments + 1 Mr. Nodeley node-creation — 100%.** First time the corpus is fully wired at the orphan-edge level. Wave-195 surfaced a systematic wikilink-scope-shift failure mode (3 regressions in sweep #9 batch A — `[[rebellion]]` propagation, snipped-edge resurrection, sibling-cross-link generation); spec amended + memory written (`bbl-wikilink-scope-shift`); rule held cleanly across remaining 23 dispatches.
@@ -333,16 +333,26 @@ The pattern: **writers get the keys to wikilintbot; watchers do not.** csv2mdbot
 
 **Pick up here without reconstructing anything from git log.**
 
-**1. Working tree is clean.** Everything through sweep #9 batch B + 4-leftover cleanup is committed. Last 3 commits: `8198070a` (sweep #9 A), `f427346b` (sweep #9 B), `48257b73` (4 leftovers → 0 orphans). Substantial session — closed the Orphanage entirely (75 → 0), encoded wave-195 wikilink-scope-shift rule, established first FFTCG character cohort (ff9-zidane-party), augmented son-gohan with 7th aspect (Childhood / Cell-as-genetic-template).
+**1. Working tree is clean.** Last 3 commits: `2aee4776` (waves 201+202 + catch-up flush), `6453b57a` (wave 200 Eldrazi cohort rebuild), `27d037c0` (wave 199 Sonnet-override body-drift triage). Power-death mid-wave-201 was clean (no half-applied files); resume reconstructed wave-201 from sidecars + dispatched wave-202 trivia/Edgelord fresh. Only untracked: two stray `Gemini_Generated_Image_*.png` thumbnail-composer experiments at repo root — intentionally excluded per `bbl-no-ai-slop-thumbnails`.
 
-**2. One active frontier: normal enrichment.** Orphanage is done. Wave shape: 5 vision + 5 trivia + 1 Edgelord per `bbl-agent-batching-pattern`. Priority queues:
-- MTG trivia: ~550 cards vision-passed but no trivia — biggest frontier.
-- Pokemon: ~210 await vision, ~575 await trivia.
+**2. One active frontier: normal enrichment.** Orphanage stays closed. Wave shape: 3–5 vision + 3–5 trivia + 1 Edgelord per `bbl-agent-batching-pattern`. Priority queues:
+- MTG trivia: ~531 cards vision-passed but no trivia — biggest frontier.
+- Pokemon: ~198 await vision, ~578 await trivia.
 - IP-verification queue: any `suspected_ip + ip_verified: false` cards via `bbl_trivia_queue.py --ip-priority`.
 
-**3. No pending orphan-mirror tasks.** Two known follow-up watches stored in cohort caveats / sketchbook:
+**3. Wave-201 sidecar staged a deferred Sonnet-override task — high priority.** Per `wave201-eldrazi-bfz-subtype-typology-confab-correction.json` next_pass_suggestions (mode-2 narrow-scope, parent-shaped):
+- **BFZ Eldrazi 4-card attach to `[[eldrazi]]` cohort:** BFZ 54 Adverse Conditions + 55 Benthic Infiltrator + 56 Cryptic Cruiser + 58 Eldrazi Skyspawner. All four now vision + trivia complete. Standard three-sided attach (frontmatter `characters:` block-form + card body `## Connections` bullet + node `appears_on:` + auto-gen `## Appears on` block). Body-substrate is primed: wave-201 typology fix corrected the Drone/Processor creature-subtype vs Scion/Spawn token-only distinction + added the Ingest→Processor BFZ-block feeding-loop framing. Connections bullets can correctly slot: Benthic Infiltrator + Eldrazi Skyspawner as Drone-tier (Benthic-as-Ingest-source, Skyspawner-as-Scion-generator), Cryptic Cruiser as Processor-tier (closing Ingest-loop with exile-consumption), Adverse Conditions as Devoid-instant-creating-Scion-token. Body roster counter moves 16 → 20; stale BFZ-coverage caveat at lines 140-141 ("Eldrazi Skyspawner remains canonical Eldrazi anchor not yet in inventory") needs deletion in same pass.
+- **Snapping Voidcraw + Twisted Riddlekeeper + Hope-Ender Coatl + Wumpus Aberration symmetric Connections bullets** — bundle with above. Mechanical wikilink-discipline: each bullet cites the other three by name+type in backticks (NOT wikilinks — sibling-cohort within-node references, per `bbl-wikilink-scope-shift` Potion sub-rule 5).
+
+**4. Mr. Nodeley wave-202 staged 3 next-wave Sonnet attaches:**
+- **Alpine Watchdog (M21-3)** → `[[m21-dog-tribal]]` once vision + trivia complete. Currently pre-enrichment per Edgelord refusal note.
+- **Future-watch: `m21-cat-tribal`** parallel node candidate when 3+ M21 cat cards trivia-pass with Rosewater-article-citation parity.
+- **Future-watch: `m21-shrine-cycle`** node candidate when 3+ Sanctum cards enrich.
+
+**5. Carried-forward watches (still cold):**
 - **Vivi Opus III 3-017L / Opus XXVIII 28-016L** — if either lands in a future CSV pull, attach to `[[ff9-zidane-party]]` (NOT to a new per-character vivi node) unless Vivi-printing density reaches 4+ across distinct Opus sets per node's caveats.
 - **son-gohan Discrete Lair candidate** — 7 trivia-passed aspects / 8 corpus prints / qty 18; bundle commission-ready when the labor-credit-erasure thesis stack gets a customer.
+- **mogg-fanatic-lineage** still 2/4 corpus per wave-196/200/201 entries; future-watch for Mogg Fanatic / Goblin Grenade / Mogg War Marshal entering corpus to trigger chain or symbol-tier promotion.
 
 **4. Wave-195 rule is now load-bearing**:
 - `.claude/agents/bbl-triviabot.md` `## Task profile: orphan-mirror` has the EXACTLY-ONE-WIKILINK rule + 3 named failure modes (hub-inheritance, snipped-edge-resurrection, sibling-cohort-propagation). Applies to any future orphan-mirror run and to bundler when it goes live.
@@ -353,7 +363,7 @@ The pattern: **writers get the keys to wikilintbot; watchers do not.** csv2mdbot
 - **Duskmourn `mana_cost` set-wide sweep** — CONFIRMED systemic; route to `bbl-nurse-joy-md` for full DSK backfill.
 - **fear-of-cycle node-body refresh** — denominator needs 14→20 (whole Duskmourn family, DSK + DSC); 6 roster rows to add.
 - **DSK-98 Fear of the Dark** — rarity contradiction (card says `C`, node says rare).
-- **9 prior-session leftover files in working tree (3 sessions running)** — `cards/.obsidian/{graph,workspace}.json` + small hand-edits on `126-village-rites`, `183-wastes`, `115-bonecrusher`, `111-vizier`, `94-kaya-ghostform`, `151-fletchling`, `146-minccino`, `swsh068-snorlax`, `pd-s22-e048-sadistic-music-factory`. Not picked up by sweeps #8 or #9 commits — review and either commit or revert next session.
+- ~~**9 prior-session leftover files in working tree (3 sessions running)**~~ — CLEARED 2026-05-26 via wave-201+202 catch-up flush commit (`2aee4776`). All landed as `review_bad` / "find this image" annotations for later image-source-upgrade triage.
 - **elemental-monkey-trio** — Takao Unno designer-attribution conflict, needs a primary source.
 
 **6. Process notes:**
