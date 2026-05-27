@@ -51,17 +51,17 @@ Per Scryfall set DSK API query (`s:dsk name:"Fear of"`), the cycle has fourteen 
 | 56 | Fear of Falling | U | uncommon | ✓ |
 | 57 | Fear of Impostors | U | uncommon | — |
 | 58 | Fear of Isolation | U | uncommon | — |
-| 97 | Fear of Lost Teeth | B | uncommon | — |
-| 98 | Fear of the Dark | B | **rare** | — |
+| 97 | Fear of Lost Teeth | B | common | ✓ |
+| 98 | Fear of the Dark | B | common | ✓ |
 | 134 | Fear of Being Hunted | R | uncommon | ✓ |
 | 135 | Fear of Burning Alive | R | uncommon | ✓ |
 | 136 | Fear of Missing Out | R | **rare** | — |
 | 177 | Fear of Exposure | G | uncommon | — |
 | 214 | Fear of Infinity | UB | **rare** | — |
 
-**Color distribution:** 3W / 4U / 2B / 3R / 1G / 1UB = 14 total. White and red lean uncommon-heavy; blue is the deepest mono-color slot. The cycle's three rares (the Dark, Missing Out, Infinity) cluster on the "harder to name" abstract phobias — fear of the dark (genre-classical), fear of missing out (modern-vernacular FOMO acronym), fear of infinity (cosmic/metaphysical) — and the UB rare capstones the cycle as a multicolor finale rather than a mono-color slot.
+**Color distribution:** 3W / 4U / 2B / 3R / 1G / 1UB = 14 total. White and red lean uncommon-heavy; blue is the deepest mono-color slot; black is the only color whose cycle slots are both common. The cycle's two rares (Missing Out, Infinity) cluster on the "harder to name" abstract phobias — fear of missing out (modern-vernacular FOMO acronym) and fear of infinity (cosmic/metaphysical) — and the UB rare capstones the cycle as a multicolor finale rather than a mono-color slot.
 
-**Rarity distribution:** 11 uncommons + 3 rares. No commons in the cycle. The uncommon-heavy distribution matches Wizards' standard practice for designer-coordinated thematic cycles where every member needs to be findable in draft.
+**Rarity distribution:** 2 commons + 10 uncommons + 2 rares = 14 total. The two commons are both black (Lost Teeth, the Dark); the two rares are Missing Out (R) and Infinity (UB capstone). The uncommon-heavy distribution matches Wizards' standard practice for designer-coordinated thematic cycles where every member needs to be findable in draft. The black-as-the-common-color choice tracks the set's horror-genre register — the universal phobias (teeth crumbling, the dark) get the most-printed slot precisely *because* they are universal, while the more abstract phobias (the FOMO acronym, cosmic infinity) earn rare-slot scarcity.
 
 ## Corpus coverage and member detail
 
@@ -86,7 +86,7 @@ Per Scryfall set DSK API query (`s:dsk name:"Fear of"`), the cycle has fourteen 
 **Vision-enriched, trivia-pending** — these in-corpus members are vision-passed and attached to the cycle node via `characters: fear-of-cycle` frontmatter, but await trivia for full Connections sections:
 
 - **Fear of Lost Teeth** (DSK-97, black common, qty 4, Oriana Menendez art) — first black slot; the universal anxiety-dream of teeth crumbling and falling out, rendered as a wide-jawed fleshy creature trailing a cloud of screaming pale-blue ghost-faces above a fleeing spider-legged dental chair. Flavor text: *"As it drew closer, Sam felt her own teeth wriggle in their sockets, as if they wanted to leap out and join the thing."* Vision-passed 2026-05-16; attached wave 161.
-- **Fear of the Dark** (DSK-98, black common, J.P. Targete art) — second black slot. Note: Scryfall lists DSK-98 at common, not the rare slot the body's rare-cluster discussion originally assumed. Vision-passed; attached prior wave.
+- **Fear of the Dark** (DSK-98, black common, J.P. Targete art) — second black slot. Vision-passed; attached prior wave.
 
 The corpus is **9 of 14 attached** as of 2026-05-24 (Abduction, Failed Tests, Falling, Lost Teeth, the Dark, Being Hunted, Burning Alive, Exposure, Infinity). Five acquisitions away from full canonical cycle coverage (Immobility, Surveillance, Impostors, Isolation, Missing Out remain out-of-corpus).
 

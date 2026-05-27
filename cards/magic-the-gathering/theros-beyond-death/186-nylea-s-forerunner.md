@@ -56,6 +56,7 @@ time_of_day: day
 setting: mountain
 characters:
   - nylea
+  - theros-pantheon
 ---
 
 # Nylea's Forerunner (Theros Beyond Death)
@@ -90,7 +91,7 @@ A large quadruped creature dominates the frame in a low-angle action shot that e
 ### Related cards
 - Nylea, God of the Hunt (Theros, no. 166) — original Nylea god card; also grants trample to all your creatures
 - Nylea, Keen-Eyed (Theros Beyond Death) — Nylea's THB god-form; creature cost reduction plus draw ability
-- Nylea's Colossus (Theros Beyond Death) — another Nylea-associated THB Enchantment Creature; constellation trigger
+- Nylea's Colossus (Born of the Gods) — Nylea-associated green Enchantment Creature with constellation trigger (printed BNG 2014, not in THB)
 - Bow of Nylea (Theros) — Nylea's divine weapon card; MTG Wiki lists it as her canonical associated artifact
 
 ## Connections

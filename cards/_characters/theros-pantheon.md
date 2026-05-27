@@ -40,6 +40,8 @@ appears_on:
   - magic-the-gathering/theros-beyond-death/276-mindwrack-harpy
   - magic-the-gathering/theros-beyond-death/100-grim-physician
   - magic-the-gathering/theros-beyond-death/17-glory-bearers
+  - magic-the-gathering/theros-beyond-death/10-daybreak-chimera
+  - magic-the-gathering/theros-beyond-death/186-nylea-s-forerunner
 related_hubs:
   - labor
   - rebellion
@@ -143,6 +145,8 @@ Each subset citation-anchored at Wizards-published canonical evidence (oracle te
 - [[276-mindwrack-harpy]]
 - [[100-grim-physician]]
 - [[17-glory-bearers]]
+- [[10-daybreak-chimera]]
+- [[186-nylea-s-forerunner]]
 ## Canonical sources
 
 - **MTG Wiki — Theros Pantheon** (`https://mtg.fandom.com/wiki/Pantheon_of_Theros`) — primary roster page; canonical reference for the fifteen-god roster, the principal-vs-minor tier split, each god's color identity and domain, and the cross-block continuity (THS → BNG → JOU → THB).
