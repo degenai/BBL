@@ -18,7 +18,7 @@ tags_hub:
   - architecture
   - authority
   - threshold
-  - Ravnica
+  - ravnica
   - monumental
   - stone
 tags_filter:

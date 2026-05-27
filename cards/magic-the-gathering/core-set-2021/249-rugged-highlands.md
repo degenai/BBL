@@ -41,7 +41,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/9/d/9daef8db-56a5-4b1e-b4bf-734d0516557c.png?1594737663
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
+manual_review_reason:
 mood: sublime
 time_of_day: day
 setting: mountain

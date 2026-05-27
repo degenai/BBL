@@ -38,7 +38,7 @@ date_added: 2026-05-12
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Oath of the Gatewatch'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/a/3/a30f26f7-5181-4bf1-9084-5563b4996a3c.png?1562927930
 artist: David Gaillet
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/21-iona-s-blessing--art.jpg

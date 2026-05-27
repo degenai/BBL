@@ -37,7 +37,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm1/47_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
+manual_review_reason:
 flavor_text: It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.
 oracle_text: "[Ability: Innards Out] If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, put 6 damage counters on the Attacking Pokémon.\\nContinuous Tumble (Water) 30×: Flip a coin until you get tails. This attack does 30 damage for each heads."
 review_good: false

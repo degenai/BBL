@@ -40,7 +40,7 @@ date_added: 2026-05-07
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Ultimate Masters'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/7/6/7618fb0b-099c-47f6-b16f-49854bc5be6b.png?1547518529
 mood: sublime
 time_of_day: indeterminate

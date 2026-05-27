@@ -39,7 +39,7 @@ date_added: 2026-05-06
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Shards of Alara'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/e/4/e4f0d262-cbfe-42d2-9066-0b48a38995d6.png?1562710101
 mood: sublime
 time_of_day: magic-hour

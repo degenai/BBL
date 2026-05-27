@@ -38,7 +38,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm1/101_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason:
 flavor_text: Possessing an unbalanced and unstable genetic makeup, it conceals many possible evolutions.
 oracle_text: "[Ability: Energy Evolution] When you attach a basic Energy card from your hand to this Pokémon during your turn, you may search your deck for a card that evolves from this Pokémon that is the same type as that Energy card and put it onto this Pokémon to evolve it. Then, shuffle your deck.\\nQuick Draw (Colorless): Flip a coin. If heads, draw a card."
 review_good: false

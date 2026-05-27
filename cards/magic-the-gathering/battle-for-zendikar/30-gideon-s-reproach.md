@@ -17,7 +17,7 @@ tags_hub:
   - gold
   - power
   - planeswalker
-  - Zendikar
+  - zendikar
   - authority
   - magic-energy
   - champion

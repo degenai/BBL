@@ -18,7 +18,7 @@ tags_hub:
   - patience
   - carapace
   - creature
-  - Kamigawa
+  - kamigawa
   - spirit
   - predator
 tags_filter:

@@ -40,7 +40,7 @@ date_added: 2026-05-14
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Outlaws of Thunder Junction'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/2/5/252def94-2d89-48f7-8ff7-9c8682ca3ec6.png?1712355654
 artist: Caio Monteiro
 art_crop_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/102-rictus-robber--art.jpg

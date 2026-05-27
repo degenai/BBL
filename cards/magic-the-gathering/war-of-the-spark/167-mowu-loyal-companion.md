@@ -20,7 +20,7 @@ tags_hub:
   - spirit-animal
   - archer
   - war
-  - Ravnica
+  - ravnica
   - collar
 tags_filter:
   - green-magic

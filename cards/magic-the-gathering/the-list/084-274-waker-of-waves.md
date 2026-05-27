@@ -40,7 +40,7 @@ date_added: 2026-05-06
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'The List'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/3/e/3e2c3304-1bd9-44bb-bd91-00b3a089be00.png?1723439289
 mood: sublime
 time_of_day: day

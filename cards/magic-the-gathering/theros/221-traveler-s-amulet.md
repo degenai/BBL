@@ -41,7 +41,7 @@ date_added: 2026-05-07
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Theros'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/2/4/245a683f-280e-405c-aa2a-dfabb78dc34e.png?1562815772
 mood: peaceful
 time_of_day: day

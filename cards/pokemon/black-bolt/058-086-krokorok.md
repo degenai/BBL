@@ -50,7 +50,7 @@ subject_known_ip: true
 suspected_ip: Krokorok
 ip_confidence: high
 ip_verified: false
-manual_review_reason: No reference image found via pokemontcg for set 'Black Bolt'
+manual_review_reason:
 ---
 
 # Krokorok (Black Bolt)

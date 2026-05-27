@@ -37,7 +37,7 @@ date_added: 2026-05-12
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Battle for Zendikar'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/7/0/702f5dd4-4dc7-4e2c-a30b-9286499433d8.png?1562921415
 artist: Magali Villeneuve
 characters:

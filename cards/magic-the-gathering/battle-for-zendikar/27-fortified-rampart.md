@@ -13,7 +13,7 @@ bundles: []
 tags_hub:
   - fortress
   - wall
-  - Eldrazi
+  - eldrazi
   - horror
   - defense
   - siege

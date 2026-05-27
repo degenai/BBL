@@ -16,7 +16,7 @@ tags_hub:
   - warrior
   - rope
   - hooks
-  - Zendikar
+  - zendikar
   - allies
   - coordination
   - rally

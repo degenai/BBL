@@ -39,7 +39,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh1/117_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via pokemontcg for set 'Sword & Shield Base Set'
+manual_review_reason:
 flavor_text: Thought to be the oldest form of Zigzagoon, it moves in zigzags and wreaks havoc upon its surroundings.
 oracle_text: "[Ability: Headbutt Tantrum] When you play this Pokémon from your hand onto your Bench during your turn, you may put 1 damage counter on 1 of your opponent's Pokémon.\\nSurprise Attack (DarknessColorless) 30: Flip a coin. If tails, this attack does nothing."
 review_good: false

@@ -40,7 +40,7 @@ date_added: 2026-05-06
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/6/6/663e0208-81c3-4a76-bcc2-bc59cf8ca649.png?1572489739
 mood: action
 time_of_day: day

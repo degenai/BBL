@@ -11,7 +11,7 @@ quantity: 1
 held_for_lair: 0
 bundles: []
 tags_hub:
-  - Eldrazi
+  - eldrazi
   - tentacles
   - alien
   - horror

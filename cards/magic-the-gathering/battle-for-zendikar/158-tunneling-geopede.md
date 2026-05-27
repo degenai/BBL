@@ -37,7 +37,7 @@ date_added: 2026-05-14
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Battle for Zendikar'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/d/4/d4071152-5e64-4133-88a2-8fa5cb0eeb6c.png?1562945525
 artist: Tomasz Jedruszek
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/158-tunneling-geopede--art.jpg

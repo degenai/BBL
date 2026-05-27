@@ -56,7 +56,7 @@ ip_verified: true
 image_width: 734
 image_height: 1024
 image_quality: high
-manual_review_reason: No reference image found via pokemontcg for set 'Darkness Ablaze'
+manual_review_reason:
 tags:
   - card
   - pokemon

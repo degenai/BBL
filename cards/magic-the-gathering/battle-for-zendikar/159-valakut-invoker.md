@@ -36,7 +36,7 @@ date_added: 2026-05-14
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Battle for Zendikar'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/1/7/178c66b8-c577-49c6-9efc-7bab740e66b6.png?1562900685
 artist: Joseph Meehan
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/159-valakut-invoker--art.jpg

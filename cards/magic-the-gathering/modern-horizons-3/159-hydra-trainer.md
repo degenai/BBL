@@ -39,7 +39,7 @@ date_added: 2026-05-14
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Modern Horizons 3'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/9/d/9d28ae5c-eec3-445a-81d6-42bf9789afce.png?1717012500
 artist: Ryan Pancoast
 art_crop_image: cards/_images/magic-the-gathering/modern-horizons-3/159-hydra-trainer--art.jpg

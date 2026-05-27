@@ -39,7 +39,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm1/65_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
+manual_review_reason:
 flavor_text: Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars.
 oracle_text: "Teleport (Colorless): Switch this Pokémon with 1 of your Benched Pokémon."
 review_good: false

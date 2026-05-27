@@ -45,7 +45,7 @@ time_of_day: night
 setting: void
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: Scryfall fuzzy lookup returned the Ravnica Clue Edition (CLU) printing; the inventory says Core Set 2021 (M21). Visual specifics may not match the printing actually owned.
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/8/c/8cbac0e4-f79f-476d-b410-d19ab3696606.png?1594735686
 artist: Zezhou Chen
 art_crop_image: cards/_images/magic-the-gathering/core-set-2021/65-roaming-ghostlight--art.jpg

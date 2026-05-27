@@ -52,7 +52,7 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/7/a/7a914416-effd-
 flavor_text: Seeking intact evidence in the Rubblebelt is a fool's errand.
 oracle_text: Disguise {5}{G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, destroy target artifact or enchantment an opponent controls.
 mana_cost: "{4}{G}"
-manual_review_reason: No reference image found via scryfall for set 'Murders at Karlov Manor'
+manual_review_reason:
 image_width: 745
 image_height: 1040
 image_quality: high

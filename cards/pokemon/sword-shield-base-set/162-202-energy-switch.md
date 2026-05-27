@@ -36,7 +36,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh1/162_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason:
 oracle_text: Move a basic Energy from 1 of your Pokémon to another of your Pokémon.\nYou may play any number of Item cards during your turn.
   Move a basic Energy from 1 of your Pokémon to another of your Pokémon.
   You may play any number of Item cards during your turn.

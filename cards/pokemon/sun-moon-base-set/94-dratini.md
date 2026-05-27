@@ -36,7 +36,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm1/94_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
+manual_review_reason:
 flavor_text: After a 10-hour struggle, a fisherman was able to pull one up and confirm its existence.
 oracle_text: "Signs of Evolution (Grass): Search your deck for a Dratini, a Dragonair, and a Dragonite, reveal them, and put them into your hand. Then, shuffle your deck.\\nTail Smack (Lightning) 10"
 review_good: false

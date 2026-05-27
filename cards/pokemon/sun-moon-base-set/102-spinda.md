@@ -40,7 +40,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm1/102_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
+manual_review_reason:
 flavor_text: Its steps are staggering and unsteady, but Spinda thinks it's walking in a straight line.
 oracle_text: "Teeter Punch (Colorless) 30: Your opponent's Active Pokémon is now Confused."
 review_good: false

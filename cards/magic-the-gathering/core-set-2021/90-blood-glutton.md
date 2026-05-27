@@ -40,7 +40,7 @@ date_added: 2026-05-06
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/2/8/28ff52a2-4223-4551-b388-b4dd21cc1437.png?1594736007
 mood: horror
 time_of_day: night

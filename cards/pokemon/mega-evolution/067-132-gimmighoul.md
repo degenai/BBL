@@ -47,7 +47,7 @@ setting: indoor
 suspected_ip: "Gimmighoul"
 ip_confidence: high
 ip_verified: false
-manual_review_reason: No reference image found via pokemontcg for set 'Mega Evolution'
+manual_review_reason:
 tags:
   - card
   - pokemon

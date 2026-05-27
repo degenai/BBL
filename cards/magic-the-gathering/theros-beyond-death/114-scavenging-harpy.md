@@ -41,7 +41,7 @@ date_added: 2026-05-06
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Theros Beyond Death'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/b/0/b0e237c5-45b4-49df-adb9-62b9f3b62986.png?1581479949
 mood: grim
 time_of_day: indeterminate

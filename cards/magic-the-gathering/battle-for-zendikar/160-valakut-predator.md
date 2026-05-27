@@ -18,7 +18,7 @@ tags_hub:
   - geological
   - fire
   - predator
-  - Zendikar
+  - zendikar
   - scale
   - brute-force
 tags_filter:

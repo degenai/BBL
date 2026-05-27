@@ -43,7 +43,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/0/f/0fee9b4b-1510-4b78-bdde-2e0bb319ee33.png?1594737751
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
+manual_review_reason:
 mood: peaceful
 time_of_day: day
 setting: ocean

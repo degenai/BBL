@@ -39,7 +39,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm1/76_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
+manual_review_reason:
 flavor_text: When the sun goes down, it becomes active. It runs around town on a chase for good food for the boss of its nest—Raticate.
 oracle_text: Gnaw 20
 review_good: false

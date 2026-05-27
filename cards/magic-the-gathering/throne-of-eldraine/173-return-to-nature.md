@@ -34,7 +34,7 @@ date_added: 2026-05-13
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/c/3/c3d5088e-21d0-4255-a14c-ad950133a90e.png?1572490654
 artist: Mark Poole
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/173-return-to-nature--art.jpg

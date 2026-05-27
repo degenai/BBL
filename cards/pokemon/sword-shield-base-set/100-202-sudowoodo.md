@@ -21,7 +21,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh1/100_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason:
 flavor_text: If a tree branch shakes when there is no wind, it's a Sudowoodo, not a tree. It hides from the rain.
 oracle_text: "Double Draw (Colorless): Draw 2 cards.\\nFlail (Colorless) 10×: This attack does 10 damage for each damage counter on this Pokémon."
 review_good: false

@@ -40,7 +40,7 @@ date_added: 2026-05-14
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Outlaws of Thunder Junction'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/9/e/9e56a8df-db04-4a88-a5ab-6954d3449976.png?1712355703
 artist: Mila Pesic
 art_crop_image: cards/_images/magic-the-gathering/outlaws-of-thunder-junction/112-unscrupulous-contractor--art.jpg

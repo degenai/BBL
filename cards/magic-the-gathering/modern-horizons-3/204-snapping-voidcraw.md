@@ -90,7 +90,7 @@ A fleshy, heavily textured creature dominates the foreground, its wide-open maw 
 - **Artist** — Illustrated by Camille Alquier, a French illustrator and Wizards of the Coast contractor. No Hipsters of the Coast artist-spotlight piece on Alquier was found in this research pass. [Scryfall: MH3 no. 204 artist field]
 
 ### Related cards
-- Eldrazi Skyspawner (Battle for Zendikar) — Eldrazi Devoid creature with {1}{G}{U} cost; same Simic Devoid design pattern
+- Eldrazi Skyspawner (Battle for Zendikar) — Eldrazi Drone with Devoid and Flying; mono-blue {2}{U} cost. Shares the BFZ-block Drone-tier Scion-generator design role at the airborne slot; thematic sibling rather than mana-cost match.
 - Emrakul, the Promised End (Eldritch Moon) — the Eldrazi Titan whose arrival on Innistrad provides the narrative context the flavor text references
 - Snapping Gnarlid (Battle for Zendikar) — Zendikar creature with a parallel "corrupted wildlife" flavor register
 

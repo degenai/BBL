@@ -52,7 +52,7 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/8/2/820c2932-2e23-
 flavor_text: "\"Please be dead, please be dead, please be dead.\""
 oracle_text: Vigilance\nWhenever a face-down permanent you control enters and whenever this creature or another permanent you control is turned face up, put a +1/+1 counter on this creature.
 mana_cost: "{2}{G}"
-manual_review_reason: "No reference image found via scryfall for set 'Duskmourn: House of Horror'"
+manual_review_reason:
 image_width: 745
 image_height: 1040
 image_quality: high

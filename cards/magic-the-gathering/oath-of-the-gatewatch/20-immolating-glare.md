@@ -38,7 +38,7 @@ date_added: 2026-05-12
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Oath of the Gatewatch'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/2/f/2f468338-bb66-4db0-a883-69095566092b.png?1562904646
 artist: Daarken
 art_crop_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/20-immolating-glare--art.jpg

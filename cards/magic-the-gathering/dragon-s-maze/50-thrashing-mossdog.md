@@ -18,7 +18,7 @@ tags_hub:
   - corruption
   - nature-gone-wrong
   - charge
-  - Ravnica
+  - ravnica
   - beast
   - rot
 tags_filter:

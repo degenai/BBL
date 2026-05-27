@@ -38,7 +38,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm1/19_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason:
 flavor_text: The sepals on its head developed to protect its body. These are quite hard, so even if pecked by bird Pokémon, this Pokémon is totally fine.
 oracle_text: "Sweet Scent (Grass): Heal 30 damage from 1 of your Pokémon.\\nStomp (ColorlessColorless) 20+: Flip a coin. If heads, this attack does 20 more damage."
 review_good: false

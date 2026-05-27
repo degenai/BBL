@@ -39,7 +39,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/base1/46_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via pokemontcg for set 'Base Set (Unlimited)'
+manual_review_reason:
 flavor_text: Obviously prefers hot places. If it gets caught in the rain, steam is said to spout from the tip of its tail.
 oracle_text: "Scratch (Colorless) 10\\nEmber (FireColorless) 30: Discard 1 Fire Energy card attached to Charmander in order to use this attack."
 characters:

@@ -14,7 +14,7 @@ tags_hub:
   - wasteland
   - ruins
   - waterfall
-  - Zendikar
+  - zendikar
   - desolation
   - cliff
   - landscape

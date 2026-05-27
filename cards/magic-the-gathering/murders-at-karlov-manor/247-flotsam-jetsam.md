@@ -50,7 +50,7 @@ mood: grim
 time_of_day: indeterminate
 setting: ocean
 mana_cost: "{1}{G/U} // {4}{U/B}{U/B}"
-manual_review_reason: No reference image found via scryfall for set 'Murders at Karlov Manor'
+manual_review_reason:
 image_width: 745
 image_height: 1040
 image_quality: high

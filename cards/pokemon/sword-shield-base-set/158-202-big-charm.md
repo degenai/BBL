@@ -36,7 +36,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh1/158_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via pokemontcg for set 'Sword & Shield Base Set'
+manual_review_reason:
 oracle_text: Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.\nThe Pokémon this card is attached to gets +30 HP.\nYou may play any number of Item cards during your turn.
   Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.
   The Pokémon this card is attached to gets +30 HP.

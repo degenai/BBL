@@ -40,7 +40,7 @@ date_added: 2026-05-14
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Murders at Karlov Manor'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/c/e/ce043cba-aea4-4156-b1d0-545eda06c400.png?1706241726
 artist: Brent Hollowell
 art_crop_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/96-nightdrinker-moroii--art.jpg

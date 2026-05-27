@@ -38,7 +38,7 @@ date_added: 2026-05-07
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Modern Horizons'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/5/4/54e0fcc2-2409-4e00-95d5-418ffa161c20.png?1562202574
 mood: peaceful
 time_of_day: day

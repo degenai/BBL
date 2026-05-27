@@ -18,7 +18,7 @@ tags_hub:
   - fighter
   - kor
   - dungeon
-  - Zendikar
+  - zendikar
   - explorer
   - resistance
 tags_filter:

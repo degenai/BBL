@@ -37,7 +37,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://archives.bulbagarden.net/media/upload/f/f2/ZubatSunMoon54.jpg
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
+manual_review_reason:
 oracle_text: "Astonish (Psychic): Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into their deck."
 review_good: false
 review_bad: false

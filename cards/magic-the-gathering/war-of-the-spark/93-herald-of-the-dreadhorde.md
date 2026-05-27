@@ -40,7 +40,7 @@ date_added: 2026-05-16
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'War of the Spark'
+manual_review_reason:
 review_good: false
 review_bad: false
 review_notes: ""

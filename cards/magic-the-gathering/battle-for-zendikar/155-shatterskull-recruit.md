@@ -19,7 +19,7 @@ tags_hub:
   - darkness
   - power-imbalance
   - rubble
-  - Eldrazi
+  - eldrazi
   - domination
 tags_filter:
   - group

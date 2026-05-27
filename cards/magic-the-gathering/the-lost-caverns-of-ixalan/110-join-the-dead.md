@@ -22,7 +22,7 @@ tags_hub:
   - predator
   - cursed
   - death
-  - Ixalan
+  - ixalan
 tags_filter:
   - group
   - wide

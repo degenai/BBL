@@ -52,7 +52,7 @@ ip_confidence: high
 ip_verified: false
 characters:
   - rufflet-line
-manual_review_reason: No reference image found via pokemontcg for set 'Black Bolt'
+manual_review_reason:
 tags:
   - card
   - pokemon

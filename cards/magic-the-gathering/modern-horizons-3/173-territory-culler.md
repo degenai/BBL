@@ -37,7 +37,7 @@ date_added: 2026-05-14
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Modern Horizons 3'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/9/c/9c249aa6-c65c-4572-8e2e-c3899638ecce.png?1717012610
 characters:
   - eldrazi

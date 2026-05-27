@@ -54,7 +54,7 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/e/e/ee2b4c1a-e058-
 flavor_text: She came back alone, with her recorder broken and its footage scrambled. Whatever she had experienced, she never spoke of again.
 oracle_text: Survival — At the beginning of your second main phase, if this creature is tapped, you gain 2 life.
 mana_cost: "{3}{G}"
-manual_review_reason: "No reference image found via scryfall for set 'Duskmourn: House of Horror'"
+manual_review_reason:
 image_width: 745
 image_height: 1040
 image_quality: high

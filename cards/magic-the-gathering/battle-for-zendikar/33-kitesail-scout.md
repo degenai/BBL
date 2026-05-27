@@ -20,7 +20,7 @@ tags_hub:
   - explorer
   - sky
   - freedom
-  - Zendikar
+  - zendikar
 tags_filter:
   - solo
   - wide

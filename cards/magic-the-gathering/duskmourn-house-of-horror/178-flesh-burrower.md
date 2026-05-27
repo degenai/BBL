@@ -50,7 +50,7 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/6/0/60499c90-a512-
 flavor_text: Symptoms of a burrower bite include fevers, chills, gangrene, subcutaneous writhing, a growing urge to eat the flesh of the living, and if you're lucky, death.
 oracle_text: Deathtouch\nWhenever this creature attacks, another target creature you control gains deathtouch until end of turn.
 mana_cost: "{1}{G}"
-manual_review_reason: "No reference image found via scryfall for set 'Duskmourn: House of Horror'"
+manual_review_reason:
 image_width: 745
 image_height: 1040
 image_quality: high

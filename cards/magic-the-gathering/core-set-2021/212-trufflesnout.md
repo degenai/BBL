@@ -42,7 +42,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://cards.scryfall.io/png/front/8/b/8bba47c1-a874-456e-bea3-e99e2d61cfba.png?1594737296
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
+manual_review_reason:
 mood: peaceful
 time_of_day: day
 setting: forest

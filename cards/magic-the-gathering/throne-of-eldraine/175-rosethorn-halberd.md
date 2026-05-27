@@ -36,7 +36,7 @@ date_added: 2026-05-13
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/d/4/d4a66e33-af5c-42b5-bef6-0ff0197ecc14.png?1572490664
 artist: Kari Christensen
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/175-rosethorn-halberd--art.jpg

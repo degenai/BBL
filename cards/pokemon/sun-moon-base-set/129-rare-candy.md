@@ -36,7 +36,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm1/129_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason:
 oracle_text: Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.\nYou may play as many Item cards as you like during your turn (before your attack).
 review_good: false
 review_bad: false

@@ -35,7 +35,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm1/37_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
+manual_review_reason:
 flavor_text: Fishermen keep an eye out for Wingull in the sky, because wherever they're circling, the ocean sure to be is teeming with fish Pokémon.
 oracle_text: "Roost (Colorless): Heal 30 damage from this Pokémon. It can't retreat during your next turn."
 review_good: false

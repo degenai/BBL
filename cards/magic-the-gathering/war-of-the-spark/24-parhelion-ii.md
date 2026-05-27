@@ -35,7 +35,7 @@ date_added: 2026-05-14
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'War of the Spark'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/2/6/261ba80e-3aca-423e-a0b7-19c2d4b44dbf.png?1559160240
 artist: Adam Paquette
 art_crop_image: cards/_images/magic-the-gathering/war-of-the-spark/24-parhelion-ii--art.jpg

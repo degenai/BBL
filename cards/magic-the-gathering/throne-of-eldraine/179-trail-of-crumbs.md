@@ -35,7 +35,7 @@ date_added: 2026-05-14
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Throne of Eldraine'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/2/6/2688ac16-4ed6-4e79-815a-be173deb4603.png?1572490686
 artist: Daarken
 art_crop_image: cards/_images/magic-the-gathering/throne-of-eldraine/179-trail-of-crumbs--art.jpg

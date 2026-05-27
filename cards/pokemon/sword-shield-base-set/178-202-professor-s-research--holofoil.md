@@ -39,7 +39,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh1/178_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason:
 oracle_text: Discard your hand and draw 7 cards.\nYou may play only 1 Supporter card during your turn.
   Discard your hand and draw 7 cards.
   You may play only 1 Supporter card during your turn.

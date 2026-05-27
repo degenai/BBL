@@ -38,7 +38,7 @@ date_added: 2026-05-13
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Khans of Tarkir'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/9/2/926b49a1-f220-41ab-8c67-8354a91a15e8.png?1562790454
 artist: Ryan Alexander Lee
 art_crop_image: cards/_images/magic-the-gathering/khans-of-tarkir/183-kin-tree-invocation--art.jpg

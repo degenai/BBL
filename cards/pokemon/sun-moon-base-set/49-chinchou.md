@@ -37,7 +37,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm1/49_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
+manual_review_reason:
 artist: Ayaka Yoshida
 flavor_text: It lives in the depths beyond the reach of sunlight. It flashes lights on its antennae to communicate with others of its kind.
 oracle_text: "Searching Light (Colorless): Look at 1 of your face-down Prize cards.\\nElectro Ball (LightningColorlessColorless) 30"

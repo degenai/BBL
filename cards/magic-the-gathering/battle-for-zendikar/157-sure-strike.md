@@ -19,7 +19,7 @@ tags_hub:
   - recklessness
   - scale-contrast
   - charge
-  - Eldrazi
+  - eldrazi
   - volcanic
 tags_filter:
   - solo
@@ -37,7 +37,7 @@ date_added: 2026-05-14
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Battle for Zendikar'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/0/7/074dd176-4608-42ca-8fc3-c7040cd7b32e.png?1562896719
 artist: Jakub Kasper
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/157-sure-strike--art.jpg

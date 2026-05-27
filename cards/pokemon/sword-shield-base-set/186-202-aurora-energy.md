@@ -21,7 +21,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh1/186_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason:
 oracle_text: You can attach this card to 1 of your Pokémon only if you discard another card from your hand.\nAs long as this card is attached to a Pokémon, it provides every type of Energy but provides only 1 Energy at a time.
 review_good: false
 review_bad: false

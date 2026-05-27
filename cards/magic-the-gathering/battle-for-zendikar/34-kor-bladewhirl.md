@@ -17,7 +17,7 @@ tags_hub:
   - fighter
   - skill
   - nomad
-  - Zendikar
+  - zendikar
   - rally
   - first-strike
   - kor

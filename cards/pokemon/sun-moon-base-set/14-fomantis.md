@@ -37,7 +37,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm1/14_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
+manual_review_reason:
 flavor_text: They give off a sweet and refreshing scent. Cutiefly often gather near the tall grass where Fomantis are hiding.
 oracle_text: "Synthesis (Grass): Search your deck for a Grass Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.\\nLeafage (GrassColorless) 20"
 review_good: false

@@ -41,7 +41,7 @@ date_added: 2026-05-06
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Core Set 2021'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/a/a/aa01cb8c-f080-456b-a91a-f1d7943a70b2.png?1594735346
 mood: sublime
 time_of_day: magic-hour

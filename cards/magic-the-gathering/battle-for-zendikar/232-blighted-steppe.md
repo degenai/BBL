@@ -12,7 +12,7 @@ held_for_lair: 0
 bundles: []
 tags_hub:
   - wasteland
-  - Zendikar
+  - zendikar
   - floating-rocks
   - survival
   - bridge

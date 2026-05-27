@@ -21,7 +21,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh1/185_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason:
 oracle_text: Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.\nThe attacks of the Pokémon this card is attached to do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).\nYou may play any number of Item cards during your turn.
 review_good: false
 review_bad: false

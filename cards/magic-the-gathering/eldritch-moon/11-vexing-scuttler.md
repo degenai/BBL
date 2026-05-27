@@ -17,7 +17,7 @@ tags_hub:
   - ship
   - wreck
   - night
-  - Eldrazi
+  - eldrazi
   - horror
   - crustacean
   - dark-water

@@ -51,7 +51,7 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/3/e/3e29b890-35b9-
 flavor_text: "\"When your perp goes underground, I know where to find 'em.\""
 oracle_text: "At the beginning of your end step, if a face-down creature entered the battlefield under your control this turn, put a +1/+1 counter on this creature.\\n{T}: Add {G}."
 mana_cost: "{1}{G}"
-manual_review_reason: No reference image found via scryfall for set 'Murders at Karlov Manor'
+manual_review_reason:
 image_width: 745
 image_height: 1040
 image_quality: high

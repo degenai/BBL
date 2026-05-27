@@ -39,7 +39,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm1/74_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via pokemontcg for set 'Sun & Moon Base Set'
+manual_review_reason:
 flavor_text: It takes control of anyone who puts a hand in its mouth. And so it adds to the accumulation of its sand-mound body.
 oracle_text: "Shore Up (Colorless): Attach a Fighting Energy card from your discard pile to this Pokémon.\\nSand Tomb (FightingColorlessColorless) 30: The Defending Pokémon can't retreat during your opponent's next turn."
 review_good: false

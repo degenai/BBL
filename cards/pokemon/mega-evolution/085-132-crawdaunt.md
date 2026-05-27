@@ -47,7 +47,7 @@ setting: ocean
 suspected_ip: "Crawdaunt"
 ip_confidence: high
 ip_verified: false
-manual_review_reason: Set 'Mega Evolution' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason:
 tags:
   - card
   - pokemon

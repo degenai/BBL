@@ -21,7 +21,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh1/23_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason:
 oracle_text: "Flame Cloak (Fire) 30: Attach a Fire Energy card from your discard pile to this Pokémon.\\nFire Mane (FireColorless) 70"
 review_good: false
 review_bad: false

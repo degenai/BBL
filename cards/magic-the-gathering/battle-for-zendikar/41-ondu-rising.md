@@ -14,7 +14,7 @@ tags_hub:
   - stone-creature
   - elemental
   - desert
-  - Zendikar
+  - zendikar
   - floating-islands
   - awakening
   - landscape
@@ -36,7 +36,7 @@ date_added: 2026-05-12
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Battle for Zendikar'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/0/7/07cb9f87-7ba4-408c-952d-fc9a7611df42.png?1562896810
 artist: Igor Kieryluk
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/41-ondu-rising--art.jpg

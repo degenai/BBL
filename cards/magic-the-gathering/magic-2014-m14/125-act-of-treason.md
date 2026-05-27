@@ -39,7 +39,7 @@ date_added: 2026-05-13
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Magic 2014 (M14)'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/b/a/babcfccf-83db-40e7-8a2c-f77358ba3cc0.png?1562834378
 artist: Eric Deschamps
 art_crop_image: cards/_images/magic-the-gathering/magic-2014-m14/125-act-of-treason--art.jpg

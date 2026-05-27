@@ -38,7 +38,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/sm1/103_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: Set 'Sun & Moon Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason:
 flavor_text: Because it doesn't yelp, it's extremely popular with Trainers who live in apartment buildings.
 oracle_text: "Work Up (Colorless): During your next turn, this Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).\\nBite (ColorlessColorless) 20"
 review_good: false

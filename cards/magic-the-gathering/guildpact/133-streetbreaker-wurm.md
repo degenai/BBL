@@ -41,7 +41,7 @@ date_added: 2026-05-07
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Guildpact'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/d/5/d5313054-91a5-401c-84d1-03a2cd265060.png?1593272809
 mana_cost: "{3}{R}{G}"
 mood: action

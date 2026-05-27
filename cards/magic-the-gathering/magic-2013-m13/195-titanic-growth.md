@@ -38,7 +38,7 @@ date_added: 2026-05-14
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Magic 2013 (M13)'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/5/f/5f1fb9f8-c070-40c9-89cd-c74eb8dbbf1a.png?1562554417
 artist: Ryan Pancoast
 art_crop_image: cards/_images/magic-the-gathering/magic-2013-m13/195-titanic-growth--art.jpg

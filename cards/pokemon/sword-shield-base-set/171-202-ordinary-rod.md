@@ -21,7 +21,7 @@ last_seen: 2026-05-23
 reference_image_source_url: https://images.pokemontcg.io/swsh1/171_hires.png
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: Set 'Sword & Shield Base Set' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.
+manual_review_reason:
 oracle_text: Choose 1 or both:\n• Shuffle up to 2 Pokémon from your discard pile into your deck.\n• Shuffle up to 2 basic Energy cards from your discard pile into your deck.\nYou may play any number of Item cards during your turn.
 review_good: false
 review_bad: false

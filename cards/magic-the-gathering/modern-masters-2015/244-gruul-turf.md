@@ -41,7 +41,7 @@ date_added: 2026-05-07
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Modern Masters 2015'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/1/3/1325d187-4012-4875-9a0c-8520cbf386ac.png?1562259426
 mood: sublime
 time_of_day: sunset

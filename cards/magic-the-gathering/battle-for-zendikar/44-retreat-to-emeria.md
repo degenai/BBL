@@ -13,13 +13,13 @@ bundles: []
 tags_hub:
   - fortress
   - sanctuary
-  - Zendikar
+  - zendikar
   - floating-islands
   - refuge
   - architecture
   - sky
   - scale-contrast
-  - Emeria
+  - emeria
   - grandeur
 tags_filter:
   - wide
@@ -36,7 +36,7 @@ date_added: 2026-05-12
 last_seen: 2026-05-23
 art_match_confidence: high
 needs_manual_review: false
-manual_review_reason: No reference image found via scryfall for set 'Battle for Zendikar'
+manual_review_reason:
 reference_image_source_url: https://cards.scryfall.io/png/front/4/b/4b65101f-808a-40b8-8864-ee84c00d2496.png?1562912681
 artist: Kieran Yanner
 art_crop_image: cards/_images/magic-the-gathering/battle-for-zendikar/44-retreat-to-emeria--art.jpg
