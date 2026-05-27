@@ -1,0 +1,42 @@
+{
+  "card_name": "Basri's Acolyte (Showcase)",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "287",
+  "task_profile": "ip-priority",
+  "ip_decision": "refute",
+  "ip_outcome_note": "Vision pass flagged suspected_ip: Basri Ket at low confidence. The depicted figure is a catfolk (Cat Cleric per Scryfall type_line), not Basri Ket — Basri is human. The flavor text names Basri ('Basri carries on his god's legacy') but that is reference to him, not a depiction of him. Basri's Acolyte is an anonymous follower spreading Oketra's teachings on Basri's behalf. The low confidence flag was appropriate; refutation is clear. No Basri Ket IP concern applies to this card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Basri Ket is the debut planeswalker of Core Set 2021 (released July 2020), designed as a spiritual successor to Gideon Jura in white's martial-paladin slot. According to Wizards' 'Creating Basri Ket' feature, designer Daniel Ketchum described him as 'a paladin in the truest sense, duty sworn to an ideal.' [Wizards of the Coast: 'Creating Basri Ket', 2020-06-08]",
+      "sources": ["Wizards of the Coast: 'Creating Basri Ket', 2020-06-08"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Basri carries on his god's legacy, spreading her teachings throughout the Multiverse.\" [Scryfall]. The pronoun 'her' refers to Oketra, Amonkhet's cat-headed god of solidarity who was killed by Nicol Bolas during the Hour of Devastation. The depicted catfolk cleric is one of these Oketra-faith evangelists spreading her doctrine in Basri's wake.",
+      "sources": ["Scryfall", "Wizards of the Coast: 'Creating Basri Ket', 2020-06-08"]
+    },
+    {
+      "category": "design",
+      "text": "The Showcase frame variant (collector no. 287) is the M21 Showcase treatment; the standard frame prints as collector no. 8 in the same set. Both use Leesha Hannigan's art. The card is also legal in Pauper and Paupercommander formats per Scryfall legalities, giving the Cat Cleric reach beyond just Commander. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a 2/3 Lifelink for 4 mana that distributes +1/+1 counters to two other creatures on entry, Basri's Acolyte slots into go-wide white counter strategies. EDHREC rank 14,172 is mid-tier for a common, reflecting niche but consistent Commander adoption. Pauper legality makes it a standout in that format's limited white creature pool. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Basri Ket", "set": "Core Set 2021", "note": "The planeswalker whose legacy this acolyte carries; named in flavor text"},
+    {"name": "Oketra's Monument", "set": "Amonkhet", "note": "Oketra's god artifact; thematic anchor for the faith this acolyte propagates"},
+    {"name": "Oketra the True", "set": "Amonkhet", "note": "The god whose legacy (her) is cited in the flavor text"},
+    {"name": "Basri's Solidarity", "set": "Core Set 2021", "note": "Another Basri-named M21 card; same thematic set of white solidarity spells"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "",
+    "ip_confidence": "none"
+  }
+}

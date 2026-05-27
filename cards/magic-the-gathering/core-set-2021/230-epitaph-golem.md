@@ -74,3 +74,16 @@ A massive armored golem floats or rises above a dark graveyard. The golem's body
 **Iconography:** horned helm
 **Genre cues:** fantasy, gothic
 
+## Trivia
+
+- **Set context** — Epitaph Golem was first printed in Shadows over Innistrad (April 2016) as a Rare artifact creature on the gothic horror plane of Innistrad, which is mechanically defined by graveyard-matters themes. The golem's graveyard-to-library ability directly serves Innistrad's flavor of death, memory, and what persists after burial. [Scryfall: SOI/254]
+- **Flavor text** — "Many names and many memories bound together in grim purpose." [Scryfall]. The line frames the golem as a composite entity assembled from the epitaphs of the dead rather than inert stone — consistent with Innistrad's tradition of constructs animated by necromantic or spiritual residue.
+- **Reprint history** — Four printings: Shadows over Innistrad (SOI, 2016), Core Set 2021 (M21, 2020), Shadows over Innistrad Remastered (SIR, 2023), Innistrad Remastered (INR, 2025). Adam Paquette illustrated all printings. The M21 reprint — in a non-Innistrad set — signals Wizards treating it as a generally useful graveyard-utility card beyond its plane of origin. [Scryfall print search]
+- **Mechanics** — {2}: put target card from your graveyard on the bottom of your library. A 3/5 colorless 5-drop with no evasion. Functional role is mill-hate and self-mill recovery — cycling important cards back through the deck in Commander. Legal in Pauper and Paupercommander. EDHREC rank 15,896 reflects niche but consistent adoption in mill-prevention or looping Commander shells. [Scryfall]
+
+### Related cards
+- Elixir of Immortality (Magic 2012) — artifact with overlapping 'shuffle graveyard back' function; common companion in the same Commander roles
+- Diregraf Colossus (Shadows over Innistrad) — Innistrad graveyard-matters zombie that shares the SOI set context
+- Stitcher's Supplier (Core Set 2019) — self-mill enabler that creates the graveyard Epitaph Golem then recycles
+- Ulamog, the Infinite Gyre (Rise of the Eldrazi) — shuffles graveyard into library as a trigger; functional overlap in mill-prevention end goal
+

@@ -1,0 +1,42 @@
+{
+  "card_name": "Wishcoin Crab",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "86",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Wishcoin Crab was first printed in Guilds of Ravnica (October 2018) as a blue common — a 2/5 defensive creature in a set focused on Ravnica's guild factions. The Guilds of Ravnica printing carries identical flavor text and the same James Paick art. Its M21 reprint recycles the card into a fresh Standard environment. [Scryfall: GRN/60]",
+      "sources": ["Scryfall: GRN/60"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"What wishes do they grant? Mostly pinching-related ones.\" —Omik, superintendent of waterworks [Scryfall]. Omik is a throwaway NPC voice — a Ravnica bureaucrat whose dry, sardonic comment grounds the magical creature in the mundane infrastructure of the city-plane. The joke deflates the 'wishcoin' mystique: these crabs were presumably tossed into fountains or waterways for luck and have developed a reputation.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: empty (no abilities). Wishcoin Crab is a vanilla 2/5 for 4 mana — no rules text at all. Its statistical identity is purely as a defensive blue blocker with an unusually high toughness-to-cost ratio for a common. EDHREC rank 19,189 reflects minimal Commander adoption; vanilla creatures rarely find Commander homes. Legal in Pauper, where the 2/5 body at common sees occasional mention as a budget wall. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by James Paick, who has illustrated across multiple MTG sets. The coastal waterfall scene — blue-purple crustacean, gold-spotted shell, warm dawn light — is atypical for Ravnica, which usually features urban environments. The Ravnica printing's outdoor setting implies the waterworks infrastructure extends to natural waterways on the city-plane's outer rings. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Horseshoe Crab", "set": "Urza's Saga", "note": "Earliest notable MTG crab creature; shares the coastal/tidal creature niche"},
+    {"name": "Crab Umbra", "set": "Rise of the Eldrazi", "note": "Aura named for crabs; thematically adjacent crab-type card"},
+    {"name": "Giant Crab", "set": "Tempest", "note": "Vanilla big toughness blue crab; mechanical archetype predecessor"},
+    {"name": "Gomazoa", "set": "Zendikar", "note": "2/5 blue defender with defender keyword; closest mechanical parallel in toughness/cost ratio"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

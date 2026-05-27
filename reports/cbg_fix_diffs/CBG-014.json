@@ -1,0 +1,23 @@
+{
+  "cbg_slug": "CBG-014",
+  "finding_summary": "suspect.md body header + frontmatter + body bullets + auto-gen block all agree on 5 anchors, but two body paragraphs (Caveats Agency cross-edge line 65, See-also Discrete Lair future line 90) say 'six' anchors. Likely a pre-commission roster-trim artifact where a 6th candidate was dropped late and the prose counter was not updated.",
+  "severity": "note",
+  "fixes": [
+    {
+      "file": "cards/_symbols/suspect.md",
+      "operation": "edit",
+      "before": "- **The [[agency]] character-node ([[agency]]) is the natural cross-edge.** All six current Suspect-coded corpus anchors are Agency-operational-register cards or anti-Agency cards (Caught Red-Handed and Convenient Target read as suspect-imposition; Airtight Alibi and Eliminate the Impossible read as suspect-clearance). The mechanic's gameplay loop maps the Agency's investigative procedure at the rules-text scale. The `related_characters: [agency]` frontmatter field on this node encodes the cross-edge; the Agency node may want a reciprocal `related_symbols: [suspect]` update as a downstream sync task.",
+      "after": "- **The [[agency]] character-node is the natural cross-edge.** All five current Suspect-coded corpus anchors are Agency-operational-register cards or anti-Agency cards (Caught Red-Handed and Convenient Target read as suspect-imposition by the chaos / criminal side; Airtight Alibi and Eliminate the Impossible read as suspect-clearance by the legal / Agency-procedural side; Deadly Complication-showcase straddles by routing through Etrata's case in the MKM storyline). The mechanic's gameplay loop maps the Agency's investigative procedure at the rules-text scale. The `related_characters: [agency]` frontmatter field on this node encodes the cross-edge; the Agency node may want a reciprocal `related_symbols: [suspect]` update as a downstream sync task.",
+      "rationale": "Corrects 'six' → 'five' at line 65 + de-duplicates the duplicated [[agency]] wikilink in the opening clause. Adds Deadly Complication-showcase as the 5th anchor's role-attribution (straddles imposition + clearance modes via the MKM storyline pivot), since the prior 4-card enumeration in parentheses left the 5th unaccounted-for."
+    },
+    {
+      "file": "cards/_symbols/suspect.md",
+      "operation": "edit",
+      "before": "- Future MKM Discrete Lair candidate — six corpus anchors here + eight Agency anchors on [[agency]] form a substantial bundle-cohesion stack for a noir-procedural-detective lair anchored on either or both nodes. The mechanical rendering of investigation makes the bundle thesis the rules-text reading itself.",
+      "after": "- Future MKM Discrete Lair candidate — five corpus anchors here + eight Agency anchors on [[agency]] form a substantial bundle-cohesion stack for a noir-procedural-detective lair anchored on either or both nodes. The mechanical rendering of investigation makes the bundle thesis the rules-text reading itself.",
+      "rationale": "Corrects 'six' → 'five' at line 90. 1-character substantive change."
+    }
+  ],
+  "verification_command": "cd 'C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler' && grep -c 'six current Suspect\\|six corpus anchors here' cards/_symbols/suspect.md",
+  "uncertainty_notes": "(1) The Caveats line-65 rewrite adds a third role-attribution for Deadly Complication-showcase (straddles imposition + clearance modes). This is interpretive — the prior 4-card parenthetical at line 65 listed only the first 4 anchors, omitting Deadly Complication entirely. If the operator prefers a minimal-intervention fix, the alternative is a pure 'six' → 'five' replacement without adding the Deadly Complication clause: `All five current Suspect-coded corpus anchors are Agency-operational-register cards or anti-Agency cards (Caught Red-Handed and Convenient Target read as suspect-imposition; Airtight Alibi and Eliminate the Impossible read as suspect-clearance).` That version leaves the 4-card parenthetical's omission of the 5th anchor unaddressed but keeps the edit surgical. Curator judgment call. (2) The Agency 'eight anchors' count at line 90 was not verified by this dispatch — if Agency's actual anchor count has drifted from 8 since suspect.md was authored, that's a separate finding for a future CBG dispatch."
+}

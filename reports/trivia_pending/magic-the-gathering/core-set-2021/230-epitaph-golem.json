@@ -1,0 +1,42 @@
+{
+  "card_name": "Epitaph Golem",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "230",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Epitaph Golem was first printed in Shadows over Innistrad (April 2016) as an artifact creature inhabiting the gothic horror plane of Innistrad — a plane mechanically defined by its graveyard-matters themes. The golem's ability (returning graveyard cards to library) fits the Innistrad plane's preoccupation with death, memory, and what lingers after burial. [Scryfall: SOI 254]",
+      "sources": ["Scryfall: SOI/254"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Many names and many memories bound together in grim purpose.\" [Scryfall]. The line frames the golem as a composite entity — assembled from the epitaphs and identities of the dead rather than built from inert stone, consistent with Innistrad's lore of constructs animated by necromantic or spiritual residue.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Adam Paquette across all printings (SOI, M21, Shadows over Innistrad Remastered, Innistrad Remastered). Paquette is known for his atmospheric landscape and environment-forward fantasy illustration; his graveyard scene here — the golem rising over misty headstones under stormy indigo sky — is a strong example of his gothic environmental work. The card has been reprinted four times: SOI (2016), M21 (2020), SIR (2023), INR (2025). [Scryfall print search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: {2}: put target card from your graveyard on the bottom of your library. This is a slow graveyard-to-library recycling effect on a 3/5 body — a colorless 5-drop with no evasion. It is strictly a mill-hate and self-mill-recovery tool, used to loop key cards back through a deck in Commander. EDHREC rank 15,896 reflects niche adoption in mill-prevention or self-mill shells. Legal in Pauper, expanding its reach. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Elixir of Immortality", "set": "Magic 2012", "note": "Artifact with overlapping 'shuffle graveyard back' function; common companion in the same Commander roles"},
+    {"name": "Cremate", "set": "Ravnica", "note": "Instant that exiles a graveyard card; thematically opposite to Epitaph Golem's library-recovery"},
+    {"name": "Stitcher's Supplier", "set": "Core Set 2019", "note": "Self-mill enabler that creates the graveyard Epitaph Golem then recycles"},
+    {"name": "Diregraf Colossus", "set": "Shadows over Innistrad", "note": "Innistrad graveyard-matters zombie that shares the SOI set context with Epitaph Golem"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

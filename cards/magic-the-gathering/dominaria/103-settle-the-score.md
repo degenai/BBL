@@ -55,7 +55,7 @@ setting: void
 subject_known_ip: true
 suspected_ip: Liliana Vess
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Settle the Score (Dominaria)
@@ -64,8 +64,8 @@ ip_verified: false
 
 ![103-settle-the-score](../../_images/magic-the-gathering/dominaria/103-settle-the-score.png)
 
-> [!warning] Suspected IP: **Liliana Vess** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Liliana Vess**
+> Confirmed via Scryfall flavor_text (explicitly attributed to Liliana Vess) and Dominaria story spotlight designation. Planeswalker watermark on card frame. Internal Wizards character — no external IP risk.
 
 Two figures face off in a dramatic magical confrontation. On the left, a slender figure in dark, elaborate robes with long dark hair extends one arm forward, fingers outstretched, summoning or directing a surge of purple-black energy. The robes have ornate detailing and trail behind the figure. On the right, a large, powerfully built humanoid — dark skin, imposing stature — has both arms spread wide, their body engulfed and dissolving in swirling purple-pink magical fire. The right figure wears armored or decorative garments but is being consumed by the magical discharge. The background is abstract and purple-toned, suggesting an interior or dimensional space filled with chaotic magical energy. The composition emphasizes the polarity between the controlled, directing figure on the left and the disintegrating figure on the right.
 
@@ -80,4 +80,19 @@ Two figures face off in a dramatic magical confrontation. On the left, a slender
 **Objects:** dark robes, ornate garments
 **Iconography:** necromantic energy, purple flame, magical discharge
 **Genre cues:** fantasy
+
+## Trivia
+
+- **Set context** — Settle the Score is one of four story spotlight cards in Dominaria (released April 2018), depicting Liliana Vess defeating Belzenlok — her fourth and final demonic creditor — at the Cabal Stronghold in Urborg. Scryfall marks it `story_spotlight: true` and the card frame carries a planeswalker watermark. [Scryfall]
+- **Flavor text** — "You bound me with a contract only your death could end—and you thought me the fool?" —Liliana Vess [Scryfall]. The line is Liliana addressing the dying Belzenlok; the contract she references is the demonic deal through which she gained power at the cost of her soul.
+- **Lore consequence** — Killing Belzenlok did not free Liliana: the contract defaulted to Nicol Bolas, who had brokered the original deal. When the Gatewatch departed Dominaria, Bolas revealed himself as Liliana's new owner — she traded one demonic master for an elder dragon. [Hipsters of the Coast: "Liliana's Demons", June 2018]
+- **Design** — Art by Yongjae Choi. No reprints exist as of 2026; Settle the Score remains a Dominaria-exclusive. [Scryfall prints search]
+- **Mechanics** — Oracle text: exile target creature, then put two loyalty counters on a planeswalker you control. The loyalty-counter mode hard-requires a planeswalker on board — by design the card functions as Liliana's own finishing spell, fueling her after the killing blow on Belzenlok. EDHREC rank 12,961 indicates modest but consistent Commander adoption. [Scryfall]
+
+### Related cards
+- Liliana, Untouched by Death (Core Set 2019) — Liliana Vess planeswalker card from the same era; shares the four-demon contract story arc
+- Liliana's Contract (Core Set 2019) — card that literally depicts the demonic contracts at the center of the Settle the Score flavor
+- Demonlord Belzenlok (Dominaria) — the figure being exiled/consumed in the art; Liliana's fourth demon
+- Final Parting (Dominaria) — another Dominaria story spotlight card from the same arc
+- Blackblade Reforged (Dominaria) — the weapon used to slay Belzenlok in the story; Gideon's contribution to the confrontation
 

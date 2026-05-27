@@ -75,3 +75,16 @@ A figure in layered green leather armor sprints through a bright, dappled forest
 **Iconography:** glowing teal eyes
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Woodland Champion appears in Core Set 2020 (released July 2019) as an uncommon Elf Scout — a set designed as an accessible return-to-basics core set following the Ravnica block, centered on planeswalker-focus stories and green creature fundamentals. [Scryfall]
+- **Flavor text** — "Every footfall on the forest floor is a heartbeat sending strength into my veins." [Scryfall]. No named speaker — presented as the Champion's own voice. The framing treats the forest itself as a living circuit that feeds power back into the runner, not an external source she draws from.
+- **Mechanics** — Whenever one or more tokens you control enter, put that many +1/+1 counters on this creature. The trigger scales linearly: a Saproling Migration creating two tokens puts two counters simultaneously. Go-wide token strategies (saprolings, soldiers, elves) can grow it to a 6/6+ by turn 4. Card Kingdom noted its synergy with G/W token generators in M20 limited analysis. [Scryfall; Card Kingdom Blog: "Go Wide with G/W Tokens"]
+- **Design** — Art by Randy Vargas, a Cuban illustrator (Instagram: @vargasni) with over 150 MTG card credits including multiple M20 cards (Rotting Regisaur, Season of Growth). Vargas received his own Secret Lair drop (Artist Series: Randy Vargas), a marker of significant standing among Wizards' illustrator roster. [Scryfall; artofmtg.com/artist/randy-vargas; secretlair.wizards.com]
+
+### Related cards
+- Tendershoot Dryad (Rivals of Ixalan) — creates a Saproling token each upkeep; natural engine pairing with Woodland Champion's counter trigger
+- Rhys the Redeemed (Shadowmoor) — token-doubling commander that maximizes Woodland Champion's counter gain
+- Emmara, Soul of the Accord (Guilds of Ravnica) — token-generating tapper that feeds Woodland Champion in GW lists
+- Beastmaster Ascension (Zendikar) — alternate "grow large on tokens" green enchantment from the same archetype niche
+

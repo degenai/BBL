@@ -1,0 +1,42 @@
+{
+  "card_name": "Woodland Champion",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2020",
+  "collector_number": "205",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Woodland Champion appears in Core Set 2020 (released July 2019) as an uncommon Elf Scout — a set designed as a return-to-basics core set following the Ravnica block, centered on planeswalker stories and accessible green creature strategies. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"Every footfall on the forest floor is a heartbeat sending strength into my veins.\" [Scryfall]. The quote has no named speaker — it is presented as the Champion's own internal voice, emphasizing the character's deep bond with the forest as a living feedback loop rather than an external source of power.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: whenever one or more tokens you control enter, put that many +1/+1 counters on this creature. This scales linearly with token production — a single Saproling Migration creating two tokens puts two counters on Woodland Champion simultaneously. Go-wide token strategies (Saproling, Soldier, Elf tokens) can grow it to a 6/6 or larger by turn 4. Card Kingdom noted its synergy with G/W token generators in early M20 limited analysis. [Scryfall; Card Kingdom Blog: 'Go Wide with G/W Tokens']",
+      "sources": ["Scryfall", "Card Kingdom Blog: 'Go Wide with G/W Tokens'"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Randy Vargas, a Cuban illustrator (Instagram: @vargasni) who has contributed over 150 cards to MTG. Vargas illustrated multiple M20 cards including Rotting Regisaur and Season of Growth; his style — saturated natural lighting, confident figure-in-motion compositions — is well-suited to the forest-sprint scene here. No dedicated Hipsters of the Coast artist feature on Vargas found in this research pass. [artofmtg.com; Scryfall]",
+      "sources": ["artofmtg.com/artist/randy-vargas", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tendershoot Dryad", "set": "Rivals of Ixalan", "note": "Creates Saproling tokens each upkeep; natural engine pairing with Woodland Champion's counter trigger"},
+    {"name": "Rhys the Redeemed", "set": "Shadowmoor", "note": "Token-doubling commander that maximizes Woodland Champion's counter gain"},
+    {"name": "Emmara, Soul of the Accord", "set": "Guilds of Ravnica", "note": "Token-generating tapper that feeds Woodland Champion in GW commander lists"},
+    {"name": "Verdant Force", "set": "Tempest", "note": "Classic forest-bond green creature thematically adjacent to the Elf Scout flavor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

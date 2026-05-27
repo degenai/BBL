@@ -53,9 +53,9 @@ mood: sublime
 time_of_day: indeterminate
 setting: other
 subject_known_ip: true
-suspected_ip: Basri Ket
-ip_confidence: low
-ip_verified: false
+suspected_ip: ""
+ip_confidence: none
+ip_verified: true
 ---
 
 # Basri's Acolyte (Showcase) (Core Set 2021)
@@ -64,8 +64,8 @@ ip_verified: false
 
 ![287-basri-s-acolyte-showcase](../../_images/magic-the-gathering/core-set-2021/287-basri-s-acolyte-showcase.png)
 
-> [!warning] Suspected IP: **Basri Ket** (confidence: low, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP refuted
+> Vision flagged Basri Ket, but the depicted figure is an anonymous Cat Cleric follower (Scryfall type_line: Creature — Cat Cleric). Basri Ket is human; the catfolk here is one of his unnamed acolytes spreading Oketra's teachings. Flavor text names Basri but does not depict him.
 
 A feline humanoid — catfolk with a visible muzzle, whiskers, and rounded animal ears — stands in a wide, arms-outstretched stance. The figure wears golden scale armor on the torso and a long white cloak or cape that billows behind. Both hands are open and extended, each surrounded by a glowing ring or orb of radiant white-gold magical energy. The face is calm and purposeful. The background shows an overcast sky, churning grey-blue clouds, and ground that suggests a battlefield or open plain — blades of grass, faint suggestion of fallen weapons, and an atmospheric haze at the horizon. The overall composition is portrait-like with a heroic wide stance.
 
@@ -81,4 +81,17 @@ A feline humanoid — catfolk with a visible muzzle, whiskers, and rounded anima
 **Creatures:** catfolk
 **Iconography:** glowing orbs, radiant magic
 **Genre cues:** fantasy
+
+## Trivia
+
+- **Set context** — Basri Ket is the debut planeswalker of Core Set 2021 (released July 2020), designed as a spiritual successor to Gideon Jura in white's martial-paladin slot. Wizards designer Daniel Ketchum described him as "a paladin in the truest sense, duty sworn to an ideal." Basri's Acolyte is part of the suite of white support cards built around his identity. [Wizards of the Coast: "Creating Basri Ket", 2020-06-08]
+- **Flavor text** — "Basri carries on his god's legacy, spreading her teachings throughout the Multiverse." [Scryfall]. The pronoun 'her' refers to Oketra, Amonkhet's cat-headed god of solidarity who was killed by Nicol Bolas during the Hour of Devastation. The depicted catfolk cleric is an anonymous evangelist spreading that doctrine in Basri's name.
+- **IP note** — The depicted figure is NOT Basri Ket. Basri is human; this is a Cat Cleric (Scryfall type_line confirmed). The low-confidence vision flag was appropriate — the card is named for Basri but does not depict him. [Scryfall type_line]
+- **Design** — Showcase frame variant (collector no. 287); standard frame prints as no. 8 in the same set. Both use Leesha Hannigan's art. Legal in Pauper and Paupercommander per Scryfall legalities, giving this Cat Cleric reach beyond Commander. [Scryfall]
+
+### Related cards
+- Basri Ket (Core Set 2021) — the planeswalker whose legacy this acolyte carries; named in flavor text
+- Oketra the True (Amonkhet) — the god whose legacy is cited as 'her' in the flavor text
+- Oketra's Monument (Amonkhet) — Oketra's god artifact; thematic anchor for the faith this acolyte propagates
+- Basri's Solidarity (Core Set 2021) — another Basri-named M21 white solidarity spell in the same design suite
 

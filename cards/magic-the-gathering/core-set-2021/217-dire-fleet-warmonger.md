@@ -73,3 +73,16 @@ A large, heavily muscled humanoid figure — visible tusks protruding from a pro
 **Creatures:** small creature, goblin-type creature
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — The Dire Fleet is a faction of orc pirates within the Brazen Coalition, the multi-species pirate alliance native to the plane of Ixalan (first introduced in Ixalan, 2017). The Dire Fleet's orcs are lore-characterized as combat-hungry: Dire Fleet Captain's flavor text (Ixalan) reads "Orcs of the Dire Fleet are downright jovial when steering toward battle." Warmonger's sacrifice-for-trample mechanic encodes that berserker identity directly. [Scryfall: Dire Fleet Captain XLN; WebSearch: Ixalan Brazen Coalition lore]
+- **Mechanics** — 3/3 Orc Pirate for {1}{B}{R}; at the beginning of combat, may sacrifice another creature to get +2/+2 and trample until end of turn. Mechanically narrow: the sacrifice trigger creates a dependency on expendable fodder. EDHREC rank 25,035 reflects limited Commander adoption outside dedicated Pirate-tribal lists. The trample pump makes it a functional finisher in Rakdos aggro with a token or sacrifice subtheme. [Scryfall]
+- **Design** — Art by Mathias Kollros, an Austrian illustrator known for high-contrast, violent combat scenes across multiple MTG sets. No flavor text on this card — a common choice for Wizards on combat-utility creatures where oracle text already fills the text box. [Scryfall]
+- **Faction lineage** — The Dire Fleet name spans at least five cards: Dire Fleet Captain (Ixalan), Dire Fleet Ravager (Ixalan, mythic rare), Dire Fleet Daredevil (Rivals of Ixalan), Dire Fleet Interloper (Ixalan), and this Warmonger (M21). Its appearance in a non-Ixalan set marks the Dire Fleet as a recurring MTG creature-type signifier rather than a plane-specific story faction. [Scryfall: Ixalan set search]
+
+### Related cards
+- Dire Fleet Captain (Ixalan) — flagship Dire Fleet card; establishes the faction's name and combat-hungry orc identity
+- Dire Fleet Ravager (Ixalan) — mythic rare Dire Fleet Orc Pirate Wizard; the faction's highest-power card by rate
+- Fathom Fleet Boarder (Rivals of Ixalan) — sibling Orc Pirate from Ixalan's secondary pirate faction; flavor text notes orcs sometimes plunder their own ships when raids are scarce
+- Brazen Borrower (Throne of Eldraine) — unrelated but shares the Brazen Coalition name pattern; mechanical contrast (bounce vs. sacrifice)
+

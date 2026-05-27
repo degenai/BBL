@@ -1,0 +1,67 @@
+{
+  "cbg_slug": "CBG-011",
+  "finding_summary": "theros-pantheon.md carries triple counter drift: frontmatter appears_on has 28 entries, auto-gen Appears on block has 24, body prose says 18 in 5 loci, body itemized roster has 19 bullets. 9 cards present in frontmatter are missing from body roster. Auto-gen sync missed 4 entries (Skophos Warleader, Kragma Warcaller, Hero of the Games, Armory of Iroas). Wave 208 sidecar already flagged the drift exists but staged for a future pass.",
+  "severity": "note",
+  "fixes": [
+    {
+      "file": "cards/_characters/theros-pantheon.md",
+      "operation": "edit",
+      "before": "**Cards in our corpus pointing here (current; 18 cards across 3 sets):**",
+      "after": "**Cards in our corpus pointing here (current; 28 cards across 4 sets — Theros, Theros Beyond Death, Mystery Booster Cards / The List, Commander Legends):**",
+      "rationale": "Body counter caught up to frontmatter. 28 = 1 THS-original + 1 THS reprint (Opaline Unicorn / Kragma Warcaller) + 24 THB + 1 List/Mystery Booster (Athreos) + 1 Commander Legends (Armory of Iroas). Updated set-count from 3 to 4 to capture Commander Legends as the 4th source set."
+    },
+    {
+      "file": "cards/_characters/theros-pantheon.md",
+      "operation": "insert_after_line",
+      "before": "89",
+      "after": "- **Skophos Warleader** (THB 154, Common, Wisnu Tan art) — Mogis-aligned minotaur warband-leader; cohort-attaches via the Mogis-cult warband / hostage-taking register that the Mogis sub-node already roster-itemizes. The Mogis devotion-of-violence cult's military arm; the warleader is the canonical operative-class above the Soulreaper / Slaughter-Priest priest-class.\n- **Kragma Warcaller** (THS 195, Uncommon, Lucas Graciano art) — Mogis-aligned minotaur warband-summoner from original Theros 2013; the second non-THB corpus anchor alongside Opaline Unicorn. Reads as the Mogis-cult's recruitment-and-mobilization figure; the warcaller's job is gathering the warband the Slaughter-Priest blesses and the Warleader commands.\n- **Hero of the Games** (THB 137, Common) — Iroas-aligned arena hero; Iroas (god of victory, red-white) is the pantheon's just-war / honored-combat deity. The arena-hero archetype is the canonical Iroas-cult lay-member operative class — mortals who pursue victory-with-honor through formal combat rather than Mogis-cult slaughter-for-its-own-sake.\n- **Armory of Iroas** (Commander Legends 299, Rare) — Iroas-cult devotional artifact reprinted from Born of the Gods 145; equipment-tutor on Iroas-named card. The artifact's title invokes Iroas's domain (weapons-and-victory) as institutional context. The corpus's only Commander Legends Theros-pantheon anchor; structurally analogous to Altar of the Pantheon as devotional-object-named-for-a-god.\n- **Glory Bearers** (THB 17, Uncommon, Yongjae Choi art) — Heliod-cult hoplite pair carrying their fallen commander's standard; Reverent Hoplite's sibling Heliod-cult anchor. The procession-of-the-standard register canonicalizes the sun-cult's institutional iconography. Already cited at the heliod.md sub-node as flavor-direct Heliod-named anchor.\n- **Daybreak Chimera** (THB 10, Uncommon, Tomasz Jedruszek art, trivia-passed) — sun-domain chimera attributed to Heliod's domain per the trivia pass; Heliod sub-node anchor. The dawn-light chimera-as-Heliod's-creature register; structurally analogous to Captivating Unicorn (THB-6) as Heliod-domain sublime-beast.\n- **Grim Physician** (THB 100, Common) — Erebos-cult Returned-from-the-Underworld physician; trivia-passed with canonical-Returned-from-Erebos-realm attribution. The Returned archetype is canonically the souls Erebos returns to mortality minus their pulse and emotions; the physician's role is the gallows-humor inversion of healing.\n- **Mindwrack Harpy** (THB 276, Uncommon) — Erebos-aligned harpy-servitor; trivia-passed with canonical-Erebos-realm harpy-servitor attribution. The harpies of Theros are canonically Erebos-cult servitors who torment the souls in the Underworld; the mindwrack ability renders the Underworld torment at the rules-text layer.\n- **Nylea's Forerunner** (THB 186, Common) — Nylea-cult forerunner-centaur with constellation-style markings; co-anchors at the Nylea sub-node and at the constellation enabler-pool. The forerunner archetype is Nylea's canonical vanguard-of-the-hunt operative class; the THB constellation-markings render the Nyx-bleed at the creature-art layer.",
+      "rationale": "Insert 9 missing body roster bullets in collector-number-ascending order (10, 17, 100, 137, 154, 186, 195, 276, 299). Bullet language drawn from existing sub-node body bullets (heliod.md, nylea.md, erebos.md, mogis.md) + Scryfall verification for the 4 unique cards (Skophos Warleader, Kragma Warcaller, Hero of the Games, Armory of Iroas) that don't appear in any sub-node body yet. After insert: body bullets enumerate 28 cards matching the corrected counter at line 69 and the frontmatter appears_on exactly.",
+      "uncertainty_notes": "Insert position is conceptual (after the Opaline Unicorn bullet at line 89). The exact line number when applied may shift if other edits land first; the operator should anchor the insert on the Opaline Unicorn bullet's last line."
+    },
+    {
+      "file": "cards/_characters/theros-pantheon.md",
+      "operation": "edit",
+      "before": "This is what BBL's bundle copy can lean on without inventing canon: the Theros pantheon is, in Wizards's own design intent, a Greek-myth-modeled extraction-apparatus where mortal devotion (labor of belief) sustains divine power that is then turned back against the mortals. Eighteen corpus cards across two sets anchor this arc.",
+      "after": "This is what BBL's bundle copy can lean on without inventing canon: the Theros pantheon is, in Wizards's own design intent, a Greek-myth-modeled extraction-apparatus where mortal devotion (labor of belief) sustains divine power that is then turned back against the mortals. Twenty-eight corpus cards across four sets (Theros 2013, Theros Beyond Death 2020, Mystery Booster Cards, Commander Legends) anchor this arc.",
+      "rationale": "Body prose counter at line 102 catches up to frontmatter (28 not 18) and corrects the set-count (4 sets including Commander Legends' Armory of Iroas, not 2). Eighteen → Twenty-eight."
+    },
+    {
+      "file": "cards/_characters/theros-pantheon.md",
+      "operation": "edit",
+      "before": "The triangle holds at the pantheon-scope, not the per-card scope.",
+      "after": "The triangle holds at the pantheon-scope, not the per-card scope. The corpus's existing twenty-eight anchors carry the three-verb distribution across their canonical-evidence base.",
+      "rationale": "Replaces the 'eighteen anchors' frame in the surrounding triple-thesis prose with the corrected twenty-eight count. The prior sentence at line 106 ('existing eighteen anchors') is replaced indirectly via this insertion of the corrected count nearby; the standalone 'eighteen' phrase in the same paragraph should be hand-checked against the final body text after insert.",
+      "uncertainty_notes": "The original passage at line 106 'all three present in the corpus's existing eighteen anchors' may need a separate edit to update 'eighteen' → 'twenty-eight'; the operator should grep for 'eighteen' in the file after the other edits to ensure no stale references remain."
+    },
+    {
+      "file": "cards/_characters/theros-pantheon.md",
+      "operation": "edit",
+      "before": "- **Bundle-anchor potential is strong-but-deferred.** 18 enriched corpus anchors across 3 sets (Theros 2013, Theros Beyond Death 2020, Mystery Booster Cards) form a deep cohesion stack for a Theros-pantheon Discrete Lair — comparable in depth to the existing [[orzhov-syndicate]] node (8 corpus anchors) and the [[alola-elite-four]] node (3 corpus anchors).",
+      "after": "- **Bundle-anchor potential is strong-but-deferred.** 28 enriched corpus anchors across 4 sets (Theros 2013, Theros Beyond Death 2020, Mystery Booster Cards / The List, Commander Legends) form a deep cohesion stack for a Theros-pantheon Discrete Lair — substantially exceeding the existing [[orzhov-syndicate]] node (8 corpus anchors) and the [[alola-elite-four]] node (3 corpus anchors).",
+      "rationale": "Caveat counter at line 172 catches up to frontmatter; comparable-in-depth → substantially-exceeding given the 3.5x ratio over orzhov-syndicate."
+    },
+    {
+      "file": "cards/_characters/theros-pantheon.md",
+      "operation": "edit",
+      "before": "- Future Theros Pantheon Discrete Lair candidate — 18 enriched corpus anchors across 3 sets form a substantial bundle-cohesion stack.",
+      "after": "- Future Theros Pantheon Discrete Lair candidate — 28 enriched corpus anchors across 4 sets form a substantial bundle-cohesion stack.",
+      "rationale": "See-also bullet at line 189 catches up to frontmatter."
+    },
+    {
+      "file": "cards/_characters/theros-pantheon.md",
+      "operation": "edit",
+      "before": "- the Mogis-cult cards (Soulreaper THB-115, Slaughter-Priest THB-227, Portent of Betrayal THB-149, Infuriate THB-141) → LABOR",
+      "after": "- the Mogis-cult cards (Soulreaper THB-115, Slaughter-Priest THB-227, Portent of Betrayal THB-149, Infuriate THB-141, Skophos Warleader THB-154, Kragma Warcaller THS-195) → LABOR",
+      "rationale": "Triple-thesis LABOR subset arithmetic updated to include the two Mogis-aligned warband cards (Skophos Warleader the warband-leader and Kragma Warcaller the warband-summoner) that are present in appears_on: but were not in the LABOR subset enumeration."
+    },
+    {
+      "file": "cards/_characters/theros-pantheon.md",
+      "operation": "replace_block",
+      "before": "<!-- auto-generated from appears_on; do not edit by hand -->\n\n- [[146-athreos-god-of-passage]]\n- [[103-lampad-of-death-s-vigil]]\n- [[115-soulreaper-of-mogis]]\n- [[227-slaughter-priest-of-mogis]]\n- [[187-nylea-s-huntmaster]]\n- [[26-karametra-s-blessing]]\n- [[197-return-to-nature]]\n- [[96-fruit-of-tizerus]]\n- [[231-altar-of-the-pantheon]]\n- [[141-infuriate]]\n- [[149-portent-of-betrayal]]\n- [[175-inspire-awe]]\n- [[178-mantle-of-the-wolf]]\n- [[179-moss-viper]]\n- [[194-plummet]]\n- [[25-indomitable-will]]\n- [[33-reverent-hoplite]]\n- [[77-towering-wave-mystic]]\n- [[218-opaline-unicorn]]\n- [[276-mindwrack-harpy]]\n- [[100-grim-physician]]\n- [[17-glory-bearers]]\n- [[10-daybreak-chimera]]\n- [[186-nylea-s-forerunner]]",
+      "after": "<!-- auto-generated from appears_on; do not edit by hand -->\n\n- [[146-athreos-god-of-passage]]\n- [[103-lampad-of-death-s-vigil]]\n- [[115-soulreaper-of-mogis]]\n- [[227-slaughter-priest-of-mogis]]\n- [[154-skophos-warleader]]\n- [[195-kragma-warcaller]]\n- [[187-nylea-s-huntmaster]]\n- [[26-karametra-s-blessing]]\n- [[197-return-to-nature]]\n- [[96-fruit-of-tizerus]]\n- [[231-altar-of-the-pantheon]]\n- [[141-infuriate]]\n- [[149-portent-of-betrayal]]\n- [[175-inspire-awe]]\n- [[178-mantle-of-the-wolf]]\n- [[179-moss-viper]]\n- [[194-plummet]]\n- [[25-indomitable-will]]\n- [[137-hero-of-the-games]]\n- [[299-armory-of-iroas]]\n- [[33-reverent-hoplite]]\n- [[77-towering-wave-mystic]]\n- [[218-opaline-unicorn]]\n- [[276-mindwrack-harpy]]\n- [[100-grim-physician]]\n- [[17-glory-bearers]]\n- [[10-daybreak-chimera]]\n- [[186-nylea-s-forerunner]]",
+      "rationale": "Auto-gen 'Appears on' wikilink block catches up to frontmatter appears_on. 4 missing wikilinks inserted: Skophos Warleader, Kragma Warcaller, Hero of the Games, Armory of Iroas. Order preserved per frontmatter sequencing."
+    }
+  ],
+  "verification_command": "cd 'C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler' && grep -c 'eighteen\\|18 cards across 3 sets\\|18 enriched corpus anchors across 3 sets' cards/_characters/theros-pantheon.md && grep -c '^- \\[\\[' cards/_characters/theros-pantheon.md | head -1",
+  "uncertainty_notes": "(1) The 'Cards in our corpus pointing here' enumeration may benefit from a fuller pass on the prose-roster paragraph; the inserted bullets are minimal-canonical Scryfall-grounded descriptions and may want more analytical depth at curator review. (2) The Skophos Warleader entry assumes Mogis-cult attribution per Scryfall flavor text — if the trivia pass surfaces a different god-attribution at any future point, the LABOR-subset arithmetic above will need re-checking. (3) The wave-208 sidecar staged this drift as 'large scope body audit'; the operator should verify the corpus-fact-check claims of each inserted bullet against the existing sub-node body bullets if those exist (most bullets are paraphrased from heliod.md, erebos.md, nylea.md sub-node bodies; Skophos and Kragma and Hero of the Games and Armory of Iroas have no sub-node body to paraphrase from)."
+}

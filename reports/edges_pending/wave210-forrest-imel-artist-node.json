@@ -1,0 +1,74 @@
+{
+  "edge_id": "wave210-forrest-imel-artist-node",
+  "shape": "node-proposal",
+  "category": "artist-layer-cross-set-cluster",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "artist", "path": "cards/_artists/forrest-imel.md", "name": "Forrest Imel"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/2-alpine-watchdog.md", "name": "Alpine Watchdog"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/14-daybreak-charger.md", "name": "Daybreak Charger"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/131-bolt-hound--foil.md", "name": "Bolt Hound"},
+    {"type": "card", "path": "cards/magic-the-gathering/outlaws-of-thunder-junction/177-raucous-entertainer.md", "name": "Raucous Entertainer"}
+  ],
+  "description": "Oh, sir. I'm terribly sorry, but Edgelord wanted to draw a clean Alpine-Watchdog-to-Bolt-Hound mirror on the shared Imel artist credit and I had to step in. You see, sir, the credit isn't just a two-card thing — it's four corpus cards across two sets, AND three of those four are personally sold by Imel through his own forrestimel.com portfolio (I verified with a direct fetch, I really did), AND his client list (Blizzard, Wizards, Riot, Valve) is documented on his own about page (I checked that too, I do hope you don't mind). With four credits and an artist-prized-commons signal that strong, sir, the artist-layer node felt — well, it felt right. I really am sorry I couldn't give you the clean mirror.",
+  "citations": [
+    "[Scryfall: artist:\"Forrest Imel\" search returns 35 total credits — probed 2026-05-26]",
+    "[forrestimel.com about page: senior concept artist with Blizzard / Wizards / Riot / Valve client list — direct fetch 2026-05-26 confirmed all four client names present in page HTML]",
+    "[forrestimel.com/magic-prints sales page: Alpine Watchdog + Bolt Hound + Daybreak Charger listed as artist-proof prints — direct fetch 2026-05-26 confirmed all three present]",
+    "[cards/magic-the-gathering/core-set-2021/2-alpine-watchdog.md Trivia bullet 4: in-corpus citation of Imel client list + artist-proof-portfolio signal, wave 204]",
+    "[cards/magic-the-gathering/core-set-2021/14-daybreak-charger.md Trivia bullet 4: in-corpus citation of 35-credit Scryfall catalog + Blizzard/Wizards/Riot client list, wave 204]"
+  ],
+  "files_modified": [
+    "cards/_artists/forrest-imel.md (new file)"
+  ],
+  "files_created": [
+    "cards/_artists/forrest-imel.md"
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "other_candidates_considered": [
+    {
+      "candidate": "Liliana Vess character node",
+      "verdict": "REFUSED — already exists at cards/_characters/liliana-vess.md, commissioned wave 209. Parent dispatch brief mistakenly flagged this as a candidate; per bbl-parent-dispatch-verify discipline, verified by directory glob and node read — node is fully built, two corpus cards already attached (Despark + Gideon's Sacrifice), full canonical-sources block and four-demon-arc body prose in place. No work needed."
+    },
+    {
+      "candidate": "Urgoros, the Empty One character node",
+      "verdict": "REFUSED — only one corpus card (DOM-109). Single-card legendary, no cohort substrate. Card is also currently vision-unenriched (empty tags_hub) — it's still wave-210 vision-pass territory, not Edgelord territory."
+    },
+    {
+      "candidate": "Belzenlok / Cabal Stronghold cohort node",
+      "verdict": "REFUSED for THIS wave — only one corpus card grep'd as 'Belzenlok' (Blessing of Belzenlok, DOM-77). The wave-210 vision batch may add more (DOM-71/77/92/105/109/110 are in-flight). Re-evaluate next wave when the vision pass closes and trivia confirms IP-attribution density. Staged as future-wave watch."
+    },
+    {
+      "candidate": "Daarken artist node (Urgoros illustrator)",
+      "verdict": "REFUSED at corpus-walk — would require N>=3 corpus credits to clear threshold. Single Urgoros credit visible from the wave-210 candidate set; would need a wider grep to confirm/refute. Defer to future audit wave."
+    },
+    {
+      "candidate": "Gabor Szikszai artist node (already staged Sonnet from wave 209)",
+      "verdict": "ACKNOWLEDGED — staged for Sonnet per parent dispatch brief. Not duplicating work."
+    }
+  ],
+  "next_pass_suggestions": [
+    "Forrest Imel node attachment is artist-layer-internal: the four cards already carry `artist: Forrest Imel` in frontmatter and artist_resolve.py is the resolution mechanism — NO ## Connections bullets needed on the cards per the zoltan-boros / dan-murayama-scott / keiji-kinebuchi precedent. Verified by reading 26-makeshift-battalion.md (zero forrest-imel-style wikilinks in body, edges resolve via artist frontmatter field).",
+    "Raucous Entertainer (OTJ-177) is vision-passed but NOT trivia-passed. A future trivia pass on that card could add a fourth Imel-citation bullet matching the wave-204 Alpine Watchdog / Daybreak Charger pattern, strengthening the artist-node citation density.",
+    "If the wave-210 Belzenlok-related vision batch (DOM-71/77/92/105/109/110) produces 3+ corpus cards with Belzenlok / Cabal Stronghold canonical depiction or naming, a future Edgelord wave could commission either a `belzenlok` character node OR a `cabal-stronghold` symbol/character node. Both are deferred to post-wave-210 evaluation.",
+    "Daarken artist credit on Urgoros DOM-109 — needs a wider Scryfall + corpus grep to determine if Daarken has N>=3 BBL corpus credits. Worth a future audit-wave check; the artist is prolific in MTG but BBL coverage is unknown at present."
+  ],
+  "potion_rule_check": {
+    "trigger_applied": false,
+    "reason_not_refused": "Artist-layer commissions are evidence-based, not thesis-based. The Imel commission rests on (a) Scryfall-verified 35-credit catalog with API receipt, (b) artist's own published about-page client list with direct-fetch HTML receipt, (c) artist's own portfolio sales page with three-of-four corpus prints listed and direct-fetch verified, (d) cross-set range (M21 + OTJ), (e) cross-creature-type range within the corpus slice. No thesis-overlay (rebellion / labor / apparatus-of-extraction) is claimed for this node — the body prose explicitly stays at the empirical-catalog register where the artist-layer convention sits. Potion rule does not fire because no curatorial thesis is being attributed to an IP author's stated intent."
+  },
+  "cbg_009_hallucination_guard": {
+    "verified_by_direct_fetch": true,
+    "claims_checked_against_primary_source": [
+      {"claim": "Imel client list: Blizzard, Wizards, Riot, Valve", "source": "forrestimel.com/about HTML", "status": "verified"},
+      {"claim": "Imel sells Alpine Watchdog artist proofs", "source": "forrestimel.com/magic-prints HTML", "status": "verified"},
+      {"claim": "Imel sells Bolt Hound artist proofs", "source": "forrestimel.com/magic-prints HTML", "status": "verified"},
+      {"claim": "Imel sells Daybreak Charger artist proofs", "source": "forrestimel.com/magic-prints HTML", "status": "verified"},
+      {"claim": "Imel does NOT currently sell Raucous Entertainer artist proofs", "source": "forrestimel.com/magic-prints HTML", "status": "verified-negative"},
+      {"claim": "35 total MTG credits across Imel's career", "source": "Scryfall API artist search", "status": "verified"},
+      {"claim": "Imel illustrated Hexdrinker (Modern Horizons)", "source": "Scryfall API", "status": "verified"},
+      {"claim": "Imel illustrated Dockside Extortionist (Commander 2019)", "source": "Scryfall API", "status": "verified"}
+    ],
+    "note": "No verbatim designer quotations claimed — body prose paraphrases the about-page register without quoting it verbatim, avoiding the CBG-009 trap pattern (fabricated Rosewater verbatim phrasing). The trivia-bullet citations from wave 204 trivia passes are quoted verbatim where they already exist in corpus, but those are receipts to corpus prose, not to the original primary source."
+  }
+}

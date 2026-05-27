@@ -72,3 +72,16 @@ A large crab dominates the frame, its shell a deep blue-purple color with scatte
 **Creatures:** crab
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Wishcoin Crab was first printed in Guilds of Ravnica (October 2018) as a blue common — a 2/5 defensive blocker in a set focused on Ravnica guild factions. The M21 reprint carries identical art (James Paick) and identical flavor text from the GRN printing. The Ravnica context implies these crabs inhabit the waterworks canals and fountains of the city-plane; the "wishcoin" name suggests a tradition of tossing coins into water features for luck. [Scryfall: GRN/60]
+- **Flavor text** — "What wishes do they grant? Mostly pinching-related ones." —Omik, superintendent of waterworks [Scryfall]. Omik is an unnamed Ravnica bureaucrat whose single dry line deflates any mystique around these creatures. The humor is purely mundane: the crabs' magical reputation is undercut by practical experience with their claws.
+- **Mechanics** — Vanilla 2/5 with no oracle text. Statistically, 5 toughness at 4 mana is above the common vanilla rate for blue — its purpose is purely as a blocker wall. EDHREC rank 19,189 reflects near-zero Commander adoption (vanilla creatures rarely find Commander roles). Legal in Pauper, where its bulk toughness occasionally matters. [Scryfall]
+- **Design** — Art by James Paick. The outdoor coastal waterfall setting is atypical for Ravnica, which usually features urban stonework environments. The scene implies the Ravnica waterworks infrastructure extends to natural waterways at the plane's outer edges. [Scryfall]
+
+### Related cards
+- Horseshoe Crab (Urza's Saga) — earliest notable MTG crab creature; a staple of the original Crab archetype and an untap-combo piece in its day
+- Giant Crab (Tempest) — vanilla big-toughness blue crab; mechanical archetype predecessor to Wishcoin Crab's design role
+- Gomazoa (Zendikar) — 2/5 blue defender; closest mechanical parallel in toughness-to-cost ratio at blue common
+- Reef Worm (Commander 2014) — high-toughness blue creature that spawns replacement tokens on death; shares the "large, weird blue sea creature" flavor space
+

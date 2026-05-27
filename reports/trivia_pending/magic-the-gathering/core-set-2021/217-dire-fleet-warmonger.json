@@ -1,0 +1,42 @@
+{
+  "card_name": "Dire Fleet Warmonger",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "217",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Dire Fleet is a faction of orc pirates within the Brazen Coalition — the multi-species pirate alliance from the plane of Ixalan, first introduced in the Ixalan set (2017). The Dire Fleet's orcs are characterized in lore as drawn to and energized by combat; Dire Fleet Captain's flavor text (Ixalan) reads 'Orcs of the Dire Fleet are downright jovial when steering toward battle.' Warmonger's combat-sacrifice ability mechanically encodes this berserker ethos. [Scryfall: Dire Fleet Captain (XLN); Ixalan lore via WebSearch]",
+      "sources": ["Scryfall: Dire Fleet Captain XLN", "WebSearch: Brazen Coalition/Ixalan lore"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As a 3/3 Orc Pirate for {1}{B}{R} with a begin-of-combat sacrifice trigger for +2/+2 and trample, Warmonger is a sacrifice-payoff in Rakdos aggro or Pirate-tribal shells. EDHREC rank 25,035 is low, reflecting its narrow tribal fit — it lands primarily in dedicated Pirate-tribal Commander decks rather than general lists. The sacrifice requirement means it pairs best with token producers or other sacrifice fodder generators. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Mathias Kollros, an Austrian illustrator known for high-contrast, viscerally energetic combat scenes across multiple MTG sets. Kollros contributed several cards to M21 and earlier Ixalan-block sets. No flavor text appears on this card — consistent with Core Set 2021's approach of occasionally leaving combat-utility creatures text-only to keep the reading load low on lower-rarity cards. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Dire Fleet name carries across multiple sets: Dire Fleet Captain (Ixalan), Dire Fleet Ravager (Ixalan, mythic rare), Dire Fleet Daredevil (Rivals of Ixalan), and Dire Fleet Interloper (Ixalan) all share the faction name. Warmonger's appearance in M21 (a non-Ixalan set) marks the Dire Fleet brand's expansion as a general creature-type reference, not a plane-specific story beat. [Scryfall: Ixalan set search]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Dire Fleet Captain", "set": "Ixalan", "note": "Flagship Dire Fleet card; establishes the faction's name and combat-hungry orc identity"},
+    {"name": "Dire Fleet Ravager", "set": "Ixalan", "note": "Mythic rare Dire Fleet Orc Wizard; the faction's most powerful card by rate"},
+    {"name": "Fathom Fleet Boarder", "set": "Rivals of Ixalan", "note": "Sibling Orc Pirate from Ixalan's secondary pirate faction; shares creature type"},
+    {"name": "Captains' Claws", "set": "Oath of the Gatewatch", "note": "Equipment that creates Kor Ally tokens — sacrifice fodder for Warmonger's trigger"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

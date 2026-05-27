@@ -1,0 +1,48 @@
+{
+  "card_name": "Settle the Score",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "103",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Scryfall flavor_text is explicitly attributed to Liliana Vess, and the card carries a planeswalker watermark. The Dominaria set's story spotlight cards chronicle Liliana's arc eliminating her fourth and final demon Belzenlok; Settle the Score is card no. 103, one of four story spotlight cards in the set. Visual match: dark-robed figure with long dark hair directing necromantic energy exactly matches Liliana Vess's canonical visual identity. IP verified.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Settle the Score is one of four story spotlight cards in Dominaria (released April 2018), depicting Liliana Vess defeating Belzenlok — her fourth and final demonic creditor — aboard the Cabal Stronghold in Urborg. Scryfall marks it `story_spotlight: true` and carries a planeswalker watermark. [Scryfall]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"You bound me with a contract only your death could end—and you thought me the fool?\" —Liliana Vess [Scryfall]. The quoted line confirms the depicted figure is Liliana addressing the dying Belzenlok, invoking the demonic contract that bound her.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Liliana's victory over Belzenlok did not free her: the contract defaulted to Nicol Bolas, who had brokered the original deal. When the Gatewatch departed Dominaria, Bolas revealed himself as Liliana's new owner — trading one demon master for an elder dragon. [Hipsters of the Coast: 'Liliana's Demons', 2018]",
+      "sources": ["Hipsters of the Coast: 'Liliana's Demons', June 2018"]
+    },
+    {
+      "category": "design",
+      "text": "Art by Yongjae Choi. The card has not been reprinted in any other set as of 2026 — it remains a Dominaria-exclusive. [Scryfall prints search]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Oracle text: exile target creature, then put two loyalty counters on a planeswalker you control. The loyalty-counter mode creates a hard dependency on controlling a planeswalker — by design, the card functions as Liliana's own spell, fueling herself after landing the killing blow on Belzenlok. EDHREC rank 12,961 indicates modest Commander adoption. [Scryfall]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Liliana, Untouched by Death", "set": "Core Set 2019", "note": "Liliana Vess planeswalker card from the same era; shares the four-demon contract story arc"},
+    {"name": "Liliana's Contract", "set": "Core Set 2019", "note": "Card that literally depicts the demonic contracts at the center of the Settle the Score flavor"},
+    {"name": "Demonlord Belzenlok", "set": "Dominaria", "note": "The figure being exiled/consumed in the Settle the Score art; Liliana's fourth demon"},
+    {"name": "Final Parting", "set": "Dominaria", "note": "Another Dominaria story spotlight card from the same arc"},
+    {"name": "Blackblade Reforged", "set": "Dominaria", "note": "The weapon used to slay Belzenlok in the story; Gideon's contribution to the confrontation"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}
