@@ -1,0 +1,30 @@
+{
+  "cbg_slug": "CBG-007",
+  "finding_summary": "ff6-returners-party.md asserts in 3 places that Strago Magus 8-119C is in BBL corpus; the card does not exist on disk and the originating source is a Related-cards bullet in Umaro 8-024c.md (a normal forward-reference, not a corpus-presence claim).",
+  "severity": "warn",
+  "fixes": [
+    {
+      "file": "cards/_characters/ff6-returners-party.md",
+      "operation": "edit",
+      "before": "| Strago Magus | blue mage (Lore) | yes (8-119C) | not yet (corpus has card; not pointed here) |",
+      "after": "| Strago Magus | blue mage (Lore) | Category VI staple across Opus run | not yet |",
+      "rationale": "Strago 8-119C is not a file on disk in cards/final-fantasy-tcg/opus-viii/ (verified by directory listing — only 60 cards present, none at 8-119; the FFTCG Opus VIII corpus tops out at 8-126). The 'yes (8-119C)' claim is fabricated from misreading Umaro 8-024c.md's Related-cards bullet (line 84: 'Strago (Opus VIII, 8-119C) — fellow FFVI character revealed in the same Opus VIII spoiler wave'), which is a normal forward-reference to a card we do not own. Aligns table form with the other 'not yet' rows."
+    },
+    {
+      "file": "cards/_characters/ff6-returners-party.md",
+      "operation": "edit",
+      "before": "Four of the fourteen canonical members are currently in BBL corpus and pointed here; ten more are FFVI-canonical and most are FFTCG-printed but not yet acquired in this corpus. Strago (8-119C) is in corpus per the Umaro trivia's \"Related cards\" reference but has not yet been triviabot-passed — once enriched it should be evaluated for promotion onto this node's `appears_on` list.",
+      "after": "Four of the fourteen canonical members are currently in BBL corpus and pointed here; ten more are FFVI-canonical and most are FFTCG-printed but not yet acquired in this corpus.",
+      "rationale": "Removes the Strago-in-corpus assertion; the Related-cards forward-reference does not constitute corpus presence."
+    },
+    {
+      "file": "cards/_characters/ff6-returners-party.md",
+      "operation": "edit",
+      "before": "- **Strago Magus 8-119C is in corpus but not yet pointed here.** Per the Umaro trivia's \"Related cards\" reference, 8-119C is an Opus VIII FFVI character that should be evaluated for this node once the card is triviabot-passed and Category VI membership is confirmed in its card-frame text. A future Edgelord pass — likely triggered by Strago's enrichment — should add `final-fantasy-tcg/opus-viii/8-119c-strago` to `appears_on` and update the `In BBL corpus` column above accordingly.",
+      "after": "- **Strago Magus 8-119C is a future-attach candidate, not in corpus.** Umaro 8-024c.md's Related-cards bullet (line 84) names Strago as a fellow Opus VIII FFVI character revealed in the same spoiler wave; this is a forward-reference, not a corpus-presence claim. If a future Collectr CSV ingest brings 8-119C into BBL, it attaches here by adding the path to `appears_on:` and stamping `characters: [ff6-returners-party]` on the card's frontmatter at prep time.",
+      "rationale": "Corrects the third and most decisive Strago-in-corpus assertion. Reframes as future-watch consistent with the actual Umaro-trivia provenance."
+    }
+  ],
+  "verification_command": "ls cards/final-fantasy-tcg/opus-viii/8-119* 2>&1 && echo --- && grep -n '8-119\\|Strago' cards/_characters/ff6-returners-party.md",
+  "uncertainty_notes": "The Umaro Related-cards bullet itself (Umaro 8-024c.md line 84) is a normal Related-cards forward-reference and does not need editing — its 'revealed in the same Opus VIII spoiler wave' phrasing is consistent with a not-in-corpus citation. The node's misreading of that bullet is the only defect."
+}

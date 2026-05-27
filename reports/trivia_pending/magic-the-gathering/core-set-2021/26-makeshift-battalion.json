@@ -1,0 +1,41 @@
+{
+  "card_name": "Makeshift Battalion",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "26",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Makeshift Battalion originated in War of the Spark (May 2019), reprinted in Core Set 2021 (July 2020), and again in Ravnica Remastered (January 2024). Zoltan Boros art carries across all three printings.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Battalion was designed by Shawn Main during Great Designer Search 2 and became the Boros Legion guild mechanic in Gatecrash (2013). Rosewater stated Battalion was chosen because he felt Boros's original Ravnica mechanic (radiance) was the least flavorful guild mechanic in the first block — Battalion was the corrective design.",
+      "sources": ["Wizards.com: Storming the Gatecrash Part 2, 2013-01-28"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Their ranks are thin, their formation is improvised, their weapons are borrowed, and you'd best get out of their way.' Names all three resource deficits as irrelevant to the threat — mirrors the card's mechanical identity as a standalone 3/2 with upside.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pauper legal. EDHREC rank 21610 — minimal Commander presence. The raw 3/2 statline for 3 mana makes it playable in aggressive Pauper white lists even without consistent battalion triggers.",
+      "sources": ["Scryfall legalities", "Scryfall edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Odric, Master Tactician", "set": "Magic 2013", "note": "The card Rosewater tried to change after battalion was locked for Gatecrash; Odric's ability was a parallel design that nearly created a mechanic conflict"},
+    {"name": "Troop Leader", "set": "Gatecrash", "note": "Original rare Battalion creature — the mechanic's face card on first printing"},
+    {"name": "Firemane Commando", "set": "Commander Masters", "note": "More recent Boros creature with the same attack-with-others trigger pattern"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "card_name": "Revitalize",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "31",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Revitalize debuted in Core Set 2019 (July 2018), reprinted in Core Set 2021 (July 2020), Kaldheim (February 2021), and twice in Strixhaven Mystical Archive (April 2021) — including a Japanese alternate-art version in collector boosters (card no. 072). Reprinted again in Foundations Jumpstart (November 2024). One of the more frequently reprinted white utility commons in recent Magic history.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: '\"A potion is no substitute for a skilled surgeon, but it will hold your bits in.\" — Torricks, battlefield medic'. Torricks is a named but otherwise unattested figure in Wizards lore — the name appears only in this flavor text across all Magic printings. The voice is pragmatic about magic: the potion as damage-control, not salvation.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Matt Stewart has created over 200 Magic: The Gathering illustrations. His 'Master Trinketeer' (Kaladesh) received a Chesley Award nomination and was cited by Hipsters of the Coast as among the best MTG artworks since 2012. 'Waste Not' (You Make the Card community design) was noted as a personal favorite.",
+      "sources": ["Hipsters of the Coast: The Best Magic The Gathering Artworks Since 2012, 2022-09", "Hipsters of the Coast: A Look Inside Whimsy Wonder & War, 2019-11"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 4156 — substantial presence in lifegain-payoff Commander builds. The baseline ({1}{W}: gain 3 life, draw a card) has proven durable enough to earn reprints across four years and a Mystical Archive treatment that elevated the art to premium collector status.",
+      "sources": ["Scryfall edhrec_rank", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Healing Salve", "set": "Alpha", "note": "Ancestral comparison: same 3-life gain, no draw attached — Revitalize strictly outpaces it"},
+    {"name": "Chaplain's Blessing", "set": "Eldritch Moon", "note": "Same 3-life gain, same mana cost, no draw — Revitalize is the direct design upgrade"},
+    {"name": "Revitalize (Kaldheim)", "set": "Kaldheim", "note": "Same card, new art by Mathias Kollros (no. 23); one of three distinct art versions across the print run"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

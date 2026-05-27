@@ -1,0 +1,46 @@
+{
+  "card_name": "Siege Striker",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "37",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Siege Striker is a new card from Core Set 2021 (July 3, 2020), not reprinted in a standard set as of 2026 (only the M21 foil promo variant exists as an alternate printing). It fills the role of a white aggro threat designed for M21 limited format.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Double strike combined with tap-to-pump creates a scaling combat threat: each creature tapped before damage adds 2 effective damage (once first strike, once regular). Floor is a weak 1/1 double striker for 3 mana; ceiling with two tapped creatures is a 3/3 double striker dealing 6 damage. Explicitly rewards attacking wide.",
+      "sources": ["Scryfall oracle_text"]
+    },
+    {
+      "category": "design",
+      "text": "Siege Striker carries no flavor text on either printing. The visual storytelling — outnumbered warrior, defiant posture — does the narrative work the text box would otherwise do. No flavor text on a 3-mana uncommon creature is somewhat unusual.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Siege Striker and Makeshift Battalion (no. 26, same wave) are both illustrated by Zoltan Boros in M21, making him responsible for two of the set's white aggro common/uncommon creatures in the same release.",
+      "sources": ["Scryfall artist field"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 23470 — minimal Commander presence. The card's linear design toward attacking-wide strategies doesn't translate well to the toolbox-style play Commander favors.",
+      "sources": ["Scryfall edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Makeshift Battalion", "set": "Core Set 2021", "note": "Also illustrated by Zoltan Boros in M21; the two form a coherent white aggro pair in the same set"},
+    {"name": "Odric, Lunarch Marshal", "set": "Shadows Over Innistrad", "note": "Rare that spreads double strike to all attackers, directly synergizing with Siege Striker"},
+    {"name": "Veteran Swordsmith", "set": "Magic 2012", "note": "Comparable 'attacking-wide rewards' white aggro design pattern"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

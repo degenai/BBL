@@ -1,0 +1,44 @@
+{
+  "card_name": "Rain of Revelation",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "61",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rain of Revelation originated in Modern Horizons (June 2019, no. 65) — a set designed to introduce Modern-legal cards without going through Standard. The M21 reprint opened Standard availability and, because MH1 printed it at uncommon, the M21 common printing opened Pauper legality.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: '\"As the sky opened up, we ran for shelter. Halfway there I came to the sudden realization that, already soaked, there might be more to gain from experiencing the rain than running from it.\"' Unnamed speaker; reads as a meditation on the shift from avoidance to acceptance. The flavor text literalizes the card name — revelation arrives from surrender rather than seeking.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Nils Hamm had completed over 163 MTG illustrations as of September 2019. Hipsters of the Coast described his style as 'loose but legible, evocative but exact, and entirely unique.' His original paintings command premium art market prices: an Eldraine basic island sold for $4,400 in 2019; Glimmer Bairn sold for $28,000 at the MTG Art Market in 2021.",
+      "sources": [
+        "Hipsters of the Coast: Nils Hamm's Eldraine Basic Island Sells for $4,400, 2019-09",
+        "Hipsters of the Coast: Glimmer Bairn by Nils Hamm Sells for $28,000, 2021-06"
+      ]
+    },
+    {
+      "category": "mechanical",
+      "text": "Appears in approximately 4,860 Commander decks tracked by EDHREC (rank 13487). As a 4-mana instant draw-3-discard-1, it sees more Pauper play than Commander play — Pauper blue tempo decks value the instant-speed hand refill more than EDH lists do.",
+      "sources": ["EDHREC via WebSearch", "Scryfall legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tidings", "set": "Fifth Dawn", "note": "Classic 5-mana sorcery draw-4 comparison; Rain of Revelation trades one card and one mana for instant speed"},
+    {"name": "Chart a Course", "set": "Ixalan", "note": "Comparable blue draw-2 with discard rider; Rain of Revelation is the heavier slower version drawing three"},
+    {"name": "Frantic Search", "set": "Urza's Legacy", "note": "Related design: blue instant draw then discard with cost-reduction; Rain of Revelation is the cleaner no-untap version"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

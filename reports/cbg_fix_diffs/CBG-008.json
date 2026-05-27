@@ -1,0 +1,44 @@
+{
+  "cbg_slug": "CBG-008",
+  "finding_summary": "staff-of-the-magus-cycle.md asserts the cycle is common-rarity in 5+ prose loci; all five staves are uncommon per Scryfall AND per the card files' own frontmatter (rarity: U). The per-card bullets in the same node ('M14-219, U, ...') correctly show U but the surrounding thesis prose was copy-paste-imported from the common-rarity ktk-clan-banner-cycle.md sibling and never re-verified.",
+  "severity": "warn",
+  "fixes": [
+    {
+      "file": "cards/_characters/staff-of-the-magus-cycle.md",
+      "operation": "edit",
+      "before": "species: designer-coordinated cycle of five common colorless-cost lifegain artifacts, one per WUBRG color",
+      "after": "species: designer-coordinated cycle of five uncommon colorless-cost lifegain artifacts, one per WUBRG color",
+      "rationale": "Frontmatter species field carries the rarity claim; corrects from common to uncommon per Scryfall verification of all five staves."
+    },
+    {
+      "file": "cards/_characters/staff-of-the-magus-cycle.md",
+      "operation": "edit",
+      "before": "Magic 2014's five \"Staff of the Magus\" artifacts — Staff of the Sun Magus (W), Staff of the Mind Magus (U), Staff of the Death Magus (B), Staff of the Flame Magus (R), Staff of the Wild Magus (G) — are a designer-coordinated five-card cycle, one per WUBRG color, each a common colorless artifact costing `{3}` that triggers one life gained whenever you cast a spell of the corresponding color OR a basic land of the corresponding type enters.",
+      "after": "Magic 2014's five \"Staff of the Magus\" artifacts — Staff of the Sun Magus (W), Staff of the Mind Magus (U), Staff of the Death Magus (B), Staff of the Flame Magus (R), Staff of the Wild Magus (G) — are a designer-coordinated five-card cycle, one per WUBRG color, each an uncommon colorless artifact costing `{3}` that triggers one life gained whenever you cast a spell of the corresponding color OR a basic land of the corresponding type enters.",
+      "rationale": "Corrects the lead-paragraph rarity assertion (line 33)."
+    },
+    {
+      "file": "cards/_characters/staff-of-the-magus-cycle.md",
+      "operation": "edit",
+      "before": "The five Staff of the Magus artifacts as a designer-coordinated WUBRG common-artifact lifegain cycle: their shared structural slot (common, artifact, `{3}` colorless mana cost, two-axis trigger on spell-of-color-X-cast OR basic-land-of-type-X-enters, one life gained per trigger),",
+      "after": "The five Staff of the Magus artifacts as a designer-coordinated WUBRG uncommon-artifact lifegain cycle: their shared structural slot (uncommon, artifact, `{3}` colorless mana cost, two-axis trigger on spell-of-color-X-cast OR basic-land-of-type-X-enters, one life gained per trigger),",
+      "rationale": "Corrects the 'What this node anchors' section rarity claims (line 37)."
+    },
+    {
+      "file": "cards/_characters/staff-of-the-magus-cycle.md",
+      "operation": "edit",
+      "before": "The Staff of the Magus cycle is the cleanest Wizards-canonical M14 articulation of the *one-rock-per-color, two-axis-lifegain-trigger-at-common* design pattern.",
+      "after": "The Staff of the Magus cycle is the cleanest Wizards-canonical M14 articulation of the *one-rock-per-color, two-axis-lifegain-trigger-at-uncommon* design pattern.",
+      "rationale": "Corrects the design-thesis rarity claim (line 65) that frames the analytical reading."
+    },
+    {
+      "file": "cards/_characters/staff-of-the-magus-cycle.md",
+      "operation": "edit",
+      "before": "- **Roster is bounded at exactly five by Wizards' design.** The canonical membership is the five named Magus staves, no more and no fewer. The cycle structurally maps to WUBRG and the consecutive collector-number block at M14-219..223 confirms designer intent. No inferred-membership candidates; this is a strict five-card cycle.",
+      "after": "- **Roster is bounded at exactly five by Wizards' design.** The canonical membership is the five named Magus staves, no more and no fewer. The cycle structurally maps to WUBRG and the consecutive collector-number block at M14-219..223 confirms designer intent. No inferred-membership candidates; this is a strict five-card cycle. All five are printed at uncommon rarity at `{3}` colorless mana cost (Scryfall-verified across all printings).",
+      "rationale": "Adds an explicit rarity restatement to the roster caveat (line 96) so any future reader sees uncommon as the canonical claim and not common."
+    }
+  ],
+  "verification_command": "grep -n -i 'common, artifact\\|common-artifact\\|common colorless\\|trigger-at-common' cards/_characters/staff-of-the-magus-cycle.md && echo --- && curl -s 'https://api.scryfall.com/cards/named?exact=Staff+of+the+Death+Magus&set=m14' | python -c \"import json,sys; d=json.load(sys.stdin); print('Scryfall rarity:', d.get('rarity'))\"",
+  "uncertainty_notes": "The 'see also' caveat at line 95 says the cycle is the same precedent shape as ktk-clan-banner-cycle (which IS common) — that sibling claim now reads structurally as a rarity-mismatched sibling but architecturally consistent (both are 5-card colorless WUBRG/wedge artifact cycles with single-artist coverage). The 'see also' wording does not assert shared rarity, so no edit required there. Per-card bullets at lines 41-45 already carry 'U' correctly and do not need editing."
+}

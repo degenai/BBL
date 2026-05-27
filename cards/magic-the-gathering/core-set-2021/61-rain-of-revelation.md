@@ -74,3 +74,14 @@ A female-presenting figure with long dark hair stands facing slightly upward, bo
 **Iconography:** crescent-moon, glowing-eyes
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context / reprint history** — Rain of Revelation originated in Modern Horizons (June 2019, no. 65) — a set designed to introduce Modern-legal cards without going through Standard. Its M21 reprint made it available to Standard players for the first time and opened its Pauper-legal window (Modern Horizons printed it at uncommon; M21's common print opened Pauper legality). `[Scryfall]`
+- **Flavor text** — *"As the sky opened up, we ran for shelter. Halfway there I came to the sudden realization that, already soaked, there might be more to gain from experiencing the rain than running from it."* The quote has no named speaker — it reads as a first-person meditation on the shift from avoidance to acceptance. The flavor text does the design work of the card name: revelation arrives from surrender rather than seeking. `[Scryfall flavor_text]`
+- **Artist — Nils Hamm** — As of 2019 Nils Hamm had completed over 163 MTG illustrations, making him one of the more prolific active Magic artists. Hipsters of the Coast described his style as "loose but legible, evocative but exact, and entirely unique." His original paintings have sold at premium: an Eldraine basic island sold for $4,400 in 2019, and Glimmer Bairn sold for $28,000 at the MTG Art Market in 2021. `[Hipsters of the Coast: "Nils Hamm's Eldraine Basic Island Sells for $4,400", 2019-09; "Glimmer Bairn by Nils Hamm Sells for $28,000", 2021-06]`
+- **Mechanical reputation** — Rain of Revelation appears in approximately 4,860 Commander decks tracked by EDHREC (rank 13487). As a 4-mana instant draw-3-discard-1, it competes with the slower end of blue card selection; it sees more Pauper play than Commander play, where Pauper blue tempo decks value instant-speed hand refills. `[EDHREC, via WebSearch]` `[Scryfall legalities]`
+
+### Related cards
+- Tidings (Fifth Dawn, no. 53) — the classic 5-mana sorcery draw-4 comparison; Rain of Revelation trades one card and one mana for instant speed and the hand-refill discipline of discarding
+- Chart a Course (Ixalan, no. 48) — comparable blue draw-2 with a discard rider; Rain of Revelation is the heavier, slower version that draws three
+- Frantic Search (Urza's Legacy, no. 32) — related design: blue instant that draws then discards, with a cost-reduction twist; Rain of Revelation is the cleaner no-untap version

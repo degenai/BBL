@@ -1,0 +1,47 @@
+{
+  "card_name": "Light of Promise",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "25",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Light of Promise is an original card from Core Set 2021 (July 3, 2020), designed around the set's white lifegain theme. M21 featured vertical cycles around each mono-colored planeswalker; white's cycle leaned heavily on life-counter payoffs.",
+      "sources": ["Scryfall", "Wizards: Odds & Ends Core Set 2021, 2020-06-29"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'The light washed over him, and in the wind he heard the roars of all the pridemates who had come before.' References 'pridemates' — directly invoking Ajani's Pridemate and the leonin ancestral warrior tradition in white lifegain lore.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "design",
+      "text": "Previewed by Corocoro.jp on June 10, 2020 — a Japanese gaming magazine (also the venue for Pokémon and Nintendo previews), reflecting Wizards' practice of using Corocoro for Japanese-market MTG previews.",
+      "sources": ["Scryfall preview metadata"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 4339. Appears in Commander lifegain decks (~39% inclusion in Shalai and Hallar builds). Enables an infinite combo with Walking Ballista via lifelink: enchant Ballista, give it lifelink, loop ping-life-counter.",
+      "sources": ["EDHREC via WebSearch", "Scryfall edhrec_rank"]
+    },
+    {
+      "category": "design",
+      "text": "Functionally identical oracle text to Sunbond (Journey into Nyx, 2014): 'whenever you gain life, put that many +1/+1 counters on this creature.' Light of Promise is a reimagined Sunbond in the M21 frame. Only printed in M21 as of 2026 — no standard reprint.",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Ajani's Pridemate", "set": "Magic 2013", "note": "Flavor text directly references 'pridemates'; this aura is designed to sit on exactly this lifegain-counter type"},
+    {"name": "Sunbond", "set": "Journey into Nyx", "note": "Identical oracle text; Light of Promise is a functional redesign of this aura"},
+    {"name": "Trelasarra, Moon Dancer", "set": "Adventures in the Forgotten Realms", "note": "Another lifegain-counter payoff; Commander Spellbook lists Light of Promise combos alongside her"},
+    {"name": "Walking Ballista", "set": "Aether Revolt", "note": "Core piece of the infinite-life combo enabled by this card"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -73,3 +73,15 @@ A stocky bald humanoid warrior in white-grey plate armor stands at the center of
 **Creatures:** goblins
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Siege Striker is a new card from Core Set 2021 (July 3, 2020) and has not been reprinted in a standard set as of 2026 (the M21 foil promo variant is the only alternate printing per Scryfall). It fills the role of a white aggro threat designed for M21 limited, where tapping multiple creatures to pump it could represent a deciding combat swing. `[Scryfall]`
+- **Mechanic note** — The combination of double strike and a tap-to-pump ability creates a scaling combat threat: each creature tapped before damage adds 2 effective damage (once in first strike, once in regular). At its floor it is a 1/1 double striker for 3 mana — weak by itself; at its ceiling with two creatures tapped, a 3/3 double striker dealing 6 damage. The design explicitly rewards attacking wide. `[Scryfall oracle_text]`
+- **No flavor text** — Siege Striker carries no flavor text on either printing, which is somewhat unusual for a creature at this power level. The visual storytelling (outnumbered warrior, defiant posture) does the narrative work the text box would otherwise do. `[Scryfall]`
+- **Artist — Zoltan Boros** — Siege Striker and Makeshift Battalion (no. 26, also in this wave) are both illustrated by Zoltan Boros in M21, making him responsible for two of the set's white aggro common/uncommon creatures. Boros (the artist, not the guild) is a prolific MTG illustrator known for action-focused figure work and the human-soldier aesthetic that runs through both pieces. `[Scryfall artist field]`
+- **EDHREC rank** — EDHREC rank of 23470, indicating minimal Commander presence. Siege Striker's design is linear toward attacking-wide strategies rather than the more toolbox-style cards that Commander players favor. `[Scryfall edhrec_rank]`
+
+### Related cards
+- Makeshift Battalion (Core Set 2021, no. 26) — also illustrated by Zoltan Boros in M21; the two together form a coherent white aggro pair in the same set with the same color/artist
+- Odric, Lunarch Marshal (Shadows Over Innistrad, no. 28) — a rare that spreads combat keywords including double strike to all your attackers, synergizing with Siege Striker's double strike
+- Veteran Swordsmith (Magic 2012, no. 33) — comparable "attacking-wide" white aggro design that rewards building out a board

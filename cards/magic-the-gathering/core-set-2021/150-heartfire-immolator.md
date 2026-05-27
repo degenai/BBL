@@ -73,3 +73,14 @@ A robed humanoid figure stands in the lower center of the frame, back mostly to 
 **Iconography:** fire-spiral, vortex
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context / preview** — Heartfire Immolator is a new card from Core Set 2021 (July 3, 2020), first printed in M21 and reprinted in Foundations (November 2024). The card was previewed in a Wizards article focused on Fiery Emancipation (the "triple damage" enchantment) — the preview framed Heartfire as the combo piece: pump it with prowess, then sacrifice it with Fiery Emancipation out for triple its power in damage. The article's pitch was dealing 21 damage from a 7-power Immolator. `[Wizards.com: "Triple Your Pleasure, Triple Your Fun", magic.wizards.com, 2020-06-10]`
+- **Flavor text** — *"I'd rather go out in a blaze of glory than fade away and be forgotten."* No attributed speaker — the voice belongs to the figure themselves, announcing the sacrifice as a preference. The mechanic (sacrifice the creature for damage equal to its power) literalizes the quote: the immolator converts their own accumulated power into one final act. `[Scryfall flavor_text]`
+- **Artist — Donato Giancola** — Giancola has created approximately 166 MTG illustrations since his 1996 debut in Mirage, appearing in 58 sets. He is a multi-award winning illustrator: Hamilton King Award (Society of Illustrators), 23 Chesley Awards, three Artist Hugo Awards. Hipsters of the Coast described him as someone with "the quality that upon meeting, you feel like you're connecting with an old friend." The Heartfire Immolator painting — a wide-frame back-to-viewer shot with a towering fire vortex — is consistent with his tradition of figures dwarfed by cosmic scale. `[Hipsters of the Coast: "Donato Giancola Land Panorama", 2018-12]` `[Wikipedia: Donato Giancola]`
+- **Mechanical note** — The sacrifice ability has a notable rules interaction confirmed in Scryfall rulings: opponents cannot take actions between the activation and the sacrifice — they cannot try to lower the Immolator's power (e.g., with a -1/-1 effect) after the ability is on the stack. This makes the ability's damage output locked at activation. `[Scryfall rulings, via WebSearch]`
+
+### Related cards
+- Fiery Emancipation (Core Set 2021, no. 139) — the card this was previewed alongside; tripling the Immolator's sacrifice damage is the headline synergy from the Wizards preview article `[Wizards.com preview]`
+- Goblin Arsonist (Magic 2012, no. 137) — cited in the same Wizards article as the simpler version of the "sacrifice for damage" design pattern
+- Prowess creatures broadly (e.g., Monastery Swiftspear, Khans of Tarkir no. 115) — Heartfire Immolator is the red prowess creature designed to turn spell-pumping into lethal removal via sacrifice

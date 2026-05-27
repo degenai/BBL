@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - pirate
+  - ship
+  - sea-battle
+  - warrior
+  - villain
+  - orc
+  - sacrifice
+  - boarding-action
+  - combat
+  - brute
+  - raider
+  - chaos
+tags_filter:
+  - group
+  - action
+  - mid-shot
+  - forward-facing
+  - multicolor-black-red
+  - creature-orc-warrior
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/core-set-2021/217-dire-fleet-warmonger.png
 average_cost_paid: 0
 market_price: 0.13
@@ -29,6 +48,28 @@ mana_cost: "{1}{B}{R}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: ocean
 ---
 
 # Dire Fleet Warmonger (Core Set 2021)
+
+## Vision
+
+![217-dire-fleet-warmonger](../../_images/magic-the-gathering/core-set-2021/217-dire-fleet-warmonger.png)
+
+A large, heavily muscled humanoid figure — visible tusks protruding from a pronounced jaw — leaps forward across ship deck rigging, a broad sword raised aloft. The figure wears a leather harness and dark pants, torso largely bare. Below and ahead of the primary figure, a small creature with pale fur and an open screaming mouth tumbles or scrambles on the deck planks. A second, smaller humanoid figure in dark clothing and a red headband is visible in the middle background, also in motion on the same deck. The setting is clearly a ship — ropes, rigging lines, and wooden planking are all visible. A pale sky with clouds and a suggestion of sail fabric fills the upper background. The composition is dynamic and angled, conveying violence and momentum.
+
+**Subject:** A tusked, muscular humanoid leaps forward on ship rigging with a raised sword while a small screaming creature and a second figure scramble below on the deck
+
+**Composition:** mid-shot, action, figures: group, facing: forward
+**Setting:** ocean, day, clear
+**Foreground:** Tusked humanoid leaping with raised sword, small screaming creature below  *(palette: brown, grey, cream, red)*
+**Background:** Ship deck with ropes and rigging, second humanoid figure, pale sky  *(palette: cream, blue, tan, pink)*
+**Mood / lighting:** action, harsh
+**Emotion read:** Aggression and dominance; the primary figure's posture is all-out attack; the smaller creature screams in fear or battle-frenzy
+**Objects:** sword, ship rigging, rope, leather harness
+**Creatures:** small creature, goblin-type creature
+**Genre cues:** fantasy
+

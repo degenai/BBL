@@ -73,3 +73,14 @@ A humanoid warrior wearing white-and-gold plate armor with a crested helmet char
 **Objects:** plate-armor, helmet, sash
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context / reprint history** — Makeshift Battalion originated in War of the Spark (May 3, 2019) as a common in that set's Boros-adjacent shell, then was reprinted in Core Set 2021 (July 2020) and again in Ravnica Remastered (January 2024). The same Zoltan Boros art carries across all three printings. `[Scryfall]`
+- **Mechanic origin** — Battalion was originally the Boros Legion guild mechanic in Gatecrash (2013). According to Mark Rosewater, the mechanic was designed by Shawn Main during Great Designer Search 2 and was chosen for Boros specifically because MaRo felt Boros's original Ravnica mechanic (radiance) was the least flavorful guild mechanic in the first block — Battalion was the corrective. The flavor of strength-in-numbers for the soldier-heavy Boros perfectly fit the guild's aggressive identity. `[Wizards.com: "Storming the Gatecrash, Part 2", 2013-01-28]`
+- **Flavor text** — *"Their ranks are thin, their formation is improvised, their weapons are borrowed, and you'd best get out of their way."* The text explicitly names all three resource deficits ("thin," "improvised," "borrowed") as irrelevant to the threat. This mirrors the card's mechanical identity: a 3/2 with upside even without consistent attack triggers. `[Scryfall flavor_text]`
+- **Format notes** — Pauper legal, which is notable: Battalion creatures are rarely efficient enough for Pauper but Makeshift Battalion's raw 3/2 statline for 3 mana makes it playable in aggressive Pauper white lists as a standalone threat. EDHREC rank is 21610 — low Commander presence, fitting for a combat-focused common. `[Scryfall legalities]` `[EDHREC rank, Scryfall]`
+
+### Related cards
+- Odric, Master Tactician (Magic 2013, no. 22) — the card that nearly forced Gatecrash to rethink Battalion's existence; Rosewater recounts trying to have Odric changed once battalion was locked in for Boros `[Wizards.com: "Storming the Gatecrash, Part 2"]`
+- Troop Leader (Gatecrash, no. 32) — the original rare Battalion creature, the mechanic's face card
+- Firemane Commando (Commander Masters, various) — more recent Boros creature with the same attack-with-others trigger pattern

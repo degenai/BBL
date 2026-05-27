@@ -75,3 +75,16 @@ A leonin figure — lion-featured humanoid in layered copper and brown armor —
 **Iconography:** radiant-energy, light-rays
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Light of Promise is an original card from Core Set 2021 (released July 3, 2020), designed around the set's white lifegain theme anchored by Teferi as the face planeswalker. M21 featured vertical cycles around each mono-colored planeswalker; white's cycle leaned heavily on life-counter payoffs. `[Scryfall]` `[Wizards: "Odds & Ends: Core Set 2021", magic.wizards.com, 2020-06-29]`
+- **Flavor text** — *"The light washed over him, and in the wind he heard the roars of all the pridemates who had come before."* The reference to "pridemates" directly invokes Ajani's Pridemate, the leonin soldier token type associated with white lifegain going back to Magic 2013 — the flavor implies a cultural/ancestral memory among leonin warriors. `[Scryfall flavor_text]`
+- **Preview note** — This card was previewed by Corocoro.jp on June 10, 2020, a Japanese gaming magazine (also the venue for Pokémon and Nintendo previews). Wizards frequently uses Corocoro for Japanese-market MTG previews, reflecting the game's deep fanbase in Japan. `[Scryfall preview metadata]`
+- **Mechanical reputation** — Light of Promise holds an EDHREC rank of 4339, appearing in Commander decks built around lifegain payoffs (notably Shalai and Hallar at ~39% inclusion). It also enables an infinite combo with Walking Ballista: enchant the Ballista with Light of Promise, give it lifelink, then use its ping ability to loop life-and-counter gains. `[EDHREC, via WebSearch]`
+- **Design note** — This is one of Light of Promise's only printings; unlike most M21 commons, it has not been reprinted as of 2026. The oracle text mirrors the older enchantment Sunbond (Journey into Nyx, 2014), which had the identical "whenever you gain life, put that many +1/+1 counters on this creature" templating — making Light of Promise a functional reprint of that aura's effect in a different art frame. `[Scryfall]`
+
+### Related cards
+- Ajani's Pridemate (Magic 2013, various) — the flavor text directly references "pridemates"; this aura is designed to sit on exactly this type of lifegain-counter creature
+- Sunbond (Journey into Nyx, no. 29) — identical oracle text; Light of Promise is essentially a redesigned Sunbond for the M21 frame
+- Trelasarra, Moon Dancer (Adventures in the Forgotten Realms, no. 34) — another lifegain-counter payoff creature; Commander Spellbook lists Light of Promise combos alongside her
+- Walking Ballista (Aether Revolt, no. 181) — the other half of the Triskelion/Ballista infinite-life combo enabled by this card `[EDHREC combo data, via WebSearch]`

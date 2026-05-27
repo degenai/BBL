@@ -1,0 +1,16 @@
+{
+  "cbg_slug": "CBG-010",
+  "finding_summary": "ktk-gain-lands.md Caveats list (line 75) claims Thornwood Falls is 'FRF-169 — the missing 5th FRF refuge'. Scryfall canonical: Thornwood Falls is FRF-173 (G/U); FRF-169 is Jungle Hollow (B/G), which the same caveat sentence already lists separately as a different missing cycle member. Two distinct cycle members have been conflated at the collector-number layer.",
+  "severity": "note",
+  "fixes": [
+    {
+      "file": "cards/_characters/ktk-gain-lands.md",
+      "operation": "edit",
+      "before": "- **Cycle members canonical at the KTK+FRF scope but not yet in BBL inventory.** Five members are in the corpus and pointered to this node (see `appears_on:`); five are Scryfall-confirmed but not yet acquired and will attach to this node when they land via a future Collectr CSV upload: **Jungle Hollow** (B/G), **Scoured Barrens** (W/B), **Swiftwater Cliffs** (U/R), **Thornwood Falls** (G/U, FRF-169 — the missing 5th FRF refuge), **Wind-Scarred Crag** (R/W) — though the Core Set 2021 reprint of Wind-Scarred Crag (M21-259) is in the corpus and is a candidate for the same attach in a future pass.",
+      "after": "- **Cycle members canonical at the KTK+FRF scope but not yet in BBL inventory.** Five members are in the corpus and pointered to this node (see `appears_on:`); five are Scryfall-confirmed but not yet acquired and will attach to this node when they land via a future Collectr CSV upload: **Jungle Hollow** (B/G, FRF-169), **Scoured Barrens** (W/B, FRF-171), **Swiftwater Cliffs** (U/R, FRF-172), **Thornwood Falls** (G/U, FRF-173 — the 5th FRF refuge missing from BBL), **Wind-Scarred Crag** (R/W, FRF-175) — though the Core Set 2021 reprint of Wind-Scarred Crag (M21-259) is in the corpus and is a candidate for the same attach in a future pass.",
+      "rationale": "Corrects Thornwood Falls' collector number from FRF-169 to FRF-173 (Scryfall-verified). Annotates the other four missing-from-BBL refuges with their canonical FRF collector numbers (Jungle Hollow 169, Scoured Barrens 171, Swiftwater Cliffs 172, Wind-Scarred Crag 175) so future readers can disambiguate at the collector-number layer."
+    }
+  ],
+  "verification_command": "curl -s 'https://api.scryfall.com/cards/named?exact=Thornwood+Falls&set=frf' | python -c \"import json,sys; d=json.load(sys.stdin); print('Scryfall Thornwood Falls FRF cn:', d.get('collector_number'))\" && echo --- && curl -s 'https://api.scryfall.com/cards/named?exact=Jungle+Hollow&set=frf' | python -c \"import json,sys; d=json.load(sys.stdin); print('Scryfall Jungle Hollow FRF cn:', d.get('collector_number'))\" && echo --- && grep -n 'FRF-169\\|FRF-173\\|Thornwood' cards/_characters/ktk-gain-lands.md",
+  "uncertainty_notes": "Scryfall returns 15 cards for s:frf t:land r:common (10 refuges + 5 basic lands); the refuge cycle members are the 10 dual-color entries. All 10 collector numbers cross-checked above. No other instance of 'FRF-169' or 'Thornwood Falls' appears in the node body, so the single-line caveat fix is sufficient."
+}

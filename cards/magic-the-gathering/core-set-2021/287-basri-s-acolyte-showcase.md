@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - catfolk
+  - cleric
+  - healing
+  - battlefield
+  - radiant
+  - blessing
+  - white-magic
+  - guardian
+  - acolyte
+  - devotion
+  - armor
+  - paladin
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - white-magic
+  - creature-cat-cleric
+  - portrait-mode
+  - lifelink
 reference_image: cards/_images/magic-the-gathering/core-set-2021/287-basri-s-acolyte-showcase.png
 average_cost_paid: 0
 market_price: 0.14
@@ -30,6 +49,36 @@ mana_cost: "{2}{W}{W}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: indeterminate
+setting: other
+subject_known_ip: true
+suspected_ip: Basri Ket
+ip_confidence: low
+ip_verified: false
 ---
 
 # Basri's Acolyte (Showcase) (Core Set 2021)
+
+## Vision
+
+![287-basri-s-acolyte-showcase](../../_images/magic-the-gathering/core-set-2021/287-basri-s-acolyte-showcase.png)
+
+> [!warning] Suspected IP: **Basri Ket** (confidence: low, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+A feline humanoid — catfolk with a visible muzzle, whiskers, and rounded animal ears — stands in a wide, arms-outstretched stance. The figure wears golden scale armor on the torso and a long white cloak or cape that billows behind. Both hands are open and extended, each surrounded by a glowing ring or orb of radiant white-gold magical energy. The face is calm and purposeful. The background shows an overcast sky, churning grey-blue clouds, and ground that suggests a battlefield or open plain — blades of grass, faint suggestion of fallen weapons, and an atmospheric haze at the horizon. The overall composition is portrait-like with a heroic wide stance.
+
+**Subject:** A catfolk humanoid in golden scale armor and a white cloak stands on a battlefield with glowing magical orbs in each outstretched hand
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** other, indeterminate, storm
+**Foreground:** Catfolk figure in golden armor and white cloak, magical orbs in each hand  *(palette: gold, white, cream)*
+**Background:** Overcast battlefield plain, grey-blue clouds, hazy horizon  *(palette: grey, blue, cream, tan)*
+**Mood / lighting:** sublime, soft
+**Emotion read:** Calm resolve; arms wide open, expression serene and purposeful; a protective or blessing stance
+**Objects:** golden scale armor, white cloak
+**Creatures:** catfolk
+**Iconography:** glowing orbs, radiant magic
+**Genre cues:** fantasy
+

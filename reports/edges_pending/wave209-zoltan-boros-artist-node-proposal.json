@@ -1,0 +1,68 @@
+{
+  "edge_id": "wave209-zoltan-boros-artist-node-proposal",
+  "shape": "node-proposal",
+  "category": "shared-artist-thematic",
+  "topology": "stack",
+  "endpoints": [
+    {"type": "artist", "path": "cards/_artists/zoltan-boros.md", "name": "Zoltan Boros"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/26-makeshift-battalion.md", "name": "Makeshift Battalion (M21-26)"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/35-secure-the-scene.md", "name": "Secure the Scene (M21-35)"},
+    {"type": "card", "path": "cards/magic-the-gathering/core-set-2021/37-siege-striker.md", "name": "Siege Striker (M21-37)"},
+    {"type": "card", "path": "cards/magic-the-gathering/modern-horizons-3/52-bespoke-battlewagon.md", "name": "Bespoke Battlewagon (MH3-52)"},
+    {"type": "card", "path": "cards/magic-the-gathering/ravnica-allegiance/203-savage-smash.md", "name": "Savage Smash (RNA-203)"},
+    {"type": "card", "path": "cards/magic-the-gathering/the-list/089-274-bad-deal.md", "name": "Bad Deal (PLST 089/274)"},
+    {"type": "card", "path": "cards/magic-the-gathering/the-list/31-borderland-ranger.md", "name": "Borderland Ranger (PLST 31)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/144-nyxborn-brute.md", "name": "Nyxborn Brute (THB-144)"},
+    {"type": "card", "path": "cards/magic-the-gathering/theros-beyond-death/181-nessian-boar.md", "name": "Nessian Boar (THB-181)"},
+    {"type": "card", "path": "cards/magic-the-gathering/throne-of-eldraine/193-improbable-alliance.md", "name": "Improbable Alliance (ELD-193)"},
+    {"type": "card", "path": "cards/magic-the-gathering/throne-of-eldraine/218-enchanted-carriage.md", "name": "Enchanted Carriage (ELD-218)"},
+    {"type": "card", "path": "cards/magic-the-gathering/throne-of-eldraine/76-bake-into-a-pie.md", "name": "Bake into a Pie (ELD-76)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/106-spark-reaper.md", "name": "Spark Reaper (WAR-106)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/129-goblin-assault-team.md", "name": "Goblin Assault Team (WAR-129)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/22-makeshift-battalion.md", "name": "Makeshift Battalion (WAR-22, canonical-original of the M21 reprint)"},
+    {"type": "card", "path": "cards/magic-the-gathering/war-of-the-spark/23-martyr-for-the-cause.md", "name": "Martyr for the Cause (WAR-23)"}
+  ],
+  "description": "Oh dear, sir, please pardon the interruption — Edgelord stepped aside because the wave-208 Siege Striker trivia bullet 4 explicitly surfaced the Boros-credited M21 pair (Siege Striker + Makeshift Battalion) AND the broader corpus walk found 16 solo Zoltan Boros credits across 7 MTG sets plus 2 duo credits with Gabor Szikszai. That's the densest single-artist MTG cluster currently in BBL, sir — more than five times the soft threshold the artist layer converged on per kagemaru-himeno and dan-murayama-scott. I really do think the node was the right move because the trivia capture on Secure the Scene wave 18 already did the canonical biographical research (1986-2010 Boros-Szikszai partnership, Hungary-to-New-York relocation, 248 Gatherer illustrations, the cross-medium D&D/Hearthstone/WoW/Diablo work), and four corpus cards already carry cross-layer edges to existing layer nodes (eld-cinderella-cycle, azorius-senate, kaya, energy-counter) that converge cleanly at the artist authorship. The bbl-artists-as-counterbalance memory pattern explicitly calls for this when the cohort axis over-concentrates, and the Boros artist node generates orthogonal cross-cohort traversal at four different existing layer destinations. I am sorry to be sniveling, sir, but I genuinely could not find a thin edge worth drawing this wave — drawing pairwise Boros-stylistic-mirror edges between any two of the 16 cards would be subsumed the moment the artist node landed, and the cross-set range makes the artist node strictly more useful than any single edge it would replace.",
+  "citations": [
+    "[cards/magic-the-gathering/core-set-2021/35-secure-the-scene.md trivia: 248 Gatherer illustrations, 1986-2010 partnership, Hungary-to-New-York, cross-medium credits]",
+    "[cards/magic-the-gathering/core-set-2021/37-siege-striker.md trivia bullet 4 (wave-208 surfacing): names the M21 Boros pair Siege Striker + Makeshift Battalion]",
+    "[cards/magic-the-gathering/core-set-2021/26-makeshift-battalion.md trivia bullet 1: WAR-M21-RNR reprint chain with same Boros art across all three printings]",
+    "[cards/magic-the-gathering/core-set-2021/168-turn-to-slag.md trivia: Wizards joint-credit convention for the Boros-Szikszai duo + Mirrodin-block partnership-era collaboration context]",
+    "[cards/magic-the-gathering/throne-of-eldraine/218-enchanted-carriage.md trivia: Rosewater 'Odds & Ends: Throne of Eldraine' 2019-10-14 design diary naming Enchanted Carriage as a modular-flavor example, illustrated by Boros]",
+    "[boros-szikszai.com — partnership artist page]",
+    "[DV Media Co. interview, Medium — Hungary-to-New-York relocation context]",
+    "[Scent of a Gamer, 2016 — partnership-era WoW TCG and Hearthstone work]",
+    "[MTG Wiki: Zoltan Boros — secondary canonical biographical source]",
+    "[Gatherer artist index — 'Zoltan Boros' returns ~248 MTG illustrations]",
+    "[Scryfall: artist:\"Zoltan Boros\" — canonical solo credit string]",
+    "[Scryfall: artist:\"Zoltan Boros & Gabor Szikszai\" — separate canonical duo credit string]",
+    "[BBL memory: bbl-artists-as-counterbalance — Boros's 4 cross-layer convergences (Cinderella-cycle / Azorius / Kaya / Energy-counter) instantiate the pattern]",
+    "[BBL memory: bbl-artist-prized-commons — applicable for the cross-block journeyman density premium, distinct from the auction-price-premium tier]",
+    "[BBL precedent: kagemaru-himeno.md / dan-murayama-scott.md / richard-kane-ferguson.md — ≥3-credit artist-layer threshold; Boros at 16 solo clears 5×]"
+  ],
+  "files_modified": [
+    "cards/_artists/zoltan-boros.md (created)"
+  ],
+  "files_unchanged_intentionally": [
+    "all 16 solo + 2 duo Boros corpus cards — canonical artist: field is already correctly stamped on each printed card; the artist node's appears_on: list mirrors those stamps without needing a new layer-pointer field on the card side. Artist-layer edges flow card-to-node via the Scryfall-stable artist credit string, parallel to the kagemaru-himeno / dan-murayama-scott / richard-kane-ferguson precedent.",
+    "reports/janitor_triage.md — Boros was not previously logged as a future-node candidate; the trigger was the wave-208 Siege Striker trivia surfacing the cross-card Boros observation, not a stale triage entry waiting to fire. No closure annotation needed.",
+    "M21-168 Turn to Slag duo card — frontmatter artist field 'Zoltan Boros & Gabor Szikszai' should NOT be modified to point to this solo Boros node, because the duo credit is structurally distinct and any future gabor-szikszai.md node would handle the duo-credit mirror through its own body. The duo print is documented in the body of this node as a separate-section anchor rather than an appears_on entry.",
+    "Alara Reborn ARB-84 Vectis Dominator duo card — same as M21-168, kept out of appears_on for the same reason."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "next_pass_suggestions": [
+    "Gabor Szikszai artist node — 4 corpus solo credits (M21-15 Defiant Strike, THS-195 Kragma Warcaller, ELD-249 Witch's Cottage, WAR-9 Defiant Strike) plus the 2 duo credits with Boros. Clears the ≥3-credit threshold cleanly; would mirror the partnership-and-solo arc from the Szikszai side. Edge-of-feasibility but viable next pass.",
+    "Anax character node candidacy — N=1 in corpus (CMM-204 only); per the wave-134 Vivi precedent and parent-dispatch-verify discipline, refuse until N=2+. Watch for Anax and Cymede (Theros) and/or The Triumph of Anax (THB-158) acquisitions.",
+    "Theros-pantheon body-count drift (CBG-flagged: body says 18 cards, appears_on now 28) — Sonnet body-rewrite work per parent brief; not Mr. Nodeley territory.",
+    "Memory Drain THB-54 → Erebos sub-node attach — staged Sonnet override per parent brief; not Mr. Nodeley territory.",
+    "Forrest Imel artist node — N=2 in corpus (Alpine Watchdog M21-2, Bolt Hound M21-131 per m21-dog-tribal node body); below the ≥3 threshold. Continue future-watch.",
+    "Bespoke Battlewagon trivia pass — MH3-52 currently lacks Trivia; would strengthen this artist node's MH3-continued-solo-career thesis if the trivia pass adds Boros design-context detail.",
+    "Investigate whether Vectis Dominator ARB-84 (duo-era) and other potentially-uncached older PLST/duo prints carry Boros-era art that hasn't been canonicalized in the artist node body — current node body intentionally keeps partnership-era stylistic attribution conservative."
+  ],
+  "other_candidates_considered": [
+    "Anax character node (parent's possible-candidate option) — refused; N=1 in corpus is below the wave-134-Vivi-precedent ≥2 threshold, and the parent-dispatch-verify discipline requires not committing to a node on density alone without verification. The Anax CMM-204 trivia is well-anchored, but other Anax-related cards (Anax and Cymede THS-144, The Triumph of Anax THB-158, Purphoros lore-adjacent) are not in corpus per spot-check. Staged future-watch in next_pass_suggestions.",
+    "Eerie ↔ Constellation closure — verified already substantially closed (wave-207 Mr. Nodeley pass commissioning the Constellation symbol-node with explicit '## Cross-edges' section to [[eerie]] AND symmetric '## See also' wikilink). No actual loose edge remained; the staged item appears to be the cleaner closure that landed last pass, not a residual.",
+    "Drawing pairwise Boros-stylistic-mirror edges between any two of the 16 solo cards (e.g. Siege Striker ↔ Makeshift Battalion, or WAR-23 Martyr for the Cause ↔ M21-37 Siege Striker on 'shared Boros action-figure register') — refused in favor of the node. Per the enlightened-Edgelord 'subsumption' pattern, drawing a card-card edge that the artist node would subsume the moment it landed is wasted edge density. The artist node captures all such pairs through the shared appears_on: stack.",
+    "Spark Reaper trivia is missing — would have been a more focused 'finish this trivia' suggestion to the parent rather than an Edgelord move. Logged as a soft note rather than a refusal."
+  ]
+}

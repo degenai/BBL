@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - forest
+  - running
+  - hunter
+  - companion
+  - big-cat
+  - lion
+  - spirit-bond
+  - wilderness
+  - archer
+  - predator
+  - nature-magic
+  - partnership
+tags_filter:
+  - duo
+  - action
+  - mid-shot
+  - faces-right
+  - green-magic
+  - creature-elf
+  - scene-mode
 reference_image: cards/_images/magic-the-gathering/core-set-2020/205-woodland-champion--foil.png
 average_cost_paid: 0
 market_price: 0.3
@@ -30,6 +49,29 @@ mana_cost: "{1}{G}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: day
+setting: forest
 ---
 
 # Woodland Champion (Core Set 2020)
+
+## Vision
+
+![205-woodland-champion--foil](../../_images/magic-the-gathering/core-set-2020/205-woodland-champion--foil.png)
+
+A figure in layered green leather armor sprints through a bright, dappled forest. The figure holds a short blade in one hand and wears a red scarf around the neck. Alongside and slightly behind runs an enormous lion-like big cat — maned, muscular, with luminous teal eyes suggesting a supernatural or spirit-bonded nature. The forest is saturated with green light filtering through the canopy. The composition emphasizes forward motion and partnership between the humanoid and the creature.
+
+**Subject:** A humanoid figure in layered green armor runs through a sunlit forest alongside a large lion-like big cat with glowing teal eyes
+
+**Composition:** mid-shot, action, figures: duo, facing: right
+**Setting:** forest, day, clear
+**Foreground:** Humanoid figure in green armor mid-stride, short blade in hand, red scarf at neck  *(palette: green, brown, red)*
+**Background:** Sunlit forest canopy, dappled light, large lion-like creature with glowing teal eyes  *(palette: green, gold, teal, cream)*
+**Mood / lighting:** action, soft
+**Emotion read:** Determined forward momentum; the figure's expression is focused and confident; the creature flanks protectively
+**Objects:** short blade, leather armor, red scarf
+**Creatures:** lion, big cat, spirit-bonded creature
+**Iconography:** glowing teal eyes
+**Genre cues:** fantasy
+
