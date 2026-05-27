@@ -1,0 +1,48 @@
+{
+  "card_name": "Glyph Elemental",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "27",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Modern Horizons 3 (released June 14, 2024) is a draft-innovation set designed to inject powerful cards directly into Modern and Commander without passing through Standard. MH3 organized its draft archetypes around three major themes: Energy, Eldrazi, and Modified. Glyph Elemental sits in the Modified-adjacent white slot, where +1/+1 counters and Aura synergies reinforce the Bestow-Landfall engine. [Scryfall: set_type draft_innovation, released_at 2024-06-14]",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Glyph Elemental is an Enchantment Creature — Elemental with dual identity via Bestow {1}{W}: cast as a creature it grows itself on Landfall; cast as an Aura it funnels those counters to the enchanted creature instead. MTGAZone's MH3 white limited review rated it 3.5/5, noting that cheap Bestow creatures are unusually resilient in limited formats because they negate most of the risk of playing Auras — the enchanted creature dying simply leaves a live 2/2 body that continues accruing counters. Its EDHREC rank of 9,340 reflects modest Commander traction; it is a draft-role card rather than a constructed pillar. [MTGAZone MH3 White Limited Set Review; Scryfall EDHREC rank]",
+      "sources": ["MTGAZone: Modern Horizons 3 MH3 Limited Set Review White", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Glyph Elemental is a first printing with no reprint history as of 2025. Art credit: Domenico Cava. The card carries the enchantment-frame aesthetic (sunburst border treatment) matching its Enchantment Creature type line, a frame effect active in MH3's white enchantment-creature cycle. [Scryfall: frame_effects enchantment, artist Domenico Cava]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Dog Umbra",
+      "set": "Modern Horizons 3",
+      "note": "Another white Bestow / Aura enchantment creature in MH3 white — same limited role, same enchantment-frame treatment"
+    },
+    {
+      "name": "Emissary of Soulfire",
+      "set": "Modern Horizons 3",
+      "note": "MH3 white modified-matters payoff in the same draft archetype cluster as Glyph Elemental"
+    },
+    {
+      "name": "Indebted Spirit",
+      "set": "Modern Horizons 3",
+      "note": "MH3 white creature that rewards modified permanents, shares the counter-accumulation theme"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

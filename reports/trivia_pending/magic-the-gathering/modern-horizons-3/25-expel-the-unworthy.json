@@ -1,0 +1,41 @@
+{
+  "card_name": "Expel the Unworthy",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "25",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "No suspected_ip flag on this card.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Expel the Unworthy is a common Sorcery from Modern Horizons 3, released June 14, 2024. MH3 is a draft-innovation set that injects cards directly into Modern without passing through Standard. The set returned over 70 keyword abilities and mechanics including Kicker, which appears on this card.",
+      "sources": ["Scryfall API: set_name, released_at", "Wizards of the Coast mechanics article for Modern Horizons 3"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's kicker structure creates a scalable exile spell: base mode (1W) targets only creatures with mana value 3 or less; kicked mode (additional 2W) targets any creature. The controller of the exiled creature gains life equal to its mana value in either case, functioning as a consolation clause that softens the political cost in multiplayer.",
+      "sources": ["Scryfall API: oracle_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Expel the Unworthy carries an EDHREC rank of 22,207, indicating low Commander adoption. Its sorcery speed is the primary limiting factor: white has access to more efficiently-costed exile at sorcery speed, and the life-gain rider does not offset the tempo disadvantage for competitive play. Legal in Modern, Pauper, Legacy, and Commander.",
+      "sources": ["Scryfall API: edhrec_rank, legalities"]
+    },
+    {
+      "category": "design",
+      "text": "The card was previewed on May 27, 2024 by Marshall Sutcliffe, longtime co-host of the Limited Resources podcast and former Wizards content creator.",
+      "sources": ["Scryfall API: preview source and source_uri fields"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Path to Exile", "set": "various", "note": "Canonical white exile benchmark; Expel is commonly measured against it"},
+    {"name": "Prismatic Ending", "set": "Modern Horizons 2", "note": "MH-series white exile with flexible targeting; competitive bar in the Modern context"},
+    {"name": "Journey to Nowhere", "set": "Zendikar", "note": "Budget Pauper-legal white removal for comparison in the Pauper context where Expel is also legal"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

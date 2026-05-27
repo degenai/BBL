@@ -75,3 +75,16 @@ A hulking tracked vehicle fills the frame, constructed from riveted copper and b
 **Iconography:** lightning, purple energy, mechanical gears
 **Genre cues:** fantasy, steampunk
 
+## Trivia
+
+- **Set context** — Modern Horizons 3 (released June 14, 2024) made Energy its headliner mechanic, the first time Energy had returned as a prominent draft theme since Kaladesh/Aether Revolt (2016-2017). MH3 anchored this with an Energy-themed Commander precon ('Creative Energy') and seeded energy producers throughout the draft environment. Bespoke Battlewagon slots in as a blue Artifact Vehicle that generates two energy per tap and converts stored energy into creature-tap, card draw, or self-animation, functioning as a multi-role energy sink. `[Scryfall: set_type draft_innovation; EDHREC: Creative Energy Precon Review MH3]`
+
+- **Design / artist** — Art credit: Zoltan Boros (solo credit, confirmed via Scryfall). Bespoke Battlewagon is one of five unique illustrations Boros contributed to MH3 solo — the others are Galvanic Discharge (no. 122), Sevinne's Reclamation (no. 267), White Orchid Phantom (no. 47), and a retro-frame variant of Eladamri, Korvecdal (no. 423). Boros worked as half of the 'Boros-Szikszai' illustration partnership with Gabor Szikszai for approximately 25 years (1986-2010), contributing extensively to MTG, D&D, Star Wars RPG, and World of Warcraft TCG, before the formal collaboration ended when Boros relocated to New York State; all five MH3 credits are solo Boros work produced post-dissolution. `[Scryfall: artist Zoltan Boros; Boros-Szikszai.com partnership history]`
+
+- **Mechanical reputation** — Bespoke Battlewagon holds an EDHREC rank of approximately 6,100, the strongest Commander showing of the four MH3 cards in this batch, reflecting adoption in energy-focused Commander decks. EDHREC data shows it appearing frequently alongside energy-centric commanders including Satya, Aetherflux Genius and Iron Man, Titan of Innovation (Universes Beyond). The card was previewed by pro player Javier Dominguez on his Twitter/X account (May 28, 2024). It was reprinted in Aetherdrift Commander (DRC no. 71, released February 14, 2025) in the Living Energy Commander deck, confirming recognized status as a supporting energy engine. `[Scryfall: preview source Javier Dominguez; Scryfall DRC reprint; EDHREC: Bespoke Battlewagon card page]`
+
+### Related cards
+- Galvanic Discharge (MH3, no. 122) — also illustrated by Zoltan Boros in MH3; fellow energy-theme card
+- White Orchid Phantom (MH3, no. 47) — also illustrated by Zoltan Boros in MH3; rare solo credit
+- Sevinne's Reclamation (MH3, no. 267) — also illustrated by Zoltan Boros in MH3; reprint with new Boros art
+- Eladamri, Korvecdal (MH3, no. 423) — retro-frame mythic with Zoltan Boros MH3 solo illustration

@@ -48,7 +48,7 @@ time_of_day: indeterminate
 setting: dungeon
 suspected_ip: Glimmet
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Glimmet (Surging Sparks)
@@ -57,8 +57,8 @@ ip_verified: false
 
 ![114-191-glimmet](../../_images/pokemon/surging-sparks/114-191-glimmet.png)
 
-> [!warning] Suspected IP: **Glimmet** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Glimmet**
+> Confirmed via Pokemon TCG official database (card no. 114/191 in Surging Sparks sv8) and Bulbapedia species entry for Glimmet.
 
 Glimmet floats centrally in a cave environment, its round purple body trailing thin tentacle-like appendages. Crystal stalagmites and stalactites in blue, purple, and teal tones surround the creature, some glowing with an inner light. The cave setting gives the scene a deep, otherworldly atmosphere, the bioluminescent quality of both the crystals and the creature blending together. The color palette is predominantly cool purple and blue, creating an eerie but beautiful underground world.
 
@@ -73,4 +73,16 @@ Glimmet floats centrally in a cave environment, its round purple body trailing t
 **Objects:** crystals
 **Creatures:** glimmet, jellyfish
 **Genre cues:** anime, fantasy
+
+## Trivia
+
+- **Set context** — Glimmet appears in Surging Sparks (sv8), the eighth main expansion of the Scarlet and Violet series, released November 8, 2024. The set is themed around the Terarium, the artificial paradise biome introduced in the Indigo Disk DLC for Pokemon Scarlet and Violet, making cave-dwelling Area Zero species like Glimmet thematically central to the set's world `[PokeBeach: "Surging Sparks" Set Officially Revealed for November, 2024]`.
+- **Species lore** — Glimmet is the Ore Pokemon, National Pokedex no. 970, a Rock/Poison dual type introduced in Generation 9. It latches onto cave walls and ceilings to absorb nutrients, and can scatter poisonous pollen-like powder as a defense. Glimmet and its evolution Glimmora are thought to have a connection to the Terastal phenomenon: Glimmora's petals resemble Tera Jewels, and both species are concentrated in Area Zero and its underground depths `[Bulbapedia: Glimmet, via WebSearch snippet]`.
+- **Evolution line** — Glimmet evolves into Glimmora at level 35. In the TCG, this card is the Basic stage prerequisite for Glimmora (card no. 115/191 in the same set). The standard Glimmora (no. 115) has 130 HP and an attack that both poisons and prevents Energy attachment, but no competitive deck appearances have been reported `[pokemon.com TCG database, via WebSearch snippet]`.
+- **TCG mechanics** — The card's single attack, Rock Hurl, deals 10 damage and explicitly states the damage is not affected by Resistance. This exemption from Resistance is notable for a Fighting-type card, as Fighting is commonly resisted by Psychic-type Pokemon; the ruling removes one of the standard disadvantages of the type `[pokemon.com TCG database card no. 114/191]`.
+
+### Related cards
+- Glimmora (Surging Sparks, no. 115/191) — direct evolution; same set
+- Glimmora ex (if present in set) — ex tier of the evolution line
+- Glimmet (any prior print) — same species across sets
 

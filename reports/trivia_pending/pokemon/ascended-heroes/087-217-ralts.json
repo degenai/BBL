@@ -1,0 +1,48 @@
+{
+  "card_name": "Ralts",
+  "game": "Pokemon",
+  "set": "Ascended Heroes",
+  "collector_number": "087/217",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure confirmed as Ralts (National Pokedex no. 280) via PokemonTCG.io API (nationalPokedexNumbers field) and card name. Small white humanoid with green dome head covering and red horns matches canonical Ralts design exactly. Psychic-type typing on card corroborates species.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Ralts (no. 087/217) appears in the Mega Evolution—Ascended Heroes expansion (set code ASC), released January 30, 2026 — the largest English Pokemon TCG set at launch with 295 cards total. The set is themed around Pokémon Legends: Z-A and reintroduces Mega Evolution Pokémon ex as the headline mechanic. [PokemonTCG.io API; pokemon.com Ascended Heroes announcement]",
+      "sources": ["PokemonTCG.io API", "pokemon.com/us/pokemon-news/get-the-new-pokemon-tcg-expansion-mega-evolution-ascended-heroes-on-january-30-2026"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Terada Tera, a 2025 TCG debut artist whose first card was an Iono's Kilowattrel illustration rare in Journey Together. Pokemon.com describes Terada Tera's style as 'vibrant, colorful, and too cute to ignore' with 'an almost bouncy shading style and contrasting colors' — this Ralts card is one of their earliest confirmed published works. [pokemon.com: Meet the Artists Who Made Their Pokemon TCG Debut in 2025]",
+      "sources": ["pokemon.com: Meet the Artists Who Made Their Pokemon TCG Debut in 2025"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Ralts is National Pokedex no. 280, introduced in Generation III (Ruby/Sapphire). In the video games it is classified as a Psychic/Fairy type since Generation VI (X/Y), but the TCG discontinued the Fairy type with Sword & Shield and has represented it as a Psychic-type card ever since — including in this printing. [PokemonTCG.io API; pokemondb.net/pokedex/ralts; serebii.net Fairy type page]",
+      "sources": ["PokemonTCG.io API", "pokemondb.net/pokedex/ralts", "serebii.net/xy/fairytype.shtml"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'The horns on its head provide a strong power that enables it to sense people's emotions.' — flavor text, Ralts (Ascended Heroes 087). This connects to Ralts' 'Feeling Pokemon' species classification: Pokedex entries across generations establish that Ralts hides from hostile emotions and is drawn toward warm, positive ones. [PokemonTCG.io API; pokemon.com/us/pokedex/ralts]",
+      "sources": ["PokemonTCG.io API", "pokemon.com/us/pokedex/ralts"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Ralts evolution line branches at Kirlia: male Kirlia exposed to a Dawn Stone evolves into Gallade (Psychic/Fighting), while the standard level-up path produces Gardevoir. Mega Gardevoir ex appears as card no. 089/217 in the same Ascended Heroes set — placing this Ralts common two cards away from its Mega Evolution apex in the set's numbering. [PokemonTCG.io API; pokebeach.com Ascended Heroes Set Guide 2026]",
+      "sources": ["PokemonTCG.io API", "pokebeach.com/2026/01/ascended-heroes-set-guide-full-set-list-god-packs-reverse-holos-product-lineup-and-more"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Kirlia", "set": "Ascended Heroes", "note": "Stage 1 in Ralts evolution line"},
+    {"name": "Gardevoir", "set": "Ascended Heroes", "note": "Stage 2 evolution from Kirlia"},
+    {"name": "Mega Gardevoir ex", "set": "Ascended Heroes", "note": "No. 089/217 — Mega Evolution apex, two cards away in set numbering"},
+    {"name": "Gallade", "set": "various", "note": "Male-only Kirlia alternate evolution via Dawn Stone"},
+    {"name": "Iono's Kilowattrel", "set": "Journey Together", "note": "Terada Tera's debut TCG illustration rare — same artist"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

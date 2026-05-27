@@ -1,0 +1,47 @@
+{
+  "card_name": "Audino",
+  "game": "Pokemon",
+  "set": "Journey Together",
+  "collector_number": "124/159",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure confirmed as Audino (National Pokedex no. 531) via PokemonTCG.io API (nationalPokedexNumbers field) and card name. Plump pink body with large curled ear-feelers matches canonical Audino design exactly. Colorless typing on card corroborates Normal-type species representation.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Audino (no. 124/159) appears in the Scarlet & Violet—Journey Together expansion (set code sv9), released March 28, 2025 — the ninth main Scarlet & Violet series expansion. Journey Together carries a Regulation Mark H and is legal in Standard format. [PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "design",
+      "text": "Audino is National Pokedex no. 531, introduced in Generation V (Black/White) and classified as the 'Hearing Pokemon.' According to Ken Sugimori, Audino was designed specifically for the Black & White anime to replace Nurse Joy's Chansey at Pokemon Centers in Unova, mirroring Chansey's role as a helper and caregiver — including the signature nurse hat. [screenrant.com: Audino Was Created to Replace Chansey; Bulbapedia: Nurse Joy's Audino]",
+      "sources": ["screenrant.com/pokemon-audino-replace-chansey-anime/", "bulbapedia.bulbagarden.net/wiki/Nurse_Joy's_Audino"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'Audino's sense of hearing is superb. Not even a pebble rolling along over a mile away will escape Audino's ears.' — flavor text, Audino (Journey Together 124). Audino's ear-feelers function analogously to stethoscopes and can detect heartbeats and egg-hatching states — the flavor text foregrounds its hearing rather than its caregiver role. [PokemonTCG.io API; pokemondb.net/pokedex/audino]",
+      "sources": ["PokemonTCG.io API", "pokemondb.net/pokedex/audino"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The Beckon attack (1 Colorless Energy) retrieves any Supporter card from the discard pile. DigitalTQ notes this attack type first appeared on Kirlia from BREAKthrough — placing Audino in a lineage of low-cost Supporter-recovery pivot Pokemon. At 110 HP and single-retreat-cost, it functions as a gearshift attacker: use Beckon on a stalled turn to recover a Boss's Orders or Iono, then pivot out. [digitaltq.com Journey Together card page; PokemonTCG.io API]",
+      "sources": ["digitaltq.com/pokemon-tcg/journey-together/audino-124", "PokemonTCG.io API"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Minahamu, a TCG artist who debuted with the Surging Sparks expansion. Minahamu's Audino art — a round pink figure nestled in dry golden grass — is one of approximately 11 cards the artist had illustrated as of 2025, spanning sets including White Flare and Destined Rivals. [serebii.net TCG Cardex: Minahamu]",
+      "sources": ["serebii.net/card/dex/artist/minahamu.shtml"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Mega Audino ex", "set": "various", "note": "Mega Evolution form introduced in Omega Ruby/Alpha Sapphire; separate TCG card line"},
+    {"name": "Chansey", "set": "various", "note": "Audino's anime predecessor as Nurse Joy's Pokemon Center helper"},
+    {"name": "Kirlia", "set": "BREAKthrough", "note": "First Pokemon with the Beckon supporter-recovery attack — mechanical lineage"},
+    {"name": "Iono's Kilowattrel", "set": "Journey Together", "note": "Terada Tera debut — same set as this Audino, different artist context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

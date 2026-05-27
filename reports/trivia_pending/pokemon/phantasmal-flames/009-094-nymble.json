@@ -1,0 +1,46 @@
+{
+  "card_name": "Nymble",
+  "game": "Pokemon",
+  "set": "Phantasmal Flames",
+  "collector_number": "009/094",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure confirmed as Nymble (National Pokedex no. 919) via PokemonTCG.io API (nationalPokedexNumbers field) and card name. Dark blue cricket-like insect with orange circular eye marking matches canonical Nymble design. Grass-type card typing corroborates species (Nymble is a Bug-type in the video games; the TCG prints it as Grass-type per its type-mapping conventions).",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Nymble (no. 009/094) appears in the Mega Evolution—Phantasmal Flames expansion (set code me2 / PFL), released November 14, 2025 — the second main expansion of the Mega Evolution Series. The set is headlined by Mega Charizard X ex and Mega Gengar ex. Phantasmal Flames contains 130 cards including 36 secret rares. [PokemonTCG.io API; pokemon.com Phantasmal Flames announcement]",
+      "sources": ["PokemonTCG.io API", "pokemon.com/us/pokemon-news/the-pokemon-tcg-mega-evolution-phantasmal-flames-expansion-is-available-now"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Nymble is National Pokedex no. 919, a Bug-type Pokemon introduced in Generation IX (Scarlet/Violet). It evolves into Lokix (no. 920), which has seen rogue competitive play: a Lokix (PFL no. 10) list reached the top 16 of a City League tournament in October 2025, built around Lokix's 'Jumping Shot' attack that shuffles the attacker back into the deck after hitting. [PokemonTCG.io API; limitlesstcg.com/cards/PFL/10; pokemondb.net/pokedex/nymble]",
+      "sources": ["PokemonTCG.io API", "limitlesstcg.com/cards/PFL/10", "pokemondb.net/pokedex/nymble"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'It has its third set of legs folded up. When it's in a tough spot, this Pokemon jumps over 30 feet using the strength of its legs.' — flavor text, Nymble (Phantasmal Flames 009). This directly mirrors the card's lone attack, Flail Around (coin-flip damage) — the flavor establishes why a creature this small can generate unpredictable bursts: compacted kinetic energy in the folded legs. [PokemonTCG.io API]",
+      "sources": ["PokemonTCG.io API"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Yuka Morii, one of the TCG's most recognized long-tenure artists, active since Neo Discovery (2000). Morii hand-sculpts Pokemon figures in polymer clay, builds miniature sets with real pebbles and leaves, and photographs them. With over 209 cards illustrated across more than two decades, her clay-photography method produces what Kotaku called 'warm, tactile' images of 'little creatures living in our world.' [CGC Cards artist showcase: Yuka Morii; Kotaku; hobbylark.com: Who Is Yuka Morii]",
+      "sources": ["cgccards.com/news/article/13014/", "kotaku.com/pokemon-tcg-sword-shield-scarlet-violet-yuka-morii-1849600725", "hobbylark.com/card-games/yuka-morii"]
+    },
+    {
+      "category": "set-lore",
+      "text": "A separate Nymble Illustration Rare (no. 096/094, illustrated by Nakamura Ippan) exists in the same Phantasmal Flames set — an out-of-number secret rare holo depicting Nymble nestled among flowers. Wargamer noted it as 'the least valuable Illustration Rare from the Phantasmal Flames set' while praising its ambiguous, insectoid quality: 'an unreadable, mysterious expression that leaves viewers uncertain about the creature's emotional state.' [wargamer.com: Nymble Illustration Rare Nakamura Ippan]",
+      "sources": ["wargamer.com/pokemon-trading-card-game/Nymble-illustration-rare-Nakamura-Ippan"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Lokix", "set": "Phantasmal Flames", "note": "No. 010/094 — Stage 1 evolution from Nymble, same set, rogue competitive hit-and-run deck"},
+    {"name": "Nymble", "set": "Phantasmal Flames", "note": "No. 096/094 — Illustration Rare version of same species, same set, illustrated by Nakamura Ippan"},
+    {"name": "Charcadet", "set": "Phantasmal Flames", "note": "Promo card for the set's Elite Trainer Box; co-inhabitant of the Paldea-species cohort in the set"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

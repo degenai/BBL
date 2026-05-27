@@ -1,0 +1,41 @@
+{
+  "card_name": "Rufflet",
+  "game": "Pokemon",
+  "set": "Surging Sparks",
+  "collector_number": "152/191",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Rufflet via official Pokemon TCG database listing (card no. 152/191, Surging Sparks sv8) and Bulbapedia species entry for National Pokedex no. 627. Internal Pokemon IP — no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Rufflet is the Eaglet Pokemon, National Pokedex no. 627, a Normal/Flying type introduced in Generation 5 (Unova, Black/White, 2010). It is a male-only species and was version-exclusive to Pokemon White in the original games (Black featured the counterpart Vullaby/Mandibuzz pair). Its design is based on the bald eagle chick, with color scheme referencing the US flag; the single head plume draws from Native American eagle-feather imagery.",
+      "sources": ["Bulbapedia: Rufflet, via WebSearch snippet", "GamesRadar: Pokemon Black and White Pokedex — Rufflet, Braviary, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Rufflet's Pokedex entries emphasize it provokes opponents significantly larger than itself, including its own parents, as a growth-through-adversity strategy. The more it is defeated and injured, the more powerful it becomes — a motif that carries through the entire Braviary evolution line.",
+      "sources": ["Bulbapedia: Rufflet, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "A second evolution path exists via Hisuian Braviary, a Psychic/Flying regional form introduced in Pokemon Legends: Arceus (2022). Hisuian Braviary cannot be obtained by evolving Rufflet in Paldea; it requires transfer from Legends: Arceus through Pokemon HOME. Standard Braviary (Normal/Flying) evolves at level 54.",
+      "sources": ["GameRant: How to Get Hisuian Braviary in Scarlet/Violet, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "In the Surging Sparks set (released November 8, 2024), Rufflet is a 70 HP Basic Colorless-type card with a single-energy Flap attack dealing 30 damage. Its competitive function is as a setup piece for a Braviary evolution line rather than a standalone attacker.",
+      "sources": ["pokemon.com TCG database card no. 152/191"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Braviary", "set": "any set", "note": "Standard evolution at level 54"},
+    {"name": "Hisuian Braviary", "set": "any set", "note": "Alternate regional evolution via Legends: Arceus"},
+    {"name": "Vullaby", "set": "Generation 5 sets", "note": "Version counterpart in Pokemon Black — thematic pair with Rufflet/Braviary"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

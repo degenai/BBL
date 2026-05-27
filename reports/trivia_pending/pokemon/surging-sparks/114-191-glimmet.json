@@ -1,0 +1,40 @@
+{
+  "card_name": "Glimmet",
+  "game": "Pokemon",
+  "set": "Surging Sparks",
+  "collector_number": "114/191",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Confirmed Glimmet via official Pokemon TCG database listing (card no. 114/191, Surging Sparks sv8) and Bulbapedia species entry. Internal Pokemon IP — no external crossover risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Glimmet appears in Surging Sparks (sv8), the eighth main expansion of the Scarlet and Violet series, released November 8, 2024. The set is themed around the Terarium, the artificial paradise biome introduced in the Indigo Disk DLC, making cave-dwelling Area Zero species like Glimmet thematically central to the set's world.",
+      "sources": ["PokeBeach: Surging Sparks Set Officially Revealed for November 2024"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Glimmet is the Ore Pokemon, National Pokedex no. 970, a Rock/Poison dual type introduced in Generation 9. It latches onto cave walls and ceilings to absorb nutrients, and can scatter poisonous pollen-like powder as a defense. Glimmet and Glimmora are thought to have a connection to the Terastal phenomenon: Glimmora's petals resemble Tera Jewels, and both species concentrate in Area Zero and its underground depths.",
+      "sources": ["Bulbapedia: Glimmet, via WebSearch snippet"]
+    },
+    {
+      "category": "design",
+      "text": "Glimmet evolves into Glimmora at level 35. In the TCG, this card is the Basic stage prerequisite for Glimmora (no. 115/191 in the same set). The standard Glimmora has 130 HP and an attack that both poisons and prevents Energy attachment, but no competitive deck appearances have been reported.",
+      "sources": ["pokemon.com TCG database", "limitlesstcg.com/cards/SSP/115, via WebSearch snippet"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card's single attack, Rock Hurl, deals 10 damage and explicitly states damage is not affected by Resistance. This exemption is notable for a Fighting-type card: Fighting is commonly resisted by Psychic-type Pokemon, so the ruling removes one of the type's standard disadvantages in those matchups.",
+      "sources": ["pokemon.com TCG database card no. 114/191"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Glimmora", "set": "Surging Sparks", "note": "Direct evolution; same set, no. 115/191"},
+    {"name": "Glimmet", "set": "any prior print", "note": "Same species across earlier sets"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

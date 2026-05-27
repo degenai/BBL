@@ -1,0 +1,48 @@
+{
+  "card_name": "Guardian of the Forgotten",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "28",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Modern Horizons 3 (released June 14, 2024) features Modified as one of its three core draft archetypes, running primarily in black-green-white. A permanent is 'modified' if it has a counter on it, is equipped, or is enchanted by an Aura you control. Guardian of the Forgotten is the white Modified payoff in the four-drop slot: Vigilance keeps it alive on offense while the manifest trigger converts opponent removal into a cascade of face-down 2/2 threats. [Scryfall; MTGAZone MH3 White Limited Set Review]",
+      "sources": ["Scryfall", "MTGAZone: Modern Horizons 3 MH3 Limited Set Review White"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Guardian of the Forgotten is typed as an Elephant Warrior — a creature type combination that appears on only a handful of MTG cards, most notably in the Mirrodin-era Loxodon (humanoid elephant) cluster. Its stat line is 4/4 with Vigilance for {3}{W}, a rate that MTGAZone's MH3 limited review called solid but not exceptional on its own (rated 3.0/5), elevating only when the Modified archetype is coherently drafted. The card's EDHREC rank of 19,584 is the lowest of the four MH3 cards in this batch, signaling limited Commander adoption beyond niche Modified tribal builds. [Scryfall: type_line Creature Elephant Warrior; MTGAZone MH3 White Limited Set Review; Scryfall EDHREC rank]",
+      "sources": ["Scryfall", "MTGAZone: Modern Horizons 3 MH3 Limited Set Review White"]
+    },
+    {
+      "category": "design",
+      "text": "The Manifest mechanic on Guardian of the Forgotten is a return from Fate Reforged (2015), where it first appeared as a core mechanic. MH3 re-introduces Manifest in a deliberately synergistic context: the 'modified' trigger means your opponent must choose between leaving your buffed creatures alive (and facing Vigilance attacks) or removing them and feeding Manifest. Art credit: Ron Spears, who also illustrated Proud Pack-Rhino (MH3 no. 41) in this same wave, giving him two visible credits in the MH3 white section. [Scryfall: artist Ron Spears; Scryfall: keywords Vigilance Manifest]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Proud Pack-Rhino",
+      "set": "Modern Horizons 3",
+      "note": "Also by artist Ron Spears in MH3 white; same wave inventory"
+    },
+    {
+      "name": "Indebted Spirit",
+      "set": "Modern Horizons 3",
+      "note": "MH3 white modified-payoff creature in the same archetype as Guardian"
+    },
+    {
+      "name": "Aerie Auxiliary",
+      "set": "Modern Horizons 3",
+      "note": "Another MH3 white modified-matters card; shares the modified-tribal draft slot"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

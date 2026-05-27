@@ -55,6 +55,8 @@ mana_cost: "{2}{G}"
 image_width: 745
 image_height: 1040
 image_quality: high
+characters:
+  - thallid-lineage
 tags:
   - card
   - vision-passed
@@ -91,3 +93,7 @@ A bristly, broad-shouldered wild boar with prominent curved tusks and a striped,
 - Thallid (Fallen Empires) — the MTG fungus creature type name-dropped in Trufflesnout's flavor text; starting point for thallid lore
 - Thelon of Havenwood (Time Spiral) — the druid who created thallids in MTG canon; relevant lore figure for the flavor text reference
 - Tusked Mammoth (Core Set 2021) — another M21 green common beast; shares the naturalist creature-art aesthetic in the same set's draft environment
+
+## Connections
+
+- [[thallid-lineage]] — ecological-prey-naming tier of the designer-implicit thallid-creature-type cohort. Flavor text directly names the cohort by species name as the boar's ecological prey: *"Its exploits are the stuff of legends among local chefs and fuel for nightmares among the forest thallids."* This is the canonical "cohort-named-from-outside-the-cohort" citation — the only currently-enriched corpus card that mentions thallids by name without depicting one. The boar canonically threatens the Sarpadian thallid lineage's fungal-organism ancestors per MTG Wiki Thallid (Thelon-of-Havenwood-created-thallids from fungus infused with green mana via Ebon-Hand cultivation methods, gained sentience and overran Havenwood, survived the Sarpadian collapse as one of the few sentient species not exterminated by thrulls). A truffle-hunting boar rooting up Sarpadian-descendant fungus is a direct ecological threat at the fungal-prey level. `[Scryfall flavor_text; MTG Wiki — Thallid (Puppeteer-verified 2026-05-27); MTG Wiki — Sarpadia (Puppeteer-verified 2026-05-27)]`

@@ -51,6 +51,8 @@ image_quality: high
 mood: horror
 time_of_day: twilight
 setting: forest
+characters:
+  - thallid-lineage
 ---
 
 # Thallid Soothsayer (Dominaria)
@@ -85,4 +87,8 @@ A large thallid creature dominates the frame. It has a broad, flat mushroom cap 
 - Slimefoot, the Stowaway (DOM-205) — the DOM thallid legendary that generates the saproling tokens both fungus cards consume
 - Demonlord Belzenlok (DOM-86) — the Cabal leader whose rituals the Urborg thallids are described as emulating
 - Whisper, Blood Liturgist (DOM-111) — the Cabal priest in the same set whose sacrifice mechanic runs parallel to the Soothsayer's; the two cards share a flavor-text thematic space (sacrifice culture in Urborg/Cabal context)
+
+## Connections
+
+- [[thallid-lineage]] — Cabal-emulation-bridge tier of the designer-implicit thallid-creature-type cohort. Flavor text canonically establishes the Urborg-fens-thallid subpopulation's ritual-mimicry of the Belzenlok-Cabal: *"Some of the thallids that escaped into the fens of Urborg began emulating the Cabal's bloodsoaked rituals in their own peculiar way."* This is the load-bearing canonical citation for the cohort's `belzenlok` cross-node bridge thread (per MTG Wiki Thallid, post-Mending Cabal relocation to Urborg created direct ecological contact with the resident Sarpadian-thallid descendant population; a thallid subpopulation absorbed the Cabal's sacrifice-as-devotion ritual framework but rendered it through fungal biology). The card's `{2}, Sacrifice a creature: Draw a card` oracle text mechanically encodes the fungal-ritual flavor — sacrifice of living matter to grow and gain knowledge. Primary cohort attribution is the thallid-creature-type lineage (its more durable identity); the Cabal-emulation bridge is the cross-node intersection citation. `[Scryfall flavor_text; MTG Wiki — Thallid (Puppeteer-verified 2026-05-27); MTG Wiki — Sarpadia (Puppeteer-verified 2026-05-27)]`
 

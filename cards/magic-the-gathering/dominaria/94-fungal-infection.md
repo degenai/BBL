@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - fungus
+  - mushroom
+  - decay
+  - horror
+  - nature
+  - organic
+  - forest
+  - growth
+  - parasite
+  - infection
+  - spores
+  - thallid
+tags_filter:
+  - solo
+  - mid-shot
+  - scene-mode
+  - no-humanoid
+  - black-magic
+  - sorcery
+  - creature-token
 reference_image: cards/_images/magic-the-gathering/dominaria/94-fungal-infection.png
 average_cost_paid: 0
 market_price: 0.28
@@ -30,6 +49,28 @@ mana_cost: "{B}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: forest
 ---
 
 # Fungal Infection (Dominaria)
+
+## Vision
+
+![94-fungal-infection](../../_images/magic-the-gathering/dominaria/94-fungal-infection.png)
+
+The right half of the image is dominated by a large, shaggy entity composed of tangled yellow-gold fibers, plant matter, and fungal growth. Its form is roughly humanoid in silhouette but entirely made of organic fibrous material — no clear face or distinct limbs, just massed texture. On the left, a compact cluster of mushrooms with brown caps rises from a base of swollen, bulbous growths, with purple-pink trailing tendrils or roots spreading across the ground. The forest background is visible through the foliage as soft blue-green. The scene reads as one organism looming over or interacting with another smaller fungal mass. Lighting is diffused and greenish.
+
+**Subject:** A massive shaggy fungal creature looms over a cluster of mushrooms and bulbous growths with trailing tendrils in a forest setting
+
+**Composition:** mid-shot, narrative, figures: duo, facing: n/a
+**Setting:** forest, indeterminate, calm
+**Foreground:** cluster of mushrooms with brown caps and swollen bulbous growths, purple-pink tendrils  *(palette: brown, purple, pink, tan)*
+**Background:** large shaggy yellow-gold fibrous creature, soft forest behind  *(palette: yellow-gold, green, blue-green)*
+**Mood / lighting:** horror, soft
+**Emotion read:** ominous, looming, organic menace
+**Objects:** mushrooms, fungal growths, tendrils, roots
+**Creatures:** thallid, fungal-creature, saproling, mushroom-creature
+**Genre cues:** fantasy, body-horror
+

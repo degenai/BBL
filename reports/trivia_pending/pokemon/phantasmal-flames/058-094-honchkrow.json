@@ -1,0 +1,46 @@
+{
+  "card_name": "Honchkrow",
+  "game": "Pokemon",
+  "set": "Phantasmal Flames",
+  "collector_number": "058/094",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Depicted figure confirmed as Honchkrow (National Pokedex no. 430) via PokemonTCG.io API (nationalPokedexNumbers field) and card name. Large dark blue-black crow with distinctive red feathered mohawk crest matches canonical Honchkrow design exactly. Darkness-type card typing and 'evolvesFrom: Murkrow' field corroborate species identity.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Honchkrow (no. 058/094) appears in the Mega Evolution—Phantasmal Flames expansion (set code me2 / PFL), released November 14, 2025. It is a Darkness-type Stage 1 card that evolves from Murkrow — matching the video game evolution method (Dusk Stone to evolve Murkrow into Honchkrow, introduced in Generation IV: Diamond and Pearl). [PokemonTCG.io API; pokemon.com Phantasmal Flames page]",
+      "sources": ["PokemonTCG.io API", "pokemon.com/us/pokemon-tcg/mega-evolution-phantasmal-flames"]
+    },
+    {
+      "category": "design",
+      "text": "Honchkrow is National Pokedex no. 430, classified as the 'Big Boss Pokemon' — a design built entirely around organized-crime iconography. Its name blends 'honcho' (boss) and 'crow'; its Japanese name Dongkarasu combines 'don' (mafia don) and 'karasu' (crow). According to former Nintendo of America official Seth McMahill, a Generation IV Pokemon was nearly named 'Doncrowleone' after Vito Corleone of The Godfather — a name widely attributed to Honchkrow's concept. Its feather crest resembles a wide-brimmed fedora. [Bulbapedia: Honchkrow; pokemondb.net/pokedex/honchkrow]",
+      "sources": ["bulbapedia.bulbagarden.net/wiki/Honchkrow_(Pokemon)", "pokemondb.net/pokedex/honchkrow"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers.' — flavor text, Honchkrow (Phantasmal Flames 058). Pokedex entries across generations establish that Honchkrow can summon over one hundred Murkrow with a single cry, earning the title 'Summoner of Night' — the flocks darken the sky entirely. The flavor text's boss-and-underlings framing is the defining feature of the species across all media. [PokemonTCG.io API; Bulbapedia: Honchkrow]",
+      "sources": ["PokemonTCG.io API", "bulbapedia.bulbagarden.net/wiki/Honchkrow_(Pokemon)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Sniping Feathers (2 Darkness + 1 Colorless) deals 120 damage to any of the opponent's Pokemon without applying Weakness and Resistance for benched targets — a targeted snipe that bypasses the bench protection rules for damage scaling. The attack costs 2 Energy from Honchkrow on use. Per Limitless TCG, the card has not appeared in competitive decklists in the main Standard database as of mid-2026, suggesting it functions as a theorycraft/rogue option rather than a meta presence. [PokemonTCG.io API; limitlesstcg.com/cards/PFL/58]",
+      "sources": ["PokemonTCG.io API", "limitlesstcg.com/cards/PFL/58"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Anesaki Dynamic, a studio/artist with TCG credits dating to the Steam Siege expansion and over 150 illustrated cards. The Phantasmal Flames art places Honchkrow against a moonlit night sky above a faint urban rooftop silhouette — a noir-cinema composition that amplifies the species' mafia-boss design language more explicitly than most prior Honchkrow printings. [serebii.net TCG Cardex: Anesaki Dynamic; artofpkm.com/illustrators/28]",
+      "sources": ["serebii.net/card/dex/artist/anesakidynamic.shtml", "artofpkm.com/illustrators/28"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Murkrow", "set": "various", "note": "Stage 0 pre-evolution; evolves via Dusk Stone in video games, listed as evolvesFrom on this card"},
+    {"name": "Honchkrow", "set": "Starter Set MEGA Mega Gengar ex", "note": "No. 005/021 — earlier Anesaki Dynamic Honchkrow printing for design lineage comparison"},
+    {"name": "Mega Gengar ex", "set": "Phantasmal Flames", "note": "Co-headliner of the same set; both carry gothic-darkness aesthetic"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

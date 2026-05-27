@@ -75,3 +75,15 @@ A sleek, frog-like elemental body is entirely covered in interlocking golden geo
 **Iconography:** geometric glyphs, maze patterns, lightning
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Modern Horizons 3 (released June 14, 2024) is a draft-innovation set that feeds directly into Modern and Commander. MH3 organized its draft archetypes around three themes: Energy, Eldrazi, and Modified. Glyph Elemental occupies the Modified-adjacent white slot where Bestow, Landfall, and +1/+1 counters reinforce each other across the format. `[Scryfall: set_type draft_innovation, released_at 2024-06-14]`
+
+- **Mechanical reputation** — MTGAZone's MH3 white limited review rated Glyph Elemental 3.5/5, noting that cheap Bestow creatures are unusually resilient in limited because the enchanted creature dying simply leaves a live 2/2 body that continues accruing Landfall counters. Its EDHREC rank of 9,340 reflects draft-role utility rather than constructed traction. `[MTGAZone: Modern Horizons 3 MH3 Limited Set Review White; Scryfall EDHREC rank]`
+
+- **Design** — First printing, no reprint history as of 2025. Art by Domenico Cava. The card carries the enchantment-frame sunburst border treatment matching its Enchantment Creature type line, a frame effect shared by MH3's white enchantment-creature cycle. No flavor text. `[Scryfall: artist Domenico Cava, frame_effects enchantment]`
+
+### Related cards
+- Dog Umbra (MH3, no. 22) — another white Bestow/Aura enchantment creature in MH3 white; same limited role and enchantment-frame treatment
+- Emissary of Soulfire (MH3, no. 183) — MH3 white modified-matters payoff in the same draft archetype cluster
+- Indebted Spirit (MH3, no. 31) — MH3 white counter-accumulation creature sharing the modified-synergy slot

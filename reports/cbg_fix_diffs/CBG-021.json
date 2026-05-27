@@ -1,0 +1,76 @@
+{
+  "slug": "CBG-021",
+  "surfaced_by": "Comic Book Guy free-walk (seventh dispatch)",
+  "surfaced_date": "2026-05-27",
+  "headline": "FFBE global shutdown date wrong across 4 loci — node + card both claim '2022-12-31' or 'December 2022'; canonical date per Wikipedia and Square Enix announcement is October 30, 2024",
+  "severity": "warn",
+  "category": "external-fact-audit",
+  "summary": "cards/_characters/ffbe-opening-arc-party.md asserts the Final Fantasy Brave Exvius global service shutdown date in 3 distinct loci, and the upstream card trivia at cards/final-fantasy-tcg/opus-viii/8-043h-lasswell.md repeats the claim in a 4th locus. All four state the shutdown date as 2022-12-31 or 'December 2022'. WebSearch + WebFetch verification against multiple primary sources (Wikipedia, FFBE_EN twitter/X official announcement, multiple gaming news outlets) confirms the actual global shutdown date was **October 30, 2024 at 23:59 PDT**, more than two years after the date the node body claims. The Japanese service ended later, on October 31, 2025 (per Wikipedia). Today's date (2026-05-27) is more than a year after the actual global shutdown and more than half a year after the JP shutdown, but the node body's line-12 frontmatter still claims 'JP service continuing' as if JP were live — also wrong by 6+ months. Origin of the drift: the Lasswell card trivia (line 80) was likely authored mid-2023 when the actual shutdown was still under-reported and the trivia author guessed at 'December 2022' (possibly conflating with a Brave Exvius spinoff title's earlier shutdown). The node body then imported this wrong date when commissioned and repeated it across 3 loci. The 'JP service continuing' framing in node frontmatter is similarly stale relative to the 2025-10-31 JP shutdown.",
+  "evidence": {
+    "primary_source_verification": {
+      "wikipedia_quote": "It was discontinued outside of Japan on October 30, 2024",
+      "wikipedia_jp_quote": "the Japanese version ended service later, on October 31, 2025",
+      "ffbe_official_twitter": "discontinue the FINAL FANTASY BRAVE EXVIUS app service as of October 30, 2024 23:59 (PDT)",
+      "url_wikipedia": "https://en.wikipedia.org/wiki/Final_Fantasy_Brave_Exvius",
+      "url_ffbe_twitter": "https://x.com/FFBE_EN/status/1829084390019998140"
+    },
+    "carriers": [
+      {
+        "file": "cards/_characters/ffbe-opening-arc-party.md",
+        "line": 12,
+        "claim": "global service shut down 2022-12-31, JP service continuing",
+        "errors": ["global date wrong (actual 2024-10-30)", "JP-continuing claim stale (actual JP shutdown 2025-10-31)"]
+      },
+      {
+        "file": "cards/_characters/ffbe-opening-arc-party.md",
+        "line": 14,
+        "claim": "the 2022-12-31 global shutdown",
+        "errors": ["global date wrong (actual 2024-10-30)"]
+      },
+      {
+        "file": "cards/_characters/ffbe-opening-arc-party.md",
+        "line": 40,
+        "claim": "The global version shut down on 2022-12-31; the JP service continues.",
+        "errors": ["global date wrong (actual 2024-10-30)", "JP-continuing claim stale (actual JP shutdown 2025-10-31)"]
+      },
+      {
+        "file": "cards/final-fantasy-tcg/opus-viii/8-043h-lasswell.md",
+        "line": 80,
+        "claim": "The global version shut down in December 2022, making Lasswell a character from a completed-and-closed mobile spinoff.",
+        "errors": ["wrong month/year (actual October 2024)"]
+      }
+    ]
+  },
+  "fix": {
+    "approach": "4 surgical edits across 2 files. Replace '2022-12-31' / 'December 2022' with '2024-10-30' on every locus. Update the JP-service-continuing claim to reflect the 2025-10-31 JP shutdown (both services now ended). Preserve the 'completed-and-closed mobile spinoff' narrative framing — both halves are still true at the higher date, only the date itself was wrong.",
+    "edits": [
+      {
+        "file": "cards/_characters/ffbe-opening-arc-party.md",
+        "line": 12,
+        "old": "free-to-play mobile RPG, 2015-10 JP / 2016-06 global; global service shut down 2022-12-31, JP service continuing",
+        "new": "free-to-play mobile RPG, 2015-10 JP / 2016-06 global; global service shut down 2024-10-30, JP service shut down 2025-10-31"
+      },
+      {
+        "file": "cards/_characters/ffbe-opening-arc-party.md",
+        "line": 14,
+        "old": "the 2022-12-31 global shutdown",
+        "new": "the 2024-10-30 global shutdown"
+      },
+      {
+        "file": "cards/_characters/ffbe-opening-arc-party.md",
+        "line": 40,
+        "old": "The global version shut down on 2022-12-31; the JP service continues.",
+        "new": "The global version shut down on 2024-10-30; the JP service shut down on 2025-10-31."
+      },
+      {
+        "file": "cards/final-fantasy-tcg/opus-viii/8-043h-lasswell.md",
+        "line": 80,
+        "old": "The global version shut down in December 2022, making Lasswell a character from a completed-and-closed mobile spinoff.",
+        "new": "The global version shut down October 30, 2024 (JP version followed on October 31, 2025), making Lasswell a character from a completed-and-closed mobile spinoff."
+      }
+    ]
+  },
+  "neighbor_spotcheck": "Grep across the corpus for '2022-12-31' returned exactly 1 file (ffbe-opening-arc-party.md). Grep for 'shutdown', 'shut down', 'global shutdown', and 'global service' surfaced 5 files total; non-FFBE carriers (Genesect VV-016, Whirlwind Denial THB-81, Feed-the-Clan KTK-132) use the words in unrelated contexts (not about FFBE service status). Confab is isolated to the ffbe-opening-arc-party.md node + the Lasswell card trivia. No spillage into the Rain or Fina card trivia bullets (their source-context bullets cite Wikipedia but don't repeat the shutdown date claim).",
+  "isolation_check": "Pattern is isolated to a 4-locus FFBE-shutdown date claim. The upstream is the Lasswell card trivia (line 80) authored before the actual 2024-10-30 shutdown; the node body imported the wrong date when commissioned and propagated it across 3 additional loci. Not a corpus-wide pathology — other dated external-fact claims in the corpus would need independent verification but are not this finding's territory.",
+  "pattern_alert": "External-fact temporal claims (service shutdown dates, company name changes, product discontinuation dates) age in place and can become wrong even if they were defensible at authoring time. Same anti-pattern family as CBG-009/CBG-012/CBG-016 (designer-source-claim drift) but with a different shape: not 'wrong attribution' but 'right attribution, then time moved on.' Future audit-wave checks should include WebFetch-verification of any dated external claim older than ~12 months."
+}

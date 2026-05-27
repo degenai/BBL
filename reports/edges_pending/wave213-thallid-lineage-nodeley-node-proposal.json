@@ -1,0 +1,127 @@
+{
+  "wave": 213,
+  "edge_id": "wave213-thallid-lineage-nodeley-node-proposal",
+  "shape": "node-proposal",
+  "agent_form": "mr-nodeley",
+  "category": "designer-implicit-thesis-stack-cohort",
+  "topology": "stack",
+  "description": "Sir, I'm awfully sorry, but Edgelord couldn't find a clean 1:1 edge worth drawing without it becoming a duplicate-edges-pointing-at-an-absent-center situation. The three fully-enriched thallid-substrate cards — Thallid Omnivore DOM-106, Thallid Soothsayer DOM-107, and Trufflesnout M21-212 — all canonically reference the same Sarpadian-thallid lineage anchor (Thelon of Havenwood's elven cultivation of fungus-infused-with-green-mana during the post-Sylex-Blast ice age), and three more cards already in corpus (Tukatongue Thallid MM2-167, Fungal Infection DOM-94, Sarpadian Simulacrum MH3-135) will future-attach when their trivia lands. I hope you don't mind that I proposed the cohort node instead of drawing a thinner edge — it really does seem to unlock several future edges cleanly, and the cell-saga-apparatus precedent gave me a clear template to follow. WebFetch-verified MTG Wiki Sarpadia and Thallid pages via Puppeteer (Cloudflare 403'd direct urllib, per bbl-puppeteer-over-snippets memory). The Cabal-emulation bridge on Soothsayer is documented in the node body as a cross-node intersection citation rather than a Belzenlok-cohort-merge, preserving both nodes' independent integrity. Two waves of clean spec execution streak preserved.",
+  "endpoints": [
+    {
+      "type": "character",
+      "path": "cards/_characters/thallid-lineage.md",
+      "name": "thallid-lineage",
+      "role": "proposed-new-node"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/dominaria/106-thallid-omnivore.md",
+      "name": "Thallid Omnivore (DOM-106)",
+      "role": "appears_on-member",
+      "tier": "Sarpadian-cultivation-origin"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/dominaria/107-thallid-soothsayer.md",
+      "name": "Thallid Soothsayer (DOM-107)",
+      "role": "appears_on-member",
+      "tier": "Cabal-emulation-bridge"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/core-set-2021/212-trufflesnout.md",
+      "name": "Trufflesnout (M21-212)",
+      "role": "appears_on-member",
+      "tier": "ecological-prey-naming"
+    }
+  ],
+  "future_attaches_pending_trivia": [
+    {
+      "path": "cards/magic-the-gathering/modern-masters-2015/167-tukatongue-thallid.md",
+      "name": "Tukatongue Thallid (MM2-167)",
+      "rationale": "Alara-Jund variant per MTG Wiki Thallid (descended from Dominarian-thallid lineage); flavor text names \"Jund's thallids\""
+    },
+    {
+      "path": "cards/magic-the-gathering/dominaria/94-fungal-infection.md",
+      "name": "Fungal Infection (DOM-94)",
+      "rationale": "DOM-set sorcery; art depicts thallid creature with saproling spawn; tags_hub already includes \"thallid\""
+    },
+    {
+      "path": "cards/magic-the-gathering/modern-horizons-3/135-sarpadian-simulacrum.md",
+      "name": "Sarpadian Simulacrum (MH3-135)",
+      "rationale": "Card name literally names Sarpadia — the most direct Sarpadian-naming card in corpus; currently fully un-enriched (no Vision, no Trivia, qty 2)"
+    }
+  ],
+  "designer_source_citations": [
+    {
+      "url": "https://mtg.fandom.com/wiki/Sarpadia",
+      "verified_by": "Puppeteer (scripts/puppeteer-fetch/fetch.js) 2026-05-27",
+      "key_facts_extracted": [
+        "Sarpadia is the canonical setting of the Fallen Empires expansion (1994)",
+        "Five empires: Icatia (white), Order of the Ebon Hand (black), Vodalia (blue), Havenwood elves (green), Crimson Peaks dwarves (red)",
+        "Post-Sylex-Blast climate change triggered Sarpadian-empires collapse",
+        "Twin canonical fall events: Havenwood elves overrun by their thallid creations + Order of the Ebon Hand overrun by their thrull creations (both used same Thelon-borrowed biological-cultivation method)",
+        "Sarpadian Empires tome chronicled the rise and fall of the five empires"
+      ]
+    },
+    {
+      "url": "https://mtg.fandom.com/wiki/Thallid",
+      "verified_by": "Puppeteer (scripts/puppeteer-fetch/fetch.js) 2026-05-27",
+      "key_facts_extracted": [
+        "Thallids are fungus creatures created by infusion with green mana, specific to MTG Multiverse",
+        "Featured in Fallen Empires (1994), revived in Time Spiral block (2006-2007)",
+        "Created by elven druid Thelon of Havenwood using methods borrowed from Order of the Ebon Hand",
+        "Cultivated as cattle, gained sentience, overran Havenwood elves",
+        "One of few sentient Sarpadian species not exterminated by thrulls post-collapse",
+        "Alara-Jund variant canonically descended from Dominarian thallid lineage",
+        "Slimefoot grew from spore on Weatherlight skyship hull; Sporoloth variant appeared in Time Spiral block",
+        "Thallids and thrulls share canonical biological substrate per Thelon's secret to elder druids Kolevi and Lalani"
+      ]
+    }
+  ],
+  "files_modified": [
+    "cards/_characters/thallid-lineage.md",
+    "cards/magic-the-gathering/dominaria/106-thallid-omnivore.md",
+    "cards/magic-the-gathering/dominaria/107-thallid-soothsayer.md",
+    "cards/magic-the-gathering/core-set-2021/212-trufflesnout.md"
+  ],
+  "three_sided_discipline_applied": true,
+  "three_sides": {
+    "side_1_card_frontmatter_characters_field": "added thallid-lineage slug to characters: block-form list on all 3 anchor cards",
+    "side_2_card_body_connections_bullet": "added Connections section to all 3 anchor cards with one wikilink [[thallid-lineage]] + backticks for canonical citations (Scryfall flavor_text, MTG Wiki Thallid, MTG Wiki Sarpadia)",
+    "side_3_node_appears_on_and_rendered_list": "added cards to thallid-lineage.md appears_on: frontmatter list (3 entries) and rendered ## Appears on wikilink block (3 entries)"
+  },
+  "other_candidates_considered": [
+    {
+      "candidate": "Knight of Malice / Knight of Grace 2-card cycle pair",
+      "outcome": "rejected — Knight of Malice is IN FLIGHT for wave-213 vision per parent dispatch DON'T TOUCH list; pair below cohort threshold even if both were available; 2-card cycles are tight pairs not cohort substrate"
+    },
+    {
+      "candidate": "Bloodbraid Elf chase-rare singleton EMA storefront flag",
+      "outcome": "deferred — singleton high-value card landing this wave's EMA vision; flag for storefront but not an Edgelord move at the cohort/edge level; surface to triage when EMA vision-batch commits"
+    },
+    {
+      "candidate": "Daarken artist node growth from Soul Salvage trivia",
+      "outcome": "deferred — Soul Salvage trivia IN FLIGHT this wave (staged Sonnet attach to Belzenlok); Daarken node growth pending wave-213 commits; not an Edgelord move while in flight"
+    },
+    {
+      "candidate": "Belzenlok node growth via 3 staged attaches",
+      "outcome": "deferred — Whisper / Soul Salvage / Final Parting attaches are staged Sonnet work pending wave-213 trivia completion; explicitly DON'T TOUCH per parent dispatch"
+    },
+    {
+      "candidate": "Plain 1:1 mirror edge between Thallid Omnivore and Thallid Soothsayer",
+      "outcome": "rejected in favor of node proposal — drawing a 1:1 between two thallids would create duplicate-edges-pointing-at-absent-center; Mr. Nodeley trigger fires because the absent center is a first-class graph dimension (creature-type cohort, character layer) that unlocks 3 immediate + 3 future-attach edges"
+    }
+  ],
+  "potion_rule_compliance": {
+    "sub_rule_1_canonical_vs_curatorial_in_body_prose": "thallid-lineage.md body-prose explicitly names the apparatus-of-extraction curatorial overlay as overlay, not Wizards thesis; the canonical-event citation (Wizards-stated: cultivators-overrun-by-creations-during-Sarpadian-collapse) and the BBL curatorial reading (cultivated-rebellion-survives-its-cultivators) are both surfaced with the lens visible in Caveats section",
+    "sub_rule_2_hub_attribution_canonical_citation": "no hub edges asserted at frontmatter level; rebellion hub linkage scoped to body-prose with the curatorial-overlay-lens visible; Wizards-canonical citations (MTG Wiki Sarpadia, MTG Wiki Thallid, both Puppeteer-verified) provide the cohort-level membership substrate, not generic-thallid-tag bridge",
+    "sub_rule_3_refuse_when_in_doubt": "Fungal Rebirth (M21-182) explicitly NOT attached here per Caveats — Cevraya-Golgari-shaman flavor is Ravnican fungus not Sarpadian thallid; saproling-token-output mechanical signature alone is not sufficient predicate for membership",
+    "sub_rule_4_no_new_structural_primitive_vocabulary": "uses standard graph-theory terms (cohort, node, edge, lineage); designer-implicit-thesis-stack pattern is named via cell-saga-apparatus precedent backtick-reference rather than promoted to its own typology entry",
+    "sub_rule_5_wikilinks_real_thematic_only": "Body-prose wikilinks audited at commission time and corrected in-pass. REAL EDGES (kept as wikilinks): [[belzenlok]] (real cross-node Cabal-emulation bridge anchored at Thallid Soothsayer's flavor text), [[rebellion]] (real BBL-hub linkage scoped to body-prose curatorial-overlay register per Potion sub-rule 1), [[106-thallid-omnivore]] / [[107-thallid-soothsayer]] / [[212-trufflesnout]] (real appears_on wikilinks in the auto-generated rendered block). SCHEMA-PRECEDENT (converted to backticks in-pass per sub-rule 5): cell-saga-apparatus, mareep-line, eldrazi — all three are sibling-cohort-node-shape citations not real-thematic-edges between the species themselves. Caveats section already used backticks for dark-vassal-trio, wrath-of-the-dragon-saga, eld-cinderella-cycle, staraptor-line, charizard-line, elemental-monkey-trio, galarian-regional-forms, thrull-lineage (potential future node), so the discipline was consistent there from the start; the See also section needed the corrective pass."
+  },
+  "potion_sub_rule_5_self_audit_applied_in_pass": "Confirmed: thallid-lineage.md See also section converted [[cell-saga-apparatus]] / [[mareep-line]] / [[eldrazi]] from wikilinks to backticks during commission. Final wikilink set in body: [[belzenlok]] (real cross-node bridge), [[rebellion]] (real hub linkage), [[106-thallid-omnivore]] / [[107-thallid-soothsayer]] / [[212-trufflesnout]] (auto-generated appears_on rendered list). No follow-up wave task needed; auto-corrected in-pass.",
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "mood_explanation": "Edgelord wanted a clean 1:1 between two thallids, but the absent-cohort-node case was sound — drawing thallid-to-thallid edges would have spawned duplicate-edges-pointing-at-absent-center. Mr. Nodeley stepped in, apologized, proposed the cohort node, applied the three-sided discipline cleanly. The Cabal-emulation bridge documentation as cross-node intersection (rather than cohort-merge with Belzenlok) is the satisfying-to-Mr.-Nodeley part — preserves both nodes' integrity, names the bridge-card pattern explicitly, surfaces future-watch for Edgelord audits. Two waves of clean spec execution preserved; designer-source citations Puppeteer-verified per the spec compliance reminder.",
+  "session_close_status": "Wave 213 is the last of the night per parent dispatch; sidecar lands as Mr. Nodeley's checkout note. Three-sided discipline complete, node ready for human review and commit."
+}

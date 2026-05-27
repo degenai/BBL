@@ -73,3 +73,16 @@ A hooded figure in a teal and blue cloak bends dramatically low to the ground, p
 **Iconography:** light-burst, shattering-ground
 **Genre cues:** fantasy, mtg
 
+## Trivia
+
+- **Set context** — Expel the Unworthy is a common Sorcery from Modern Horizons 3, released June 14, 2024. MH3 is a draft-innovation set that injects cards directly into Modern without passing through Standard. The set returned over 70 keyword abilities and mechanics including Kicker, which appears on this card `[Scryfall: set_name, released_at; Wizards of the Coast mechanics article for Modern Horizons 3]`.
+- **Kicker scaling removal** — The card's kicker structure ({2}{W} additional cost) creates a scalable exile spell: base mode targets only creatures with mana value 3 or less (efficient removal for the early game), while the kicked version targets any creature regardless of size. The controller of the exiled creature gains life equal to its mana value in either case, functioning as a built-in consolation clause that softens the political cost in multiplayer `[Scryfall: oracle_text]`.
+- **Mechanical reputation** — Expel the Unworthy carries an EDHREC rank of 22,207, indicating low Commander adoption. Its sorcery speed (not instant) is the primary limiting factor: white already has access to more efficiently-costed exile at sorcery speed, and the life-gain rider does not offset the tempo disadvantage enough for competitive play. It is legal in Modern, Pauper, Legacy, and Commander `[Scryfall: edhrec_rank, legalities]`.
+- **Preview credit** — The card was previewed on May 27, 2024 by Marshall Sutcliffe, a longtime Limited Resources host and former Wizards content creator, via his social media `[Scryfall: preview source field, sourced_at 2024-05-27]`.
+- **Artist** — Illustrated by Danny Schwartz. No Hipsters of the Coast artist profile surfaced for Schwartz in available search results `[Scryfall: artist field]`.
+
+### Related cards
+- Path to Exile (various sets) — the canonical white exile-a-creature benchmark; Expel is commonly measured against it
+- Prismatic Ending (Modern Horizons 2) — another MH-series white exile with flexible targeting; frequently cited alongside Expel as the competitive bar
+- Journey to Nowhere (Zendikar) — budget Pauper-legal white removal for comparison in the Pauper context where Expel is also legal
+

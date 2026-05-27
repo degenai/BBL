@@ -75,3 +75,15 @@ A robust rhinoceros is shown in three-quarter profile, bearing a towering load o
 **Iconography:** pack saddle, trade crates
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Modern Horizons 3 (released June 14, 2024) distributes Shield counters and Proliferate as supporting tools for its Modified and Energy themes. Proud Pack-Rhino occupies the white three-drop slot with a modal ETB: the Shield counter mode protects a key permanent (a modified creature, an energy producer, or an equipped attacker), while Proliferate scales any counter-based engine already running. It functions as a glue card in the MH3 white draft archetype rather than a top-end payoff. `[Scryfall; MTGAZone: MH3 White Limited Set Review]`
+
+- **Mechanical reputation** — MTGAZone's MH3 white limited review rated Proud Pack-Rhino 2.5/5, comparing it to Centaur Courser and noting it delivers more incremental value than its surface stats suggest. Its EDHREC rank of 11,582 reflects moderate Commander adoption, primarily in +1/+1 counter-proliferate decks. No dedicated Rhino commander exists in MTG as of 2024; the Rhino creature type has scattered tribal support through cards like Rhonas the Indomitable's activated ability and the odd Rhino token, but no cohesive tribal axis. `[MTGAZone: MH3 White Limited Set Review; Scryfall EDHREC rank]`
+
+- **Design** — Art by Ron Spears, who also illustrated Guardian of the Forgotten (MH3 no. 28) in this same set. First printing, no reprint history as of 2025. No flavor text — a common omission for modal ETB uncommons in MH3 where oracle text volume fills the card frame. `[Scryfall: artist Ron Spears; no flavor_text field returned]`
+
+### Related cards
+- Guardian of the Forgotten (MH3, no. 28) — also by artist Ron Spears in MH3 white; modified archetype companion
+- Aerie Auxiliary (MH3, no. 18) — MH3 white counter-synergy card in the same draft archetype cluster
+- Indebted Spirit (MH3, no. 31) — MH3 white modified-matters creature sharing the three-to-four-drop curve

@@ -75,3 +75,15 @@ A heavily built creature with mammoth-like features — tusks, thick fur-covered
 **Iconography:** crystalline orb, tusks
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Modern Horizons 3 (released June 14, 2024) runs Modified as one of its three core draft archetypes, concentrated in black-green-white. A permanent is "modified" if it bears a counter, carries Equipment, or is enchanted by an Aura you control. Guardian of the Forgotten is the white Modified anchor at four mana: Vigilance sustains offense while the Manifest trigger converts opponent removal into a cascade of face-down 2/2 threats. `[Scryfall; MTGAZone: Modern Horizons 3 MH3 Limited Set Review White]`
+
+- **Mechanical reputation** — MTGAZone's MH3 white limited review rated the card 3.0/5, calling the vigilant 4/4 solid but not exceptional on its own, and noting it rewards drafting a coherent Modified shell. Its EDHREC rank of 19,584 — the lowest of the four MH3 cards in this batch — signals limited Commander adoption outside niche Modified tribal builds. The Manifest mechanic first appeared in Fate Reforged (2015); MH3 re-introduces it as a death-trigger reward rather than a default flip mechanic. `[MTGAZone: MH3 White Limited Set Review; Scryfall EDHREC rank; Scryfall: keywords Vigilance Manifest]`
+
+- **Design** — Art by Ron Spears, who also illustrated Proud Pack-Rhino (MH3 no. 41), giving him two visible credits in MH3 white. Type line is Elephant Warrior, a combination that appears on only a handful of MTG cards, most concentrated in the Mirrodin-era Loxodon cluster. First printing, no reprint history as of 2025. No flavor text. `[Scryfall: artist Ron Spears, type_line Creature Elephant Warrior]`
+
+### Related cards
+- Proud Pack-Rhino (MH3, no. 41) — also by artist Ron Spears in MH3 white; same wave inventory
+- Indebted Spirit (MH3, no. 31) — MH3 white modified-payoff creature in the same archetype
+- Aerie Auxiliary (MH3, no. 18) — MH3 white modified-matters card sharing the counter-synergy draft slot

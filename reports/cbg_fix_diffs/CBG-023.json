@@ -1,0 +1,74 @@
+{
+  "slug": "CBG-023",
+  "surfaced_by": "Comic Book Guy free-walk (seventh dispatch)",
+  "surfaced_date": "2026-05-27",
+  "headline": "Liliana's Mastery misattributed to Dominaria across 2 files; canonical set is Amonkhet (AKH-98). Compounding error on Final Parting: 'Liliana's Mastery (DOM, 93 — a separate DOM card)' but 93 IS Final Parting's own collector number",
+  "severity": "note",
+  "category": "external-fact-audit",
+  "summary": "Two corpus files cite Liliana's Mastery as a Dominaria (DOM) card; Scryfall canonical attribution is Amonkhet (AKH-98, with reprints in Game Night GNT-32 and Mystery Booster). (1) `cards/magic-the-gathering/dominaria/93-final-parting.md` line 95 (Related cards) reads: 'Liliana's Mastery (DOM, 93 — a separate DOM card) — Liliana's named spell from the same set, thematically adjacent to the DOM arc.' Two compounded errors in one bullet: (a) Liliana's Mastery is NOT a DOM card — it's AKH-98 (Amonkhet, 2017), one full block earlier than Dominaria (2018); (b) the collector number '93' is Final Parting's own — Final Parting IS DOM-93, so the bullet's '(DOM, 93 — a separate DOM card)' is internally self-contradictory at the file level (the file's own frontmatter says collector_number: 93, the bullet calls 93 'a separate' card). (2) `cards/_characters/liliana-vess.md` line 56 cites 'Liliana's Mastery (Dominaria)' in the attribution-and-elegy-cycle list of Liliana-named spells. Line 58 then says 'Liliana's Mastery (Dominaria) marks her ascendance past the contracts' — the thematic claim is undermined because the card is from AKH (set predating Dominaria), so it cannot mark a Dominaria-arc beat. Per Scryfall API direct verification (`/cards/named?exact=Liliana%27s+Mastery&set=akh`): set: 'akh', set_name: 'Amonkhet', collector_number: '98', released_at: '2017-04-28', oracle_text: '+1/+1 counter shenanigans + create three Zombie tokens.' The card's thematic content — creating zombies and pumping creatures — does NOT specifically encode the four-demon-contract-ascendance reading the node body imports; that read is a confab made possible by the wrong set attribution. Origin of the drift: likely a transcription error during liliana-vess.md commission — the author had the Liliana-named-spell cycle list available and miscategorized AKH cards as DOM cards. Final Parting's Related-cards bullet inherited the wrong set attribution and compounded it with the (DOM, 93) collector-number error.",
+  "evidence": {
+    "scryfall_canonical": {
+      "name": "Liliana's Mastery",
+      "set": "akh",
+      "set_name": "Amonkhet",
+      "collector_number": "98",
+      "released_at": "2017-04-28",
+      "type_line": "Enchantment",
+      "url": "https://scryfall.com/card/akh/98/lilianas-mastery"
+    },
+    "carriers": [
+      {
+        "file": "cards/magic-the-gathering/dominaria/93-final-parting.md",
+        "line": 95,
+        "current": "Liliana's Mastery (DOM, 93 — a separate DOM card) — Liliana's named spell from the same set, thematically adjacent to the DOM arc",
+        "errors": [
+          "wrong set: card is Amonkhet (AKH-98), not Dominaria",
+          "wrong collector number: 93 is Final Parting's own number; AKH-98 is the actual Liliana's Mastery number",
+          "wrong 'same set' framing: Final Parting is DOM-93, Liliana's Mastery is AKH-98, different sets entirely (Amonkhet 2017 vs Dominaria 2018)"
+        ]
+      },
+      {
+        "file": "cards/_characters/liliana-vess.md",
+        "line": 56,
+        "current_excerpt": "*Liliana's Caress (M11/M12), Liliana's Defeat (HOU), Liliana's Indignation (Dominaria), Liliana's Influence (Core 2019), Liliana's Mastery (Dominaria), Liliana's Reaver (M14), Liliana's Specter (M11/M12), Liliana's Triumph (WAR), Liliana's Contract (Core 2019), Liliana's Standard Bearer (Core 2019)*",
+        "errors": ["Liliana's Mastery (Dominaria) — should be (Amonkhet)"]
+      },
+      {
+        "file": "cards/_characters/liliana-vess.md",
+        "line": 58,
+        "current_excerpt": "*Liliana's Contract* (Core 2019) names the contracts themselves; *Liliana's Mastery* (Dominaria) marks her ascendance past the contracts",
+        "errors": [
+          "wrong set: should be (Amonkhet, 2017)",
+          "thematic claim 'marks her ascendance past the contracts' is now decoupled — the card is from Amonkhet (one block before the Razaketh kill), so it cannot mark an arc-completion beat; the Liliana-named-spell that actually fits the 'ascendance past the contracts' beat is Liliana's Triumph (WAR-98) per the node body's own framing at line 56"
+        ]
+      }
+    ]
+  },
+  "fix": {
+    "approach": "3 surgical edits across 2 files. Correct the set attribution on every locus. Rewrite the Final Parting bullet to reflect the actual cross-set relationship and remove the self-contradictory '(DOM, 93)' fragment. Rewrite the liliana-vess.md line 58 thematic-claim sentence to either remove the Liliana's Mastery example (since AKH-pre-DOM doesn't fit the 'ascendance past the contracts' arc beat) or relocate the arc-beat-marker to Liliana's Triumph (WAR-98), which is set-appropriate.",
+    "edits": [
+      {
+        "file": "cards/magic-the-gathering/dominaria/93-final-parting.md",
+        "line": 95,
+        "old": "- Liliana's Mastery (DOM, 93 — a separate DOM card) — Liliana's named spell from the same set, thematically adjacent to the DOM arc",
+        "new": "- Liliana's Mastery (AKH-98, Amonkhet 2017) — Liliana's named spell from the prior Amonkhet block; an enchantment that produces three Zombie tokens and pumps creatures, thematically a Liliana-power-display rather than a DOM-arc beat. Note: collector_number 93 in DOM is Final Parting itself, not Liliana's Mastery."
+      },
+      {
+        "file": "cards/_characters/liliana-vess.md",
+        "line": 56,
+        "old": "Liliana's Mastery (Dominaria)",
+        "new": "Liliana's Mastery (Amonkhet)",
+        "replace_all_on_line": true
+      },
+      {
+        "file": "cards/_characters/liliana-vess.md",
+        "line": 58,
+        "old": "*Liliana's Contract* (Core 2019) names the contracts themselves; *Liliana's Mastery* (Dominaria) marks her ascendance past the contracts; *Liliana's Triumph* (WAR) names the contract-breaking.",
+        "new": "*Liliana's Contract* (Core 2019) names the contracts themselves; *Liliana's Mastery* (Amonkhet, 2017) sits inside her HOU-era three-zombie-tokens-and-pump apparatus (one block before the Razaketh kill, structurally pre-ascendance not post-); *Liliana's Triumph* (WAR) names the contract-breaking itself."
+      }
+    ]
+  },
+  "neighbor_spotcheck": "Grep across the corpus for 'Liliana's Mastery' returned exactly 2 files (93-final-parting.md + liliana-vess.md). No other Liliana-named-spell in the line-56 attribution-cycle list was spot-checked for cross-set drift in this dispatch; the other 9 entries (Caress, Defeat, Indignation, Influence, Reaver, Specter, Triumph, Contract, Standard Bearer) should be Scryfall-verified in a future audit pass but are not this finding's territory. Cross-checked Final Parting's other Related-cards bullets (Settle the Score DOM-103, Josu Vess Lich Knight DOM-101, The Chain Veil M12/M15, Rite of Belzenlok DOM): Settle the Score and Josu Vess set/collector verified correct via Scryfall; The Chain Veil set verified (M12 + M15 both real prints); Rite of Belzenlok set verified DOM-148.",
+  "isolation_check": "Pattern is isolated to the Liliana's Mastery set-attribution thread (3 loci across 2 files). Not corpus-wide. The same anti-pattern family as CBG-002 (Nylea's Colossus wrong set drift from card trivia → layer node body) and CBG-010 (Thornwood Falls wrong collector number) — Scryfall-API-falsifiable card-metadata claims that drift between body-prose paragraphs without re-verification at re-use sites. The Final Parting compound error (set wrong AND collector number == self) is the highest-confidence falsifiability case in this dispatch since the contradiction is internal to a single file.",
+  "pattern_alert": "Whenever a card-trivia Related-cards bullet cites another card by (SetCode, CollectorNumber), the bullet should be Scryfall-API-checked at authoring time. The pattern that broke here is the assumption 'same character + same set' — Final Parting is a DOM Liliana card, and the trivia author assumed Liliana's Mastery (another Liliana-named card) was also DOM. The actual set-by-set Liliana-named-spell distribution is highly heterogeneous (M11, M12, HOU, AKH, M14, M19, WAR, DOM, M20, MOM, etc.) and warrants explicit Scryfall lookup for each card cited. Same audit discipline as CBG-009 (verify Wizards-article verbatim quotes via WebFetch) but applied to Scryfall card-metadata: verify set + collector_number via Scryfall API for every cross-reference."
+}

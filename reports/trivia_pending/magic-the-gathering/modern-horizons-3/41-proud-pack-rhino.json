@@ -1,0 +1,48 @@
+{
+  "card_name": "Proud Pack-Rhino",
+  "game": "Magic: The Gathering",
+  "set": "Modern Horizons 3",
+  "collector_number": "41",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Modern Horizons 3 (released June 14, 2024) introduced Shield counters and Proliferate as supporting tools for its Modified and Energy themes. Proud Pack-Rhino sits at the white three-drop slot and offers modal flexibility: the Shield counter mode protects a key permanent (modified threshold for Guardian of the Forgotten triggers, energy sources, or a creature with equipment), while the Proliferate mode scales any counter-based engine already running. It is a glue card in the MH3 white draft archetype rather than a top-end payoff. [Scryfall; MTGAZone MH3 White Limited Set Review]",
+      "sources": ["Scryfall", "MTGAZone: Modern Horizons 3 MH3 White Limited Set Review"]
+    },
+    {
+      "category": "mechanical",
+      "text": "MTGAZone's MH3 white limited review rated Proud Pack-Rhino 2.5/5, comparing it to Centaur Courser (a 3/3 for {2}{G} with no relevant text) and noting it contributes more incremental value than its surface stats suggest. Its EDHREC rank of 11,582 shows moderate Commander adoption, primarily in +1/+1 counter-proliferate decks where the choose-one entry trigger provides consistent value. The Rhino creature type has modest tribal support (Rhonas, Bronzehide Lion) but no dedicated Rhino commander as of 2024. [MTGAZone MH3 White Limited Set Review; Scryfall EDHREC rank]",
+      "sources": ["MTGAZone: Modern Horizons 3 MH3 White Limited Set Review", "Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Proud Pack-Rhino is a first printing with no reprint history as of 2025. Art credit: Ron Spears, who also illustrated Guardian of the Forgotten (MH3 no. 28) in this same set. The card carries no flavor text — a common omission for modal ETB commons and uncommons in MH3 where oracle text volume fills the card frame. [Scryfall: artist Ron Spears; no flavor_text field returned]",
+      "sources": ["Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {
+      "name": "Guardian of the Forgotten",
+      "set": "Modern Horizons 3",
+      "note": "Also by artist Ron Spears in MH3 white; modified archetype companion"
+    },
+    {
+      "name": "Generous Gift",
+      "set": "Modern Horizons 3",
+      "note": "Another MH3 white utility card; Rhino token producer in Generous Gift's token — tangential animal-type resonance in white"
+    },
+    {
+      "name": "Aerie Auxiliary",
+      "set": "Modern Horizons 3",
+      "note": "MH3 white counter-synergy card in the same archetype cluster"
+    }
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

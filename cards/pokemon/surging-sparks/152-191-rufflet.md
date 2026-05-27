@@ -48,7 +48,7 @@ time_of_day: day
 setting: forest
 suspected_ip: Rufflet
 ip_confidence: high
-ip_verified: false
+ip_verified: true
 ---
 
 # Rufflet (Surging Sparks)
@@ -57,8 +57,8 @@ ip_verified: false
 
 ![152-191-rufflet](../../_images/pokemon/surging-sparks/152-191-rufflet.png)
 
-> [!warning] Suspected IP: **Rufflet** (confidence: high, unverified)
-> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+> [!note] IP verified: **Rufflet**
+> Confirmed via Pokemon TCG official database (card no. 152/191 in Surging Sparks sv8) and Bulbapedia species entry for Rufflet.
 
 Rufflet sits in a nest made of twigs and plant material, surrounded by the green of a forest environment. The creature is small and compact, with predominantly white fluffy plumage and blue wing feathers visible. A red circular marking adorns its forehead above a determined-looking expression. Trees and dappled forest light fill the background. The scene has a naturalistic, warm-light feel, the creature looking young and slightly defiant despite its small size.
 
@@ -73,4 +73,16 @@ Rufflet sits in a nest made of twigs and plant material, surrounded by the green
 **Objects:** nest
 **Creatures:** rufflet, eagle, bird
 **Genre cues:** anime
+
+## Trivia
+
+- **Species lore** — Rufflet is the Eaglet Pokemon, National Pokedex no. 627, a Normal/Flying type introduced in Generation 5 (Unova, Black/White, 2010). It is a male-only species: Rufflet has no female counterpart and is version-exclusive to Pokemon White in the original games (while Pokemon Black features the counterpart duo Vullaby and Mandibuzz). Its design is based on the bald eagle chick, with the color scheme referencing the red, white, and blue of the United States flag; the single head plume draws from Native American eagle-feather imagery `[Bulbapedia: Rufflet, via WebSearch snippet]`.
+- **Aggression as design hook** — Rufflet's Pokedex entries emphasize it provokes opponents significantly larger and more powerful than itself, including its own parents, as a way to grow stronger. The more it is defeated and injured, the more powerful it becomes — a growth-through-adversity motif that carries through the entire Braviary evolution line `[Bulbapedia: Rufflet, via WebSearch snippet]`.
+- **Regional variant** — A second evolution path exists via Hisuian Braviary, a Psychic/Flying regional form introduced in Pokemon Legends: Arceus (2022). Hisuian Braviary cannot be obtained by evolving Rufflet in Paldea (Scarlet/Violet); it requires transfer from Legends: Arceus through Pokemon HOME. The standard Braviary (Normal/Flying) evolves at level 54 `[GameRant: Hisuian Braviary in Scarlet/Violet, via WebSearch snippet]`.
+- **Set context** — This Rufflet appears in Surging Sparks (sv8), released November 8, 2024. The set is themed around the Terarium biome and the Indigo Disk DLC world. Rufflet's 70 HP and single-energy Flap attack (30 damage) place it squarely in the role of a utility Basic: its primary function in competitive play would be as the prerequisite for a Braviary evolution line rather than as a standalone attacker `[pokemon.com TCG database card no. 152/191]`.
+
+### Related cards
+- Braviary (any set) — direct evolution line
+- Hisuian Braviary (any set) — alternate regional evolution
+- Vullaby / Mandibuzz (Generation 5) — version counterpart in Pokemon Black; thematic pair
 

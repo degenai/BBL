@@ -1,0 +1,75 @@
+{
+  "slug": "CBG-024",
+  "surfaced_by": "Comic Book Guy free-walk (seventh dispatch)",
+  "surfaced_date": "2026-05-27",
+  "headline": "daarken.md artist-node body misclassifies 4-5 cards' enrichment states AT COMMISSION TIME — claims '3 trivia-passed' when actual was 8 trivia-passed; claims '5 pre-vision (incl. Urgoros, Davriel, Soul Salvage)' when Urgoros + Davriel were already vision-passed and Davriel was trivia-passed",
+  "severity": "note",
+  "category": "internal-graph-consistency",
+  "summary": "cards/_artists/daarken.md was commissioned at wave 211 (commit a45c6255) with body framing that asserts '3 trivia-passed credits at commission time' (line 82) and 'fifteen additional Daarken-credited cards exist in BBL corpus, attaching to this node as they complete trivia enrichment' (line 90), itemized as '10 vision-passed pending trivia' (line 92) + '5 pre-vision' (line 93). Verification against the actual pre-commit corpus state (git show a45c6255^:cards/...) reveals: AT commission time, 8 Daarken-credited cards were ALREADY trivia-passed, not 3. The body lists only 3 in appears_on (Grasp of Darkness, Maw of Kozilek, Prison Realm) but should have listed 8 (those 3 + Life Goes On M21-192, Ride Down KTK-194, Secret Plans KTK-198, Ghostly Sentinel BFZ-28, Davriel Rogue Shadowmage WAR-83 — all confirmed trivia-passed pre-a45c6255 per git show on each file). The 'vision-passed pending trivia (10)' list at line 92 enumerates 11 cards (counter says 10, list has 11), and 4 of those 11 (Life Goes On, Ride Down, Secret Plans, Ghostly Sentinel) were actually trivia-passed at commission time. The 'pre-vision (5)' list at line 93 names 4 cards and gestures at a fifth ('one additional pre-vision credit pending audit'), but: Urgoros 109 was vision-passed pre-commit (tags_hub populated with 'demon / wings / ghost / emptiness / discard / phantom / storm / armor / dark-lord / spectral / dominion / cape'); Davriel Rogue Shadowmage WAR-83 was vision-PASSED AND trivia-passed pre-commit; only Soul Salvage and Windstorm Drake were genuinely pre-vision. The 5th 'pending audit' card does not exist in the 18-Daarken corpus. **Post-commission drift compounded**: wave 212 (commit 38933991) trivia-passed Soul Salvage AND Urgoros, but daarken.md was not updated — its current state still claims '3 trivia-passed' when actual now is 10. The frontmatter appears_on still has only 3 entries when the discipline (compare to forrest-imel.md which has 4 entries including a vision-only OTJ card) appears to be 'list any vision-or-better corpus card.' This is the same structural-drift pathology CBG-011 (theros-pantheon triple-drift) and CBG-013 (manifest-dread anchor-count drift) flagged: node body roster lags behind corpus state, with both a commissioning-time miscount AND post-commission stale state compounding into the current 7-card body gap.",
+  "evidence": {
+    "git_verified_pre_a45c6255_trivia_state": [
+      {"file": "cards/magic-the-gathering/battle-for-zendikar/28-ghostly-sentinel.md", "trivia_passed": true, "in_daarken_appears_on": false, "body_classification": "vision-passed pending trivia (WRONG)"},
+      {"file": "cards/magic-the-gathering/core-set-2021/192-life-goes-on.md", "trivia_passed": true, "in_daarken_appears_on": false, "body_classification": "vision-passed pending trivia (WRONG)"},
+      {"file": "cards/magic-the-gathering/khans-of-tarkir/194-ride-down.md", "trivia_passed": true, "in_daarken_appears_on": false, "body_classification": "vision-passed pending trivia (WRONG)"},
+      {"file": "cards/magic-the-gathering/khans-of-tarkir/198-secret-plans.md", "trivia_passed": true, "in_daarken_appears_on": false, "body_classification": "vision-passed pending trivia (WRONG)"},
+      {"file": "cards/magic-the-gathering/war-of-the-spark/83-davriel-rogue-shadowmage.md", "trivia_passed": true, "in_daarken_appears_on": false, "body_classification": "pre-vision (WRONG TWICE — was vision-passed AND trivia-passed)"},
+      {"file": "cards/magic-the-gathering/dominaria/109-urgoros-the-empty-one.md", "trivia_passed": false, "vision_passed": true, "in_daarken_appears_on": false, "body_classification": "pre-vision (WRONG — was vision-passed; correct classification is 'vision-passed pending trivia')"}
+    ],
+    "current_state_after_wave_212": {
+      "trivia_passed_count": 10,
+      "trivia_passed_cards": ["Ghostly Sentinel BFZ-28", "Grasp of Darkness M21-102", "Life Goes On M21-192", "Soul Salvage DOM-104", "Urgoros DOM-109", "Ride Down KTK-194", "Secret Plans KTK-198", "Maw of Kozilek OGW-99", "Prison Realm WAR-26", "Davriel Rogue Shadowmage WAR-83"],
+      "vision_only_count": 7,
+      "vision_only_cards": ["Immolating Glare OGW-20", "Asceticism PLST-110", "Shipwreck Singer THE-203", "Curious Pair ELD-150", "Trail of Crumbs ELD-179", "Sorin's Thirst WAR-104", "Davriel's Shadowfugue WAR-84"],
+      "pre_vision_count": 1,
+      "pre_vision_cards": ["Windstorm Drake RNA-60"],
+      "total": 18,
+      "appears_on_in_daarken_md": 3,
+      "gap": "7 trivia-passed Daarken cards (Ghostly Sentinel, Life Goes On, Soul Salvage, Urgoros, Ride Down, Secret Plans, Davriel Rogue Shadowmage) are NOT in daarken.md's appears_on but ARE in the corpus and trivia-passed; per forrest-imel.md's all-corpus-cards-in-appears_on discipline, all 7 should be attached"
+    },
+    "body_counter_drifts": [
+      {"line": 82, "claim": "Three trivia-passed credits at commission time, ordered by set release date (newest first):", "actual_at_commission": 8, "actual_now": 10},
+      {"line": 90, "claim": "Fifteen additional Daarken-credited cards exist in BBL corpus, attaching to this node as they complete trivia enrichment:", "actual_at_commission": 10 (3 trivia-already + 7 vision-only + 1 pre-vision; 7 of the 10 should already be on appears_on per the trivia-first discipline)", "actual_now": "8 trivia-already + 7 vision-only + 1 pre-vision; the framing is structurally wrong since some are already trivia-passed"},
+      {"line": 92, "claim": "Vision-passed pending trivia (10): [list of 11 cards]", "actual_counter_vs_list": "10 declared, 11 listed (off by one)", "actual_at_commission": "7 vision-only (not 10 or 11)", "actual_now": "7 vision-only"},
+      {"line": 93, "claim": "Pre-vision (5): Soul Salvage (DOM 104) and Urgoros (DOM 109) currently in flight for wave-211 enrichment; Windstorm Drake (RNA 60) and Davriel, Rogue Shadowmage (WAR 83) earlier-wave pre-vision; one additional pre-vision credit pending audit.", "actual_at_commission": "2 pre-vision (Soul Salvage, Windstorm Drake) — Urgoros was vision-passed; Davriel was trivia-passed; 'one additional' doesn't exist", "actual_now": "1 pre-vision (Windstorm Drake) — Soul Salvage and Urgoros both now trivia-passed"}
+    ]
+  },
+  "fix": {
+    "approach": "5 surgical edits in daarken.md to reconcile the body roster with the actual current corpus state (post-wave-212). The frontmatter appears_on should expand from 3 entries to 10 (all trivia-passed Daarken cards), matching forrest-imel.md's all-corpus discipline. The body counter '3 trivia-passed' becomes '10 trivia-passed' or 'all 10 trivia-passed', the 'vision-passed pending trivia' list is reduced to 7 entries (the genuinely vision-only cards), the 'pre-vision' list is reduced to 1 entry (Windstorm Drake), and the 'fifteen additional Daarken-credited cards' framing is restructured to '8 additional Daarken-credited cards (7 vision-only + 1 pre-vision) attaching at trivia-pass'. The note about Soul Salvage + Urgoros 'currently in flight for wave-211 enrichment' is now stale — both are trivia-passed; remove the in-flight framing. Per Edgelord-rigor-audit discipline, this is a deferred fix candidate rather than urgent — graph traversal works correctly via the partial appears_on, only body-prose lags. Same severity tier as CBG-011 (theros-pantheon triple-drift) and CBG-013 (manifest-dread anchor-count drift).",
+    "edits": [
+      {
+        "file": "cards/_artists/daarken.md",
+        "section": "frontmatter appears_on",
+        "lines": "17-20",
+        "old": "appears_on:\n  - magic-the-gathering/core-set-2021/102-grasp-of-darkness\n  - magic-the-gathering/oath-of-the-gatewatch/99-maw-of-kozilek\n  - magic-the-gathering/war-of-the-spark/26-prison-realm",
+        "new": "appears_on:\n  - magic-the-gathering/battle-for-zendikar/28-ghostly-sentinel\n  - magic-the-gathering/core-set-2021/102-grasp-of-darkness\n  - magic-the-gathering/core-set-2021/192-life-goes-on\n  - magic-the-gathering/dominaria/104-soul-salvage\n  - magic-the-gathering/dominaria/109-urgoros-the-empty-one\n  - magic-the-gathering/khans-of-tarkir/194-ride-down\n  - magic-the-gathering/khans-of-tarkir/198-secret-plans\n  - magic-the-gathering/oath-of-the-gatewatch/99-maw-of-kozilek\n  - magic-the-gathering/war-of-the-spark/26-prison-realm\n  - magic-the-gathering/war-of-the-spark/83-davriel-rogue-shadowmage"
+      },
+      {
+        "file": "cards/_artists/daarken.md",
+        "line": 46,
+        "old": "Three trivia-passed at commission time (Grasp of Darkness,\n  Maw of Kozilek, Prison Realm); ten vision-passed pending trivia; five\n  pre-vision (including Soul Salvage and Urgoros currently in flight\n  for wave-211 enrichment).",
+        "new": "Ten trivia-passed in corpus (Ghostly Sentinel BFZ-28, Grasp of\n  Darkness M21-102, Life Goes On M21-192, Soul Salvage DOM-104, Urgoros\n  DOM-109, Ride Down KTK-194, Secret Plans KTK-198, Maw of Kozilek\n  OGW-99, Prison Realm WAR-26, Davriel Rogue Shadowmage WAR-83); seven\n  vision-only pending trivia; one pre-vision (Windstorm Drake RNA-60)."
+      },
+      {
+        "file": "cards/_artists/daarken.md",
+        "line": 82,
+        "old": "Three trivia-passed credits at commission time, ordered by set release date (newest first):",
+        "new": "Ten trivia-passed credits, ordered by set release date (newest first):"
+      },
+      {
+        "file": "cards/_artists/daarken.md",
+        "line": 90,
+        "old": "Fifteen additional Daarken-credited cards exist in BBL corpus, attaching to this node as they complete trivia enrichment:",
+        "new": "Eight additional Daarken-credited cards exist in BBL corpus, attaching to this node as they complete trivia enrichment:"
+      },
+      {
+        "file": "cards/_artists/daarken.md",
+        "lines": "92-93",
+        "old": "- **Vision-passed pending trivia** (10): Ghostly Sentinel (BFZ 28), Life Goes On (M21 192), Ride Down (KTK 194), Secret Plans (KTK 198), Immolating Glare (OGW 20), Asceticism (PLST 110), Shipwreck Singer (THE 203), Curious Pair (ELD 150), Trail of Crumbs (ELD 179), Davriel's Shadowfugue (WAR 84), Sorin's Thirst (WAR 104). The WAR Davriel pair (Davriel, Rogue Shadowmage WAR-83 + Davriel's Shadowfugue WAR-84) is a designer-coordinated two-card character-and-spell pair, both by Daarken — a future Davriel character node would anchor on that pair plus any future Davriel prints.\n- **Pre-vision** (5): Soul Salvage (DOM 104) and Urgoros, the Empty One (DOM 109) currently in flight for wave-211 enrichment; Windstorm Drake (RNA 60) and Davriel, Rogue Shadowmage (WAR 83) earlier-wave pre-vision; one additional pre-vision credit pending audit.",
+        "new": "- **Vision-only pending trivia** (7): Immolating Glare (OGW 20), Asceticism (PLST 110), Shipwreck Singer (THE 203), Curious Pair (ELD 150), Trail of Crumbs (ELD 179), Davriel's Shadowfugue (WAR 84), Sorin's Thirst (WAR 104). The WAR Davriel pair (Davriel, Rogue Shadowmage WAR-83 trivia-passed + Davriel's Shadowfugue WAR-84 vision-only) is a designer-coordinated two-card character-and-spell pair, both by Daarken — a future Davriel character node would anchor on that pair plus any future Davriel prints.\n- **Pre-vision** (1): Windstorm Drake (RNA 60)."
+      }
+    ]
+  },
+  "neighbor_spotcheck": "Cross-checked forrest-imel.md (sibling artist-layer node commissioned wave 210) — its appears_on has 4 entries matching all 4 in-corpus Imel-credited cards, including Raucous Entertainer OTJ-177 which is vision-only-not-yet-trivia-passed; that confirms the discipline at the artist-layer is 'all corpus cards in appears_on' not 'only trivia-passed in appears_on'. daarken.md commissioning chose a different discipline ('only trivia-passed') AND mis-classified which cards were trivia-passed at commission. Cross-checked zoltan-boros.md (sibling artist-layer node) — appears_on lists 16 entries matching the body's '16 solo credits' claim, all of which appear to be trivia-passed (would need per-card verification, deferred to a future audit if needed). Daarken's commissioning is the outlier; the fix is to bring it in line with the forrest-imel + zoltan-boros precedent of all-corpus-cards-in-appears_on.",
+  "isolation_check": "Pattern is isolated to daarken.md as a single-node body-prose drift. Not corpus-wide — forrest-imel.md (wave 210) and zoltan-boros.md (wave 209) appear discipline-clean. The drift origin appears to be the daarken.md commissioning agent's choice to filter appears_on to trivia-passed-only AND to use the wrong census of which Daarken cards were trivia-passed at commission. The wave-212 trivia-pass of Soul Salvage + Urgoros compounded the existing drift but didn't create it. Same anti-pattern family as CBG-011 (parent-roster lag) and CBG-013 (post-commission expansion lag) — layer-node body roster lags behind frontmatter or corpus state.",
+  "pattern_alert": "When commissioning artist-layer or character-layer nodes, the discipline of 'all corpus cards in appears_on regardless of trivia status' should be made explicit in the agent spec (Mr. Nodeley). The current state shows three sibling artist nodes with three different effective disciplines (forrest-imel all 4, zoltan-boros all 16, daarken filtered to 3-trivia-passed-and-not-even-correctly-counted). Standardizing on all-corpus-cards-in-appears_on per forrest-imel precedent gives the graph maximally-correct traversal even when individual cards are at different enrichment stages. Future commissions should census the corpus directly (grep -l '^artist: <name>' cards/) and include every result in appears_on, with body prose handling enrichment-stage distinctions separately."
+}

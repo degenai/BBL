@@ -72,3 +72,17 @@ A small humanoid figure crouches in a running pose on a cobblestone street, lean
 **Iconography:** totem-spirit, spectral-overlay
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Type line: NOT a Dog creature** — Dog Umbra's type line is "Enchantment — Aura." It carries no creature subtype. The word "Dog" in the card name describes the spirit depicted in the art, not a creature type the card possesses. Dog Umbra therefore does not count as a Dog for any Dog-tribal synergies (Pack Leader's lord effect, Rin and Seri token triggers, etc.) and cannot be fetched or buffed by any Dog-matters card `[Scryfall: type_line field for card ID 8d4ba710-eddb-40ca-b2fe-0e4e778aab9c]`.
+- **Umbra armor = renamed totem armor** — Dog Umbra is one of the first cards printed with the "umbra armor" keyword, which is a rename of the earlier "totem armor" keyword. The original totem armor keyword debuted in Rise of the Eldrazi (2010), where all 10 totem-armor auras used the naming format "[Animal] Umbra" (Cobra Umbra, Spider Umbra, etc.). Wizards of the Coast renamed the keyword to "umbra armor" after a cultural sensitivity review concluded that "totem" carries significant meaning in Indigenous cultures. Existing totem armor cards were Oracle-updated to use the new term `[Wizards of the Coast mechanics article for Modern Horizons 3, magic.wizards.com; Draftsim: Totem Armor and Umbra Armor in MTG, via WebSearch snippet]`.
+- **Design and set context** — Modern Horizons 3, released June 14, 2024, is a draft-innovation set that injects powerful cards directly into the Modern format. It does not introduce new mechanics; instead it returns over 70 keyword abilities including umbra armor. Dog Umbra's dual function — as a pacifying enchantment on opponent's creatures ("can't attack or block") or a protective armor on your own — makes it an unusual Aura that changes behavior based on which player controls the enchanted creature `[Scryfall: released_at, set_name, Wizards of the Coast mechanics article for Modern Horizons 3]`.
+- **Mechanical reputation** — Dog Umbra has an EDHREC rank of 6,931 as of 2024, indicating moderate Commander adoption. It is legal in Modern, Pauper, Legacy, and Commander. Its {1}{W} cost with Flash gives it an above-rate efficiency profile in Pauper enchantress shells and white control decks that want reactive plays; the life-saver / attack-stopper dual role at two mana with instant timing is the primary draw `[Scryfall: edhrec_rank, legalities]`.
+- **Artist** — Illustrated by Brian Valeza. No Hipsters of the Coast artist profile surfaced for Valeza in available search results `[Scryfall: artist field]`.
+
+### Related cards
+- Spider Umbra (Rise of the Eldrazi) — original totem armor cycle, same naming pattern
+- Cobra Umbra (Rise of the Eldrazi) — original totem armor cycle member
+- Bear Umbra (Rise of the Eldrazi / reprints) — best-known umbra armor Aura, still sees Commander play for its land-untap trigger
+- Pack Leader (M21, no. 29/274) — M21 Dog-tribal lord; Dog Umbra does NOT benefit from or count toward Pack Leader's effect despite sharing "Dog" in the name
+

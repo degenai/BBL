@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - ghost
+  - phantom
+  - wings
+  - apparition
+  - blue
+  - ethereal
+  - monster
+  - void
+  - dream
+  - indistinct
+  - memory
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - blue-magic
+  - creature-illusion
+  - flying
+  - portrait-mode
 reference_image: cards/_images/magic-the-gathering/eternal-masters/65-phantom-monster.png
 average_cost_paid: 0
 market_price: 0.04
@@ -30,6 +48,27 @@ mana_cost: "{3}{U}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: indeterminate
+setting: void
 ---
 
 # Phantom Monster (Eternal Masters)
+
+## Vision
+
+![65-phantom-monster](../../_images/magic-the-gathering/eternal-masters/65-phantom-monster.png)
+
+A large phantom creature occupies the frame, rendered entirely in deep and medium blue tones as a semi-translucent glowing apparition. The form suggests a large winged creature — broad wings are spread across the upper portion of the image, and a head with what may be a beak or snout shape is visible. Small taloned feet hang below in the lower portion of the composition. The entire form is indistinct and luminous, its edges bleeding into the surrounding dark blue void. There is no crisp outline — the creature is defined by internal blue glow more than by form. The mood is eerie and otherworldly, matching the flavor text's evocation of half-remembered memory.
+
+**Subject:** A ghostly translucent winged creature rendered entirely in deep blue, its form semi-amorphous with suggestions of a winged body, beak or snout, and taloned feet
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** void, indeterminate
+**Foreground:** glowing blue phantom creature, wings spread, faint suggestion of head and feet  *(palette: bright blue, pale blue, white-blue)*
+**Background:** deep blue void, dark indigo  *(palette: deep blue, near-black blue)*
+**Mood / lighting:** horror, ambient
+**Emotion read:** no readable expression; the formlessness itself projects unease and dread
+**Creatures:** phantom, winged-creature
+**Genre cues:** fantasy, dark fantasy
+

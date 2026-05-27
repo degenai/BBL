@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - armor
+  - warrior
+  - garden-city
+  - nature
+  - order
+  - mentor
+  - guardian
+  - leaf
+  - selesnya
+  - classical-architecture
+  - discipline
+  - gold
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - portrait-mode
+  - creature-centaur
+  - multicolor-green-white
 reference_image: cards/_images/magic-the-gathering/double-masters-2022/195-conclave-mentor.png
 average_cost_paid: 0
 market_price: 0.44
@@ -30,6 +48,28 @@ mana_cost: "{G}{W}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: peaceful
+time_of_day: day
+setting: urban
 ---
 
 # Conclave Mentor (Double Masters 2022)
+
+## Vision
+
+![195-conclave-mentor](../../_images/magic-the-gathering/double-masters-2022/195-conclave-mentor.png)
+
+A single armored figure stands in a confident, measured pose in the mid-ground of the scene. The armor is elaborate: deep green plate shaped with organic leaf forms, gold accents at the joints, and a broad chest piece. The headdress is a striking white geometric lattice — interlocking circular and angular forms that suggest both a crown and a natural canopy structure. The figure holds a sword lowered at rest, not raised for combat. The face is composed and direct. Behind the figure, classical stone columns and arched bridges recede into soft focus, draped with green vines and lit by warm diffuse sunlight. A golden tower is visible in the far background left. The atmosphere is one of civic order and cultivated nature — a garden-city maintained by discipline.
+
+**Subject:** a humanoid warrior in ornate green-and-white leaf-plate armor with an elaborate geometric headdress, standing at calm rest with a sword lowered, before classical Ravnica architecture
+
+**Composition:** mid-shot, portrait, figures: solo, facing: forward
+**Setting:** urban, organic, day, clear
+**Foreground:** armored figure with leaf-motif green plate and geometric white headdress, sword at rest  *(palette: deep green, gold, white, warm brown)*
+**Background:** classical stone columns, arched bridges, vines, warm ambient sunlight, distant tower  *(palette: soft green, warm gold, pale grey, ivory)*
+**Mood / lighting:** peaceful, soft
+**Emotion read:** calm authority — direct gaze, relaxed posture, sword lowered not raised
+**Objects:** sword, stone columns, arched bridges, vines
+**Iconography:** geometric lattice headdress, leaf-motif plate armor
+**Genre cues:** fantasy
+

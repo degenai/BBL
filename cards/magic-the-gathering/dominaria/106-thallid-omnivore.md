@@ -49,6 +49,8 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: forest
+characters:
+  - thallid-lineage
 ---
 
 # Thallid Omnivore (Dominaria)
@@ -84,4 +86,8 @@ A large bipedal fungal creature stands upright in a dense, lush jungle. Its body
 - Thelon of Havenwood (Time Spiral) — the named druid whose creation this creature-type represents
 - Sporecrown Thallid (DOM-182) — the thallid lord from the same set
 - Thallid (Fallen Empires) — the original 1994 printing that established the creature type
+
+## Connections
+
+- [[thallid-lineage]] — Sarpadian-cultivation-origin tier of the designer-implicit thallid-creature-type cohort. Flavor text directly names the cultivation founder: *"Thelon of Havenwood created thallids as a food source in times of darkness. Thallids did the same with saprolings."* This is the canonical engineer-administrator citation for the Sarpadian thallid lineage. Per MTG Wiki Thallid, Thelon used biological-cultivation methods borrowed from the Order of the Ebon Hand to infuse fungus with green mana, creating the thallid creature-type during the post-Sylex-Blast ice age — the same cultivation method the Ebon Hand had previously used to create thrulls, with both empires (Havenwood elves and Ebon Hand) canonically falling to their own creations during the Sarpadian collapse. The card's saproling-sacrifice-for-life-gain oracle text mechanically encodes the canonical food-chain-echo where cultivated thallids began consuming their saproling spawn in the same instrumental way Thelon had once used the thallids. `[Scryfall flavor_text; MTG Wiki — Thallid (Puppeteer-verified 2026-05-27); MTG Wiki — Sarpadia (Puppeteer-verified 2026-05-27)]`
 
