@@ -77,3 +77,14 @@ Two stout goblin figures tear through what appears to be a library or study. The
 **Iconography:** flame, books
 **Genre cues:** fantasy
 
+## Trivia
+
+- **Set context** — Goblin Wizardry was printed in Core Set 2021 (M21), released July 3, 2020. The set marked Prowess's return as a deciduous keyword (available to any set going forward), following its first appearance in Khans of Tarkir 2014 and use in several subsequent sets `[Scryfall; Hipsters of the Coast: "Core Set 2021 Limited Preview", 2020]`. Red-blue spell-slinger was one of M21's ten explicit two-color limited archetypes, and Goblin Wizardry fed that lane by producing prowess-bearing tokens on an instant or sorcery `[Hipsters of the Coast: "Core Set 2021 Limited Preview", 2020]`.
+- **Flavor text** — `"Quiet in the library" soon gave way to larger concerns.` `[Scryfall]`. The line is unattributed — dry understated humor used as flavor across several goblin cards. The phrasing ("gave way to larger concerns") suggests a chronicler of events who watched the library situation escalate beyond simple noise complaints, matching the art's library-destruction scene.
+- **Mechanical note** — Goblin Wizardry is notable for creating the Goblin Wizard creature type, a combination that does not otherwise appear frequently in MTG. Each token is a 1/1 with prowess — meaning every noncreature spell cast (including the Goblin Wizardry that created them, if cast at instant speed before they're on the field... they aren't — Wizardry is a sorcery) buffs them. The card is legal in Pauper and Pauper Commander formats, where token generation paired with cheap cantrips creates consistent damage `[Scryfall format legalities]`.
+- **Reprint history** — Reprinted in The List (August 2024) `[Scryfall prints search]`. Artist is credited as "Izzy" on Scryfall — a pen name used by illustrator Izzy Medrano, who has done extensive work for Wizards of the Coast across multiple sets `[Scryfall artist page: a:"Izzy"]`.
+
+### Related cards
+- Hobgoblin Bandit Lord (Adventures in the Forgotten Realms, no. 144) — another red Goblin spell-trigger payoff using similar token-generation mechanics
+- Goblin Wizard (various sets, original The Dark 1994) — the historical Goblin Wizard creature predating this card; the token this card creates carries its name
+- Wee Dragonauts (Izzet vs. Golgari / various) — classic red-blue prowess-adjacent token creature that Goblin Wizardry's tokens parallel in function

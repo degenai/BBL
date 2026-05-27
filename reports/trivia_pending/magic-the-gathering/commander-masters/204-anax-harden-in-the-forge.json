@@ -1,0 +1,41 @@
+{
+  "card_name": "Anax, Hardened in the Forge",
+  "game": "Magic: The Gathering",
+  "set": "Commander Masters",
+  "collector_number": "204",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Card oracle text names 'Anax' explicitly; type line is Legendary Enchantment Creature — Demigod; extensive named-character lore for king of Akros on Theros. Original printing is THB-125 (January 2020). Wizards-internal IP — no external licensing risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "CMM no. 204 (August 4, 2023) is a reprint of Theros Beyond Death THB-125 (January 24, 2020). Commander Masters was a reprint-focused set with no new story content, designed to increase access to powerful Commander cards.",
+      "sources": ["Scryfall prints search"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Anax was king of Akros on Theros, originally a follower of Iroas (god of victory), who later turned to Purphoros (god of the forge) as he built a small empire. He was gravely wounded in battle with Rhordon the Rageblood during Xenagos's siege of Akros. His wife Queen Cymede was claimed by Keranos and ascended to Nyx as divine lightning. In Theros Beyond Death, Anax returned as a Nyxborn demigod, leading satyr warriors and wielding a molten, smoke-wreathed axe.",
+      "sources": ["CoolStuffInc: Legends of Theros, Jay Annelli (2019)", "WebSearch: MTG Wiki Anax lore"]
+    },
+    {
+      "category": "design",
+      "text": "Theros Beyond Death introduced five demigod uncommon legendary creatures, all with devotion-based power/toughness and a triggered ability producing tokens on creature death. Anax was the red demigod in this cycle. The Enchantment creature type reflects the Theros mechanic: gods and demigods are enchantments first, becoming creatures when sufficiently worshipped (here: through devotion to red).",
+      "sources": ["Scryfall type_line", "dotesports.com: MTG guide for every demigod in Theros: Beyond Death"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 6,677 with over 376 Commander decks using Anax as head commander, primarily in Mono-Red Devotion, Aristocrats, and Sacrifice archetypes. The token-on-death trigger is notably broad — any nontoken creature you control dying creates at least one Satyr, giving red persistent board presence through sweepers.",
+      "sources": ["EDHREC via WebSearch", "Scryfall"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Anax and Cymede", "set": "Theros", "note": "Original card depicting both Anax and Cymede as a legendary creature team, before Cymede's ascension"},
+    {"name": "The Triumph of Anax", "set": "Theros Beyond Death", "note": "Enchantment saga depicting Anax's return as a demigod; shares his death-and-return narrative"},
+    {"name": "Purphoros, God of the Forge", "set": "Theros", "note": "The god Anax turned to in his later years; shares the red devotion mechanic structure with the demigod cycle"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

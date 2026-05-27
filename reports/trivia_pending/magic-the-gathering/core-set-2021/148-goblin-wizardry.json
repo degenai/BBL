@@ -1,0 +1,41 @@
+{
+  "card_name": "Goblin Wizardry",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "148",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Printed in Core Set 2021 (M21), released July 3, 2020. M21 marked Prowess's return as a deciduous keyword (available to any set going forward) after its first appearance in Khans of Tarkir (2014). Red-blue spell-slinger was one of M21's ten explicit limited archetypes; Goblin Wizardry fed that lane by producing prowess-bearing tokens.",
+      "sources": ["Scryfall", "Hipsters of the Coast: Core Set 2021 Limited Preview (2020)"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: '\"Quiet in the library\" soon gave way to larger concerns.' — unattributed [Scryfall]. Dry understated humor used as flavor; the phrasing suggests a chronicler watching events escalate beyond simple noise complaints, matching the library-destruction scene in the art.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "Creates the Goblin Wizard creature type, a combination that does not otherwise appear frequently in MTG. The original Goblin Wizard creature predates this card — it first appeared in The Dark (1994). Artist credited as 'Izzy' on Scryfall — pen name of illustrator Izzy Medrano, who has extensive MTG card credits across multiple sets.",
+      "sources": ["Scryfall artist page: a:Izzy", "Scryfall: Goblin Wizard (The Dark, 1994)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Pauper and Pauper Commander formats, where token generation paired with cheap cantrips creates consistent damage. Reprinted in The List (August 2024). EDHREC rank 13,300.",
+      "sources": ["Scryfall format legalities", "Scryfall prints search", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Goblin Wizard", "set": "The Dark (1994)", "note": "The original Goblin Wizard creature; the tokens Goblin Wizardry creates carry its name"},
+    {"name": "Hobgoblin Bandit Lord", "set": "Adventures in the Forgotten Realms", "note": "Another red Goblin spell-trigger payoff using similar token-generation mechanics"},
+    {"name": "Wee Dragonauts", "set": "Izzet vs. Golgari / various", "note": "Classic red-blue prowess-adjacent token creature that Goblin Wizardry's tokens parallel in function"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -10,8 +10,27 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - leonin
+  - cat
+  - light
+  - radiance
+  - enchantment-magic
+  - protection
+  - blessing
+  - warrior
+  - grassland
+  - golden
+  - devotion
+  - energy-transfer
+tags_filter:
+  - duo
+  - mid-shot
+  - three-quarter
+  - action
+  - white-magic
+  - enchantment-aura
+  - faces-left
 reference_image: cards/_images/magic-the-gathering/core-set-2021/25-light-of-promise.png
 average_cost_paid: 0
 market_price: 0.4
@@ -30,6 +49,29 @@ mana_cost: "{2}{W}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: sublime
+time_of_day: day
+setting: other
 ---
 
 # Light of Promise (Core Set 2021)
+
+## Vision
+
+![25-light-of-promise](../../_images/magic-the-gathering/core-set-2021/25-light-of-promise.png)
+
+A leonin figure — lion-featured humanoid in layered copper and brown armor — dominates the upper half of the frame, one clawed hand raised toward a brilliant starburst of golden-white light emanating from a central point. A second figure below, wearing a winged helmet and lighter armor, appears to be the target of the enchantment, their face turned upward toward the radiance. The background is an open golden grassland under a blue-purple sky with soft clouds. The energy streams outward in long curved arcs of yellow-gold light, filling the composition with warmth and movement.
+
+**Subject:** A leonin warrior in copper armor raises a clawed hand toward a burst of golden magical light, with a second armored figure below receiving or channeling the radiance
+
+**Composition:** mid-shot, action, figures: duo, facing: three-quarter
+**Setting:** other, day, clear
+**Foreground:** Leonin figure in copper armor, clawed hand raised, golden light burst at center  *(palette: gold, copper, amber, white)*
+**Background:** Open golden grassland, blue-purple sky with clouds  *(palette: blue, purple, gold, pale-yellow)*
+**Mood / lighting:** sublime, backlit
+**Emotion read:** Fierce upward reach, exertion or ecstasy — the leonin's posture reads as channeling something overwhelming
+**Objects:** magical-light-burst, armor
+**Creatures:** leonin
+**Iconography:** radiant-energy, light-rays
+**Genre cues:** fantasy
+

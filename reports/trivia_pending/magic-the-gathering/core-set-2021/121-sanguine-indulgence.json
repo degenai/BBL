@@ -1,0 +1,41 @@
+{
+  "card_name": "Sanguine Indulgence",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "121",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Printed in Core Set 2021 (M21), released July 3, 2020. Sits in M21's black-white lifegain limited archetype, where gaining 3 or more life in a single turn was the recurring payoff condition across multiple black cards. Has not been reprinted as of May 2026.",
+      "sources": ["Hipsters of the Coast: Core Set 2021 Limited Preview (2020)", "Scryfall prints search"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "\"Drink from the vein? How provincial.\" —Lord Duchorvin [Scryfall]. Lord Duchorvin does not appear elsewhere in printed MTG canon as a named character with lore pages — the name is flavor-only. The line positions a vampire aristocrat sneering at primitive direct feeding, asserting social hierarchy through method of consumption.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The cost-reduction mechanic (costs {3} less if you gained 3+ life this turn) makes this a free recursive effect in a functioning lifegain deck. In M21's B/W limited archetype, it combined with Silversmote Ghoul: the same lifegain threshold enables Silversmote's graveyard return AND Sanguine Indulgence's full cost discount.",
+      "sources": ["Scryfall oracle text", "MTGArena Zone: Sanguine Indulgence card page"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Pauper and Pauper Commander at release. EDHREC rank 14,899 reflects low Commander adoption — at common rarity the effect competes poorly with tutor-accessible recursion in higher-powered lists.",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Silversmote Ghoul", "set": "Core Set 2021", "note": "Shares the lifegain-3 threshold trigger; forms the core recursion engine of the M21 B/W lifegain limited archetype"},
+    {"name": "Vito, Thorn of the Dusk Rose", "set": "Core Set 2021", "note": "M21 vampire mythic whose drain-on-lifegain rewards the same lifegain-dense shell Sanguine Indulgence inhabits"},
+    {"name": "Griffin Aerie", "set": "Core Set 2021", "note": "White lifegain payoff the Hipsters M21 preview identified as a pillar of the B/W archetype alongside these black lifegain cards"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

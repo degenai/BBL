@@ -1,0 +1,41 @@
+{
+  "card_name": "Silversmote Ghoul",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "122",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Key payoff in Core Set 2021's black-white lifegain limited archetype, using the threshold of gaining 3 or more life in a single turn as the recurring trigger condition. Released July 3, 2020; reprinted in Commander 2021 (no. 154) — its only other printing as of May 2026.",
+      "sources": ["Hipsters of the Coast: Core Set 2021 Limited Preview (2020)", "Scryfall prints search"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: 'Being trapped between two forms of unlife is a fate worse than mere death.' — unattributed [Scryfall]. The text directly comments on the creature's type line: Zombie Vampire, a dual creature type that rarely appears in MTG. It frames the type combination not as a power upgrade but as a curse.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The 'Silversmote' name likely references the silver implement visible in the card art — a silver object embedded in the creature, inverting the folkloric ward against undead into an ironic part of the creature itself. No official Wizards design commentary on the name origin was located.",
+      "sources": ["Scryfall art; research note: no Wizards article found on this card's name origin"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The card does NOT need to be on the battlefield when you gain the life to trigger its end-step return — it watches from the graveyard. The sacrifice-draw exit ability ({1}{B}: sacrifice, draw a card) gives clean value when recursion is no longer useful. EDHREC rank 10,323.",
+      "sources": ["Scryfall oracle text", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Sanguine Indulgence", "set": "Core Set 2021", "note": "Shares the lifegain-3 threshold; same activation enables both Silversmote's graveyard return and Indulgence's cost discount"},
+    {"name": "Vito, Thorn of the Dusk Rose", "set": "Core Set 2021", "note": "M21 vampire mythic who turns lifegain into drain, enabling the threshold passively while threatening opponents"},
+    {"name": "Soul Warden", "set": "Tenth Edition / various", "note": "Classic white lifegain trigger engine that consistently enables the 3-life threshold for Silversmote recursion"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

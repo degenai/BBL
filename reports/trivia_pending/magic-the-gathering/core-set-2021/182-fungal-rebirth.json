@@ -1,0 +1,41 @@
+{
+  "card_name": "Fungal Rebirth",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "182",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Printed in Core Set 2021 (M21), released July 3, 2020. Sits in the black-green limited archetype, which M21 keyed around creatures dying on a player's turn as the enabling condition. Reprinted in Ravnica Remastered (January 2024, no. 142) and Ravnica: Clue Edition (February 2024, no. 163) — the Cevraya/Golgari flavor anchor fits both Ravnica-set reprints contextually.",
+      "sources": ["Hipsters of the Coast: Core Set 2021 Limited Preview (2020)", "Scryfall prints search"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: '\"We're all food for something in the end.\" —Cevraya, Golgari shaman' [Scryfall]. Cevraya is named as a Golgari shaman but does not appear elsewhere in printed MTG card canon as a named character with her own card — the name is flavor-only. The quote encapsulates Golgari philosophy: death and consumption as logistics rather than tragedy.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "design",
+      "text": "The fungal elemental depicted is not a named lore entity — it is a generic creature consistent with the card's Saproling token output. Illustrated by Nicholas Gregory. The creature visible in the art is not linked to any named MTG character by oracle text, flavor text, or Wizards article.",
+      "sources": ["Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "As an instant, can be held up and triggered reactively: respond to a removal spell, get your permanent back to hand, and if a creature died this turn (likely the creature the removal spell killed), also receive two Saproling tokens. EDHREC rank 5,757 — notably higher than most other M21 commons/uncommons in this batch, suggesting lasting use in graveyard and token Commander strategies.",
+      "sources": ["Scryfall oracle text", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Slimefoot, the Stowaway", "set": "Dominaria", "note": "Canonical Golgari/fungal Saproling commander whose themes Fungal Rebirth reinforces"},
+    {"name": "Spore Frog", "set": "Mercadian Masques / various", "note": "Classic Golgari-aligned frog that sacrifices for a fog effect; shares the fungal/death-cycle flavor space"},
+    {"name": "Golgari Findbroker", "set": "Guilds of Ravnica", "note": "Golgari permanent-recursion creature that parallels Fungal Rebirth's permanent-return effect in the same guild color space"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

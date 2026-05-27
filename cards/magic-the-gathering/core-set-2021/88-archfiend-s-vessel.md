@@ -75,3 +75,14 @@ A darkly robed figure stands center-frame in a candlelit ritual space, arms stre
 **Iconography:** blood, spectral-energy, wings
 **Genre cues:** fantasy, dark-fantasy
 
+## Trivia
+
+- **Set context** — Archfiend's Vessel is part of Core Set 2021 (M21), released July 3, 2020. M21 was designed around ten explicit two-color limited archetypes; blue-black graveyard was the dedicated reanimation lane, with Archfiend's Vessel and Obsessive Stitcher named as its key payoff cards `[Hipsters of the Coast: "Core Set 2021 Limited Preview", 2020]`. The set was headlined by Teferi, Master of Time as the face planeswalker `[Scryfall]`.
+- **Mechanical reputation** — The card's design tension is notable: a 1/1 lifelink for {B} that becomes a 5/5 flying Demon when returned from the graveyard makes it simultaneously a zero-threat one-drop and a reanimation payoff. The most consistent enabler identified by tournament players was Lurrus of the Dream-Den (companion, cheap recast from graveyard) alongside Call of the Death-Dweller, which could reanimate two copies on turn 3 for two 5/5 demons `[Star City Games: "Quest For The Archfiend", 2020; MTGGoldfish: Pioneer Archfiend Vessel Deck]`. Some evaluations noted the setup cost was significant and the payoff "mediocre" relative to other reanimation targets `[cardgamebase.com: "Lurrus Vessel decklist"]` — community sentiment, labeled as such.
+- **Design** — Illustrated by Jake Murray, a Columbus, Ohio-based fantasy and sci-fi illustrator. Murray sells prints of the Archfiend's Vessel art through his own INPRNT storefront under the title "Archfiend's Vessel" `[INPRNT: Jake Murray Studio Ltd gallery]`. The card has no flavor text in either its original or any subsequent printing `[Scryfall]`.
+- **Format legality** — Legal in Pioneer, Modern, Legacy, Vintage, and Commander as of 2026. Its EDHREC rank of 13,910 reflects modest inclusion in Commander — the five-mana-token payoff competes poorly against established graveyard pieces in the format `[Scryfall/EDHREC]`.
+
+### Related cards
+- Obsessive Stitcher (Core Set 2021, no. 226) — designed as the blue-black graveyard lane partner in M21 limited; loots to fill graveyard feeding Vessel
+- Call of the Death-Dweller (Ikoria, no. 78) — the reanimation spell most commonly paired to trigger Vessel's exile-and-replace ability at instant speed
+- Lurrus of the Dream-Den (Ikoria, no. 226) — companion shell that enabled recurring cheap casts of Vessel from the graveyard in Pioneer lists

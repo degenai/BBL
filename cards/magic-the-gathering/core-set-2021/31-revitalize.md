@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - healing
+  - potion
+  - soldier
+  - survival
+  - battlefield
+  - recovery
+  - exhaustion
+  - wound
+  - medicine
+  - service-worker
+  - labor
+  - resilience
+tags_filter:
+  - solo
+  - mid-shot
+  - three-quarter
+  - narrative
+  - white-magic
+  - instant
 reference_image: cards/_images/magic-the-gathering/core-set-2021/31-revitalize.png
 average_cost_paid: 0
 market_price: 0.17
@@ -30,6 +48,29 @@ mana_cost: "{1}{W}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: other
+time_of_day: indeterminate
+setting: other
 ---
 
 # Revitalize (Core Set 2021)
+
+## Vision
+
+![31-revitalize](../../_images/magic-the-gathering/core-set-2021/31-revitalize.png)
+
+A humanoid soldier in brown leather armor sits exhausted, back against a rough stone wall, head tilted back as they drink from a small glowing vessel held to their lips. The potion emits a warm radiant glow that illuminates their face from below. To their right, several arrows are stuck in the ground — evidence of recent battle. A bright burst of healing light radiates from above and behind. The mood is intimate and immediate: a private moment of recovery in the middle of a siege.
+
+**Subject:** A wounded soldier in leather armor sits propped against a stone wall, drinking from a glowing potion vial, with arrows stuck in the ground beside them
+
+**Composition:** mid-shot, narrative, figures: solo, facing: three-quarter
+**Setting:** other, ruined, indeterminate
+**Foreground:** Soldier in leather armor drinking glowing potion, seated against stone wall  *(palette: brown, amber, warm-white, tan)*
+**Background:** Stone wall, radiant healing light from above  *(palette: grey, white, pale-gold)*
+**Mood / lighting:** other, chiaroscuro
+**Emotion read:** Relief and desperation — head tilted back in urgent drinking, the body language reads as someone barely holding on
+**Objects:** potion-vial, arrows, leather-armor, stone-wall
+**Food/drink:** potion
+**Iconography:** healing-light, radiance
+**Genre cues:** fantasy
+

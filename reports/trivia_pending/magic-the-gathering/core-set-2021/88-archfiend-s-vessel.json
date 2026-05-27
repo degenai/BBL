@@ -1,0 +1,41 @@
+{
+  "card_name": "Archfiend's Vessel",
+  "game": "Magic: The Gathering",
+  "set": "Core Set 2021",
+  "collector_number": "88",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Part of Core Set 2021 (M21), released July 3, 2020. Blue-black graveyard was one of M21's ten explicit two-color limited archetypes; Archfiend's Vessel and Obsessive Stitcher were named as its key payoff cards.",
+      "sources": ["Scryfall", "Hipsters of the Coast: Core Set 2021 Limited Preview (2020)"]
+    },
+    {
+      "category": "mechanical",
+      "text": "The most consistent reanimation enablers identified by tournament players were Lurrus of the Dream-Den (companion) and Call of the Death-Dweller (which could put two copies back on turn 3 for two 5/5 demons). Some evaluations noted the setup cost was significant and the payoff 'mediocre' relative to other reanimation targets — community sentiment, labeled as such.",
+      "sources": ["Star City Games: Quest For The Archfiend (2020)", "MTGGoldfish: Pioneer Archfiend Vessel Deck", "cardgamebase.com: Lurrus Vessel decklist"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Jake Murray, a Columbus, Ohio-based fantasy illustrator who sells prints of the Archfiend's Vessel art through his INPRNT storefront. The card has no flavor text in any printing.",
+      "sources": ["INPRNT: Jake Murray Studio Ltd gallery", "Scryfall"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Legal in Pioneer, Modern, Legacy, Vintage, and Commander. EDHREC rank 13,910 reflects modest Commander inclusion — the five-mana-token payoff competes against established graveyard pieces.",
+      "sources": ["Scryfall", "EDHREC"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Obsessive Stitcher", "set": "Core Set 2021", "note": "Designed as the blue-black graveyard lane partner in M21 limited; loots to fill graveyard feeding Vessel"},
+    {"name": "Call of the Death-Dweller", "set": "Ikoria", "note": "The reanimation spell most commonly paired to trigger Vessel's exile-and-replace ability"},
+    {"name": "Lurrus of the Dream-Den", "set": "Ikoria", "note": "Companion shell that enabled recurring cheap casts of Vessel from the graveyard in Pioneer lists"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

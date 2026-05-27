@@ -1,0 +1,16 @@
+{
+  "cbg_slug": "CBG-005",
+  "finding_summary": "Snapping Voidcraw's 'Related cards' bullet describes Eldrazi Skyspawner with wrong mana cost ({1}{G}{U}) and wrong color identity (Simic) — Scryfall: actual cost is {2}{U} mono-blue",
+  "severity": "note",
+  "fixes": [
+    {
+      "file": "cards/magic-the-gathering/modern-horizons-3/204-snapping-voidcraw.md",
+      "operation": "edit",
+      "before": "- Eldrazi Skyspawner (Battle for Zendikar) — Eldrazi Devoid creature with {1}{G}{U} cost; same Simic Devoid design pattern",
+      "after": "- Eldrazi Skyspawner (Battle for Zendikar) — Eldrazi Drone with Devoid and Flying; mono-blue {2}{U} cost. Shares the BFZ-block Drone-tier Scion-generator design role at the airborne slot; thematic sibling rather than mana-cost match.",
+      "rationale": "Scryfall live API verification (GET /cards/named?exact=Eldrazi+Skyspawner&set=bfz) returns mana_cost '{2}{U}', color_identity ['U'], type_line 'Creature — Eldrazi Drone'. The current bullet's claims '{1}{G}{U} cost; same Simic Devoid design pattern' are both false — Skyspawner is mono-blue, not Simic. The two cards do share Devoid + Eldrazi typing + Drone-tier role, which is the corrected language above. (Snapping Voidcraw IS Simic — its mana_cost is {1}{G}{U} per `cards/magic-the-gathering/modern-horizons-3/204-snapping-voidcraw.md` frontmatter line 'mana_cost: \"{1}{G}{U}\"' — so the false attribution is the writer projecting Voidcraw's own cost onto Skyspawner.)"
+    }
+  ],
+  "verification_command": "grep -n 'Eldrazi Skyspawner' cards/magic-the-gathering/modern-horizons-3/204-snapping-voidcraw.md  # should show the corrected bullet text. Also confirm via Scryfall API: curl -s 'https://api.scryfall.com/cards/named?exact=Eldrazi+Skyspawner&set=bfz' | python -c \"import sys,json;d=json.load(sys.stdin);print(d['mana_cost'],d['color_identity'])\" → {2}{U} ['U']",
+  "uncertainty_notes": "The bullet replacement preserves the cohort-relevant content (Eldrazi Drone, Devoid, Flying, BFZ-block design role) while correcting the falsifiable cost+color claim. Alternate fix: shorter rewrite that just preserves 'Eldrazi Devoid creature' without the mechanical-detail expansion — depends on whether the corpus prefers terse Related-cards bullets or trivia-bullet-tier detail. Existing bullet style on this card (lines 93-95) is terse one-liner; the rewrite above is two sentences — could be trimmed to: 'Eldrazi Skyspawner (Battle for Zendikar) — mono-blue {2}{U} Eldrazi Drone with Devoid and Flying; thematic sibling at the BFZ-block Scion-generator design role'."
+}
