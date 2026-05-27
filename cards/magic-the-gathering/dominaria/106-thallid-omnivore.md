@@ -30,10 +30,10 @@ tags_filter:
   - secondary-figures-unresolved
 reference_image: cards/_images/magic-the-gathering/dominaria/106-thallid-omnivore.png
 average_cost_paid: 0
-market_price: 0.23
-market_price_as_of: 2026-05-24
+market_price: 0.22
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/9/9/99b35391-f1dc-434b-b581-ca6cb6f3439f.png?1562740048
 art_match_confidence: high
 needs_manual_review: false

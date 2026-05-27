@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/pokemon/trick-or-trade-booster-bundle-2024/077-162-scream-tail.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-19
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://images.pokemontcg.io/sv4/86_hires.png
 art_match_confidence: low
 needs_manual_review: true

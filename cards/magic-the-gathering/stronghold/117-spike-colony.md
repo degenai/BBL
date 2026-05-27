@@ -30,10 +30,10 @@ tags_filter:
   - forward-facing
 reference_image: cards/_images/magic-the-gathering/stronghold/117-spike-colony.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-24
+market_price: 0.13
+market_price_as_of: 2026-05-27
 date_added: 2026-05-13
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/a/6/a6ea4703-8521-4576-8405-4b923e0a9522.png?1562597341
 art_match_confidence: high
 needs_manual_review: false

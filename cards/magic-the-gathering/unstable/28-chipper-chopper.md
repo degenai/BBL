@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/unstable/28-chipper-chopper.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-18
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/8/a/8ac8dd95-4a5a-496d-95ce-c3356fce7df4.png?1562924342
 art_match_confidence: high
 needs_manual_review: false

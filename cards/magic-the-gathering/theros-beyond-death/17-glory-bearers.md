@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/17-glory-bearers.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/8/a/8a70e1be-f04a-43c1-8fca-205a24e3db38.png?1603430446
 art_match_confidence: high
 needs_manual_review: false

@@ -33,10 +33,10 @@ tags_filter:
   - instant
 reference_image: cards/_images/magic-the-gathering/core-set-2021/61-rain-of-revelation.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-24
+market_price: 0.19
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/d/a/da367981-9d6f-419f-9f58-f969b6183336.png?1594735631
 art_match_confidence: high
 needs_manual_review: false

@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/64-relentless-advance.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/4/2/4258e242-91c6-4b30-86ec-7759705aa97c.png?1557576292
 art_match_confidence: high
 needs_manual_review: false

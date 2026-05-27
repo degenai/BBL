@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/fate-reforged/165-bloodfell-caves.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-13
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/c/b/cbb65512-fb39-473e-b646-15ed81b55d17.png?1562829936
 art_match_confidence: high
 needs_manual_review: false

@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/55-benthic-infiltrator.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-24
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/f/3/f380ae58-08cc-42df-ac74-3c6890a62463.png?1562952787
 art_match_confidence: high
 needs_manual_review: false

@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/159-abomination-of-gudul.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-18
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/7/d/7df9759e-1072-4a6a-be57-f73b15bf3847.png?1562789157
 art_match_confidence: high
 needs_manual_review: false

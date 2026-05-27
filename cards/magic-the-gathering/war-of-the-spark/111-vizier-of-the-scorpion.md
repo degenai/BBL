@@ -35,10 +35,10 @@ tags_filter:
   - amass
 reference_image:
 average_cost_paid: 0
-market_price: 0.34
-market_price_as_of: 2026-05-24
+market_price: 0.35
+market_price_as_of: 2026-05-27
 date_added: 2026-05-05
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 art_match_confidence: none
 needs_manual_review: true
 manual_review_reason: No reference image found via scryfall for set 'War of the Spark'
@@ -52,11 +52,11 @@ art_crop_source_url: https://cards.scryfall.io/art_crop/front/2/4/2444c7dc-7aa1-
 flavor_text: His blessing is a curse.
 oracle_text: When this creature enters, amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)\nZombie tokens you control have deathtouch.
 mana_cost: "{2}{B}"
+review_bad: true
+review_notes: we gotta find this image
 tags:
   - card
   - vision-passed
-review_bad: true
-review_notes: we gotta find this image
 ---
 # Vizier of the Scorpion (War of the Spark)
 

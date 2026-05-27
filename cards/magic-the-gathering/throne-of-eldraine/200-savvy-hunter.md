@@ -42,10 +42,10 @@ tags_filter:
   - card-draw
 reference_image: 
 average_cost_paid: 0
-market_price: 0.26
-market_price_as_of: 2026-05-24
+market_price: 0.27
+market_price_as_of: 2026-05-27
 date_added: 2026-05-06
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/1/5/15c98441-2b31-4e48-a399-f36dffcfa41d.png?1572490818
 art_match_confidence: none
 needs_manual_review: true

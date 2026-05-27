@@ -33,10 +33,10 @@ tags_filter:
   - storyborn
 reference_image: cards/_images/lorcana/wilds-unknown/180-204-young-macintosh-proud-son.jpg
 average_cost_paid: 0
-market_price: 0.04
-market_price_as_of: 2026-05-24
+market_price: 0.03
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12/180_593a4afd383a78bb1447bce1cc973208f315d030.jpg
 art_match_confidence: high
 needs_manual_review: false

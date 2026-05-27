@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/231-kaya-bane-of-the-dead.png
 average_cost_paid: 0
 market_price: 0.22
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/a/9/a9b575d3-f3f9-4ff4-8e5c-da7c2ec69882.png?1557577364
 art_match_confidence: high
 needs_manual_review: false

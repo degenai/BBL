@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/125-fires-of-invention.png
 average_cost_paid: 0
 market_price: 0.32
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-12
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.png?1762698334
 art_match_confidence: high
 needs_manual_review: false

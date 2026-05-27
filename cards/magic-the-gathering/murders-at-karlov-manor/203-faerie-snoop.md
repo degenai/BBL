@@ -36,10 +36,10 @@ symbols:
   - disguise
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/203-faerie-snoop.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-24
+market_price: 0.09
+market_price_as_of: 2026-05-27
 date_added: 2026-05-11
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/2/0/20267dab-8898-4b44-8ef4-8a239967662c.png?1706242161
 art_match_confidence: high
 needs_manual_review: false

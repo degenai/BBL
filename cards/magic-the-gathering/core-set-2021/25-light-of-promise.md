@@ -33,10 +33,10 @@ tags_filter:
   - faces-left
 reference_image: cards/_images/magic-the-gathering/core-set-2021/25-light-of-promise.png
 average_cost_paid: 0
-market_price: 0.4
-market_price_as_of: 2026-05-24
+market_price: 0.39
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/d/5/d5f80411-0a95-4e0a-b7a8-af23ddf385cc.png?1594735041
 art_match_confidence: high
 needs_manual_review: false

@@ -31,10 +31,10 @@ tags_filter:
   - uncommon
 reference_image: cards/_images/pokemon/battle-styles/116-163-purugly.jpg
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-24
+market_price: 0.13
+market_price_as_of: 2026-05-27
 date_added: 2026-05-15
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://archives.bulbagarden.net/media/upload/3/37/PuruglyBattleStyles116.jpg
 art_match_confidence: high
 needs_manual_review: false

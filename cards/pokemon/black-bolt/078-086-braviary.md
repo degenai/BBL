@@ -31,10 +31,10 @@ tags_filter:
   - pokemon-species
 reference_image: cards/_images/pokemon/black-bolt/078-086-braviary.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-24
+market_price: 0.04
+market_price_as_of: 2026-05-27
 date_added: 2026-05-19
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://images.pokemontcg.io/zsv10pt5/78_hires.png
 art_match_confidence: high
 needs_manual_review: false

@@ -33,10 +33,10 @@ tags_filter:
   - basic-land-fetcher
 reference_image: 
 average_cost_paid: 0
-market_price: 0.26
-market_price_as_of: 2026-05-24
+market_price: 0.19
+market_price_as_of: 2026-05-27
 date_added: 2026-05-11
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/b/3/b379c8f1-817c-4f18-8f58-45c40504433e.png?1726286878
 art_match_confidence: none
 needs_manual_review: true

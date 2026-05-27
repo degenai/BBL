@@ -34,10 +34,10 @@ tags_filter:
   - red-magic
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/130-phyrexian-ironworks.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-24
+market_price: 0.2
+market_price_as_of: 2026-05-27
 date_added: 2026-05-11
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/6/d/6d64e1a8-cb4f-4968-b3e0-c9ca7c7894a3.png?1717047318
 art_match_confidence: high
 needs_manual_review: false

@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/pokemon/trick-or-trade-booster-bundle-2023/069-185-duskull.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-24
+market_price: 0.11
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://images.pokemontcg.io/xy2/38_hires.png
 art_match_confidence: low
 needs_manual_review: true

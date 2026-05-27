@@ -34,9 +34,9 @@ characters:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/209-baseball-bat.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/4/3/438accb1-6d2c-4710-adeb-df4301a7b8f1.png?1726286646
 art_match_confidence: high
 needs_manual_review: false

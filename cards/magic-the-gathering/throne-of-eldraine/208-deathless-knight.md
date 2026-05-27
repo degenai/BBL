@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/208-deathless-knight.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/3/9/39c6e952-97b5-435c-a7fd-6271ddc23200.png?1572490881
 art_match_confidence: high
 needs_manual_review: false

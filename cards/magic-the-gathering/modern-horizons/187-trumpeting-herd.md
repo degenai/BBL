@@ -30,10 +30,10 @@ tags_filter:
   - sorcery
 reference_image: cards/_images/magic-the-gathering/modern-horizons/187-trumpeting-herd.png
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-24
+market_price: 0.11
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/b/0/b0f3b68e-f616-4687-bc2d-075165162cd1.png?1562202240
 art_match_confidence: high
 needs_manual_review: false

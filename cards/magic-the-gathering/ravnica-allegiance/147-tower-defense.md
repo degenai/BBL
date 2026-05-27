@@ -31,10 +31,10 @@ tags_filter:
   - facing-up
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/147-tower-defense.png
 average_cost_paid: 0
-market_price: 0.29
-market_price_as_of: 2026-05-24
+market_price: 0.3
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/1/9/195e94a4-a698-4c66-9428-5cc8a40d42c6.png?1584831318
 art_match_confidence: high
 needs_manual_review: false

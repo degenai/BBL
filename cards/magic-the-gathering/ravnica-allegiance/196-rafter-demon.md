@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/196-rafter-demon.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/b/f/bf8dad4d-bc4f-46fb-892c-dbf6481cdc46.png?1584831721
 art_match_confidence: high
 needs_manual_review: false

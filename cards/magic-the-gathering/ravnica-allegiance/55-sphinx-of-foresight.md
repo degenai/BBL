@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/55-sphinx-of-foresight.png
 average_cost_paid: 0
-market_price: 0.37
-market_price_as_of: 2026-05-24
+market_price: 0.36
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/c/f/cf2386fd-edc0-4731-8f4e-7a7c45548bf3.png?1584830380
 art_match_confidence: high
 needs_manual_review: false

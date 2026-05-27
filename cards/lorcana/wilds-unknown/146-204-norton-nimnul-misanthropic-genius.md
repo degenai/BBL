@@ -34,10 +34,10 @@ tags_filter:
   - creature-allies
 reference_image: cards/_images/lorcana/wilds-unknown/146-204-norton-nimnul-misanthropic-genius.jpg
 average_cost_paid: 0
-market_price: 0.03
-market_price_as_of: 2026-05-24
+market_price: 0.02
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12/146_d855e5debaae441bbc48a5479c95375746faae18.jpg
 art_match_confidence: high
 needs_manual_review: false

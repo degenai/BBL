@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/magic-the-gathering/eternal-masters/44-daze.png
 average_cost_paid: 0
-market_price: 3.01
-market_price_as_of: 2026-05-24
+market_price: 3.03
+market_price_as_of: 2026-05-27
 date_added: 2026-05-19
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/f/0/f05e9a3e-8a35-4687-85cb-e31b3927a5e2.png?1776717738
 art_match_confidence: high
 needs_manual_review: false

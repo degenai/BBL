@@ -34,10 +34,10 @@ tags_filter:
   - faces-right
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/101-repeat-offender.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-24
+market_price: 0.08
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/0/c/0c2ca1e7-e0de-4d29-a81b-62185ccd295f.png?1706241744
 art_match_confidence: high
 needs_manual_review: false

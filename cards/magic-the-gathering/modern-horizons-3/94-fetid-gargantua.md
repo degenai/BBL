@@ -31,10 +31,10 @@ tags_filter:
   - no-face
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/94-fetid-gargantua.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-24
+market_price: 0.17
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/0/c/0cd368a9-5efe-4755-89be-a05cfa2b71c0.png?1717011967
 art_match_confidence: high
 needs_manual_review: false

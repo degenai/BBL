@@ -29,10 +29,10 @@ tags_filter:
   - creature-water
 reference_image: cards/_images/pokemon/burning-shadows/35-147-azumarill.png
 average_cost_paid: 0
-market_price: 0.26
-market_price_as_of: 2026-05-24
+market_price: 0.27
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://images.pokemontcg.io/sm3/35_hires.png
 art_match_confidence: high
 needs_manual_review: false

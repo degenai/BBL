@@ -29,10 +29,10 @@ tags_filter:
   - forward-facing
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-040-hidden-darkness-tapion.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-24
+market_price: 0.2
+market_price_as_of: 2026-05-27
 date_added: 2026-05-05
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-040_Hidden_Darkness_Tapion.png?v=1529239875
 image_width: 869
 image_height: 1210

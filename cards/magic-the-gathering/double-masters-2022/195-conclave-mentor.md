@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/double-masters-2022/195-conclave-mentor.png
 average_cost_paid: 0
 market_price: 0.44
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/2/e/2e2d72f6-bde3-49fb-976e-2d0c4dce60e3.png?1673148469
 art_match_confidence: high
 needs_manual_review: false

@@ -30,9 +30,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-038-hirudegarn-the-wanderer.png
 average_cost_paid: 0
 market_price: 0.01
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-12
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-038_Hirudegarn_the_Wanderer.png?v=1529237983
 image_width: 869
 image_height: 1210

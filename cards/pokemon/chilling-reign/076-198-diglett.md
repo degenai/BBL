@@ -30,10 +30,10 @@ tags_filter:
   - pokemon-basic
 reference_image: cards/_images/pokemon/chilling-reign/076-198-diglett.jpg
 average_cost_paid: 0
-market_price: 0.14
-market_price_as_of: 2026-05-24
+market_price: 0.13
+market_price_as_of: 2026-05-27
 date_added: 2026-05-06
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://archives.bulbagarden.net/media/upload/5/54/DiglettChillingReign76.jpg
 art_match_confidence: high
 needs_manual_review: false

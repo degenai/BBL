@@ -32,10 +32,10 @@ tags_filter:
   - land-island
 reference_image: cards/_images/magic-the-gathering/guilds-of-ravnica/261-island.png
 average_cost_paid: 0
-market_price: 0.44
-market_price_as_of: 2026-05-24
+market_price: 0.43
+market_price_as_of: 2026-05-27
 date_added: 2026-05-06
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 art_match_confidence: low
 needs_manual_review: true
 manual_review_reason: Set 'Guilds of Ravnica' did not match a known set code or the card was not in that set; fuzzy fallback returned art that may be from a different printing.

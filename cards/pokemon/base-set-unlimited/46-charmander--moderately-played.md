@@ -32,10 +32,10 @@ tags_filter:
   - modern-composite-style
 reference_image: cards/_images/pokemon/base-set-unlimited/46-charmander--moderately-played.png
 average_cost_paid: 0
-market_price: 2.01
-market_price_as_of: 2026-05-24
+market_price: 2.08
+market_price_as_of: 2026-05-27
 date_added: 2026-05-11
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://images.pokemontcg.io/base1/46_hires.png
 art_match_confidence: high
 needs_manual_review: false

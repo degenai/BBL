@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/lorcana/wilds-unknown/110-204-preston-whitmore-expedition-financier.jpg
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set12/110_7546aa858e08919c05a82645796568258af724a6.jpg
 art_match_confidence: high
 needs_manual_review: false

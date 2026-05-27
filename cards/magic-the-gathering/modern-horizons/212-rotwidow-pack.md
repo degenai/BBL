@@ -37,10 +37,10 @@ tags_filter:
   - token-generator
 reference_image: cards/_images/magic-the-gathering/modern-horizons/212-rotwidow-pack.png
 average_cost_paid: 0
-market_price: 0.34
-market_price_as_of: 2026-05-24
+market_price: 0.35
+market_price_as_of: 2026-05-27
 date_added: 2026-05-07
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/2/c/2cda35eb-ae42-43be-9015-3c468c7ebede.png?1562202397
 art_match_confidence: high
 needs_manual_review: false

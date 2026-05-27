@@ -35,10 +35,10 @@ tags_filter:
   - scene-mode
 reference_image: cards/_images/magic-the-gathering/dominaria/93-final-parting.png
 average_cost_paid: 0
-market_price: 0.59
-market_price_as_of: 2026-05-24
+market_price: 0.63
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/d/e/de8803f6-9efa-4323-b8c5-29bdd5a48f9a.png?1562744124
 art_match_confidence: high
 needs_manual_review: false

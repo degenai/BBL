@@ -34,10 +34,10 @@ symbols:
   - disguise
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/163-greenbelt-radical.png
 average_cost_paid: 0
-market_price: 0.25
-market_price_as_of: 2026-05-24
+market_price: 0.27
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/8/8/88e62346-cc62-4938-970c-b56beeb79fa6.png?1706241982
 art_match_confidence: high
 needs_manual_review: false

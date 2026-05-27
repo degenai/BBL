@@ -32,10 +32,10 @@ tags_filter:
   - no-aura
 reference_image: cards/_images/dragon-ball-super/union-force/bt2-017-hercule-buu-s-assistant.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-24
+market_price: 0.18
+market_price_as_of: 2026-05-27
 date_added: 2026-05-08
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/BT2-017.png
 image_width: 260
 image_height: 364

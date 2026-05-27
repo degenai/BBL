@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/130-molten-nursery.png
 average_cost_paid: 0
 market_price: 0.09
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/3/d/3db8aaf5-e2bf-40ea-bd5d-663017cfd4a6.png?1562909490
 art_match_confidence: high
 needs_manual_review: false

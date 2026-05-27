@@ -30,10 +30,10 @@ tags_filter:
   - pokemon-stage1
 reference_image: cards/_images/pokemon/chilling-reign/048-198-flaaffy.jpg
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-24
+market_price: 0.18
+market_price_as_of: 2026-05-27
 date_added: 2026-05-11
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://archives.bulbagarden.net/media/upload/0/0e/FlaaffyChillingReign48.jpg
 art_match_confidence: high
 needs_manual_review: false

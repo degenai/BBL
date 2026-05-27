@@ -31,9 +31,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/modern-horizons/96-mind-rake.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/6/8/682ccb0a-5e73-462e-a035-87d4dac59779.png?1562201667
 art_match_confidence: high
 needs_manual_review: false

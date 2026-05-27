@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/pokemon/fates-collide/71-whimsicott.png
 average_cost_paid: 0
 market_price: 0.37
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://images.pokemontcg.io/xy10/71_hires.png
 art_match_confidence: high
 needs_manual_review: false

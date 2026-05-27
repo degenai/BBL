@@ -40,10 +40,10 @@ tags_filter:
   - mythic-rarity
 reference_image: cards/_images/magic-the-gathering/core-set-2021/6-baneslayer-angel.png
 average_cost_paid: 0
-market_price: 2.64
-market_price_as_of: 2026-05-24
+market_price: 2.48
+market_price_as_of: 2026-05-27
 date_added: 2026-05-06
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason:
@@ -60,6 +60,7 @@ mana_cost: "{3}{W}{W}"
 image_width: 745
 image_height: 1040
 image_quality: high
+archived_on: 2026-05-26
 tags:
   - card
   - vision-passed

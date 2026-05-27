@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/40-ashiok-s-skulker.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/7/d/7dd5b0a1-104d-4e0f-82de-65487fbf01ff.png?1557576137
 art_match_confidence: high
 needs_manual_review: false

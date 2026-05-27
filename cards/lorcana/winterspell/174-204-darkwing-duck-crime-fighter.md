@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/lorcana/winterspell/174-204-darkwing-duck-crime-fighter.jpg
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set11/174_28e79a2685457dc0b0ea7ee499941adacf71ad56.jpg
 art_match_confidence: high
 needs_manual_review: false

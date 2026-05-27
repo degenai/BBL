@@ -31,10 +31,10 @@ tags_filter:
   - outdoor
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/96-gravedig.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-24
+market_price: 0.21
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/e/2/e2b054a9-7565-4fdd-b6a5-2786c5bb5b7e.png?1717011983
 art_match_confidence: high
 needs_manual_review: false

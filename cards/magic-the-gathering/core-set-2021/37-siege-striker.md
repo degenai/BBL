@@ -33,10 +33,10 @@ tags_filter:
   - crowd
 reference_image: cards/_images/magic-the-gathering/core-set-2021/37-siege-striker.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-24
+market_price: 0.11
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/7/a/7a0ffa89-e6ee-466c-8edc-dd24c8b52e80.png?1594735243
 art_match_confidence: high
 needs_manual_review: false

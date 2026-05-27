@@ -34,10 +34,10 @@ symbols:
   - manifest-dread
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/212-disturbing-mirth.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-24
+market_price: 0.1
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/f/7/f79b0c5d-6823-439c-a011-8b9bf424bdad.png?1726286660
 art_match_confidence: high
 needs_manual_review: false

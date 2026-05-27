@@ -30,10 +30,10 @@ tags_filter:
   - enchantment-aura
 reference_image: cards/_images/magic-the-gathering/modern-horizons/185-treefolk-umbra.png
 average_cost_paid: 0
-market_price: 0.23
-market_price_as_of: 2026-05-24
+market_price: 0.22
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/6/7/677166cf-4e1e-43ac-a67b-afaf33c0d14e.png?1562202227
 art_match_confidence: high
 needs_manual_review: false

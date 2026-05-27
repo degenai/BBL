@@ -36,10 +36,10 @@ tags_filter:
   - lifegain
 reference_image: cards/_images/magic-the-gathering/magic-2014-m14/222-staff-of-the-sun-magus.png
 average_cost_paid: 0
-market_price: 0.18
-market_price_as_of: 2026-05-24
+market_price: 0.17
+market_price_as_of: 2026-05-27
 date_added: 2026-05-07
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/9/0/90a1f830-d19a-4ebf-9573-09b677693dd6.png?1562832317
 art_match_confidence: high
 needs_manual_review: false

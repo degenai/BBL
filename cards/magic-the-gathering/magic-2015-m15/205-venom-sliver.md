@@ -33,10 +33,10 @@ tags_filter:
   - creature-sliver
 reference_image: cards/_images/magic-the-gathering/magic-2015-m15/205-venom-sliver.png
 average_cost_paid: 0
-market_price: 1.81
-market_price_as_of: 2026-05-24
+market_price: 1.79
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/8/d/8db38bd9-bf58-41ca-84b9-f3582670143e.png?1562790708
 art_match_confidence: high
 needs_manual_review: false

@@ -32,10 +32,10 @@ tags_filter:
   - uncommon
 reference_image: cards/_images/pokemon/destined-rivals/058-182-floatzel.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-24
+market_price: 0.08
+market_price_as_of: 2026-05-27
 date_added: 2026-05-19
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://images.pokemontcg.io/sv10/58_hires.png
 art_match_confidence: high
 needs_manual_review: false

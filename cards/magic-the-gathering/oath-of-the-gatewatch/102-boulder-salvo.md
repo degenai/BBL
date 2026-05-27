@@ -30,9 +30,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/oath-of-the-gatewatch/102-boulder-salvo.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/4/e/4e269989-bb22-4da4-a374-434a572e8e8f.png?1562910801
 art_match_confidence: high
 needs_manual_review: false

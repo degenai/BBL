@@ -37,10 +37,10 @@ tags_filter:
   - start-your-engines
 reference_image: cards/_images/magic-the-gathering/aetherdrift/62-slick-imitator.png
 average_cost_paid: 0
-market_price: 0.25
-market_price_as_of: 2026-05-24
+market_price: 0.24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-11
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/3/e/3e86ef50-4939-4e7c-853d-438f0f3e0411.png?1738356253
 art_match_confidence: high
 needs_manual_review: false

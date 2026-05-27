@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/core-set-2020/205-woodland-champion--foil.png
 average_cost_paid: 0
 market_price: 0.3
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-18
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/2/5/250f5303-428a-478c-9bd5-2410f7fcc4dd.png?1592517480
 art_match_confidence: high
 needs_manual_review: false

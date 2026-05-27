@@ -36,10 +36,10 @@ tags_filter:
   - blue-magic
 reference_image: cards/_images/magic-the-gathering/core-set-2021/65-roaming-ghostlight.png
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-24
+market_price: 0.1
+market_price_as_of: 2026-05-27
 date_added: 2026-05-06
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 mood: sublime
 time_of_day: night
 setting: void

@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/weiss-schwarz/poppin-party-x-roselia/bd-we35-e20-c-stepxstep-kasumi-toyama-parallel-foil.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-05
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/GBP21/PPR/WE35_E20.png
 art_match_confidence: high
 needs_manual_review: false

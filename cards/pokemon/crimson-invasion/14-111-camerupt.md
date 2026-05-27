@@ -34,10 +34,10 @@ tags_filter:
   - creature-ground
 reference_image: cards/_images/pokemon/crimson-invasion/14-111-camerupt.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-24
+market_price: 0.21
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://images.pokemontcg.io/sm4/14_hires.png
 art_match_confidence: high
 needs_manual_review: false

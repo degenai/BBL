@@ -35,10 +35,10 @@ symbols:
   - eerie
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/71-scrabbling-skullcrab.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-24
+market_price: 0.27
+market_price_as_of: 2026-05-27
 date_added: 2026-05-11
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/c/1/c1017b8e-e7fa-41de-8eb2-2e4a59db5117.png?1726286116
 art_match_confidence: high
 needs_manual_review: false

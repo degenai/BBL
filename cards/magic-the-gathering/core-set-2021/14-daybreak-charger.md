@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/core-set-2021/14-daybreak-charger.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/f/f/ff87a671-054f-4357-8a62-450d36559a1b.png?1594734866
 art_match_confidence: high
 needs_manual_review: false

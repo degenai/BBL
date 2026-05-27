@@ -32,10 +32,10 @@ tags_filter:
   - item-card
 reference_image: cards/_images/pokemon/rebel-clash/171-192-capture-energy.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-24
+market_price: 0.27
+market_price_as_of: 2026-05-27
 date_added: 2026-05-11
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://images.pokemontcg.io/swsh2/171_hires.png
 art_match_confidence: high
 needs_manual_review: false

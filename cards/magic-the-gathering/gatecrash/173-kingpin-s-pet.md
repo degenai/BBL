@@ -34,10 +34,10 @@ tags_filter:
   - extort
 reference_image: cards/_images/magic-the-gathering/gatecrash/173-kingpin-s-pet.png
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-24
+market_price: 0.09
+market_price_as_of: 2026-05-27
 date_added: 2026-05-13
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/3/4/3465cf63-4f10-4b53-9703-69746364dbc7.png?1561822414
 art_match_confidence: high
 needs_manual_review: false

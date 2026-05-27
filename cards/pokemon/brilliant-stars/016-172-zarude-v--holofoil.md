@@ -34,10 +34,10 @@ tags_filter:
   - ultra-rare
 reference_image: cards/_images/pokemon/brilliant-stars/016-172-zarude-v--holofoil.jpg
 average_cost_paid: 0
-market_price: 0.68
-market_price_as_of: 2026-05-24
+market_price: 0.73
+market_price_as_of: 2026-05-27
 date_added: 2026-05-06
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://archives.bulbagarden.net/media/upload/f/f1/ZarudeVBrilliantStars16.jpg
 art_match_confidence: high
 needs_manual_review: false

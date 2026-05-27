@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/core-set-2021/121-sanguine-indulgence.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/a/b/abfcd08a-cfb5-4d34-b950-f57a88c5cb8e.png?1594736365
 art_match_confidence: high
 needs_manual_review: false

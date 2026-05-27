@@ -32,10 +32,10 @@ tags_filter:
   - rare
 reference_image: cards/_images/pokemon/fusion-strike/207-264-dunsparce.jpg
 average_cost_paid: 0
-market_price: 0.09
-market_price_as_of: 2026-05-24
+market_price: 0.07
+market_price_as_of: 2026-05-27
 date_added: 2026-05-08
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://archives.bulbagarden.net/media/upload/2/2c/DunsparceFusionStrike207.jpg
 art_match_confidence: high
 needs_manual_review: false

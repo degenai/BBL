@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/83-cauldron-s-gift.png
 average_cost_paid: 0
-market_price: 0.2
-market_price_as_of: 2026-05-24
+market_price: 0.22
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/5/d/5db19a94-1170-45a0-9f06-893bf58b7233.png?1572490110
 art_match_confidence: high
 needs_manual_review: false

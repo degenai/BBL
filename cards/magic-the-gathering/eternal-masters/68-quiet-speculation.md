@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/eternal-masters/68-quiet-speculation.png
 average_cost_paid: 0
 market_price: 0.52
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-19
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/c/d/cd12fd06-26c5-42d8-936c-fe10b778a561.png?1580014091
 art_match_confidence: high
 needs_manual_review: false

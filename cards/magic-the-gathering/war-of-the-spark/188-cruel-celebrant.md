@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/188-cruel-celebrant.png
 average_cost_paid: 0
-market_price: 0.73
-market_price_as_of: 2026-05-24
+market_price: 0.76
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/8/7/87ead6ac-b1c5-4852-8413-7fa43c6cfc57.png?1557577084
 art_match_confidence: high
 needs_manual_review: false

@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/47-shadow-glider.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-12
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/b/4/b4ffaf62-2e12-4b1d-a590-f63aacb4a30b.png?1562937667
 art_match_confidence: high
 needs_manual_review: false

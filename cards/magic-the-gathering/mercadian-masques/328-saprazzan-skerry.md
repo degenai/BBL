@@ -2,7 +2,7 @@
 name: Saprazzan Skerry
 game: "Magic: The Gathering"
 set: Mercadian Masques
-collector_number: 328
+collector_number: 
 rarity: C
 variance: Normal
 grade: Ungraded
@@ -33,10 +33,10 @@ tags_filter:
   - mana-source
 reference_image: cards/_images/magic-the-gathering/mercadian-masques/328-saprazzan-skerry.png
 average_cost_paid: 0
-market_price: 2.71
-market_price_as_of: 2026-05-24
+market_price: 2.79
+market_price_as_of: 2026-05-27
 date_added: 2026-05-07
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/0/0/006871fd-2641-42cb-a2ac-a33d05fc5a35.png?1562378939
 art_match_confidence: high
 needs_manual_review: false

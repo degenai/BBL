@@ -33,10 +33,10 @@ tags_filter:
   - enchantment
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/175-trickster-s-elk.png
 average_cost_paid: 0
-market_price: 0.23
-market_price_as_of: 2026-05-24
+market_price: 0.26
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/8/1/812af562-853a-48a3-b428-ad891c54be5c.png?1717012625
 art_match_confidence: high
 needs_manual_review: false

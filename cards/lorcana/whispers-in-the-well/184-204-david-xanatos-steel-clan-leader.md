@@ -32,10 +32,10 @@ tags_filter:
   - disney-lorcana
 reference_image: cards/_images/lorcana/whispers-in-the-well/184-204-david-xanatos-steel-clan-leader.jpg
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-24
+market_price: 0.09
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set10/184_e28abc268f0b1a8b854f48cf71dbec9f2c99c793.jpg
 art_match_confidence: high
 needs_manual_review: false

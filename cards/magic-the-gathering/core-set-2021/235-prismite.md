@@ -31,9 +31,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/core-set-2021/235-prismite.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/e/e/eedce8ab-771a-4247-9504-72ae0629df83.png?1594737532
 art_match_confidence: high
 needs_manual_review: false

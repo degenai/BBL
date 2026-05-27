@@ -7,7 +7,7 @@ rarity: R
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 0
+quantity: 1
 held_for_lair: 0
 bundles: []
 tags_hub:
@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/18-ignite-the-beacon.png
 average_cost_paid: 0
 market_price: 0.25
-market_price_as_of: 2026-05-19
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-19
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/4/e/4e11d6f9-0b80-4b19-ab96-23f80b66b409.png?1557575979
 art_match_confidence: high
 needs_manual_review: false

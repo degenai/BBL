@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/85-aspect-of-lamprey.png
 average_cost_paid: 0
 market_price: 0.16
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/2/7/27157f01-8aed-4485-9f0f-9e7486492e6e.png?1581479695
 art_match_confidence: high
 needs_manual_review: false

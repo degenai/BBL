@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/dominaria/104-soul-salvage.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/3/4/347060c0-fef7-45da-b42e-8e11051b2c69.png?1562733860
 art_match_confidence: high
 needs_manual_review: false

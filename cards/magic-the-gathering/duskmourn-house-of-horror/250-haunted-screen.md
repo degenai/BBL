@@ -36,9 +36,9 @@ characters:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/250-haunted-screen.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/5/e/5e7d552f-a7ac-4a49-a582-9d378137005f.png?1726286805
 art_match_confidence: high
 needs_manual_review: false

@@ -38,10 +38,10 @@ tags_filter:
   - common
 reference_image: cards/_images/magic-the-gathering/commander-legends/65-deranged-assistant.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-24
+market_price: 0.25
+market_price_as_of: 2026-05-27
 date_added: 2026-05-06
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/7/3/73373421-c43d-4152-818a-55abc85b477a.png?1608909173
 art_match_confidence: high
 needs_manual_review: false

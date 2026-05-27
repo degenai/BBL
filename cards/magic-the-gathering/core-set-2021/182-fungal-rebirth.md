@@ -33,10 +33,10 @@ tags_filter:
   - instant
 reference_image: cards/_images/magic-the-gathering/core-set-2021/182-fungal-rebirth.png
 average_cost_paid: 0
-market_price: 0.33
-market_price_as_of: 2026-05-24
+market_price: 0.31
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/4/0/4037e3b2-cb62-4f88-943d-3edcd6827c23.png?1594736973
 art_match_confidence: high
 needs_manual_review: false

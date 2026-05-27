@@ -34,10 +34,10 @@ tags_filter:
   - creature-human-cleric
 reference_image: cards/_images/magic-the-gathering/dominaria/105-stronghold-confessor.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-24
+market_price: 0.08
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/a/b/ab3fcc43-839b-48c1-91e3-7cc80d8c7f9a.png?1562741080
 art_match_confidence: high
 needs_manual_review: false

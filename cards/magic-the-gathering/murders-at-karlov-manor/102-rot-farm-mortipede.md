@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/102-rot-farm-mortipede.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/0/2/023b0142-663a-47e7-a9f1-0b565a172b60.png?1706241745
 art_match_confidence: high
 needs_manual_review: false

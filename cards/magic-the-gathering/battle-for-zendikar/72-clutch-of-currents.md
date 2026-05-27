@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/72-clutch-of-currents.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-24
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/3/d/3d20f482-e0b2-4e4a-be32-347ab112912c.png?1562909364
 art_match_confidence: high
 needs_manual_review: false

@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/weiss-schwarz/the-seven-deadly-sins/sds-sx03-080-r-guila-switching-sides.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-05
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/s/sds_sx03/SDS_SX03_080.png
 art_match_confidence: high
 needs_manual_review: false

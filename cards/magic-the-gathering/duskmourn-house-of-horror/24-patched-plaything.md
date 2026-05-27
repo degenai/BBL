@@ -36,9 +36,9 @@ characters:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/24-patched-plaything.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/5/1/513da431-4f3a-4f4a-8be4-7e162dd93307.png?1726285949
 art_match_confidence: high
 needs_manual_review: false

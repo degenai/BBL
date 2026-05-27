@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/164-wrap-in-flames.png
 average_cost_paid: 0
 market_price: 0.05
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason:

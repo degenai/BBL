@@ -30,10 +30,10 @@ tags_filter:
   - disney-lorcana
 reference_image: cards/_images/lorcana/archazia-s-island/146-204-edgar-balthazar-ambitious-butler.jpg
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-24
+market_price: 0.04
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://api.lorcana.ravensburger.com/images/en/set7/146_5254296dbd63bdd058ea0a2d900755e033615311.jpg
 art_match_confidence: high
 needs_manual_review: false

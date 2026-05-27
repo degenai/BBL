@@ -33,10 +33,10 @@ tags_filter:
   - faces-right
 reference_image: cards/_images/magic-the-gathering/dominaria/72-unwind.png
 average_cost_paid: 0
-market_price: 1.01
-market_price_as_of: 2026-05-24
+market_price: 0.97
+market_price_as_of: 2026-05-27
 date_added: 2026-05-24
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/9/7/97da6607-9131-4f8b-8af3-63439a59b78b.png?1562739909
 art_match_confidence: high
 needs_manual_review: false

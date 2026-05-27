@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: https://en.ws-tcg.com/wordpress/wp-content/images/cardimages/updates/Misc Updates/AOT_S35_E029a.png
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 art_match_confidence: high
 needs_manual_review: false
 tags:

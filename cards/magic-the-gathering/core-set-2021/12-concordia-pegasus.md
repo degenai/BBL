@@ -38,9 +38,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/core-set-2021/12-concordia-pegasus.png
 average_cost_paid: 0
 market_price: 0.12
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-06
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/600d3517-e370-47ae-ac4f-c7ef8995a89c.png?1594734840
 art_match_confidence: high
 needs_manual_review: false
@@ -56,6 +56,7 @@ mana_cost: "{1}{W}"
 image_width: 745
 image_height: 1040
 image_quality: high
+archived_on: 2026-05-26
 tags:
   - card
   - vision-passed

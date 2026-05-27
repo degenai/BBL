@@ -34,10 +34,10 @@ tags_filter:
   - saddle
 reference_image: cards/_images/magic-the-gathering/aetherdrift/8-canyon-vaulter.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-24
+market_price: 0.2
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/c/c/cc0b15da-a45c-42f5-aafc-20ad9e38bf24.png?1738356122
 art_match_confidence: high
 needs_manual_review: false

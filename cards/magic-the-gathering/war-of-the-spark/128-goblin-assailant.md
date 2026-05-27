@@ -30,10 +30,10 @@ tags_filter:
   - creature
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/128-goblin-assailant.png
 average_cost_paid: 0
-market_price: 0.1
-market_price_as_of: 2026-05-24
+market_price: 0.09
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/e/4/e41acc81-7c22-4b59-97b8-54473623db6f.png?1557576697
 art_match_confidence: high
 needs_manual_review: false

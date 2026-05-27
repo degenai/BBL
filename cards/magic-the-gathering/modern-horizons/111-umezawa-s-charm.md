@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/modern-horizons/111-umezawa-s-charm.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/a/f/afbbb742-0317-4266-bcf5-cfea8d21f108.png?1562201755
 art_match_confidence: high
 needs_manual_review: false

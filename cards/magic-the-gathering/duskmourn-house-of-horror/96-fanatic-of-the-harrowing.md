@@ -32,10 +32,10 @@ tags_filter:
   - female-figure
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/96-fanatic-of-the-harrowing.png
 average_cost_paid: 0
-market_price: 0.11
-market_price_as_of: 2026-05-24
+market_price: 0.14
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/2/a/2a0acb05-91e0-4f7c-b48b-99e1068fad16.png?1726286207
 art_match_confidence: high
 needs_manual_review: false

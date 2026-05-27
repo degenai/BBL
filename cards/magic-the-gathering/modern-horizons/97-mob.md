@@ -30,10 +30,10 @@ tags_filter:
   - black-magic
 reference_image: cards/_images/magic-the-gathering/modern-horizons/97-mob.png
 average_cost_paid: 0
-market_price: 0.11
-market_price_as_of: 2026-05-24
+market_price: 0.12
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/3/c/3c216e13-3779-4734-b481-9aad7aba9925.png?1562201673
 art_match_confidence: high
 needs_manual_review: false

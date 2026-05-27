@@ -34,10 +34,10 @@ tags_filter:
   - crowd
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/138-offender-at-large.png
 average_cost_paid: 0
-market_price: 0.06
-market_price_as_of: 2026-05-24
+market_price: 0.05
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/f/0/f096ff4a-85f4-46f1-9478-e8921f21309d.png?1706241900
 art_match_confidence: high
 needs_manual_review: false

@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 1
+quantity: 2
 held_for_lair: 0
 bundles: []
 symbols:
@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/126-inventor-s-axe.png
 average_cost_paid: 0
 market_price: 0.13
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/3/b/3b2f918c-bd02-4a63-b4c2-ca204c77b208.png?1717012217
 art_match_confidence: high
 needs_manual_review: false

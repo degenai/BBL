@@ -33,10 +33,10 @@ tags_filter:
   - flying
 reference_image: 
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-24
+market_price: 0.13
+market_price_as_of: 2026-05-27
 date_added: 2026-05-12
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 characters:
   - kor
 reference_image_source_url: https://cards.scryfall.io/png/front/5/4/54938334-ebad-4dde-82e6-8c854aef4a91.png?1562912220

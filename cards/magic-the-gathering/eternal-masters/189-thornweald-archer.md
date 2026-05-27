@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/eternal-masters/189-thornweald-archer.png
 average_cost_paid: 0
 market_price: 0.21
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/6/0/608b0f34-83be-44a3-ba92-69df9b8af8d1.png?1580014948
 art_match_confidence: high
 needs_manual_review: false

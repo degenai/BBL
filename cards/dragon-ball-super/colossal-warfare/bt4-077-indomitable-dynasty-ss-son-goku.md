@@ -33,10 +33,10 @@ tags_filter:
   - anime
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-077-indomitable-dynasty-ss-son-goku.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-24
+market_price: 0.06
+market_price_as_of: 2026-05-27
 date_added: 2026-05-06
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/BT4-077.png
 image_width: 260
 image_height: 362

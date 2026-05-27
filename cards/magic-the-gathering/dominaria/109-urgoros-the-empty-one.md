@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/dominaria/109-urgoros-the-empty-one.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/e/8/e8652fb7-1bce-44ee-b75e-4c773ff8fdb3.png?1562744748
 art_match_confidence: high
 needs_manual_review: false

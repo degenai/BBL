@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/178-they-went-this-way.png
 average_cost_paid: 0
 market_price: 0.19
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-10
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/f/4/f4a31d4a-34bc-46b4-b20f-a5460191b35d.png?1706242086
 art_match_confidence: high
 needs_manual_review: false

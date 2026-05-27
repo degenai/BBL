@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-048-mercenary-tao-trading-moves.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-12
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-048_Mercenary_Tao_Trading_Moves.png?v=1534965291
 image_width: 646
 image_height: 900

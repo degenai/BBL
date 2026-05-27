@@ -36,9 +36,9 @@ symbols:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/81-unwilling-vessel.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-11
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/5/d/5d1758ed-fe33-4ead-8c83-e54fabcb4cfe.png?1726286151
 art_match_confidence: high
 needs_manual_review: false

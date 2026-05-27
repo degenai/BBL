@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/war-of-the-spark/192-domri-s-ambush.png
 average_cost_paid: 0
 market_price: 0.31
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/b/0/b0dcae59-e9be-45a8-8ed8-5b47309bb716.png?1557577110
 art_match_confidence: high
 needs_manual_review: false

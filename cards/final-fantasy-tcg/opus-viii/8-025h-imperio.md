@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/final-fantasy-tcg/opus-viii/8-025h-imperio.jpg
 average_cost_paid: 0
 market_price: 0.15
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://storage.googleapis.com/marcieapi-images/8-025H_eg.jpg
 art_match_confidence: high
 needs_manual_review: false

@@ -30,10 +30,10 @@ tags_filter:
   - three-quarter
 reference_image: cards/_images/magic-the-gathering/scars-of-mirrodin/131-untamed-might.png
 average_cost_paid: 0
-market_price: 0.11
-market_price_as_of: 2026-05-24
+market_price: 0.1
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/1/7/17979f0e-bd39-449f-b4ed-9156c229223b.png?1562815001
 art_match_confidence: high
 needs_manual_review: false

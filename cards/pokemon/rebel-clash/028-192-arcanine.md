@@ -29,10 +29,10 @@ tags_filter:
   - pokemon-species
 reference_image: cards/_images/pokemon/rebel-clash/028-192-arcanine.png
 average_cost_paid: 0
-market_price: 0.45
-market_price_as_of: 2026-05-24
+market_price: 0.44
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://images.pokemontcg.io/swsh2/28_hires.png
 art_match_confidence: high
 needs_manual_review: false

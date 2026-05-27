@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/2-archon-of-falling-stars.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-12
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/d/0/d0dd1e40-a514-42df-8cc1-364998c7700c.png?1581478933
 art_match_confidence: high
 needs_manual_review: false
@@ -52,6 +52,7 @@ mood: sublime
 time_of_day: night
 setting: other
 mana_cost: "{4}{W}{W}"
+archived_on: 2026-05-26
 tags:
   - card
   - vision-passed

@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 12
+quantity: 1
 held_for_lair: 0
 bundles: []
 tags_hub:
@@ -28,9 +28,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/alara-reborn/84-vectis-dominator.png
 average_cost_paid: 0
 market_price: 0.07
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-07
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 mood: sublime
 time_of_day: indeterminate
 setting: other

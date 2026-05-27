@@ -27,10 +27,10 @@ tags_filter:
   - foil
 reference_image: cards/_images/dragon-ball-super/world-martial-arts-tournament/tb2-055-unending-moves-tien-shinhan--foil.png
 average_cost_paid: 0
-market_price: 0.21
-market_price_as_of: 2026-05-24
+market_price: 0.22
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/TB2-055_Unending_Moves_Tien_Shinhan.png?v=1534966259
 art_match_confidence: high
 needs_manual_review: false

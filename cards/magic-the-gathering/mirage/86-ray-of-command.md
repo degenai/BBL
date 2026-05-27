@@ -2,7 +2,7 @@
 name: Ray of Command
 game: "Magic: The Gathering"
 set: Mirage
-collector_number: 86
+collector_number: 
 rarity: C
 variance: Normal
 grade: Ungraded
@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/mirage/86-ray-of-command.png
 average_cost_paid: 0
 market_price: 0.2
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-18
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/4/3/4361c600-7a97-46bf-8cc1-f3713d3c28ab.png?1562718799
 art_match_confidence: high
 needs_manual_review: false

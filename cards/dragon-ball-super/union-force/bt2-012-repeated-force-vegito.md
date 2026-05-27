@@ -36,9 +36,9 @@ tags_filter:
 reference_image: cards/_images/dragon-ball-super/union-force/bt2-012-repeated-force-vegito.png
 average_cost_paid: 0
 market_price: 0.42
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-05
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://www.dbs-cardgame.com/images/cardlist/cardimg/BT2-012.png
 image_width: 260
 image_height: 364

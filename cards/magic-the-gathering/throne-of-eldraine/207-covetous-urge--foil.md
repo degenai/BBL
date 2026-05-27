@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/207-covetous-urge--foil.png
 average_cost_paid: 0
 market_price: 0.23
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-18
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/f/3/f3b4871d-4d74-411b-88e0-9a9d386cafe1.png?1572490875
 art_match_confidence: high
 needs_manual_review: false

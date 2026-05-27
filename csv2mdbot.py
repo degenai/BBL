@@ -109,10 +109,20 @@ def find_price_column(fieldnames: Iterable[str]) -> tuple[str | None, str | None
 
 
 def unique_key(row: dict) -> tuple:
+    # COL_NAME must be in the key (added 2026-05-27 after the wave-211 token-
+    # collision bug): MTG tokens share collector_number space with the parent
+    # set's cards (e.g. CMR-8 Anointer of Valor + CMR-8 Elf Warrior Token).
+    # Without COL_NAME in the key, two rows aggregate to the same dict entry,
+    # the later row overwrites the earlier, and the earlier row's MD path
+    # never enters seen_card_paths so its card gets wrongly archived as
+    # "absent from CSV." Caught when 6 MTG cards (Baneslayer Angel M21-6 etc.)
+    # got falsely zeroed by a Collectr export that also contained their
+    # numbered token siblings.
     return (
         row.get(COL_CATEGORY, "").strip(),
         canonical_set_name(row.get(COL_SET, "")).strip(),
         row.get(COL_NUMBER, "").strip(),
+        row.get(COL_NAME, "").strip(),
         row.get(COL_VARIANCE, "").strip() or DEFAULT_VARIANCE,
         row.get(COL_GRADE, "").strip() or DEFAULT_GRADE,
         row.get(COL_CONDITION, "").strip() or DEFAULT_CONDITION,
@@ -479,11 +489,22 @@ def _is_non_card_node(path: Path, fm: dict) -> bool:
 
 def _zero_and_archive_dir(active_dir: Path, archive_dir: Path,
                           seen_paths: set[Path], report: dict, dry_run: bool,
-                          report_prefix: str = "") -> None:
-    """Shared zero-out + archive logic for any active/archive pair (cards or sealed)."""
+                          report_prefix: str = "",
+                          allow_archive: bool = False) -> None:
+    """Shared zero-out + archive logic for any active/archive pair (cards or sealed).
+
+    Per `allow_archive` guard (added 2026-05-27 after wave-211 token-collision
+    incident wrongly archived 6 MTG cards): when False (default), this function
+    only IDENTIFIES which cards would be zeroed/archived and records their
+    paths in `report['zero_candidates']`. The actual zero+archive operations
+    are skipped, leaving the corpus unchanged. The caller is expected to
+    print the candidate list and require the human to re-run with
+    `--allow-archive` after confirming the inventory differences are real.
+    """
     if not active_dir.exists():
         return
     today = date.today().isoformat()
+    report.setdefault(f"{report_prefix}zero_candidates", [])
 
     # Zero out anything not seen this run
     for existing in active_dir.rglob("*.md"):
@@ -492,6 +513,11 @@ def _zero_and_archive_dir(active_dir: Path, archive_dir: Path,
         text = existing.read_text(encoding="utf-8")
         fm = parse_frontmatter(text)
         if _is_non_card_node(existing, fm):
+            continue
+        # Always record the candidate path for the report
+        report[f"{report_prefix}zero_candidates"].append(str(existing))
+        # GUARD: only mutate state if explicitly allowed
+        if not allow_archive:
             continue
         new_text = re.sub(
             r"^(quantity:\s*)\d+",
@@ -506,6 +532,11 @@ def _zero_and_archive_dir(active_dir: Path, archive_dir: Path,
         report[f"{report_prefix}zeroed"] += 1
 
     # Archive any zero-quantity nodes (stamping archived_on)
+    # GUARDED: only fires when allow_archive is True. Otherwise the loop
+    # only counts candidates without moving any files. Prevents unintended
+    # side-effect archiving on routine CSV ingests.
+    if not allow_archive:
+        return
     for existing in list(active_dir.rglob("*.md")):
         text = existing.read_text(encoding="utf-8")
         fm = parse_frontmatter(text)
@@ -564,7 +595,8 @@ def _cleanup_misplaced_sealed_in_cards(cards_dir: Path, dry_run: bool) -> int:
 
 
 def reconcile(csv_path: Path, cards_dir: Path, archive_dir: Path,
-              sealed_dir: Path, sealed_archive_dir: Path, dry_run: bool) -> dict:
+              sealed_dir: Path, sealed_archive_dir: Path, dry_run: bool,
+              allow_archive: bool = False) -> dict:
     today = date.today().isoformat()
     report = {
         "created": 0, "updated": 0, "zeroed": 0, "archived": 0, "kept": 0,
@@ -648,7 +680,8 @@ def reconcile(csv_path: Path, cards_dir: Path, archive_dir: Path,
             seen_card_paths.add(path)
             report["created"] += 1
 
-    _zero_and_archive_dir(cards_dir, archive_dir, seen_card_paths, report, dry_run)
+    _zero_and_archive_dir(cards_dir, archive_dir, seen_card_paths, report, dry_run,
+                          allow_archive=allow_archive)
 
     # --- Sealed pass ---
     sealed_agg: dict[tuple, dict] = {}
@@ -696,7 +729,7 @@ def reconcile(csv_path: Path, cards_dir: Path, archive_dir: Path,
             report["sealed_created"] += 1
 
     _zero_and_archive_dir(sealed_dir, sealed_archive_dir, seen_sealed_paths, report, dry_run,
-                          report_prefix="sealed_")
+                          report_prefix="sealed_", allow_archive=allow_archive)
 
     return report
 
@@ -754,6 +787,13 @@ def main():
                     help="Report what would happen without writing files")
     ap.add_argument("--force", action="store_true",
                     help="Run even if CSV hash matches the last run")
+    ap.add_argument("--allow-archive", action="store_true",
+                    help="Allow zero-out + archive of cards absent from CSV. "
+                         "Default (without flag): identify zero-candidates and "
+                         "list them in the report, but do NOT touch the corpus. "
+                         "Guard added after the wave-211 token-collision "
+                         "incident wrongly archived 6 cards. Confirm zeroes "
+                         "are real before passing this flag.")
     args = ap.parse_args()
 
     if not args.csv_path.exists():
@@ -767,7 +807,8 @@ def main():
         sys.exit(0)
 
     report = reconcile(args.csv_path, args.cards_dir, args.archive_dir,
-                       args.sealed_dir, args.sealed_archive_dir, args.dry_run)
+                       args.sealed_dir, args.sealed_archive_dir, args.dry_run,
+                       allow_archive=args.allow_archive)
 
     print(f"\n=== csv2mdbot run report{' (DRY RUN)' if args.dry_run else ''} ===")
     print("  -- Singles --")
@@ -782,6 +823,25 @@ def main():
     print(f"    Zeroed:   {report['sealed_zeroed']}")
     print(f"    Archived: {report['sealed_archived']} (qty=0 moved to {args.sealed_archive_dir})")
     print(f"    Kept:     {report['sealed_kept']}")
+    # Zero-candidates surfacing: when allow_archive was not passed and any
+    # cards/sealed look absent from the CSV, list them so the human can
+    # confirm before re-running with --allow-archive.
+    zero_singles = report.get("zero_candidates", []) or []
+    zero_sealed = report.get("sealed_zero_candidates", []) or []
+    if (zero_singles or zero_sealed) and not args.allow_archive:
+        print()
+        print("  ⚠️  ZERO CANDIDATES DETECTED — NOT applied (default safety guard).")
+        print(f"      {len(zero_singles)} card(s) + {len(zero_sealed)} sealed item(s) appear absent from the CSV.")
+        print("      Review the list below. If these are real sales/trades, re-run with --allow-archive.")
+        print("      If they look wrong, investigate before re-running (e.g. token-collision bug, wave-211 incident).")
+        for p in zero_singles:
+            print(f"        - {p}")
+        for p in zero_sealed:
+            print(f"        - [sealed] {p}")
+        print()
+    elif (zero_singles or zero_sealed) and args.allow_archive:
+        print(f"  (--allow-archive: applied {len(zero_singles)} card zero(es) + {len(zero_sealed)} sealed zero(es).)")
+
     if report["misplaced_sealed_cleaned"]:
         print(f"  -- Migration: {report['misplaced_sealed_cleaned']} sealed nodes "
               f"removed from {args.cards_dir} (re-created under {args.sealed_dir})")

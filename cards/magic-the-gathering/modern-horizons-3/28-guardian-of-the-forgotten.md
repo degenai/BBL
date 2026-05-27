@@ -32,10 +32,10 @@ tags_filter:
   - vigilance
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/28-guardian-of-the-forgotten.png
 average_cost_paid: 0
-market_price: 0.17
-market_price_as_of: 2026-05-24
+market_price: 0.16
+market_price_as_of: 2026-05-27
 date_added: 2026-05-11
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/8/0/8032c909-3170-45ab-a552-a8dc683b0a6e.png?1717011424
 art_match_confidence: high
 needs_manual_review: false

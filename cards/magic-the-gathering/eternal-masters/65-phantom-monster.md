@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/eternal-masters/65-phantom-monster.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-19
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/2/3/23e65e19-bc2b-4450-98ea-02a13effeb57.png?1580014071
 art_match_confidence: high
 needs_manual_review: false

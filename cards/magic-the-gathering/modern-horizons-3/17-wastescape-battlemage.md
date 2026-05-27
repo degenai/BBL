@@ -36,10 +36,10 @@ tags_filter:
   - kicker
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/17-wastescape-battlemage.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-24
+market_price: 0.24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-11
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/6/b/6bc119b8-429c-4ab6-adba-b65b03810e98.png?1770815948
 art_match_confidence: high
 needs_manual_review: false

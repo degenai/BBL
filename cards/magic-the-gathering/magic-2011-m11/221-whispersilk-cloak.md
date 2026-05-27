@@ -35,10 +35,10 @@ tags_filter:
   - three-quarter-facing
 reference_image: cards/_images/magic-the-gathering/magic-2011-m11/221-whispersilk-cloak.png
 average_cost_paid: 0
-market_price: 3.92
-market_price_as_of: 2026-05-24
+market_price: 3.88
+market_price_as_of: 2026-05-27
 date_added: 2026-05-07
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/d/8/d83821b3-a6a6-4a15-9169-5c6d1942903d.png?1562477224
 art_match_confidence: high
 needs_manual_review: false

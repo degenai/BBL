@@ -35,9 +35,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/216-eutropia-the-twice-favored.png
 average_cost_paid: 0
 market_price: 0.08
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-17
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/c/2/c2159949-3d21-448d-bc34-a3dbaf219476.png?1581481050
 art_match_confidence: high
 needs_manual_review: false

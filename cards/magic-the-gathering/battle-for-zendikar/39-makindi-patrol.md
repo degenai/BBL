@@ -32,10 +32,10 @@ tags_filter:
   - rally
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/39-makindi-patrol.png
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-24
+market_price: 0.14
+market_price_as_of: 2026-05-27
 date_added: 2026-05-12
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/a/e/ae03f018-3062-4b1c-99b8-13fcffd70b49.png?1562936085
 art_match_confidence: high
 needs_manual_review: false

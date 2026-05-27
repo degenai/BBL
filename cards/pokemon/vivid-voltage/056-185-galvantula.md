@@ -32,10 +32,10 @@ tags_filter:
   - pokemon
 reference_image: cards/_images/pokemon/vivid-voltage/056-185-galvantula.png
 average_cost_paid: 0
-market_price: 0.07
-market_price_as_of: 2026-05-24
+market_price: 0.05
+market_price_as_of: 2026-05-27
 date_added: 2026-05-11
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://images.pokemontcg.io/swsh4/56_hires.png
 art_match_confidence: high
 needs_manual_review: false

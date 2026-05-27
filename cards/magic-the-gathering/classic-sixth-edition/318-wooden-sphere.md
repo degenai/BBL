@@ -7,7 +7,7 @@ rarity: U
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 3
+quantity: 1
 held_for_lair: 0
 bundles: []
 tags_hub:
@@ -35,9 +35,9 @@ tags_filter:
 reference_image: 
 average_cost_paid: 0
 market_price: 0.24
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-07
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/e/f/ef706d86-6e7f-4f3a-9e4d-8aa6d9aac74a.png?1562824402
 art_match_confidence: none
 needs_manual_review: true

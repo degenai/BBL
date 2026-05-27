@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/magic-the-gathering/dominaria/75-wizard-s-retort.png
 average_cost_paid: 0
-market_price: 0.34
-market_price_as_of: 2026-05-24
+market_price: 0.38
+market_price_as_of: 2026-05-27
 date_added: 2026-05-24
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/9/7/979cd394-80ce-4559-9f3a-57cd84299182.png?1600699298
 art_match_confidence: low
 needs_manual_review: true

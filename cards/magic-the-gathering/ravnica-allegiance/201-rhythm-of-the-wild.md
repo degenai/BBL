@@ -31,10 +31,10 @@ tags_filter:
   - crowd
 reference_image: cards/_images/magic-the-gathering/ravnica-allegiance/201-rhythm-of-the-wild.png
 average_cost_paid: 0
-market_price: 4.81
-market_price_as_of: 2026-05-24
+market_price: 4.76
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/8/4/84062ce2-fea2-4e06-b83b-7cc597fb2a1b.png?1584831773
 art_match_confidence: high
 needs_manual_review: false

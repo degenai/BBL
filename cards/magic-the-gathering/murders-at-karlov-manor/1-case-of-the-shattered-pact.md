@@ -33,10 +33,10 @@ tags_filter:
   - portrait-mode
 reference_image: cards/_images/magic-the-gathering/murders-at-karlov-manor/1-case-of-the-shattered-pact.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-24
+market_price: 0.23
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/2/a/2a70f0ae-d49b-4cc8-9f76-895039c3dc39.png?1778830616
 art_match_confidence: high
 needs_manual_review: false

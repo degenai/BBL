@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/140-incendiary-oracle.png
 average_cost_paid: 0
 market_price: 0.03
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/e/b/eb6b9b5c-35ff-47ac-9b04-71257314b686.png?1581480217
 art_match_confidence: high
 needs_manual_review: false

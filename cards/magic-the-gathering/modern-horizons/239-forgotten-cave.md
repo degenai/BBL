@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/magic-the-gathering/modern-horizons/239-forgotten-cave.png
 average_cost_paid: 0
-market_price: 0.22
-market_price_as_of: 2026-05-24
+market_price: 0.26
+market_price_as_of: 2026-05-27
 date_added: 2026-05-18
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/9/d/9d41b5e4-6b9a-419a-ba49-611c4699eda2.png?1562202558
 art_match_confidence: high
 needs_manual_review: false

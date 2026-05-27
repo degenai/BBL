@@ -31,10 +31,10 @@ tags_filter:
   - flying
 reference_image: cards/_images/dragon-ball-super/colossal-warfare/bt4-023-trunks-iron-vow-trunks.png
 average_cost_paid: 0
-market_price: 0.05
-market_price_as_of: 2026-05-24
+market_price: 0.06
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cdn.shopify.com/s/files/1/0992/8692/products/BT4-023_Trunks_-_Iron_Vow_Trunks.png?v=1529499142
 art_match_confidence: high
 needs_manual_review: false

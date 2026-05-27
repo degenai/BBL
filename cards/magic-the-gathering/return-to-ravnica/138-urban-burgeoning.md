@@ -31,10 +31,10 @@ tags_filter:
   - scene-mode
 reference_image: cards/_images/magic-the-gathering/return-to-ravnica/138-urban-burgeoning.png
 average_cost_paid: 0
-market_price: 0.19
-market_price_as_of: 2026-05-24
+market_price: 0.21
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/3/9/393c230f-5bc3-4b71-b5ac-81d5ce227df5.png?1562784951
 art_match_confidence: high
 needs_manual_review: false

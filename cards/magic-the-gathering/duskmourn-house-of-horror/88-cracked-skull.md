@@ -32,9 +32,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/88-cracked-skull.png
 average_cost_paid: 0
 market_price: 0.11
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/7/6/7616ad5e-ed30-4876-8743-6f0f9f143ea1.png?1726286178
 art_match_confidence: high
 needs_manual_review: false

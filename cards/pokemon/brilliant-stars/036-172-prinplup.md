@@ -31,10 +31,10 @@ tags_filter:
   - pokemon-water-type
 reference_image: cards/_images/pokemon/brilliant-stars/036-172-prinplup.jpg
 average_cost_paid: 0
-market_price: 0.13
-market_price_as_of: 2026-05-24
+market_price: 0.12
+market_price_as_of: 2026-05-27
 date_added: 2026-05-07
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://archives.bulbagarden.net/media/upload/2/2f/PrinplupBrilliantStars36.jpg
 art_match_confidence: high
 needs_manual_review: false

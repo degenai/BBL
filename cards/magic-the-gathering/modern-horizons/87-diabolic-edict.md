@@ -14,10 +14,10 @@ tags_hub: []
 tags_filter: []
 reference_image: cards/_images/magic-the-gathering/modern-horizons/87-diabolic-edict.png
 average_cost_paid: 0
-market_price: 0.31
-market_price_as_of: 2026-05-24
+market_price: 0.33
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/4/e/4eabbed2-1399-4cf1-9eba-b53c56caced4.png?1591104828
 art_match_confidence: high
 needs_manual_review: false

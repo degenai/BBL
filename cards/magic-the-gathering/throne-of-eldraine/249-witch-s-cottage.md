@@ -7,7 +7,7 @@ rarity: C
 variance: Normal
 grade: Ungraded
 condition: Near Mint
-quantity: 5
+quantity: 8
 held_for_lair: 0
 bundles: []
 tags_hub:
@@ -34,10 +34,10 @@ tags_filter:
   - landscape-composition
 reference_image: cards/_images/magic-the-gathering/throne-of-eldraine/249-witch-s-cottage.png
 average_cost_paid: 0
-market_price: 0.98
-market_price_as_of: 2026-05-24
+market_price: 0.85
+market_price_as_of: 2026-05-27
 date_added: 2026-05-05
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/b/8/b87891cd-b457-4dff-8d18-a7eaf6748fc6.png?1572491253
 art_match_confidence: high
 needs_manual_review: false

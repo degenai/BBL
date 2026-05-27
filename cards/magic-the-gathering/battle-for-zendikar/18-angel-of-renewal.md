@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/battle-for-zendikar/18-angel-of-renewal.png
 average_cost_paid: 0
 market_price: 0.27
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-12
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/0/f/0f882ac2-3cbc-4548-8c83-d2a7443991df.png?1562898637
 art_match_confidence: high
 needs_manual_review: false

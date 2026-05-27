@@ -35,10 +35,10 @@ tags_filter:
   - common
 reference_image: cards/_images/magic-the-gathering/modern-horizons-3/150-eldrazi-repurposer.png
 average_cost_paid: 0
-market_price: 0.27
-market_price_as_of: 2026-05-24
+market_price: 0.25
+market_price_as_of: 2026-05-27
 date_added: 2026-05-10
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/3/7/37f79ba7-7b65-4387-b498-f770816ce8dd.png?1717012430
 art_match_confidence: high
 needs_manual_review: false

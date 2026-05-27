@@ -35,10 +35,10 @@ tags_filter:
   - red-magic
 reference_image: cards/_images/magic-the-gathering/duskmourn-house-of-horror/159-trial-of-agony.png
 average_cost_paid: 0
-market_price: 0.28
-market_price_as_of: 2026-05-24
+market_price: 0.26
+market_price_as_of: 2026-05-27
 date_added: 2026-05-11
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/f/a/fa62f67a-d20f-4d99-b0a2-327634299c9f.png?1726286448
 art_match_confidence: high
 needs_manual_review: false

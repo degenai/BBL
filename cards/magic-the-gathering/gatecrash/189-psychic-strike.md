@@ -34,9 +34,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/gatecrash/189-psychic-strike.png
 average_cost_paid: 0
 market_price: 0.31
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-13
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/0/d/0d87927c-80a6-4146-92a5-58c510ce7958.png?1561815780
 art_match_confidence: high
 needs_manual_review: false

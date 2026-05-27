@@ -33,9 +33,9 @@ tags_filter:
 reference_image: cards/_images/magic-the-gathering/khans-of-tarkir/155-tusked-colossodon.png
 average_cost_paid: 0
 market_price: 0.1
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-14
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/2/d/2d511407-0c1e-4342-a578-ca557c6886fd.png?1562784330
 art_match_confidence: high
 needs_manual_review: false

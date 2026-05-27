@@ -33,10 +33,10 @@ tags_filter:
   - flying
 reference_image: cards/_images/magic-the-gathering/commander-legends/8-anointer-of-valor.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-24
+market_price: 0.11
+market_price_as_of: 2026-05-27
 date_added: 2026-05-06
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/d/6/d66fcbb8-0fa5-48a9-b40c-d5a12f09a858.png?1612228481
 art_match_confidence: high
 needs_manual_review: false
@@ -52,6 +52,7 @@ mana_cost: "{5}{W}"
 image_width: 745
 image_height: 1040
 image_quality: high
+archived_on: 2026-05-26
 tags:
   - card
   - vision-passed

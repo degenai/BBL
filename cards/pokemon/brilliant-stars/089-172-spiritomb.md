@@ -34,10 +34,10 @@ tags_filter:
   - no-face
 reference_image: cards/_images/pokemon/brilliant-stars/089-172-spiritomb.jpg
 average_cost_paid: 0
-market_price: 0.08
-market_price_as_of: 2026-05-24
+market_price: 0.06
+market_price_as_of: 2026-05-27
 date_added: 2026-05-07
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://archives.bulbagarden.net/media/upload/7/79/SpiritombBrilliantStars89.jpg
 art_match_confidence: high
 needs_manual_review: false

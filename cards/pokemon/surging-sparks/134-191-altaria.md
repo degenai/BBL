@@ -31,10 +31,10 @@ tags_filter:
   - stage-1
 reference_image: cards/_images/pokemon/surging-sparks/134-191-altaria.png
 average_cost_paid: 0
-market_price: 0.12
-market_price_as_of: 2026-05-24
+market_price: 0.14
+market_price_as_of: 2026-05-27
 date_added: 2026-05-19
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://images.pokemontcg.io/sv8/134_hires.png
 art_match_confidence: high
 needs_manual_review: false

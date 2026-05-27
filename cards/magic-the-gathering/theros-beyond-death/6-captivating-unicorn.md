@@ -35,10 +35,10 @@ tags_filter:
   - creature-unicorn
 reference_image: cards/_images/magic-the-gathering/theros-beyond-death/6-captivating-unicorn.png
 average_cost_paid: 0
-market_price: 0.16
-market_price_as_of: 2026-05-24
+market_price: 0.17
+market_price_as_of: 2026-05-27
 date_added: 2026-05-05
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 art_match_confidence: high
 needs_manual_review: false
 manual_review_reason: 

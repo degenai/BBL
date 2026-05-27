@@ -15,9 +15,9 @@ tags_filter: []
 reference_image: cards/_images/magic-the-gathering/dominaria/99-lingering-phantom.png
 average_cost_paid: 0
 market_price: 0.04
-market_price_as_of: 2026-05-24
+market_price_as_of: 2026-05-27
 date_added: 2026-05-16
-last_seen: 2026-05-23
+last_seen: 2026-05-26
 reference_image_source_url: https://cards.scryfall.io/png/front/2/3/2316239e-8fe6-467f-87e6-a3f4d19b860e.png?1562732666
 art_match_confidence: high
 needs_manual_review: false
