@@ -1,0 +1,42 @@
+{
+  "card_name": "Feral Abomination",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "92",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"'Urborg used to be lovely—scenic volcanoes, respectable lich lords. Since the Cabal came with their nightmares and thrulls, it's all gone to the worms.' —Mister Lostspoons, Skulltown gossip\" Mister Lostspoons is a Skulltown local on the island of Urborg. The quote is a comedic elegy for Urborg's prior supernatural ecosystem: 'respectable lich lords' is a genuine compliment by local standards, contrasting with the chaos the Cabal's thrulls and dementia creatures have introduced. [Scryfall]",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Feral Abomination is typed as a Thrull — a creature type with deep roots in Dominaria lore, originally bred by the Cabal's spiritual predecessors in the fallen empire of Sarpadia. In Dominaria (2018), Belzenlok's Cabal re-established dominance over Urborg, bringing thrulls and 'nightmares' with them. The Cabal's relocation to Urborg (from their prior stronghold in Otaria) is directly lamented in this card's flavor text. [Scryfall type_line; MTG Wiki: Cabal, via WebSearch]",
+      "sources": ["Scryfall type_line", "MTG Wiki: Cabal, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Feral Abomination has been reprinted twice: in The List (November 2019, with the original Darek Zabrocki art and Dominaria flavor text) and in Core Set 2020 (July 2019, same Zabrocki art but different flavor text attributed to 'Byaras, backwoods guide'). The Core Set 2020 printing strips the Urborg/Cabal context and replaces it with a generic swamp-horror line, reflecting how reprints into non-narrative sets tend to genericize setting-specific flavor. [Scryfall prints data]",
+      "sources": ["Scryfall prints data"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At six mana for a 5/5 Thrull with Deathtouch, Feral Abomination is a common-rarity Pauper-legal creature. In Limited (Dominaria draft), a 5/5 deathtouch on six mana is a respectable top-end blocker that threatens profitable trades against anything. In Pauper Constructed it sees minimal play — too expensive and vanilla to compete. EDHREC rank 25,504. [Scryfall oracle_text, legalities, edhrec_rank]",
+      "sources": ["Scryfall oracle_text, legalities, edhrec_rank"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cabal Stronghold", "set": "Dominaria", "note": "The Cabal's Urborg headquarters whose influence the flavor text laments"},
+    {"name": "Stronghold Confessor", "set": "Dominaria", "note": "Another Cabal-adjacent Urborg creature from the same set"},
+    {"name": "Demonlord Belzenlok", "set": "Dominaria", "note": "The demon whose Cabal brought 'nightmares and thrulls' to Urborg per the flavor text"},
+    {"name": "Feral Abomination", "set": "Core Set 2020", "note": "Reprint of the same card with alternate (generic) flavor text, same Darek Zabrocki art"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "cbg_slug": "CBG-015",
+  "finding_summary": "Theros geography confab across iroas.md, mogis.md, 154-skophos-warleader.md, 141-infuriate.md: Akros is asserted to be 'in northern Phoberos' and Skophos is asserted to be 'in northern Phoberos' or 'in the northern canyons of Phoberos'. Per MTG Wiki canonical sources (Akros, Phoberos, Skophos pages, surfaced via WebSearch), Akros is canonically a polis 'high in the Katachthon Mountains' (Sparta-coded warrior city); Phoberos is the badlands region 'just west of Akros and south of Skophos' (minotaur outcast-raider territory, NOT the location of either polis); Skophos is canonically north of Phoberos as a separate labyrinthine city. Neither Akros nor Skophos is IN Phoberos — Phoberos is the badlands BETWEEN them, separated geographically rather than containing them. The 'in northern Phoberos' framing is a corpus-wide confab spanning two character-node bodies + two card trivia bullets.",
+  "severity": "note",
+  "fixes": [
+    {
+      "file": "cards/_characters/iroas.md",
+      "operation": "edit",
+      "before": "faction: \"Theros Pantheon — multicolor secondary god (red-white); twin of Mogis (god of slaughter, red-black); patron deity of the polis of Akros in northern Phoberos; god of victory, honorable warfare, athletic competition, and the just-war register of conflict; presiding deity of the Iroan Games, Theros's annual athletic competition that rewards winners with a personal visit from the god rather than a material prize\"",
+      "after": "faction: \"Theros Pantheon — multicolor secondary god (red-white); twin of Mogis (god of slaughter, red-black); patron deity of the polis of Akros high in the Katachthon Mountains (the Sparta-coded warrior city-state whose Iroan Games are the plane's principal athletic competition); god of victory, honorable warfare, athletic competition, and the just-war register of conflict; presiding deity of the Iroan Games, Theros's annual athletic competition that rewards winners with a personal visit from the god rather than a material prize\"",
+      "rationale": "Correct Akros's canonical location from 'northern Phoberos' (which is the minotaur badlands BETWEEN Akros and Skophos) to 'high in the Katachthon Mountains' per MTG Wiki Akros page. Add Sparta-coded warrior city-state framing as canonical."
+    },
+    {
+      "file": "cards/_characters/iroas.md",
+      "operation": "edit",
+      "before": "Theros's red-white god of victory and the bronze-bull twin of Mogis (red-black god of slaughter). Iroas is the pantheon's canonical patron of honorable warfare, athletic competition, and the *just-war* register of conflict — the structural counterpart to Mogis's blood-tithe doctrine within the same fifteen-god roster. He presides over the polis of Akros in northern Phoberos (the Iroas-cult city-state whose annual Iroan Games are the plane's principal athletic competition) and his canonical form is a bronze-armored warrior god with a polished bull-mask face, carrying a great spear and shield.",
+      "after": "Theros's red-white god of victory and the bronze-bull twin of Mogis (red-black god of slaughter). Iroas is the pantheon's canonical patron of honorable warfare, athletic competition, and the *just-war* register of conflict — the structural counterpart to Mogis's blood-tithe doctrine within the same fifteen-god roster. He presides over the polis of Akros high in the Katachthon Mountains (the Sparta-coded Iroas-cult city-state whose annual Iroan Games are the plane's principal athletic competition; Phoberos is the minotaur-badlands region geographically west of Akros and south of Skophos, NOT the location of either polis) and his canonical form is a bronze-armored warrior god with a polished bull-mask face, carrying a great spear and shield.",
+      "rationale": "Correct Akros location at line 31 lead paragraph. Add explanatory clarification about Phoberos as separate badlands region between Akros and Skophos to prevent reintroduction."
+    },
+    {
+      "file": "cards/_characters/iroas.md",
+      "operation": "edit",
+      "before": "- **Akros as canonical cult-polis.** Iroas's principal cult-city is Akros in northern Phoberos — structurally parallel to Mogis's Skophos in the same canyon region. Per MTG Wiki Akros page, the polis is the canonical Iroas-cult city-state and houses the canonical Armory of Iroas as a dedicated warrior-trophy site. The corpus's Armory of Iroas CMR-299 carries the cult-institution-canonical anchor. Future Akros-named or Akros-architecture cards from Theros-block printings edge here directly.",
+      "after": "- **Akros as canonical cult-polis.** Iroas's principal cult-city is Akros high in the Katachthon Mountains — structurally parallel to Mogis's Skophos as the labyrinthine minotaur polis north of Phoberos (the two poleis are mortal-enemy neighbors with the Phoberos badlands between them, NOT co-located in the same region). Per MTG Wiki Akros page, the polis is the canonical Iroas-cult city-state and houses the canonical Armory of Iroas as a dedicated warrior-trophy site. The corpus's Armory of Iroas CMR-299 carries the cult-institution-canonical anchor. Future Akros-named or Akros-architecture cards from Theros-block printings edge here directly.",
+      "rationale": "Correct line-53 institutional-feature bullet. Reframe the Akros/Skophos relationship as mortal-enemy neighbors separated by Phoberos rather than co-located in the same canyon region."
+    },
+    {
+      "file": "cards/_characters/iroas.md",
+      "operation": "edit",
+      "before": "- **MTG Wiki — Akros** (`https://mtg.fandom.com/wiki/Akros`) — Iroas-cult polis page; canonical reference for the city-state in northern Phoberos and its position as the principal Iroas-temple location and home of the Iroan Games.",
+      "after": "- **MTG Wiki — Akros** (`https://mtg.fandom.com/wiki/Akros`) — Iroas-cult polis page; canonical reference for the city-state high in the Katachthon Mountains and its position as the principal Iroas-temple location and home of the Iroan Games.",
+      "rationale": "Correct line-70 canonical-sources citation."
+    },
+    {
+      "file": "cards/_characters/iroas.md",
+      "operation": "edit",
+      "before": "- **Twin-of-Mogis doctrinal split.** Per MTG Wiki's Iroas page and Mark Rosewater's Theros design columns (2013-2014), Iroas and Mogis are designer-coordinated as the canonical Greek-mythology twin-split of Ares — Iroas carries the Ares-as-honorable-warfare / Ares-of-the-just-war register, Mogis carries the Ares-as-slaughter / Ares-of-the-bloodlust register. The two gods are bull-faced and minotaur-faced respectively, red-white and red-black respectively, presiding over the polis of Akros and the polis of Skophos respectively, mortal-enemies in canon despite being designer-coordinated twins. This is the cleanest pantheon-internal character-to-character relation in Theros canon and the corpus's clearest within-pantheon Wizards-confirmed thesis-contrast at single-god scope.",
+      "after": "- **Twin-of-Mogis doctrinal split.** Per MTG Wiki's Iroas page and Mark Rosewater's Theros design columns (2013-2014), Iroas and Mogis are designer-coordinated as the canonical Greek-mythology twin-split of Ares — Iroas carries the Ares-as-honorable-warfare / Ares-of-the-just-war register, Mogis carries the Ares-as-slaughter / Ares-of-the-bloodlust register. The two gods are bull-faced and minotaur-faced respectively, red-white and red-black respectively, presiding over Akros (high in the Katachthon Mountains) and Skophos (labyrinthine minotaur polis north of Phoberos) respectively, mortal-enemies in canon despite being designer-coordinated twins. This is the cleanest pantheon-internal character-to-character relation in Theros canon and the corpus's clearest within-pantheon Wizards-confirmed thesis-contrast at single-god scope.",
+      "rationale": "Correct line-51 twin-doctrinal-split bullet's geographic phrasing."
+    },
+    {
+      "file": "cards/_characters/mogis.md",
+      "operation": "edit",
+      "before": "faction: \"Theros Pantheon — multicolor secondary god (red-black); twin of Iroas (god of victory, red-white); patron deity of Theros's minotaur race; lord of the polis of Skophos in northern Phoberos; god of slaughter, bloodlust, and the fanning of mortal conflict into atrocity\"",
+      "after": "faction: \"Theros Pantheon — multicolor secondary god (red-black); twin of Iroas (god of victory, red-white); patron deity of Theros's minotaur race; lord of the polis of Skophos (labyrinthine minotaur city carved from red sandstone, located north of the Phoberos badlands and structurally opposite Iroas's Akros which sits high in the Katachthon Mountains); god of slaughter, bloodlust, and the fanning of mortal conflict into atrocity\"",
+      "rationale": "Correct Skophos's canonical location from 'in northern Phoberos' to 'north of the Phoberos badlands' per MTG Wiki Skophos and Phoberos pages."
+    },
+    {
+      "file": "cards/_characters/mogis.md",
+      "operation": "edit",
+      "before": "Theros's red-black god of slaughter and the dark twin of Iroas (red-white god of victory). Mogis is the pantheon's patron of bloodlust, the canonical lord of Theros's minotaur race, and the named deity of the polis of Skophos in the northern Phoberos canyons — the city-state whose center is the largest temple to Mogis on the plane.",
+      "after": "Theros's red-black god of slaughter and the dark twin of Iroas (red-white god of victory). Mogis is the pantheon's patron of bloodlust, the canonical lord of Theros's minotaur race, and the named deity of the polis of Skophos (labyrinthine minotaur city carved from red sandstone, located north of the Phoberos badlands — Phoberos itself is the outcast-minotaur-raider region BETWEEN Skophos and Iroas's Akros, not the location of either polis) — the city-state whose center is the largest temple to Mogis on the plane.",
+      "rationale": "Correct line-35 lead-paragraph geography. Reframe Skophos as separate from Phoberos."
+    },
+    {
+      "file": "cards/_characters/mogis.md",
+      "operation": "edit",
+      "before": "- **Minotaur-race patron with named polis (Skophos).** Theran minotaurs are canonically Mogis-servitors per Wizards lore (MTG Wiki: Mogis; MTG Wiki: Skophos; in-corpus trivia on Kragma Warcaller THS-195 and Skophos Warleader THB-154). The polis of Skophos in northern Phoberos is Mogis's principal cult-city, and its temples (depicted burning in Skophos Warleader's background) are canonical Mogis-temples per MTG Wiki's Skophos page. This makes Mogis the only pantheon member in the corpus with a single named cult-city anchor; future Phoberos / Skophos-named cards edge here directly.",
+      "after": "- **Minotaur-race patron with named polis (Skophos).** Theran minotaurs are canonically Mogis-servitors per Wizards lore (MTG Wiki: Mogis; MTG Wiki: Skophos; in-corpus trivia on Kragma Warcaller THS-195 and Skophos Warleader THB-154). The polis of Skophos — labyrinthine minotaur city of red sandstone north of the Phoberos badlands — is Mogis's principal cult-city, and its temples (depicted burning in Skophos Warleader's background) are canonical Mogis-temples per MTG Wiki's Skophos page. The wider Phoberos badlands between Skophos and Akros are home to outcast minotaur raiders rather than the polis itself. This makes Mogis the only pantheon member in the corpus with a single named cult-city anchor; future Phoberos / Skophos-named cards edge here directly.",
+      "rationale": "Correct line-60 institutional-feature bullet. Clarify Phoberos as outcast-raider region distinct from Skophos polis."
+    },
+    {
+      "file": "cards/_characters/mogis.md",
+      "operation": "edit",
+      "before": "- **MTG Wiki — Skophos** (`https://mtg.fandom.com/wiki/Skophos`) — Mogis-cult polis page; canonical reference for the city-state in northern Phoberos and its position as the principal Mogis-temple location.",
+      "after": "- **MTG Wiki — Skophos** (`https://mtg.fandom.com/wiki/Skophos`) — Mogis-cult polis page; canonical reference for the labyrinthine minotaur city-state north of the Phoberos badlands and its position as the principal Mogis-temple location.",
+      "rationale": "Correct line-79 canonical-sources citation."
+    },
+    {
+      "file": "cards/magic-the-gathering/theros-beyond-death/154-skophos-warleader.md",
+      "operation": "edit",
+      "before": "- **Set context** — Skophos Warleader is a common Minotaur Warrior in THB, first and only printing released 2020-01-24 [Scryfall]. **Skophos** is the minotaur polis of Theros — a city-state located in the far northern canyons of Phoberos, the region most devoted to Mogis, God of Slaughter; the city's center is the largest temple to Mogis on the plane [MTG Wiki: Skophos, Mogis, via WebSearch snippet].",
+      "after": "- **Set context** — Skophos Warleader is a common Minotaur Warrior in THB, first and only printing released 2020-01-24 [Scryfall]. **Skophos** is the minotaur polis of Theros — a labyrinthine city carved from red sandstone, located north of the Phoberos badlands (Phoberos itself is the outcast-minotaur-raider region between Skophos and Iroas's Akros high in the Katachthon Mountains); the city's center is the largest temple to Mogis, God of Slaughter, on the plane [MTG Wiki: Skophos, Phoberos, Mogis].",
+      "rationale": "Correct the trivia line's geography. Skophos is NOT 'in the far northern canyons of Phoberos' — it is a separate polis north of the Phoberos badlands."
+    },
+    {
+      "file": "cards/magic-the-gathering/theros-beyond-death/141-infuriate.md",
+      "operation": "edit",
+      "before": "- **Flavor text** — \"Renata launched a dozen arrows into the minotaur's thick hide, but the monster didn't slow its charge. The fury of Mogis was upon it.\" —Luphea of Setessa, *Histories* [Scryfall]. **Mogis, God of Slaughter**, is the twin of Iroas and the patron deity of minotaurs on Theros; Skophos and Phoberos are his minotaur-dominated territories [MTG Wiki: Mogis, via WebSearch snippet]. This is the second flavor-text appearance of **Luphea of Setessa** in this batch (also on Careless Celebrant), suggesting Luphea's *Histories* is a deliberate flavor-cycle source text for THB.",
+      "after": "- **Flavor text** — \"Renata launched a dozen arrows into the minotaur's thick hide, but the monster didn't slow its charge. The fury of Mogis was upon it.\" —Luphea of Setessa, *Histories* [Scryfall]. **Mogis, God of Slaughter**, is the twin of Iroas and the patron deity of minotaurs on Theros; the polis of Skophos and the surrounding Phoberos badlands are his minotaur-dominated territories (Skophos is the labyrinthine red-sandstone city, Phoberos the outcast-raider badlands between Skophos and Iroas's Akros) [MTG Wiki: Mogis, Skophos, Phoberos]. This is the second flavor-text appearance of **Luphea of Setessa** in this batch (also on Careless Celebrant), suggesting Luphea's *Histories* is a deliberate flavor-cycle source text for THB.",
+      "rationale": "Correct the trivia bullet's geographic conflation. Skophos and Phoberos are not interchangeable — Skophos is a discrete polis, Phoberos is the surrounding badlands; both ARE minotaur-dominated but they are distinct geographic features."
+    }
+  ],
+  "verification_command": "cd 'C:\\Users\\alexa\\Desktop\\Bulk Graph Bundler' && grep -c 'in northern Phoberos\\|in the northern Phoberos\\|in the far northern canyons of Phoberos' cards/_characters/iroas.md cards/_characters/mogis.md cards/magic-the-gathering/theros-beyond-death/154-skophos-warleader.md cards/magic-the-gathering/theros-beyond-death/141-infuriate.md",
+  "uncertainty_notes": "(1) MTG Wiki citation chain is via WebSearch snippets (the Wiki Fandom pages 403 on direct WebFetch); the Akros 'high in the Katachthon Mountains' and Skophos 'north of the Phoberos badlands' framings are sourced from WebSearch synthesizing primary Wiki pages plus the Phoberos page's explicit 'just west of Akros and south of Skophos' clause. If the operator wants a Puppeteer-grade verification of the exact Wiki wording (per `bbl-puppeteer-over-snippets`), that's the next escalation step. (2) Phoberos IS canonically minotaur-territory — the badlands host outcast-minotaur-raiders per MTG Wiki Phoberos. The geographic confab is specifically about Akros and Skophos being IN Phoberos (false) versus being NEAR Phoberos as their mortal-enemy neighbor (canon). The minotaur-association of Phoberos is preserved in the fixes. (3) The wave-203 / wave-204 sub-node-commission Edgelord passes that authored iroas.md and mogis.md likely imported the geography from 154-skophos-warleader.md's trivia bullet, which was the upstream confab source — the trivia bullet's 'far northern canyons of Phoberos' phrasing predates both sub-node bodies and seeded the parallel confab in iroas/mogis."
+}

@@ -1,0 +1,48 @@
+{
+  "card_name": "Urgoros, the Empty One",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "109",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Urgoros is a named, canonical Wizards-original Specter from Vhelnish on Dominaria who served the demonlord Belzenlok. Confirmed via MTG Wiki (mtg.wiki/page/Urgoros) and Martha Wells's 'Return to Dominaria: Episode 12' (2018-05-30). Scryfall type_line reads 'Legendary Creature — Specter'. The depicted figure is Urgoros himself — a Wizards-internal character with no external IP risk.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Urgoros is a named Dominaria character, a Specter from the city of Vhelnish whose body was siphoned into dementia space by the demonlord Belzenlok's dark blessings — leaving only his spirit fused into his armor. He became a servant of Belzenlok and was the second line of defense against the Skyship Weatherlight's assault on the Stronghold; he vanished when Belzenlok was slain. [MTG Wiki: Urgoros, via mtg.wiki/page/Urgoros; Martha Wells, 'Return to Dominaria: Episode 12', 2018-05-30]",
+      "sources": ["MTG Wiki: mtg.wiki/page/Urgoros", "Martha Wells, Return to Dominaria Episode 12, magic.wizards.com, 2018-05-30"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"As the phantom flies overhead, the city of Vhelnish screams in silence.\" The city of Vhelnish is Urgoros's birthplace per MTG Wiki — the flavor text implies the entire city falls silent under his aerial passage, a grim callback to his origin. [Scryfall]",
+      "sources": ["Scryfall flavor_text field"]
+    },
+    {
+      "category": "design",
+      "text": "Urgoros is typed as a Legendary Creature — Specter on Dominaria (2018), not a Demon, despite the imposing armored-demon visual. The Specter type carries a lineage going back to Tempest block. Urgoros's discard-on-hit ability with the draw-if-empty rider is an upgrade on the classic Hypnotic Specter template, adding a consolation draw clause that rewards attacking a depleted hand. Illustrated by Daarken, who also painted the Dominaria Promos prerelease foil version — the only other printing. [Scryfall]",
+      "sources": ["Scryfall type_line, oracle_text, prints_search_uri"]
+    },
+    {
+      "category": "mechanical",
+      "text": "At six mana (4BB) for a 4/3 flyer, Urgoros lands in Commander's casual tier — EDHREC rank 18,342 reflects modest but real inclusion in discard and Specter tribal builds. The empty-hand draw-a-card clause differentiates it from cheaper Specters in those decks. Not a competitive format staple; occupies a flavorful role in focused builds. [Scryfall EDHREC rank field]",
+      "sources": ["Scryfall edhrec_rank field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Dominaria set (April 2018) marked a return to MTG's home plane after nearly a decade away; the narrative centered on Liliana Vess and Gideon Jura hunting Belzenlok, the last of Liliana's four contracted demons, who had seized control of the Cabal in Urborg. Martha Wells wrote the 12-episode 'Return to Dominaria' story series. Belzenlok's ultimate defeat — via Liliana wielding the Blackblade — is the narrative climax of the set, which means Urgoros and every Cabal-adjacent card in the set exists in this Belzenlok-era context. [magic.wizards.com: Return to Dominaria Episode 1, 2018-03-21; MTG Wiki, via WebSearch]",
+      "sources": ["magic.wizards.com Return to Dominaria Episode 1", "MTG Wiki Belzenlok, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Urgoros, the Empty One (Prerelease Foil)", "set": "Dominaria Promos", "note": "Alternate foil promo printing, same Daarken art, released alongside DOM release event"},
+    {"name": "Cabal Stronghold", "set": "Dominaria", "note": "Belzenlok's seat of power in Urborg — the Stronghold that Urgoros defended"},
+    {"name": "Demonlord Belzenlok", "set": "Dominaria", "note": "The demon whose blessings transformed Urgoros into a Specter; Belzenlok is the card representation of Urgoros's master"},
+    {"name": "Josu Vess, Lich Knight", "set": "Dominaria", "note": "Another transformed servant of Belzenlok in the same set — parallel Belzenlok corruption arc"},
+    {"name": "Whisper, Blood Liturgist", "set": "Dominaria", "note": "Named Cabal agent appearing in the same Episode 12 story appearance as Urgoros"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "high"
+  }
+}

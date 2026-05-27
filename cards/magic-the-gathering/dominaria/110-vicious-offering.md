@@ -74,3 +74,16 @@ A single armored figure kneels in the center of a ritual chamber, arms stretched
 **Iconography:** skull, candle, ritual-posture, banner
 **Genre cues:** fantasy, dark-fantasy, gothic
 
+## Trivia
+
+- **Set / lore context** — Vicious Offering has no flavor text (confirmed via Scryfall API). The art's ritual-sacrifice register — skulls, candles, kneeling figure with arms spread — is consistent with Belzenlok's Cabal cult in Urborg. The "Rite of Belzenlok" liturgical text cited on Blessing of Belzenlok ("My heart is not mine, it is Belzenlok's. All hearts are his, and all blood.") provides the closest canonical framing for what this spell depicts: a voluntary offering of self to the demonlord. `[Scryfall (no flavor_text); MTG Wiki: Belzenlok, via WebSearch; Scryfall: Blessing of Belzenlok flavor_text]`
+- **Mechanical design** — Vicious Offering uses a creature-sacrifice as its kicker cost rather than extra mana — a design variant that reinforces Cabal sacrifice-cult flavor while serving as an escalation lever. Unkicked it is -2/-2 until end of turn for 1B (weak but cheap); kicked it becomes -5/-5 at the cost of a sacrificed creature, which kills most creatures in the format. The sacrifice kicker is itself a meaningful gameplay decision, not merely an upcharge. `[Scryfall oracle_text]`
+- **Reprint history** — Reprinted in The List (November 2019), same Anthony Palumbo art. Only two total printings. `[Scryfall prints data]`
+- **Mechanical reputation** — EDHREC rank 22,315 reflects modest Commander play in sacrifice/aristocrats builds where the creature-sacrifice kicker cost is a feature rather than a tax. The unkicked mode is typically too weak to run in Commander; the card's value is the synergy between the sacrifice trigger and other permanents. `[Scryfall edhrec_rank]`
+
+### Related cards
+- Demonlord Belzenlok (Dominaria, 86) — the demon whose cult performs the depicted ritual
+- Blessing of Belzenlok (Dominaria, 77) — sibling cult-ritual card; "Rite of Belzenlok" flavor text names the devotional framework this art depicts
+- Cabal Paladin (Dominaria, 78) — another Cabal card that benefits from sacrifice synergies in the same set
+- Stronghold Confessor (Dominaria, 105) — another anonymous Cabal figure from the same set
+

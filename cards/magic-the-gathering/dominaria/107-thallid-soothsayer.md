@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - fungus
+  - thallid
+  - mushroom
+  - swamp
+  - forest
+  - darkness
+  - ritual
+  - raised-arms
+  - creature
+  - horror
+  - moss
+  - mist
+tags_filter:
+  - solo
+  - mid-shot
+  - forward-facing
+  - black-magic
+  - creature-spirit
+  - no-face
 reference_image: cards/_images/magic-the-gathering/dominaria/107-thallid-soothsayer.png
 average_cost_paid: 0
 market_price: 0.21
@@ -30,6 +48,28 @@ mana_cost: "{3}{B}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: horror
+time_of_day: twilight
+setting: forest
 ---
 
 # Thallid Soothsayer (Dominaria)
+
+## Vision
+
+![107-thallid-soothsayer](../../_images/magic-the-gathering/dominaria/107-thallid-soothsayer.png)
+
+A large thallid creature dominates the frame. It has a broad, flat mushroom cap for a head — dark blue-purple with a wide brim. Its body is covered in moss, fungal growths, and tattered organic material. Both arms are raised: the left holds a tendril or vine curling upward, the right arm is raised with a clawed or withered extremity. The setting is a dark swampy wood — pale bare twisted trees recede into grey-blue mist behind the creature. A small red object or creature is faintly visible at the lower-right edge of the frame.
+
+**Subject:** A large thallid creature with a wide mushroom cap, arms raised, standing in a dark swampy forest
+
+**Composition:** mid-shot, action, figures: solo, facing: forward
+**Setting:** forest, twilight, fog
+**Foreground:** Large thallid with mushroom-cap head, arms raised, mossy body  *(palette: deep-green, dark-blue, moss-brown)*
+**Background:** Bare twisted trees in grey-blue mist, swampy forest  *(palette: pale-grey, blue-grey, muted-teal)*
+**Mood / lighting:** horror, ambient
+**Emotion read:** menacing; raised arms suggest a summoning or threatening display
+**Creatures:** thallid, mushroom-creature
+**Iconography:** mushroom-cap
+**Genre cues:** fantasy, dark-fantasy, creature-feature
+

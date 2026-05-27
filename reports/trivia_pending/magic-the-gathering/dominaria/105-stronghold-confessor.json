@@ -1,0 +1,42 @@
+{
+  "card_name": "Stronghold Confessor",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "105",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The 'Stronghold' in the name references the Cabal Stronghold in Urborg — Belzenlok's seat of power and the target of the Weatherlight's climactic assault in Dominaria's story. A 'Confessor' in this context is an interrogator or keeper of secrets within the Cabal hierarchy, likely responsible for extracting information from prisoners and ensuring doctrinal compliance. The card has no flavor text, but its name alone places it within Belzenlok's institutional structure. [Scryfall card name; MTG Wiki: Cabal Stronghold, via WebSearch]",
+      "sources": ["Scryfall card name", "MTG Wiki: Cabal Stronghold, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Stronghold Confessor is a kicker-enabled one-drop: a 1/1 Menace for one black mana, or a kicked 3/3 Menace with two +1/+1 counters for four total (1B + kicker 3). Kicker was a returning mechanic in Dominaria, originally from Invasion block; design notes from Mark Rosewater's 'State of Design 2018' noted kicker was 'doing important work' but 'doesn't mesh as nicely with everything else' as other mechanics like Sagas. At common, it's a Pauper-legal creature with a two-mode flex that works in aggressive black decks. [Scryfall oracle_text; magic.wizards.com: State of Design 2018, 2018-08-20]",
+      "sources": ["Scryfall oracle_text", "magic.wizards.com: State of Design 2018, 2018-08-20"]
+    },
+    {
+      "category": "design",
+      "text": "Stronghold Confessor has no flavor text (confirmed via Scryfall API). The art by Igor Kieryluk depicts an anonymous robed inquisitor-type figure — there is no lore source identifying this figure as a named Dominaria character. The card represents a generic Cabal rank, not a named individual. Igor Kieryluk has illustrated numerous dark-fantasy figures for MTG across multiple sets. [Scryfall]",
+      "sources": ["Scryfall flavor_text field (empty)", "Scryfall artist"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 25,693 reflects minimal Commander inclusion. In Pauper formats, one-drop kicker creatures with Menace occupy an aggressive role — the Confessor competes against more synergy-dense options. Its primary use has been in Limited (Dominaria draft), where a kicked 3/3 Menace on turn four represents strong tempo. [Scryfall edhrec_rank, legalities]",
+      "sources": ["Scryfall edhrec_rank, legalities"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Cabal Stronghold", "set": "Dominaria", "note": "The institution named in the card's title; Belzenlok's Urborg fortress"},
+    {"name": "Demonlord Belzenlok", "set": "Dominaria", "note": "The demonlord whose Cabal the Confessor serves"},
+    {"name": "Cabal Evangel", "set": "Dominaria", "note": "Another Cabal rank-and-file member card from the same set, similarly anonymous"},
+    {"name": "Whisper, Blood Liturgist", "set": "Dominaria", "note": "Named senior Cabal figure — shows the hierarchy above the rank-and-file Confessor"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

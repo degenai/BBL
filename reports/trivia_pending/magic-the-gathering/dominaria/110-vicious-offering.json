@@ -1,0 +1,42 @@
+{
+  "card_name": "Vicious Offering",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "110",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Vicious Offering has no flavor text (confirmed via Scryfall API). The art depicts a ritual sacrifice scene consistent with the Cabal cult of Belzenlok — the Dominaria Cabal under Belzenlok conducted human sacrifice as part of their devotion to the demonlord, a practice echoed across multiple Cabal-coded black cards in the set. The visual register (candles, skulls, kneeling figure with arms spread) aligns with the 'Rite of Belzenlok' liturgical framing seen on Blessing of Belzenlok's flavor text. [Scryfall (no flavor_text); MTG Wiki: Belzenlok, via WebSearch]",
+      "sources": ["Scryfall (no flavor_text field)", "MTG Wiki: Belzenlok, via WebSearch"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Vicious Offering is a kicker-based removal instant: -2/-2 until end of turn for 1B, or -5/-5 if kicked by sacrificing a creature. At two mana the unkicked mode is weak removal; the kicked mode, which requires a sacrifice and totals one mana plus a creature, is powerful enough to kill most creatures in Dominaria Limited. The sacrifice-kicker design mechanic doubles as a Cabal sacrifice-cult callback. Vicious Offering was reprinted in The List (2019). [Scryfall oracle_text, prints data]",
+      "sources": ["Scryfall oracle_text, prints data"]
+    },
+    {
+      "category": "design",
+      "text": "Kicker — Sacrifice a creature is a novel kicker cost: instead of paying extra mana, you sacrifice a permanent. This variant appeared across several Dominaria kicker cards and reinforces the Cabal's sacrifice-based flavor while serving a mechanical role of escalation without purely mana investment. EDHREC rank 22,315 indicates modest Commander play, primarily in sacrifice/aristocrats shells. [Scryfall oracle_text, edhrec_rank]",
+      "sources": ["Scryfall oracle_text, edhrec_rank"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Dominaria Cabal, reborn under Belzenlok, relocated from Otaria to Urborg and rebuilt as a sacrifice-based cult rather than the mercenary criminal organization it had been previously. Vicious Offering — unnamed in lore, representing a generic Cabal ritual — is canonically Cabal-coded by its art, sacrifice mechanic, and set context, but no Wizards story or article identifies the specific depicted worshiper as a named character. [MTG Wiki: Cabal, via WebSearch]",
+      "sources": ["MTG Wiki: Cabal, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Demonlord Belzenlok", "set": "Dominaria", "note": "The demon whose cult performs the ritual depicted"},
+    {"name": "Blessing of Belzenlok", "set": "Dominaria", "note": "Sibling cult-ritual card from the set — 'Rite of Belzenlok' flavor text directly names the sacrificial devotion Vicious Offering depicts"},
+    {"name": "Cabal Paladin", "set": "Dominaria", "note": "Another Cabal card that benefits from sacrifice synergies in the same set"},
+    {"name": "Stronghold Confessor", "set": "Dominaria", "note": "Another anonymous Cabal functionary from the same set — similar rank-and-file cult membership"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

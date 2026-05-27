@@ -73,3 +73,15 @@ A young humanoid figure stands in a warm indoor workshop, beaming with evident d
 **Iconography:** circle-with-inscribed-triangle, glowing-sigil
 **Genre cues:** fantasy, academic
 
+## Trivia
+
+- **Set / lore context** — The plural "Tolarian Academies" in the flavor text reflects canonical lore: after the original Tolarian Academy on Tolaria was destroyed during Urza's catastrophic time-travel experiments (Urza's Saga era), surviving faculty and students rebuilt campuses across Dominaria. The academies preserved "a tradition of study and research while discouraging the kinds of experiments that ruined the original island of Tolaria." `[Scryfall flavor_text; MTG Wiki: Tolarian Academy, via WebSearch]`
+- **Flavor text** — "The Tolarian Academies embrace a tradition of study and research while discouraging the kinds of experiments that ruined the original island of Tolaria." The original island's destruction is a formative trauma in Dominaria's history — the academies' mission is explicitly defined in opposition to Urza's catastrophic ambition. `[Scryfall]`
+- **Design** — Tolarian Scholar has no oracle text beyond its base 2/3 body — a vanilla/french-vanilla creature whose entire mechanical contribution is blocking or attacking. Its one Dominaria printing remains unreprintd. Artist Sara Winters illustrated the card. Its Pauper legality as a common is its most notable competitive footnote, though a 2/3 for three without evasion struggles there. `[Scryfall oracle_text, artist, legalities, prints data]`
+- **Mechanical reputation** — EDHREC rank 30,007 reflects near-zero Commander play. The card's value is entirely flavor and Limited filler. Blue 2/3s at three mana are rarely exciting in any format; this one has no text box to compensate. `[Scryfall edhrec_rank]`
+
+### Related cards
+- Tolarian Academy (Urza's Saga, 330) — the original institution the plural Academies descend from; banned in Legacy and Vintage restricted
+- Jhoira of the Ghitu (Time Spiral, 192) — Tolarian Academy alumna and Weatherlight captain in the Dominaria storyline
+- Teferi, Hero of Dominaria (Dominaria, 207) — former student/professor of the Academy; primary blue planeswalker of the set
+

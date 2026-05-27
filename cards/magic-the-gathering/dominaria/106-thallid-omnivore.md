@@ -10,8 +10,24 @@ condition: Near Mint
 quantity: 1
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - fungus
+  - thallid
+  - jungle
+  - creature
+  - forest
+  - spines
+  - plant-creature
+  - saproling
+  - predator
+  - nature
+tags_filter:
+  - duo
+  - mid-shot
+  - three-quarter
+  - black-magic
+  - creature-spirit
+  - secondary-figures-unresolved
 reference_image: cards/_images/magic-the-gathering/dominaria/106-thallid-omnivore.png
 average_cost_paid: 0
 market_price: 0.23
@@ -30,6 +46,28 @@ mana_cost: "{3}{B}"
 image_width: 745
 image_height: 1040
 image_quality: high
+mood: action
+time_of_day: indeterminate
+setting: forest
 ---
 
 # Thallid Omnivore (Dominaria)
+
+## Vision
+
+![106-thallid-omnivore](../../_images/magic-the-gathering/dominaria/106-thallid-omnivore.png)
+
+A large bipedal fungal creature stands upright in a dense, lush jungle. Its body is mottled green and yellow-brown, covered in spiny fronds and what appear to be tendril-like protrusions. Its head is rounded and bulbous with colorful patches visible — orange and iridescent hues. The creature holds a long staff or bone-like implement in one hand and its posture is alert or aggressive, weight shifted on long spindly legs. In the upper-left corner a tiny saproling or smaller fungal figure stands on a branch, barely distinguishable. The background is a wash of soft purple and green jungle foliage.
+
+**Subject:** A large upright fungal creature (thallid) in a jungle, carrying a staff
+
+**Composition:** mid-shot, action, figures: duo, facing: three-quarter
+**Setting:** forest, indeterminate
+**Foreground:** Large spiny fungal thallid creature in upright stance, carrying a staff  *(palette: yellow-green, olive, orange-brown)*
+**Background:** Dense jungle foliage, soft purple haze  *(palette: lavender, soft-green, muted-jade)*
+**Mood / lighting:** action, soft
+**Emotion read:** aggressive alertness; weight forward, creature appears ready to strike or lunge
+**Objects:** staff
+**Creatures:** thallid, saproling
+**Genre cues:** fantasy, creature-feature
+

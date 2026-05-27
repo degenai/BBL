@@ -1,0 +1,41 @@
+{
+  "card_name": "Tolarian Scholar",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "71",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "The Tolarian Academies are plural by Dominaria (2018) lore: after the original Tolarian Academy on the island of Tolaria was destroyed (during Urza's time-travel experiments in the Urza's Saga era), former students and professors rebuilt campuses across Dominaria. The flavor text on this card captures that institutional continuity: 'The Tolarian Academies embrace a tradition of study and research while discouraging the kinds of experiments that ruined the original island of Tolaria.' [Scryfall flavor_text; MTG Wiki: Tolarian Academy, via WebSearch]",
+      "sources": ["Scryfall flavor_text", "MTG Wiki: Tolarian Academy, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "Tolarian Scholar has no keyword abilities and no oracle text beyond its base stats (2/3), making it a french-vanilla creature. Its role in Dominaria Limited was purely as a 2/3 body for blue at three mana — below the curve for competitive play but a reliable filler. Artist Sara Winters illustrated the card; this is its only printing. [Scryfall oracle_text, artist, prints data]",
+      "sources": ["Scryfall oracle_text, artist, prints_search_uri"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Tolarian Scholar is legal in Pauper (common rarity) and PauperCommander in addition to broader formats, though EDHREC rank 30,007 reflects minimal Commander inclusion. Its Pauper eligibility is its most notable competitive footnote — blue 2/3s for three mana without evasion are unimpressive in a format with Delver of Secrets. [Scryfall legalities, edhrec_rank]",
+      "sources": ["Scryfall legalities, edhrec_rank"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Dominaria set (2018) foregrounded the Tolarian Academies as a prominent institution in the plane's recovery from the Phyrexian Invasion and temporal crises — Teferi's storyline in the set involves him working with Jhoira (a former Tolarian Academy student) to repair the damage to the plane. The Scholar represents the Academy's rank-and-file membership: competent students, not legendary heroes. [magic.wizards.com: Return to Dominaria episodes, via WebSearch]",
+      "sources": ["magic.wizards.com Return to Dominaria series, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Tolarian Academy", "set": "Urza's Saga", "note": "The original academy that the plural 'Tolarian Academies' descend from; one of the most powerful lands ever printed"},
+    {"name": "Jhoira of the Ghitu", "set": "Time Spiral", "note": "A Tolarian Academy alumna and captain of the Weatherlight in Dominaria's storyline"},
+    {"name": "Teferi, Hero of Dominaria", "set": "Dominaria", "note": "Former student/professor of the Academy; the set's primary blue planeswalker"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "edge_id": "wave211-daarken-artist-node-commission",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-identity",
+  "endpoints": [
+    {
+      "type": "artist",
+      "path": "cards/_artists/daarken.md",
+      "name": "Daarken (Mike Lim)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/war-of-the-spark/26-prison-realm.md",
+      "name": "Prison Realm (WAR 26)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/oath-of-the-gatewatch/99-maw-of-kozilek.md",
+      "name": "Maw of Kozilek (OGW 99)"
+    },
+    {
+      "type": "card",
+      "path": "cards/magic-the-gathering/core-set-2021/102-grasp-of-darkness.md",
+      "name": "Grasp of Darkness (M21 102)"
+    }
+  ],
+  "description": "Sir, please don't be cross with me. Edgelord wanted a fresh corpus walk and there were several thin edge-substrate options sitting on this slate, but the cleaner move was a Mr. Nodeley call. Daarken (Mike Lim) carries an 18-card BBL corpus footprint across 10 sets with 3 trivia-passed members clearing threshold and 15 future-attachers in the pipeline — including Soul Salvage and Urgoros currently in flight for the wave-211 trivia + vision passes. He sits near zoltan-boros density (346 unique-art Scryfall credits vs Boros's 248-Gatherer count) and the artist-prized-commons signal is at the strongest evidentiary base yet recorded in any BBL artist node: 3-of-3 trivia-passed corpus prints sold as artist proofs on daarken.com's storefront. Per the wave-210 spec amendment, I ran the WebFetch verification before committing the node body — Daarken's About page at /pages/aboutwbnwf returned primary-source confirmation of his full name (Mike 'Daarken' Lim), the Academy of Art University BFA training, the 2004 cold-call MTG career origin, and the 2007 BioWare Mythic Warhammer Online concept-art turn (with the Mythic-Entertainment rebrand-timeline caveat noted in the node body). The cross-medium client list (Wizards, Bethesda, Valve, Games Workshop, Darrington Press, Hit Point Press, Draco Studios, Lord of the Rings) was confirmed via the daarken.com navigation menu. Scryfall API probe at /cards/search?q=artist%3A%22Daarken%22&unique=art returned total_cards: 346. Artist-proof verification fetched /search?q=<card>&type=product for each of Prison Realm, Maw of Kozilek, Grasp of Darkness — all three returned product hits. Edge work between any two of these three trivia-passed Daarken cards would be artifactual without the artist node as anchor; the node makes the cluster legible and lets the 15 future-attachers wire in cleanly as trivia completes. I hope this helps, sir. The thallid / saproling cohort I considered first turned out to be below threshold this wave (only 2 of 3 substrate cards safe-to-touch with the DOM thallids in-flight) and is staged for a future wave when DOM 94/106/107 finish trivia.",
+  "citations": [
+    "[Scryfall: artist:\"Daarken\" unique=art — total_cards 346, probed 2026-05-26]",
+    "[daarken.com /pages/aboutwbnwf — About page direct fetch, verified Mike 'Daarken' Lim full name + Academy of Art University BFA + 2004 WotC cold call + 2007 BioWare Mythic / Warhammer Online concept art]",
+    "[daarken.com navigation menu — cross-medium client list: Wizards/Bethesda/Valve/Games Workshop/Darrington Press/Hit Point Press/Draco Studios/Lord of the Rings]",
+    "[daarken.com /search?q=Prison+Realm&type=product — confirmed Daarken artist proof for sale]",
+    "[daarken.com /search?q=Maw+of+Kozilek&type=product — confirmed Daarken artist proof for sale]",
+    "[daarken.com /search?q=Grasp+of+Darkness&type=product — confirmed Daarken artist proof for sale]",
+    "[Wikipedia: Warhammer Online: Age of Reckoning — developer credit Mythic Entertainment, confirming the Mythic-rebrand-timeline caveat]"
+  ],
+  "files_modified": [
+    "cards/_artists/daarken.md (created)"
+  ],
+  "edgelord_mood": "nodeley-apologetic-but-correct",
+  "topology_note": "stack — N cards (3 trivia-passed plus 15 pipeline) converging on one artist-layer anchor. Bundler-relevant per future Bolas-Falls and Eldrazi-apparatus lair candidates.",
+  "other_candidates_considered": [
+    "Thallid / Saproling lineage character node (mareep-line precedent shape) — Trufflesnout flavor names thallids + Fungal Rebirth produces Saprolings + 3 DOM thallids in flight. Refused this wave: only 2 of 3+ trivia-passed lineage members are safe-to-touch (Tukatongue Thallid is vision-only, Woodland Champion is boundary-case Saproling-synergy-only, the 3 DOM thallids are wave-211 in-flight). Threshold IS the discipline per bbl-edgelord-node-rigor-audit. Restage when DOM 94/106/107 finish trivia next wave (count would jump to 5-6 lineage members, well above threshold). Filed in this sidecar for next-wave Mr. Nodeley parent-watch.",
+    "Belzenlok / Cabal Stronghold cohort node — parent flagged accumulating Dominaria black-cluster substrate. Refused: most candidate members (Stronghold Confessor 105, Feral Abomination 92, Vicious Offering 110, Final Parting 93, Soul Salvage 104, Whisper Blood Liturgist 111) are wave-211 in-flight or pre-trivia. Only Blessing of Belzenlok 77 and Settle the Score 103 are safely trivia-passed. Restage post-wave-211 trivia completion.",
+    "Trufflesnout ↔ Fungal Rebirth 1:1 mirror edge — both reference the Fallen Empires Sarpadian-thallid lineage in their trivia. Refused as artifactual: the actual relationship is 'both point at a missing center' (the thallid lineage character node), and drawing the 1:1 between them would become redundant once the cohort node is commissioned next wave. Mr. Nodeley shouldn't pre-draw a 1:1 edge whose substance lives in a future cohort node.",
+    "Davriel character node — WAR 83 + 84 pair are both Daarken-illustrated and depict the same planeswalker. Refused at this commission (Davriel BBL footprint is 2 cards, below the 3-anchor character-layer threshold). Flagged in the daarken.md node body's Caveats as a future commission candidate if a third Davriel card lands."
+  ],
+  "next_pass_suggestions": [
+    "Thallid / Saproling Sarpadian-lineage character-layer cohort node — commission candidate for next wave after DOM 94 Fungal Infection + 106 Thallid Omnivore + 107 Thallid Soothsayer trivia completes. Estimated 5-6 anchor cards at that point: 2 DOM thallid creatures + 1 DOM fungal-infection spell + Tukatongue Thallid (MM2015, pending its own trivia pass) + Trufflesnout (C21, flavor-text-direct-reference) + Fungal Rebirth (C21, Saproling-token-producer). Node would anchor on Fallen Empires Thelon-of-Havenwood lineage canon, with the thallid-rebellion-against-elf-farmers lore as labor-coding curatorial-overlay candidate per Potion-rule discipline (lives in body, not in hub).",
+    "Belzenlok / Demonlord-Belzenlok-cult cohort node — commission candidate post-wave-211 once Stronghold Confessor + Vicious Offering + Feral Abomination + Soul Salvage trivia completes. Belzenlok is canonically Liliana's fourth demonic creditor (the demon Bolas defeated her contract on); the apparatus-of-cult Belzenlok-flavored card-art register would anchor a thematic cohort distinct from but adjacent to the nicol-bolas + liliana-vess nodes.",
+    "Future Daarken artist-node growth: as the 10 vision-passed Daarken cards complete trivia (Ghostly Sentinel, Life Goes On, Ride Down, Secret Plans, Immolating Glare, Asceticism, Shipwreck Singer, Curious Pair, Trail of Crumbs, Davriel's Shadowfugue, Sorin's Thirst), each one extends the daarken.md appears_on: list. Routine future-wave growth, no separate Mr. Nodeley commission required."
+  ]
+}

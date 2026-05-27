@@ -74,3 +74,16 @@ A large, hulking creature occupies most of the frame, hunched low over the root-
 **Creatures:** bestial-creature, thrull
 **Genre cues:** fantasy, dark-fantasy, horror
 
+## Trivia
+
+- **Flavor text** — "\"Urborg used to be lovely—scenic volcanoes, respectable lich lords. Since the Cabal came with their nightmares and thrulls, it's all gone to the worms.\" —Mister Lostspoons, Skulltown gossip" Mister Lostspoons is a Skulltown resident on the island of Urborg. The quote is black-comedy worldbuilding: "respectable lich lords" is a genuine compliment by Urborg's standards, marking the Cabal's thrulls and dementia creatures as a downgrade from the region's prior supernatural order. `[Scryfall]`
+- **Set / lore context** — Feral Abomination is typed as a Thrull — a creature type bred by the Cabal's spiritual predecessors in the fallen empire of Sarpadia. In Dominaria (2018), Belzenlok's Cabal relocated from Otaria to Urborg and flooded the region with thrulls and dementia-space creatures, displacing the existing supernatural ecosystem. The Cabal's takeover of Urborg is directly lamented in this card's flavor text. `[Scryfall type_line; MTG Wiki: Cabal, via WebSearch]`
+- **Reprint history** — Feral Abomination has three printings: the original Dominaria (2018), The List (November 2019, original Darek Zabrocki art and Dominaria flavor text), and Core Set 2020 (July 2019, same Zabrocki art but different generic flavor text from "Byaras, backwoods guide"). The Core Set 2020 reprint strips the Urborg/Cabal context, genericizing the card for a non-narrative set. `[Scryfall prints data]`
+- **Mechanical reputation** — At six mana for a 5/5 Thrull with Deathtouch, Feral Abomination is a Limited top-end card — trading profitably with nearly anything while being difficult to profitably block. In Pauper Constructed (where it is legal as a common) it sees minimal play; six mana is too much without evasion. EDHREC rank 25,504. `[Scryfall oracle_text, legalities, edhrec_rank]`
+
+### Related cards
+- Cabal Stronghold (Dominaria, 238) — the Cabal's Urborg headquarters whose influence the flavor text laments
+- Stronghold Confessor (Dominaria, 105) — another Cabal-adjacent Urborg creature from the same set
+- Demonlord Belzenlok (Dominaria, 86) — the demon whose Cabal brought "nightmares and thrulls" to Urborg
+- Feral Abomination (Core Set 2020, 101) — reprint with alternate flavor text; same Darek Zabrocki art
+

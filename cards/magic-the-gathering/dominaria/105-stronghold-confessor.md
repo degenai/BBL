@@ -74,3 +74,15 @@ A solitary figure stands in a narrow stone corridor, fully cloaked in dark robes
 **Iconography:** demonic-shadow, horned-silhouette
 **Genre cues:** fantasy, dark-fantasy, gothic
 
+## Trivia
+
+- **Set / lore context** — "Stronghold" in the card name references the Cabal Stronghold in Urborg — Belzenlok's fortress and the target of the Skyship Weatherlight's climactic assault in Dominaria's story. A "Confessor" within the Cabal hierarchy would serve as an interrogator, keeper of cult doctrine, and enforcer of devotional compliance — the institutional role the dungeon-corridor art depicts. No Wizards article or oracle text identifies the depicted figure as a named character; this is anonymous Cabal rank-and-file. `[Scryfall card name; MTG Wiki: Cabal Stronghold, via WebSearch]`
+- **Design** — Stronghold Confessor has no flavor text (confirmed via Scryfall API). It carries Kicker — a returning mechanic in Dominaria that was originally from Invasion block. At one black mana it enters as a 1/1 Menace; kicked for an additional three mana it enters as a 3/3 Menace with two +1/+1 counters. The two-mode flexibility makes it serviceable across the mana curve in aggressive black Limited decks. `[Scryfall flavor_text (empty), oracle_text]`
+- **Mechanical notes** — Legal in Pauper and PauperCommander as a common. Mark Rosewater noted in his "State of Design 2018" that kicker was "doing important work" in the set but "doesn't mesh as nicely with everything else" as mechanics like Sagas did. At EDHREC rank 25,693, the card sees minimal Commander play. `[Scryfall legalities, edhrec_rank; magic.wizards.com: State of Design 2018, 2018-08-20]`
+
+### Related cards
+- Cabal Stronghold (Dominaria, 238) — the institution named in the card's title
+- Demonlord Belzenlok (Dominaria, 86) — the demonlord whose Cabal the Confessor serves
+- Whisper, Blood Liturgist (Dominaria, 113) — named senior Cabal figure showing the hierarchy above anonymous rank-and-file
+- Cabal Evangel (Dominaria, 79) — another anonymous Cabal functionary from the same set
+

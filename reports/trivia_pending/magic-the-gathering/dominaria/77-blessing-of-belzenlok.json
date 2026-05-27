@@ -1,0 +1,42 @@
+{
+  "card_name": "Blessing of Belzenlok",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "77",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "Flavor text: \"'My heart is not mine, it is Belzenlok's. All hearts are his, and all blood.' —'Rite of Belzenlok'\" The speaker is the Rite of Belzenlok itself — a cult liturgical text, not a named character. This frames the Cabal's devotion as a doctrine of total ownership: not just loyalty, but surrender of self. [Scryfall]",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Belzenlok was the demonlord at the center of Dominaria's 2018 storyline — the fourth and final demon holding Liliana Vess's contract. After being freed from the Abyss by the Cabal during a ritual meant to summon their god Kuberr, Belzenlok seized control of the organization and began rewriting history with himself as its centerpiece, claiming false titles and conquests. Blessing of Belzenlok is one of several cards in the set that shows Cabal membership as involving explicit cult devotion rather than mere mercenary allegiance. [MTG Wiki: Belzenlok, via WebSearch; magic.wizards.com: Return to Dominaria series]",
+      "sources": ["MTG Wiki: Belzenlok, via WebSearch", "magic.wizards.com Return to Dominaria series"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Blessing of Belzenlok is a one-mana instant that gives +2/+1 until end of turn, with lifelink added for legendary creatures. The legendary rider directly supports Dominaria's heavy legendary-creature theme — the set deliberately raised the as-fan of legendary creatures, guaranteeing one per booster pack. For a single black mana this is efficient combat trick value, though the lifelink upside requires a legendary attacker. The card was reprinted in The List (November 2019). [Scryfall oracle_text, prints data; magic.wizards.com: Stories from Dominaria Part 2, via WebSearch]",
+      "sources": ["Scryfall oracle_text, prints data", "magic.wizards.com Stories from Dominaria Part 2, via WebSearch"]
+    },
+    {
+      "category": "design",
+      "text": "The 'legendary' clause on Blessing of Belzenlok is a mechanical echo of the flavor: Belzenlok names himself as the ultimate legendary being in the Dominaria storyline, falsely claiming every great deed in history. Giving lifelink to legendary creatures reinforces that narrative — this 'blessing' grants the most to those already powerful enough to bear Belzenlok's name. Artist Joe Slucher illustrated the card. [Scryfall; MTG Wiki: Belzenlok, via WebSearch]",
+      "sources": ["Scryfall", "MTG Wiki: Belzenlok, via WebSearch"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Demonlord Belzenlok", "set": "Dominaria", "note": "The demon whose cult produced this spell; the card representation of the set's main villain"},
+    {"name": "Cabal Paladin", "set": "Dominaria", "note": "Another Cabal warrior card from the set — represents the armed arm of Belzenlok's organization"},
+    {"name": "Cabal Evangel", "set": "Dominaria", "note": "Named Cabal creature with explicit cult-member flavor"},
+    {"name": "Urgoros, the Empty One", "set": "Dominaria", "note": "A transformed Cabal servant of Belzenlok; both cards represent the range of what Belzenlok's 'blessings' produce"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}
