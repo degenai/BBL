@@ -68,12 +68,12 @@ The FFVI playable roster is fixed at 14 members in Square's 1994 canon. The stri
 | Gau | wild child (Rage) | Category VI staple across Opus run | not yet |
 | Setzer Gabbiani | gambler (Slot) | yes (8-036C EX foil) | yes |
 | Mog | moogle dragoon (Dance) | Category VI staple across Opus run | not yet |
-| Strago Magus | blue mage (Lore) | yes (8-119C) | not yet (corpus has card; not pointed here) |
+| Strago Magus | blue mage (Lore) | Category VI staple across Opus run | not yet |
 | Relm Arrowny | painter / sketcher (Sketch) | Category VI staple across Opus run | not yet |
 | Umaro | yeti berserker (uncontrollable) | yes (8-024C) | yes |
 | Gogo | mimic | Category VI staple across Opus run | not yet |
 
-Four of the fourteen canonical members are currently in BBL corpus and pointed here; ten more are FFVI-canonical and most are FFTCG-printed but not yet acquired in this corpus. Strago (8-119C) is in corpus per the Umaro trivia's "Related cards" reference but has not yet been triviabot-passed — once enriched it should be evaluated for promotion onto this node's `appears_on` list.
+Four of the fourteen canonical members are currently in BBL corpus and pointed here; ten more are FFVI-canonical and most are FFTCG-printed but not yet acquired in this corpus.
 
 ## The design thesis
 
@@ -103,7 +103,7 @@ The FF6 party's most BBL-relevant property is its canonical structuring as the R
 - **Modeled as a multi-character party node, not a per-character node.** This follows the `[[universe-6-tournament-cohort]]` and `[[crane-school-cohort]]` precedent — a *named in-canon faction or cohort* is hosted as a single character-layer node rather than a per-member fan-out. When BBL acquires a Setzer or Sabin printing from a different Opus set, the new card attaches here too rather than spawning a per-character node. If a future single-character anchor becomes load-bearing (e.g. corpus accumulates 4+ Setzer printings across Opus sets such that a per-character Setzer node beats a roster-level cohort node for query purposes), Edgelord-enlightened can refactor by adding a child node and updating this node's prose to reference it.
 - **The "Returners" faction name is FFVI-canonical, not FFTCG-canonical.** FFTCG's card-frame marker for the cohort is "Category VI" (the Opus-set numeric designator for FFVI). The node uses "Returners" in the title for thematic precision (the Returners *are* the FFVI party in-game) but the FFTCG roster-membership predicate is mechanically "Category VI" rather than "FFTCG card text mentions the Returners." Both are valid framings and both are reflected in the canonical_source field; the Returners framing is what the BBL `[[rebellion]]` hub adjacency rests on.
 - **Per Potion-rule sub-rule 1 (`[[bbl-museum-curation-framing]]` parent, `[[_triple-thesis]]` canonical), the rebellion hub adjacency is a curatorial overlay grounded in Square's canonical Gestahlian Empire framing.** Square's 1994 canon explicitly stages the FFVI party as the Returners faction opposing imperial magitek extraction — this is canonical-event, not BBL-squinting. The `[[rebellion]]` hub adjacency therefore meets the canonical-citation predicate Potion-rule sub-rule 2 requires.
-- **Strago Magus 8-119C is in corpus but not yet pointed here.** Per the Umaro trivia's "Related cards" reference, 8-119C is an Opus VIII FFVI character that should be evaluated for this node once the card is triviabot-passed and Category VI membership is confirmed in its card-frame text. A future Edgelord pass — likely triggered by Strago's enrichment — should add `final-fantasy-tcg/opus-viii/8-119c-strago` to `appears_on` and update the `In BBL corpus` column above accordingly.
+- **Strago Magus 8-119C is a future-attach candidate, not in corpus.** Umaro 8-024c.md's Related-cards bullet (line 84) names Strago as a fellow Opus VIII FFVI character revealed in the same spoiler wave; this is a forward-reference, not a corpus-presence claim. If a future Collectr CSV ingest brings 8-119C into BBL, it attaches here by adding the path to `appears_on:` and stamping `characters: [ff6-returners-party]` on the card's frontmatter at prep time.
 - **Vivi Ornitier (8-016H) is FF9, not FF6 — explicitly out of scope.** The corpus has an existing `[[ff9-zidane-party]]` character node that handles the FF9 playable party (Vivi, Garnet, Freya, plus the named NPC Artemicion in Opus III). The FF6 party node and the FF9 party node are sibling FFTCG cohort-layer entries representing different mainline-FF rosters; cross-attaching cards between them would conflate Category VI and Category IX, which the FFTCG card-frame system explicitly separates.
 
 ## See also

@@ -10,7 +10,7 @@ aliases:
 universe: "Magic: The Gathering / Core Set 2021 (M21, 2020-07-03)"
 faction: ~
 species: designer-coordinated Wizards-documented multi-card creature-tribal theme (creature type — Dog)
-canonical_source: "Mark Rosewater, 'But Wait, There's Core,' Making Magic, 2020-06-15 (introduces the M21 Hound-to-Dog rename + names the deliberate small dog tribal theme verbatim: Pack Leader as rare dog lord, six canine creatures across the set, Rin and Seri Inseparable as the buy-a-box capstone, art direction quoted as 'a variety of different kinds of dogs, many on the cuter side'); Scryfall M21 set page (filter `s:m21 t:dog` returns the six canonical canine creatures); MTG Wiki — Core Set 2021 set page (Cycles and Themes section confirms the dog subtheme); per-card type-line confirmation across Scryfall M21 per-card pages"
+canonical_source: "Mark Rosewater, 'But Wait, There's Core,' Making Magic, 2020-06-15 (introduces the M21 Hound-to-Dog rename + attributes the 'small dog theme' to set designer Adam Prosak, naming Pack Leader as the rare 'Dog lord' and counting 'three other white dogs and three red dogs' beyond Pack Leader, plus Rin and Seri Inseparable as the buy-a-box capstone, with art direction quoted as 'a variety of different kinds of dogs, many on the cuter side'); Scryfall M21 set page (filter `s:m21 t:dog` returns eight native Dog-typed creatures including Rin and Seri); MTG Wiki — Core Set 2021 set page (Cycles and Themes section documents the dog subtheme); per-card type-line confirmation across Scryfall M21 per-card pages"
 confidence: canonical
 appears_on:
   - magic-the-gathering/core-set-2021/36-selfless-savior
@@ -28,7 +28,7 @@ tags:
 ---
 # M21 dog tribal theme (Core Set 2021 Hound-to-Dog rename + designer-coordinated first-generation Dog-typed cohort)
 
-Core Set 2021 (M21, released 2020-07-03) is the set where Wizards of the Coast officially retired the "Hound" creature subtype and replaced it with "Dog," errataing every previously printed Hound card retroactively. Mark Rosewater's "But Wait, There's Core" Making Magic article (2020-06-15) framed the change as "a fight I had for 20-plus years only to have someone else win it for me without any resistance" — set designer Adam Prosak pushed the rename through without internal pushback. M21 then printed a deliberate small dog tribal theme to anchor the announcement: Pack Leader as the rare dog lord, six canine creatures distributed across the set's commons and uncommons (one per color where flavor permitted), and the *buy-a-box* legendary promo **Rin and Seri, Inseparable** as the Dog-Cat-pairing capstone. The art team was directed verbatim to illustrate "a variety of different kinds of dogs, many on the cuter side."
+Core Set 2021 (M21, released 2020-07-03) is the set where Wizards of the Coast officially retired the "Hound" creature subtype and replaced it with "Dog," errataing every previously printed Hound card retroactively. Mark Rosewater's "But Wait, There's Core" Making Magic article (2020-06-15) framed the change as "a fight I had for 20-plus years only to have someone else win it for me without any resistance" — set designer Adam Prosak pushed the rename through without internal pushback. M21 then printed a deliberate small dog theme (Rosewater's framing, attributed to Prosak) to anchor the announcement: Pack Leader as the rare "Dog lord", three other white dogs and three red dogs distributed across the set's commons and uncommons, and the *buy-a-box* legendary promo **Rin and Seri, Inseparable** as the Dog-Cat-pairing capstone. The art team was directed to illustrate "a variety of different kinds of dogs, many on the cuter side."
 
 ## What this node anchors
 
@@ -46,16 +46,17 @@ The cohort is BBL-relevant for two interlocking reasons. (1) It is the in-canon 
 
 ## Canonical roster
 
-The cohort's full canonical membership rests on Rosewater's "six canine creatures across the set" framing in "But Wait, There's Core" plus Scryfall verification (`s:m21 t:dog`). The strict-membership roster:
+The cohort's full canonical membership rests on Rosewater's article (which attributes the small-dog theme to Prosak and counts Pack Leader + three other white dogs + three red dogs) plus Scryfall verification (`s:m21 t:dog` returns 8 native Dog-typed creatures including Rin and Seri). The strict-membership roster:
 
 | # | Name | Type-line | Color | Designer-confirmed membership | In corpus |
 |---|---|---|---|---|---|
-| 28 | Pack Leader | Creature — Dog | W | strict: the rare dog lord; Rosewater names it as the tribal anchor | no |
+| 29 | Pack Leader | Creature — Dog | W | strict: the rare "Dog lord" per Rosewater; tribal anchor of the cohort | no |
 | 30 | Rambunctious Mutt | Creature — Dog | W | strict: named in Rosewater's "small dog tribal theme" framing | yes |
 | 36 | Selfless Savior | Creature — Dog | W | strict: Scryfall `s:m21 t:dog`; M21 native Dog-type print | yes |
 | 131 | Bolt Hound | Creature — Elemental Dog | R | strict: Scryfall `s:m21 t:dog`; M21 native Dog-type print | yes |
 | 137 | Chandra's Magmutt | Creature — Elemental Dog | R | strict: Scryfall `s:m21 t:dog`; one of two named Chandra-companion creatures in M21 | yes |
 | 138 | Chandra's Pyreling | Creature — Elemental Lizard | R | excluded: not a Dog type-line; reptilian companion archetype; outside the dog cohort despite the named-Chandra-companion pairing with Magmutt | no |
+| 153 | Igneous Cur | Creature — Elemental Dog | R | strict: Scryfall `s:m21 t:dog`; M21 native Dog-type print; named in Alpine Watchdog's tri-cluster mechanical lock | no |
 | 2 | Alpine Watchdog | Creature — Dog | W | strict: Scryfall `s:m21 t:dog`; M21 native Dog-type print; vision + trivia complete (wave 204), attached wave 205 | yes |
 | 278 | Rin and Seri, Inseparable | Legendary Creature — Dog Cat | RGW | strict: the buy-a-box promo capstone uniting the Dog and Cat types; Rosewater names it as the cycle anchor | no |
 
