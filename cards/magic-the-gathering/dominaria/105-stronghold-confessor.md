@@ -52,6 +52,8 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: dungeon
+characters:
+  - belzenlok
 ---
 
 # Stronghold Confessor (Dominaria)
@@ -85,4 +87,8 @@ A solitary figure stands in a narrow stone corridor, fully cloaked in dark robes
 - Demonlord Belzenlok (Dominaria, 86) — the demonlord whose Cabal the Confessor serves
 - Whisper, Blood Liturgist (Dominaria, 113) — named senior Cabal figure showing the hierarchy above anonymous rank-and-file
 - Cabal Evangel (Dominaria, 79) — another anonymous Cabal functionary from the same set
+
+## Connections
+
+- [[belzenlok]] — Cabal-apparatus member; the card name references the Cabal Stronghold (Belzenlok's seat of power in Urborg per `MTG Wiki: Cabal Stronghold`), and the dungeon-corridor art's institutional Confessor role — interrogator, keeper of cult doctrine, enforcer of devotional compliance — sits within the Cabal hierarchy Belzenlok reformed under his Eternal-Patriarch title. The depicted figure is anonymous Cabal rank-and-file per the card's own trivia bullet; the wiring criterion is the Cabal-institution test (`Stronghold` in the card name + dungeon-corridor architecture canonically tied to the Cabal Stronghold). `[MTG Wiki: Cabal Stronghold; MTG Wiki: Cabal — hierarchy]`
 

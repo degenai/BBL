@@ -56,6 +56,9 @@ subject_known_ip: true
 suspected_ip: Liliana Vess
 ip_confidence: high
 ip_verified: true
+characters:
+  - liliana-vess
+  - belzenlok
 ---
 
 # Settle the Score (Dominaria)
@@ -95,4 +98,9 @@ Two figures face off in a dramatic magical confrontation. On the left, a slender
 - Demonlord Belzenlok (Dominaria) — the figure being exiled/consumed in the art; Liliana's fourth demon
 - Final Parting (Dominaria) — another Dominaria story spotlight card from the same arc
 - Blackblade Reforged (Dominaria) — the weapon used to slay Belzenlok in the story; Gideon's contribution to the confrontation
+
+## Connections
+
+- [[liliana-vess]] — depicted-character; Scryfall flavor text directly attributes the quoted line to Liliana Vess ("*You bound me with a contract only your death could end—and you thought me the fool?*"). Story-spotlight watermark and `story_spotlight: true` flag confirm character-identity at the canonical-evidence level. `[Scryfall: flavor_text + watermark; MTG Wiki: Liliana Vess]`
+- [[belzenlok]] — depicted defeated-antagonist; the right-foreground figure being consumed by purple-pink magical fire is Belzenlok at the moment Liliana drained his life through the Blackblade. Martha Wells's "Return to Dominaria: Episode 12" (2018-05-30) names this card by inline art-credit caption ("*Settle the Score | Art by Yongjae Choi*") at the canonical Blackblade-drain beat, and the MTG Wiki Belzenlok page lists Settle the Score under "Depicted in." `[MTG Wiki: Belzenlok — Depicted in; Wizards of the Coast: Return to Dominaria: Episode 12]`
 

@@ -52,6 +52,8 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: indoor
+characters:
+  - belzenlok
 ---
 
 # Vicious Offering (Dominaria)
@@ -86,4 +88,8 @@ A single armored figure kneels in the center of a ritual chamber, arms stretched
 - Blessing of Belzenlok (Dominaria, 77) — sibling cult-ritual card; "Rite of Belzenlok" flavor text names the devotional framework this art depicts
 - Cabal Paladin (Dominaria, 78) — another Cabal card that benefits from sacrifice synergies in the same set
 - Stronghold Confessor (Dominaria, 105) — another anonymous Cabal figure from the same set
+
+## Connections
+
+- [[belzenlok]] — Cabal-apparatus ritual depiction; the kneeling armored figure with arms spread in ecstatic surrender among candles and skulls encodes the canonical "voluntary offering of self to the demonlord" register, mapped by the card's existing trivia to the `Rite of Belzenlok` liturgical text on Blessing of Belzenlok ("*My heart is not mine, it is Belzenlok's. All hearts are his, and all blood.*"). The creature-sacrifice kicker cost is itself a mechanical encoding of Cabal sacrifice-cult flavor — the apparatus's institutional behavior rendered as game-state cost rather than mana. `[Scryfall: Blessing of Belzenlok flavor_text; MTG Wiki: Cabal — religious-cult reformation]`
 

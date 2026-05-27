@@ -1,0 +1,48 @@
+{
+  "card_name": "Whisper, Blood Liturgist",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "111",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Named legendary creature — strongest possible IP confirmation. Scryfall type_line: 'Legendary Creature — Human Cleric'; card name IS the character name. The depicted figure is definitionally the named legendary. Whisper is a Wizards-internal character; no external IP callout block required. Whisper character node does not yet exist in cards/_characters/; flagged for future commissioning (she has enough canonical lore depth from MTG Wiki and EDHREC article). Frontmatter updated: ip_verified: false -> true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Whisper is a human Cabal cleric on Dominaria, a street-orphan of Estark who joined the Cabal as her first opportunity for power. She cultivated the habit of speaking quietly so others had to lean toward her — the source of her name. By the Dominaria storyline she had risen to become one of Belzenlok's favored priests, leading ceremonies at the Cabal Stronghold.",
+      "sources": ["MTG Wiki — Whisper, via WebSearch snippet"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'Look how they beg for the knife! The Demonlord has trained them well.' The 'Demonlord' is Belzenlok. The quote positions Whisper as a cold observer of her congregation's willing submission — supplicants trained into accepting sacrifice as devotion.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Whisper's ability — {T}, Sacrifice two creatures: Return target creature card from your graveyard to the battlefield — requires no mana, making her a zero-cost reanimation engine in creature-heavy black decks. Key ruling: neither sacrificed creature can be the reanimation target, closing potential infinite-ETB loops. EDHREC rank 5759.",
+      "sources": ["Scryfall oracle_text", "EDHREC — Underdog's Corner: Whisper, Blood Liturgist", "Scryfall EDHREC rank field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The Cabal on Dominaria was reconstituted under Belzenlok sixty years after the Mending, relocating from Otaria to Urborg. Whisper's flavor text — supplicants trained to desire the sacrifice blade — is consistent with Cabal doctrine treating life as transactional currency.",
+      "sources": ["Wizards of the Coast — Return to Dominaria story series; WebSearch snippet MTG Wiki — Cabal"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Kieran Yanner, who also illustrated Liliana's Triumph (WAR-98), the black member of the Gatewatch Triumph cycle — making Yanner a recurring artist for black-aligned Wizards-narrative cards.",
+      "sources": ["Scryfall artist field; Scryfall WAR-98"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Demonlord Belzenlok", "set": "Dominaria", "note": "DOM-86 Whisper's patron demon; the 'Demonlord' in the flavor text"},
+    {"name": "Josu Vess, Lich Knight", "set": "Dominaria", "note": "DOM-101 another Cabal-adjacent legendary in the same set"},
+    {"name": "Cabal Stronghold", "set": "Dominaria", "note": "DOM-238 the location of Whisper's ceremonies"},
+    {"name": "Rite of Belzenlok", "set": "Dominaria", "note": "Cabal summoning ritual that brought Belzenlok to Dominaria"},
+    {"name": "Cabal Coffers", "set": "Torment", "note": "Older Cabal-era card establishing the cult's Dominaria roots"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

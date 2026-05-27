@@ -10,8 +10,26 @@ condition: Near Mint
 quantity: 2
 held_for_lair: 0
 bundles: []
-tags_hub: []
-tags_filter: []
+tags_hub:
+  - crow
+  - bird
+  - night
+  - moon
+  - gothic
+  - villain
+  - dark
+  - flight
+  - boss
+  - predator
+  - silhouette
+  - moonlit
+tags_filter:
+  - solo
+  - three-quarter
+  - mid-shot
+  - action-mode
+  - darkness-type
+  - uncommon
 reference_image: cards/_images/pokemon/phantasmal-flames/058-094-honchkrow.png
 average_cost_paid: 0
 market_price: 0.04
@@ -27,6 +45,34 @@ oracle_text: "Wind of Darkness (Darkness) 30\\nSniping Feathers (DarknessDarknes
 image_width: 733
 image_height: 1024
 image_quality: high
+mood: grim
+time_of_day: night
+setting: urban
+suspected_ip: Honchkrow
+ip_confidence: high
+ip_verified: false
 ---
 
 # Honchkrow (Phantasmal Flames)
+
+## Vision
+
+![058-094-honchkrow](../../_images/pokemon/phantasmal-flames/058-094-honchkrow.png)
+
+> [!warning] Suspected IP: **Honchkrow** (confidence: high, unverified)
+> Reviewer: confirm whether the depicted figure is canonically this character. If yes, set `ip_verified: true` in frontmatter. If no, clear `suspected_ip`.
+
+Honchkrow dominates the frame in a dramatic mid-shot against a dark twilight or night sky. The creature is predominantly deep blue-black with a striking red crest of feathers flaring from its head. Its broad wings are spread or partially open, and its posture is imperious and predatory. Behind the creature, a large moon is visible through a partly cloudy night sky, and the silhouette of a city or rooftop skyline is faintly suggested at the bottom edge. The atmosphere is menacing and gothic, the color contrast between the dark figure and the pale moonlit sky creating a classic noir silhouette effect.
+
+**Subject:** Honchkrow, a large dark blue and black crow-like Pokemon with a distinctive red feathered mohawk crest, depicted against a night sky with a visible moon
+
+**Composition:** mid-shot, action, figures: solo, facing: three-quarter
+**Setting:** urban, modern, night, clear
+**Foreground:** Honchkrow with wings spread against the sky  *(palette: dark-blue, black, red)*
+**Background:** Night sky with a visible moon and faint urban rooftop silhouette  *(palette: dark-blue, gray, pale-yellow)*
+**Mood / lighting:** grim, backlit
+**Emotion read:** imperious and menacing; spread wings and upright posture signal dominance
+**Creatures:** honchkrow, crow, bird
+**Iconography:** moon
+**Genre cues:** anime, noir
+

@@ -1,0 +1,63 @@
+{
+  "slug": "CBG-020",
+  "surfaced_by": "Comic Book Guy free-walk (sixth dispatch)",
+  "surfaced_date": "2026-05-26",
+  "headline": "Aetherdrift 'Planeswalker's Guide to Aetherdrift' Parts 1 and 2 attributed to Mark Rosewater in 2 character-node bodies; canonical byline is Miguel Lopez (WotC creative team writer, not Rosewater). Compounding finding: endriders.md fabricates 'draconic warlords' and 'colossal dry lightning storms' as verbatim Wizards-stated descriptors for Gastal — neither phrase appears in the actual Lopez article.",
+  "severity": "warn",
+  "category": "designer-source-claim-audit",
+  "summary": "cards/_characters/endriders.md line 52 reads: '**Wizards — Planeswalker's Guide to Aetherdrift, Part 1** (Mark Rosewater) — primary canonical source for Gastal as \\\"apocalyptic plane of gas, draconic warlords, road warriors, and colossal dry lightning storms.\\\"' Line 53: '**Wizards — You Get the Aetherdrift, Part 2** (Mark Rosewater) — design framing of the ten-team racing structure and the Endriders' role as the Mardu-leaning aggressive black-red team.' (Note: line 53 misnames Part 2 as 'You Get the Aetherdrift' — the actual article title is 'Planeswalker's Guide to Aetherdrift, Part 2'). cards/_characters/guidelight-voyagers.md line 50 carries the same Part-1 misattribution: '**Wizards — Planeswalker's Guide to Aetherdrift, Part 1** (Mark Rosewater / WotC creative team) — primary canonical source for the Guidelight Voyagers as one of ten named Grand Prix teams.' WebFetch verification on https://magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-1 and ...part-2 returns the byline **Miguel Lopez** on both articles — NOT Mark Rosewater. Additionally, the verbatim phrases endriders.md attributes to the article fail WebFetch verification: the article does NOT describe Gastal as having 'draconic warlords' or 'colossal dry lightning storms.' The actual article describes Gastal as 'a dying plane crossed by mounted scavengers and nomads who roar across its permanently sunset-washed landscapes' with 'gas and oil' as plentiful resources. The 'apocalyptic plane of gas' fragment is loosely defensible (Lopez calls it 'a dying plane' with 'gas and oil... plentiful'); the 'draconic warlords' and 'colossal dry lightning storms' phrases are fabricated — they don't appear anywhere in the Lopez article.",
+  "evidence": {
+    "primary_misattribution": [
+      {
+        "file": "cards/_characters/endriders.md",
+        "line": 52,
+        "claim_about_author": "Mark Rosewater",
+        "actual_author": "Miguel Lopez",
+        "url": "https://magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-1",
+        "fabricated_verbatim_quote": "'draconic warlords' and 'colossal dry lightning storms' do not appear in the article",
+        "defensible_partial_match": "'apocalyptic plane of gas' partially tracks Lopez's 'dying plane' with 'gas and oil plentiful', but is not verbatim"
+      },
+      {
+        "file": "cards/_characters/endriders.md",
+        "line": 53,
+        "claim_about_author": "Mark Rosewater",
+        "actual_author": "Miguel Lopez",
+        "url": "https://magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-2",
+        "secondary_error": "Article title misstated as 'You Get the Aetherdrift, Part 2' — actual title is 'Planeswalker's Guide to Aetherdrift, Part 2'"
+      },
+      {
+        "file": "cards/_characters/guidelight-voyagers.md",
+        "line": 50,
+        "claim_about_author": "Mark Rosewater / WotC creative team",
+        "actual_author": "Miguel Lopez",
+        "hedge_signal": "The slash-hedge '(Mark Rosewater / WotC creative team)' suggests the author wasn't certain about attribution at commission time; the right move is to verify the byline via WebFetch, not hedge."
+      }
+    ]
+  },
+  "fix": {
+    "approach": "3 surgical edits across 2 files. Correct author attribution to Miguel Lopez. Soften the verbatim-quote framing on endriders.md line 52 to a paraphrase since the cited phrases ('draconic warlords', 'colossal dry lightning storms') don't appear in the article. Correct the Part 2 title on endriders.md line 53.",
+    "edits": [
+      {
+        "file": "cards/_characters/endriders.md",
+        "line": 52,
+        "old": "- **Wizards — Planeswalker's Guide to Aetherdrift, Part 1** (Mark Rosewater) — primary canonical source for Gastal as \\\"apocalyptic plane of gas, draconic warlords, road warriors, and colossal dry lightning storms.\\\"",
+        "new": "- **Wizards — Planeswalker's Guide to Aetherdrift, Part 1** (Miguel Lopez, WotC creative team, `https://magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-1`) — primary canonical source for Gastal as a dying plane crossed by mounted scavengers and nomads, with gas and oil as the plane's plentiful remaining resources after water and food ran short. Lopez frames the Endriders as the post-Phyrexian-invasion fuel-starved exodus crew who rode through the Omenpaths and ran dry on Avishkar, finding their way into the Ghirapur Grand Prix and its aether-fueled machines."
+      },
+      {
+        "file": "cards/_characters/endriders.md",
+        "line": 53,
+        "old": "- **Wizards — You Get the Aetherdrift, Part 2** (Mark Rosewater) — design framing of the ten-team racing structure and the Endriders' role as the Mardu-leaning aggressive black-red team.",
+        "new": "- **Wizards — Planeswalker's Guide to Aetherdrift, Part 2** (Miguel Lopez, WotC creative team, `https://magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-2`) — narrative framing of the ten-team racing structure and the Endriders' role as the Mardu-leaning aggressive black-red team."
+      },
+      {
+        "file": "cards/_characters/guidelight-voyagers.md",
+        "line": 50,
+        "old": "- **Wizards — Planeswalker's Guide to Aetherdrift, Part 1** (Mark Rosewater / WotC creative team) — primary canonical source for the Guidelight Voyagers as one of ten named Grand Prix teams; introduces Mendicant Core as the hive-mind captain and the Omenpath-displacement origin story.",
+        "new": "- **Wizards — Planeswalker's Guide to Aetherdrift, Part 1** (Miguel Lopez, WotC creative team, `https://magic.wizards.com/en/news/feature/planeswalkers-guide-to-aetherdrift-part-1`) — primary canonical source for the Guidelight Voyagers as one of ten named Grand Prix teams; introduces Mendicant Core as the hive-mind captain and the Omenpath-displacement origin story."
+      }
+    ]
+  },
+  "neighbor_spotcheck": "Cross-checked all corpus files mentioning 'Rosewater' (24 character files + 9 symbol files) for Aetherdrift-specific Rosewater attribution. Beyond endriders.md and guidelight-voyagers.md, no other layer-node makes Rosewater-Planeswalker's-Guide-to-Aetherdrift claims. The misattribution pattern is isolated to these two Aetherdrift cohort nodes. Spot-checked angrath.md, kiora.md, garruk-wildspeaker.md, m21-dog-tribal.md for Rosewater article-attribution patterns: angrath.md and kiora.md correctly cite 'Waging War of the Spark, Part 1' (Rosewater is the actual author, verified via WebFetch); garruk-wildspeaker.md correctly cites 'Need I Say Core' (Rosewater verified author); m21-dog-tribal.md already corrected by CBG-009. The Aetherdrift two-article series is the only verified misattribution territory in this dispatch.",
+  "isolation_check": "Pattern is isolated to the two Aetherdrift cohort nodes. The 'Planeswalker's Guide' article series across MTG history is generally a creative-team product (Doug Beyer historically, then Ari Levitch, now Miguel Lopez for Aetherdrift) — NOT Mark Rosewater, who writes 'Making Magic' design columns. Future Aetherdrift / lore-coverage commissions should default to creative-team attribution for 'Planeswalker's Guide' articles unless WebFetch confirms otherwise.",
+  "pattern_alert": "Same anti-pattern family as CBG-009, CBG-012, CBG-016, CBG-019 — designer-source-claim drift. Compounding novelty here: the wrong-author pattern is broader than the wrong-quote pattern. Rosewater's name carries Wikipedia-tier authority in MTG discourse; misattributing other Wizards writers' work to him inflates the citation's perceived authority while making the claim falsifiable on byline alone. Bbl-researcher / Mr. Nodeley agent specs should default to byline-via-WebFetch verification for any Wizards source cited as 'Mark Rosewater' when the article URL is on /news/feature/ (creative-team territory) rather than /news/making-magic/ (Rosewater's design-column territory). URL prefix is a strong signal: making-magic = Rosewater; feature = creative team."
+}

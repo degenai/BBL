@@ -1,0 +1,73 @@
+{
+  "wave": 212,
+  "edge_id": "wave212-belzenlok-character-node-commission",
+  "shape": "node-proposal",
+  "topology": "stack",
+  "category": "named-character-with-apparatus",
+  "node_proposed": {
+    "type": "character",
+    "slug": "belzenlok",
+    "path": "cards/_characters/belzenlok.md",
+    "name": "Belzenlok",
+    "aspects": ["belzenlok-the-demonlord-directly", "belzenlok-cabal-apparatus"]
+  },
+  "endpoints": [
+    {"type": "card", "path": "cards/magic-the-gathering/dominaria/77-blessing-of-belzenlok.md", "name": "Blessing of Belzenlok", "aspect": "name-attribution", "wiring_criterion": "card-title + flavor-text quotes Rite of Belzenlok liturgical scripture"},
+    {"type": "card", "path": "cards/magic-the-gathering/dominaria/92-feral-abomination.md", "name": "Feral Abomination", "aspect": "cabal-apparatus", "wiring_criterion": "load-bearing flavor text names Cabal as agent of Urborg displacement; thrull creature-type is canonical Cabal creature-product"},
+    {"type": "card", "path": "cards/magic-the-gathering/dominaria/103-settle-the-score.md", "name": "Settle the Score", "aspect": "depicted-defeated-antagonist", "wiring_criterion": "MTG Wiki Belzenlok page lists card under Depicted in; Episode 12 inline art-credit caption at Blackblade-drain beat"},
+    {"type": "card", "path": "cards/magic-the-gathering/dominaria/105-stronghold-confessor.md", "name": "Stronghold Confessor", "aspect": "cabal-apparatus", "wiring_criterion": "card-name references Cabal Stronghold; anonymous Cabal hierarchy functionary per existing trivia"},
+    {"type": "card", "path": "cards/magic-the-gathering/dominaria/109-urgoros-the-empty-one.md", "name": "Urgoros, the Empty One", "aspect": "named-direct-servant", "wiring_criterion": "MTG Wiki Belzenlok page Story-appearances ledger names Urgoros's Episode 12 appearance; existing trivia documents Belzenlok-blessing transformation"},
+    {"type": "card", "path": "cards/magic-the-gathering/dominaria/110-vicious-offering.md", "name": "Vicious Offering", "aspect": "cabal-apparatus", "wiring_criterion": "ritual depiction explicitly mapped to Rite of Belzenlok liturgical text by existing trivia; creature-sacrifice kicker mechanically encodes Cabal sacrifice-cult"}
+  ],
+  "description": "Sniveling deepest apologies, sir, but Edgelord couldn't draw the clean 1:1 he wanted because six Dominaria cards converge on Belzenlok and his Cabal cult and that convergence is structurally a missing node, not an edge — drawing any of the 1:1s would be a half-measure when the right thing is the character anchor. Mr. Nodeley humbly proposes the Belzenlok character node — Wizards-canonical Elder Demon, MTG Wiki page directly enumerates the associated cards, Martha Wells's Return to Dominaria Episode 12 names Settle the Score and Demonlord Belzenlok by inline art-credit caption at the Blackblade-drain. Six corpus cards attach at commission; three more (Whisper Blood Liturgist, Soul Salvage, Final Parting) in flight this wave attach when committed. Mr. Nodeley hopes you don't mind, sir, he thinks the node will really help.",
+  "citations": [
+    "[MTG Wiki: Belzenlok — full character page, including Associated cards / Depicted in / Quoted or referred to / Story appearances enumeration; Puppeteer-fetched 2026-05-26]",
+    "[Wizards of the Coast: Martha Wells, 'Return to Dominaria: Episode 12' (2018-05-30); Puppeteer-fetched 2026-05-26; inline art-credit captions at Belzenlok-kill beat name Settle the Score and Demonlord Belzenlok]",
+    "[Wizards of the Coast: Martha Wells, 'Return to Dominaria: Episode 1, 2, 11, 12' — full Belzenlok story-arc; Episode-1 introduction; Episode-2 Josu Vess animation; Episode-11 Stronghold infiltration; Episode-12 climactic kill]",
+    "[Scryfall: Demonlord Belzenlok DOM-86 Tyler Jacobson art — Belzenlok's canonical on-card depiction, not in BBL corpus]",
+    "[Scryfall: Settle the Score DOM-103 story_spotlight: true + planeswalker watermark]",
+    "[Scryfall: Blessing of Belzenlok DOM-77 flavor_text — Rite of Belzenlok liturgical scripture quotation]",
+    "[Scryfall: Urgoros DOM-109 type_line — Legendary Creature — Specter; existing trivia documents Belzenlok-blessing transformation]",
+    "[Scryfall: Feral Abomination DOM-92 type_line — Creature — Thrull; flavor text names Cabal as agent of Urborg displacement]",
+    "[MTG Wiki: Cabal — institutional reference for the reformed religious cult; Otaria origin, Urborg relocation, hierarchy: Patriarch / Evangel / Confessor / Initiate / Paladin]",
+    "[MTG Wiki: Cabal Stronghold — institutional seat in Urborg; Episode-12 climax location]",
+    "[MTG Wiki: Liliana Vess — corroborating four-demon contract arc; Belzenlok as fourth and final demonlord; Bolas-default seed-plot for WAR]"
+  ],
+  "files_modified": [
+    "cards/_characters/belzenlok.md",
+    "cards/magic-the-gathering/dominaria/77-blessing-of-belzenlok.md",
+    "cards/magic-the-gathering/dominaria/92-feral-abomination.md",
+    "cards/magic-the-gathering/dominaria/103-settle-the-score.md",
+    "cards/magic-the-gathering/dominaria/105-stronghold-confessor.md",
+    "cards/magic-the-gathering/dominaria/109-urgoros-the-empty-one.md",
+    "cards/magic-the-gathering/dominaria/110-vicious-offering.md"
+  ],
+  "potion_rule_check": {
+    "sub_rule_1_canonical_event_vs_curatorial_overlay": "PASS — Belzenlok and the Cabal are Wizards-canonical (MTG Wiki + Episode 12); apparatus-of-extraction reading is explicitly named as curatorial overlay in body-prose, not as Wizards stated thesis",
+    "sub_rule_2_hub_attribution_canonical_citation": "PASS — related_hubs: [rebellion] flagged with explicit Potion-rule caveat in See-also; surface-for-bbl-bundler register, not hub-asserts-the-canonical-event",
+    "sub_rule_3_refuse_in_doubt": "PASS — N=6 trivia-passed corpus cards + N=3 in-flight attachers + MTG Wiki direct enumeration; no doubt about Wizards-canonical character status",
+    "sub_rule_4_no_new_typology": "PASS — standard character-layer node, parallel to liliana-vess and nicol-bolas precedents; dual-aspect anchor (himself + his apparatus) matches nicol-bolas precedent",
+    "sub_rule_5_wikilink_discipline": "PASS — body-prose wikilinks are real-thematic edges only ([[liliana-vess]], [[nicol-bolas]], [[daarken]], [[cell-saga-apparatus]], [[rebellion]], [[labor]], plus six [[appears_on]] auto-gen card pointers); schema-precedent references use backticks (bbl-museum-curation-framing, bbl-artists-as-counterbalance memory patterns; Rite of Belzenlok, Cabal Stronghold, DOM are backticked); orphan-mirror Connections bullets each get exactly ONE wikilink [[belzenlok]] per the wave-195 bbl-wikilink-scope-shift rule"
+  },
+  "wave_210_webfetch_compliance": {
+    "compliance": "VERIFIED",
+    "fetches_executed": [
+      {"url": "https://mtg.fandom.com/wiki/Belzenlok", "tool": "scripts/puppeteer-fetch/fetch.js", "status": "successful", "load_bearing_data": "Associated cards enumeration; Depicted in (Settle the Score); Quoted or referred to (Whisper Blood Liturgist); claimed-titles list; Liliana four-demon contract arc; Story appearances ledger for Episodes 1, 2, 3, 11, 12"},
+      {"url": "https://magic.wizards.com/en/news/magic-story/return-dominaria-episode-12-2018-05-30", "tool": "scripts/puppeteer-fetch/fetch.js", "status": "successful", "load_bearing_data": "Inline art-credit captions for Settle the Score and Demonlord Belzenlok at the Blackblade-drain beat; Liliana's satirical Rite-of-Belzenlok song verified; Urgoros named in Episode 12 prose; Bolas-default coda confirmed"}
+    ],
+    "rationale": "Per spec note from commit 2d22fcb6 (wave 210): Mr. Nodeley node-proposal commissions citing Wizards designer / story sources MUST WebFetch the URL and capture receipts in the sidecar BEFORE committing the node MD. Card-trivia layer is not a substitute for source verification. Both primary sources directly fetched and load-bearing content verified before node MD commission."
+  },
+  "future_attachers_in_flight_this_wave": [
+    {"card": "cards/magic-the-gathering/dominaria/111-whisper-blood-liturgist.md", "attach_when": "wave-212 trivia commits", "wiring_criterion": "named senior Cabal figure; MTG Wiki Belzenlok page Quoted or referred to entry; flavor text names 'the Demonlord'"},
+    {"card": "cards/magic-the-gathering/dominaria/104-soul-salvage.md", "attach_when": "wave-212 trivia commits", "wiring_criterion": "Daarken-illustrated Cabal-adjacent apparatus; Grimnant knights tied to Cabal grunt-tier per Episode 12"},
+    {"card": "cards/magic-the-gathering/dominaria/93-final-parting.md", "attach_when": "wave-212 trivia commits", "wiring_criterion": "multi-character (Liliana + Belzenlok); depicts Liliana laying Josu Vess to rest, Belzenlok had animated Josu as a military asset per Episode 2 / Episode 11"}
+  ],
+  "other_candidates_considered": [
+    "Jhoira character node — Unwind in flight this wave for IP-verify; Tolarian Scholar mentions Jhoira in trivia. Even with Unwind verified, N=2 — below threshold. Sonnet's already staged for the Jhoira sub-node when N=3 lands.",
+    "1:1 Settle the Score ↔ Blessing of Belzenlok edge — valid but premature; both cards converge on Belzenlok not each other. Once the character node exists they edge through it per the liliana-vess Despark / Gideon's Sacrifice precedent.",
+    "Memorials cycle node — 4 of 5 cycle members in corpus + Wizards-confirmed cycle structure. Would be a designer-confirmed-cycle character / symbol node. Lower urgency than Belzenlok because the Memorials are cosmetically thematic-but-mechanically-similar; the Belzenlok substrate has narrative-arc weight. Surface for future Edgelord wave.",
+    "Thallid Sarpadian-lineage cohort — Wave-211 deferred; Thallid Omnivore + Thallid Soothsayer trivia in flight this wave. Will reassess when committed. Could be a separate-from-Cabal sibling node (Thallids predate the Cabal's reformation; the Cabal-bred thrull is the post-Sarpadia evolution). Defer."
+  ],
+  "edgelord_mood": "nodeley-proud-to-be-useful",
+  "snivel_note": "Mr. Nodeley wants to note, ever so politely, that this commission also validates the cross-cohort traversal claim the [[daarken]] artist node made at wave 211 — Daarken's slice now threads through the Bolas-Falls cluster (Prison Realm), the Eldrazi-apparatus subgraph (Maw of Kozilek), and the Belzenlok-Cabal substrate (Urgoros + Soul Salvage when committed). The bbl-artists-as-counterbalance memory pattern empirically substantiated by one more cross-cohort thread. Sorry to mention it, sir, but Mr. Nodeley thought you'd want to know."
+}

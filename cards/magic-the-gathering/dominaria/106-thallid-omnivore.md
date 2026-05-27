@@ -71,3 +71,17 @@ A large bipedal fungal creature stands upright in a dense, lush jungle. Its body
 **Creatures:** thallid, saproling
 **Genre cues:** fantasy, creature-feature
 
+## Trivia
+
+- **Flavor text** — `"Thelon of Havenwood created thallids as a food source in times of darkness. Thallids did the same with saprolings."` `[Scryfall]`. The dark inversion is the point: Thelon bred thallids to be eaten by elves during the Sarpadian ice age; the thallids, having grown sentient, began consuming their own saproling spawn in the same instrumental way. The oracle text's saproling-sacrifice-for-life-gain is the mechanical embodiment of this food-chain echo.
+- **Thelon and the Fallen Empires origin** — Thelon of Havenwood was an elven druid of Sarpadia on Dominaria who created thallids during the ice age that followed the Sylex Blast, using the same biological cultivation method the Order of the Ebon Hand used to create thrulls. The fungus was named from the mycological term "thallus" (the body of a fungus). Thallids initially served as livestock; they grew sentient and violent, eventually overrunning Havenwood in a single day. Their history is documented in the in-universe Sarpadian Empires compendium, Vol. III `[MTGSalvation — "A Brief History of Dominaria's Thallids"; MTG Wiki — Thelon, via WebSearch snippet]`.
+- **Dominaria thallid revival** — Thallids appeared in the original Fallen Empires set (1994) and were mostly absent from Magic for over a decade before receiving a significant tribal revival in Time Spiral (2006), which used Sarpadian retro-flavor as a core design pillar. Dominaria (2018) continued the revival with a small but deliberate fungus-tribal package including Thallid Omnivore, Thallid Soothsayer, Slimefoot the Stowaway, and Sporecrown Thallid `[Scryfall set data; WebSearch snippet — MTGSalvation thallid history]`.
+- **Mechanical note** — Thallid Omnivore is a Pauper-legal 3/3 for 4 that can sacrifice any creature (not just saprolings) for +2/+2; the saproling bonus (2 life) is an upside for dedicated fungus-tribal builds. EDHREC rank 17373 places it firmly in the casual-budget tier of Slimefoot EDH builds `[Scryfall legalities and EDHREC rank]`.
+
+### Related cards
+- Thallid Soothsayer (DOM-107) — sibling thallid in the same set with a sacrifice-to-draw effect
+- Slimefoot, the Stowaway (DOM-205) — the saproling-generating legendary that anchors DOM fungus-tribal
+- Thelon of Havenwood (Time Spiral) — the named druid whose creation this creature-type represents
+- Sporecrown Thallid (DOM-182) — the thallid lord from the same set
+- Thallid (Fallen Empires) — the original 1994 printing that established the creature type
+

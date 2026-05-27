@@ -1,0 +1,42 @@
+{
+  "card_name": "Thallid Soothsayer",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "107",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "'Some of the thallids that escaped into the fens of Urborg began emulating the Cabal's bloodsoaked rituals in their own peculiar way.' This bridges two Dominaria factions: thallid fungus-tribal and the Cabal necromantic cult. The thallids absorbed the surrounding cult's sacrifice-as-devotion framework through behavioral mimicry; their 'rituals' map directly onto the oracle text (sacrifice a creature, draw a card).",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "mechanical",
+      "text": "{2}, Sacrifice a creature: Draw a card — incremental card-advantage engine with no tap requirement, allowing multiple activations per turn. Distinguishes it from Whisper, Blood Liturgist (who must tap). EDHREC rank 13053, above Thallid Omnivore in play frequency; card draw is a higher-demand effect than combat pump.",
+      "sources": ["Scryfall oracle_text", "Scryfall EDHREC rank field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "The flavor text sets these thallids in the fens of Urborg, where Belzenlok's reformed Cabal relocated after the Mending. The thallid population occupies a cultural-overlap zone: fungal creatures absorbing ritual behavior from the dominant cult, mirroring how Thelon originally borrowed biological techniques from the Order of the Ebon Hand to create thallids in the first place. The cycle closes.",
+      "sources": ["Scryfall flavor_text", "WebSearch snippet MTG Wiki: Cabal", "MTGSalvation — A Brief History of Dominaria's Thallids"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Jason A. Engle, a regular Wizards contributor with a portfolio spanning the Modern frame era.",
+      "sources": ["Scryfall artist field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Thallid Omnivore", "set": "Dominaria", "note": "DOM-106 sibling thallid in the same set; sacrifice-for-stats counterpart"},
+    {"name": "Slimefoot, the Stowaway", "set": "Dominaria", "note": "DOM-205 the DOM thallid legendary that generates saproling tokens both fungus cards consume"},
+    {"name": "Demonlord Belzenlok", "set": "Dominaria", "note": "DOM-86 Cabal leader whose rituals the Urborg thallids are described as emulating"},
+    {"name": "Whisper, Blood Liturgist", "set": "Dominaria", "note": "DOM-111 the Cabal priest in the same set; parallel sacrifice culture in Urborg/Cabal context"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -53,6 +53,8 @@ image_quality: high
 mood: horror
 time_of_day: indeterminate
 setting: forest
+characters:
+  - belzenlok
 ---
 
 # Feral Abomination (Dominaria)
@@ -86,4 +88,8 @@ A large, hulking creature occupies most of the frame, hunched low over the root-
 - Stronghold Confessor (Dominaria, 105) — another Cabal-adjacent Urborg creature from the same set
 - Demonlord Belzenlok (Dominaria, 86) — the demon whose Cabal brought "nightmares and thrulls" to Urborg
 - Feral Abomination (Core Set 2020, 101) — reprint with alternate flavor text; same Darek Zabrocki art
+
+## Connections
+
+- [[belzenlok]] — Cabal-apparatus member; the flavor text names the Cabal as the agent of Urborg's displacement ("*Since the Cabal came with their nightmares and thrulls, it's all gone to the worms.* —Mister Lostspoons, Skulltown gossip"). Thrull is the canonical creature-type bred by the Cabal's spiritual predecessors in Sarpadia; Belzenlok's reformed Cabal relocated the apparatus to Urborg in `DOM` and flooded the region with thrulls and dementia-space creatures. The card wires here via the Cabal-as-agent flavor-text criterion. `[MTG Wiki: Cabal; Scryfall: type_line — Creature — Thrull]`
 

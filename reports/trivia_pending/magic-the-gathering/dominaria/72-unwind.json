@@ -1,0 +1,42 @@
+{
+  "card_name": "Unwind",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "72",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Dual-evidence verification: (1) Scryfall flavor_text names '—Jhoira' as speaker. (2) Wizards canonical story confirms Jhoira rebuilt the Weatherlight and captained it during Dominaria; the ship-deck + glowing artifact visual matches her role as an artificer-captain. Jhoira is a Wizards-internal character (no external IP callout required). No jhoira character node currently exists; flagged for future commissioning. Frontmatter updated: ip_verified: false -> true.",
+  "trivia_bullets": [
+    {
+      "category": "design",
+      "text": "Unwind is a direct descendant of Rewind (Urza's Saga, 1998): both counter a spell and untap lands (Rewind untaps four, Unwind untaps up to three; Rewind counters any spell, Unwind counters only noncreature spells). The narrowing reflects modern design philosophy. MTG Color Pie preview article: 'Unwind is a design oddity from the rest of Dominaria; this is a callback to a card, not a story.'",
+      "sources": ["MTG Color Pie — Dominaria Preview: Unwind, 2018-04-05", "Scryfall oracle_text"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'A problem is only a problem if you don't have the tools to correct it.' —Jhoira. The speaker is Jhoira of the Ghitu, a nearly immortal Shivan artificer and Weatherlight Captain. She salvaged and rebuilt the Weatherlight from off the coast of Urborg and assembled the crew that defeated the Cabal. The 'tools' are literal (her artificer craft) and figurative (the refitted Weatherlight).",
+      "sources": ["Scryfall flavor_text", "Wizards of the Coast — Return to Dominaria story series"]
+    },
+    {
+      "category": "mechanical",
+      "text": "EDHREC rank 1056 makes this one of the more-played Dominaria commons in Commander. Its land-untap effect makes it functionally mana-neutral in three-land mana bases, giving blue control decks a pseudo-free counterspell. Pauper-legal.",
+      "sources": ["Scryfall EDHREC rank field", "Scryfall legalities field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Jhoira (Jhoira of the Ghitu in her earlier printing) was the central non-planeswalker protagonist of the Dominaria storyline. Her legendary card Jhoira, Weatherlight Captain (DOM-197) keys off historic spells, encoding her artificer-and-scholar identity.",
+      "sources": ["Wizards of the Coast — Return to Dominaria story series", "Scryfall DOM-197"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Rewind", "set": "Urza's Saga", "note": "Mechanical predecessor; same Xwind naming pattern and land-untap effect"},
+    {"name": "Jhoira, Weatherlight Captain", "set": "Dominaria", "note": "DOM-197 Jhoira's legendary card from the same set"},
+    {"name": "Weatherlight", "set": "Dominaria", "note": "DOM-257 the ship Jhoira rebuilt; legendary artifact in the same set"},
+    {"name": "Negate", "set": "multiple", "note": "Dominant noncreature-only counterspell comparator; Unwind is often evaluated against it"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

@@ -52,6 +52,8 @@ image_quality: high
 mood: action
 time_of_day: indeterminate
 setting: other
+characters:
+  - belzenlok
 ---
 
 # Blessing of Belzenlok (Dominaria)
@@ -87,4 +89,8 @@ A powerfully built, bald humanoid figure strides forward through a chaotic battl
 - Urgoros, the Empty One (Dominaria, 109) — a transformed Cabal servant of Belzenlok in the same set
 - Cabal Paladin (Dominaria, 78) — another Cabal warrior card adjacent to Belzenlok's military arm
 - Cabal Evangel (Dominaria, 79) — named Cabal creature card from the same set showing cult membership
+
+## Connections
+
+- [[belzenlok]] — name-attribution to the Elder Demon directly. Card title names Belzenlok; flavor text quotes the *"Rite of Belzenlok"* liturgical scripture ("My heart is not mine, it is Belzenlok's. All hearts are his, and all blood."), the canonical sacred text of the Cabal under Belzenlok's reign. Martha Wells's "Return to Dominaria: Episode 12" (2018-05-30) names the `Rite of Belzenlok` directly when Liliana sings a satirical version to enrage the demon during the climactic duel. `[MTG Wiki: Belzenlok — Associated cards; Wizards of the Coast: Return to Dominaria: Episode 12]`
 

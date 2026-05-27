@@ -1,0 +1,42 @@
+{
+  "card_name": "Soul Salvage",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "104",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "'The first mistake the Grimnant knights made was bullying the owner of an Urborg corpse shop. Their second mistake was dying.' Deadpan humor: the knights insulted the wrong person and conveniently provided the material for their own comeuppance. 'Urborg corpse shop' implies the swamp-kingdom had an active trade in undead commodities under Cabal rule.",
+      "sources": ["Scryfall flavor_text", "WebSearch snippet MTG Wiki: Urborg"]
+    },
+    {
+      "category": "set-lore",
+      "text": "During Dominaria, Urborg had been partially occupied by the reformed Cabal under Belzenlok; a resistance faction called Free Urborg operated against the Cabal. The corpse shop owner in the flavor text occupies the grey zone: an independent operator in the Cabal's shadow economy.",
+      "sources": ["WebSearch snippet MTG Wiki: Urborg", "Wizards of the Coast Return to Dominaria story series"]
+    },
+    {
+      "category": "design",
+      "text": "Soul Salvage was reprinted in Core Set 2020 (M20-116) and Jumpstart (JMP-280). The Dominaria version's flavor text is unique to DOM; M20 has different flavor text. Pauper-legal and penny-dreadful-legal across all versions.",
+      "sources": ["Scryfall prints search", "Scryfall legalities"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Daarken (Mike Dalton), who maintains a professional portfolio at daarken.com where Soul Salvage is listed among his Magic work. Known for deep blue-black palettes with high-contrast spectral highlights.",
+      "sources": ["Scryfall artist field", "daarken.com — Soul Salvage product listing"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Soul Salvage", "set": "Core Set 2020", "note": "M20-116 reprint with different flavor text; same mechanic"},
+    {"name": "Soul Salvage", "set": "Jumpstart", "note": "JMP-280 reprint"},
+    {"name": "Urborg, Tomb of Yawgmoth", "set": "multiple", "note": "The swamp-plane canonically depicted in the flavor text"},
+    {"name": "Rise from the Grave", "set": "multiple", "note": "Functional cousin returning creature to battlefield rather than hand"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

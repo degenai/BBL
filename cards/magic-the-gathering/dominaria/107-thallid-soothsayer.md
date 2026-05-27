@@ -73,3 +73,16 @@ A large thallid creature dominates the frame. It has a broad, flat mushroom cap 
 **Iconography:** mushroom-cap
 **Genre cues:** fantasy, dark-fantasy, creature-feature
 
+## Trivia
+
+- **Flavor text** — `"Some of the thallids that escaped into the fens of Urborg began emulating the Cabal's bloodsoaked rituals in their own peculiar way."` `[Scryfall]`. This is the canonical evidence for the Cabal-ritual-emulation anchor: thallids in Urborg adopted the surrounding Cabal cult's sacrifice-as-devotion framework, but through the lens of fungal biology — their "rituals" are the sacrifice of living matter to grow and gain knowledge, which happens to map directly onto the card's oracle text (sacrifice a creature, draw a card). The flavor text bridges two of Dominaria's distinct factions (thallid fungus-tribal and the Cabal necromantic cult) through behavioral mimicry.
+- **Mechanical design** — `{2}, Sacrifice a creature: Draw a card` is an incremental card-advantage engine with no tap requirement, making it a repeatable outlet in any sacrifice-based black deck. The no-tap clause distinguishes it from Whisper, Blood Liturgist (who must tap), allowing Soothsayer to activate multiple times per turn at mana cost. EDHREC rank 13053 `[Scryfall EDHREC rank]` puts it above Thallid Omnivore in play frequency, consistent with card draw being a higher-demand effect than combat pump.
+- **Urborg / Cabal intersection** — The flavor text explicitly sets these thallids in the fens of Urborg, the same swamp-plane where Belzenlok relocated the Cabal after the Mending. The thallid population there occupies an ecological/cultural overlap zone: fungal creatures absorbing ritual behavior from the dominant cult, just as Thelon originally absorbed biological techniques from the Order of the Ebon Hand to create thallids in the first place. The cycle closes `[Scryfall flavor_text; WebSearch snippet — MTG Wiki: Cabal; MTGSalvation thallid history]`.
+- **Artist** — Jason A. Engle illustrated this card `[Scryfall]`. Engle is a regular Wizards contributor with a portfolio spanning the Modern frame era; his work on Dominaria includes several black-aligned creatures and spells.
+
+### Related cards
+- Thallid Omnivore (DOM-106) — sibling thallid in the same set; the sacrifice-for-stats counterpart to Soothsayer's sacrifice-for-draw
+- Slimefoot, the Stowaway (DOM-205) — the DOM thallid legendary that generates the saproling tokens both fungus cards consume
+- Demonlord Belzenlok (DOM-86) — the Cabal leader whose rituals the Urborg thallids are described as emulating
+- Whisper, Blood Liturgist (DOM-111) — the Cabal priest in the same set whose sacrifice mechanic runs parallel to the Soothsayer's; the two cards share a flavor-text thematic space (sacrifice culture in Urborg/Cabal context)
+

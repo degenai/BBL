@@ -1,0 +1,48 @@
+{
+  "card_name": "Final Parting",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "93",
+  "task_profile": "ip-priority",
+  "ip_decision": "verify",
+  "ip_outcome_note": "Triple-evidence verification: (1) Scryfall flavor_text names '—Liliana Vess' as speaker; (2) Scryfall API confirms story_spotlight: true and watermark: 'planeswalker'; (3) Wizards official Return to Dominaria: Episode 2 (2018-03-22) confirms the depicted scene is Liliana laying Josu to rest at Vess Manor. Character node cards/_characters/liliana-vess.md already exists; Final Parting should be added to its appears_on list. Frontmatter updated: ip_verified: false -> true.",
+  "trivia_bullets": [
+    {
+      "category": "set-lore",
+      "text": "Final Parting carries Scryfall's story_spotlight: true flag and a planeswalker watermark, placing it in Dominaria's official story-arc card cycle. The depicted scene is Liliana laying her brother Josu to rest at Vess Manor, having accidentally cursed him with undeath centuries earlier. Dramatized in 'Return to Dominaria: Episode 2' (magic.wizards.com, 2018-03-22).",
+      "sources": ["Scryfall story_spotlight field", "Wizards of the Coast — Return to Dominaria: Episode 2"]
+    },
+    {
+      "category": "flavor-text",
+      "text": "'Sleep now, brother. That is the one gift I can give you.' —Liliana Vess. Addressed to Josu Vess, her lich-lord brother. Josu's dying words blamed Liliana for the deaths of their family; Hipsters of the Coast identifies this as Liliana's narrative rock bottom — the first time she fully accepts accountability for the accident that sparked her planeswalker ignition.",
+      "sources": ["Scryfall flavor_text", "Hipsters of the Coast — 'Liliana's Demons', 2018-06"]
+    },
+    {
+      "category": "design",
+      "text": "The tutor mechanic mirrors the narrative beat: one card to hand (a gift delivered), one card to graveyard (a cost incurred). MTGSalvation preview article described this as 'a functional and flavor win.'",
+      "sources": ["MTGSalvation — Dominaria Preview: Final Parting"]
+    },
+    {
+      "category": "design",
+      "text": "Illustrated by Eric Deschamps. Deschamps is a recurring Wizards collaborator known for planeswalker art across the Modern frame era.",
+      "sources": ["Scryfall artist field"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Dominaria (DOM, released 2018-04-27) was written by Martha Wells and centered on the Weatherlight crew defeating Demonlord Belzenlok. Liliana's arc culminated in killing Belzenlok using the Blackblade, freeing her from three of four demonic contracts. The Josu confrontation precedes that climax.",
+      "sources": ["Scryfall set data", "Wizards of the Coast — Return to Dominaria story series"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Liliana's Mastery", "set": "Dominaria", "note": "Liliana named spell from the same set, thematically adjacent to the DOM arc"},
+    {"name": "Settle the Score", "set": "Dominaria", "note": "DOM-103 Liliana-planeswalker flavor card in the same set"},
+    {"name": "Josu Vess, Lich Knight", "set": "Dominaria", "note": "DOM-101 canonical card for Liliana's brother; the figure Final Parting's flavor text addresses"},
+    {"name": "The Chain Veil", "set": "Magic 2012 / Magic 2015", "note": "Liliana's signature artifact used to free Josu in the depicted scene"},
+    {"name": "Rite of Belzenlok", "set": "Dominaria", "note": "Cabal ritual card tied to Belzenlok's power over Josu"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "true",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

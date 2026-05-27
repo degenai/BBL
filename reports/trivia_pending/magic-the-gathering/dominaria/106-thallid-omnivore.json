@@ -1,0 +1,43 @@
+{
+  "card_name": "Thallid Omnivore",
+  "game": "Magic: The Gathering",
+  "set": "Dominaria",
+  "collector_number": "106",
+  "task_profile": "general",
+  "ip_decision": "n/a",
+  "ip_outcome_note": "",
+  "trivia_bullets": [
+    {
+      "category": "flavor-text",
+      "text": "'Thelon of Havenwood created thallids as a food source in times of darkness. Thallids did the same with saprolings.' Dark inversion: Thelon bred thallids to be eaten by elves during the Sarpadian ice age; the thallids, having grown sentient, began consuming their own saproling spawn in the same instrumental way. The oracle text's saproling-sacrifice-for-life-gain is the mechanical embodiment of this food-chain echo.",
+      "sources": ["Scryfall flavor_text"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Thelon of Havenwood was an elven druid of Sarpadia who created thallids during the ice age following the Sylex Blast, using biological cultivation methods similar to those the Order of the Ebon Hand used to create thrulls. The fungus was named from the mycological term 'thallus.' Thallids grew sentient and violent, eventually overrunning Havenwood in a single day. Documented in the in-universe Sarpadian Empires compendium, Vol. III.",
+      "sources": ["MTGSalvation — A Brief History of Dominaria's Thallids", "MTG Wiki — Thelon, via WebSearch snippet"]
+    },
+    {
+      "category": "set-lore",
+      "text": "Thallids appeared in Fallen Empires (1994) and were largely absent from Magic for over a decade before revival in Time Spiral (2006). Dominaria (2018) continued the revival with a deliberate fungus-tribal package: Thallid Omnivore, Thallid Soothsayer, Slimefoot the Stowaway, and Sporecrown Thallid.",
+      "sources": ["Scryfall set data", "WebSearch snippet MTGSalvation thallid history"]
+    },
+    {
+      "category": "mechanical",
+      "text": "Pauper-legal 3/3 for 4 that sacrifices any creature for +2/+2; saproling sacrifice adds 2 life as a tribal upside. EDHREC rank 17373 places it in the casual-budget tier of Slimefoot EDH builds.",
+      "sources": ["Scryfall legalities", "Scryfall EDHREC rank field"]
+    }
+  ],
+  "related_cards": [
+    {"name": "Thallid Soothsayer", "set": "Dominaria", "note": "DOM-107 sibling thallid with sacrifice-to-draw effect"},
+    {"name": "Slimefoot, the Stowaway", "set": "Dominaria", "note": "DOM-205 saproling-generating legendary that anchors DOM fungus-tribal"},
+    {"name": "Thelon of Havenwood", "set": "Time Spiral", "note": "Named druid whose creation this creature-type represents"},
+    {"name": "Sporecrown Thallid", "set": "Dominaria", "note": "DOM-182 the thallid lord from the same set"},
+    {"name": "Thallid", "set": "Fallen Empires", "note": "The original 1994 printing that established the creature type"}
+  ],
+  "frontmatter_updates": {
+    "ip_verified": "unchanged",
+    "suspected_ip": "unchanged",
+    "ip_confidence": "unchanged"
+  }
+}

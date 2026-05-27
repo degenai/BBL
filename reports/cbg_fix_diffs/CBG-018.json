@@ -1,0 +1,71 @@
+{
+  "slug": "CBG-018",
+  "surfaced_by": "Comic Book Guy free-walk (sixth dispatch)",
+  "surfaced_date": "2026-05-26",
+  "headline": "7 cards in cards/ carry orphan archived_on: stamps from wrongful-archival restoration (6 known from token-collision incident 2026-05-26 + 1 earlier-collision-prior-art Ignite the Beacon WAR-18 from 2026-05-23)",
+  "severity": "note",
+  "category": "schema-hygiene-aftermath",
+  "summary": "After the token-collision csv2mdbot bug (commit 4b570142) wrongly archived 6 enriched MTG cards on 2026-05-26 and they were restored from archive/ during the fix-and-recovery pass, the archived_on: 2026-05-26 frontmatter stamp survived on each card. Restoration moved the file back to cards/ but did not strip the cruft field. A seventh card — Ignite the Beacon WAR-18 — carries archived_on: 2026-05-23, evidence that the token-collision pathology fired in the 2026-05-23 ingest as well (which the run-history log corroborates: that run reported z=1 a=1, one card zeroed and archived; WAR-18 collides with WAR-18 Servo Token in the canonical printing). Archive/ currently holds only 2 unrelated files (MKM-249 Hustle&Bustle + MKM-250 Push&Pull); the 7 archived_on-stamped files in cards/ are all live, not archive shadows.",
+  "evidence": {
+    "affected_cards": [
+      "cards/magic-the-gathering/core-set-2021/6-baneslayer-angel.md",
+      "cards/magic-the-gathering/core-set-2021/12-concordia-pegasus.md",
+      "cards/magic-the-gathering/core-set-2021/16-dub.md",
+      "cards/magic-the-gathering/theros-beyond-death/2-archon-of-falling-stars.md",
+      "cards/magic-the-gathering/throne-of-eldraine/3-archon-of-absolution.md",
+      "cards/magic-the-gathering/commander-legends/8-anointer-of-valor.md",
+      "cards/magic-the-gathering/war-of-the-spark/18-ignite-the-beacon.md"
+    ],
+    "archived_on_values": {
+      "baneslayer-angel": "2026-05-26",
+      "concordia-pegasus": "2026-05-26",
+      "dub": "2026-05-26",
+      "archon-of-falling-stars": "2026-05-26",
+      "archon-of-absolution": "2026-05-26",
+      "anointer-of-valor": "2026-05-26",
+      "ignite-the-beacon": "2026-05-23"
+    },
+    "run_history_corroboration": {
+      "2026-05-23 22:51:16": "singles[c=157 u=2703 z=1 a=1 k=2860] — ONE card zeroed+archived (matches Ignite the Beacon archived_on: 2026-05-23)",
+      "2026-05-26 23:17:11": "singles[c=160 u=2854 z=6 a=6 k=3014] — SIX cards zeroed+archived (matches the 6 known restored cards' archived_on: 2026-05-26)",
+      "2026-05-26 23:25:02": "singles[c=41 u=3020 z=0 a=0 k=0] — zero zeroed (post-fix re-run; correct)"
+    },
+    "ignite_the_beacon_collision_pair": "WAR-18 Ignite the Beacon (the parent card) collides with WAR-18 Servo Token (same set, same collector_number, different name) — classic token-collision shape per the commit-message bug description. Servo Token file exists at cards/magic-the-gathering/war-of-the-spark/18-servo-token.md (date_added 2026-05-27, landed in the patched re-run as one of the 41 net-new cards). Token-collision pre-dated the 5-26 incident by 3 days; the same bug fired silently."
+  },
+  "fix": {
+    "approach": "Strip the archived_on: line from all 7 frontmatters. The field's semantic is 'this card has been archived'; for live cards in cards/, it is meaningless cruft. Preserve all other fields untouched.",
+    "edits": [
+      {
+        "file": "cards/magic-the-gathering/core-set-2021/6-baneslayer-angel.md",
+        "delete_line": "archived_on: 2026-05-26"
+      },
+      {
+        "file": "cards/magic-the-gathering/core-set-2021/12-concordia-pegasus.md",
+        "delete_line": "archived_on: 2026-05-26"
+      },
+      {
+        "file": "cards/magic-the-gathering/core-set-2021/16-dub.md",
+        "delete_line": "archived_on: 2026-05-26"
+      },
+      {
+        "file": "cards/magic-the-gathering/theros-beyond-death/2-archon-of-falling-stars.md",
+        "delete_line": "archived_on: 2026-05-26"
+      },
+      {
+        "file": "cards/magic-the-gathering/throne-of-eldraine/3-archon-of-absolution.md",
+        "delete_line": "archived_on: 2026-05-26"
+      },
+      {
+        "file": "cards/magic-the-gathering/commander-legends/8-anointer-of-valor.md",
+        "delete_line": "archived_on: 2026-05-26"
+      },
+      {
+        "file": "cards/magic-the-gathering/war-of-the-spark/18-ignite-the-beacon.md",
+        "delete_line": "archived_on: 2026-05-23"
+      }
+    ]
+  },
+  "source_side_prevention": "csv2mdbot.py's restore-from-archive path (whether manual restoration or future automated recovery) should strip archived_on: as part of the move-back-to-cards/ operation. Alternative source patch: the post-aggregation sweep that flips needs_manual_review or zeros a card on archival should be the same step that, on un-archival, clears the archived_on field. Without source patch, future token-collision recovery (or any manual restoration) recreates the orphan.",
+  "neighbor_spotcheck": "Confirmed archive/ holds only 2 unrelated files (MKM-249 Hustle&Bustle, MKM-250 Push&Pull) — no duplicates of the 7 cited files in archive/. Confirmed all 7 cited files are full-frontmatter live cards with current last_seen and market_price_as_of stamps. Cross-checked Scryfall canonical token-collision pairs from the commit message (CMR-8, M21-6, M21-12, M21-16, THB-2, ELD-3) — all 6 token-side files now exist as separate cards/ entries with date_added 2026-05-27 (the day-after-fix ingest), confirming the patched unique_key() now correctly splits parent-card and token-card files. The 41 net-new cards' silent-loss pattern: I spot-checked for an ELD-2 All-That-Glitters orphan (collides with ELD-2 Human Token) — neither in archive/ nor in CSV — so Alex doesn't own it, not a silent-loss casualty.",
+  "isolation_check": "Pattern is isolated to the restoration aftermath; no other cards corpus-wide carry archived_on: outside the 7 cited files. Future-watch: any subsequent token-collision recovery pass should sweep for archived_on: residue."
+}

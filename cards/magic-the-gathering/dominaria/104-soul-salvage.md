@@ -73,3 +73,16 @@ Two heavily armored figures stand in a dim, murky space, both enveloped in wisps
 **Iconography:** spectral-energy, glowing-eye
 **Genre cues:** fantasy, dark-fantasy, necromancy
 
+## Trivia
+
+- **Flavor text** — `"The first mistake the Grimnant knights made was bullying the owner of an Urborg corpse shop. Their second mistake was dying."` `[Scryfall]`. The humor is deadpan: the knights insulted the wrong person, then conveniently provided the material for their own comeuppance. The "Grimnant knights" are an unnamed Dominaria military faction; "Urborg corpse shop" implies the swamp-kingdom of Urborg had an active trade in undead commodities under Cabal rule, with shop owners possessing practical reanimation capability `[WebSearch snippet — MTG Wiki: Urborg]`.
+- **Urborg context** — During the Dominaria storyline, Urborg had been partially occupied by the reformed Cabal under Belzenlok, who relocated the organization from Otaria following the Mending. A resistance faction called Free Urborg operated against the Cabal's presence. The corpse shop owner in the flavor text occupies the grey zone: an independent operator in the Cabal's shadow economy, not affiliated with either Free Urborg or the Cabal proper `[WebSearch snippet — MTG Wiki: Urborg; Wizards of the Coast Return to Dominaria story series]`.
+- **Reprint history** — Soul Salvage was reprinted in Core Set 2020 (M20-116) and Jumpstart (JMP-280), both with the same oracle text and a different flavor text in M20. The Dominaria version's flavor text is unique to DOM `[Scryfall prints search]`.
+- **Artist** — Daarken illustrated this card `[Scryfall]`. Daarken (Mike Dalton) maintains a professional portfolio site at daarken.com which lists Soul Salvage among his Magic work. He is a prolific Magic illustrator known for dark-fantasy creature and character work; his style — deep blue-black palettes with high-contrast spectral highlights — is visible here.
+
+### Related cards
+- Soul Salvage (M20-116) — reprint with different flavor text; same mechanic
+- Soul Salvage (JMP-280) — Jumpstart reprint
+- Urborg, Tomb of Yawgmoth (multiple sets) — the swamp-plane canonically depicted in the flavor text
+- Rise from the Grave (multiple sets) — functional cousin (returns to battlefield rather than hand) in the same DOM black package
+

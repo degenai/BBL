@@ -57,6 +57,8 @@ subject_known_ip: true
 suspected_ip: Urgoros
 ip_confidence: high
 ip_verified: true
+characters:
+  - belzenlok
 ---
 
 # Urgoros, the Empty One (Dominaria)
@@ -96,4 +98,8 @@ A towering winged figure dominates the frame against a stormy, ochre-tinged sky.
 - Josu Vess, Lich Knight (Dominaria, 97) — another servant of Belzenlok in the same set transformed by dark power
 - Whisper, Blood Liturgist (Dominaria, 113) — named Cabal agent appearing in the same Episode 12 story as Urgoros
 - Urgoros, the Empty One (Dominaria Promos, 109s) — prerelease foil alternate printing, same Daarken art
+
+## Connections
+
+- [[belzenlok]] — named direct servant of the Elder Demon; when demonlord Belzenlok bestowed his dark "blessings" on his followers, Urgoros's body was siphoned into dementia space while his spirit fused into his armor — he then served as the second defense against the Skyship Weatherlight's assault on the `Cabal Stronghold` and vanished when Belzenlok was slain. Martha Wells's "Return to Dominaria: Episode 12" (2018-05-30) names Urgoros directly in prose ("*Urgoros was a hungry emptiness, growing closer*"), and the MTG Wiki Belzenlok page lists Urgoros's Episode 12 appearance in the character's story-appearance ledger. `[MTG Wiki: Urgoros; MTG Wiki: Belzenlok — Story appearances; Wizards of the Coast: Return to Dominaria: Episode 12]`
 
