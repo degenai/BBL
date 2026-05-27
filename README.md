@@ -310,18 +310,19 @@ The pattern: **writers get the keys to wikilintbot; watchers do not.** csv2mdbot
 
 ---
 
-## Status snapshot (2026-05-26)
+## Status snapshot (2026-05-27)
 
-- **2,860** active card MDs · **2,415 vision-passed** (84%, by `## Vision` body section) · **1,253 trivia-passed** (44%).
-  - MTG: **1,310 cards** · **1,187 vision** (91%) · **656 trivia** (50%) — trivia frontier still live; vision approaching saturation
-  - Pokemon: **1,020 cards** · **822 vision** (81%) · **244 trivia** — both vision and trivia have runway
-  - DBS: **241 / 241** vision · **241** trivia — 100%, the finished game
+- **3,032** active card MDs · **2,474 vision-passed** (82%, by `## Vision` body section) · **1,314 trivia-passed** (43%). Corpus grew +172 cards this session via Collectr CSV intake.
+  - MTG: **1,460 cards** · **1,238 vision** (85%) · **711 trivia** (49%) — trivia frontier alive; vision % nudged down from set-expansion
+  - Pokemon: **1,070 cards** · **830 vision** (78%) · **250 trivia** — both runways active
+  - DBS: **241 / 241** vision · **241** trivia — 100%, finished game
   - Final Fantasy TCG: **64 / 64** vision · **60** trivia — vision-complete
   - Lorcana: **40 / 40** vision · **40** trivia — 100% complete
-  - Weiss-Schwarz: **61 / 156** vision (39%) · **12** trivia — early
-  - Force of Will: **29** prepped, **0** enriched — not yet scanned, low priority
-- **Active enrichment frontier:** MTG trivia (~531 vision-passed without trivia) and Pokemon (~198 await vision, ~578 await trivia). Cadence: 3–5 vision + 3–5 trivia + 1 Edgelord per wave (waves 196–202 since last snapshot; wave 195 was an architectural surface, not a card-enrichment wave).
-- **Character nodes: 112** (m21-dog-tribal added wave 202 — designer-confirmed M21 Hound→Dog rename cohort, Rosewater article as canonical source; Mr. Nodeley Option-C dispatch caught the cluster the parent's M21-backlog future-watch had only framed speculatively) · **Symbol nodes: 10** · **Artist nodes: 12** · **Hubs: 6** (labor, rebellion, stewardship, chinese-zodiac, tsukumogami, `_triple-thesis.md` meta-doc).
+  - Weiss-Schwarz: **61 / 157** vision (39%) · **12** trivia — early
+  - Force of Will: **29** prepped, **0** enriched — low priority
+- **Active enrichment frontier:** MTG trivia (~527 vision-passed without trivia) and Pokemon (~240 await vision, ~580 await trivia). Cadence this session: 3–12 vision + 3–12 trivia + 1 Edgelord + 1 CBG per wave (waves 203–213 since last snapshot; wave 213 was a full-swarm 8-agent close).
+- **Character nodes: 116** · **Symbol nodes: 11** (constellation, wave 207) · **Artist nodes: 15** (zoltan-boros wave 209, forrest-imel wave 210, daarken wave 211 — densest-art-cluster discipline now load-bearing) · **Hubs: 6** (labor, rebellion, stewardship, chinese-zodiac, tsukumogami, `_triple-thesis.md` meta-doc).
+- **Mr. Nodeley pantheon expansion** — Erebos (wave 203) + Heliod (wave 204) + Belzenlok (wave 212) + thallid-lineage (wave 213) joined the character layer. Three pantheon sub-nodes spec-amendment-compliant: WebFetch-verified designer-source citations captured in their commission sidecars per the 2d22fcb6 spec (CBG-009 + CBG-012 + CBG-016 anti-pattern prophylaxis).
 - **Discrete Lairs shipped:** 1 — **Discrete Lair 001: Tithe**.
 - **Subagents shipped:** **5** — `bbl-researcher`, `bbl-triviabot` (extended this session with **orphan-mirror task profile** under Opus override), `bbl-edgelord` (with Mr. Nodeley + DARK NODESLEY EX alters; **3-sided edge discipline encoded this session**), `bbl-nurse-joy-md`, `bbl-bundler` (half-strength).
 - **The Orphanage — FULLY CLOSED (2026-05-25):** corpus-wide one-sided cohort-edge cleanup architecture. `bbl_orphan_count.py` is the manifest+richness-tier counter. **556 → 0 orphans across 9 sweeps + pilot + 3 augments + 1 Mr. Nodeley node-creation — 100%.** First time the corpus is fully wired at the orphan-edge level. Wave-195 surfaced a systematic wikilink-scope-shift failure mode (3 regressions in sweep #9 batch A — `[[rebellion]]` propagation, snipped-edge resurrection, sibling-cross-link generation); spec amended + memory written (`bbl-wikilink-scope-shift`); rule held cleanly across remaining 23 dispatches.
@@ -333,7 +334,28 @@ The pattern: **writers get the keys to wikilintbot; watchers do not.** csv2mdbot
 
 **Pick up here without reconstructing anything from git log.**
 
-**1. Working tree is clean.** Last 3 commits: `2aee4776` (waves 201+202 + catch-up flush), `6453b57a` (wave 200 Eldrazi cohort rebuild), `27d037c0` (wave 199 Sonnet-override body-drift triage). Power-death mid-wave-201 was clean (no half-applied files); resume reconstructed wave-201 from sidecars + dispatched wave-202 trivia/Edgelord fresh. Only untracked: two stray `Gemini_Generated_Image_*.png` thumbnail-composer experiments at repo root — intentionally excluded per `bbl-no-ai-slop-thumbnails`.
+**1. Working tree clean except 2 stray PNGs at root.** Last 5 commits: `54c2658a` (wave 213 full swarm, 12v + 12t + thallid-lineage + CBG round 7), `38933991` (wave 212 + belzenlok node), `4b570142` (CSV intake + csv2mdbot token-collision fix), `a45c6255` (wave 211 + daarken node), `2d22fcb6` (Mr. Nodeley WebFetch spec amendment). Big session: 11 waves shipped (203–213), 1 source-side bug fix (csv2mdbot token-collision), 4 new layer nodes (3 artists + erebos + heliod + belzenlok + thallid-lineage + constellation symbol), 1 wiki-side push (Matt-mirror frame + ai-economics + secondary-crystal pages + index.md retirement).
+
+**2. THE BUG OF THE WEEK — csv2mdbot token-collision (fix shipped in `4b570142`):** Collectr CSV exports include token rows that share collector-number space with parent-set cards (CMR-8 Anointer of Valor ↔ CMR-8 Elf Warrior Token, M21-6 Baneslayer Angel ↔ M21-6 Demon Token). The bug aggregated them to one key, wrongly archived 7 cards over ~1 week (Baneslayer M21-6, 5 others wave-211, Ignite the Beacon WAR-18 from 4 days earlier). Fix: `unique_key()` now includes `COL_NAME` + new `--allow-archive` guard (default = list zero-candidates, require human re-run with the flag). Memory: `bbl-csv2mdbot-token-collision`. **Next CSV ingests need `--allow-archive` to actually archive; without the flag, csv2mdbot lists candidates only.**
+
+**3. CBG-007 / CBG round 7 catch worth surfacing now:** `liliana-vess.md` line 62 four-demon-arc paragraph has FOUR stacked canon-falsifiable errors (CBG-022). Wrong contract chronology, wrong Griselbrand context, wrong Razaketh killer (corpus says Bolas; canonical Wizards "Feast" 2017-06-14 says Liliana with necromancy-raised Luxa crocodiles), wrong Bolas-binding timing. Fix-diff sidecar at `reports/cbg_fix_diffs/CBG-022.json` is the highest-density single paragraph rigor-catch in seven CBG dispatches. Next-pass priority.
+
+**4. CBG fix-diff queue staged but NOT yet applied (14 sidecars):** CBG-011 through CBG-024 sit in `reports/cbg_fix_diffs/`. CBG-001 through CBG-010 are CLOSED. The fix-diff workflow is empirically validated — apply-cost dropped from "re-walk diagnosis" to "git apply + verify." Next session should plan an integration round: apply the 14 sidecars in batch, mark triage entries done, commit. Standard pattern is "run 1-2 waves, then 1 integration round, then resume."
+
+**5. Mr. Nodeley WebFetch spec amendment (commit `2d22fcb6`) has fired 3 clean waves running.** Daarken (wave 211), Belzenlok (wave 212), thallid-lineage (wave 213) all commissioned with WebFetch-or-Puppeteer-verified designer-source receipts captured in their sidecars. The anti-pattern that surfaced as CBG-009 / CBG-012 / CBG-016 (fabricated Rosewater/Stoddard verbatim phrases imported from card trivia into layer-node bodies) is now PROPHYLACTICALLY blocked at commission time. Old corpus drift remains — that's what the CBG fix-diff queue is for.
+
+**6. Two big rule-outs from wave 213 worth carrying forward:**
+- Dog Umbra (MH3-22) is NOT a Dog creature subtype; it's an Enchantment-Aura with "Dog" only in the name. m21-dog-tribal cohort does NOT get this expansion. Triviabot caught it.
+- Bespoke Battlewagon (MH3-52) is SOLO Boros, not Boros-Szikszai duo. Wave-209 sidecar flagged it for the gabor-szikszai.md future node — that flag was wrong; do not include Bespoke Battlewagon in a future Szikszai node's appears_on.
+
+**7. Staged Sonnet work (Sonnet-shape, NOT Edgelord/Mr. Nodeley):**
+- 3 belzenlok attaches pending: Whisper Blood Liturgist DOM-111, Soul Salvage DOM-104, Final Parting DOM-93 (all trivia-passed wave 212)
+- 3 thallid-lineage future-attaches pending trivia: Tukatongue Thallid MM2-167, Sarpadian Simulacrum MH3-135, Fungal Infection DOM-94
+- liliana-vess.md `appears_on:` extension with Final Parting (per wave-212 trivia handoff)
+- Athreos sub-node when N=2 → N=3 (no progress this session)
+- Snapping Voidcraw + Twisted Riddlekeeper + Coatl + Wumpus symmetric Connections bullets
+- gabor-szikszai.md artist node (4 solo + 2 duo credits per wave-209 stage; but verify each via Scryfall artist field per CBG-024 discipline — Bespoke Battlewagon is OUT)
+- Rambunctious Mutt 30.md line 86 upstream Rosewater-fabrication trivia cleanup (CBG-009 upstream)
 
 **2. One active frontier: normal enrichment.** Orphanage stays closed. Wave shape: 3–5 vision + 3–5 trivia + 1 Edgelord per `bbl-agent-batching-pattern`. Priority queues:
 - MTG trivia: ~531 cards vision-passed but no trivia — biggest frontier.
